@@ -1,8 +1,6 @@
 Word|Pronunciation|Translation|Audio
--|-|-|-|-|-|-|-|-
-sprechen|[ˈʃpʁɛçn̩]|speak|<audio controls>  
-<source src="https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3"  type="audio/mp3">  
-</audio>
+-|-|-|-|-
+sprechen|[ˈʃpʁɛçn̩]|speak|<audio controls><source src="https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3" type="audio/mp3"></audio>
 lernen|[ˈlɛʁnən]|learn
 spielen|[ˈʃpiːlən]|play
 hören|[ˈhøːʁən]|hear/listen
@@ -11,5 +9,5 @@ kochen|[ˈkɔxn̩]|cook
 leben|[ˈleːbn̩]|live
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTIzMDMyLDE1Nzc0MTAyMTldfQ==
+eyJoaXN0b3J5IjpbMTU2MTYyNDM5MiwxNTc3NDEwMjE5XX0=
 -->
