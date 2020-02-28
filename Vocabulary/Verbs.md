@@ -8,10 +8,11 @@ tanzen|[ˈtant͡sn̩]|
 kochen|[ˈkɔxn̩]|cook
 leben|[ˈleːbn̩]|live
 
+Markdown converts text to HTML.
 
-*[HTML]: Good.
+*[HTML]: HyperText Markup Language
 
 <audio controls><source src="https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3" type="audio/mp3"></audio>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjEyMDEyMywxNTc3NDEwMjE5XX0=
+eyJoaXN0b3J5IjpbNTc1NTk1NzEzLDE1Nzc0MTAyMTldfQ==
 -->
