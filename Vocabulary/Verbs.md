@@ -8,7 +8,10 @@ tanzen|[ˈtant͡sn̩]|
 kochen|[ˈkɔxn̩]|cook
 leben|[ˈleːbn̩]|live
 
-<audio controls><source src="https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3" type="audio/mp3"></audio>
+
+Text[^1]
+
+[^1]: <audio controls><source src="https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3" type="audio/mp3"></audio>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAwODQxODcsMTU3NzQxMDIxOV19
+eyJoaXN0b3J5IjpbLTE0NzUyMjg0MTgsMTU3NzQxMDIxOV19
 -->
