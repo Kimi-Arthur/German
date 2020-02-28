@@ -1,13 +1,13 @@
-Word|Pronunciation|Translation|ich|du|er/sie/es|wir|ihr|sie/Sie
--|-|-|-|-|-|-|-|-
-sprechen|[ˈʃpʁɛçn̩]|speak|spreche|sprichst|spricht||sprecht|
+Word|Pronunciation|Translation|Audio
+-|-|-|-
+sprechen|[ˈʃpʁɛçn̩]|speak|
 lernen|[ˈlɛʁnən]|learn
 spielen|[ˈʃpiːlən]|play
 hören|[ˈhøːʁən]|hear/listen
-tanzen|[ˈtant͡sn̩]|dance|tanze|tanzt|tanzt
+tanzen|[ˈtant͡sn̩]|dance
 kochen|[ˈkɔxn̩]|cook
 leben|[ˈleːbn̩]|live
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM5OTYzMjNdfQ==
+eyJoaXN0b3J5IjpbMTU3NzQxMDIxOV19
 -->
