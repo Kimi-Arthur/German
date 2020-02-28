@@ -1,14 +1,15 @@
 Word|Pronunciation|Translation|Audio
-ich|du|er/sie/es|wir|ihr|sie/Sie
 -|-|-|-|-|-|-|-|-
-sprechen|[ˈʃpʁɛçn̩]|speak|spreche|sprichst|spricht||sprecht|
+sprechen|[ˈʃpʁɛçn̩]|speak|<audio controls>  
+<source src="https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3"  type="audio/mp3">  
+</audio>
 lernen|[ˈlɛʁnən]|learn
 spielen|[ˈʃpiːlən]|play
 hören|[ˈhøːʁən]|hear/listen
-tanzen|[ˈtant͡sn̩]|dance|tanze|tanzt|tanzt
+tanzen|[ˈtant͡sn̩]|
 kochen|[ˈkɔxn̩]|cook
 leben|[ˈleːbn̩]|live
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjA5NTU3NywxNTc3NDEwMjE5XX0=
+eyJoaXN0b3J5IjpbMTA1MTIzMDMyLDE1Nzc0MTAyMTldfQ==
 -->
