@@ -1,9 +1,6 @@
-Word|Pronunciation|Meaning
--|-|-
-sprechen|[\[ˈʃpʁɛçn̩\]](https://cdn.duden.de/_media_/audio/ID4113087_120708383.mp3)|speak|
-lernen|[ˈlɛʁnən]|learn
-spielen|[ˈʃpiːlən]|play
-hören|[ˈhøːʁən]|hear/listen
-tanzen|[ˈtant͡sn̩]|
-kochen|[ˈkɔxn̩]|cook
-leben|[ˈleːbn̩]|live
+# Verbs
+
+| Word | Pronunciation | Meaning | Indicative Present |
+| ---- | ------------- | ------- | ------------------ |
+|      |               |         |                    |
+
