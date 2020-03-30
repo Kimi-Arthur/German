@@ -2,14 +2,14 @@
 
 ## Inflection
 
-| Person    | Indicative Present | Indicative Past |
-| --------- | ------------------ | --------------- |
-| ich       | möchte             |                 |
-| du        | möchtest           |                 |
-| er/sie/es | möchte             |                 |
-| wir       | möchten            |                 |
-| ihr       | möchtet            |                 |
-| sie/Sie   | möchten            |                 |
+| Person    | Indicative Present                      | Indicative Past |
+| --------- | --------------------------------------- | --------------- |
+| ich       | möcht<span class="ich-suffix">e</span>  |                 |
+| du        | möcht<span class="du-suffix">est</span> |                 |
+| er/sie/es | möcht<span class="ich-suffix">e</span>  |                 |
+| wir       | möcht<span class="wir-suffix">en</span> |                 |
+| ihr       | möcht<span class="ihr-suffix">et</span> |                 |
+| sie/Sie   | möcht<span class="wir-suffix">en</span> |                 |
 
 ## Pronunciation [ˈmœçtn̩]
 
@@ -27,3 +27,5 @@
 | Example                              | Meaning                                 |
 | ------------------------------------ | --------------------------------------- |
 | Das Kind **möchte** ein Eis (essen). | The kid **would like** (to eat) an ice. |
+
+<link rel="stylesheet" href="../../styles.css">

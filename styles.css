@@ -1,0 +1,32 @@
+@import "Styles/misty-light-macos.css"; 
+
+
+.ich-suffix {
+	color: green;
+	font-weight: bold
+}
+
+.du-suffix {
+	color: blue;
+	font-weight: bold
+}
+
+.er-suffix {
+	color: orange;
+	font-weight: bold
+}
+
+.wir-suffix {
+	color: grey;
+	font-weight: bold
+}
+
+.ihr-suffix {
+	color: purple;
+	font-weight: bold
+}
+
+.sie-suffix {
+	color: red;
+	font-weight: bold
+}
