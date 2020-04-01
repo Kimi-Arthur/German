@@ -24,8 +24,10 @@
 
 ### would like
 
-| Example                              | Meaning                                 |
-| ------------------------------------ | --------------------------------------- |
-| Das Kind **möchte** ein Eis (essen). | The kid **would like** (to eat) an ice. |
+| Example                                     | Meaning                                 |
+| ------------------------------------------- | --------------------------------------- |
+| Das Kind **möchte** ein Eis (essen).        | The kid **would like** (to eat) an ice. |
+| Möchtest du auch einen Kaffee?              |                                         |
+| Im Sommer möchten wir gern ans Meer fahren. |                                         |
 
 <link rel="stylesheet" href="../../styles.css">
