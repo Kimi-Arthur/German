@@ -1,5 +1,9 @@
 @import "Styles/misty-light-macos.css"; 
 
+table {
+    width: 100% !important;
+    table-layout: fixed !important;
+}
 
 .ich-suffix {
 	color: green;
