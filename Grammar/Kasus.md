@@ -2,6 +2,8 @@
 
 ## Summary
 
+To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct object</rt></ruby> and <ruby>Indirektes Objekt<rt>indirect object</rt></ruby> of the sentence.
+
 | Case      | Funktion im Satz  | Question      | Examples                                                     |
 | --------- | ----------------- | ------------- | ------------------------------------------------------------ |
 | Nominativ | Subjekt           | **wer** / was | Der Mann beißt den Hund.<br />Wer beißt den Hund? Der Mann.  |
