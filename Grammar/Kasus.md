@@ -62,3 +62,4 @@ To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct
 | negativer   | kein**em**     | kein**er**    | kein**em**    | kein**en**   |
 | possessiv   | mein**em**     | mein**er**    | mein**em**    | mein**en**   |
 
+> If the noun's plural ends with **-r** or **-e**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**.
