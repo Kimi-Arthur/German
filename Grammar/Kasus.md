@@ -32,6 +32,12 @@ To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct
 | Want Akkusativ **für**                           | Akkusativ | Das ist ein Buch für **ihn**. |
 | Want Dativ: **zu** / **von** / **mit** / **bei** | Dativ     | Ich spiele mit **ihm**.       |
 
+4. Movement
+
+Wo = Dativ
+
+Wohin = Akkusativ
+
 ## <ruby>Artikeldeklinationen<rt>Article Transformations</rt></ruby>
 
 ### Nominativ
@@ -63,3 +69,5 @@ To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct
 | possessiv   | mein**em**     | mein**er**    | mein**em**    | mein**en**   |
 
 > If the noun's plural ends with **-r** or **-e**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**.
+
+
