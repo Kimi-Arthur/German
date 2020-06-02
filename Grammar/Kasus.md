@@ -27,16 +27,25 @@ To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct
 | Want Dativ: **helfen**, **gefallen**                         | Dativ     | Ich helfe **dir**.    |
 
 3. <ruby>Präpositionen<rt>preposition</rt></ruby>
+
+Some prepositions always one case or another
+
 | Type                                             | Choice    | Examples                      |
 | ------------------------------------------------ | --------- | ----------------------------- |
 | Want Akkusativ **für**                           | Akkusativ | Das ist ein Buch für **ihn**. |
 | Want Dativ: **zu** / **von** / **mit** / **bei** | Dativ     | Ich spiele mit **ihm**.       |
 
-4. Movement
+Some prepositions want one case or another depending on whether the verb indicates movement of location. Prepositions will change according to the location too.
 
-Wo = Dativ
+| Location                          | Wohin (Akkusativ)               | Wo (Dativ)                                                   |
+| --------------------------------- | ------------------------------- | ------------------------------------------------------------ |
+| Place name without article        | Ich fahre **nach** Deutschland. | Ich bin **in** Deutschland.                                  |
+| Place name with article           | Ich fahre **in** die Schweiz.   | Ich bin **in** der Schweiz.                                  |
+| Place of the border, like lake    | Ich fahre **an** den See.       | Ich bin <ruby><b><i>am</i></b><rt><b>an</b> dem</rt></ruby> See. |
+| Island                            | Ich fliege **auf** die Insel.   | Ich bin **auf** der Insel.                                   |
+| People's homes, or doctor's, etc. | Ich fahre ***zu*** Oma und Opa. | Ich bin ***bei*** Oma und Opa.                               |
 
-Wohin = Akkusativ
+Note that **zu** and **bei** always want Dativ as mentioned above.
 
 ## <ruby>Artikeldeklinationen<rt>Article Transformations</rt></ruby>
 
