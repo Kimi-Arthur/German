@@ -2,6 +2,7 @@
 
 ## Gender Rules
 
+
 | Type                                   | Choice                                               | Examples                          |
 | -------------------------------------- | ---------------------------------------------------- | --------------------------------- |
 | **-er**                                | 60% **der**                                          | der Druck**er**, der Kalend**er** |
@@ -10,4 +11,5 @@
 | **-ling**                              | always **der**                                       | der Schmetter**ling**             |
 | Monate, Jahreszeiten, Tage             | always **der**                                       | der Januar                        |
 | Infinitiv as Noun in the original form | always **das**                                       | das Essen, das Spielen            |
-|                                        |                                                      |                                   |
+
+https://en.wikipedia.org/wiki/Grammatical_gender_in_German
