@@ -79,4 +79,3 @@ Note that **zu** and **bei** always want Dativ as mentioned above.
 
 > If the noun's plural ends with **-r** or **-e**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**.
 
-
