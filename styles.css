@@ -11,12 +11,12 @@ table {
 }
 
 .du-suffix {
-	color: blue;
+	color: orange;
 	font-weight: bold
 }
 
 .er-suffix {
-	color: orange;
+	color: blue;
 	font-weight: bold
 }
 
@@ -33,4 +33,16 @@ table {
 .sie-suffix {
 	color: red;
 	font-weight: bold
+}
+
+.perfekt-hilf {
+	color: lightblue;
+}
+
+.perfekt-prefix {
+	color: lightgreen;
+}
+
+.perfekt-suffix {
+	color: lightpink;
 }
