@@ -13,14 +13,14 @@
 
 ### Flexion (class 4 strong)
 
-| Person    | Präsens                                | Präteritum                            | Imperativ | Perfekt                                                      |
-| --------- | -------------------------------------- | ------------------------------------- | --------- | ------------------------------------------------------------ |
-| ich       | komm<span class="ich-suffix">e</span>  | kam                                   |           |                                                              |
-| du        | komm<span class="du-suffix">st</span>  | kam<span class="du-suffix">st</span>  | komm!     |                                                              |
-| er/sie/es | komm<span class="er-suffix">t</span>   | kam                                   |           | <span class="perfekt-hilf">ist</span> <span class="perfekt-prefix">ge</span>komm<span class="perfekt-suffix">en</span> |
-| wir       | komm<span class="wir-suffix">en</span> | kam<span class="wir-suffix">en</span> |           |                                                              |
-| ihr       | komm<span class="er-suffix">t</span>   | kam<span class="er-suffix">t</span>   | kommt!    |                                                              |
-| sie/Sie   | komm<span class="wir-suffix">en</span> | kam<span class="wir-suffix">en</span> | kommen!   |                                                              |
+| Person    | Präsens                                | Präteritum                            | Imperativ   | Perfekt                                                      |
+| --------- | -------------------------------------- | ------------------------------------- | ----------- | ------------------------------------------------------------ |
+| ich       | komm<span class="ich-suffix">e</span>  | kam                                   |             |                                                              |
+| du        | komm<span class="du-suffix">st</span>  | kam<span class="du-suffix">st</span>  | komm!       |                                                              |
+| er/sie/es | komm<span class="er-suffix">t</span>   | kam                                   |             | <span class="perfekt-hilf">ist</span> <span class="perfekt-prefix">ge</span>komm<span class="perfekt-suffix">en</span> |
+| wir       | komm<span class="wir-suffix">en</span> | kam<span class="wir-suffix">en</span> |             |                                                              |
+| ihr       | komm<span class="er-suffix">t</span>   | kam<span class="er-suffix">t</span>   | kommt!      |                                                              |
+| sie/Sie   | komm<span class="wir-suffix">en</span> | kam<span class="wir-suffix">en</span> | kommen Sie! |                                                              |
 
 ### to come; to arrive
 
