@@ -10,9 +10,9 @@
 
 ### Verbs
 
-| Word | Pronunciation | Meaning | Indicative Present |
-| ---- | ------------- | ------- | ------------------ |
-|      |               |         |                    |
+| Word | Konjugation | Pronunciation | Meaning |
+| ---- | ----------- | ------------- | ------- |
+|      |             |               |         |
 
 ### Nouns
 
