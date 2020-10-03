@@ -2,15 +2,15 @@
 
 ## Common Modalverben
 
-| Word    | Meaning          |
-| ------- | ---------------- |
-| müssen  | to must          |
-| sollen  | to should        |
-| können  | to be able to    |
-| dürfen  | to be allowed    |
-| möchten | would like       |
-| mögen   | to like          |
-| wollen  | to want (strong) |
+| Word    | Konjugation        | Meaning          |
+| ------- | ------------------ | ---------------- |
+| müssen  | muss, musst, müsst | to must          |
+| sollen  |                    | to should        |
+| können  |                    | to be able to    |
+| dürfen  |                    | to be allowed    |
+| möchten |                    | would like       |
+| mögen   |                    | to like          |
+| wollen  |                    | to want (strong) |
 
 ## möchten = would like
 
@@ -60,3 +60,15 @@ Subjekt + **Modelverb** + Objekt + Verb (original form)
 | Kannst du gut kochen?                   | Can you cook well?                   |
 | Nein, leider kann ich nicht gut kochen. | No, unfortunately I can't cook well. |
 | Nein, leider nicht.                     | No, unfortunately not.               |
+
+## müseen = have to
+
+### Sentence Structure
+
+### Examples
+
+| Sentence                  | Meaning                       |
+| ------------------------- | ----------------------------- |
+| Ich muss nicht einkaufen. | I don't have to buy anything. |
+| Ich darf nicht einkaufen  | I must not shop.              |
+
