@@ -13,11 +13,11 @@
 
 ## Deklination
 
-| Audience | Usage                                                   | Example (schreiben) | Example (arbeiten) | Example (nehmen) |
-| -------- | ------------------------------------------------------- | ------------------- | ------------------ | ---------------- |
-| du       | `stem` (+e)! / du-form without suffix and umlaut change | schreib!            | arbeite!           | nimm!            |
-| ihr      | `stem` +(e)t! / ihr-form                                | schreibt!           | arbeitet!          | nehmt!           |
-| Sie      | `stem` +en Sie!                                         | schreiben Sie!      | arbeiten Sie!      | nhemen Sie!      |
+| Audience | Usage                                                        | Example (schreiben) | Example (arbeiten) | Example (nehmen) |
+| -------- | ------------------------------------------------------------ | ------------------- | ------------------ | ---------------- |
+| du       | <ruby>`stem` (+e)<rt>du-form without suffix and umlaut change</rt></ruby>! | schreib!            | arbeite!           | nimm!            |
+| ihr      | <ruby>`stem` +(e)t<rt>ihr-form</rt></ruby>!                  | schreibt!           | arbeitet!          | nehmt!           |
+| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                | schreiben Sie!      | arbeiten Sie!      | nhemen Sie!      |
 
 ## Speical Examples
 
