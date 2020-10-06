@@ -25,6 +25,7 @@
 | ------ | --------- | ------ | ----------- |
 | essen  | **iss!**  | esst!  | essen Sie!  |
 | fahren | **fahr!** | fahrt! | fahren Sie! |
+| lesen  | **lies!** | liest! | lesen Sie!  |
 
 ## Sources
 
