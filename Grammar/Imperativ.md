@@ -27,6 +27,21 @@
 | fahren | **fahr!** | fahrt! | fahren Sie! |
 | lesen  | **lies!** | liest! | lesen Sie!  |
 
+## Examples
+
+| Sentence                       | Meaning                  |
+| ------------------------------ | ------------------------ |
+| Lern die Wörter gut!           | Learn the words well!    |
+| Kommt bald nach Hause!         | Come home soon!          |
+| Wartet am Museum!              | Wait at the museum!      |
+| Unterschreiben Sie den Scheck! | Sign the check!          |
+| Kauf die Kinokarten!           | Buy the cinema tickets!  |
+| Beeilt euch etwas!             | Hurry up!                |
+| Rufen Sie im Konsulat an!      | Call the consulate!      |
+| Pack bald den Koffer!          | Pack your suitcase soon! |
+
+
+
 ## Sources
 
 https://grammar.collinsdictionary.com/german-easy-learning/the-imperative
