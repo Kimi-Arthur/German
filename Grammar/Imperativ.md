@@ -17,7 +17,7 @@
 | -------- | ------------------------------------------------------------ | ------------------- | ------------------ | ---------------- |
 | du       | <ruby>`stem` (+e)<rt>du-form without suffix and umlaut change</rt></ruby>! | schreib!            | arbeite!           | nimm!            |
 | ihr      | <ruby>`stem` +(e)t<rt>ihr-form</rt></ruby>!                  | schreibt!           | arbeitet!          | nehmt!           |
-| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                | schreiben Sie!      | arbeiten Sie!      | nhemen Sie!      |
+| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                | schreiben Sie!      | arbeiten Sie!      | nehmen Sie!      |
 
 ## Speical Examples
 
