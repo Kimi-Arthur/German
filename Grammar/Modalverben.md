@@ -4,13 +4,29 @@
 
 | Word    | Konjugation        | Meaning          |
 | ------- | ------------------ | ---------------- |
-| müssen  | muss, musst, müsst | to must          |
-| sollen  |                    | to should        |
+| müssen  | muss, musst, müsst | must             |
+| sollen  |                    | should           |
 | können  |                    | to be able to    |
 | dürfen  |                    | to be allowed    |
 | möchten |                    | would like       |
 | mögen   |                    | to like          |
 | wollen  |                    | to want (strong) |
+
+## sollen = should [#](# "A1P202")
+
+### Sentence Structure
+
+Subjekt + **Modelverb** + Objekt + Verb (original form)
+
+### Examples
+
+| Sentence                            | Meaning                                 |
+| ----------------------------------- | --------------------------------------- |
+| Er soll sofort den Manager anrufen. | He should call the manager immediately. |
+| Du sollst früher ins Bett gehen.    | You should go to bed earlier.           |
+|                                     |                                         |
+
+
 
 ## möchten = would like
 
