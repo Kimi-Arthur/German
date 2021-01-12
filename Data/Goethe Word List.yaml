@@ -176,13 +176,13 @@
 - Word: der Absender
   Level: A1
   Form: '-'
-  Examples:
-    - Da ist ein Brief für dich ohne Absender.
-    - Schicken Sie das Paket an den Absender zurück.
   Feminine:
     Word: die Absenderin
     Level: B1
     Form: -nen
+  Examples:
+    - Da ist ein Brief für dich ohne Absender.
+    - Schicken Sie das Paket an den Absender zurück.
 
 - Word: die Absicht
   Level: B1
@@ -215,6 +215,7 @@
   Synonym: (CH) = (D, A) Hausmeister
   Feminine:
     Word: die Abwartin
+    Level: B1
     Form: -nen
   Examples:
     - Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.
