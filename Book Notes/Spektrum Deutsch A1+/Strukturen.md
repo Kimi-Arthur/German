@@ -1,4 +1,4 @@
-# Satzbau
+# Strukturen
 
 ## Kapitel 1
 
