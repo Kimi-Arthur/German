@@ -1,6 +1,6 @@
 # Wichtige Wörter und Wendungen
 
-## Kapitel 1
+## Kapitel 0
 
 | Aufgaben im Unterricht                 | Assignments in class |
 | -------------------------------------- | -------------------- |
@@ -36,18 +36,21 @@
 | Wie schreibt man (das Wort)?      |                    |
 | Das verstehe ich leider nicht.    |                    |
 
-| Wichtige Wendungen im Alltag               | Important turns in everyday life |
-| ------------------------------------------ | -------------------------------- |
-| Guten Morgen!                              |                                  |
-| Guten Tag! (A: Grüß Gott!) (CH: Grüezi!)   |                                  |
-| Hallo! (A: Servus!) (CH: Salü! Hoi!)       |                                  |
-| Guten Abend!                               |                                  |
-| Gute Nacht!                                |                                  |
-| Auf Wiedersehen! (A: Servus!) (CH: Adieu!) |                                  |
-| Bitte.                                     |                                  |
-| Danke.                                     |                                  |
-| Guten Appetit!                             |                                  |
-| In Österreich sagt man Hallo!              |                                  |
+## Kapitel 1
+
+| Wichtige Wendungen im Alltag               | Important turns in everyday life    |
+| ------------------------------------------ | ----------------------------------- |
+| Guten Morgen!                              | Good morning.                       |
+| Guten Tag! (A: Grüß Gott!) (CH: Grüezi!)   | Good day. (Greeting during the day) |
+| Hallo! (A: Servus!) (CH: Salü! Hoi!)       | Hi.                                 |
+| Guten Abend!                               | Good evening.                       |
+| Gute Nacht!                                | Good night.                         |
+| Auf Wiedersehen! (A: Servus!) (CH: Adieu!) | Goodbye./See you later              |
+| Tschüs(s)! (A: Servus!) (CH: Adieu!)       | Bye.                                |
+| Bitte.                                     | You are welcome.                    |
+| Danke.                                     | Thank you.                          |
+| Guten Appetit!                             | Enjoy your meal.                    |
+| In Österreich sagt man Hallo!              | In Austria, people say Hallo.       |
 
 | Fragen und Antworten zur Person                              | Questions and answers about the person |
 | ------------------------------------------------------------ | -------------------------------------- |
