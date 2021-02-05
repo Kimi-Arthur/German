@@ -566,7 +566,7 @@
     - Ich fange im Herbst meine Ausbildung an.
     - Wann fängst du mit der Arbeit an?
 
-- Word: Ich fange im Herbst meine Ausbildung an.
+- Word: der Anfang
   Level: A1
   Form: ¨-e
   Examples:
@@ -1014,6 +1014,17 @@
   Examples:
     - Meine Frau hat eine neue Arbeitsstelle gefunden.
 
+- Word: der Architekt
+  Level: B1
+  Form: -en
+  Feminine:
+    Word: die Architektin
+    Level: B1
+    Form: -nen
+  Examples:
+    - Dieses Haus hat eine berühmte
+      Architektin gebaut.
+
 - Word: (sich) ärgern
   Level: A2
   Form: ärgert, ärgerte, hat geärgert
@@ -1289,14 +1300,14 @@
     - Ich stehe jeden Morgen um sechs Uhr auf.
     - Sie brauchen nicht aufzustehen. Sie können sitzen bleiben.
 
-- Word: der Aufzug
+- Word: der Auftrag
   Level: A1
   Form: ¨-e
   Examples:
-    - In diesem Haus gibt es keinen Aufzug.
-    - Der Aufzug ist leider kaputt.
-    - Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.
-    - Im Moment hat die Firma besonders viele Aufträge.
+    - Ich komme im Auftrag von Frau Müller
+      und soll Ihnen diesen Brief geben.
+    - Im Moment hat die Firma besonders
+      viele Aufträge.
 
 - Word: auftreten
   Level: B1
@@ -1383,10 +1394,21 @@
 
 - Word: der Ausdruck
   Level: B1
+  Form: -e
+  Examples:
+    - Machen Sie doch bitte einen Ausdruck von der E-Mail.
+
+- Word: ausdrücken
+  Level: B1
+  Form: drückt aus, drückte aus, hat ausgedrückt
+  Examples:
+    - Ich weiß nicht, wie ich das ausdrücken soll. (wiki)
+
+- Word: der Ausdruck (¨-e)
+  Level: B1
   Form: ¨-e
   Examples:
     - Diesen Ausdruck habe ich noch nie gehört.
-    - Machen Sie doch bitte einen Ausdruck von der E-Mail.
 
 - Word: auseinander
   Level: B1
