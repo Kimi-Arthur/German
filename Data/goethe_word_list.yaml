@@ -120,6 +120,13 @@
     - Wir müssen noch meinen Bruder abholen.
     - Meine Freundin hat mich vom Bahnhof abgeholt.
 
+- Word: die Abkürzung
+  Level: A2
+  Form: -en
+  Meaning: abbreviation
+  Examples:
+    - „Bus“ ist eine Abkürzung von „Autobus“.
+
 - Word: abschreiben
   Level: B1
   Form: schreibt ab, schrieb ab, hat abgeschrieben
@@ -166,6 +173,10 @@
 - Word: das Abonnement
   Level: B1
   Form: -s/-e
+  Abbreviation:
+    Word: das Abo
+    Level: B1
+    Form: -s
   Meaning: subscription
   Examples:
     - Ich habe das Abonnement gekündigt.
@@ -315,6 +326,18 @@
   Examples:
     - Ich hatte keine Ahnung, dass du heute Geburtstag hast.
     - Wie spät ist es? - Ich habe keine Ahnung.
+
+- Word: der Akkumulator
+  Level: B1
+  Form: -en
+  Meaning: battery (A-)
+  Abbreviation:
+    Word: der Akku
+    Level: B1
+    Form: -s
+  Examples:
+    - Bringst du bitte Akkumulatoren für die
+      Kamera mit?
 
 - Word: die Aktion
   Level: B1
@@ -1228,7 +1251,6 @@
   Form: ¨-e
   Feminine:
     Word: die Ärztin
-    Level: B1
     Form: -nen
   Meaning: doctor
   Examples:
@@ -1707,7 +1729,6 @@
   Form: '-'
   Feminine:
     Word: die Ausländerin
-    Level: B1
     Form: -nen
   Meaning: foreigner
   Examples:
@@ -1725,7 +1746,9 @@
 
 - Word: ausmachen
   Level: A1
-  Form: ¨-e
+  Form: macht aus,
+    machte aus,
+    hat ausgemacht
   Meaning: to turn off, agree
   Examples:
     - example1
@@ -1734,16 +1757,24 @@
 
 - Word: die Ausnahme
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: exception
   Examples:
     - example1
     - example2
     - example3
 
+- Word: auspacken
+  Level: A2
+  Form: packt aus, packte aus,
+    hat ausgepackt
+  Examples:
+    - Packst du bitte den Koffer aus?
+
 - Word: ausreichen
   Level: B1
-  Form: ¨-e
+  Form: reicht aus, reichte aus,
+    hat ausgereicht
   Meaning: to be sufficient, last
   Examples:
     - example1
@@ -1752,16 +1783,15 @@
 
 - Word: ausreichend
   Level: B1
-  Form: ¨-e
   Meaning: sufficient, enough
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Geld ist für die Reise ausreichend.
 
 - Word: ausrichten
   Level: B1
-  Form: ¨-e
+  Form: richtet aus,
+    richtete aus,
+    hat ausgerichtet
   Meaning: to align, tell, adjust, convey a message
   Examples:
     - example1
@@ -1769,8 +1799,9 @@
     - example3
 
 - Word: (sich) ausruhen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: ruht aus,
+    ruhte aus, hat ausgeruht
   Meaning: to rest
   Examples:
     - example1
@@ -1779,7 +1810,9 @@
 
 - Word: ausschließen
   Level: B1
-  Form: ¨-e
+  Form: schließt aus,
+    schloss aus,
+    hat ausgeschlossen
   Meaning: to exclude, rule out
   Examples:
     - example1
@@ -1788,7 +1821,6 @@
 
 - Word: ausschließlich
   Level: B1
-  Form: ¨-e
   Meaning: exclusive
   Examples:
     - example1
@@ -1980,7 +2012,6 @@
   Form: ¨-e
   Feminine:
     Word: die Autorin
-    Level: B1
     Form: -nen
   Meaning: author
   Examples:
@@ -1988,23 +2019,21 @@
     - example2
     - example3
 
-- Word: der Azubi
+- Word: der Auszubildender
   Level: B1
-  Form: ¨-e
-  Meaning: apprentice, trainee (male, short form)
+  Form: Auszubildende
+  Feminine:
+    Word: die Auszubildende
+    Form: '-'
+  Abbreviation:
+    Word: der Azubi
+    Form: -s
+    Feminine:
+      Word: die Azubi
+      Form: -s
+  Meaning: apprentice, trainee
   Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Auszubildende
-  Level: B1
-  Form: ¨-e
-  Meaning: apprentice, trainee (male, long form)
-  Examples:
-    - example1
-    - example2
-    - example3
+    - Er ist ab März Auszubildender der Firma xy.
 
 - Word: backen
   Level: B1
@@ -2224,12 +2253,11 @@
 
 - Word: die Batterie
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: battery
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bringst du bitte Batterien für die
+      Kamera mit?
 
 - Word: der Bauch
   Level: A1
@@ -2608,6 +2636,15 @@
     - example1
     - example2
     - example3
+
+- Word: zum Beispiel
+  Level: A1
+  Meaning: for example
+  Abbreviation:
+    Word: z. B.
+  Examples:
+    - Viele meiner Verwandten, z. B. meine beiden
+      Brüder, arbeiten auch hier.
 
 - Word: beißen
   Level: B1
@@ -3346,6 +3383,14 @@
     - example1
     - example2
     - example3
+
+- Word: beziehungsweise
+  Level: B1
+  Meaning: and ... respectively; that is
+  Abbreviation:
+    Word: bzw.
+  Examples:
+    - Zwei Briefmarken, die 25 beziehungsweise 55 Cent kosten.
 
 - Word: die Bibliothek
   Level: B1
@@ -4093,6 +4138,15 @@
     - example1
     - example2
     - example3
+
+- Word: circa
+  Level: A1
+  Meaning: approximately (c-)
+  Abbreviation:
+    Word: ca.
+  Examples:
+    - Von Mainz nach Frankfurt sind es circa fünfzig
+      Kilometer.
 
 - Word: der Coiffeur
   Level: B1
@@ -4975,6 +5029,13 @@
     - example1
     - example2
     - example3
+
+- Word: die DVD
+  Level: B1
+  Form: -s
+  Meaning: DVD
+  Examples:
+    - Ich habe mir eine neue DVD gekauft.
 
 - Word: eben
   Level: B1
@@ -6030,13 +6091,16 @@
     - example3
 
 - Word: das Erdgeschoss
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
+  Abbreviation:
+    Word: das EG
+    Form: -s
   Meaning: ground floor
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich wohne im Erdgeschoss.
+    - Unsere Wohnung befindet sich im
+      Erdgeschoss.
 
 - Word: das Ereignis
   Level: B1
@@ -6577,6 +6641,12 @@
     - example1
     - example2
     - example3
+
+- Word: etc.
+  Level: B1
+  Meaning: et cetera
+  Examples:
+    - Der Laden verkauft Äpfel, Birnen, Pflaumen etc.
 
 - Word: etwa
   Level: B1
@@ -9836,6 +9906,14 @@
     - example2
     - example3
 
+- Word: das heißt
+  Level: A2
+  Abbreviation:
+    Word: d. h.
+  Meaning: that means
+  Examples:
+    - Link, d. h. Verbindung.
+
 - Word: heizen
   Level: B1
   Form: ¨-e
@@ -10411,6 +10489,13 @@
     - example1
     - example2
     - example3
+
+- Word: der ICE
+  Level: A2
+  Form: -s
+  Meaning: Intercity-Express
+  Examples:
+    - Der ICE nach Berlin hält heute an Gleis 12.
 
 - Word: ideal
   Level: B1
@@ -12088,12 +12173,14 @@
 
 - Word: das Kraftfahrzeug
   Level: B1
-  Form: ¨-e
+  Form: -e
+  Abbreviation:
+    Word: das Kfz
+    Form: -s
   Meaning: motor vehicle
   Examples:
-    - example1
-    - example2
-    - example3
+    - Auf dieser Straße sind Kraftfahrzeuge
+      nicht erlaubt.
 
 - Word: das Kraftwerk
   Level: B1
@@ -12715,6 +12802,16 @@
     - example1
     - example2
     - example3
+
+- Word: der Lastkraftwagen
+  Level: A2
+  Form: '-'
+  Meaning: truck
+  Abbreviation:
+    Word: der Lkw
+    Form: -s
+  Examples:
+    - Der Müller braust nun mit einem Lastkraftwagen durch die Gegend.
 
 - Word: der Laster
   Level: B1
@@ -15236,6 +15333,16 @@
     - example2
     - example3
 
+- Word: das Obergeschoss
+  Level: B1
+  Form: -e
+  Abbreviation:
+    Word: das OG
+    Form: -s
+  Meaning: upper floor
+  Examples:
+    - Sie hatten für den Urlaub ein Zimmer im ersten Obergeschoss gebucht.
+
 - Word: das Obst
   Level: A1
   Form: ¨-e
@@ -15856,6 +15963,26 @@
     - example1
     - example2
     - example3
+
+- Word: der Personalcomputer
+  Level: A2
+  Form: '-'
+  Abbreviation:
+    Word: der PC
+    Form: -s
+  Meaning: personal computer
+  Examples:
+    - Mein neuer Personalcomputer eignet sich sowohl zum Spielen als auch für das Internet sehr gut.
+
+- Word: der Personenkraftwagen
+  Level: B1
+  Form: '-'
+  Abbreviation:
+    Word: der Pkw
+    Form: -s
+  Meaning: passenger car
+  Examples:
+    - Er fährt einen neuen Personenkraftwagen.
 
 - Word: persönlich
   Level: B1
@@ -18980,6 +19107,13 @@
     - example2
     - example3
 
+- Word: das SMS
+  Level: A2
+  Form: '-'
+  Meaning: text message
+  Examples:
+    - Dabei verrät das SMS natürlich auch, wo in Tirol es wie viel geschneit hat.
+
 - Word: so
   Level: B1
   Form: ¨-e
@@ -21437,6 +21571,13 @@
     - example2
     - example3
 
+- Word: das TV
+  Level: B1
+  Form: '-'
+  Meaning: television
+  Examples:
+    - TV anstelle von Fernsehen oder anstelle von Fernsehapparat zu sagen, greift immer mehr um sich.
+
 - Word: der Typ
   Level: B1
   Form: ¨-e
@@ -21959,6 +22100,15 @@
     - example2
     - example3
 
+- Word: und so weiter
+  Level: A1
+  Form: ¨-e
+  Abbreviation:
+    Word: usw.
+  Meaning: etc.
+  Examples:
+    - Wir brauchten noch Fleisch, Obst, Gemüse und so weiter.
+
 - Word: der Unfall
   Level: B1
   Form: ¨-e
@@ -22057,6 +22207,16 @@
     - example1
     - example2
     - example3
+
+- Word: das Untergeschoss
+  Level: B1
+  Form: -e
+  Abbreviation:
+    Word: das UG
+    Form: -s
+  Meaning: basement
+  Examples:
+    - Ein vorgezogenes, vorgebautes Untergeschoss.
 
 - Word: (sich) unterhalten
   Level: B1
@@ -22563,13 +22723,19 @@
     - example3
 
 - Word: vergleichen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: vergleicht,
+    verglich, hat verglichen
   Meaning: to compare
   Examples:
-    - example1
-    - example2
-    - example3
+    - Vergleichen Sie die Angebote!
+    - Können wir die Antworten vergleichen?
+
+- Word: vgl.
+  Level: A2
+  Meaning: refers to, e.g., page number
+  Examples:
+    - vgl. Seite 841
 
 - Word: der Vergleich
   Level: B1
@@ -23930,6 +24096,16 @@
     - example2
     - example3
 
+- Word: das Wasserklosett
+  Level: A2
+  Form: -s
+  Abbreviation:
+    Word: das WC
+    Form: -s
+  Meaning: toilet
+  Examples:
+    - Das erste Wasserklosett hält feierlich Einzug.
+
 - Word: wechseln
   Level: B1
   Form: ¨-e
@@ -24587,6 +24763,16 @@
     - example2
     - example3
 
+- Word: die Wohngemeinschaft
+  Level: M
+  Form: -en
+  Abbreviation:
+    Word: die WG
+    Form: -s
+  Meaning: apartment-sharing community
+  Examples:
+    - Der Student lebte mit zwei guten Freundinnen in einer Wohngemeinschaft.
+
 - Word: der Wohnort
   Level: B1
   Form: ¨-e
@@ -25091,6 +25277,13 @@
     - example2
     - example3
 
+- Word: zirka
+  Level: A1
+  Meaning: approximately (z-)
+  Examples:
+    - Von Mainz nach Frankfurt sind es zirka fünfzig
+      Kilometer.
+
 - Word: der Zirkus
   Level: B1
   Form: ¨-e
@@ -25563,213 +25756,6 @@
   Level: A1
   Form: ¨-e
   Meaning: in between, between
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Abkürzung
-  Level: M
-  Form: ¨-e
-  Meaning: abbreviation
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das Abo
-  Level: M
-  Form: ¨-e
-  Meaning: subscription (Abonnement)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Akku
-  Level: M
-  Form: ¨-e
-  Meaning: battery (der Akkumulator)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: bzw.
-  Level: M
-  Form: ¨-e
-  Meaning: that is, rather (beziehungsweise)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: ca.
-  Level: M
-  Form: ¨-e
-  Meaning: approximately (circa/ zirka)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: d.h.
-  Level: M
-  Form: ¨-e
-  Meaning: that means (das heißt)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die DVD
-  Level: M
-  Form: ¨-e
-  Meaning: DVD
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das EG
-  Level: M
-  Form: ¨-e
-  Meaning: ground floor (das Erdgeschoss)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das OG
-  Level: M
-  Form: ¨-e
-  Meaning: upper floor (das Obergeschoss)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das UG
-  Level: M
-  Form: ¨-e
-  Meaning: basement (das Untergeschoss)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: etc.
-  Level: M
-  Form: ¨-e
-  Meaning: et cetera
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der ICE
-  Level: M
-  Form: ¨-e
-  Meaning: intercity express train
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das Kfz
-  Level: M
-  Form: ¨-e
-  Meaning: motor vehicle (das Kraftfahrzeug)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Lkw
-  Level: M
-  Form: ¨-e
-  Meaning: truck (der Lastkraftwagen)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der PC
-  Level: M
-  Form: ¨-e
-  Meaning: personal computer
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Pkw
-  Level: M
-  Form: ¨-e
-  Meaning: der Personenkraftwagen
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die SMS
-  Level: M
-  Form: ¨-e
-  Meaning: Texting (abbrev.) (Textnachrich)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das TV
-  Level: M
-  Form: ¨-e
-  Meaning: television
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: usw.
-  Level: M
-  Form: ¨-e
-  Meaning: etc. (und so weiter)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: vgl.
-  Level: M
-  Form: ¨-e
-  Meaning: refers to, e.g., page number (vergleiche)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das WC
-  Level: M
-  Form: ¨-e
-  Meaning: toilet (Wasserklosett)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die WG
-  Level: M
-  Form: ¨-e
-  Meaning: shared flat/apartment; flat/apartment sharing (die Wohngemeinschaft)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: z.B.
-  Level: M
-  Form: ¨-e
-  Meaning: for example (zum Beispiel)
   Examples:
     - example1
     - example2
