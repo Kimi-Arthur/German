@@ -25761,259 +25761,238 @@
 
 - Word: der Anglizismus
   Level: M
-  Form: '*us-en'
+  Form: '-us+en'
   Meaning: word from English language
   Examples:
-    - example1
-    - example2
-    - example3
+    - Es treten heute immer mehr Anglizismen wie Action, cool, Job, Song und sorry in der deutschen Sprache auf.
 
 - Word: das Baby
-  Level: M
-  Form: ¨-e
+  Level: A1
+  Form: -s
   Meaning: baby
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Kind ist noch ein Baby.
+    - Wir haben ein Baby. Es ist sechs Wochen alt.
 
 - Word: der Babysitter
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: '-'
+  Feminine:
+    Word: die Babysitterin
+    Form: -nen
   Meaning: baby sitter
   Examples:
-    - example1
-    - example2
-    - example3
+    - Meine Tochter arbeitet als Babysitter bei einer
+      Familie mit vier Kindern.
 
 - Word: die Band
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: band
   Examples:
-    - example1
-    - example2
-    - example3
+    - Was ist deine Lieblingsband? Anton spielt in einer
+      Band.
 
 - Word: die Bar
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: bar
   Examples:
-    - example1
-    - example2
-    - example3
+    - Setzen wir uns doch an die Bar!
+    - Ich treffe meine Freundin in der
+      Hotelbar.
 
 - Word: der Bikini
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: bikini
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Bad hing gelb Susannes Bikini.
 
 - Word: der Blog
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: blog
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich schreibe einen Blog über Mode.
 
 - Word: bloggen
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: bloggt, bloggte, hat gebloggt
   Meaning: to blog
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hans bloggt viel.
 
 - Word: das Camp
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: camp
   Examples:
-    - example1
-    - example2
-    - example3
+    - Am Camp ist nicht viel dran.
 
 - Word: campen
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: campt, campte, hat gecampt
   Meaning: to camp
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bitte campen Sie nicht wild.
 
 - Word: die Castingshow
-  Level: M
-  Form: ¨-e
-  Meaning: casting
+  Level: B1
+  Form: -s
+  Meaning: talent show
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Castingshow wurde live im Fernsehen ausgestrahlt.
+
+- Word: die CD
+  Level: A1
+  Form: -s
+  Meaning: CD
+  Examples:
+    - Bring bitte deine Lieblings-CD mit.
 
 - Word: der CD-Player
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: '-'
   Meaning: CD player
   Examples:
-    - example1
-    - example2
-    - example3
+    - Der CD-Player ist schon seit Jahren kaputt.
+
+- Word: der Chat
+  Level: B1
+  Form: -s
+  Meaning: chat
+  Examples:
+    - Komm heute Abend in den Chat, ich muss dir etwas Wichtiges mitteilen.
 
 - Word: der Chatroom
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: chat room
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich welchen Chatrooms bist du gerade?
 
 - Word: chatten
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: chattet, chattete, hat gechattet
   Meaning: to chat (internet)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Luis chattet gern mit seinen Freunden im Internet.
 
 - Word: checken
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: checkt, checkte, hat gecheckt
   Meaning: to check
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bitte, check mir auch sowas.
 
 - Word: der Chip
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: chip
   Examples:
-    - example1
-    - example2
-    - example3
+    - Es gibt Menschen, die leben nur von Chips und Dosenpils.
 
 - Word: die City
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: city
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich gehe am Samstag wieder in die City mich umschauen.
 
 - Word: der Club
-  Level: M
-  Form: ¨-e
-  Meaning: club
+  Level: A2
+  Form: -s
+  Meaning: club (C-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Gibt es hier einen Tennis-Club?
+    - Ich möchte gern tanzen gehen. Wo gibt es hier
+      einen Club mit guter Musik?
 
-- Word: die Cola; das Cola
-  Level: M
-  Form: ¨-e
+- Word: der Klub
+  Level: A2
+  Form: -s
+  Meaning: club (K-)
+  Examples:
+    - Gibt es hier einen Tennis-Klub?
+    - Ich möchte gern tanzen gehen. Wo gibt es hier
+      einen Klub mit guter Musik?
+
+- Word: die Cola
+  Level: B1
+  Form: -s
   Meaning: cola
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich hätte gern eine Cola.
 
-- Word: der Comic; das Comic
-  Level: M
-  Form: ¨-e
+- Word: der Comic
+  Level: A2
+  Form: -s
   Meaning: comic (magazine)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Sohn liest immer nur Comics.
 
 - Word: der Computer
-  Level: M
-  Form: ¨-e
+  Level: A1
+  Form: '-'
   Meaning: computer
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wann bekommst du deinen neuen Computer?
 
 - Word: cool
-  Level: M
-  Form: ¨-e
+  Level: B1
   Meaning: cool
   Examples:
-    - example1
-    - example2
-    - example3
+    - Cool brachte er die Sache hinter sich.
 
 - Word: das E-Bike
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: -s
   Meaning: electric bike
   Examples:
-    - example1
-    - example2
-    - example3
+    - Letztens bin ich doch tatsächlich mit dem E-Bike von Leipzig nach Dresden gefahren.
 
 - Word: das E-Book
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: e book
   Examples:
-    - example1
-    - example2
+    - Liest du lieber E-Books oder Bücher aus Papier?
+    - Entschuldigung, kann man hier E-Books kaufen?
     - example3
 
 - Word: der Fan
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: fan (sport, etc.)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Er ist ein großer Fußballfan.
+    - Bella ist ein Fan von Rammstein.
 
 - Word: das Fax
-  Level: M
-  Form: ¨-e
+  Level: A1
+  Form: -e
   Meaning: fax
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schicken Sie uns einfach ein Fax!
 
 - Word: faxen
-  Level: M
-  Form: ¨-e
+  Level: B1
+  Form: faxt, faxte, hat gefaxt
   Meaning: to fax
   Examples:
-    - example1
-    - example2
-    - example3
+    - Faxen Sie mir den Vermerk nicht hierher, das ist mir zu unsicher.
 
 - Word: das Festival
-  Level: M
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: festival
   Examples:
-    - example1
-    - example2
-    - example3
+    - Am Wochenende ist in der Stadt ein Musik-Festival.
 
 - Word: fit
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: fit
   Examples:
     - example1
@@ -26022,7 +26001,7 @@
 
 - Word: die Fitness
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: fitness
   Examples:
     - example1
@@ -26031,7 +26010,7 @@
 
 - Word: global
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: global
   Examples:
     - example1
@@ -26040,7 +26019,7 @@
 
 - Word: googeln
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: to google
   Examples:
     - example1
@@ -26049,7 +26028,7 @@
 
 - Word: der Hamburger
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: hamburger
   Examples:
     - example1
@@ -26058,7 +26037,7 @@
 
 - Word: der Hit
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: hit (song, etc.)
   Examples:
     - example1
@@ -26067,7 +26046,7 @@
 
 - Word: die Homepage
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: homepage
   Examples:
     - example1
@@ -26076,7 +26055,7 @@
 
 - Word: das Internet
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: internet
   Examples:
     - example1
@@ -26085,7 +26064,7 @@
 
 - Word: der Jazz
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: jazz
   Examples:
     - example1
@@ -26094,7 +26073,7 @@
 
 - Word: der Job
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: job
   Examples:
     - example1
@@ -26103,7 +26082,7 @@
 
 - Word: jobben
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: to work, have a job
   Examples:
     - example1
@@ -26112,7 +26091,7 @@
 
 - Word: joggen
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: to jog
   Examples:
     - example1
@@ -26121,7 +26100,7 @@
 
 - Word: der Ketchup
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: ketchup
   Examples:
     - example1
@@ -26130,7 +26109,7 @@
 
 - Word: der Killer
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: killer
   Examples:
     - example1
@@ -26139,7 +26118,7 @@
 
 - Word: der Laptop
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: laptop
   Examples:
     - example1
@@ -26148,7 +26127,7 @@
 
 - Word: der Link
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: link (hyper)
   Examples:
     - example1
@@ -26157,7 +26136,7 @@
 
 - Word: live
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: live (show, stream, etc.)
   Examples:
     - example1
@@ -26166,7 +26145,7 @@
 
 - Word: die E-Mail
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: e mail
   Examples:
     - example1
@@ -26175,7 +26154,7 @@
 
 - Word: die Mailbox
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: mailbox (phone)
   Examples:
     - example1
@@ -26184,7 +26163,7 @@
 
 - Word: mailen
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: to mail (email)
   Examples:
     - example1
@@ -26193,7 +26172,7 @@
 
 - Word: der Manager
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: manager
   Examples:
     - example1
@@ -26202,7 +26181,7 @@
 
 - Word: die Mobilbox
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: inbox
   Examples:
     - example1
@@ -26211,7 +26190,7 @@
 
 - Word: das Mountainbike
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: mountain bike
   Examples:
     - example1
@@ -26220,7 +26199,7 @@
 
 - Word: O.K.
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: OK
   Examples:
     - example1
@@ -26229,7 +26208,7 @@
 
 - Word: online
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: online
   Examples:
     - example1
@@ -26238,7 +26217,7 @@
 
 - Word: die Plattform
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: platform
   Examples:
     - example1
@@ -26247,7 +26226,7 @@
 
 - Word: das Poster
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: poster
   Examples:
     - example1
@@ -26256,7 +26235,7 @@
 
 - Word: das Puzzle
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: puzzle
   Examples:
     - example1
@@ -26265,7 +26244,7 @@
 
 - Word: das Sandwich; der Sandwich
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: sandwich
   Examples:
     - example1
@@ -26274,7 +26253,7 @@
 
 - Word: die Show
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: show
   Examples:
     - example1
@@ -26283,7 +26262,7 @@
 
 - Word: das Smartphone
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: smart phone
   Examples:
     - example1
@@ -26292,7 +26271,7 @@
 
 - Word: der Snack
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: snack
   Examples:
     - example1
@@ -26301,7 +26280,7 @@
 
 - Word: die Software
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: software
   Examples:
     - example1
@@ -26310,7 +26289,7 @@
 
 - Word: der Song
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: song
   Examples:
     - example1
@@ -26319,7 +26298,7 @@
 
 - Word: der Spot
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: spot (in a show)
   Examples:
     - example1
@@ -26328,7 +26307,7 @@
 
 - Word: das Steak
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: steak
   Examples:
     - example1
@@ -26337,7 +26316,7 @@
 
 - Word: surfen
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: to surf
   Examples:
     - example1
@@ -26346,7 +26325,7 @@
 
 - Word: der Swimmingpool
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: swimming pool
   Examples:
     - example1
@@ -26355,7 +26334,7 @@
 
 - Word: das Taxi
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: taxi
   Examples:
     - example1
@@ -26364,7 +26343,7 @@
 
 - Word: das Team
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: team
   Examples:
     - example1
@@ -26373,7 +26352,7 @@
 
 - Word: der Terminal
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: terminal (airport, etc))
   Examples:
     - example1
@@ -26382,7 +26361,7 @@
 
 - Word: die Tour
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: tour
   Examples:
     - example1
@@ -26391,7 +26370,7 @@
 
 - Word: der Trend
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: trend
   Examples:
     - example1
@@ -26400,7 +26379,7 @@
 
 - Word: das T-Shirt
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: t-shirt
   Examples:
     - example1
@@ -26409,7 +26388,7 @@
 
 - Word: twittern
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: to tweet
   Examples:
     - example1
@@ -26418,7 +26397,7 @@
 
 - Word: der User
   Level: M
-  Form: ¨-e
+  Form: -s
   Meaning: user
   Examples:
     - example1
