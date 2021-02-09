@@ -26082,306 +26082,253 @@
   Form: -s
   Meaning: ketchup
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mit Ketchup kann man sich leicht bekleckern.
 
 - Word: der Killer
   Level: B1
-  Form: -s
+  Form: '-'
+  Feminine:
+    Word: die Killerin
+    Form: -nen
   Meaning: killer
   Examples:
-    - example1
-    - example2
-    - example3
+    - Er hat einen Killer engagiert, der sie töten soll.
 
 - Word: der Laptop
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: laptop
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ohne einen Laptop geht heute fast kein Student mehr in die Bibliothek.
 
 - Word: der Link
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: link (hyper)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich schicke dir einen Link zu Deutschübungen.
 
 - Word: live
   Level: B1
-  Form: -s
   Meaning: live (show, stream, etc.)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Fernsehübertragung ist live.
 
 - Word: die E-Mail
-  Level: B1
+  Level: A1
   Form: -s
   Meaning: e mail
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe Ihre E-Mail nicht bekommen.
+    - Ich schreibe Ihnen/dir eine E-Mail.
 
 - Word: die Mailbox
-  Level: B1
-  Form: -s
+  Level: A2
+  Form: -en
   Meaning: mailbox (phone)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hier ist die Mailbox von Susanne König.
+    - Ich habe dir auf die Mailbox gesprochen.
 
 - Word: mailen
   Level: B1
-  Form: -s
+  Form: mailt, mailte, hat gemailt
   Meaning: to mail (email)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Er mailt ihr sehr viel.
 
 - Word: der Manager
   Level: B1
-  Form: -s
+  Form: '-'
+  Feminine:
+    Word: die Managerin
+    Form: -nen
   Meaning: manager
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zurzeit wird über die Gehälter der Manager heftig diskutiert.
 
 - Word: die Mobilbox
   Level: B1
-  Form: -s
+  Form: -en
   Meaning: inbox
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Mobilbox ist gut.
 
 - Word: das Mountainbike
   Level: B1
   Form: -s
   Meaning: mountain bike
   Examples:
-    - example1
-    - example2
-    - example3
+    - An sonnigen Tagen fährt er mit seinem Mountainbike durch die Berge.
 
 - Word: O.K.
   Level: B1
-  Form: -s
   Meaning: OK
   Examples:
-    - example1
-    - example2
-    - example3
+    - O.K.
 
 - Word: online
-  Level: B1
-  Form: -s
+  Level: A2
   Meaning: online
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wann bist du wieder online?
+    - Ich habe hier kein Internet. Ich bin erst heute
+      Abend wieder online.
+    - Sie können das Geld auch online überweisen.
 
 - Word: die Plattform
   Level: B1
-  Form: -s
+  Form: -en
   Meaning: platform
   Examples:
-    - example1
-    - example2
-    - example3
+    - Auf der hinteren Plattform blieb ich stehen.
 
 - Word: das Poster
-  Level: B1
-  Form: -s
+  Level: A2
+  Form: '-'
   Meaning: poster
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Poster hängt über dem Bett.
 
 - Word: das Puzzle
   Level: B1
   Form: -s
   Meaning: puzzle
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Puzzle hatte auch wieder tausend Teile.
 
-- Word: das Sandwich; der Sandwich
+- Word: das Sandwich
   Level: B1
   Form: -s
   Meaning: sandwich
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wenn man unterwegs Hunger bekommt, ist ein Sandwich ideal.
 
 - Word: die Show
   Level: B1
   Form: -s
   Meaning: show
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Show von Disney on Ice war wirklich wunderschön.
 
 - Word: das Smartphone
   Level: B1
   Form: -s
   Meaning: smart phone
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ein Smartphone kann als ein Minicomputer verstanden werden.
 
 - Word: der Snack
   Level: B1
   Form: -s
   Meaning: snack
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Snacks sind in der Pause genau richtig gewesen.
 
 - Word: die Software
   Level: B1
   Form: -s
   Meaning: software
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Computer benötigt spezielle Software, um Webseiten darstellen zu können.
 
 - Word: der Song
   Level: B1
   Form: -s
   Meaning: song
   Examples:
-    - example1
-    - example2
-    - example3
+    - Der Song „Yesterday“ der Beatles war weltberühmt.
 
 - Word: der Spot
   Level: B1
   Form: -s
   Meaning: spot (in a show)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Der Spot führte ein Jahr lang die Charts an.
 
 - Word: das Steak
   Level: B1
   Form: -s
   Meaning: steak
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe jetzt Appetit auf ein schönes Steak.
 
 - Word: surfen
-  Level: B1
-  Form: -s
+  Level: A2
+  Form: surft, surfte, hat gesurft
   Meaning: to surf
   Examples:
-    - example1
-    - example2
-    - example3
+    - Auf Hawaii werde ich surfen.
 
 - Word: der Swimmingpool
   Level: B1
   Form: -s
   Meaning: swimming pool
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zwischen dem Hotel und dem Strand gab es zwei Swimmingpools, einen für Kinder und einen für Erwachsene.
 
 - Word: das Taxi
-  Level: B1
+  Level: A1
   Form: -s
   Meaning: taxi
   Examples:
-    - example1
-    - example2
-    - example3
+    - Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.
+    - Bitte rufen Sie mir ein Taxi.
 
 - Word: das Team
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: team
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich arbeite gern in einem Team.
+    - Welches Fußballteam findest du am besten?
 
 - Word: der Terminal
   Level: B1
   Form: -s
   Meaning: terminal (airport, etc))
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Süden des Frankfurter Flughafens entsteht das modernste Terminal Europas.
 
 - Word: die Tour
   Level: B1
-  Form: -s
+  Form: -en
   Meaning: tour
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wo kann ich eine Stadttour buchen?
+    - Wir gehen am Wochenende wandern. Ich kenne
+      eine schöne Tour in den Bergen.
 
 - Word: der Trend
   Level: B1
   Form: -s
   Meaning: trend
   Examples:
-    - example1
-    - example2
-    - example3
+    - Radfahren ist wieder im Trend.
 
 - Word: das T-Shirt
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: t-shirt
   Examples:
-    - example1
-    - example2
-    - example3
+    - Haben Sie dieses T-Shirt auch in M?
 
 - Word: twittern
   Level: B1
-  Form: -s
+  Form: twittert, twitterte, hat getwittert
   Meaning: to tweet
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wer will, kann via Facebook ein Fan von ihr werden, oder twitternd mit ihr in Kontakt treten.
 
 - Word: der User
   Level: B1
-  Form: -s
+  Form: '-'
+  Feminine:
+    Word: die Userin
+    Form: -nen
   Meaning: user
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bis zu seinem Entzug war er regelmäßiger User von Kokain.
 
 - Word: die Anweisungen
   Level: M
