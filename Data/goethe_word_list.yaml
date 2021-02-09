@@ -723,6 +723,13 @@
   Examples:
     - Wir wünschen Ihnen eine angenehme Reise.
 
+- Word: der Anglizismus
+  Level: M
+  Form: Anglizismen
+  Meaning: word from English language
+  Examples:
+    - Es treten heute immer mehr Anglizismen wie Action, cool, Job, Song und sorry in der deutschen Sprache auf.
+
 - Word: die Angst
   Level: A2
   Form: ¨-e
@@ -2033,6 +2040,25 @@
   Examples:
     - Er ist ab März Auszubildender der Firma xy.
 
+- Word: das Baby
+  Level: A1
+  Form: -s
+  Meaning: baby
+  Examples:
+    - Mein Kind ist noch ein Baby.
+    - Wir haben ein Baby. Es ist sechs Wochen alt.
+
+- Word: der Babysitter
+  Level: A2
+  Form: '-'
+  Feminine:
+    Word: die Babysitterin
+    Form: -nen
+  Meaning: baby sitter
+  Examples:
+    - Meine Tochter arbeitet als Babysitter bei einer
+      Familie mit vier Kindern.
+
 - Word: backen
   Level: B1
   Form: ¨-e
@@ -2177,6 +2203,14 @@
     - example2
     - example3
 
+- Word: die Band
+  Level: A2
+  Form: -s
+  Meaning: band
+  Examples:
+    - Was ist deine Lieblingsband? Anton spielt in einer
+      Band.
+
 - Word: die Bank
   Level: A1
   Form: ¨-e
@@ -2197,12 +2231,12 @@
 
 - Word: die Bar
   Level: B1
-  Form: ¨-e
+  Form: -s
   Meaning: bar
   Examples:
-    - example1
-    - example2
-    - example3
+    - Setzen wir uns doch an die Bar!
+    - Ich treffe meine Freundin in der
+      Hotelbar.
 
 - Word: bar
   Level: B1
@@ -3417,6 +3451,13 @@
     - example2
     - example3
 
+- Word: der Bikini
+  Level: B1
+  Form: -s
+  Meaning: bikini
+  Examples:
+    - Im Bad hing gelb Susannes Bikini.
+
 - Word: das Bild
   Level: A1
   Form: ¨-e
@@ -3614,6 +3655,20 @@
     - example1
     - example2
     - example3
+
+- Word: der Blog
+  Level: A2
+  Form: -s
+  Meaning: blog
+  Examples:
+    - Ich schreibe einen Blog über Mode.
+
+- Word: bloggen
+  Level: B1
+  Form: bloggt, bloggte, hat gebloggt
+  Meaning: to blog
+  Examples:
+    - Hans bloggt viel.
 
 - Word: blond
   Level: B1
@@ -4110,6 +4165,41 @@
     - example2
     - example3
 
+- Word: das Camp
+  Level: B1
+  Form: -s
+  Meaning: camp
+  Examples:
+    - Am Camp ist nicht viel dran.
+
+- Word: campen
+  Level: B1
+  Form: campt, campte, hat gecampt
+  Meaning: to camp
+  Examples:
+    - Bitte campen Sie nicht wild.
+
+- Word: die Castingshow
+  Level: B1
+  Form: -s
+  Meaning: talent show
+  Examples:
+    - Die Castingshow wurde live im Fernsehen ausgestrahlt.
+
+- Word: die CD
+  Level: A1
+  Form: -s
+  Meaning: CD
+  Examples:
+    - Bring bitte deine Lieblings-CD mit.
+
+- Word: der CD-Player
+  Level: B1
+  Form: '-'
+  Meaning: CD player
+  Examples:
+    - Der CD-Player ist schon seit Jahren kaputt.
+
 - Word: die Chance
   Level: B1
   Form: ¨-e
@@ -4118,6 +4208,34 @@
     - example1
     - example2
     - example3
+
+- Word: der Chat
+  Level: B1
+  Form: -s
+  Meaning: chat
+  Examples:
+    - Komm heute Abend in den Chat, ich muss dir etwas Wichtiges mitteilen.
+
+- Word: der Chatroom
+  Level: B1
+  Form: -s
+  Meaning: chat room
+  Examples:
+    - Ich welchen Chatrooms bist du gerade?
+
+- Word: chatten
+  Level: A2
+  Form: chattet, chattete, hat gechattet
+  Meaning: to chat (internet)
+  Examples:
+    - Luis chattet gern mit seinen Freunden im Internet.
+
+- Word: checken
+  Level: B1
+  Form: checkt, checkte, hat gecheckt
+  Meaning: to check
+  Examples:
+    - Bitte, check mir auch sowas.
 
 - Word: der Chef
   Level: A1
@@ -4137,6 +4255,13 @@
     - example2
     - example3
 
+- Word: der Chip
+  Level: B1
+  Form: -s
+  Meaning: chip
+  Examples:
+    - Es gibt Menschen, die leben nur von Chips und Dosenpils.
+
 - Word: circa
   Level: A1
   Meaning: approximately (c-)
@@ -4146,6 +4271,22 @@
     - Von Mainz nach Frankfurt sind es circa fünfzig
       Kilometer.
 
+- Word: die City
+  Level: B1
+  Form: -s
+  Meaning: city
+  Examples:
+    - Ich gehe am Samstag wieder in die City mich umschauen.
+
+- Word: der Club
+  Level: A2
+  Form: -s
+  Meaning: club (C-)
+  Examples:
+    - Gibt es hier einen Tennis-Club?
+    - Ich möchte gern tanzen gehen. Wo gibt es hier
+      einen Club mit guter Musik?
+
 - Word: der Coiffeur
   Level: B1
   Form: ¨-e
@@ -4154,6 +4295,33 @@
     - example1
     - example2
     - example3
+
+- Word: die Cola
+  Level: B1
+  Form: -s
+  Meaning: cola
+  Examples:
+    - Ich hätte gern eine Cola.
+
+- Word: der Comic
+  Level: A2
+  Form: -s
+  Meaning: comic (magazine)
+  Examples:
+    - Mein Sohn liest immer nur Comics.
+
+- Word: der Computer
+  Level: A1
+  Form: '-'
+  Meaning: computer
+  Examples:
+    - Wann bekommst du deinen neuen Computer?
+
+- Word: cool
+  Level: B1
+  Meaning: cool
+  Examples:
+    - Cool brachte er die Sache hinter sich.
 
 - Word: die Couch
   Level: B1
@@ -5061,6 +5229,30 @@
     - example1
     - example2
     - example3
+
+- Word: das E-Bike
+  Level: B1
+  Form: -s
+  Meaning: electric bike
+  Examples:
+    - Letztens bin ich doch tatsächlich mit dem E-Bike von Leipzig nach Dresden gefahren.
+
+- Word: das E-Book
+  Level: A2
+  Form: -s
+  Meaning: e book
+  Examples:
+    - Liest du lieber E-Books oder Bücher aus Papier?
+    - Entschuldigung, kann man hier E-Books kaufen?
+    - example3
+
+- Word: die E-Mail
+  Level: A1
+  Form: -s
+  Meaning: e mail
+  Examples:
+    - Ich habe Ihre E-Mail nicht bekommen.
+    - Ich schreibe Ihnen/dir eine E-Mail.
 
 - Word: echt
   Level: B1
@@ -6916,6 +7108,14 @@
     - example2
     - example3
 
+- Word: der Fan
+  Level: A2
+  Form: -s
+  Meaning: fan (sport, etc.)
+  Examples:
+    - Er ist ein großer Fußballfan.
+    - Bella ist ein Fan von Rammstein.
+
 - Word: fangen
   Level: B1
   Form: ¨-e
@@ -7005,6 +7205,20 @@
     - example1
     - example2
     - example3
+
+- Word: das Fax
+  Level: A1
+  Form: -e
+  Meaning: fax
+  Examples:
+    - Schicken Sie uns einfach ein Fax!
+
+- Word: faxen
+  Level: B1
+  Form: faxt, faxte, hat gefaxt
+  Meaning: to fax
+  Examples:
+    - Faxen Sie mir den Vermerk nicht hierher, das ist mir zu unsicher.
 
 - Word: fehlen
   Level: A1
@@ -7149,6 +7363,13 @@
     - example1
     - example2
     - example3
+
+- Word: das Festival
+  Level: A2
+  Form: -s
+  Meaning: festival
+  Examples:
+    - Am Wochenende ist in der Stadt ein Musik-Festival.
 
 - Word: die Festplatte
   Level: B1
@@ -7338,6 +7559,19 @@
     - example1
     - example2
     - example3
+
+- Word: fit
+  Level: A2
+  Meaning: fit
+  Examples:
+    - Tom will fit sein.
+
+- Word: die Fitness
+  Level: A2
+  Form: '-'
+  Meaning: fitness
+  Examples:
+    - Er geht jeden Tag ins Fitnessstudio.
 
 - Word: flach
   Level: B1
@@ -9166,6 +9400,12 @@
     - example2
     - example3
 
+- Word: global
+  Level: B1
+  Meaning: global
+  Examples:
+    - Der Klimawandel ist ein globales Ereignis.
+
 - Word: das Glück
   Level: A1
   Form: ¨-e
@@ -9210,6 +9450,13 @@
     - example1
     - example2
     - example3
+
+- Word: googeln
+  Level: B1
+  Form: googelt, googelte, hat gegoogelt
+  Meaning: to google
+  Examples:
+    - Diese Information kann man einfach googeln.
 
 - Word: der Gott
   Level: B1
@@ -9606,6 +9853,13 @@
     - example1
     - example2
     - example3
+
+- Word: der Hamburger
+  Level: A2
+  Form: '-'
+  Meaning: hamburger
+  Examples:
+    - Einen Hamburger ohne Salat, bitte.
 
 - Word: der Hammer
   Level: B1
@@ -10218,6 +10472,13 @@
     - example2
     - example3
 
+- Word: der Hit
+  Level: B1
+  Form: -s
+  Meaning: hit (song, etc.)
+  Examples:
+    - Das neue Produkt der Firma XY wurde auf einen Schlag ein Hit.
+
 - Word: die Hitze
   Level: B1
   Form: ¨-e
@@ -10352,6 +10613,15 @@
     - example1
     - example2
     - example3
+
+- Word: die Homepage
+  Level: A2
+  Form: -s
+  Meaning: homepage
+  Examples:
+    - Auf der Homepage von Freiburg gibt es alle
+      wichtigen Informationen über die Stadt.
+    - Kennst du eine Homepage mit Deutschübungen?
 
 - Word: der Honig
   Level: B1
@@ -10666,6 +10936,15 @@
     - example2
     - example3
 
+- Word: das Internet
+  Level: A1
+  Form: (Sg.)
+  Meaning: internet
+  Examples:
+    - Das findest du im Internet.
+    - Du kannst im Internet Musik hören oder Spiele
+      spielen.
+
 - Word: die Insel
   Level: B1
   Form: ¨-e
@@ -10918,6 +11197,13 @@
     - example2
     - example3
 
+- Word: der Jazz
+  Level: B1
+  Form: (Sg.)
+  Meaning: jazz
+  Examples:
+    - Jazz hat in Deutschland viele Anhänger.
+
 - Word: je
   Level: B1
   Form: ¨-e
@@ -11007,6 +11293,28 @@
     - example1
     - example2
     - example3
+
+- Word: der Job
+  Level: A1
+  Form: -s
+  Meaning: job
+  Examples:
+    - Jenny hat einen neuen Job bei der Post.
+    - Ich suche noch einen Ferienjob.
+
+- Word: jobben
+  Level: B1
+  Form: jobbt, jobbte, hat gejobbt
+  Meaning: to work, have a job
+  Examples:
+    - Seit zweieinhalb Jahren jobbt sie 20 Stunden pro Woche im Zoo.
+
+- Word: joggen
+  Level: A2
+  Form:  joggt, joggte, hat gejoggt
+  Meaning: to jog
+  Examples:
+    - Ich jogge gern im Park.
 
 - Word: der Journalist
   Level: B1
@@ -11449,6 +11757,13 @@
     - example2
     - example3
 
+- Word: der Ketchup
+  Level: B1
+  Form: -s
+  Meaning: ketchup
+  Examples:
+    - Mit Ketchup kann man sich leicht bekleckern.
+
 - Word: die Kette
   Level: B1
   Form: ¨-e
@@ -11457,6 +11772,16 @@
     - example1
     - example2
     - example3
+
+- Word: der Killer
+  Level: B1
+  Form: '-'
+  Feminine:
+    Word: die Killerin
+    Form: -nen
+  Meaning: killer
+  Examples:
+    - Er hat einen Killer engagiert, der sie töten soll.
 
 - Word: das Kind
   Level: A1
@@ -11736,6 +12061,15 @@
     - example1
     - example2
     - example3
+
+- Word: der Klub
+  Level: A2
+  Form: -s
+  Meaning: club (K-)
+  Examples:
+    - Gibt es hier einen Tennis-Klub?
+    - Ich möchte gern tanzen gehen. Wo gibt es hier
+      einen Klub mit guter Musik?
 
 - Word: klug
   Level: B1
@@ -12783,6 +13117,13 @@
     - example2
     - example3
 
+- Word: der Laptop
+  Level: A2
+  Form: -s
+  Meaning: laptop
+  Examples:
+    - Ohne einen Laptop geht heute fast kein Student mehr in die Bibliothek.
+
 - Word: der Lärm
   Level: B1
   Form: ¨-e
@@ -13270,6 +13611,13 @@
     - example2
     - example3
 
+- Word: der Link
+  Level: A2
+  Form: -s
+  Meaning: link (hyper)
+  Examples:
+    - Ich schicke dir einen Link zu Deutschübungen.
+
 - Word: links
   Level: A1
   Form: ¨-e
@@ -13305,6 +13653,12 @@
     - example1
     - example2
     - example3
+
+- Word: live
+  Level: B1
+  Meaning: live (show, stream, etc.)
+  Examples:
+    - Die Fernsehübertragung ist live.
 
 - Word: loben
   Level: B1
@@ -13522,6 +13876,21 @@
     - example2
     - example3
 
+- Word: die Mailbox
+  Level: A2
+  Form: -en
+  Meaning: mailbox (phone)
+  Examples:
+    - Hier ist die Mailbox von Susanne König.
+    - Ich habe dir auf die Mailbox gesprochen.
+
+- Word: mailen
+  Level: B1
+  Form: mailt, mailte, hat gemailt
+  Meaning: to mail (email)
+  Examples:
+    - Er mailt ihr sehr viel.
+
 - Word: das Mal
   Level: B1
   Form: ¨-e
@@ -13566,6 +13935,16 @@
     - example1
     - example2
     - example3
+
+- Word: der Manager
+  Level: B1
+  Form: '-'
+  Feminine:
+    Word: die Managerin
+    Form: -nen
+  Meaning: manager
+  Examples:
+    - Zurzeit wird über die Gehälter der Manager heftig diskutiert.
 
 - Word: manch-
   Level: B1
@@ -14307,12 +14686,10 @@
 
 - Word: die Mobilbox
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: mobile (answering) box
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Mobilbox ist gut.
 
 - Word: die Mobilität
   Level: B1
@@ -14448,6 +14825,13 @@
     - example1
     - example2
     - example3
+
+- Word: das Mountainbike
+  Level: B1
+  Form: -s
+  Meaning: mountain bike
+  Examples:
+    - An sonnigen Tagen fährt er mit seinem Mountainbike durch die Berge.
 
 - Word: müde
   Level: A1
@@ -15476,6 +15860,12 @@
     - example2
     - example3
 
+- Word: O.K.
+  Level: B1
+  Meaning: OK
+  Examples:
+    - O.K.
+
 - Word: Öko-
   Level: B1
   Form: ¨-e
@@ -15511,6 +15901,15 @@
     - example1
     - example2
     - example3
+
+- Word: online
+  Level: A2
+  Meaning: online
+  Examples:
+    - Wann bist du wieder online?
+    - Ich habe hier kein Internet. Ich bin erst heute
+      Abend wieder online.
+    - Sie können das Geld auch online überweisen.
 
 - Word: der Opa
   Level: A1
@@ -16189,6 +16588,13 @@
     - example2
     - example3
 
+- Word: die Plattform
+  Level: B1
+  Form: -en
+  Meaning: platform
+  Examples:
+    - Auf der hinteren Plattform blieb ich stehen.
+
 - Word: der Platz
   Level: A1
   Form: ¨-e
@@ -16305,6 +16711,13 @@
     - example1
     - example2
     - example3
+
+- Word: das Poster
+  Level: A2
+  Form: '-'
+  Meaning: poster
+  Examples:
+    - Das Poster hängt über dem Bett.
 
 - Word: die Postleitzahl
   Level: A1
@@ -16629,6 +17042,13 @@
     - example1
     - example2
     - example3
+
+- Word: das Puzzle
+  Level: B1
+  Form: -s
+  Meaning: puzzle
+  Examples:
+    - Das Puzzle hatte auch wieder tausend Teile.
 
 - Word: die Qualifikation
   Level: B1
@@ -17772,6 +18192,13 @@
     - example1
     - example2
     - example3
+
+- Word: das Sandwich
+  Level: B1
+  Form: -s
+  Meaning: sandwich
+  Examples:
+    - Wenn man unterwegs Hunger bekommt, ist ein Sandwich ideal.
 
 - Word: der Sänger
   Level: B1
@@ -18952,6 +19379,13 @@
     - example2
     - example3
 
+- Word: die Show
+  Level: B1
+  Form: -s
+  Meaning: show
+  Examples:
+    - Die Show von Disney on Ice war wirklich wunderschön.
+
 - Word: sicher
   Level: B1
   Form: ¨-e
@@ -19105,12 +19539,26 @@
     - example2
     - example3
 
+- Word: das Smartphone
+  Level: B1
+  Form: -s
+  Meaning: smart phone
+  Examples:
+    - Ein Smartphone kann als ein Minicomputer verstanden werden.
+
 - Word: das SMS
   Level: A2
   Form: '-'
   Meaning: text message
   Examples:
     - Dabei verrät das SMS natürlich auch, wo in Tirol es wie viel geschneit hat.
+
+- Word: der Snack
+  Level: B1
+  Form: -s
+  Meaning: snack
+  Examples:
+    - Die Snacks sind in der Pause genau richtig gewesen.
 
 - Word: so
   Level: B1
@@ -19165,6 +19613,13 @@
     - example1
     - example2
     - example3
+
+- Word: die Software
+  Level: B1
+  Form: -s
+  Meaning: software
+  Examples:
+    - Mein Computer benötigt spezielle Software, um Webseiten darstellen zu können.
 
 - Word: sogenannt-
   Level: B1
@@ -19246,6 +19701,13 @@
     - example1
     - example2
     - example3
+
+- Word: der Song
+  Level: B1
+  Form: -s
+  Meaning: song
+  Examples:
+    - Der Song „Yesterday“ der Beatles war weltberühmt.
 
 - Word: die Sonne
   Level: A1
@@ -19598,6 +20060,13 @@
     - example2
     - example3
 
+- Word: der Spot
+  Level: B1
+  Form: -s
+  Meaning: spot (in a show)
+  Examples:
+    - Der Spot führte ein Jahr lang die Charts an.
+
 - Word: die Sprache
   Level: A1
   Form: ¨-e
@@ -19867,6 +20336,13 @@
     - example1
     - example2
     - example3
+
+- Word: das Steak
+  Level: B1
+  Form: -s
+  Meaning: steak
+  Examples:
+    - Ich habe jetzt Appetit auf ein schönes Steak.
 
 - Word: stechen
   Level: B1
@@ -20498,6 +20974,13 @@
     - example2
     - example3
 
+- Word: surfen
+  Level: A2
+  Form: surft, surfte, hat gesurft
+  Meaning: to surf
+  Examples:
+    - Auf Hawaii werde ich surfen.
+
 - Word: süß
   Level: B1
   Form: ¨-e
@@ -20506,6 +20989,13 @@
     - example1
     - example2
     - example3
+
+- Word: der Swimmingpool
+  Level: B1
+  Form: -s
+  Meaning: swimming pool
+  Examples:
+    - Zwischen dem Hotel und dem Strand gab es zwei Swimmingpools, einen für Kinder und einen für Erwachsene.
 
 - Word: das Symbol
   Level: B1
@@ -20768,6 +21258,22 @@
     - example2
     - example3
 
+- Word: das Taxi
+  Level: A1
+  Form: -s
+  Meaning: taxi
+  Examples:
+    - Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.
+    - Bitte rufen Sie mir ein Taxi.
+
+- Word: das Team
+  Level: A2
+  Form: -s
+  Meaning: team
+  Examples:
+    - Ich arbeite gern in einem Team.
+    - Welches Fußballteam findest du am besten?
+
 - Word: die Technik
   Level: B1
   Form: ¨-e
@@ -20947,6 +21453,13 @@
     - example1
     - example2
     - example3
+
+- Word: der Terminal
+  Level: B1
+  Form: -s
+  Meaning: terminal (airport, etc))
+  Examples:
+    - Im Süden des Frankfurter Flughafens entsteht das modernste Terminal Europas.
 
 - Word: die Terrasse
   Level: B1
@@ -21236,6 +21749,15 @@
     - example2
     - example3
 
+- Word: die Tour
+  Level: B1
+  Form: -en
+  Meaning: tour
+  Examples:
+    - Wo kann ich eine Stadttour buchen?
+    - Wir gehen am Wochenende wandern. Ich kenne
+      eine schöne Tour in den Bergen.
+
 - Word: der Tourismus
   Level: B1
   Form: ¨-e
@@ -21398,6 +21920,13 @@
     - example2
     - example3
 
+- Word: der Trend
+  Level: B1
+  Form: -s
+  Meaning: trend
+  Examples:
+    - Radfahren ist wieder im Trend.
+
 - Word: (sich) trennen
   Level: B1
   Form: ¨-e
@@ -21524,6 +22053,13 @@
     - example2
     - example3
 
+- Word: das T-Shirt
+  Level: A2
+  Form: -s
+  Meaning: t-shirt
+  Examples:
+    - Haben Sie dieses T-Shirt auch in M?
+
 - Word: das Tuch
   Level: B1
   Form: ¨-e
@@ -21575,6 +22111,13 @@
   Meaning: television
   Examples:
     - TV anstelle von Fernsehen oder anstelle von Fernsehapparat zu sagen, greift immer mehr um sich.
+
+- Word: twittern
+  Level: B1
+  Form: twittert, twitterte, hat getwittert
+  Meaning: to tweet
+  Examples:
+    - Wer will, kann via Facebook ein Fan von ihr werden, oder twitternd mit ihr in Kontakt treten.
 
 - Word: der Typ
   Level: B1
@@ -22458,6 +23001,16 @@
     - example1
     - example2
     - example3
+
+- Word: der User
+  Level: B1
+  Form: '-'
+  Feminine:
+    Word: die Userin
+    Form: -nen
+  Meaning: user
+  Examples:
+    - Bis zu seinem Entzug war er regelmäßiger User von Kokain.
 
 - Word: die Vase
   Level: B1
@@ -25758,577 +26311,6 @@
     - example1
     - example2
     - example3
-
-- Word: der Anglizismus
-  Level: M
-  Form: Anglizismen
-  Meaning: word from English language
-  Examples:
-    - Es treten heute immer mehr Anglizismen wie Action, cool, Job, Song und sorry in der deutschen Sprache auf.
-
-- Word: das Baby
-  Level: A1
-  Form: -s
-  Meaning: baby
-  Examples:
-    - Mein Kind ist noch ein Baby.
-    - Wir haben ein Baby. Es ist sechs Wochen alt.
-
-- Word: der Babysitter
-  Level: A2
-  Form: '-'
-  Feminine:
-    Word: die Babysitterin
-    Form: -nen
-  Meaning: baby sitter
-  Examples:
-    - Meine Tochter arbeitet als Babysitter bei einer
-      Familie mit vier Kindern.
-
-- Word: die Band
-  Level: A2
-  Form: -s
-  Meaning: band
-  Examples:
-    - Was ist deine Lieblingsband? Anton spielt in einer
-      Band.
-
-- Word: die Bar
-  Level: B1
-  Form: -s
-  Meaning: bar
-  Examples:
-    - Setzen wir uns doch an die Bar!
-    - Ich treffe meine Freundin in der
-      Hotelbar.
-
-- Word: der Bikini
-  Level: B1
-  Form: -s
-  Meaning: bikini
-  Examples:
-    - Im Bad hing gelb Susannes Bikini.
-
-- Word: der Blog
-  Level: A2
-  Form: -s
-  Meaning: blog
-  Examples:
-    - Ich schreibe einen Blog über Mode.
-
-- Word: bloggen
-  Level: B1
-  Form: bloggt, bloggte, hat gebloggt
-  Meaning: to blog
-  Examples:
-    - Hans bloggt viel.
-
-- Word: das Camp
-  Level: B1
-  Form: -s
-  Meaning: camp
-  Examples:
-    - Am Camp ist nicht viel dran.
-
-- Word: campen
-  Level: B1
-  Form: campt, campte, hat gecampt
-  Meaning: to camp
-  Examples:
-    - Bitte campen Sie nicht wild.
-
-- Word: die Castingshow
-  Level: B1
-  Form: -s
-  Meaning: talent show
-  Examples:
-    - Die Castingshow wurde live im Fernsehen ausgestrahlt.
-
-- Word: die CD
-  Level: A1
-  Form: -s
-  Meaning: CD
-  Examples:
-    - Bring bitte deine Lieblings-CD mit.
-
-- Word: der CD-Player
-  Level: B1
-  Form: '-'
-  Meaning: CD player
-  Examples:
-    - Der CD-Player ist schon seit Jahren kaputt.
-
-- Word: der Chat
-  Level: B1
-  Form: -s
-  Meaning: chat
-  Examples:
-    - Komm heute Abend in den Chat, ich muss dir etwas Wichtiges mitteilen.
-
-- Word: der Chatroom
-  Level: B1
-  Form: -s
-  Meaning: chat room
-  Examples:
-    - Ich welchen Chatrooms bist du gerade?
-
-- Word: chatten
-  Level: A2
-  Form: chattet, chattete, hat gechattet
-  Meaning: to chat (internet)
-  Examples:
-    - Luis chattet gern mit seinen Freunden im Internet.
-
-- Word: checken
-  Level: B1
-  Form: checkt, checkte, hat gecheckt
-  Meaning: to check
-  Examples:
-    - Bitte, check mir auch sowas.
-
-- Word: der Chip
-  Level: B1
-  Form: -s
-  Meaning: chip
-  Examples:
-    - Es gibt Menschen, die leben nur von Chips und Dosenpils.
-
-- Word: die City
-  Level: B1
-  Form: -s
-  Meaning: city
-  Examples:
-    - Ich gehe am Samstag wieder in die City mich umschauen.
-
-- Word: der Club
-  Level: A2
-  Form: -s
-  Meaning: club (C-)
-  Examples:
-    - Gibt es hier einen Tennis-Club?
-    - Ich möchte gern tanzen gehen. Wo gibt es hier
-      einen Club mit guter Musik?
-
-- Word: der Klub
-  Level: A2
-  Form: -s
-  Meaning: club (K-)
-  Examples:
-    - Gibt es hier einen Tennis-Klub?
-    - Ich möchte gern tanzen gehen. Wo gibt es hier
-      einen Klub mit guter Musik?
-
-- Word: die Cola
-  Level: B1
-  Form: -s
-  Meaning: cola
-  Examples:
-    - Ich hätte gern eine Cola.
-
-- Word: der Comic
-  Level: A2
-  Form: -s
-  Meaning: comic (magazine)
-  Examples:
-    - Mein Sohn liest immer nur Comics.
-
-- Word: der Computer
-  Level: A1
-  Form: '-'
-  Meaning: computer
-  Examples:
-    - Wann bekommst du deinen neuen Computer?
-
-- Word: cool
-  Level: B1
-  Meaning: cool
-  Examples:
-    - Cool brachte er die Sache hinter sich.
-
-- Word: das E-Bike
-  Level: B1
-  Form: -s
-  Meaning: electric bike
-  Examples:
-    - Letztens bin ich doch tatsächlich mit dem E-Bike von Leipzig nach Dresden gefahren.
-
-- Word: das E-Book
-  Level: A2
-  Form: -s
-  Meaning: e book
-  Examples:
-    - Liest du lieber E-Books oder Bücher aus Papier?
-    - Entschuldigung, kann man hier E-Books kaufen?
-    - example3
-
-- Word: der Fan
-  Level: A2
-  Form: -s
-  Meaning: fan (sport, etc.)
-  Examples:
-    - Er ist ein großer Fußballfan.
-    - Bella ist ein Fan von Rammstein.
-
-- Word: das Fax
-  Level: A1
-  Form: -e
-  Meaning: fax
-  Examples:
-    - Schicken Sie uns einfach ein Fax!
-
-- Word: faxen
-  Level: B1
-  Form: faxt, faxte, hat gefaxt
-  Meaning: to fax
-  Examples:
-    - Faxen Sie mir den Vermerk nicht hierher, das ist mir zu unsicher.
-
-- Word: das Festival
-  Level: A2
-  Form: -s
-  Meaning: festival
-  Examples:
-    - Am Wochenende ist in der Stadt ein Musik-Festival.
-
-- Word: fit
-  Level: A2
-  Meaning: fit
-  Examples:
-    - Tom will fit sein.
-
-- Word: die Fitness
-  Level: A2
-  Form: '-'
-  Meaning: fitness
-  Examples:
-    - Er geht jeden Tag ins Fitnessstudio.
-
-- Word: global
-  Level: B1
-  Meaning: global
-  Examples:
-    - Der Klimawandel ist ein globales Ereignis.
-
-- Word: googeln
-  Level: B1
-  Form: googelt, googelte, hat gegoogelt
-  Meaning: to google
-  Examples:
-    - Diese Information kann man einfach googeln.
-
-- Word: der Hamburger
-  Level: A2
-  Form: '-'
-  Meaning: hamburger
-  Examples:
-    - Einen Hamburger ohne Salat, bitte.
-
-- Word: der Hit
-  Level: B1
-  Form: -s
-  Meaning: hit (song, etc.)
-  Examples:
-    - Das neue Produkt der Firma XY wurde auf einen Schlag ein Hit.
-
-- Word: die Homepage
-  Level: A2
-  Form: -s
-  Meaning: homepage
-  Examples:
-    - Auf der Homepage von Freiburg gibt es alle
-      wichtigen Informationen über die Stadt.
-    - Kennst du eine Homepage mit Deutschübungen?
-
-- Word: das Internet
-  Level: A1
-  Form: (Sg.)
-  Meaning: internet
-  Examples:
-    - Das findest du im Internet.
-    - Du kannst im Internet Musik hören oder Spiele
-      spielen.
-
-- Word: der Jazz
-  Level: B1
-  Form: (Sg.)
-  Meaning: jazz
-  Examples:
-    - Jazz hat in Deutschland viele Anhänger.
-
-- Word: der Job
-  Level: A1
-  Form: -s
-  Meaning: job
-  Examples:
-    - Jenny hat einen neuen Job bei der Post.
-    - Ich suche noch einen Ferienjob.
-
-- Word: jobben
-  Level: B1
-  Form: jobbt, jobbte, hat gejobbt
-  Meaning: to work, have a job
-  Examples:
-    - Seit zweieinhalb Jahren jobbt sie 20 Stunden pro Woche im Zoo.
-
-- Word: joggen
-  Level: A2
-  Form:  joggt, joggte, hat gejoggt
-  Meaning: to jog
-  Examples:
-    - Ich jogge gern im Park.
-
-- Word: der Ketchup
-  Level: B1
-  Form: -s
-  Meaning: ketchup
-  Examples:
-    - Mit Ketchup kann man sich leicht bekleckern.
-
-- Word: der Killer
-  Level: B1
-  Form: '-'
-  Feminine:
-    Word: die Killerin
-    Form: -nen
-  Meaning: killer
-  Examples:
-    - Er hat einen Killer engagiert, der sie töten soll.
-
-- Word: der Laptop
-  Level: A2
-  Form: -s
-  Meaning: laptop
-  Examples:
-    - Ohne einen Laptop geht heute fast kein Student mehr in die Bibliothek.
-
-- Word: der Link
-  Level: A2
-  Form: -s
-  Meaning: link (hyper)
-  Examples:
-    - Ich schicke dir einen Link zu Deutschübungen.
-
-- Word: live
-  Level: B1
-  Meaning: live (show, stream, etc.)
-  Examples:
-    - Die Fernsehübertragung ist live.
-
-- Word: die E-Mail
-  Level: A1
-  Form: -s
-  Meaning: e mail
-  Examples:
-    - Ich habe Ihre E-Mail nicht bekommen.
-    - Ich schreibe Ihnen/dir eine E-Mail.
-
-- Word: die Mailbox
-  Level: A2
-  Form: -en
-  Meaning: mailbox (phone)
-  Examples:
-    - Hier ist die Mailbox von Susanne König.
-    - Ich habe dir auf die Mailbox gesprochen.
-
-- Word: mailen
-  Level: B1
-  Form: mailt, mailte, hat gemailt
-  Meaning: to mail (email)
-  Examples:
-    - Er mailt ihr sehr viel.
-
-- Word: der Manager
-  Level: B1
-  Form: '-'
-  Feminine:
-    Word: die Managerin
-    Form: -nen
-  Meaning: manager
-  Examples:
-    - Zurzeit wird über die Gehälter der Manager heftig diskutiert.
-
-- Word: die Mobilbox
-  Level: B1
-  Form: -en
-  Meaning: inbox
-  Examples:
-    - Die Mobilbox ist gut.
-
-- Word: das Mountainbike
-  Level: B1
-  Form: -s
-  Meaning: mountain bike
-  Examples:
-    - An sonnigen Tagen fährt er mit seinem Mountainbike durch die Berge.
-
-- Word: O.K.
-  Level: B1
-  Meaning: OK
-  Examples:
-    - O.K.
-
-- Word: online
-  Level: A2
-  Meaning: online
-  Examples:
-    - Wann bist du wieder online?
-    - Ich habe hier kein Internet. Ich bin erst heute
-      Abend wieder online.
-    - Sie können das Geld auch online überweisen.
-
-- Word: die Plattform
-  Level: B1
-  Form: -en
-  Meaning: platform
-  Examples:
-    - Auf der hinteren Plattform blieb ich stehen.
-
-- Word: das Poster
-  Level: A2
-  Form: '-'
-  Meaning: poster
-  Examples:
-    - Das Poster hängt über dem Bett.
-
-- Word: das Puzzle
-  Level: B1
-  Form: -s
-  Meaning: puzzle
-  Examples:
-    - Das Puzzle hatte auch wieder tausend Teile.
-
-- Word: das Sandwich
-  Level: B1
-  Form: -s
-  Meaning: sandwich
-  Examples:
-    - Wenn man unterwegs Hunger bekommt, ist ein Sandwich ideal.
-
-- Word: die Show
-  Level: B1
-  Form: -s
-  Meaning: show
-  Examples:
-    - Die Show von Disney on Ice war wirklich wunderschön.
-
-- Word: das Smartphone
-  Level: B1
-  Form: -s
-  Meaning: smart phone
-  Examples:
-    - Ein Smartphone kann als ein Minicomputer verstanden werden.
-
-- Word: der Snack
-  Level: B1
-  Form: -s
-  Meaning: snack
-  Examples:
-    - Die Snacks sind in der Pause genau richtig gewesen.
-
-- Word: die Software
-  Level: B1
-  Form: -s
-  Meaning: software
-  Examples:
-    - Mein Computer benötigt spezielle Software, um Webseiten darstellen zu können.
-
-- Word: der Song
-  Level: B1
-  Form: -s
-  Meaning: song
-  Examples:
-    - Der Song „Yesterday“ der Beatles war weltberühmt.
-
-- Word: der Spot
-  Level: B1
-  Form: -s
-  Meaning: spot (in a show)
-  Examples:
-    - Der Spot führte ein Jahr lang die Charts an.
-
-- Word: das Steak
-  Level: B1
-  Form: -s
-  Meaning: steak
-  Examples:
-    - Ich habe jetzt Appetit auf ein schönes Steak.
-
-- Word: surfen
-  Level: A2
-  Form: surft, surfte, hat gesurft
-  Meaning: to surf
-  Examples:
-    - Auf Hawaii werde ich surfen.
-
-- Word: der Swimmingpool
-  Level: B1
-  Form: -s
-  Meaning: swimming pool
-  Examples:
-    - Zwischen dem Hotel und dem Strand gab es zwei Swimmingpools, einen für Kinder und einen für Erwachsene.
-
-- Word: das Taxi
-  Level: A1
-  Form: -s
-  Meaning: taxi
-  Examples:
-    - Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.
-    - Bitte rufen Sie mir ein Taxi.
-
-- Word: das Team
-  Level: A2
-  Form: -s
-  Meaning: team
-  Examples:
-    - Ich arbeite gern in einem Team.
-    - Welches Fußballteam findest du am besten?
-
-- Word: der Terminal
-  Level: B1
-  Form: -s
-  Meaning: terminal (airport, etc))
-  Examples:
-    - Im Süden des Frankfurter Flughafens entsteht das modernste Terminal Europas.
-
-- Word: die Tour
-  Level: B1
-  Form: -en
-  Meaning: tour
-  Examples:
-    - Wo kann ich eine Stadttour buchen?
-    - Wir gehen am Wochenende wandern. Ich kenne
-      eine schöne Tour in den Bergen.
-
-- Word: der Trend
-  Level: B1
-  Form: -s
-  Meaning: trend
-  Examples:
-    - Radfahren ist wieder im Trend.
-
-- Word: das T-Shirt
-  Level: A2
-  Form: -s
-  Meaning: t-shirt
-  Examples:
-    - Haben Sie dieses T-Shirt auch in M?
-
-- Word: twittern
-  Level: B1
-  Form: twittert, twitterte, hat getwittert
-  Meaning: to tweet
-  Examples:
-    - Wer will, kann via Facebook ein Fan von ihr werden, oder twitternd mit ihr in Kontakt treten.
-
-- Word: der User
-  Level: B1
-  Form: '-'
-  Feminine:
-    Word: die Userin
-    Form: -nen
-  Meaning: user
-  Examples:
-    - Bis zu seinem Entzug war er regelmäßiger User von Kokain.
 
 - Word: die Anweisungen
   Level: M
