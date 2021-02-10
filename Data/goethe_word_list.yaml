@@ -711,7 +711,6 @@
   Form: -n
   Feminine:
     Word: die Angehörige
-    Level: B1
     Form: -n
   Meaning: relative (cousin, etc)
   Examples:
@@ -810,7 +809,8 @@
 
 - Word: anmachen
   Level: A1
-  Form: macht an, machte an hat angemacht
+  Form: macht an, machte an, hat angemacht
+  Meaning: to turn on
   Examples:
     - Mach bitte das Licht an!
 
@@ -821,9 +821,10 @@
   Examples:
     - Für diesen Kurs müssen Sie sich unbedingt vorher anmelden.
 
-- Word: (sich) anmelden
+- Word: sich anmelden
   Level: A1
   Form: meldet sich an, meldete sich an, hat sich angemeldet
+  Meaning: to register oneself in
   Examples:
     - Wo kann ich mich anmelden?
 
@@ -940,6 +941,7 @@
 
 - Word: an sein
   Level: A1
+  Meaning: to be on
   Examples:
     - Heute Nacht war das Licht an.
 
@@ -1345,6 +1347,7 @@
 
 - Word: auf sein
   Level: A1
+  Meaning: open, finished, gone
   Examples:
     - Du brauchst den Schlüssel nicht. Die Wohnung ist auf.
 
@@ -1950,6 +1953,7 @@
 - Word: aussteigen
   Level: A1
   Form: steigt aus, stieg aus, ist ausgestiegen
+  Meaning: to exit, to get off
   Examples:
     - Wo muss ich aussteigen? – An der nächsten Haltestelle.
 
