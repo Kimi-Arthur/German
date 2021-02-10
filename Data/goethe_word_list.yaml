@@ -1011,6 +1011,14 @@
   Examples:
     - Bei dem Treffen waren alle Mitglieder anwesend.
 
+- Word: der Antwortbogen
+  Level: A2
+  Form: '-'
+  Meaning: answer sheet/ paper
+  Examples:
+    - Bitte übertragen Sie Ihre Lösungen auf den
+      Antwortbogen.
+
 - Word: antworten
   Level: A1
   Form: antwortet, antwortete, hat geantwortet
@@ -1037,6 +1045,13 @@
   Meaning: lawyer
   Examples:
     - Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen.
+
+- Word: die Anweisung
+  Level: A2
+  Form: -en
+  Meaning: instructions
+  Examples:
+    - die Bestimmung oder Vorgabe, wer etwas bekommen soll
 
 - Word: anzeigen
   Level: B1
@@ -1812,6 +1827,15 @@
     - example1
     - example2
     - example3
+
+- Word: die Aussage
+  Level: A1
+  Form: -n
+  Meaning: statement
+  Examples:
+    - Ist die Aussage richtig oder falsch?
+    - Sind die Aussagen richtig
+      oder falsch?
 
 - Word: ausschließen
   Level: B1
@@ -5117,12 +5141,12 @@
 
 - Word: die Durchsage
   Level: A1
-  Form: ¨-e
-  Meaning: announcement
+  Form: -n
+  Meaning: announcement (radio)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe die Durchsage nicht verstanden.
+    - Sie hören eine Durchsage
+      im Radio.
 
 - Word: der Durchschnitt
   Level: B1
@@ -5649,6 +5673,15 @@
     - example1
     - example2
     - example3
+
+- Word: die Einleitung
+  Level: B1
+  Form: -en
+  Meaning: introduction, induction
+  Examples:
+    - Schreiben Sie eine
+      passende Einleitung und
+      einen Schluss.
 
 - Word: einmal
   Level: A1
@@ -7788,6 +7821,14 @@
     - example1
     - example2
     - example3
+
+- Word: die Folie
+  Level: B1
+  Form: -n
+  Meaning: background, foil
+  Examples:
+    - Dazu finden Sie hier fünf
+      Folien.
 
 - Word: fordern
   Level: B1
@@ -10409,6 +10450,13 @@
     - example2
     - example3
 
+- Word: das Hilfsmittel
+  Level: B1
+  Form: '-'
+  Meaning: aids (help)
+  Examples:
+    - Hilfsmittel wie Mobiltelefone oder Wörterbücher sind nicht erlaubt.
+
 - Word: hinten
   Level: A1
   Form: ¨-e
@@ -12197,6 +12245,14 @@
     - example2
     - example3
 
+- Word: der Kommentar
+  Level: B1
+  Form: -e
+  Meaning: commentary
+  Examples:
+    - Sie lesen Kommentare zu
+      einem Artikel.
+
 - Word: die Kommunikation
   Level: B1
   Form: ¨-e
@@ -13752,21 +13808,25 @@
 
 - Word: lösen
   Level: B1
-  Form: ¨-e
+  Form: löst, löste, hat gelöst
   Meaning: to solve, buy (ticket)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Dazu lösen Sie acht Aufgaben.
+    - Wir müssen dieses Problem lösen.
+    - Sie können die Fahrkarten auch am
+      Automaten lösen.
 
 - Word: die Lösung
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: solution
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Lösung ist ganz einfach.
+    - Wählen Sie bei jeder Aufgabe die richtige Lösung.
+    - Wir fahren alle zusammen mit dem
+      Zug. Das ist die beste Lösung.
+    - Die Aufgabe ist nicht schwer. Die
+      Lösung ist ganz einfach.
 
 - Word: die Luft
   Level: B1
@@ -14727,6 +14787,17 @@
     - example2
     - example3
 
+- Word: der Moderator
+  Level: B1
+  Form: -en
+  Feminine:
+    Word: die Moderatorin
+    Form: -nen
+  Meaning: presenter
+  Examples:
+    - Die Moderatorin der Radiosendung diskutiert mit zwei
+      Gästen.
+
 - Word: modern
   Level: B1
   Form: ¨-e
@@ -14735,6 +14806,14 @@
     - example1
     - example2
     - example3
+
+- Word: das Modul
+  Level: B1
+  Form: -e
+  Meaning: module
+  Examples:
+    - Das Modul Hören besteht
+      aus vier Teilen.
 
 - Word: mögen
   Level: A1
@@ -16766,12 +16845,14 @@
 
 - Word: die Präsentation
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: presentation
   Examples:
-    - example1
-    - example2
-    - example3
+    - Erklären Sie den Inhalt und
+      die Struktur Ihrer
+      Präsentation.
+    - Die Schülerin hat für ihre Präsentation
+      eine gute Note bekommen.
 
 - Word: die Praxis
   Level: A1
@@ -17008,13 +17089,15 @@
     - example3
 
 - Word: der Punkt
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: point, dot, full stop
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schreiben Sie etwas zu
+      allen drei Punkten.
+    - Das Konzert beginnt um Punkt 20 Uhr.
+    - Beim letzten Satz fehlt der Punkt.
+    - Diesen Punkt haben wir noch nicht besprochen.
 
 - Word: pünktlich
   Level: A1
@@ -17976,6 +18059,14 @@
     - example1
     - example2
     - example3
+
+- Word: die Rückmeldung
+  Level: B1
+  Form: -en
+  Meaning: feedback
+  Examples:
+    - Reagieren Sie auf die
+      Rückmeldung.
 
 - Word: die Rücksicht
   Level: B1
@@ -20866,6 +20957,15 @@
     - example2
     - example3
 
+- Word: die Struktur
+  Level: B1
+  Form: -en
+  Meaning: structure
+  Examples:
+    - Erklären Sie den Inhalt und
+      die Struktur Ihrer
+      Präsentation.
+
 - Word: stumm
   Level: B1
   Form: ¨-e
@@ -21505,6 +21605,14 @@
     - example1
     - example2
     - example3
+
+- Word: der Textaufbau
+  Level: B1
+  Form: -ten
+  Meaning: text structure
+  Examples:
+    - Achten Sie auf den
+      Textaufbau.
 
 - Word: das Theater
   Level: B1
@@ -22343,6 +22451,13 @@
     - example1
     - example2
     - example3
+
+- Word: übertragen
+  Level: B1
+  Form: überträgt, übertrug, hat übertragen
+  Meaning: to transfer, apply
+  Examples:
+    - Vergessen Sie bitte nicht, Ihre Lösungen auf den Antwortbogen zu übertragen.
 
 - Word: übertreiben
   Level: B1
@@ -26078,6 +26193,13 @@
     - example2
     - example3
 
+- Word: zuordnen
+  Level: M
+  Form: ordnet zu, ordnete zu, hat zugeordnet
+  Meaning: to assign (to)
+  Examples:
+    - Ordnen Sie die Aussagen zu.
+
 - Word: zurechtkommen
   Level: B1
   Form: ¨-e
@@ -26307,177 +26429,6 @@
   Level: A1
   Form: ¨-e
   Meaning: in between, between
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Anweisungen
-  Level: M
-  Form: ¨-e
-  Meaning: Instructions
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Antwortbogen
-  Level: M
-  Form: ¨-e
-  Meaning: answer sheet/ paper
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Aussage
-  Level: M
-  Form: ¨-e
-  Meaning: statement
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Durchsage
-  Level: M
-  Form: ¨-e
-  Meaning: announcement (radio)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Einleitung
-  Level: M
-  Form: ¨-e
-  Meaning: introduction, induction
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Folie
-  Level: M
-  Form: ¨-e
-  Meaning: background, foil
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das Hilfsmittel
-  Level: M
-  Form: ¨-e
-  Meaning: aids (help)
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Kommentar
-  Level: M
-  Form: ¨-e
-  Meaning: commentary
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: lösen
-  Level: M
-  Form: ¨-e
-  Meaning: to solve
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Lösung
-  Level: M
-  Form: ¨-e
-  Meaning: solution
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Moderator
-  Level: M
-  Form: ¨-e
-  Meaning: presenter
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: das Modul
-  Level: M
-  Form: ¨-e
-  Meaning: module
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Präsentation
-  Level: M
-  Form: ¨-e
-  Meaning: presentation
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Punkt
-  Level: M
-  Form: ¨-e
-  Meaning: point
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Rückmeldung
-  Level: M
-  Form: ¨-e
-  Meaning: feedback
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: die Struktur
-  Level: M
-  Form: ¨-e
-  Meaning: structure
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: der Textaufbau
-  Level: M
-  Form: ¨-e
-  Meaning: text structure
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: übertragen
-  Level: M
-  Form: ¨-e
-  Meaning: to transfer, apply
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: zuordnen
-  Level: M
-  Form: ¨-e
-  Meaning: to assign (to)
   Examples:
     - example1
     - example2
