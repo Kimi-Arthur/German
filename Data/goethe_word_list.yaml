@@ -2475,7 +2475,7 @@
 - Word: beantworten
   Level: A2
   Form: beantwortet, beantwortete,
-          hat beantwortet
+    hat beantwortet
   Meaning: to answer
   Examples:
     - Können Sie meine Frage bitte beantworten?
@@ -4347,14 +4347,11 @@
     - example2
     - example3
 
-- Word: chic/ schick
+- Word: chic
   Level: B1
-  Form: ¨-e
-  Meaning: stylish
+  Meaning: stylish (c-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich finde dein Kleid sehr schick.
 
 - Word: der Chip
   Level: B1
@@ -9846,14 +9843,21 @@
     - example2
     - example3
 
-- Word: das Hähnchen / das Hühnchen
-  Level: B1
-  Form: ¨-e
-  Meaning: chicken
+- Word: das Hähnchen
+  Level: A1
+  Form: '-'
+  Synonym: (D) = (A) Hendl, (CH) Poulet
+  Meaning: chicken meat (cock)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ein Hähnchen mit Pommes, bitte!
+
+- Word: das Hühnchen
+  Level: B1
+  Form: '-'
+  Meaning: chicken meat (hen)
+  Examples:
+    - Zum Mittagessen gibt es Hühnchen mit
+      Reis.
 
 - Word: halb
   Level: B1
@@ -16832,14 +16836,14 @@
     - example2
     - example3
 
-- Word: das Portemonnaie / das Portmonee
+- Word: das Portemonnaie
   Level: B1
-  Form: ¨-e
+  Form: -s
+  Synonym: (D, CH) = Brieftasche, (A) Geldbörse
   Meaning: wallet
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe nur Kleingeld in meinem
+      Portemonnaie.
 
 - Word: die Portion
   Level: B1
@@ -18610,6 +18614,12 @@
     - example1
     - example2
     - example3
+
+- Word: schick
+  Level: B1
+  Meaning: stylish (s-)
+  Examples:
+    - Ich finde dein Kleid sehr schick.
 
 - Word: schicken
   Level: A1
@@ -21505,14 +21515,25 @@
     - example2
     - example3
 
-- Word: das/ der Teil
+- Word: das Teil
   Level: B1
-  Form: ¨-e
-  Meaning: part
+  Form: -e
+  Meaning: part (of physical, inanimate objects)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Dieses Teil müssen wir erst bestellen.
+
+- Word: der Teil
+  Level: A1
+  Form: -e
+  Meaning: part (of living things or abstract concepts)
+  Examples:
+    - Lies bitte auch den zweiten Teil.
+    - Was steht in dem Brief? Ich habe den
+      ersten Teil nicht verstanden.
+    - Der Film hat zwei Teile. Heute kommt
+      Teil 1.
+    - Gefällt dir der neue Job? – Nur zum
+      Teil.
 
 - Word: die Teilzeit
   Level: B1
@@ -28248,23 +28269,19 @@
     - example2
     - example3
 
-- Word: heute ist der erste März/ der erste Dritte
+- Word: heute ist der erste März
   Level: M
   Form: ¨-e
   Meaning: today is the first of March
   Examples:
-    - example1
-    - example2
-    - example3
+    - der erste März = der erste Dritte
 
-- Word: Berlin, zehnter April/ zehnter Vierter zweitausendundzwölf/ zweitausendzwölf
+- Word: Berlin, zehnter April zweitausendundzwölf
   Level: M
-  Form: ¨-e
   Meaning: Berlin, 10th April 2012
   Examples:
-    - example1
-    - example2
-    - example3
+    - zehnter April = zehnter Vierter
+    - zweitausendundzwölf = zweitausendzwölf
 
 - Word: die Feiertage
   Level: M
@@ -28338,14 +28355,19 @@
     - example2
     - example3
 
-- Word: der Frühling/ das Frühjahr
+- Word: der Frühling
   Level: M
-  Form: ¨-e
+  Form: -e
   Meaning: spring
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Frühling blüht die Natur auf.
+
+- Word: das Frühjahr
+  Level: M
+  Form: -e
+  Meaning: spring (months)
+  Examples:
+    - Im Frühjahr blüht die Natur auf.
 
 - Word: der Sommer
   Level: M
