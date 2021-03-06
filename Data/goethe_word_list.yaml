@@ -5009,7 +5009,7 @@
 - Word: doppelt
   Level: B1
   Form: ¨-e
-  Meaning: double
+  Meaning: double (d-)
   Examples:
     - example1
     - example2
@@ -5087,6 +5087,12 @@
     - example2
     - example3
 
+- Word: drin
+  Level: B1
+  Meaning: inside, indoor (4)
+  Examples:
+    - In der Packung ist nichts mehr drin.
+
 - Word: dringend
   Level: B1
   Form: ¨-e
@@ -5096,14 +5102,14 @@
     - example2
     - example3
 
-- Word: drin/drinnen
+- Word: drinnen
   Level: B1
-  Form: ¨-e
-  Meaning: inside, indoor
+  Meaning: inside, indoor (7)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wollen Sie drinnen oder draußen sitzen?
+    - Hier drinnen ist es sehr warm.
+    - Wo wollt ihr sitzen? Draußen oder drinnen?
+    - Bei der Hitze ist es drinnen viel angenehmer.
 
 - Word: die Droge
   Level: B1
@@ -5589,7 +5595,7 @@
 - Word: einfach
   Level: A1
   Form: ¨-e
-  Meaning: simple, simply
+  Meaning: simple, simply, single
   Examples:
     - example1
     - example2
@@ -7232,14 +7238,12 @@
     - example2
     - example3
 
-- Word: die Fantasie / die Phantasie
+- Word: die Fantasie
   Level: B1
-  Form: ¨-e
-  Meaning: fantasy
+  Form: -n
+  Meaning: fantasy (F-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Sohn malt sehr gut. Er hat viel Fantasie.
 
 - Word: fantastisch
   Level: B1
@@ -16467,23 +16471,23 @@
     - example2
     - example3
 
-- Word: in Pension gehen/ sein
+- Word: in Pension
   Level: B1
-  Form: ¨-e
-  Meaning: to retire/ be retired
+  Form: gehen/sein
+  Synonym: (D, A) = (D) in Rente, (D, CH) pensioniert
+  Meaning: to retire / to be retired (i-P)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich gehe Ende des Jahres in Pension.
+    - Mein Nachbar ist seit zehn Jahren in Pension.
 
-- Word: pensioniert werden/ sein
+- Word: pensioniert
   Level: B1
-  Form: ¨-e
-  Meaning: to become / to be pensioned off
+  Form: werden/sein
+  Synonym: (D, CH) = (D, A) in Pension, (D) in Rente
+  Meaning: to become / to be pensioned off (p-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich werde Ende des Jahres pensioniert.
+    - Mein Nachbar ist seit zehn Jahren pensioniert. 
 
 - Word: der Pensionist
   Level: B1
@@ -16658,14 +16662,12 @@
     - example2
     - example3
 
-- Word: die Phantasie / die Fantasie
+- Word: die Phantasie
   Level: B1
-  Form: ¨-e
-  Meaning: fantasy
+  Form: -n
+  Meaning: fantasy (P-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Sohn malt sehr gut. Er hat viel Phantasie.
 
 - Word: das Picknick
   Level: B1
@@ -17844,14 +17846,14 @@
     - example2
     - example3
 
-- Word: in Rente gehen/ sein
+- Word: in Rente
   Level: B1
-  Form: ¨-e
-  Meaning: to retire/ go into pension
+  Form: gehen/sein
+  Synonym: (D) = (D, A) in Pension, (D, CH) pensioniert
+  Meaning: to retire / to be in pension (i-R)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich gehe Ende des Jahres in Rente.
+    - Mein Nachbar ist seit zehn Jahren in Rente.
 
 - Word: der Rentner
   Level: B1
@@ -17961,14 +17963,13 @@
     - example2
     - example3
 
-- Word: die Rezeption / die Reception
-  Level: B1
-  Form: ¨-e
+- Word: die Rezeption
+  Level: A1
+  Form: -en
   Meaning: reception
   Examples:
-    - example1
-    - example2
-    - example3
+    - Fragen Sie bitte im Hotel an der Rezeption.
+    - Geben Sie bitte den Schlüssel an der Rezeption ab.
 
 - Word: der Richter
   Level: B1
@@ -19708,14 +19709,23 @@
     - example2
     - example3
 
-- Word: der Ski / der Schi
-  Level: B1
-  Form: ¨-e
-  Meaning: ski
+- Word: der Ski
+  Level: A2
+  Form: -/-er
+  Meaning: ski (-k-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Gehen wir am Wochenende Ski fahren?
+    - Er kauft sich neue Ski.
+    - Gehen wir am Wochenende Ski laufen?
+    - Das sind aber schöne Skier!
+
+- Word: der Schi
+  Level: B1
+  Form: -/-er
+  Meaning: ski (-c-)
+  Examples:
+    - Gehen wir am Wochenende Schi laufen?
+    - Das sind aber schöne Schier!
 
 - Word: das Smartphone
   Level: B1
@@ -19932,14 +19942,12 @@
     - example2
     - example3
 
-- Word: die Soße  / die Sauce
+- Word: die Soße
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: sauce
   Examples:
-    - example1
-    - example2
-    - example3
+    - Gibst du mir bitte mal die Soße?
 
 - Word: das Souvenir
   Level: B1
@@ -19959,14 +19967,13 @@
     - example2
     - example3
 
-- Word: so viel /so viel wie
+- Word: so viel (wie)
   Level: B1
   Form: ¨-e
   Meaning: so much
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe so viel gegessen. Jetzt ist mir schlecht.
+    - Ich verdiene nur halb so viel wie er.
 
 - Word: sowieso
   Level: B1
@@ -25789,14 +25796,12 @@
     - example2
     - example3
 
-- Word: die Zahncreme / die Zahnpasta
+- Word: die Zahnpasta
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: toothpaste
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die neue Zahnpasta riecht sehr gut.
 
 - Word: die Zange
   Level: B1
@@ -27792,23 +27797,21 @@
     - example2
     - example3
 
-- Word: ein Grad unter Null/ minus ein Grad
+- Word: ein Grad unter Null
   Level: M
-  Form: ¨-e
-  Meaning: minus one degree
-  Examples:
-    - example1
-    - example2
-    - example3
+  Meaning: minus one degree (u-)
 
-- Word: vier Grad über Null/ plus vier Grad
+- Word: minus ein Grad
   Level: M
-  Form: ¨-e
-  Meaning: four degrees centigrade
-  Examples:
-    - example1
-    - example2
-    - example3
+  Meaning: minus one degree (m-)
+
+- Word: vier Grad über Null
+  Level: M
+  Meaning: four degrees centigrade (ü-)
+
+- Word: plus vier Grad
+  Level: M
+  Meaning: four degrees centigrade (p-)
 
 - Word: ein Prozent
   Level: M
@@ -28188,14 +28191,11 @@
     - example2
     - example3
 
-- Word: zweifach/ doppelt
+- Word: zweifach
   Level: M
-  Form: ¨-e
-  Meaning: double
+  Meaning: double (z-)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Jedes hergestellte Produkt wird von uns zweifach kontrolliert.
 
 - Word: plus
   Level: M
@@ -28328,14 +28328,12 @@
     - example2
     - example3
 
-- Word: der/ das Silvester
+- Word: der Silvester
   Level: M
-  Form: ¨-e
+  Form: '-'
   Meaning: New years eve
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zu Silvester werden viele Feuerwerkskörper verschossen.
 
 - Word: der Nationalfeiertag
   Level: M
