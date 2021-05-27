@@ -2,15 +2,15 @@
 
 ## Common Modalverben
 
-| Word    | Konjugation        | Meaning          |
-| ------- | ------------------ | ---------------- |
-| müssen  | muss, musst, müsst | must             |
-| sollen  |                    | should           |
-| können  |                    | to be able to    |
-| dürfen  |                    | to be allowed    |
-| möchten |                    | would like       |
-| mögen   |                    | to like          |
-| wollen  |                    | to want (strong) |
+| Word    | Konjugation               | Meaning          |
+| ------- | ------------------------- | ---------------- |
+| müssen  | muss, musst, müsst        | must             |
+| sollen  | soll, sollst, sollt       | should           |
+| können  | kann, kannst, könnt       | to be able to    |
+| dürfen  | darf, darfst, dürft       | to be allowed    |
+| möchten | möchte, möchtest, möchtet | would like       |
+| mögen   | mag, magst, mögt          | to like          |
+| wollen  | will, willst, wollt       | to want (strong) |
 
 ## sollen = should [#](# "A1P202")
 
@@ -77,7 +77,7 @@ Subjekt + **Modelverb** + Objekt + Verb (original form)
 | Nein, leider kann ich nicht gut kochen. | No, unfortunately I can't cook well. |
 | Nein, leider nicht.                     | No, unfortunately not.               |
 
-## müseen = have to
+## müssen = have to
 
 ### Sentence Structure
 

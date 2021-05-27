@@ -1,6 +1,6 @@
 # Imperativ
 
-## Telling you what to do / give an order.
+Telling you what to do / give an order.
 
 ## Structure
 
