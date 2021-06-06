@@ -12,5 +12,5 @@ for word in words:
 
 output = [{'Id':k,'Words':v} for k,v in lists.items()]
 
-with codecs.open('word_lists.yaml', 'w', 'utf-8') as f:
+with codecs.open('goethe_lists.yaml', 'w', 'utf-8') as f:
     yaml.dump(output, f)
