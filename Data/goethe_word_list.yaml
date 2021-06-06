@@ -3529,13 +3529,17 @@
     - example3
 
 - Word: ein bisschen
-  Level: B1
-  Form: ¨-e
+  Level: A1
   Meaning: a bit
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich spreche Englisch, Französisch und ein bisschen
+      Deutsch.
+    - Können Sie bitte ein bisschen lauter sprechen?
+    - Ich spreche ein bisschen Französisch.
+    - Möchten Sie noch ein bisschen Salat?
+    - Wenn Sie ein bisschen warten, können
+      wir zusammen gehen.
+    - Sprechen Sie Englisch? – Ein bisschen.
 
 - Word: bitte
   Level: A1
@@ -15066,13 +15070,15 @@
     - example3
 
 - Word: der Nachbar
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
+  Feminine:
+    Word: die Nachbarin
+    Form: -nen
   Meaning: neighbour
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Nachbar kommt aus Brasilien und meine Nachbarin ist Italienerin.
+    - Die neuen Nachbarn sind sehr nett.
 
 - Word: nachdem
   Level: B1
@@ -23910,13 +23916,18 @@
     - example3
 
 - Word: (sich) verstehen
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: versteht, verstand, hat verstanden
   Meaning: to understand
   Examples:
-    - example1
-    - example2
-    - example3
+    - Können Sie mich verstehen?
+    - Ich verstehe diese Aufgabe nicht.
+    - Ich kann Sie kaum verstehen. Sprechen
+      Sie bitte lauter.
+    - Den Satz verstehe ich nicht.
+    - Ich verstehe nichts von Computern.
+    - Unsere beiden Kinder verstehen sich
+      sehr gut.
 
 - Word: versuchen
   Level: B1
@@ -28956,3 +28967,24 @@
     - example1
     - example2
     - example3
+
+- Word: dran sein
+  Level: K
+  Meaning: to be somebody's turn in a game
+  Examples:
+    - Du bist dran!
+
+- Word: schummeln
+  Level: K
+  Form: schummelt, schummelte, hat geschummelt
+  Meaning: to cheat (s-)
+  Examples:
+    - Er hat beim Spielen ein bisschen geschummelt.
+
+- Word: mogeln
+  Level: K
+  Form: mogelt, mogelte, hat gemogelt
+  Meaning: to cheat (m-)
+  Examples:
+    - Unser Kleiner versucht immer mal wieder zu mogeln.
+
