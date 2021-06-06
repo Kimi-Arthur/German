@@ -4096,13 +4096,15 @@
     - example3
 
 - Word: das Büro
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: office
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich arbeite in einem Büro.
+    - Unser Büro ist bis Dienstag geschlossen.
+    - Unser Büro bleibt samstags
+      geschlossen.
+    - Ich möchte in einem Büro arbeiten.
 
 - Word: die Bürste
   Level: B1
@@ -5166,22 +5168,24 @@
     - example3
 
 - Word: (sich) duschen
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: duscht,
+    duschte, hat geduscht
   Meaning: to have a shower
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bade nicht so gern, ich dusche lieber.
+    - Möchten Sie sich duschen? Das Badezimmer ist dort
+      hinten links.
+    - "Wenn Sie sich duschen wollen: Das Badezimmer ist dort hinten links."
 
 - Word: die Dusche
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: shower
   Examples:
-    - example1
-    - example2
-    - example3
+    - Unsere Wohnung hat nur eine Dusche.
+    - Wir haben leider nur noch ein Zimmer
+      mit Dusche.
 
 - Word: duzen
   Level: B1
@@ -5972,12 +5976,12 @@
 
 - Word: empfehlen
   Level: A1
-  Form: ¨-e
+  Form: empfiehlt,
+    empfahl, hat empfohlen
   Meaning: to recommend
   Examples:
-    - example1
-    - example2
-    - example3
+    - Welchen Wein können Sie mir empfehlen?
+    - Was können Sie mir denn empfehlen?
 
 - Word: die Empfehlung
   Level: B1
@@ -6179,12 +6183,16 @@
 
 - Word: entschuldigen
   Level: A1
-  Form: ¨-e
+  Form: entschuldigt,
+    entschuldigte,
+    hat entschuldigt
   Meaning: to apologise
   Examples:
-    - example1
-    - example2
-    - example3
+    - Entschuldigen Sie bitte, dass ich Sie
+      störe. Aber es gibt ein Problem.
+    - Ich möchte mich bei dir entschuldigen.
+    - Herr Meier lässt sich entschuldigen, er
+      ist stark erkältet.
 
 - Word: die Entschuldigung
   Level: A1
@@ -6460,13 +6468,18 @@
     - example3
 
 - Word: erinnern
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: erinnert,
+    erinnerte, hat erinnert
   Meaning: to remember
   Examples:
-    - example1
-    - example2
-    - example3
+    - Erinnerst du dich an José? - Nein, ich erinnere mich nicht an ihn, tut mir leid.
+    - Kannst du mich morgen bitte an meinen Arzttermin
+      erinnern?
+    - Bitte, erinnern Sie mich noch einmal an
+      den Termin.
+    - Ich erinnere mich noch genau an
+      Francescos Vater.
 
 - Word: die Erinnerung
   Level: B1
@@ -6803,21 +6816,22 @@
 
 - Word: essen
   Level: A1
-  Form: ¨-e
+  Form: isst, aß,
+    hat gegessen
   Meaning: to eat
   Examples:
-    - example1
-    - example2
-    - example3
+    - Was gibt es heute zu essen?
+    - Haben Sie schon zu Mittag gegessen?
+    - Ich esse gern Bananen.
 
 - Word: das Essen
   Level: A1
-  Form: ¨-e
+  Form: '-'
   Meaning: food
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Essen ist heute sehr gut.
+    - Das Essen in der Cafeteria ist meistens ganz gut.
+    - Darf ich Sie zum Essen einladen?
 
 - Word: der Essig
   Level: B1
@@ -6962,21 +6976,26 @@
 
 - Word: fahren
   Level: A1
-  Form: ¨-e
+  Form: fährt, fuhr, ist/hat
+    gefahren
   Meaning: to drive
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich fahre mit dem Auto zur Arbeit.
+    - Achtung an Gleis 17! Der Zug München - Paris fährt
+      jetzt ab.
+    - Wir sind mit dem Zug gefahren.
+    - Fahr nicht so schnell.
+    - Frau Koch fährt einen Mercedes.
+    - Soll ich dich nach Hause fahren?
+    - Er hat das Auto in die Garage gefahren.
 
 - Word: die Fähre
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: ferry
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wir nehmen die Fähre über den
+      Bodensee.
 
 - Word: die Fahrbahn
   Level: B1
@@ -7650,12 +7669,17 @@
 
 - Word: fliegen
   Level: A1
-  Form: ¨-e
+  Form: fliegt, flog,
+    ist geflogen
   Meaning: to fly
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.
+    - Ich fliege in den Ferien nach Spanien.
+    - Wann fliegst du ab?
+    - Der Vogel ist auf einen Baum geflogen.
+    - Diese Maschine fliegt direkt nach New
+      York.
+    - Ich bin nach Berlin geflogen.
 
 - Word: fliehen
   Level: B1
@@ -7909,13 +7933,13 @@
     - example3
 
 - Word: fotografieren
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: fotografiert,
+    fotografierte,
+    hat fotografiert
   Meaning: to photograph
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich fotografiere gern.
 
 - Word: das Foto
   Level: A1
@@ -8756,12 +8780,34 @@
 
 - Word: gehen
   Level: A1
-  Form: ¨-e
+  Form: geht, ging,
+    ist gegangen
   Meaning: to go
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich weiß nicht, wie das geht.
+    - Wie geht‘s? - Es geht.
+    - Jetzt muss ich (aber) leider gehen.
+    - Ich muss zum Arzt gehen.
+    - Das geht (doch) nicht!
+    - Ich gehe jeden Morgen zu Fuß zur
+      Arbeit.
+    - Meine Tochter geht noch aufs
+      Gymnasium.
+    - Ein Freund von mir geht ins Ausland.
+    - Der nächste Zug geht erst in zwei
+      Stunden.
+    - Am Anfang ging alles ganz gut.
+    - Geht Ihre Uhr richtig?
+    - Geht das bis morgen? – Nein, das geht
+      nicht. Ich brauche mehr Zeit.
+    - Der Mantel geht nicht mehr in den
+      Koffer.
+    - Das Fenster geht auf die Straße.
+    - Geht es hier zum Zentrum?
+    - Wie geht es Ihnen heute?
+    - Ist das sehr teuer? – Es geht.
+    - Um was geht es denn?
+    - Warum geht das Licht nicht?
 
 - Word: gehören
   Level: A1
@@ -10659,12 +10705,16 @@
 
 - Word: hören
   Level: A1
-  Form: ¨-e
+  Form: hört, hörte, hat gehört
   Meaning: to hear
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hör mal! Was ist das?
+    - Ich habe das Lied schon mal gehört.
+    - Ich kann nicht mehr so gut hören.
+    - Ich höre jeden Tag die Nachrichten.
+    - Dieses Wort habe ich noch nie gehört.
+    - Ich habe gehört, dass Herr Müller im
+      Krankenhaus liegt.
 
 - Word: der Hörer
   Level: B1
@@ -11415,12 +11465,15 @@
 
 - Word: der Kaffee
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: coffee
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zum Frühstück trinke ich immer Kaffee.
+    - Einen Kaffee, bitte.
+    - Bring bitte noch eine Packung Kaffee
+      mit.
+    - Wir sind bei Müllers zum Kaffee eingeladen.
+    -
 
 - Word: der Kakao
   Level: B1
@@ -12304,12 +12357,24 @@
 
 - Word: können
   Level: A1
-  Form: ¨-e
+  Form: kann, konnte,
+    hat gekonnt (hat können
+    als Modalverb)
   Meaning: to be able to
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich kann Deutsch und Russisch.
+    - Können Sie mir helfen?
+    - Ich kann Deutsch und Russisch. Aber Englisch kann
+      ich nicht.
+    - Ich kann den schweren Koffer nicht
+      tragen.
+    - Sie können mit dem Bus zum Bahnhof
+      fahren.
+    - Kann ich jetzt nach Hause gehen?
+    - Ich kann sehr gut Englisch und
+      Deutsch.
+    - Es kann sein, dass es heute noch
+      regnet.
 
 - Word: das Konsulat
   Level: B1
@@ -13509,14 +13574,16 @@
     - example2
     - example3
 
-- Word: letzt
-  Level: B1
-  Form: ¨-e
+- Word: letzt-
+  Level: A1
   Meaning: last
   Examples:
-    - example1
-    - example2
-    - example3
+    - Morgen ist der letzte Kurstag.
+    - Was hast du letzte Woche gemacht?
+    - Ich wohne im letzten Haus auf der
+      rechten Seite.
+    - Wann haben Sie Ihre Familie das letzte
+      Mal gesehen?
 
 - Word: die Leute
   Level: A1
@@ -15017,12 +15084,17 @@
 
 - Word: müssen
   Level: A1
-  Form: ¨-e
+  Form: muss, musste,
+    hat gemusst (hat müssen
+    als Modalverb)
   Meaning: to have to
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+    - Wie lange müssen Sie arbeiten?
+    - Sie müssen die Miete pünktlich
+      überweisen.
+    - Du musst mich nicht abholen. Nur
+      wenn du willst.
 
 - Word: der Mut
   Level: B1
@@ -15451,12 +15523,15 @@
 
 - Word: neu
   Level: A1
-  Form: ¨-e
   Meaning: new
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bin der neue Kollege.
+    - Wir haben eine neue Wohnung.
+    - Ich bin der neue Mitarbeiter.
+    - Zeig mal! Ist das dein neues Handy?
+    - Mein Wagen ist noch ganz neu.
+    - Man darf hier nicht mehr rauchen? Das
+      ist mir ganz neu.
 
 - Word: die Neuigkeit
   Level: B1
@@ -15487,12 +15562,18 @@
 
 - Word: nicht
   Level: A1
-  Form: ¨-e
   Meaning: not, don't
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das stimmt nicht.
+    - Das ist doch schön, nicht?
+    - Ich kann morgen leider nicht kommen.
+    - Lisa wohnt nicht in Hamburg, sie wohnt in Bremen.
+    - Zigarette? - Danke, ich rauche nicht.
+    - Wie geht es dir? – Nicht so gut.
+    - Das Essen in der Kantine ist gar nicht
+      schlecht.
+    - Du kommst immer zu spät! - Das
+      stimmt nicht.
 
 - Word: die Nichte
   Level: B1
@@ -15514,21 +15595,25 @@
 
 - Word: nichts
   Level: A1
-  Form: ¨-e
   Meaning: nothing
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das macht nichts.
+    - Hier kaufe ich nichts. Der Laden gefällt mir nicht.
+    - Ich habe noch nichts gegessen.
+    - Ich weiß auch nichts Genaues.
+    - Ich habe nichts zum Schreiben dabei.
+    -  Entschuldigung! – Das macht nichts.
 
 - Word: nie
   Level: A1
-  Form: ¨-e
   Meaning: never
   Examples:
-    - example1
-    - example2
-    - example3
+    - Er kommt nie pünktlich.
+    - Der Chef ist nie da.
+    - Warum bist du nie zufrieden?
+    - Bis morgen Abend schaffe ich die
+      Arbeit nie.
+    - Ich gehe nie wieder in dieses Restaurant.
 
 - Word: niedrig
   Level: B1
@@ -18608,12 +18693,15 @@
 
 - Word: schlafen
   Level: A1
-  Form: ¨-e
+  Form: schläft, schlief,
+    hat geschlafen
   Meaning: to sleep
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich schlafe meistens acht Stunden.
+    - Haben Sie gut geschlafen?
+    - Gute Nacht! Schlaf gut und träum süß!
+    - Wenn Sie mal nach München kommen,
+      können Sie bei uns schlafen.
 
 - Word: schlagen
   Level: B1
@@ -18851,21 +18939,41 @@
 
 - Word: schon
   Level: A1
-  Form: ¨-e
   Meaning: already, just
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ist das Essen schon fertig?
+    - Ich wohne schon seit fünf Jahren in Freiburg.
+    - Mirko ist erst fünf. Aber er kann schon
+      lesen.
+    - Karl ist schon über 60. Aber er ist noch
+      sehr fit.
+    - Mach schon, ich kann nicht länger
+      warten.
+    - Keine Sorge. Es wird schon klappen.
+    - Kommst du mit spazieren? – Ich hätte
+      schon Lust, aber ich muss arbeiten.
+    - Ich mag keine Kartoffeln. Und du? – Ich
+      schon.
 
 - Word: schön
   Level: A1
   Form: ¨-e
   Meaning: beautiful
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schönen Urlaub!
+    - Das ist sehr schön.
+    - Schöne Ferien!
+    - Das Bild ist sehr schön.
+    - Schön, dass du kommst.
+    - Ich finde eure Wohnung sehr schön.
+    - Es ist schön heute.
+    - Wir wünschen Ihnen einen schönen
+      Aufenthalt in Kiel.
+    - Schöne Grüße von Herrn Meier.
+    - Möchten Sie noch eine Tasse Kaffee? –
+      Nein, danke schön.
+    - Ich muss noch arbeiten. – Schön, dann
+      bleiben wir zu Hause.
 
 - Word: der Schrank
   Level: A1
@@ -19211,12 +19319,25 @@
 
 - Word: sehen
   Level: A1
-  Form: ¨-e
+  Form: sieht, sah,
+    hat gesehen
   Meaning: to see
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich kann dich nicht sehen.
+    - Ich habe diesen Jungen schon einmal gesehen.
+    - Möchtest du einen Film sehen?
+    - Ich habe Lisa lange nicht gesehen. Ist sie im Urlaub?
+    - Darf ich mal Ihren Ausweis sehen?
+    - Ich sehe nicht gut. Ich brauche eine
+      Brille.
+    - Ich habe einen schönen Film gesehen.
+    - Wir haben uns lange nicht gesehen.
+    - Sieh mal! Es schneit.
+    - Ich komme gleich wieder, ich muss mal
+      schnell nach dem Essen sehen.
+    - Was machst du im Urlaub? – Ich weiß
+      noch nicht. Mal sehen.
+    - Du siehst deiner Mutter sehr ähnlich.
 
 - Word: die Sehenswürdigkeit
   Level: A1
@@ -19256,21 +19377,20 @@
 
 - Word: seit
   Level: A1
-  Form: ¨-e
   Meaning: since
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich wohne seit drei Jahren in Köln.
+    - Wir wohnen seit dem 1. März in
+      Dortmund.
+    - Seit ich in Deutschland wohne, lerne
+      ich Deutsch.
 
 - Word: seitdem
   Level: B1
-  Form: ¨-e
   Meaning: since (then)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich
+      Deutsch.
 
 - Word: die Seite
   Level: B1
@@ -20148,48 +20268,47 @@
 
 - Word: die Sprache
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: language
   Examples:
-    - example1
-    - example2
-    - example3
+    - Welche Sprachen sprichst du? – Ich spreche
+      Englisch und Spanisch.
+    - Franco spricht mehrere Sprachen
 
 - Word: die Fremdsprache
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: foreign language
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich spreche drei Fremdsprachen.
 
 - Word: die Muttersprache
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: mother language
   Examples:
-    - example1
-    - example2
-    - example3
+    - Was ist Ihre Muttersprache?
 
 - Word: die Zweitsprache
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: second language
   Examples:
-    - example1
-    - example2
-    - example3
+    - Deutsch ist seine Zweitsprache.
 
 - Word: sprechen
   Level: A1
-  Form: ¨-e
+  Form: spricht, sprach,
+    hat gesprochen
   Meaning: to speak, talk
   Examples:
-    - example1
-    - example2
-    - example3
+    - Kann ich (mit) Herrn Klein sprechen?
+    - Können Sie bitte etwas lauter
+      sprechen?
+    - Jean spricht sehr gut Deutsch.
+    - Ich möchte nicht darüber sprechen.
+    - Die Bundeskanzlerin spricht heute
+      Abend im Fernsehen.
 
 - Word: die Sprechstunde
   Level: B1
@@ -22036,30 +22155,31 @@
 
 - Word: (sich) trennen
   Level: B1
-  Form: ¨-e
+  Form: trennt,
+    trennte, hat getrennt
   Meaning: to separate
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wir leben getrennt.
+    - Meine Freundin und ihr Mann haben
+      sich getrennt.
+    - Wir müssen den Müll trennen. Das
+      kommt zum Altpapier.
 
 - Word: die Trennung
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: separation
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Trennung von der Familie war
+      schwierig.
+    - Meine Kollegin ist noch nicht
+      geschieden, aber sie lebt in Trennung.
 
 - Word: getrennt leben
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: to live separate lives
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich lebe getrennt von meiner Frau.
 
 - Word: die Treppe
   Level: A1
@@ -22099,21 +22219,20 @@
 
 - Word: trinken
   Level: A1
-  Form: ¨-e
+  Form: trinkt, trank,
+    hat getrunken
   Meaning: to drink
   Examples:
-    - example1
-    - example2
-    - example3
+    - Möchtest du etwas trinken?
+    - Trinken Sie einen Tee mit uns?
 
 - Word: das Trinkgeld
   Level: B1
-  Form: ¨-e
+  Form: -er
   Meaning: tip
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe dem Kellner zwei Euro
+      Trinkgeld gegeben.
 
 - Word: trocken
   Level: B1
@@ -22336,12 +22455,14 @@
 
 - Word: übernachten
   Level: A1
-  Form: ¨-e
-  Meaning: to sleep/ stay overnight
+  Form: übernachtet,
+    übernachtete,
+    hat übernachtet
+  Meaning: to sleep / stay overnight
   Examples:
-    - example1
-    - example2
-    - example3
+    - Du kannst bei mir übernachten.
+    - Wir haben auf dem Campingplatz
+      übernachtet.
 
 - Word: die Übernachtung
   Level: B1
@@ -24731,22 +24852,25 @@
     - example3
 
 - Word: (sich) waschen
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: wäscht,
+    wusch, hat gewaschen
   Meaning: to wash
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wo kann ich mir die Hände waschen?
+    - Ich muss morgen waschen.
+    - Ich habe die Bluse gerade frisch
+      gewaschen.
+    - Wo kann ich mir die Hände waschen?
 
 - Word: die Wäsche
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
   Meaning: washing
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich muss heute noch Wäsche waschen.
+    - Kannst du bitte die Wäsche
+      aufhängen?
 
 - Word: das Waschmittel
   Level: B1
@@ -28907,12 +29031,10 @@
 
 - Word: das Jahr
   Level: M
-  Form: ¨-e
+  Form: -e
   Meaning: year
   Examples:
-    - example1
-    - example2
-    - example3
+    - Der Bau des Hauses dauerte 2 Jahre.
 
 - Word: jährlich
   Level: M
@@ -28987,4 +29109,38 @@
   Meaning: to cheat (m-)
   Examples:
     - Unser Kleiner versucht immer mal wieder zu mogeln.
+
+- Word: trennbar
+  Level: K
+  Meaning: separable
+  Examples:
+    - Bei den Champignons sind Hut und Stiel leicht voneinander trennbar.
+
+- Word: zerreißen
+  Level: K
+  Form: zerreißt, zerriss, hat zerrissen
+  Meaning: to rip, to tear
+  Examples:
+    - Es sieht aus, dein Hemd ist zerrissen.
+
+- Word: missverstehen
+  Level: K
+  Form: missversteht, missverstand, hat missverstanden
+  Meaning: to misunderstand, to misapprehend
+  Examples:
+    - Sie missversteht mich absichtlich.
+
+- Word: die Bestellung
+  Level: K
+  Form: -en
+  Meaning: order, request for a product
+  Examples:
+    - Die Bestellung wurde schnell geliefert.
+
+- Word: experimentieren
+  Level: K
+  Form: experimentiert, experimentierte, hat experimentiert
+  Meaning: to experiment
+  Examples:
+    - Die Studenten experimentierten mit Salzsäure.
 
