@@ -507,7 +507,6 @@
   Meaning: age
   Examples:
     - 'Alter: 26 Jahre.'
-    - 'Alter: 18 Jahre.'
     - Wir sind etwa im gleichen Alter
 
 - Word: das Altenheim
@@ -7736,31 +7735,34 @@
     - example3
 
 - Word: der Flug
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: flight
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich möchte einen Flug nach Kanada buchen.
+    - Der Flug LH123 von München nach Frankfurt ist
+      um 21:00 Uhr.
+    - Ich habe den Flug für Sie gebucht.
 
 - Word: der Flughafen
   Level: A1
-  Form: ¨-e
+  Form: ¨-
   Meaning: airport
   Examples:
-    - example1
-    - example2
-    - example3
+    - Kannst du mich zum Flughafen bringen?
+    - Der Flughafen liegt 30 km außerhalb
+      der Stadt.
 
 - Word: das Flugzeug
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: airplane
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Flugzeug aus Berlin kommt heute später an.
+    - Das Flugzeug aus Berlin hat Verspätung.
+    - Das Flugzeug startet in einer halben Stunde. Wir
+      müssen uns beeilen.
+    - Das Flugzeug ist gerade gelandet.
 
 - Word: der Flur
   Level: B1
@@ -7943,39 +7945,33 @@
 
 - Word: das Foto
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: photo
   Examples:
-    - example1
-    - example2
-    - example3
+    - Darf ich ein Foto machen?
+    - Können Sie dieses Foto vergrößern?
 
 - Word: der Fotoapparat
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: camera
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich möchte mir einen Fotoapparat kaufen.
 
 - Word: der Fotograf
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: photographer
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Fotografin hat sehr schöne Fotos
+      gemacht.
 
 - Word: die Fotografie
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: photography
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich interessiere mich für Fotografie.
 
 - Word: fragen
   Level: A1
@@ -10561,12 +10557,12 @@
 
 - Word: das Hobby
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: hobby
   Examples:
-    - example1
-    - example2
-    - example3
+    - Meine Hobbys sind Wandern und Schwimmen.
+    - Ich habe keine Zeit mehr für meine
+      Hobbys.
 
 - Word: hoch
   Level: A1
@@ -13919,12 +13915,29 @@
 
 - Word: machen
   Level: A1
-  Form: ¨-e
+  Form: macht, machte,
+    hat gemacht
   Meaning: to make, do
   Examples:
-    - example1
-    - example2
-    - example3
+    - Was machst du heute Abend?
+    - Ich muss jetzt das Essen machen.
+    - Das macht 5 Euro 95.
+    - Das macht nichts.
+    - Was machst du am Wochenende?
+    - Ich habe die Betten noch nicht
+      gemacht.
+    - Soll ich dir die Suppe noch einmal
+      warm machen?
+    - Meine Arbeit macht mir viel Spaß.
+    - Mach dir bitte keine Sorgen.
+    - Was würden Sie an meiner Stelle
+      machen?
+    - Tut mir leid. Die Küche hat schon
+      geschlossen. – Da kann man nichts
+      machen.
+    - Entschuldigung! – Das macht doch
+      nichts.
+    - Das macht zusammen 20 Euro.
 
 - Word: das Mädchen
   Level: A1
@@ -17737,30 +17750,44 @@
 
 - Word: reisen
   Level: A1
-  Form: ¨-e
+  Form: reist, reiste,
+    ist gereist
   Meaning: to travel
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich reise gernn nach Spanien.
 
 - Word: die Reise
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: journey, voyage
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wir machen eine Reise nach Österreich.
+    - Ich mache nächste Woche eine Geschäftsreise.
+    - Wir haben eine Reise nach Österreich
+      gebucht.
+    - Auf der Reise haben wir nette Leute
+      kennengelernt.
 
 - Word: das Reisebüro
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: travel office
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Mann arbeitet im Reisebüro.
+    - Wir organisieren eine Rundreise durch Deutschland.
+    - Wir haben die Reise im Reisebüro
+      gebucht.
+
+- Word: der Reiseführer
+  Level: A1
+  Form: '-'
+  Meaning: tourist guide
+  Examples:
+    - Ich kaufe mir einen Reiseführer von Berlin.
+    - Unser Reiseführer heißt Robert und ist sehr
+      sympathisch.
+
+
 
 - Word: reiten
   Level: B1
@@ -23194,12 +23221,12 @@
 
 - Word: der Urlaub
   Level: A1
-  Form: ¨-e
+  Form: -e
+  Synonym: (D, A) = (CH) Ferien
   Meaning: holiday
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich nehme im September Urlaub.
+    - Ich habe noch drei Tage Urlaub.
 
 - Word: die Ursache
   Level: B1
@@ -25298,12 +25325,17 @@
 
 - Word: wie
   Level: A1
-  Form: ¨-e
   Meaning: how
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wie heißt du?
+    - Er schreibt wie ein Kind.
+    - Meine Frau ist so groß/alt wie ich.
+    - Wie soll ich das machen?
+    - Wie groß ist die Wohnung?
+    - Wie bitte? Können Sie das bitte wiederholen?
+    - Wie lange bist du schon hier?
+    - Wie schreibt man das?
+    - Wie gefällt dir unsere Wohnung?
 
 - Word: wieder
   Level: B1
@@ -25532,12 +25564,11 @@
 
 - Word: wohin
   Level: A1
-  Form: ¨-e
   Meaning: to where
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wohin fährt dieser Bus? - Nach Dresden.
+    - Wohin wollen Sie am Wochenende gehen?
+    - Wohin kommt der Schrank?
 
 - Word: wohl
   Level: B1
@@ -28383,30 +28414,24 @@
 
 - Word: der Sommer
   Level: M
-  Form: ¨-e
+  Form: '-'
   Meaning: summer
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Baden ist die schönste Beschäftigung im Sommer.
 
 - Word: der Herbst
   Level: M
-  Form: ¨-e
+  Form: -e
   Meaning: autumn
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Herbst sammeln die Kinder Kastanien.
 
 - Word: der Winter
   Level: M
-  Form: ¨-e
+  Form: '-'
   Meaning: winter
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Winter ist es kalt, es liegt oft Schnee.
 
 - Word: die Monatsnamen
   Level: M
