@@ -3597,12 +3597,10 @@
 
 - Word: der Bleistift
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: pencil
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hast du einen Bleistift für mich?
 
 - Word: der Blick
   Level: A1
@@ -5025,30 +5023,41 @@
 
 - Word: drucken
   Level: A1
-  Form: ¨-e
+  Form: druckt, druckte,
+    hat gedruckt
   Meaning: to print
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bitte drucke das Formular für mich.
+    - Wähle einfach „Datei drucken“!
+    - Warum hast du den Brief noch nicht
+      ausgedruckt?
+    - Bei welcher Firma haben Sie diese
+      Prospekte drucken lassen?
+    - Du gehst einfach auf „Datei drucken“!
 
 - Word: der Drucker
   Level: A1
-  Form: ¨-e
+  Form: '-'
   Meaning: printer
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Drucker ist kaputt.
+    - Ich brauche einen neuen Drucker für
+      meinen Computer.
 
 - Word: drücken
   Level: A1
-  Form: ¨-e
+  Form: drückt, drückte,
+    hat gedrückt
   Meaning: to press, push
   Examples:
-    - example1
-    - example2
-    - example3
+    - Drück hier, dann geht der Computer an.
+    - An dieser Tür musst du drücken, nicht ziehen, dann geht sie auf.
+    - Drücken Sie „Bestätigen“!
+    - Meine Schuhe drücken.
+    - Sie brauchen nur auf den Knopf zu
+      drücken.
+    - Die neuen Schuhe drücken.
+    - Wenn du hier drückst, geht die Tür auf.
 
 - Word: der Druck
   Level: B1
@@ -5133,12 +5142,19 @@
 
 - Word: dürfen
   Level: A1
-  Form: ¨-e
+  Form: darf, durfte,
+    hat gedurft (hat dürfen
+    als Modalverb)
   Meaning: to be allowed
   Examples:
-    - example1
-    - example2
-    - example3
+    - Sie dürfen hier nicht rauchen / parken.
+    - Darf ich Sie zu einem Kaffee einladen?
+    - Es darf nicht mehr als 15 Euro kosten.
+    - Dürfen wir heute länger fernsehen?
+    - Das hätten Sie nicht machen dürfen!
+    - Was darf ich Ihnen anbieten?
+    - Ich suche ein gebrauchtes Auto. Es darf
+      nicht mehr als 1000 Euro kosten.
 
 - Word: der Durst
   Level: A1
@@ -8219,21 +8235,25 @@
 
 - Word: frühstücken
   Level: A1
-  Form: ¨-e
+  Form: frühstückt,
+    frühstückte,
+    hat gefrühstückt
   Meaning: to have breakfast
   Examples:
-    - example1
-    - example2
-    - example3
+    - Am Sonntag frühstücke ich gern im Bett.
+    - Ich frühstücke immer um 9:00 Uhr.
+    - Haben Sie schon gefrühstückt?
 
 - Word: das Frühstück
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: -e
   Meaning: breakfast
   Examples:
-    - example1
-    - example2
-    - example3
+    - Möchtest du ein Ei zum Frühstück?
+    - Möchtest du ein Ei zum Frühstück?
+    - Wir sitzen gerade beim Frühstück.
+    - Sollen wir Ihnen das Frühstück aufs
+      Zimmer bringen?
 
 - Word: fühlen
   Level: B1
@@ -8817,12 +8837,14 @@
 
 - Word: das Geld
   Level: A1
-  Form: ¨-e
+  Form: -er
   Meaning: money
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hast du noch Geld?
+    - Kannst du mir ein bisschen Geld leihen?
+    - Ich habe nicht genug Geld dabei.
+    - Sie haben mir zu viel Wechselgeld
+      gegeben.
 
 - Word: der Geldautomat
   Level: B1
@@ -9703,12 +9725,12 @@
 
 - Word: günstig
   Level: A1
-  Form: ¨-e
   Meaning: good value
   Examples:
-    - example1
-    - example2
-    - example3
+    - Dort gibt es günstige Angebote.
+    - In diesem Laden gibt es immer günstige Angebote.
+    - Ich suche ein günstiges Sofa.
+    - Ich suche eine günstige Ferienwohnung.
 
 - Word: gut
   Level: A1
@@ -9969,12 +9991,15 @@
 
 - Word: das Handy
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: cell phone
   Examples:
-    - example1
-    - example2
-    - example3
+    - In der Schule bitte die Handys ausmachen!
+    - Kannst du mir bitte deine Handynummer geben?
+    - Ich habe kein Festnetztelefon, aber ein
+      Handy.
+    - Soll ich Ihnen meine Handynummer
+      geben?
 
 - Word: hängen
   Level: B1
@@ -11663,12 +11688,11 @@
 
 - Word: der Käse
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: cheese
   Examples:
-    - example1
-    - example2
-    - example3
+    - Isst du lieber Käse oder Wurst?
+    - Möchtest du Käse aufs Brot?
 
 - Word: die Kasse
   Level: A1
@@ -11780,12 +11804,16 @@
 
 - Word: kennen
   Level: A1
-  Form: ¨-e
+  Form: kennt, kannte,
+    hat gekannt
   Meaning: to know
   Examples:
-    - example1
-    - example2
-    - example3
+    - Kennen Sie hier in der Nähe ein
+      gemütliches Café?
+    - Kennen Sie diese Frau? – Nein, leider
+      nicht.
+    - Kennen Sie Berlin? – Ja, eine tolle
+      Stadt.
 
 - Word: kennenlernen
   Level: A1
@@ -12827,12 +12855,13 @@
 
 - Word: der Kuchen
   Level: A1
-  Form: ¨-e
+  Form: '-'
   Meaning: cake
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich nehme ein Stück Kuchen.
+    - Er ißt sonntags ein Stück Kuchen.
+    - Schokoladenkuchen schmeckt mir am besten.
+    - Ich habe einen Kuchen gebacken.
 
 - Word: der Kugelschreiber
   Level: A1
@@ -12989,12 +13018,19 @@
 
 - Word: kurz
   Level: A1
-  Form: ¨-e
   Meaning: short
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ricardo hat kurzes Haar.
+    - Kann ich Sie kurz sprechen?
+    - Kurz vor 8 Uhr hat das Telefon
+      geklingelt.
+    - Mein Mann ist kurz nach mir
+      gekommen.
+    - Ich bin vor Kurzem nach München
+      gezogen.
+    - Ich wohne seit Kurzem in München.
+    - Ich habe das Kleid kürzer machen
+      lassen.
 
 - Word: kürzlich
   Level: B1
@@ -14101,13 +14137,12 @@
     - example3
 
 - Word: die Mannschaft
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: team
   Examples:
-    - example1
-    - example2
-    - example3
+    - Meine Lieblingsmannschaft hat 1:0 verloren.
+    - Unsere Mannschaft hat 0:1 verloren.
 
 - Word: der Mantel
   Level: B1
@@ -14777,12 +14812,14 @@
 
 - Word: möchten
   Level: A1
-  Form: ¨-e
+  Form: möchte, mochte,
+    hat gemocht
   Meaning: to want (to have), like (to have)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Was möchten Sie trinken?
+    - Möchtest du auch einen Kaffee?
+    - Im Sommer möchten wir gern ans
+      Meer fahren.
 
 - Word: mobil
   Level: B1
@@ -14866,12 +14903,18 @@
 
 - Word: mögen
   Level: A1
-  Form: ¨-e
+  Form: mag, mochte,
+    hat gemocht
   Meaning: to like
   Examples:
-    - example1
-    - example2
-    - example3
+    - Magst du Kaffee oder Tee?
+    - Magst du Schokolade? - Nein, ich mag keine Süßigkeiten.
+    - Ich mag keinen Reis.
+    - Möchtest du noch ein Stück Kuchen?
+    - Ich möchte gern Herrn Schmidt
+      sprechen.
+    - Herr Müller, Sie möchten bitte sofort
+      zum Chef kommen.
 
 - Word: möglich
   Level: A1
@@ -15374,22 +15417,19 @@
     - example3
 
 - Word: die Natur
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: nature
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bin gern draußen in der Natur.
 
 - Word: natürlich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: naturally, of course
   Examples:
-    - example1
-    - example2
-    - example3
+    - Natürlich helfen wir dir.
+    - Kommst du auch wirklich zu meiner
+      Party? – Natürlich.
 
 - Word: der Nebel
   Level: B1
@@ -18426,40 +18466,37 @@
     - example3
 
 - Word: schade
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: a pity, shame
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schade, dass du nicht mitkommen
+      kannst.
+    - Ich kann leider nicht mitkommen. –
+      Das ist aber schade!
 
 - Word: schaden
   Level: B1
-  Form: ¨-e
+  Form: schadet,
+    schadete, hat geschadet
   Meaning: to hurt, damage
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ein kleines Glas Wein kann nicht
+      schaden.
 
 - Word: der Schaden
   Level: B1
-  Form: ¨-e
+  Form: ¨-
   Meaning: damage
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich hatte einen Unfall mit dem Auto.
+      Jetzt muss ich den Schaden der
+      Versicherung melden.
 
 - Word: schädlich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: damaging
   Examples:
-    - example1
-    - example2
-    - example3
+    - Rauchen ist schädlich für die Gesundheit.
 
 - Word: schaffen
   Level: B1
@@ -18597,13 +18634,14 @@
     - example3
 
 - Word: schenken
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: schenkt,
+    schenkte, hat geschenkt
   Meaning: to give a present
   Examples:
-    - example1
-    - example2
-    - example3
+    - Was schenken wir Michael zum Geburtstag?
+    - Wir wollen dir zum Geburtstag etwas
+      schenken.
 
 - Word: die Schere
   Level: B1
@@ -18948,13 +18986,15 @@
     - example3
 
 - Word: die Schokolade
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
   Meaning: chocolate
   Examples:
-    - example1
-    - example2
-    - example3
+    - Julia liebt Schokolade.
+    - Ich habe eine Tafel Schokolade
+      gegessen.
+    - Bringen Sie mir bitte eine Tasse heiße
+      Schokolade.
 
 - Word: schon
   Level: A1
@@ -19888,12 +19928,21 @@
 
 - Word: sollen
   Level: A1
-  Form: ¨-e
+  Form: soll, sollte, hat
+    gesollt (hat sollen als
+    Modalverb)
   Meaning: to be supposed to
   Examples:
-    - example1
-    - example2
-    - example3
+    - Soll ich kommen?
+    - Was soll ich mitbringen?
+    - Wann soll ich kommen und was soll ich mitbringen?
+    - Und, was hat der Arzt gesagt? – Ich soll drei Tage
+      im Bett bleiben und viel Tee trinken.
+    - Wann soll ich kommen?
+    - Ich habe im Radio gehört, es soll
+      morgen regnen.
+    - Sollten Sie mit dem Vorschlag nicht
+      einverstanden sein, rufen Sie mich an.
 
 - Word: sonder-
   Level: B1
@@ -19931,21 +19980,21 @@
 
 - Word: die Sonne
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: sun
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Sonne scheint.
+    - Das Wetter ist schön. Die Sonne
+      scheint.
+    - Ich habe zu lange in der Sonne
+      gelegen.
 
 - Word: sonnig
   Level: B1
-  Form: ¨-e
   Meaning: sunny
   Examples:
-    - example1
-    - example2
-    - example3
+    - Morgen ist das Wetter wieder warm und sonnig.
+    - 'Das Wetter morgen: sonnig und warm.'
 
 - Word: sonst
   Level: A1
@@ -20189,48 +20238,54 @@
 
 - Word: spielen
   Level: A1
-  Form: ¨-e
+  Form: spielt, spielte,
+    hat gespielt
   Meaning: to play
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Kinder spielen draußen.
+    - Spielen Sie Karten?
+    - Jakob spielt Klavier.
+    - Wir haben einen großen Garten, da
+      können die Kinder spielen.
+    - Am Sonntag spielen wir gegen die
+      Fußballmannschaft der Nachbarschule.
+    - Spielen Sie ein Instrument?
 
 - Word: das Spiel
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: game
   Examples:
-    - example1
-    - example2
-    - example3
+    - Welche Kartenspiele kennen Sie?
+    - Monopoly ist ein sehr / ganz bekanntes Spiel.
+    - Nach 20 Minuten stand das Spiel 2:1.
 
 - Word: der Spieler
   Level: B1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Word: die Spielerin
+    Form: -nen
   Meaning: player
   Examples:
-    - example1
-    - example2
-    - example3
+    - Für dieses Spiel braucht man zwei bis
+      vier Spieler.
+    - Beim Fußball gibt es elf Spieler.
 
 - Word: der Spielplatz
   Level: B1
   Form: ¨-e
   Meaning: playground
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Kinder sind auf dem Spielplatz.
 
 - Word: das Spielzeug
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: toy
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zu Weihnachten wünschen sich die
+      Kinder vor allem Spielzeug.
 
 - Word: spitz
   Level: B1
@@ -20714,13 +20769,13 @@
     - example3
 
 - Word: der Stift
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: pen
   Examples:
-    - example1
-    - example2
-    - example3
+    - Kannst du mir bitte einen Stift geben? - Was
+      brauchst du? Einen Farbstift oder einen Bleistift
+      oder einen Kugelschreiber?
 
 - Word: der Stil
   Level: B1
@@ -21528,21 +21583,19 @@
 
 - Word: der Tee
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: tea
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich trinke morgens immer Tee.
+    - Bitte einen Tee mit Zitrone.
+    - Was kostet dieser Tee hier?
 
 - Word: Tee ziehen lassen
   Level: B1
-  Form: ¨-e
   Meaning: to let tea infuse (!)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Diesen Tee sollte man 10 Minuten
+      ziehen lassen.
 
 - Word: teilen
   Level: B1
@@ -21611,21 +21664,23 @@
 
 - Word: telefonieren
   Level: A1
-  Form: ¨-e
+  Form: telefoniert,
+    telefonierte,
+    hat telefoniert
   Meaning: to telephone
   Examples:
-    - example1
-    - example2
-    - example3
+    - Darf ich mal telefonieren?
+    - Ich muss kurz telefonieren.
+    - Mein Mann telefoniert gerade. Können
+      Sie später noch einmal anrufen?
 
 - Word: das Telefon
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: telephone
   Examples:
-    - example1
-    - example2
-    - example3
+    - Haben Sie Telefon?
+    - Darf ich bitte Ihr Telefon benutzen?
 
 - Word: der Teller
   Level: B1
@@ -21674,21 +21729,20 @@
 
 - Word: der Termin
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: appointment
   Examples:
-    - example1
-    - example2
-    - example3
+    - Am besten machen wir sofort einen Termin.
+    - Ich habe heute einen Termin bei meiner Zahnärztin.
+    - Als Termin schlage ich den 3. Mai vor.
 
 - Word: der Terminkalender
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: calendar
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hast du unser Treffen schon in deinen
+      Terminkalender eingetragen?
 
 - Word: der Terminal
   Level: B1
@@ -21726,12 +21780,10 @@
 
 - Word: teuer
   Level: A1
-  Form: ¨-e
   Meaning: expensive
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das ist mir zu teuer.
+    - Ich finde das Geschäft nicht teuer.
 
 - Word: der Text
   Level: A1
@@ -22418,13 +22470,13 @@
     - example3
 
 - Word: überall
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: everywhere
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe überall gesucht, aber ich kann meine Brille
+      nicht finden.
+    - Ich habe überall gesucht, aber meine
+      Brille ist weg.
 
 - Word: überfahren
   Level: B1
@@ -25654,12 +25706,18 @@
 
 - Word: wollen
   Level: A1
-  Form: ¨-e
+  Form: will, wollte,
+    hat gewollt
+    (hat wollen als
+    Modalverb)
   Meaning: to want
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wollen Sie einen Kaffee trinken?
+    - Peter will Arzt werden.
+    - Wollen Sie einen Kaffee?
+    - Meine Eltern wollten nicht mitfahren.
+    - Was hast du als Kind werden wollen?
+    - Tut mir leid. Ich wollte das nicht.
 
 - Word: worüber
   Level: B1
@@ -25690,12 +25748,11 @@
 
 - Word: das Wörterbuch
   Level: B1
-  Form: ¨-e
+  Form: ¨-er
   Meaning: dictionary
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich muss das Wort im Wörterbuch
+      nachschlagen.
 
 - Word: die Wunde
   Level: B1
@@ -28822,21 +28879,18 @@
 
 - Word: das Wochenende
   Level: M
-  Form: ¨-e
+  Form: -n
   Meaning: the weekend
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich arbeite die ganze Woche und muss
+      auch am Wochenende arbeiten.
 
 - Word: am Wochenende
   Level: M
-  Form: ¨-e
   Meaning: at the weekend
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich arbeite die ganze Woche und muss
+      auch am Wochenende arbeiten.
 
 - Word: der Montag
   Level: M
@@ -29020,21 +29074,17 @@
 
 - Word: die Woche
   Level: M
-  Form: ¨-e
+  Form: -n
   Meaning: week
   Examples:
-    - example1
-    - example2
-    - example3
+    - In dieser Woche gibt es mal keine Extratermine.
 
 - Word: der Monat
   Level: M
-  Form: ¨-e
+  Form: -e
   Meaning: month
   Examples:
-    - example1
-    - example2
-    - example3
+    - Jeden Monat suche ich mehrere Beispiele zusammen und trage sie nach.
 
 - Word: monatlich
   Level: M
@@ -29160,3 +29210,51 @@
   Examples:
     - Die Studenten experimentierten mit Salzsäure.
 
+- Word: der Daumen
+  Level: K
+  Form: '-'
+  Meaning: thumb
+  Examples:
+    - Klaus lutscht immer noch am Daumen.
+
+- Word: die Scheiße
+  Level: K
+  Form: (Sg.)
+  Meaning: shit
+  Examples:
+    - Wo ich hintrete nur Scheiße!
+
+- Word: der Schokoladenkuchen
+  Level: K
+  Form: '-'
+  Meaning: chocolate cake
+  Examples:
+    - Zu deinem Geburtstag backe ich dir einen leckeren Schokoladenkuchen.
+
+- Word: der Käsekuchen
+  Level: K
+  Form: '-'
+  Meaning: cheesecake
+  Examples:
+    - Ich nehme noch ein Stück vom Käsekuchen.
+
+- Word: die Kopiermaschine
+  Level: K
+  Form: -n
+  Meaning: copy machine
+  Examples:
+    - Ich habe eine Kopiermaschine.
+
+- Word: das Natel
+  Level: K
+  Form: -s
+  Meaning: mobile phone (CH)
+  Examples:
+    - Hast du das Natel dabei?
+
+- Word: der Blumentopf
+  Level: K
+  Form: ¨-e
+  Meaning: flowerpot
+  Examples:
+    - Wenn Pflanzen zu groß werden, muss man sie in einen größeren Blumentopf umpflanzen.
