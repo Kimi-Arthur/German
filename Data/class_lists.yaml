@@ -1,11 +1,12 @@
-L41:
+- Id: L41
+  Words:
   - schön
   - hören
   - sehen
   - der Nachbar
   - seit
   - können
-  - Büro
+  - das Büro
   - müssen
   - aber
   - nicht
@@ -18,9 +19,9 @@ L41:
   - nie
   - trennbar
   - übernachten
-  - zerreissen
+  - zerreißen
   - missverstehen
-  - verstehen
+  - (sich) verstehen
   - entschuldigen
   - erinnern
   - gehen
@@ -29,9 +30,9 @@ L41:
   - bestellen
   - die Bestellung
   - schlafen
-  - duschen
+  - (sich) duschen
   - baden
-  - waschen
+  - (sich) waschen
   - fliegen
   - sprechen
   - die Sprache
@@ -48,7 +49,7 @@ L41:
   - der Beruf
   - das Alter
   - ein bisschen
-  - dran
+  - dran sein
   - das Hobby
   - reisen
   - der Urlaub
@@ -58,7 +59,8 @@ L41:
   - der Flughafen
   - der Sommer
   - das Foto
-L42:
+- Id: L42
+  Words:
   - kurz
   - die Woche
   - der Daumen
