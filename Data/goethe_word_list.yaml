@@ -3996,12 +3996,13 @@
 
 - Word: buchen
   Level: B1
-  Form: ¨-e
+  Form: bucht, buchte,
+    hat gebucht
   Meaning: to book
   Examples:
-    - example1
-    - example2
-    - example3
+    - Morgen buche ich unsere Urlaubsreise.
+    - Ich habe für morgen einen Flug nach
+      Rom gebucht.
 
 - Word: buchstabieren
   Level: A1
@@ -4423,12 +4424,10 @@
 
 - Word: danach
   Level: B1
-  Form: ¨-e
   Meaning: after it, afterwards
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zuerst gehen wir einkaufen, danach
+      grillen wir auf unserem Balkon.
 
 - Word: daneben
   Level: A1
@@ -4603,12 +4602,11 @@
 
 - Word: das Denkmal
   Level: B1
-  Form: ¨-e
+  Form: ¨-er
   Meaning: monument, statue
   Examples:
-    - example1
-    - example2
-    - example3
+    - In dieser Stadt gibt es viele berühmte
+      Denkmäler.
 
 - Word: denn
   Level: A1
@@ -4846,12 +4844,21 @@
 
 - Word: doch
   Level: B1
-  Form: ¨-e
   Meaning: however, still
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hast du keinen Hunger? - Doch, ich bin sehr
+      hungrig.
+    - Kannst du morgen nicht kommen? - Doch.
+      Geh doch mal wieder ins Kino!
+    - Das macht doch nichts!
+    - Isst du kein Fleisch? – Doch, manchmal
+      schon.
+    - Ich habe es mir anders überlegt. Ich
+      komme doch mit in die Stadt.
+    - Ihr kommt doch heute Abend?
+    - Fragen Sie doch Herrn Müller, der ist
+      Computerspezialist.
+    - Ach, wenn doch schon Sonntag wäre!
 
 - Word: der Doktor
   Level: A1
@@ -5078,13 +5085,12 @@
     - example3
 
 - Word: dunkel
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: dark
   Examples:
-    - example1
-    - example2
-    - example3
+    - Um sechs Uhr ist es schon dunkel.
+    - Meine Schwester hat dunkle Haare.
+    - Ich will eine dunkelblaue Bluse kaufen.
 
 - Word: dünn
   Level: B1
@@ -5614,21 +5620,23 @@
 
 - Word: einkaufen
   Level: A1
-  Form: ¨-e
+  Form: kauft ein,
+    kaufte ein, hat eingekauft
   Meaning: to shop
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich muss noch für morgen einkaufen.
+    - Wir gehen einmal pro Woche
+      einkaufen.
 
 - Word: der Einkauf
   Level: B1
   Form: ¨-e
   Meaning: shopping
   Examples:
-    - example1
-    - example2
-    - example3
+    - Achten Sie beim Einkauf auf
+      Sonderangebote.
+    - Ich habe alle Einkäufe erledigt. Jetzt
+      können wir einen Kaffee trinken.
 
 - Word: das Einkommen
   Level: B1
@@ -6874,13 +6882,19 @@
     - example3
 
 - Word: etwas
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: something
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich muss dir etwas erzählen!
+    - Haben Sie etwas zum Schreiben?
+    - Ich habe leider nur Tee. Etwas anderes kann ich dir
+      leider nicht anbieten.
+    - Ich habe nur Tee. Etwas anderes kann
+      ich Ihnen leider nicht anbieten.
+    - Wollen wir mit dem Nachtisch noch
+      etwas warten?
+    - So etwas habe ich noch nie gehört.
+    - Ich habe etwas Gutes für dich gekocht.
 
 - Word: eventuell
   Level: B1
@@ -7657,13 +7671,13 @@
     - example3
 
 - Word: fleißig
-  Level: B1
-  Form: ¨-e
-  Meaning: diligent, industrious
+  Level: A2
+  Meaning: diligent, industrious, hardworking
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ibrahim ist sehr fleißig. Er macht immer seine
+      Hausaufgaben.
+    - Pamela ist wirklich fleißig. Sie macht
+      immer ihre Hausaufgaben.
 
 - Word: flexibel
   Level: B1
@@ -8698,12 +8712,17 @@
 
 - Word: gegen
   Level: A1
-  Form: ¨-e
   Meaning: against
   Examples:
-    - example1
-    - example2
-    - example3
+    - Fahr nicht gegen den Baum!
+    - Ich bin gegen diese Lösung / Vorschlag.
+    - Wer spielt gegen wen? - Bayern gegen Dortmund.
+    - Ich bin gegen einen Baum gefahren.
+    - Das ist gegen die Vorschrift.
+    - Haben Sie ein Mittel gegen Grippe?
+    - Wir liefern nur gegen bar.
+    - Ich bin gegen 14 Uhr wieder da.
+    - Ich bin gegen diesen Vorschlag.
 
 - Word: der Gegner
   Level: B1
@@ -8964,13 +8983,13 @@
     - example3
 
 - Word: genug
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: enough
   Examples:
-    - example1
-    - example2
-    - example3
+    - Es ist noch genug Pizza da. Möchtest du noch
+      ein Stück?
+    - Ich verdiene nicht genug.
+    -  Ich habe jetzt lange genug gewartet.
 
 - Word: genügen
   Level: B1
@@ -9799,7 +9818,7 @@
   Level: A1
   Form: '-'
   Synonym: (D) = (A) Hendl, (CH) Poulet
-  Meaning: chicken meat (cock)
+  Meaning: chicken meat (H-)
   Examples:
     - Ein Hähnchen mit Pommes, bitte!
 
@@ -10290,12 +10309,15 @@
 
 - Word: hell
   Level: A1
-  Form: ¨-e
   Meaning: light, bright
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Sommer ist es bis 21 Uhr hell.
+    - Mein Zimmer ist sehr / schön hell.
+    - Haben Sie das T-Shirt auch in hellblau?
+    - Im Sommer wird es um 5 Uhr schon
+      hell.
+    - Ich habe mir einen hellblauen Pullover
+      gekauft.
 
 - Word: das Hemd
   Level: B1
@@ -10388,22 +10410,25 @@
     - example3
 
 - Word: herunterladen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: lädt
+    herunter, lud herunter,
+    hat heruntergeladen
   Meaning: to download
   Examples:
-    - example1
-    - example2
-    - example3
+    - Er lädt die Musik aus dem Internet herunter.
+    - Ich habe mir Musik aus dem Internet
+      heruntergeladen.
 
 - Word: herunterfahren
   Level: B1
-  Form: ¨-e
+  Form: fährt
+    herunter, fuhr herunter,
+    hat heruntergefahren
   Meaning: to come down, drive down, shot down
   Examples:
-    - example1
-    - example2
-    - example3
+    - Zum Schluss musst du den Computer
+      herunterfahren.
 
 - Word: das Herz
   Level: B1
@@ -10425,12 +10450,18 @@
 
 - Word: heute
   Level: A1
-  Form: ¨-e
   Meaning: today
   Examples:
-    - example1
-    - example2
-    - example3
+    - Heute ist ein schöner Tag.
+    - Heute muss ich nur bis 16 Uhr arbeiten.
+    - Heute kann ich etwas früher nach
+      Hause gehen.
+    - Ab heute bleibt unser Büro
+      nachmittags geschlossen.
+    - Frau Müller kommt heute in acht Tagen
+      zurück.
+    - Heute kann man sich eine Welt ohne
+      Internet nicht mehr vorstellen.
 
 - Word: heutig-
   Level: B1
@@ -10601,12 +10632,12 @@
 
 - Word: hochladen
   Level: B1
-  Form: ¨-e
+  Form: lädt hoch,
+    lud hoch, hat hochgeladen
   Meaning: to upload
   Examples:
-    - example1
-    - example2
-    - example3
+    - Kannst du bitte die Datei für die
+      Hausaufgabe hochladen?
 
 - Word: höchstens
   Level: B1
@@ -10785,21 +10816,19 @@
 
 - Word: der Hunger
   Level: A1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: hunger
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe Hunger! Wann ist das Essen fertig?
+    - Ich habe Hunger! Wann können wir endlich essen?
+    - Möchtest du Suppe? – Nein danke, ich
+      habe keinen Hunger.
 
 - Word: hungrig
   Level: B1
-  Form: ¨-e
   Meaning: hungry
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bin sehr hungrig.
 
 - Word: hupen
   Level: B1
@@ -11142,40 +11171,40 @@
     - example3
 
 - Word: interessieren
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: interessiert,
+    interessierte,
+    hat interessiert
   Meaning: to have interest
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich interessiere mich sehr für Fußball.
+    - Den Artikel über Brasilien finde ich sehr interessant.
+    - Das Thema Kindererziehung
+      interessiert mich sehr.
 
 - Word: interessant
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: interesting
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich lese gerade ein interessantes Buch.
+    - Ich habe einen interessanten Bericht
+      gelesen.
+    - Den Artikel über Brasilien finde ich
+      sehr interessant.
 
 - Word: das Interesse
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
   Meaning: interest
   Examples:
-    - example1
-    - example2
-    - example3
+    - 'Ich habe viele Interessen: Sport, Lesen, Kultur, Reisen, Handarbeit, Tanzen.'
 
 - Word: interessiert
   Level: B1
-  Form: ¨-e
   Meaning: interested
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Nachbar zieht nächsten Monat
+      aus. Sind Sie noch an der Wohnung interessiert?
 
 - Word: interkulturell
   Level: B1
@@ -11652,12 +11681,26 @@
 
 - Word: die Karte
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: card, menu, ticket, map
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich schreibe meinen Bekannten eine Karte aus dem
+      Urlaub.
+    - Wollen wir Karten spielen?
+    - Ich möchte auch etwas essen. Bringen Sie mir die Karte,
+      bitte.
+    - Du musst noch die Karten für das Konzert abholen,
+      vergiss das bitte nicht!
+    - Die Karte, bitte! Ich möchte etwas bestellen.
+    - Kann ich auch mit Karte bezahlen?
+    - Schreibst du mir eine Karte aus dem
+      Urlaub?
+    - Diese Karte gilt nur für die 2. Klasse.
+    - Hast du schon die Karten für das
+      Konzert abgeholt?
+    - Haben Sie eine Karte von Norddeutschland?
+    - Herr Ober, bitte die Speisekarte.
+    - Spielen Sie Karten?
 
 - Word: die Chipkarte
   Level: B1
@@ -12565,30 +12608,27 @@
 
 - Word: kosten
   Level: A1
-  Form: ¨-e
-  Meaning: to cost,
+  Form: kostet, kostete,
+    hat gekostet
+  Meaning: to cost
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wie viel kostet das Buch? – 20 Euro.
+    - Eine Wohnung zu finden, kostet viel
+      Zeit.
 
 - Word: die Kosten
   Level: B1
-  Form: ¨-e
+  Form: (Pl.)
   Meaning: costs
   Examples:
-    - example1
-    - example2
-    - example3
+    - Die Kosten für die Reise bekomme ich
+      von der Firma.
 
 - Word: kostenlos
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: free
   Examples:
-    - example1
-    - example2
-    - example3
+    - Diese Zeitschrift kostet nichts. Sie ist kostenlos.
 
 - Word: das Kostüm
   Level: B1
@@ -13194,15 +13234,6 @@
     - example2
     - example3
 
-- Word: die Langeweile
-  Level: B1
-  Form: ¨-e
-  Meaning: boredom
-  Examples:
-    - example1
-    - example2
-    - example3
-
 - Word: langsam
   Level: A1
   Form: ¨-e
@@ -13222,22 +13253,28 @@
     - example3
 
 - Word: langweilig
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: boring
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mir ist langweilig.
+    - Sie findet Fußball sehr langweilig.
+    - Der Film war sehr langweilig.
 
 - Word: sich langweilen
   Level: B1
-  Form: ¨-e
+  Form: langweilt,
+    langweilte,
+    hat gelangweilt
   Meaning: to be bored
   Examples:
-    - example1
-    - example2
-    - example3
+    - Langweilst du dich?
+
+- Word: die Langeweile
+  Level: B1
+  Form: (Sg.)
+  Meaning: boredom
+  Examples:
+    - Es ist aus Langeweile eingeschlafen.
 
 - Word: der Laptop
   Level: A2
@@ -14308,21 +14345,22 @@
 
 - Word: mehr
   Level: A1
-  Form: ¨-e
   Meaning: more
   Examples:
-    - example1
-    - example2
-    - example3
+    - Dieses Auto kostet 1.000 Euro mehr als das andere.
+    - Mehr kann ich nicht essen!
+    - Ich möchte mehr Taschengeld.
+    - Ich habe diesmal mehr gelernt als bei
+      der letzten Prüfung.
 
 - Word: mehrere
   Level: B1
-  Form: ¨-e
   Meaning: several
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich habe mehrere Leute gefragt. Aber
+      niemand konnte mir helfen.
+    - Viele Wörter haben mehrere
+      Bedeutungen.
 
 - Word: die Mehrheit
   Level: B1
@@ -15006,12 +15044,9 @@
 
 - Word: müde
   Level: A1
-  Form: ¨-e
   Meaning: tired
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bin müde. Ich gehe schlafen.
 
 - Word: die Mühe
   Level: B1
@@ -15077,13 +15112,13 @@
     - example3
 
 - Word: das Museum
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: Museen
   Meaning: museum
   Examples:
-    - example1
-    - example2
-    - example3
+    - Im Kunstmuseum gibt es eine neue Ausstellung.
+    - Wir waren mit unserer Klasse im
+      Museum.
 
 - Word: die Musik
   Level: B1
@@ -15182,12 +15217,16 @@
 
 - Word: nach
   Level: A1
-  Form: ¨-e
   Meaning: after, towards
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich gehe jetzt nach Hause.
+    - Ich fliege nach München.
+    - Es ist schon fünf nach zwölf.
+    - Wir treffen uns nach der Arbeit.
+    - Ich fahre morgen nach Hamburg.
+    - Ich muss jetzt nach Hause.
+    - Es ist schon nach acht. Wir müssen uns
+      beeilen.
 
 - Word: der Nachbar
   Level: A2
@@ -15701,9 +15740,25 @@
   Form: ¨-e
   Meaning: still, yet
   Examples:
-    - example1
-    - example2
-    - example3
+    - Vielleicht kommt er noch.
+    - Wir warten noch fünf Minuten.
+    - Ich habe noch 20 Euro.
+    - Es dauert noch ein paar Minuten.
+    - Mein Bruder geht noch zur Schule.
+    - Bist du fertig. – Nein, noch nicht ganz.
+    - Haben Sie noch einen Wunsch? – Ja,
+      bitte noch ein Bier.
+    - Sonst noch etwas? – Nein, danke.
+    - Ich komme später. Ich muss erst noch
+      einkaufen.
+    - Meine Freundin studiert, und abends
+      arbeitet sie noch als Kellnerin.
+    - Es ist nicht mehr viel Zeit. Nur noch
+      fünf Minuten.
+    - Ist das Essen schon fertig. – Nein, es
+      dauert noch ein paar Minuten.
+    - Ist Amadeo schon da? – Vielleicht
+      kommt er noch.
 
 - Word: nochmal(s); noch mal
   Level: B1
@@ -15796,13 +15851,14 @@
     - example3
 
 - Word: die Notiz
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: note
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schreib mir bitte eine Notiz.
+    - Haben Sie einen Notizzettel für mich?
+    - Ich habe Ihnen eine Notiz geschrieben.
+    - Hast du einen Notizzettel für mich?
 
 - Word: notwendig
   Level: B1
@@ -16005,12 +16061,24 @@
 
 - Word: öffnen
   Level: A1
-  Form: ¨-e
+  Form: öffnet, öffnete,
+    hat geöffnet
   Meaning: to open
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich öffne die Tür.
+    - Der Laden ist samstags bis 16.00 Uhr geöffnet.
+    - Wann öffnen die Geschäfte?
+    - Kannst du bitte das Fenster öffnen?
+    - Kannst Du mir helfen? Ich kann die
+      Dose nicht öffnen.
+    - Du öffnest die Datei mit einem
+      Doppelklick.
+
+- Word: geöffnet
+  Level: A1
+  Meaning: open
+  Examples:
+    - Der Laden ist samstags bis 16.00 Uhr geöffnet.
 
 - Word: oft
   Level: A1
@@ -16898,13 +16966,6 @@
     - example2
     - example3
 
-- Word: das Poster
-  Level: A2
-  Form: '-'
-  Meaning: poster
-  Examples:
-    - Das Poster hängt über dem Bett.
-
 - Word: die Postleitzahl
   Level: A1
   Form: ¨-e
@@ -16913,6 +16974,32 @@
     - example1
     - example2
     - example3
+
+- Word: der Pöstler
+  Level: B1
+  Form: '-'
+  Feminine:
+    Word: die Pöstlerin
+    Form: -nen
+  Meaning: postman (P-)
+  Examples:
+    - War die Pöstlerin schon da?
+
+- Word: das Poster
+  Level: A2
+  Form: '-'
+  Meaning: poster
+  Examples:
+    - Das Poster hängt über dem Bett.
+
+- Word: das Poulet
+  Level: B1
+  Form: -s
+  Synonym: (CH) = (D) Hähnchen/Hühnchen = (A) Hend(e)l
+  Meaning: chicken meat (P-)
+  Examples:
+    - Zum Mittagessen gibt es Poulet mit
+      Reis.
 
 - Word: das Praktikum
   Level: A1
@@ -17025,13 +17112,19 @@
     - example3
 
 - Word: probieren
-  Level: B1
-  Form: ¨-e
-  Meaning: to try
+  Level: A2
+  Form: probiert,
+    probierte, hat probiert
+  Meaning: to try, to taste
   Examples:
-    - example1
-    - example2
-    - example3
+    - Möchten Sie den Käse probieren?
+    - Die Tür geht schwer auf. Probier mal!
+    - Haben Sie dieses Waschmittel schon
+      einmal probiert?
+    - Ich habe probiert, die Zeitung zu lesen,
+      aber es war zu schwer.
+    - Darf ich die Schuhe anprobieren?
+    - Möchten Sie den Käse mal probieren?
 
 - Word: das Problem
   Level: A1
@@ -17502,31 +17595,33 @@
     - example3
 
 - Word: rechnen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: rechnet,
+    rechnete, hat gerechnet
   Meaning: to calculate, do arithmetic
   Examples:
-    - example1
-    - example2
-    - example3
+    - Sarah kann gut rechnen.
+    - Meine Tochter kann gut rechnen.
+    - Im/In Rechnen hat sie eine Eins.
+    - Mit solchen Schwierigkeiten hatten wir
+      nicht gerechnet.
 
 - Word: der Rechner
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: calculator
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Rechner ist kaputt.
 
 - Word: die Rechnung
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: bill
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schicken Sie die Rechnung an mich.
+    - Bitte, die Rechnung!
+    - Brauchen Sie für diese Reparatur eine
+      Rechnung?
 
 - Word: das Recht
   Level: B1
@@ -17691,13 +17786,12 @@
     - example3
 
 - Word: reich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: rich
   Examples:
-    - example1
-    - example2
-    - example3
+    - Lotte ist reich. Sie hat sehr viel Geld.
+    - Wenn ich reich wäre, würde ich eine
+      Weltreise machen.
 
 - Word: reichen
   Level: B1
@@ -17773,12 +17867,11 @@
 
 - Word: der Reis
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: rice
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich esse gern Reis mit Gemüse und Fisch.
+    - Eine Portion Huhn mit Reis, bitte.
 
 - Word: reisen
   Level: A1
@@ -18554,12 +18647,12 @@
 
 - Word: schauen
   Level: B1
-  Form: ¨-e
-  Meaning: to show
+  Form: schaut, schaute,
+    hat geschaut
+  Meaning: to look (at something)
   Examples:
-    - example1
-    - example2
-    - example3
+    - Schau mal! Da vorne ist noch ein Platz
+      frei.
 
 - Word: das Schaufenster
   Level: B1
@@ -18789,21 +18882,55 @@
 
 - Word: schlecht
   Level: A1
-  Form: ¨-e
   Meaning: bad
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mir ist schlecht!
+    - Sie sehen schlecht aus.
+    - Das Wetter ist schlecht. Wir haben schon seit einer
+      Woche schlechtes Wetter.
+    - Mir geht es schlecht. Ich habe Fieber.
+    - Du siehst aber schlecht aus. Bist du
+      krank?
+    - Es geht mir schlecht. Ich habe Fieber.
+    - Ich habe zu viel gegessen. Jetzt ist mir
+      schlecht.
+    - Hier ist schlechte Luft. Mach bitte das
+      Fenster auf.
+    - Stell die Milch in den Kühlschrank.
+      Sonst wird sie schlecht.
+    - Die Bezahlung in dieser Firma ist
+      schlecht.
+    - Die Verbindung ist schlecht. Ich höre
+      dich nicht gut.
+    - Der Film war nicht schlecht. Er hat mir
+      ganz gut gefallen.
 
 - Word: schließen
   Level: A1
-  Form: ¨-e
+  Form: schließt,
+    schloss, hat geschlossen
   Meaning: to close, shut
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bitte, schließen Sie die Tür.
+    - Wir müssen uns beeilen, die Bank schließt um
+      18 Uhr.
+    - Die Tür schließt automatisch.
+    - Wir schließen um 20.00 Uhr.
+    - Wann können wir den Mietvertrag
+      abschließen?
+    - Ich hatte die Papiere in den
+      Schreibtisch eingeschlossen.
+    - Du kannst die Datei schließen. Ich bin
+      fertig.
+    - Sie mussten die Firma leider schließen.
+
+- Word: geschlossen
+  Level: A1
+  Meaning: closed
+  Examples:
+    - Die Banken sind am Samstag
+      geschlossen.
+    - Die Bank hat am Samstag geschlossen.
 
 - Word: schließlich
   Level: B1
@@ -19426,12 +19553,28 @@
 
 - Word: sein
   Level: A1
-  Form: ¨-e
+  Form: ist, war, ist gewesen
   Meaning: to be
   Examples:
-    - example1
-    - example2
-    - example3
+    - Herr Müller ist in seinem Zimmer.
+    - Mir ist kalt.
+    - Ich bin dreiundzwanzig.
+    - Das sind meine Kollegen.
+    - Ich bin Mechaniker.
+    - Die Cola ist kalt.
+    - Um halb elf ist Pause.
+    - Frau Berger ist im Urlaub.
+    - Ich bin müde.
+    - Das Auto ist jetzt fünfzehn Jahre alt.
+    - Heute ist Montag.
+    - Der Termin beim Zahnarzt ist erst
+      übermorgen.
+    - Um 11 Uhr ist Pause.
+    - Herr Müller ist in seinem Zimmer.
+    - Das Auto ist mir zu teuer.
+    - Das ist schwer zu verstehen.
+    - 'Mit Präposition wie: Das Licht ist
+      an/aus.'
 
 - Word: seit
   Level: A1
@@ -19997,13 +20140,16 @@
     - 'Das Wetter morgen: sonnig und warm.'
 
 - Word: sonst
-  Level: A1
-  Form: ¨-e
+  Level: A2
   Meaning: otherwise, other, usually, normally
   Examples:
-    - example1
-    - example2
-    - example3
+    - Haben Sie sonst noch einen Wunsch? – Nein danke,
+      das ist alles.
+    - Beeil dich, sonst kommen wir zu spät!
+    - Wir müssen jetzt gehen, sonst wird es
+      zu spät.
+    - Heute ist der Chef nicht mehr da. Sonst
+      ist er um diese Zeit immer im Büro.
 
 - Word: sorgen
   Level: B1
@@ -20093,13 +20239,12 @@
     - example3
 
 - Word: spannend
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: exciting
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich finde den Film sehr spannend.
+    - Das Spiel war spannend bis zur letzten
+      Minute.
 
 - Word: sparen
   Level: B1
@@ -20439,39 +20584,36 @@
 
 - Word: das Stadion
   Level: B1
-  Form: ¨-e
+  Form: Stadien
   Meaning: stadium
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich möchte am Samstag ins Stadion
+      gehen. Da spielt meine Mannschaft.
 
 - Word: die Stadt
   Level: A1
   Form: ¨-e
   Meaning: city
   Examples:
-    - example1
-    - example2
-    - example3
+    - Heidelberg ist eine alte Stadt.
+    - Ich wohne lieber auf dem Land als in
+      der Stadt.
+    - Gehst du mit mir in die Stadt?
 
 - Word: städtisch
   Level: B1
-  Form: ¨-e
   Meaning: municipal
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich gehe gern in die städtische
+      Bibliothek.
 
 - Word: der Stadtplan
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: town map
   Examples:
-    - example1
-    - example2
-    - example3
+    - Haben Sie einen Stadtplan von Salzburg?
+    - Haben Sie einen Stadtplan?
 
 - Word: stammen
   Level: B1
@@ -21157,12 +21299,13 @@
 
 - Word: die Stunde
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: hour
   Examples:
-    - example1
-    - example2
-    - example3
+    - Ich bin in einer Stunde (wieder) zurück.
+    - Wir haben heute nur vier Stunden
+      Schule.
+    - Ich warte seit zwei Stunden auf dich.
 
 - Word: der Sturm
   Level: B1
@@ -22732,12 +22875,14 @@
 
 - Word: die Uhr
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: hour, time, watch
   Examples:
-    - example1
-    - example2
-    - example3
+    - Es ist vier Uhr.
+    - Geht deine Uhr richtig?
+    - Wie viel Uhr ist es?
+    - Um wie viel Uhr müssen wir gehen?
+    - Meine Uhr ist stehen geblieben.
 
 - Word: um
   Level: B1
@@ -23973,12 +24118,10 @@
 
 - Word: verrückt
   Level: B1
-  Form: ¨-e
   Meaning: crazy
   Examples:
-    - example1
-    - example2
-    - example3
+    - Bist du verrückt geworden?!
+    - So eine verrückte Idee.
 
 - Word: die Versammlung
   Level: B1
@@ -24833,30 +24976,32 @@
 
 - Word: wandern
   Level: A1
-  Form: ¨-e
+  Form: wandert,
+    wanderte, ist gewandert
   Meaning: to go for a walk
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wir wandern um den Chiemsee.
+    - Wir gehen oft wandern.
 
 - Word: die Wanderung
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: walk, trek
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wir haben in den Ferien eine schöne
+      Wanderung gemacht.
 
 - Word: wann
   Level: A1
-  Form: ¨-e
   Meaning: when
   Examples:
-    - example1
-    - example2
-    - example3
+    - Wann bist du fertig?
+    - Wann kann ich Sie anrufen?
+    - Wann sind Sie geboren?
+    - Wann kommst du?
+    - Wissen Sie, wann der Kurs beginnt?
+    - Bis wann muss ich mich anmelden?
+    - Ab wann haben Sie geöffnet?
 
 - Word: die Ware
   Level: B1
@@ -25215,12 +25360,22 @@
 
 - Word: werden
   Level: A1
-  Form: ¨-e
+  Form: wird, wurde,
+    ist geworden
   Meaning: to become
   Examples:
-    - example1
-    - example2
-    - example3
+    - Mein Sohn will Arzt werden.
+    - Das Wetter am Wochenende wird gut. Das haben
+      sie im Radio gesagt.
+    - Es wird kalt.
+    - Ich habe morgen Geburtstag. − Wie alt
+      wirst du denn?
+    - Warum fährst du so schnell? Bist du
+      verrückt geworden?!
+    - Mein Sohn möchte Polizist werden.
+    - Wohin fahren Sie in Urlaub? – Ich
+      glaube, wir werden dieses Jahr zu
+      Hause bleiben.
 
 - Word: werfen
   Level: B1
@@ -25391,12 +25546,13 @@
 
 - Word: wiederholen
   Level: A1
-  Form: ¨-e
+  Form: wiederholt,
+    wiederholte,
+    hat wiederholt
   Meaning: to repeat
   Examples:
-    - example1
-    - example2
-    - example3
+    - Können Sie das bitte wiederholen?
+    - 'Ich wiederhole: Die Nummer ist 3487.'
 
 - Word: die Wiederholung
   Level: B1
@@ -25507,22 +25663,23 @@
     - example3
 
 - Word: wirklich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: really
   Examples:
-    - example1
-    - example2
-    - example3
+    - Du glaubst mir nicht? Es ist aber
+      wirklich so.
+    - Im Bahnhofsrestaurant isst man
+      wirklich sehr gut.
 
 - Word: die Wirklichkeit
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: reality
   Examples:
-    - example1
-    - example2
-    - example3
+    - Das Buch beschreibt die Wirklichkeit
+      um 1900 sehr gut.
+    - Man sagte mir, das Buch kostet nur 9
+      Euro. In Wirklichkeit kostet es 14 Euro.
 
 - Word: der Wirt
   Level: B1
@@ -26927,24 +27084,6 @@
     - example2
     - example3
 
-- Word: hell
-  Level: M
-  Form: ¨-e
-  Meaning: light
-  Examples:
-    - example1
-    - example2
-    - example3
-
-- Word: dunkel
-  Level: M
-  Form: ¨-e
-  Meaning: dark
-  Examples:
-    - example1
-    - example2
-    - example3
-
 - Word: blau
   Level: M
   Form: ¨-e
@@ -27802,12 +27941,10 @@
 
 - Word: das Schwein
   Level: M
-  Form: ¨-e
+  Form: -e
   Meaning: pig
   Examples:
-    - example1
-    - example2
-    - example3
+    - Hast du die Schweine schon gefüttert?
 
 - Word: der Vogel
   Level: M
@@ -28654,12 +28791,10 @@
 
 - Word: der Abend
   Level: M
-  Form: ¨-e
+  Form: -e
   Meaning: evening
   Examples:
-    - example1
-    - example2
-    - example3
+    - Gegen Abend werden wir uns sehen.
 
 - Word: die Nacht
   Level: M
@@ -29054,15 +29189,6 @@
     - example2
     - example3
 
-- Word: die Stunde
-  Level: M
-  Form: ¨-e
-  Meaning: hour
-  Examples:
-    - example1
-    - example2
-    - example3
-
 - Word: der Tag
   Level: M
   Form: ¨-e
@@ -29258,3 +29384,45 @@
   Meaning: flowerpot
   Examples:
     - Wenn Pflanzen zu groß werden, muss man sie in einen größeren Blumentopf umpflanzen.
+
+- Word: die Dienstreise
+  Level: K
+  Form: -n
+  Meaning: business trip
+  Examples:
+    - Seine Dienstreise ging diesmal nach München.
+
+- Word: das Protokoll
+  Level: K
+  Form: -e
+  Meaning: protocol
+  Examples:
+    - Herr Müller schreibt heute das Protokoll!
+
+- Word: abrufen
+  Level: K
+  Form: ruft ab, rief ab, hat abgerufen
+  Meaning: to check, to access, fetch or retrieve
+  Examples:
+    - Er rief seine Mails bereits am Morgen ab.
+
+- Word: weiterleiten
+  Level: K
+  Form: leitet weiter, leitete weiter, hat weitergeleitet
+  Meaning: to forward
+  Examples:
+    - Ich habe deine E-Mail an Egon weitergeleitet.
+
+- Word: wiederkommen
+  Level: K
+  Form: kommt wieder, kam wieder, ist wiedergekommen
+  Meaning: to come back
+  Examples:
+    - Ich gehe jetzt, weiß aber noch nicht, wann ich wiederkomme, warte nicht auf mich, geh ruhig ins Bett!
+
+- Word: der Jude
+  Level: K
+  Form: -n
+  Meaning: Jew
+  Examples:
+    - Albert Einstein war Jude.
