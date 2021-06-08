@@ -1,51 +1,758 @@
 - Id: A1
-  Words: [ab, aber, abfahren, die Abfahrt, abgeben, abholen, der Absender, Achtung,
-    die Adresse, all-, allein, also, alt, das Alter, an, anbieten, das Angebot, ander-,
-    anfangen, der Anfang, anklicken, ankommen, die Ankunft, ankreuzen, anmachen, sich
-      anmelden, die Anmeldung, die Anrede, anrufen, der Anruf, der Anrufbeantworter,
-    die Ansage, der Anschluss, an sein, antworten, die Antwort, die Anzeige, (sich)
-      anziehen, das Apartment, der Apfel, der Appetit, arbeiten, die Arbeit, arbeitslos,
-    der Arm, der Arzt, auch, auf, auf sein, die Aufgabe, "aufh\xF6ren", aufladen,
-    aufstehen, der Auftrag, das Auge, aus, der Ausflug, "ausf\xFCllen", der Ausgang,
-    die Auskunft, das Ausland, "der Ausl\xE4nder", "ausl\xE4ndisch", ausmachen, die
-      Aussage, aussehen, aussteigen, der Ausweis, ausziehen, das Auto, die Autobahn,
-    der Automat, automatisch, das Baby, "die B\xE4ckerei", baden, das Bad, die Bahn,
-    die S-Bahn, "die Stra\xDFenbahn", der Bahnhof, der Bahnsteig, bald, der Balkon,
-    die Banane, "die Bank (\xA8-e)", die Bank (-en), bar, der Bauch, der Baum, der
-      Beamte, bedeuten]
+  Words:
+  - ab
+  - aber
+  - abfahren
+  - die Abfahrt
+  - abgeben
+  - abholen
+  - der Absender
+  - Achtung
+  - die Adresse
+  - all-
+  - allein
+  - also
+  - alt
+  - das Alter
+  - an
+  - anbieten
+  - das Angebot
+  - ander-
+  - anfangen
+  - der Anfang
+  - anklicken
+  - ankommen
+  - die Ankunft
+  - ankreuzen
+  - anmachen
+  - sich anmelden
+  - die Anmeldung
+  - die Anrede
+  - anrufen
+  - der Anruf
+  - der Anrufbeantworter
+  - die Ansage
+  - der Anschluss
+  - an sein
+  - antworten
+  - die Antwort
+  - die Anzeige
+  - (sich) anziehen
+  - das Apartment
+  - der Apfel
+  - der Appetit
+  - arbeiten
+  - die Arbeit
+  - arbeitslos
+  - der Arm
+  - der Arzt
+  - auch
+  - auf
+  - auf sein
+  - die Aufgabe
+  - aufhören
+  - aufladen
+  - aufstehen
+  - der Auftrag
+  - das Auge
+  - aus
+  - der Ausflug
+  - ausfüllen
+  - der Ausgang
+  - die Auskunft
+  - das Ausland
+  - der Ausländer
+  - ausländisch
+  - ausmachen
+  - die Aussage
+  - aussehen
+  - aussteigen
+  - der Ausweis
+  - ausziehen
+  - das Auto
+  - die Autobahn
+  - der Automat
+  - automatisch
+  - das Baby
+  - die Bäckerei
+  - baden
+  - das Bad
+  - die Bahn
+  - die S-Bahn
+  - die Straßenbahn
+  - der Bahnhof
+  - der Bahnsteig
+  - bald
+  - der Balkon
+  - die Banane
+  - die Bank (¨-e)
+  - die Bank (-en)
+  - bar
+  - der Bauch
+  - der Baum
+  - der Beamte
+  - bedeuten
+  - beginnen
+  - bei
+  - beide
+  - das Bein
+  - das Beispiel
+  - zum Beispiel
+  - bekannt
+  - der Bekannter
+  - bekommen
+  - benutzen
+  - der Beruf
+  - besetzt
+  - besichtigen
+  - bestellen
+  - besuchen
+  - das Bett
+  - bezahlen
+  - das Bier
+  - das Bild
+  - billig
+  - ein bisschen
+  - der Bleistift
+  - die CD
+  - circa
+  - der Computer
+  - drucken
+  - der Drucker
+  - drücken
+  - die Durchsage
+  - dürfen
+  - (sich) duschen
+  - die Dusche
+  - die E-Mail
+  - einkaufen
+  - empfehlen
+  - entschuldigen
+  - essen
+  - das Essen
+  - fahren
+  - das Fax
+  - fliegen
+  - der Flughafen
+  - das Flugzeug
+  - das Foto
+  - frühstücken
+  - das Frühstück
+  - gegen
+  - gehen
+  - das Geld
+  - günstig
+  - das Hähnchen
+  - das Handy
+  - hell
+  - heute
+  - das Hobby
+  - hören
+  - der Hunger
+  - das Internet
+  - der Job
+  - der Kaffee
+  - die Karte
+  - kennen
+  - können
+  - kosten
+  - der Kuchen
+  - kurz
+  - letzt-
+  - die Lösung
+  - machen
+  - mehr
+  - möchten
+  - mögen
+  - müde
+  - müssen
+  - nach
+  - neu
+  - nicht
+  - nichts
+  - nie
+  - noch
+  - öffnen
+  - geöffnet
+  - die Rechnung
+  - der Reis
+  - reisen
+  - die Reise
+  - das Reisebüro
+  - der Reiseführer
+  - die Rezeption
+  - schlafen
+  - schlecht
+  - schließen
+  - geschlossen
+  - schon
+  - schön
+  - sehen
+  - sein
+  - seit
+  - sollen
+  - die Sonne
+  - spielen
+  - die Sprache
+  - sprechen
+  - die Stadt
+  - die Stunde
+  - das Taxi
+  - der Tee
+  - der Teil
+  - telefonieren
+  - das Telefon
+  - der Termin
+  - teuer
+  - trinken
+  - übernachten
+  - die Uhr
+  - und so weiter
+  - der Urlaub
+  - (sich) verstehen
+  - wandern
+  - wann
+  - (sich) waschen
+  - werden
+  - wie
+  - wiederholen
+  - wohin
+  - wollen
+  - zirka
 - Id: B1
-  Words: [abbiegen, die Abbildung, das Abenteuer, der Abfall, der Abfalleimer, Abgase,
-    "abh\xE4ngen (von)", "abh\xE4ngig", abheben, abschreiben, das Abitur, ablehnen,
-    abmachen, abnehmen, abonnieren, das Abonnement, absagen, der Abschied, der Abschluss,
-    der Abschnitt, die Absicht, absolut, abstimmen, die Abteilung, der Abwart, "abw\xE4\
-      rts", abwaschen, abwesend, achten (auf), "\xE4hnlich", der Akkumulator, die
-      Aktion, "die Aktivit\xE4t", akzeptieren, der Alarm, der Alkohol, aller-, allerdings,
-    allgemein, der Alltag, "allt\xE4glich", das Alphabet, als ob, das Altenheim, das
-      Altersheim, alternativ, die Alternative, das Amt, "sich am\xFCsieren", analysieren,
-    der Anbieter, andererseits, "die \xC4nderung", anerkennen, anfangs, angeben, die
-      Angabe, "der Angeh\xF6rige", angenehm, der Anglizismus, "\xE4ngstlich", anhaben,
-    "ank\xFCndigen", die Anlage, die Anleitung, anmelden, annehmen, die Annonce, anschaffen,
-    "anschlie\xDFen", anschnallen, ansprechen, der Anspruch, anstellen, der Angestellte,
-    sich anstrengen, anstrengend, der Antrag, anwenden, anwesend, der Anwalt, anzeigen,
-    die Aprikose, der Arbeiter, die Arbeitserlaubnis, die Arbeitslosigkeit, der Arbeitsplatz,
-    die Arbeitsstelle, der Architekt, "der \xC4rger", "\xE4rgerlich", die Art, das
-      Asyl, atmen, der Atem, der Aufenthalt, auffallen, auffordern, die Aufforderung,
-    "auff\xFChren", aufgeben, aufhalten, aufheben, "aufl\xF6sen", aufmerksam, aufnehmen,
-    die Aufnahme, aufregen, auftreten, der Auftritt, aufwachen, "aufw\xE4rts", der
-      Augenblick, ausgebildet, ausdrucken, der Ausdruck, "ausdr\xFCcken", "der Ausdruck\
-      \ (\xA8-e)", auseinander, die Ausfahrt, ausfallen, die Ausgabe, ausgezeichnet,
-    die Aushilfe, die Ausnahme, ausreichen, ausreichend, ausrichten, "ausschlie\xDF\
-      en", "ausschlie\xDFlich", "au\xDFen", "\xE4u\xDFerlich", die Aussicht, die Aussprache,
-    ausstellen, (sich etwas) aussuchen, "ausw\xE4hlen", die Auswahl, der Auszubildender,
-    die Badewanne, die U-Bahn, das Ballett, die Bankleitzahl, der Bankomat, die Bankomatkarte,
-    die Bar, das Bargeld, der Bart, die Batterie, der Bau, der Bauer, beachten, beantragen,
-    der Bedarf, die Bedeutung]
+  Words:
+  - abbiegen
+  - die Abbildung
+  - das Abenteuer
+  - der Abfall
+  - der Abfalleimer
+  - Abgase
+  - abhängen (von)
+  - abhängig
+  - abheben
+  - abschreiben
+  - das Abitur
+  - ablehnen
+  - abmachen
+  - abnehmen
+  - abonnieren
+  - das Abonnement
+  - absagen
+  - der Abschied
+  - der Abschluss
+  - der Abschnitt
+  - die Absicht
+  - absolut
+  - abstimmen
+  - die Abteilung
+  - der Abwart
+  - abwärts
+  - abwaschen
+  - abwesend
+  - achten (auf)
+  - ähnlich
+  - der Akkumulator
+  - die Aktion
+  - die Aktivität
+  - akzeptieren
+  - der Alarm
+  - der Alkohol
+  - aller-
+  - allerdings
+  - allgemein
+  - der Alltag
+  - alltäglich
+  - das Alphabet
+  - als ob
+  - das Altenheim
+  - das Altersheim
+  - alternativ
+  - die Alternative
+  - das Amt
+  - sich amüsieren
+  - analysieren
+  - der Anbieter
+  - andererseits
+  - die Änderung
+  - anerkennen
+  - anfangs
+  - angeben
+  - die Angabe
+  - der Angehörige
+  - angenehm
+  - der Anglizismus
+  - ängstlich
+  - anhaben
+  - ankündigen
+  - die Anlage
+  - die Anleitung
+  - anmelden
+  - annehmen
+  - die Annonce
+  - anschaffen
+  - anschließen
+  - anschnallen
+  - ansprechen
+  - der Anspruch
+  - anstellen
+  - der Angestellte
+  - sich anstrengen
+  - anstrengend
+  - der Antrag
+  - anwenden
+  - anwesend
+  - der Anwalt
+  - anzeigen
+  - die Aprikose
+  - der Arbeiter
+  - die Arbeitserlaubnis
+  - die Arbeitslosigkeit
+  - der Arbeitsplatz
+  - die Arbeitsstelle
+  - der Architekt
+  - der Ärger
+  - ärgerlich
+  - die Art
+  - das Asyl
+  - atmen
+  - der Atem
+  - der Aufenthalt
+  - auffallen
+  - auffordern
+  - die Aufforderung
+  - aufführen
+  - aufgeben
+  - aufhalten
+  - aufheben
+  - auflösen
+  - aufmerksam
+  - aufnehmen
+  - die Aufnahme
+  - aufregen
+  - auftreten
+  - der Auftritt
+  - aufwachen
+  - aufwärts
+  - der Augenblick
+  - ausgebildet
+  - ausdrucken
+  - der Ausdruck
+  - ausdrücken
+  - der Ausdruck (¨-e)
+  - auseinander
+  - die Ausfahrt
+  - ausfallen
+  - die Ausgabe
+  - ausgezeichnet
+  - die Aushilfe
+  - die Ausnahme
+  - ausreichen
+  - ausreichend
+  - ausrichten
+  - ausschließen
+  - ausschließlich
+  - außen
+  - äußerlich
+  - die Aussicht
+  - die Aussprache
+  - ausstellen
+  - (sich etwas) aussuchen
+  - auswählen
+  - die Auswahl
+  - der Auszubildender
+  - die Badewanne
+  - die U-Bahn
+  - das Ballett
+  - die Bankleitzahl
+  - der Bankomat
+  - die Bankomatkarte
+  - die Bar
+  - das Bargeld
+  - der Bart
+  - die Batterie
+  - der Bau
+  - der Bauer
+  - beachten
+  - beantragen
+  - der Bedarf
+  - die Bedeutung
+  - bedienen
+  - die Bedienungsanleitung
+  - die Bedingung
+  - sich befinden
+  - befreit
+  - befriedigend
+  - begegnen
+  - begeistert
+  - der Beginn
+  - begleiten
+  - begrenzt
+  - die Begründung
+  - begrüßen
+  - behalten
+  - behandeln
+  - behaupten
+  - behindern
+  - behindert
+  - die Behörde
+  - beinahe
+  - beißen
+  - der Beitrag
+  - bekannt geben
+  - der Beleg
+  - beleidigen
+  - bemerken
+  - sich bemühen
+  - benötigen
+  - das Benzin
+  - beobachten
+  - die Beratung
+  - berechnen
+  - der Bereich
+  - bereit
+  - bereits
+  - der Bericht
+  - beruflich
+  - berufstätig
+  - beruhigen
+  - beschädigen
+  - beschäftigen
+  - die Beschäftigung
+  - beschließen
+  - beschränken
+  - die Beschreibung
+  - besetzen
+  - besitzen
+  - besonder-
+  - besorgen
+  - besprechen
+  - die Besprechung
+  - die Besserung
+  - die Bestätigung
+  - bestimmt
+  - bestrafen
+  - sich beteiligen
+  - der Betrag
+  - betreuen
+  - der Betreuer
+  - die Betreuung
+  - der Betrieb
+  - der Betriebsrat
+  - betrügen
+  - betrunken
+  - die Bevölkerung
+  - bevor
+  - bewegen
+  - die Bewegung
+  - beweisen
+  - der Beweis
+  - die Bewerbung
+  - der Bewohner
+  - die Beziehung
+  - beziehungsweise
+  - bieten
+  - der Bikini
+  - der Bildschirm
+  - das Billett
+  - bloggen
+  - buchen
+  - das Camp
+  - campen
+  - die Castingshow
+  - der CD-Player
+  - der Chat
+  - der Chatroom
+  - checken
+  - chic
+  - der Chip
+  - die City
+  - die Cola
+  - cool
+  - danach
+  - das Denkmal
+  - doch
+  - drin
+  - drinnen
+  - die DVD
+  - das E-Bike
+  - der Einkauf
+  - die Einleitung
+  - etc.
+  - die Fähre
+  - die Fantasie
+  - faxen
+  - die Folie
+  - der Fotograf
+  - die Fotografie
+  - global
+  - googeln
+  - das Hühnchen
+  - herunterfahren
+  - das Hilfsmittel
+  - der Hit
+  - hochladen
+  - hungrig
+  - interessiert
+  - der Jazz
+  - jobben
+  - der Käse
+  - der Ketchup
+  - der Killer
+  - der Kommentar
+  - die Kosten
+  - das Kraftfahrzeug
+  - sich langweilen
+  - die Langeweile
+  - live
+  - lösen
+  - mailen
+  - der Manager
+  - mehrere
+  - die Mobilbox
+  - der Moderator
+  - das Modul
+  - das Mountainbike
+  - das Obergeschoss
+  - O.K.
+  - in Pension
+  - pensioniert
+  - der Personenkraftwagen
+  - die Phantasie
+  - die Plattform
+  - das Portemonnaie
+  - der Pöstler
+  - das Poulet
+  - die Präsentation
+  - das Puzzle
+  - der Rechner
+  - in Rente
+  - die Rückmeldung
+  - das Sandwich
+  - schaden
+  - der Schaden
+  - schauen
+  - schick
+  - seitdem
+  - die Show
+  - der Schi
+  - das Smartphone
+  - der Snack
+  - die Software
+  - der Song
+  - sonnig
+  - die Soße
+  - so viel (wie)
+  - der Spieler
+  - der Spielplatz
+  - das Spielzeug
+  - der Spot
+  - die Fremdsprache
+  - die Muttersprache
+  - die Zweitsprache
+  - das Stadion
+  - städtisch
+  - das Steak
+  - die Struktur
+  - der Swimmingpool
+  - Tee ziehen lassen
+  - das Teil
+  - der Terminkalender
+  - der Terminal
+  - der Textaufbau
+  - die Tour
+  - der Trend
+  - (sich) trennen
+  - die Trennung
+  - das Trinkgeld
+  - das TV
+  - twittern
+  - übertragen
+  - das Untergeschoss
+  - der User
+  - verrückt
+  - die Wanderung
+  - die Wirklichkeit
+  - die Wohngemeinschaft
+  - das Wörterbuch
+  - die Zahnpasta
+  - zuordnen
 - Id: A2
-  Words: ["die Abk\xFCrzung", "abschlie\xDFen", die Ahnung, aktiv, aktuell, als, die
-      Ampel, "\xE4ndern", anders, die Angst, ansehen, der Antwortbogen, die Anweisung,
-    der Anzug, die Apotheke, der Apparat, "(sich) \xE4rgern", arm, der Artikel, auf
-      jeden Fall, auf keinen Fall, aufmachen, aufpassen, "aufr\xE4umen", aufregend,
-    der Aufzug, die Ausbildung, ausgeben, ausgehen, auspacken, (sich) ausruhen, "au\xDF\
-      erhalb", "au\xDFer", "au\xDFerdem", aussprechen, die Ausstellung, austragen,
-    der Autor, der Babysitter, backen, der Ball, die Band, der Basketball, basteln,
-    bauen, die Baustelle, beantworten, (sich) bedanken]
+  Words:
+  - die Abkürzung
+  - abschließen
+  - die Ahnung
+  - aktiv
+  - aktuell
+  - als
+  - die Ampel
+  - ändern
+  - anders
+  - die Angst
+  - ansehen
+  - der Antwortbogen
+  - die Anweisung
+  - der Anzug
+  - die Apotheke
+  - der Apparat
+  - (sich) ärgern
+  - arm
+  - der Artikel
+  - auf jeden Fall
+  - auf keinen Fall
+  - aufmachen
+  - aufpassen
+  - aufräumen
+  - aufregend
+  - der Aufzug
+  - die Ausbildung
+  - ausgeben
+  - ausgehen
+  - auspacken
+  - (sich) ausruhen
+  - außerhalb
+  - außer
+  - außerdem
+  - aussprechen
+  - die Ausstellung
+  - austragen
+  - der Autor
+  - der Babysitter
+  - backen
+  - der Ball
+  - die Band
+  - der Basketball
+  - basteln
+  - bauen
+  - die Baustelle
+  - beantworten
+  - (sich) bedanken
+  - sich beeilen
+  - beenden
+  - begründen
+  - beliebt
+  - bequem
+  - beraten
+  - der Berg
+  - berichten
+  - berühmt
+  - der Bescheid
+  - Bescheid sagen
+  - Bescheid geben
+  - beschreiben
+  - sich beschweren
+  - besonders
+  - bestätigen
+  - bestehen
+  - der Besuch
+  - sich bewerben
+  - die Bibliothek
+  - der Blog
+  - das Büro
+  - chatten
+  - der Club
+  - der Comic
+  - dunkel
+  - das E-Book
+  - das Erdgeschoss
+  - erinnern
+  - etwas
+  - der Fan
+  - das Festival
+  - fit
+  - die Fitness
+  - fleißig
+  - der Flug
+  - fotografieren
+  - der Fotoapparat
+  - genug
+  - der Hamburger
+  - das heißt
+  - herunterladen
+  - die Homepage
+  - der ICE
+  - interessieren
+  - interessant
+  - das Interesse
+  - joggen
+  - der Klub
+  - kostenlos
+  - langweilig
+  - der Laptop
+  - der Lastkraftwagen
+  - der Link
+  - die Mailbox
+  - die Mannschaft
+  - das Museum
+  - der Nachbar
+  - die Natur
+  - natürlich
+  - die Notiz
+  - online
+  - der Personalcomputer
+  - das Poster
+  - probieren
+  - der Punkt
+  - rechnen
+  - reich
+  - schade
+  - schädlich
+  - schenken
+  - die Schokolade
+  - der Ski
+  - das SMS
+  - sonst
+  - spannend
+  - das Spiel
+  - der Stadtplan
+  - der Stift
+  - surfen
+  - das Team
+  - getrennt leben
+  - das T-Shirt
+  - überall
+  - vergleichen
+  - vgl.
+  - die Wäsche
+  - das Wasserklosett
+  - wirklich
+- Id: M
+  Words:
+  - das Schwein
+  - zweifach
+  - heute ist der erste März
+  - Berlin, zehnter April zweitausendundzwölf
+  - der Silvester
+  - der Frühling
+  - das Frühjahr
+  - der Sommer
+  - der Herbst
+  - der Winter
+  - der Abend
+  - das Wochenende
+  - am Wochenende
+  - die Woche
+  - der Monat
+  - das Jahr
+- Id: K
+  Words:
+  - dran sein
+  - schummeln
+  - mogeln
+  - trennbar
+  - zerreißen
+  - missverstehen
+  - die Bestellung
+  - experimentieren
+  - der Daumen
+  - die Scheiße
+  - der Schokoladenkuchen
+  - der Käsekuchen
+  - die Kopiermaschine
+  - das Natel
+  - der Blumentopf
+  - die Dienstreise
+  - das Protokoll
+  - abrufen
+  - weiterleiten
+  - wiederkommen
+  - der Jude
