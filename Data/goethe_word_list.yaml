@@ -2675,7 +2675,7 @@
 
 - Word: bei
   Level: A1
-  Form: ¨-e
+  Form: + Dativ
   Meaning: by, with, at
   Examples:
     - Offenbach liegt bei Frankfurt.
@@ -5270,10 +5270,20 @@
 
 - Word: einmal
   Level: A1
-  Form: ¨-e
   Meaning: once
   Examples:
-    - example1
+    - Diese Prüfung mache ich nicht noch einmal.
+    - Rufen Sie/Ruf mich bitte morgen noch einmal an.
+    - Warst du schon einmal in Paris?
+    - Ich habe diese Oper leider nur einmal
+      gesehen.
+    - Auf einmal ging das Licht aus.
+    - Ich kann nicht alles auf einmal machen.
+    - Sehen wir uns (ein)mal wieder?
+    - Vor Jahren habe ich (ein)mal in Wien
+      gewohnt.
+    - Komm doch bitte (ein)mal her und hilf
+      mir.
 
 - Word: einnehmen
   Level: B1
@@ -7217,17 +7227,26 @@
 
 - Word: sich freuen
   Level: A1
-  Form: ¨-e
+  Form: freut sich,
+    freute sich,
+    hat sich gefreut
   Meaning: to be glad
   Examples:
-    - example1
+    - Ich freue mich auf den Urlaub.
+    - Zum Geburtstag habe ich ein interessantes Buch
+      bekommen. Ich freue mich sehr über das Geschenk.
+    - Es freut mich, dass alles so gut
+      geklappt hat.
+    - Ich habe mich über Ihr Geschenk sehr
+      gefreut.
+    - Ich freue mich schon auf meinen nächsten Urlaub.
 
 - Word: die Freude
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: pleasure
   Examples:
-    - example1
+    - Diese Arbeit macht mir viel Freude.
 
 - Word: der Freund
   Level: A1
@@ -7293,11 +7312,13 @@
     - example1
 
 - Word: froh
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: happy, glad
   Examples:
-    - example1
+    - Ich bin froh, dass du kommen kannst.
+    - Frohes Fest!
+    - Ich bin froh, dass alles so gut geklappt
+      hat.
 
 - Word: fröhlich
   Level: B1
@@ -7322,10 +7343,11 @@
 
 - Word: früher
   Level: A1
-  Form: ¨-e
   Meaning: earlier
   Examples:
-    - example1
+    - Früher waren wir oft zusammen im Kino.
+    - Früher habe ich in Berlin gewohnt.
+    - Wir nehmen den früheren Zug.
 
 - Word: frühstücken
   Level: A1
@@ -7547,17 +7569,26 @@
 
 - Word: das Gebäude
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: building
   Examples:
-    - example1
+    - In diesem Gebäude sind nur Büros.
 
 - Word: geben
   Level: A1
-  Form: ¨-e
+  Form: gibt, gab,
+    hat gegeben
   Meaning: to give
   Examples:
-    - example1
+    - Kannst du mir bitte deinen Kugelschreiber geben?
+    - Es gibt keine Karten mehr für das Konzert.
+    - Kannst du mir mal deinen Stift geben?
+    - Geben Sie mir bitte eine Quittung!
+    - Können Sie mir etwas zum Schreiben
+      geben?
+    - Der Arzt hat mir eine Spritze gegeben.
+    - Was gibt es im Fernsehen?
+    - Es gibt bald Regen.
 
 - Word: das Gebäck
   Level: B1
@@ -7610,24 +7641,40 @@
 
 - Word: die Geburt
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: birth
   Examples:
-    - example1
+    - Wir gratulieren zur Geburt eures
+      Kindes!
+
+- Word: das Geburtsjahr
+  Level: A1
+  Form: -e
+  Meaning: year of birth
+  Examples:
+    - Das Geburtsjahr Ihres Sohnes, bitte?
+
+- Word: der Geburtsort
+  Level: A1
+  Form: -e
+  Meaning: birthplace, place of birth
+  Examples:
+    - Bitte schreiben Sie Ihren Geburtsort auf das Formular.
+    - Bitte tragen Sie Ihren Geburtsort noch ein.
 
 - Word: der Geburtstag
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: birthday
   Examples:
-    - example1
+    - Herzlichen Glückwunsch zum Geburtstag!
 
 - Word: das Gedicht
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: poem
   Examples:
-    - example1
+    - Kennst du ein schönes Gedicht?
 
 - Word: die Geduld
   Level: B1
@@ -8031,11 +8078,13 @@
     - example1
 
 - Word: das Geschirr
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: crockery, dishes, tablewares
   Examples:
-    - example1
+    - Für die Geburtstagsfeier brauche ich
+      Geschirr für zwölf Personen.
+    - Stellst du bitte das Geschirr in den Schrank?
 
 - Word: das Geschlecht
   Level: B1
@@ -8318,24 +8367,35 @@
 
 - Word: das Glück
   Level: A1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: luck
   Examples:
-    - example1
+    - Du hast dich nicht verletzt. Da hast du
+      Glück gehabt.
+    - Viel Glück bei der Prüfung!
+    - Es hat geregnet. Zum Glück hatte ich
+      einen Regenschirm dabei.
+    - Oh, es regnet. Zum Glück habe ich meinen
+      Schirm dabei.
 
 - Word: glücklich
   Level: A1
-  Form: ¨-e
   Meaning: happy, happily
   Examples:
-    - example1
+    - Meine Kinder sind glücklich verheiratet.
+    - Ein glückliches neues Jahr!
+    - Meine Schwester hat geheiratet und ist
+      sehr glücklich.
+    - Ich wünsche Ihnen ein glückliches
+      neues Jahr.
+    - Ich bin glücklich verheiratet.
 
 - Word: der Glückwunsch
   Level: A1
   Form: ¨-e
   Meaning: congratulations, best wishes
   Examples:
-    - example1
+    - Herzlichen Glückwunsch zum Geburtstag!
 
 - Word: das Gold
   Level: B1
@@ -8437,10 +8497,17 @@
 
 - Word: groß
   Level: A1
-  Form: ¨-e
   Meaning: big
   Examples:
-    - example1
+    - Mein Bruder und ich sind gleich groß.
+    - Frankfurt ist eine große Stadt.
+    - Unsere Wohnung ist 80 m² groß.
+    - Wir haben einen großen Garten.
+    - Wie groß sind Sie?
+    - Die Jacke ist mir zu groß.
+    - Wenn die Kinder groß sind, haben wir
+      wieder mehr Zeit.
+    - Ich habe keinen großen Hunger.
 
 - Word: die Größe
   Level: A1
@@ -8951,17 +9018,30 @@
 
 - Word: helfen
   Level: A1
-  Form: ¨-e
+  Form: hilft, half,
+    hat geholfen
   Meaning: to help
   Examples:
-    - example1
+    - Können Sie mir helfen, bitte?
+    - Würden Sie mir bitte helfen?
+    - Kannst du mir helfen? Ich muss
+      nächsten Monat umziehen.
+    - Die Tabletten haben mir gut geholfen.
 
 - Word: die Hilfe
   Level: A1
-  Form: ¨-e
+  Form: -n / (Sg.)
   Meaning: help
   Examples:
-    - example1
+    - Hilfe! Bitte helfen Sie mir!
+    - Brauchen Sie meine Hilfe?
+    - Er bekommt Hilfe von Freunden.
+    - Vielen Dank für Ihre Hilfe.
+    - Haben Sie einen Kurs für Erste Hilfe
+      gemacht? Das müssen Sie, wenn Sie
+      den Führerschein machen wollen.
+    - Hilfe! Jemand hat mir die Handtasche
+      gestohlen. Bitte helfen Sie mir!
 
 - Word: hell
   Level: A1
@@ -9068,17 +9148,18 @@
 
 - Word: das Herz
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: heart
   Examples:
-    - example1
+    - Ich bin ganz nervös. Mir klopft das
+      Herz.
+    - Wir müssen Ihr Herz untersuchen.
 
 - Word: herzlich
   Level: A1
-  Form: ¨-e
-  Meaning: cordial
+  Meaning: friendly, hearty, cordial
   Examples:
-    - example1
+    - Herzlichen Glückwunsch!
 
 - Word: heute
   Level: A1
@@ -9248,10 +9329,12 @@
 
 - Word: die Hochzeit
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: wedding
   Examples:
-    - example1
+    - Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
+    - Claudia und Peter wollen ihre Hochzeit
+      groß feiern.
 
 - Word: der Hof
   Level: B1
@@ -10192,12 +10275,19 @@
   Examples:
     - example1
 
-- Word: kein-
+- Word: kein
   Level: B1
-  Form: ¨-e
   Meaning: none, not any
   Examples:
-    - example1
+    - Es gibt keine Eintrittskarten mehr.
+    - Hast du keinen Hunger?
+    - Ich habe heute leider keine Zeit.
+    - Ich spreche leider kein Chinesisch.
+    - Ich habe keine Kinder.
+    - Ich habe leider heute keine Zeit.
+    - Jetzt habe ich noch keinen Hunger.
+    - Was für ein Auto haben Sie? – Ich habe
+      keins.
 
 - Word: der Keller
   Level: B1
@@ -10413,10 +10503,13 @@
 
 - Word: klein
   Level: A1
-  Form: ¨-e
   Meaning: small
   Examples:
-    - example1
+    - Eltville ist eine kleine Stadt am Rhein.
+    - Unsere Wohnung ist sehr klein.
+    - Unsere Tochter ist noch klein. Sie ist erst zwei
+      Jahre alt.
+    - Wir machen am Wochenende einen kleinen Ausflug.
 
 - Word: klettern
   Level: B1
@@ -10555,17 +10648,26 @@
 
 - Word: kochen
   Level: A1
-  Form: ¨-e
+  Form: kocht, kochte,
+    hat gekocht
   Meaning: to cook
   Examples:
-    - example1
+    - Herr Georgi kann gut kochen.
+    - Ich koche gern.
+    - Das Wasser kocht.
+    - Der Reis muss etwa 20 Minuten
+      kochen.
 
 - Word: der Koch
   Level: B1
   Form: ¨-e
+  Feminine:
+    Word: die Köchin
+    Form: -nen
   Meaning: cook
   Examples:
-    - example1
+    - Ein Freund von mir ist Koch in einem
+      teuren Restaurant.
 
 - Word: der Koffer
   Level: A1
@@ -10885,59 +10987,76 @@
 
 - Word: krank
   Level: A1
-  Form: ¨-e
   Meaning: ill, sick
   Examples:
-    - example1
+    - Ich kann heute nicht zur Arbeit kommen, ich bin krank
+      und liege im Bett.
+    - Ich war zwei Wochen krank.
+    - Ich muss mich um meine kranke
+      Großmutter kümmern.
 
 - Word: der Kranke
   Level: B1
-  Form: ¨-e
+  Form: -n
+  Feminine:
+    Word: die Kranke
+    Form: -n
   Meaning: sick-person, invalid
   Examples:
-    - example1
+    - Kranke brauchen viel Ruhe.
 
 - Word: das Krankenhaus
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: ¨-er
   Meaning: hospital
   Examples:
-    - example1
+    - Meine Tante ist im Krankenhaus.
+    - Er hat sich verletzt und musste ins
+      Krankenhaus.
 
 - Word: die Krankenkasse
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
   Meaning: health insurance
   Examples:
-    - example1
+    - Bei welcher Krankenkasse sind Sie?
 
 - Word: der Krankenpfleger
   Level: B1
-  Form: ¨-e
-  Meaning: male nurse
+  Form: '-'
+  Feminine:
+    Word: die Krankenpflegerin
+    Form: -nen
+  Meaning: nurse
   Examples:
-    - example1
+    - Mein Bruder arbeitet als
+      Krankenpfleger im Krankenhaus.
 
 - Word: die Krankenschwester
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: female nurse
   Examples:
-    - example1
+    - Meine Cousine möchte gern Krankenschwester werden.
 
 - Word: der Krankenwagen
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: ambulance
   Examples:
-    - example1
+    - Wir mussten einen Krankenwagen
+      rufen.
 
 - Word: die Krankheit
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: illness
   Examples:
-    - example1
+    - Welche Krankheit hat Herr Brandner?
+    - Gegen welche Krankheiten sollte ich
+      mich impfen lassen?
+    - Was für eine Krankheit hat Herr
+      Brandner?
 
 - Word: kreativ
   Level: B1
@@ -11076,18 +11195,18 @@
     - example1
 
 - Word: kühl
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: cool
   Examples:
-    - example1
+    - Es ist kühl draußen. Zieh dir eine Jacke an.
 
 - Word: der Kühlschrank
   Level: A1
   Form: ¨-e
   Meaning: fridge
   Examples:
-    - example1
+    - Haben wir noch Milch? – Ja, im Kühlschrank.
+    - Stell die Milch in den Kühlschrank!
 
 - Word: die Kultur
   Level: B1
@@ -11233,10 +11352,15 @@
 
 - Word: lachen
   Level: A1
-  Form: ¨-e
+  Form: lacht, lachte, hat
+    gelacht
   Meaning: to laugh
   Examples:
-    - example1
+    - Die Kinder lachen viel.
+    - Die Kinder haben über den Witz
+      gelacht.
+    - Lachen ist gesund.
+    - Wir haben viel gelacht.
 
 - Word: der Laden
   Level: A1
@@ -11302,25 +11426,41 @@
     - example1
 
 - Word: lang
-  Level: B1
-  Form: ¨-e
+  Level: A1
   Meaning: long
   Examples:
-    - example1
-
-- Word: lange
-  Level: B1
-  Form: ¨-e
-  Meaning: for a long time
-  Examples:
-    - example1
+    - Die Jeans ist zu lang.
+    - Die Hose ist zu lang. Können Sie sie ändern?
+    - Der Teppich ist 3 m lang und 2 m breit.
+    - Meine Schwester hat mir einen langen
+      Brief geschrieben.
+    - Die Hose ist zu lang. Können Sie sie
+      kürzer machen?
 
 - Word: die Länge
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: length
   Examples:
-    - example1
+    - 'Mein Schreibtisch hat folgende Maße: Länge 1.20 m, Breite: 0,85 m, Höhe: 0,75 m.'
+
+- Word: lange
+  Level: A1
+  Meaning: for a long time
+  Examples:
+    - Wie lange fährt der Zug von Hamburg nach Berlin?
+    - Wie lange dauert die Fahrt von
+      Hamburg nach Berlin?
+    - Wie lange bist du schon in
+      Deutschland?
+    - Wartest du schon lange?
+    - Wir sind noch lange nicht fertig mit
+      der Arbeit.
+    - Wir haben lange gefrühstückt.
+    - Beim Arzt muss man oft lange
+      warten.
+    - Ich komme gleich. Es dauert nicht
+      lange.
 
 - Word: langsam
   Level: A1
@@ -11539,25 +11679,35 @@
     - example1
 
 - Word: leid tun
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: tut leid, tat leid,
+    hat leidgetan
   Meaning: to be sorry
   Examples:
-    - example1
+    - Es tut mir leid, dass ich nicht kommen kann.
+    - Die Frau tut mir leid.
+    - Wie komme ich zum Bahnhof? - Tut
+      mir leid, das weiß ich nicht.
+    - Es tut mir leid, dass ich Ihnen nicht
+      helfen kann.
 
 - Word: leiden
   Level: B1
-  Form: ¨-e
+  Form: leidet, litt,
+    hat gelitten
   Meaning: to suffer
   Examples:
-    - example1
+    - Er leidet an einer schweren Krankheit.
+    - Sie leidet sehr unter den Verhältnissen.
 
 - Word: leider
   Level: A1
-  Form: ¨-e
   Meaning: unfortunately
   Examples:
-    - example1
+    - Leider kann ich nicht kommen. Ich muss zum Arzt.
+    - Da kann ich Ihnen leider nicht helfen.
+    - Hast du schon eine Antwort auf deinen
+      Brief? – Leider nicht.
 
 - Word: leihen
   Level: B1
@@ -12525,10 +12675,58 @@
 
 - Word: mit
   Level: A1
-  Form: ¨-e
+  Form: + Dativ
   Meaning: with
   Examples:
-    - example1
+    - Trinken Sie den Kaffee mit oder ohne Zucker?
+    - Fahren wir mit dem Auto oder mit dem Zug nach Hamburg?
+    - Ich komme mit meinem Freund.
+    - Ich gehe heute Abend mit Maria aus.
+    - Wir suchen eine Dreizimmerwohnung
+      mit Küche und Bad.
+    - Ich hätte gern einen Tee mit Zitrone.
+    - Mit meiner Mutter sind wir acht
+      Personen.
+    - Ich bin mit dem Fahrrad gekommen.
+
+- Word: mitbringen
+  Level: A1
+  Form: bringt mit, brachte mit, hat mitgebracht
+  Meaning: to bring (along, with), to accompany
+  Examples:
+    - Ich gehe einkaufen. Soll ich dir was mitbringen?
+
+- Word: mitkommen
+  Level: A1
+  Form: kommt mit, kam mit, ist mitgekommen
+  Meaning: to come with, to join and come along with (another person)
+  Examples:
+    - Ich gehe ins Kino. Kommst du mit?
+
+- Word: mitmachen
+  Level: A1
+  Form: macht mit, machte mit, hat mitgemacht
+  Meaning: to take part
+  Examples:
+    - Warum macht ihr nicht mit?
+    - Wir organisieren ein Fest. Möchtest du auch
+      mitmachen?
+
+- Word: mitnehmen
+  Level: A1
+  Form: nimmt mit, nahm mit, hat mitgenommen
+  Meaning: to carry along
+  Examples:
+    - Nehmen wir meine Schwester ins Kino mit?
+    - Wir fahren am Wochenende in die Berge. Ich muss
+      mein Zelt mitnehmen.
+
+- Word: mitspielen
+  Level: A2
+  Form: spielt mit, spielte mit, hat mitgespielt
+  Meaning: to cooperate
+  Examples:
+    - Warum spielt ihr nicht mit?
 
 - Word: der Mitarbeiter
   Level: B1
@@ -12757,6 +12955,12 @@
   Examples:
     - example1
 
+- Word: morgen
+  Level: A1
+  Meaning: tomorrow
+  Examples:
+    - Morgen beginnt die Schule erst um zehn Uhr.
+
 - Word: der Motor
   Level: B1
   Form: ¨-e
@@ -12843,25 +13047,31 @@
       Museum.
 
 - Word: die Musik
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en / (Sg.)
   Meaning: music
   Examples:
-    - example1
-
-- Word: der Musiker
-  Level: B1
-  Form: ¨-e
-  Meaning: musician
-  Examples:
-    - example1
+    - Wie findest du die Musik?
+    - Spanische Musik gefällt mir gut.
+    - Spanische Musik mag ich sehr.
+    - Was für Musik hörst du gern?
 
 - Word: musikalisch
   Level: B1
-  Form: ¨-e
   Meaning: musical
   Examples:
-    - example1
+    - 'Sie ist sehr musikalisch: Sie spielt Klavier, Flöte und Geige.'
+    - Das musikalische Angebot gefällt mir.
+
+- Word: der Musiker
+  Level: B1
+  Form: '-'
+  Feminine:
+    Word: die Musikerin
+    Form: -nen
+  Meaning: musician
+  Examples:
+    - Mein Bruder möchte Musiker werden.
 
 - Word: der Muskel
   Level: B1
@@ -12922,6 +13132,7 @@
 - Word: nach
   Level: A1
   Meaning: after, towards
+  Form: + Dativ
   Examples:
     - Ich gehe jetzt nach Hause.
     - Ich fliege nach München.
@@ -13628,17 +13839,19 @@
 
 - Word: oft
   Level: A1
-  Form: ¨-e
   Meaning: often
   Examples:
-    - example1
+    - Petra treffe ich oft.
+    - Ich gehe nicht oft ins Kino.
+    - Ich treffe mich oft mit meiner
+      Freundin.
 
 - Word: öfter
   Level: B1
-  Form: ¨-e
   Meaning: more often, repeatedly
   Examples:
-    - example1
+    - In letzter Zeit muss ich öfter
+      Überstunden machen.
 
 - Word: ohne
   Level: A1
@@ -13859,11 +14072,12 @@
     - example1
 
 - Word: das Paket
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: packet, parcel
   Examples:
-    - example1
+    - Bringst du bitte das Paket zur Post?
+    - Hast du das Paket zur Post gebracht?
 
 - Word: die Panne
   Level: B1
@@ -14567,18 +14781,24 @@
     - example1
 
 - Word: prüfen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: prüft, prüfte, hat
+    geprüft
   Meaning: to check, examine
   Examples:
-    - example1
+    - Bitte prüfen Sie die Rechnung sofort.
+    - Bitte prüfen Sie sofort, ob die
+      Rechnung stimmt.
 
 - Word: die Prüfung
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: exam, test
   Examples:
-    - example1
+    - Die Prüfung ist am Montag um 8.00 Uhr.
+    - Ich habe die Prüfung bestanden.
+    - Mein Freund hat die Prüfung
+      bestanden.
 
 - Word: das Publikum
   Level: B1
@@ -14753,25 +14973,37 @@
     - example1
 
 - Word: das Rathaus
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: ¨-er
   Meaning: town hall
   Examples:
-    - example1
+    - Das Formular bekommen Sie im Rathaus.
+    - Sie müssen sich im Rathaus anmelden.
+    - Hier links sehen Sie das Rathaus.
+    - Die Wahl findet im Rathaus statt.
 
 - Word: rauchen
   Level: A1
-  Form: ¨-e
+  Form: raucht, rauchte,
+    hat geraucht
   Meaning: to smoke
   Examples:
-    - example1
+    - Ich rauche nicht.
+    - Stört es Sie, wenn ich rauche?
+    - Rauchen ist hier verboten!
+    - Hier ist das Rauchen verboten!
 
 - Word: der Raucher
   Level: B1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Word: die Raucherin
+    Form: -nen
   Meaning: smoker
   Examples:
-    - example1
+    - Gibt es hier ein Zimmer für Raucher?
+    - Ich bin keine Raucherin. Ich bin
+      Nichtraucherin.
 
 - Word: der Raum
   Level: A1
@@ -15972,10 +16204,16 @@
 
 - Word: schmecken
   Level: A1
-  Form: ¨-e
+  Form: schmeckt,
+    schmeckte,
+    hat geschmeckt
   Meaning: to taste
   Examples:
-    - example1
+    - Schmeckt das gut?
+    - Schmeckt dir die Suppe?
+    - Hat es Ihnen geschmeckt?
+    - Schmeckt's?
+    - Die Suppe schmeckt nach Knoblauch.
 
 - Word: der Schmerz
   Level: B1
@@ -16139,24 +16377,31 @@
 
 - Word: schreiben
   Level: A1
-  Form: ¨-e
+  Form: schreibt,
+    schrieb, hat geschrieben
   Meaning: to write
   Examples:
-    - example1
+    - Er schreibt jeden Tag fünfzig E-Mails.
+    - Ich schreibe dir eine E-Mail.
+    - Ich habe dir einen Brief geschrieben.
+    - Mein Kugelschreiber schreibt nicht
+      mehr.
 
 - Word: aufschreiben
   Level: B1
-  Form: ¨-e
+  Form: schreibt auf, schrieb auf, hat aufgeschrieben
   Meaning: to write down
   Examples:
-    - example1
+    - Ich habe mir deine Telefonnummer
+      aufgeschrieben.
 
 - Word: das Schreiben
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: letter, communication
   Examples:
-    - example1
+    - Haben Sie mein Schreiben vom 3. März
+      erhalten?
 
 - Word: schreien
   Level: B1
@@ -16483,17 +16728,24 @@
 
 - Word: selb-
   Level: B1
-  Form: ¨-e
+  Form: selber, selbe, selbes
   Meaning: same
   Examples:
-    - example1
+    - Ich habe am selben Tag Geburtstag wie
+      du.
 
 - Word: selbst
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: self
   Examples:
-    - example1
+    - Du musst mir nicht helfen, ich mache das selbst.
+    - Den Kuchen habe ich selbst gebacken.
+
+- Word: selber
+  Level: B1
+  Meaning: by oneself
+  Examples:
+    - Sie will das selber machen.
 
 - Word: selbstständig
   Level: B1
@@ -17769,7 +18021,8 @@
   Form: ¨-e
   Meaning: current (electricity)
   Examples:
-    - example1
+    - Wie kann ich im Haushalt Strom
+      sparen?
 
 - Word: der Strumpf
   Level: B1
@@ -18051,17 +18304,20 @@
 
 - Word: tanzen
   Level: A1
-  Form: ¨-e
+  Form: tanzt, tanzte,
+    hat getanzt
   Meaning: to dance
   Examples:
-    - example1
+    - Tanzen Sie gern?
+    - Auf der Hochzeit haben wir viel
+      getanzt.
 
 - Word: der Tanz
   Level: B1
   Form: ¨-e
   Meaning: dance
   Examples:
-    - example1
+    - Diese modernen Tänze kann ich nicht.
 
 - Word: die Tasche
   Level: A1
@@ -18290,11 +18546,15 @@
     - Darf ich bitte Ihr Telefon benutzen?
 
 - Word: der Teller
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: '-'
   Meaning: plate
   Examples:
-    - example1
+    - Stell die Teller bitte auf den Tisch!
+    - Möchtest du noch einen Teller Suppe?
+    - Stell bitte schon mal die Teller auf den
+      Tisch!
+    - Willst du noch einen Teller Suppe?
 
 - Word: die Temperatur
   Level: B1
@@ -18846,10 +19106,21 @@
 
 - Word: tun
   Level: A1
-  Form: ¨-e
+  Form: tut, tat, hat getan
   Meaning: to do, make
   Examples:
-    - example1
+    - Ich habe noch etwas zu tun.
+    - Was tut Ihr Mann?
+    - Mein Rücken tut weh.
+    - Es tut mir leid, ich kann leider nicht kommen.
+      Was kann ich für Sie tun?
+    - Ich habe heute viel zu tun.
+    - Was kann ich für Sie tun?
+    - Ich habe zu viel Zucker in den Kaffee
+      getan.
+    - Der Arm tut mir weh.
+    - Ich habe endlich mal ausgeschlafen.
+      Das hat gut getan.
 
 - Word: die Tür
   Level: B1
@@ -18923,10 +19194,23 @@
 
 - Word: über
   Level: A1
-  Form: ¨-e
   Meaning: above, over, about
   Examples:
-    - example1
+    - Gehen Sie lieber hier über die Straße.
+    - Er wohnt im zweiten Stock über Familie Meier.
+    - Sind Sie über 18?
+    - Über uns wohnt Familie Schneider.
+    - Die Müllers wohnen direkt über uns.
+    - Pass bitte auf, wenn du über die
+      Straße gehst.
+    - Fahren Sie über Stuttgart oder über
+      Würzburg?
+    - Übers Wochenende fahren wir in die
+      Berge.
+    - Kinder über zehn Jahre müssen voll
+      bezahlen.
+    - Ich suche ein Buch über die deutsche
+      Küche.
 
 - Word: überall
   Level: A2
@@ -19896,24 +20180,34 @@
 
 - Word: verhindern
   Level: B1
-  Form: ¨-e
+  Form: verhindert,
+    verhinderte,
+    hat verhindert
   Meaning: to prevent
   Examples:
-    - example1
+    - Wir konnten den Unfall nicht
+      verhindern.
 
 - Word: verkaufen
   Level: A1
-  Form: ¨-e
+  Form: verkauft,
+    verkaufte, hat verkauft
   Meaning: to sell
   Examples:
-    - example1
+    - Er verkauft sein altes Auto.
+    - Ich habe unser altes Auto verkauft.
 
 - Word: der Verkäufer
   Level: A1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Word: die Verkäuferin
+    Form: -nen
   Meaning: seller, salesman
   Examples:
-    - example1
+    - Meine Mutter ist Verkäuferin im Kaufhaus.
+    - Die Verkäuferin wird Ihnen gleich
+      helfen.
 
 - Word: der Verkehr
   Level: B1
@@ -20372,10 +20666,15 @@
 
 - Word: viel
   Level: A1
-  Form: ¨-e
   Meaning: a lot
   Examples:
-    - example1
+    - Hier regnet es viel.
+    - Ich habe leider nicht viel Zeit.
+    - Viel Spaß!
+    - Im Winter sind viele Leute erkältet.
+    - Ich habe schon viel gelernt.
+    - Ich wünsche Ihnen viel Spaß.
+    - Das ist mir viel zu teuer.
 
 - Word: vielleicht
   Level: A1
@@ -20456,10 +20755,19 @@
 
 - Word: von
   Level: B1
-  Form: ¨-e
+  Form: + Dativ
   Meaning: from, by, of, about
   Examples:
-    - example1
+    - Das Auto von Felix ist kaputt.
+    - Er kommt gerade von Köln/von zu Hause.
+    - Die Brötchen sind leider von gestern.
+    - Ich komme gerade vom Zahnarzt.
+    - Emil ist ein Freund von mir.
+    - Haben Sie noch eine Zeitung von
+      heute?
+    - Von jetzt an müssen wir sparen.
+    - Das Büro ist von 13 bis 15 Uhr
+      geschlossen.
 
 - Word: voneinander
   Level: B1
@@ -20956,11 +21264,13 @@
     - example1
 
 - Word: wegen
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: because of
   Examples:
-    - example1
+    - Wegen seiner Arbeit kann er leider nicht kommen.
+    - Ich rufe wegen meiner Tochter an.
+    - Wegen Nebels konnte unser Flugzeug
+      nicht landen.
 
 - Word: wehtun
   Level: B1
@@ -21200,10 +21510,15 @@
 
 - Word: das Wetter
   Level: A1
-  Form: ¨-e
+  Form: '- / (Sg.)'
   Meaning: weather
   Examples:
-    - example1
+    - Wir hatten im Urlaub schlechtes Wetter.
+    - 'Heute ist das Wetter gut: Es ist sonnig und warm.'
+    - Ich habe Radio gehört. Das Wetter soll
+      schön werden.
+    - Bei schönem Wetter könnten wir ein
+      Picknick machen.
 
 - Word: der Wetterbericht
   Level: B1
@@ -21491,18 +21806,17 @@
     - example1
 
 - Word: die Wolke
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
   Meaning: cloud
   Examples:
-    - example1
+    - Es gibt / sind viele Wolken am Himmel.
 
 - Word: bewölkt
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: cloudy
   Examples:
-    - example1
+    - Heute ist es stark bewölkt.
 
 - Word: die Wolle
   Level: B1
@@ -21844,10 +22158,16 @@
 
 - Word: das Zimmer
   Level: A1
-  Form: ¨-e
+  Form: '-'
   Meaning: room
   Examples:
-    - example1
+    - Das Zimmer ist groß.
+    - Öffne im Schlafzimmer das Fenster, bitte!
+    - Die Wohnung hat drei Zimmer.
+    - Ich habe im Hotel ein Zimmer bestellt.
+    - Das Zimmer ist am größten.
+    - Mach im Schlafzimmer das Fenster zu!
+    - Ich habe ein Zimmer im Hotel Eden reserviert.
 
 - Word: die Zigarette
   Level: A1
@@ -21906,11 +22226,26 @@
     - example1
 
 - Word: zu
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: + Dativ
   Meaning: to, on, by, too, for
   Examples:
-    - example1
+    - Der Bus fährt zum Bahnhof.
+    - Ich gehe zu Fuß.
+    - Ich bin zu Hause.
+    - Das Kleid ist mir zu teuer.
+    - Ich trinke zum Essen ein Bier.
+    - Ich bringe Sie zum Bahnhof.
+    - Wann sind Sie zu Hause?
+    - Am besten gehen Sie zu Fuß.
+    - Gehen Ihre Kinder schon/noch zur
+      Schule?
+    - Bitte zwanzig Briefmarken zu 55 Cent.
+    - Ich trinke zum Essen ein Bier.
+    - Unsere Mannschaft hat 2 zu 1 gewonnen.
+    - Ich habe vor, mir ein neues Auto zu
+      kaufen.
+    - Hast du etwas zu trinken für mich?
 
 - Word: zubereiten
   Level: B1
@@ -22392,13 +22727,6 @@
   Level: M
   Form: ¨-e
   Meaning: mathematics
-  Examples:
-    - example1
-
-- Word: die Musik
-  Level: M
-  Form: ¨-e
-  Meaning: music
   Examples:
     - example1
 
@@ -23490,13 +23818,6 @@
   Examples:
     - example1
 
-- Word: einmal
-  Level: M
-  Form: ¨-e
-  Meaning: once
-  Examples:
-    - example1
-
 - Word: zweimal
   Level: M
   Form: ¨-e
@@ -24362,3 +24683,60 @@
   Meaning: Jew
   Examples:
     - Albert Einstein war Jude.
+
+- Word: stornieren
+  Level: K
+  Form: storniert, stornierte, hat storniert
+  Meaning: to cancel, to reverse
+  Examples:
+    - Nachdem er bemerkte, dass er den Artikel schon hatte, stornierte er den Kauf.
+
+- Word: abspülen
+  Level: K
+  Form: spült ab, spülte ab, hat abgespült
+  Meaning: to wash off, to rinse
+  Examples:
+    - Wer spült heute ab?
+
+- Word: das Waschbecken
+  Level: K
+  Form: '-'
+  Meaning: sink; basin
+  Examples:
+    - Er wusch sich am Waschbecken die dreckigen Hände.
+
+- Word: anbauen
+  Level: K
+  Form: baut an, baute an, hat angebaut
+  Meaning: to add on; to grow, to cultivate
+  Examples:
+    - Baust du das Waschbecken bald an?
+
+- Word: einräumen
+  Level: K
+  Form: räumt ein, räumte ein, hat eingeräumt
+  Meaning: to store things; to grant, concede, admit
+  Examples:
+    - Räumst du die Teller in den Küchenschrank ein?
+    - Wir wollen zu zweit das Zimmer einräumen.
+
+- Word: der Küchenschrank
+  Level: K
+  Form: ¨-e
+  Meaning: cupboard, kitchen cabinet
+  Examples:
+    - Es gibt doch noch einen Küchenschrank.
+
+- Word: die Beförderung
+  Level: K
+  Form: -en
+  Meaning: transportation
+  Examples:
+    - Papas Beförderung zum Regierungsbaudirektor war unter Dach und Fach.
+
+- Word: fertigstellen
+  Level: K
+  Form: stellt fertig, stellte fertig, hat fertiggestellt
+  Meaning: to finish, to complete, to accomplish
+  Examples:
+    - Heute hat er sein Kunstwerk fertiggestellt.

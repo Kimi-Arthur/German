@@ -23,8 +23,8 @@ To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct
 | Type                                                         | Choice    | Examples              |
 | ------------------------------------------------------------ | --------- | --------------------- |
 | Action taker                                                 | Nominativ | **Ich** besuche dich. |
-| Want Akkusativ: **besuchen**, **heben**,<br />**brauchen**, **möchen**, **nehmen**, **trinken** | Akkusativ | Ich besuche **dich**. |
-| Want Dativ: **helfen**, **gefallen**                         | Dativ     | Ich helfe **dir**.    |
+| Want Akkusativ (most verbs): **besuchen**, **benutzen**, **heben**,<br />**brauchen**, **möchen**, **nehmen**, **trinken** ... | Akkusativ | Ich besuche **dich**. |
+| Want Dativ: **helfen**, **gefallen**, **schmecken**, **geben** | Dativ     | Ich helfe **dir**.    |
 
 3. <ruby>Präpositionen<rt>preposition</rt></ruby>
 
