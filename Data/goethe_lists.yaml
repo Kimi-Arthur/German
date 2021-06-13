@@ -126,6 +126,7 @@
   - die Dusche
   - die E-Mail
   - einkaufen
+  - einmal
   - empfehlen
   - entschuldigen
   - essen
@@ -136,17 +137,31 @@
   - der Flughafen
   - das Flugzeug
   - das Foto
+  - sich freuen
+  - früher
   - frühstücken
   - das Frühstück
+  - geben
+  - das Geburtsjahr
+  - der Geburtsort
+  - der Geburtstag
   - gegen
   - gehen
   - das Geld
+  - das Glück
+  - glücklich
+  - der Glückwunsch
+  - groß
   - günstig
   - das Hähnchen
   - das Handy
+  - helfen
+  - die Hilfe
   - hell
+  - herzlich
   - heute
   - das Hobby
+  - die Hochzeit
   - hören
   - der Hunger
   - das Internet
@@ -154,16 +169,30 @@
   - der Kaffee
   - die Karte
   - kennen
+  - klein
+  - kochen
   - können
   - kosten
+  - krank
   - der Kuchen
+  - der Kühlschrank
   - kurz
+  - lachen
+  - lang
+  - lange
+  - leider
   - letzt-
   - die Lösung
   - machen
   - mehr
+  - mit
+  - mitbringen
+  - mitkommen
+  - mitmachen
+  - mitnehmen
   - möchten
   - mögen
+  - morgen
   - müde
   - müssen
   - nach
@@ -174,6 +203,9 @@
   - noch
   - öffnen
   - geöffnet
+  - oft
+  - die Prüfung
+  - rauchen
   - die Rechnung
   - der Reis
   - reisen
@@ -185,8 +217,10 @@
   - schlecht
   - schließen
   - geschlossen
+  - schmecken
   - schon
   - schön
+  - schreiben
   - sehen
   - sein
   - seit
@@ -197,6 +231,7 @@
   - sprechen
   - die Stadt
   - die Stunde
+  - tanzen
   - das Taxi
   - der Tee
   - der Teil
@@ -205,20 +240,28 @@
   - der Termin
   - teuer
   - trinken
+  - tun
+  - über
   - übernachten
   - die Uhr
   - und so weiter
   - der Urlaub
+  - verkaufen
+  - der Verkäufer
   - (sich) verstehen
+  - viel
   - wandern
   - wann
   - (sich) waschen
   - werden
+  - das Wetter
   - wie
   - wiederholen
   - wohin
   - wollen
+  - das Zimmer
   - zirka
+  - zu
 - Id: B1
   Words:
   - abbiegen
@@ -484,10 +527,15 @@
   - die Folie
   - der Fotograf
   - die Fotografie
+  - die Freude
+  - das Gebäude
+  - die Geburt
+  - das Gedicht
   - global
   - googeln
   - das Hühnchen
   - herunterfahren
+  - das Herz
   - das Hilfsmittel
   - der Hit
   - hochladen
@@ -496,13 +544,21 @@
   - der Jazz
   - jobben
   - der Käse
+  - kein
   - der Ketchup
   - der Killer
+  - der Koch
   - der Kommentar
   - die Kosten
   - das Kraftfahrzeug
+  - der Kranke
+  - der Krankenpfleger
+  - die Krankenschwester
+  - der Krankenwagen
+  - die Länge
   - sich langweilen
   - die Langeweile
+  - leiden
   - live
   - lösen
   - mailen
@@ -512,7 +568,10 @@
   - der Moderator
   - das Modul
   - das Mountainbike
+  - musikalisch
+  - der Musiker
   - das Obergeschoss
+  - öfter
   - O.K.
   - in Pension
   - pensioniert
@@ -524,6 +583,7 @@
   - das Poulet
   - die Präsentation
   - das Puzzle
+  - der Raucher
   - der Rechner
   - in Rente
   - die Rückmeldung
@@ -532,7 +592,11 @@
   - der Schaden
   - schauen
   - schick
+  - aufschreiben
+  - das Schreiben
   - seitdem
+  - selb-
+  - selber
   - die Show
   - der Schi
   - das Smartphone
@@ -552,8 +616,10 @@
   - das Stadion
   - städtisch
   - das Steak
+  - der Strom
   - die Struktur
   - der Swimmingpool
+  - der Tanz
   - Tee ziehen lassen
   - das Teil
   - der Terminkalender
@@ -569,7 +635,9 @@
   - übertragen
   - das Untergeschoss
   - der User
+  - verhindern
   - verrückt
+  - von
   - die Wanderung
   - die Wirklichkeit
   - die Wohngemeinschaft
@@ -664,7 +732,9 @@
   - der Flug
   - fotografieren
   - der Fotoapparat
+  - froh
   - genug
+  - das Geschirr
   - der Hamburger
   - das heißt
   - herunterladen
@@ -676,28 +746,39 @@
   - joggen
   - der Klub
   - kostenlos
+  - das Krankenhaus
+  - die Krankenkasse
+  - die Krankheit
+  - kühl
   - langweilig
   - der Laptop
   - der Lastkraftwagen
+  - leid tun
   - der Link
   - die Mailbox
   - die Mannschaft
+  - mitspielen
   - das Museum
+  - die Musik
   - der Nachbar
   - die Natur
   - natürlich
   - die Notiz
   - online
+  - das Paket
   - der Personalcomputer
   - das Poster
   - probieren
+  - prüfen
   - der Punkt
+  - das Rathaus
   - rechnen
   - reich
   - schade
   - schädlich
   - schenken
   - die Schokolade
+  - selbst
   - der Ski
   - das SMS
   - sonst
@@ -707,6 +788,7 @@
   - der Stift
   - surfen
   - das Team
+  - der Teller
   - getrennt leben
   - das T-Shirt
   - überall
@@ -714,7 +796,10 @@
   - vgl.
   - die Wäsche
   - das Wasserklosett
+  - wegen
   - wirklich
+  - die Wolke
+  - bewölkt
 - Id: M
   Words:
   - das Schwein
@@ -756,3 +841,11 @@
   - weiterleiten
   - wiederkommen
   - der Jude
+  - stornieren
+  - abspülen
+  - das Waschbecken
+  - anbauen
+  - einräumen
+  - der Küchenschrank
+  - die Beförderung
+  - fertigstellen
