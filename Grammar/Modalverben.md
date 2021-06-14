@@ -2,21 +2,33 @@
 
 ## Common Modalverben
 
-| Word    | Konjugation               | Meaning          |
-| ------- | ------------------------- | ---------------- |
-| müssen  | muss, musst, müsst        | must             |
-| sollen  | soll, sollst, sollt       | should           |
-| können  | kann, kannst, könnt       | to be able to    |
-| dürfen  | darf, darfst, dürft       | to be allowed    |
-| möchten | möchte, möchtest, möchtet | would like       |
-| mögen   | mag, magst, mögt          | to like          |
-| wollen  | will, willst, wollt       | to want (strong) |
+| Word    | Konjugation (Präsens)     | Konjugation (Präteritum)  | Meaning          |
+| ------- | ------------------------- | ------------------------- | ---------------- |
+| können  | kann, kannst, könnt       | konnte, konntest, konntet | to be able to    |
+| müssen  | muss, musst, müsst        | musste, musstest, musstet | must             |
+| sollen  | soll, sollst, sollt       | sollte, solltest, solltet | should           |
+| dürfen  | darf, darfst, dürft       | durfte, durftest, durftet | to be allowed    |
+| möchten | möchte, möchtest, möchtet | -                         | would like       |
+| mögen   | mag, magst, mögt          | mochte, mochtest, mochtet | to like          |
+| wollen  | will, willst, wollt       | wollte, wolltest, wolltet | to want (strong) |
 
-## sollen = should [#](# "A1P202")
-
-### Sentence Structure
+## Präsens
 
 Subjekt + **Modelverb** + Objekt + Verb (original form)
+
+## Präteritum
+
+Subjekt + **Modelverb (Präteritum form)** + Objekt + Verb (original form)
+
+### Examples
+
+| Sentence                                                    | Meaning                                        |
+| ----------------------------------------------------------- | ---------------------------------------------- |
+| Paul konnte gestern Abend nicht kommen, er musste arbeiten. | Paul couldn't come last night, he had to work. |
+| Ich sollte das Dokument noch fertigstellen.                 | I should finish the document.                  |
+| Du mochtest den Hausmeister sehr.                           | You liked the caretaker a lot.                 |
+
+## sollen = should [#](# "A1P202")
 
 ### Examples
 
@@ -24,15 +36,8 @@ Subjekt + **Modelverb** + Objekt + Verb (original form)
 | ----------------------------------- | --------------------------------------- |
 | Er soll sofort den Manager anrufen. | He should call the manager immediately. |
 | Du sollst früher ins Bett gehen.    | You should go to bed earlier.           |
-|                                     |                                         |
-
-
 
 ## möchten = would like
-
-### Sentence Structure
-
-Subjekt + **Modelverb** + Objekt + Verb (original form)
 
 ### Examples
 
@@ -49,10 +54,6 @@ Subjekt + **Modelverb** + Objekt + Verb (original form)
 
 ## mögen = to like
 
-### Sentence Structure
-
-Subjekt + **Modelverb** + Objekt
-
 Normally not `mögen Objekt Verb`, but can be `mögen es, Objekt Verb`.
 
 ### Examples
@@ -65,10 +66,6 @@ Normally not `mögen Objekt Verb`, but can be `mögen es, Objekt Verb`.
 
 ## können = to be able to
 
-### Sentence Structure
-
-Subjekt + **Modelverb** + Objekt + Verb (original form)
-
 ### Examples
 
 | Sentence                                | Meaning                              |
@@ -78,8 +75,6 @@ Subjekt + **Modelverb** + Objekt + Verb (original form)
 | Nein, leider nicht.                     | No, unfortunately not.               |
 
 ## müssen = have to
-
-### Sentence Structure
 
 ### Examples
 
