@@ -3896,10 +3896,12 @@
 
 - Word: buchstabieren
   Level: A1
-  Form: ¨-e
+  Form: buchstabiert, buchstabierte,
+    hat buchstabiert
   Meaning: to spell
   Examples:
-    - example1
+    - Bitte buchstabieren Sie Ihren Namen.
+    - Würden Sie bitte Ihren Namen buchstabieren?
 
 - Word: die Büchse
   Level: B1
@@ -8982,10 +8984,14 @@
 
 - Word: heißen
   Level: A1
-  Form: ¨-e
+  Form: heißt, hieß,
+    hat geheißen
   Meaning: to be called
   Examples:
-    - example1
+    - Ich heiße Charlotte Meier.
+    - Wie heißt das auf Deutsch?
+    - Die Erklärung verstehe ich nicht. Was
+      heißt das?
 
 - Word: das heißt
   Level: A2
@@ -10699,10 +10705,24 @@
 
 - Word: kommen
   Level: A1
-  Form: ¨-e
+  Form: kommt, kam,
+    ist gekommen
   Meaning: to come
   Examples:
-    - example1
+    - Woher kommen Sie? – Aus Frankreich.
+    - Kommst du mit ins Schwimmbad?
+    - Er wird bald kommen.
+    - Wir gehen heute Abend ins Konzert.
+      Kommen Sie auch?
+    - Kommen Sie doch mal wieder zu uns.
+    - Wenn Sie mal nach Köln kommen, besuchen Sie uns.
+    - Steffi kommt im Herbst in die Schule.
+    - Die Straßenbahn muss gleich kommen.
+    - Wer kommt als Nächster dran?
+    - Die Handtücher kommen in den
+      Schrank.
+    - Wie sind Sie denn auf diese Idee
+      gekommen?
 
 - Word: der Kommentar
   Level: B1
@@ -21164,17 +21184,22 @@
 
 - Word: warum
   Level: A1
-  Form: ¨-e
   Meaning: why
   Examples:
-    - example1
+    - Warum kommt er nicht?
+    - Warum besuchst du mich nicht?
+    - Ich weiß nicht, warum es hier so kalt
+      ist.
 
 - Word: was
   Level: A1
   Form: ¨-e
   Meaning: what
   Examples:
-    - example1
+    - Was ist das?
+    - Was möchten Sie?
+    - Wissen Sie, was das ist?
+    - Hast du schon (et)was gegessen?
 
 - Word: (sich) waschen
   Level: A1
@@ -21349,12 +21374,16 @@
   Examples:
     - example1
 
-- Word: welcher
-  Level: B1
-  Form: ¨-e
+- Word: welch-
+  Level: A1
+  Form: welcher, welche, welches
   Meaning: which
   Examples:
-    - example1
+    - Welches Buch möchtest du?
+    - Welcher Tag ist heute?
+    - Welchen Kurs möchtest du machen?
+    - Welche Bluse nehmen Sie?
+    - Welches Buch suchst du?
 
 - Word: die Welt
   Level: A1
@@ -21392,18 +21421,20 @@
     - example1
 
 - Word: wenn
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: if
   Examples:
-    - example1
+    - Wenn ich nicht arbeiten muss, komme ich.
+    - Kommst du zu der Party? - Vielleicht,
+      wenn ich nicht arbeiten muss.
 
 - Word: wer
   Level: A1
-  Form: ¨-e
+  Form: wen, wem
   Meaning: who
   Examples:
-    - example1
+    - Wer ist das? Kennst du die Frau?
+    - Wer will die Prüfung machen?
 
 - Word: die Werbung
   Level: B1
@@ -21733,17 +21764,22 @@
 
 - Word: wo
   Level: A1
-  Form: ¨-e
   Meaning: where
   Examples:
-    - example1
+    - Wo waren Sie im Urlaub? - In Frankreich.
+    - Wo ist die Post?
+    - Wo sind Sie geboren?
+    - Wo ist denn meine Uhr?
+    - Wo wohnen Sie?
 
 - Word: woher
   Level: A1
-  Form: ¨-e
   Meaning: from where
   Examples:
-    - example1
+    - Woher kommen Sie?
+    - Woher wissen Sie das?
+    - Unsere Nachbarn ziehen nach Berlin. –
+      Woher wissen Sie das?
 
 - Word: wohin
   Level: A1
@@ -21762,10 +21798,13 @@
 
 - Word: wohnen
   Level: A1
-  Form: ¨-e
+  Form: wohnt, wohnte,
+    hat gewohnt
   Meaning: to live
   Examples:
-    - example1
+    - Ich wohne in München.
+    - Wir wohnen in einem alten Haus
+    - Wohnst du noch bei deinen Eltern?
 
 - Word: die Wohngemeinschaft
   Level: B1
@@ -21779,31 +21818,37 @@
 
 - Word: der Wohnort
   Level: B1
-  Form: ¨-e
-  Meaning: domicile
+  Form: -e
+  Meaning: place of residence
   Examples:
-    - example1
+    - Tragen Sie bitte Straße und Wohnort
+      ein.
 
 - Word: der Wohnsitz
   Level: B1
-  Form: ¨-e
-  Meaning: place of residence
+  Form: -e
+  Meaning: residence
   Examples:
-    - example1
+    - Er hat einen festen Wohnsitz in dieser
+      Stadt.
 
 - Word: die Wohnung
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: flat, apartment
   Examples:
-    - example1
+    - Seit wann haben Sie diese Wohnung?
+    - Haben Sie schon einen neue Wohnung gefunden?
+      Meine Wohnung ist sehr hell.
+    - Wir suchen eine möblierte Wohnung,
+      möglichst im Zentrum.
 
 - Word: das Wohnzimmer
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: '-'
   Meaning: living room
   Examples:
-    - example1
+    - Die Kinder sitzen im Wohnzimmer und sehen fern.
 
 - Word: die Wolke
   Level: A2
