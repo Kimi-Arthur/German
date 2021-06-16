@@ -114,6 +114,7 @@
   - billig
   - ein bisschen
   - der Bleistift
+  - buchstabieren
   - die CD
   - circa
   - der Computer
@@ -125,6 +126,7 @@
   - (sich) duschen
   - die Dusche
   - die E-Mail
+  - einfach
   - einkaufen
   - einmal
   - empfehlen
@@ -137,6 +139,8 @@
   - der Flughafen
   - das Flugzeug
   - das Foto
+  - fragen
+  - die Frage
   - sich freuen
   - früher
   - frühstücken
@@ -155,6 +159,12 @@
   - günstig
   - das Hähnchen
   - das Handy
+  - das Haus
+  - die Hausaufgabe
+  - die Hausfrau
+  - der Hausmann
+  - der Haushalt
+  - heißen
   - helfen
   - die Hilfe
   - hell
@@ -165,12 +175,14 @@
   - hören
   - der Hunger
   - das Internet
+  - jetzt
   - der Job
   - der Kaffee
   - die Karte
   - kennen
   - klein
   - kochen
+  - kommen
   - können
   - kosten
   - krank
@@ -180,7 +192,11 @@
   - lachen
   - lang
   - lange
+  - leben
+  - das Leben
+  - die Lebensmittel
   - leider
+  - lernen
   - letzt-
   - die Lösung
   - machen
@@ -252,12 +268,20 @@
   - viel
   - wandern
   - wann
+  - warum
+  - was
   - (sich) waschen
+  - welch-
+  - wer
   - werden
   - das Wetter
   - wie
   - wiederholen
+  - wo
+  - woher
   - wohin
+  - wohnen
+  - die Wohnung
   - wollen
   - das Zimmer
   - zirka
@@ -534,6 +558,7 @@
   - global
   - googeln
   - das Hühnchen
+  - der Hausmeister
   - herunterfahren
   - das Herz
   - das Hilfsmittel
@@ -558,6 +583,7 @@
   - die Länge
   - sich langweilen
   - die Langeweile
+  - der Lebenslauf
   - leiden
   - live
   - lösen
@@ -594,6 +620,7 @@
   - schick
   - aufschreiben
   - das Schreiben
+  - die Schwierigkeit
   - seitdem
   - selb-
   - selber
@@ -641,6 +668,8 @@
   - die Wanderung
   - die Wirklichkeit
   - die Wohngemeinschaft
+  - der Wohnort
+  - der Wohnsitz
   - das Wörterbuch
   - die Zahnpasta
   - zuordnen
@@ -778,6 +807,7 @@
   - schädlich
   - schenken
   - die Schokolade
+  - schwierig
   - selbst
   - der Ski
   - das SMS
@@ -797,11 +827,20 @@
   - die Wäsche
   - das Wasserklosett
   - wegen
+  - wenn
   - wirklich
+  - das Wohnzimmer
   - die Wolke
   - bewölkt
 - Id: M
   Words:
+  - die Schweiz
+  - der Schweizer
+  - schweizerisch
+  - die Türkei
+  - der Türke
+  - türkisch
+  - das Türkisch
   - das Schwein
   - zweifach
   - heute ist der erste März
@@ -849,3 +888,6 @@
   - der Küchenschrank
   - die Beförderung
   - fertigstellen
+  - der Staubsauger
+  - der Tintenfisch
+  - die Gleiche

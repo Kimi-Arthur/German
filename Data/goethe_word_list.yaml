@@ -662,7 +662,7 @@
 - Word: anfangen
   Level: A1
   Form: fängt an, fing an, hat angefangen
-  Meaning: to begin
+  Meaning: to begin (a-)
   Examples:
     - Hier fängt die Bahnhofstraße an.
     - Der Unterricht fängt gleich an.
@@ -2583,7 +2583,7 @@
 - Word: beginnen
   Level: A1
   Form: beginnt, begann, hat begonnen
-  Meaning: to begin
+  Meaning: to begin (b-)
   Examples:
     - Das Spiel beginnt um 15.30 Uhr.
     - In zwei Wochen beginnen die Sommerferien.
@@ -5131,10 +5131,17 @@
 
 - Word: einfach
   Level: A1
-  Form: ¨-e
   Meaning: simple, simply, single
   Examples:
-    - example1
+    - Die Prüfung ist ganz einfach.
+    - Hin und zurück? – Nein, bitte nur einfach.
+    - Ich brauche nur ein einfaches Zimmer.
+    - Ich verstehe das nicht. Kannst du es bitte einfacher
+      sagen?
+    - Hin und zurück? – Nein, bitte nur eine einfache
+      Fahrt nach Berlin.
+    - Wir haben am Wochenende einen
+      Ausflug gemacht. Es war einfach toll.
 
 - Word: die Einfahrt
   Level: B1
@@ -7145,17 +7152,26 @@
 
 - Word: fragen
   Level: A1
-  Form: ¨-e
+  Form: fragt, fragte,
+    hat gefragt
   Meaning: to ask
   Examples:
-    - example1
+    - Er möchte Sie etwas fragen. Wann kommen Sie?
+    - Er fragt, wann er kommen kann.
+    - Ich möchte Sie etwas fragen.
+    - Darf ich Sie etwas fragen?
+    - Hat jemand nach mir gefragt?
+    - Ich frage mich, ob das richtig war.
 
 - Word: die Frage
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: question
   Examples:
-    - example1
+    - Ich habe eine Frage.
+    - Ich habe Ihre Frage leider nicht
+      verstanden.
+    - Das kommt gar nicht infrage!
 
 - Word: die Frau
   Level: A1
@@ -8865,45 +8881,62 @@
 
 - Word: das Haus
   Level: A1
-  Form: ¨-e
+  Form: ¨-er
   Meaning: house
   Examples:
-    - example1
+    - In welchem Haus wohnst du?
+    - Ich gehe jetzt nach Hause.
+    - Paul ist nicht zu Hause.
+    - Wir haben ein Haus gemietet.
+    - Ich komme gerade von zu Hause.
+    - Ich muss jetzt nach Hause.
 
 - Word: die Hausaufgabe
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: homework
   Examples:
-    - example1
+    - Kannst du mir bei den Hausaufgaben helfen?
 
 - Word: die Hausfrau
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: housewife
   Examples:
-    - example1
+    - Die Hausfrau wäscht, kocht und kauft
+      ein.
+    - Meine Frau ist Hausfrau und kümmert
+      sich um die Kinder.
 
 - Word: der Hausmann
   Level: A1
-  Form: ¨-e
+  Form: ¨-er
   Meaning: househusband
   Examples:
-    - example1
+    - Der Hausmann wäscht, kocht und kauft
+      ein.
+    - Mein Mann ist
+      Hausmann und kümmert sich um die
+      Kinder.
 
 - Word: der Haushalt
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: -e
   Meaning: household
   Examples:
-    - example1
+    - 'Wer macht bei euch den Haushalt? - Meine Frau und ich machen den Haushalt zusammen: Ich wasche die Wäsche und sie putzt und räumt auf.'
 
 - Word: der Hausmeister
   Level: B1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Word: die Hausmeisterin
+    Form: -nen
+  Synonym: (D, A) = (CH) Abwart
   Meaning: caretaker
   Examples:
-    - example1
+    - Der Hausmeister hat mir geholfen, den
+      Schrank in die Wohnung zu tragen.
 
 - Word: das Haustier
   Level: B1
@@ -9938,10 +9971,17 @@
 
 - Word: jetzt
   Level: A1
-  Form: ¨-e
   Meaning: now
   Examples:
-    - example1
+    - Jetzt machen wir eine Pause.
+    - Ich muss jetzt gehen.
+    - Bis jetzt hat alles gut geklappt.
+    - Ab jetzt werde ich wieder öfter ins Fitness-Studio gehen.
+    - Ich habe jetzt schon dreimal bei
+      meinem Bruder angerufen. Aber er ist
+      nie da.
+    - Über viele Dinge denke ich jetzt
+      anders als früher.
 
 - Word: jeweils
   Level: B1
@@ -11602,31 +11642,45 @@
 
 - Word: leben
   Level: A1
-  Form: ¨-e
+  Form: lebt, lebte, hat
+    gelebt
   Meaning: to live
   Examples:
-    - example1
+    - Sie lebt bei ihrer Schwester.
+    - Ihre Großeltern leben nicht mehr.
+    - Leben Ihre Großeltern noch?
+    - Herr Müller hat lange im Ausland
+      gelebt.
+    - Von der Rente allein kann meine Tante
+      nicht leben.
+    - Ich lebe noch bei meinen Eltern.
 
 - Word: das Leben
   Level: A1
-  Form: ¨-e
+  Form: '-'
   Meaning: life
   Examples:
-    - example1
+    - Das Leben in diesem Land ist teuer.
+    - Hier in London ist das Leben teuer.
+    - Ich habe mich an das Leben auf dem
+      Land gewöhnt.
+    - Hier ist das Leben teuer.
 
 - Word: der Lebenslauf
   Level: B1
   Form: ¨-e
   Meaning: curriculum vitae, CV
   Examples:
-    - example1
+    - Hast du den Lebenslauf für die
+      Bewerbung schon geschrieben?
 
 - Word: die Lebensmittel
   Level: A1
-  Form: ¨-e
+  Form: (Pl.)
   Meaning: food
   Examples:
-    - example1
+    - Lebensmittel bekommen Sie im Supermarkt.
+    - Lebensmittel werden immer teurer.
 
 - Word: das Leder
   Level: B1
@@ -11787,10 +11841,11 @@
 
 - Word: lernen
   Level: A1
-  Form: ¨-e
+  Form: lernt, lernte, hat
+    gelernt
   Meaning: to learn
   Examples:
-    - example1
+    - Wie lange lernen Sie schon Deutsch?
 
 - Word: der Lerner
   Level: B1
@@ -13139,13 +13194,6 @@
   Level: A1
   Form: ¨-e
   Meaning: mother
-  Examples:
-    - example1
-
-- Word: die Muttersprache
-  Level: B1
-  Form: ¨-e
-  Meaning: mother tongue
   Examples:
     - example1
 
@@ -16599,18 +16647,18 @@
     - example1
 
 - Word: schwierig
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: difficult
   Examples:
-    - example1
+    - Die Prüfung war nicht schwierig.
 
 - Word: die Schwierigkeit
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: difficulty
   Examples:
-    - example1
+    - Ich hatte große Schwierigkeiten einen
+      Parkplatz zu bekommen.
 
 - Word: schwimmen
   Level: A1
@@ -21193,7 +21241,6 @@
 
 - Word: was
   Level: A1
-  Form: ¨-e
   Meaning: what
   Examples:
     - Was ist das?
@@ -23113,52 +23160,57 @@
 
 - Word: die Schweiz
   Level: M
-  Form: ¨-e
+  Form: -en
   Meaning: Switzerland
   Examples:
-    - example1
+    - Die Hauptstadt der Schweiz ist de facto die Bundesstadt Bern.
 
 - Word: der Schweizer
   Level: M
-  Form: ¨-e
-  Meaning: the Swiss (man)
+  Form: '-'
+  Feminine:
+    Word: die Schweizerin
+    Form: -nen
+  Meaning: Swiss person
   Examples:
-    - example1
+    - Viktor Giacobbo ist ein Schweizer.
 
 - Word: schweizerisch
   Level: M
-  Form: ¨-e
+  Synonym: Schweizer
   Meaning: Swiss (adj)
   Examples:
-    - example1
+    - Die bekanntesten schweizerischen Produkte sind Käse, Schokolade und Uhren.
 
 - Word: die Türkei
   Level: M
-  Form: ¨-e
+  Form: '-'
   Meaning: Turkey
   Examples:
-    - example1
+    - Ankara ist die Hauptstadt der Türkei.
 
 - Word: der Türke
   Level: M
-  Form: ¨-e
-  Meaning: Turk (man)
+  Form: -n
+  Feminine:
+    Word: die Türkin
+    Form: -nen
+  Meaning: Turk person
   Examples:
-    - example1
+    - Mein Kollege ist Türke.
 
 - Word: türkisch
   Level: M
-  Form: ¨-e
   Meaning: Turkish (adj)
   Examples:
-    - example1
+    - Er brachte seine türkische Ehefrau mit.
 
 - Word: das Türkisch
   Level: M
-  Form: ¨-e
+  Form: '-'
   Meaning: Turkish (language)
   Examples:
-    - example1
+    - Ich spreche Türkisch.
 
 - Word: die Ukraine
   Level: M
@@ -23881,13 +23933,6 @@
   Level: M
   Form: ¨-e
   Meaning: four times
-  Examples:
-    - example1
-
-- Word: einfach
-  Level: M
-  Form: ¨-e
-  Meaning: single
   Examples:
     - example1
 
@@ -24785,3 +24830,24 @@
   Meaning: to finish, to complete, to accomplish
   Examples:
     - Heute hat er sein Kunstwerk fertiggestellt.
+
+- Word: der Staubsauger
+  Level: K
+  Form: '-'
+  Meaning: vacuum cleaner
+  Examples:
+    - Unser Staubsauger ist defekt, er saugt nur noch mit halber Kraft.
+
+- Word: der Tintenfisch
+  Level: K
+  Form: -e
+  Meaning: cuttlefish, octopus, or squid
+  Examples:
+    - Seit Jahrmillionen bevölkern Tintenfische, jene räuberischen Weichtiere, alle Meere der Welt.
+
+- Word: die Gleiche
+  Level: K
+  Form: (Sg.)
+  Meaning: equality
+  Examples:
+    - Ich bringe etwas in die Gleiche.
