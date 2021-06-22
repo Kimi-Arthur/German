@@ -3914,7 +3914,7 @@
 - Word: der Briefumschlag
   Level: B1
   Form: ¨-e
-  Synonym: (D) = (A) Kuvert = (CH) Couvert
+  Synonym: = (A) Kuvert = (CH) Couvert
   Meaning: envelope (B-)
   Examples:
     - Ich hätte gern 50 Briefumschläge und
@@ -4173,17 +4173,24 @@
 
 - Word: das Café
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: cafe
   Examples:
-    - example1
+    - Sollen wir uns im Café treffen?
+    - Kommst du mit ins Café? Ich möchte gern einen
+      Kaffee trinken.
+    - Hier in der Nähe ist ein Café. Lass uns
+      einen Kaffee trinken.
 
 - Word: die Cafeteria
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -s
   Meaning: cafeteria
   Examples:
-    - example1
+    - Ich gehe jetzt in die Cafeteria. Soll ich dir etwas
+      mitbringen?
+    - Ich hole mir schnell etwas aus der
+      Cafeteria.
 
 - Word: das Camp
   Level: B1
@@ -4222,10 +4229,11 @@
 
 - Word: die Chance
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: chance
   Examples:
-    - example1
+    - Mein Mann hat gute Chancen, die Stelle
+      zu bekommen.
 
 - Word: der Chat
   Level: B1
@@ -4257,10 +4265,15 @@
 
 - Word: der Chef
   Level: A1
-  Form: ¨-e
+  Form: -s
+  Feminine:
+    Word: die Chefin
+    Form: -nen
   Meaning: head, boss
   Examples:
-    - example1
+    - Wir haben eine neue Chefin.
+    - Das kann ich nicht allein entscheiden,
+      da muss ich erst die Chefin fragen.
 
 - Word: chic
   Level: B1
@@ -4302,10 +4315,16 @@
 
 - Word: der Coiffeur
   Level: B1
-  Form: ¨-e
-  Meaning: hairdresser
+  Form: -e
+  Feminine:
+    Word: die Coiffeuse
+    Form: -n
+  Synonym: (CH) = (D, A) Friseur
+  Meaning: hairdresser (C-)
   Examples:
-    - example1
+    - Du siehst toll aus! Wer ist dein
+      Coiffeur?
+    - Meine Tochter will Coiffeuse werden.
 
 - Word: die Cola
   Level: B1
@@ -4336,94 +4355,156 @@
 
 - Word: die Couch
   Level: B1
-  Form: ¨-e
+  Form: -s
   Meaning: couch
   Examples:
-    - example1
+    - Wir haben uns eine Couch und neue
+      Sessel gekauft.
 
 - Word: die Creme
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n/-s
   Meaning: cream
   Examples:
-    - example1
+    - Ich suche eine Creme für die Hände.
+    - Der Kuchen schmeckt super! Was ist in der Creme? – Das ist eine Buttercreme mit viel Schokolade.
+    - Ich hätte gern eine Creme für die
+      Hände.
+    - Für die Creme habe ich Butter und
+      Schokolade genommen.
 
 - Word: der Cousin
   Level: B1
-  Form: ¨-e
+  Form: -s
+  Feminine:
+    Word: die Cousine
+    Form: -n
   Meaning: cousin
   Examples:
-    - example1
+    - Meine Cousine wohnt jetzt in Brasilien.
+
+- Word: das Couvert
+  Level: B1
+  Form: -s
+  Synonym: (CH) = Briefumschlag = (A) Kuvert
+  Meaning: envelope (C-)
+  Examples:
+    - Ich hätte gern 50 Couverts und
+      Briefmarken dazu.
 
 - Word: da
-  Level: B1
-  Form: ¨-e
+  Level: A1
   Meaning: there
   Examples:
-    - example1
+    - Da hinten ist er ja.
+    - Wir sprechen gerade über Paul. Da kommt er ja gerade.
+    - Ich nehme das da.
+    - Ist Herr Klein schon da?
+    - Welche Bluse nehmen Sie? - Die da.
+    - Da drüben ist der Bahnhof.
+    - Da drüben ist ein Getränkeautomat.
+    - Was Sie da sagen, ist richtig.
+    - Ich wollte gerade einparken. Da kam
+      ein Wagen rückwärts aus der Einfahrt.
+    - Wir haben schon geschlossen. – Da
+      kann man nichts machen.
+    - Da Sie keinen Mitgliedsausweis haben,
+      ist es etwas teurer.
+    - Wir haben gerade über dich
+      gesprochen. Da bist du ja.
+
+- Word: darauf
+  Level: A2
+  Meaning: thereupon, after, on top of that
+  Examples:
+    - Da hinten ist ein hoher Berg. Darauf wollte er heute steigen.
+
+- Word: darüber
+  Level: A2
+  Meaning: thereover, above, about
+  Examples:
+    - Anstatt den Eimer auszuschütten, stolperst du noch darüber.
 
 - Word: dabei
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: with it , there
   Examples:
-    - example1
+    - Was hast du dir dabei gedacht?
+    - Schön, dass du da bist. Ist deine
+      Familie auch dabei?
+    - Hast du einen Stift dabei?
 
 - Word: das Dach
   Level: B1
-  Form: ¨-e
+  Form: ¨-er
   Meaning: roof
   Examples:
-    - example1
+    - Wir müssen das Dach reparieren
+      lassen.
+    - Wir wohnen direkt unter dem Dach.
 
 - Word: dafür
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: for it
   Examples:
-    - example1
+    - Meine Schwester interessiert sich für
+      Politik. Ich interessiere mich nicht
+      dafür.
+    - Ich bin dafür, dass wir möglichst früh
+      losfahren.
 
 - Word: dagegen
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: against it, on the other hand
   Examples:
-    - example1
+    - Vorsicht, da ist ein Baum! Fahr nicht
+      dagegen!
+    - Sind Sie für oder gegen ein
+      Rauchverbot? - Ich bin dagegen.
+    - Ich habe nichts dagegen, dass wir
+      schon nach Hause gehen.
 
 - Word: daher
   Level: B1
-  Form: ¨-e
   Meaning: from there, from that, that's why
   Examples:
-    - example1
+    - Ich bin erkältet, daher kann ich heute
+      nicht kommen.
 
 - Word: dahin
   Level: B1
-  Form: ¨-e
   Meaning: go towards there, until then
   Examples:
-    - example1
+    - Der Zug kommt in 30 Minuten. Bis
+      dahin können wir einen Kaffee trinken.
 
 - Word: damals
   Level: B1
-  Form: ¨-e
   Meaning: then, at that time
   Examples:
-    - example1
+    - Mit 15 wollte ich gerne Klavier spielen
+      lernen. Aber damals hatte ich kein
+      Geld dafür.
 
 - Word: die Dame
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: lady
   Examples:
-    - example1
+    - Damen (an der Toilette)
+    - Sehr geehrte Damen und Herren!
+    - Sie ist eine nette alte Dame.
+    - Meine Damen und Herren!
+    - Sehr geehrte Damen und Herren.
 
 - Word: damit
   Level: B1
-  Form: ¨-e
   Meaning: with it
   Examples:
-    - example1
+    - Mach schnell, damit wir nicht zu spät
+      kommen.
+    - Was macht man mit diesem Ding? -
+      Damit kann man Dosen aufmachen.
 
 - Word: danach
   Level: B1
@@ -4434,136 +4515,191 @@
 
 - Word: daneben
   Level: A1
-  Form: ¨-e
   Meaning: beside it, next to it
   Examples:
-    - example1
+    - Du kennst doch die Post. Daneben ist die Bank.
+    - Du weißt doch, wo die Post ist. Gleich
+      daneben ist die Bank.
 
 - Word: danken
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: dankt, dankte,
+    hat gedankt
   Meaning: to thank
   Examples:
-    - example1
+    - Ich danke Ihnen für die Einladung.
 
 - Word: der Dank
   Level: A1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: thanks (sing. noun)
   Examples:
-    - example1
+    - Vielen Dank für Ihre Mühe.
+    - Hier ist Ihr Kaffee. – Vielen Dank!
+    - Herzlichen Dank!
+    - Gott sei Dank hat es nicht geregnet.
 
 - Word: dankbar
   Level: B1
-  Form: ¨-e
   Meaning: thankful, grateful
   Examples:
-    - example1
+    - Ich bin Ihnen sehr dankbar für Ihre
+      Hilfe.
 
 - Word: danke
-  Level: B1
-  Form: ¨-e
+  Level: A1
   Meaning: thanks
   Examples:
-    - example1
+    - Soll ich Ihnen helfen? - Sehr freundlich, ja danke!
+    - Soll ich Ihnen helfen? Nein, danke,
+      nicht nötig.
+    - Guten Appetit! – Danke gleichfalls.
 
 - Word: dann
   Level: A1
-  Form: ¨-e
   Meaning: then
   Examples:
-    - example1
+    - Ich muss noch schnell zur Post, dann komme ich.
+    - Wenn es nicht regnet, dann kommen wir.
+    - Wir waren pünktlich am Bahnhof. Aber
+      dann hatte der Zug Verspätung.
+    - Ich habe im Moment sehr viel zu tun. –
+      Dann will ich nicht länger stören.
 
 - Word: darstellen
   Level: B1
-  Form: ¨-e
+  Form: stellt dar,
+    stellte dar, hat dargestellt
   Meaning: to depict, portray
   Examples:
-    - example1
+    - Er konnte das Problem sehr gut
+      darstellen.
 
 - Word: die Darstellung
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: presentation, description
   Examples:
-    - example1
+    - Ihr Buch enthält eine klare Darstellung
+      dieser Probleme.
 
 - Word: dass
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: that
   Examples:
-    - example1
+    - Rico hat mir gesagt, dass er auch zur
+      Party kommt.
+    - Ich finde es super, dass du mich besuchst.
 
 - Word: die Datei
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: data, file
   Examples:
-    - example1
+    - Wo hast du die Datei gespeichert?
+    - Kannst du die Datei bitte öffnen?
 
 - Word: das Datum
   Level: A1
-  Form: ¨-e
+  Form: Daten
   Meaning: date
   Examples:
-    - example1
+    - Bitte schreiben Sie noch das Datum auf das Formular.
+    - Bitte Datum und Unterschrift nicht vergessen!
+    - Welches Datum haben wir heute?
+    - Haben Sie meine Kontaktdaten?
+    - Ich brauche noch ein paar Daten von
+      Ihnen.
 
 - Word: die Daten
   Level: B1
-  Form: ¨-e
+  Form: (Pl.)
   Meaning: data
   Examples:
-    - example1
+    - Wir haben alle Ihre Daten im
+      Computer.
 
 - Word: dauern
   Level: A1
-  Form: ¨-e
+  Form: dauert, dauerte,
+    hat gedauert
   Meaning: to last, take time
   Examples:
-    - example1
+    - Wie lange dauert der Film?
+    - Wie lange dauert die Pause? – Eine
+      halbe Stunde.
 
 - Word: die Dauer
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: length of time
   Examples:
-    - example1
+    - Sie können das Buch für die Dauer
+      einer Woche ausleihen.
+    - Auf Dauer ist die Arbeit nicht
+      interessant.
 
 - Word: dauernd
   Level: B1
-  Form: ¨-e
   Meaning: constant, lasting
   Examples:
-    - example1
+    - Das dauernde Klingeln des Telefons
+      stört mich.
+    - Er ist dauernd krank.
 
 - Word: die Decke
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: ceiling; blanket
   Examples:
-    - example1
+    - Im Wohnzimmer haben wir keine
+      Lampe an der Decke.
+    - Kann ich noch eine Decke bekommen?
+      Mir ist kalt.
 
 - Word: dekorieren
   Level: B1
-  Form: ¨-e
+  Form: dekoriert,
+    dekorierte, hat dekoriert
   Meaning: to decorate
   Examples:
-    - example1
+    - Hilfst du mir, den Tisch für die Party
+      zu dekorieren?
 
 - Word: denken
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: denkt, dachte,
+    hat gedacht
   Meaning: to think
   Examples:
-    - example1
+    - Ich denke oft an meine Freundin.
+    - Was denktst du? Sollen wir heute Abend ins Kino
+      gehen?
+    - Du lachst - was denkst du gerade?
+    - Ich denke, dass du recht hast.
+    - Wir diskutieren gerade über das
+      Rauchen. Wie denken Sie darüber?
+    - Denk bitte daran, die Heizung
+      auszumachen.
+    - Es ist mir ganz egal, was die Leute von
+      mir denken.
+    - Ich hatte mir gedacht, dass wir
+      zusammen fahren könnten.
 
 - Word: der Gedanke
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: thought
   Examples:
-    - example1
+    - Ich muss zuerst meine Gedanken
+      sammeln.
+    - Dein Hinweis bringt mich auf einen
+      Gedanken.
+    - Der Gedanke an das Unglück macht
+      uns traurig.
+    - Lass uns einen Ausflug machen, damit
+      du auf andere Gedanken kommst.
+    - Sie ist ganz in Gedanken versunken.
 
 - Word: das Denkmal
   Level: B1
@@ -4575,52 +4711,61 @@
 
 - Word: denn
   Level: A1
-  Form: ¨-e
   Meaning: because
   Examples:
-    - example1
+    - Ich kann nicht kommen, denn ich bin krank.
+    - Ich lerne jetzt auch Portugiesisch, denn
+      ich möchte nach Südamerika reisen.
+    - Wie ist das Spiel denn ausgegangen?
 
 - Word: derselbe
   Level: B1
-  Form: ¨-e
+  Form: derselbe, derselbe, derselbe
   Meaning: the same
   Examples:
-    - example1
+    - Mein Freund und ich gehen in dieselbe
+      Schule.
 
 - Word: deshalb
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: for that reason, that’s why
   Examples:
-    - example1
+    - Ich war krank. Deshalb war ich nicht
+      im Büro.
 
 - Word: das Dessert
   Level: B1
-  Form: ¨-e
-  Meaning: dessert
+  Form: -s
+  Synonym: = (D, A) Nachspeise
+  Meaning: dessert (D-)
   Examples:
-    - example1
+    - Nach dem Essen gab es noch ein
+      leckeres Dessert.
 
 - Word: deswegen
   Level: B1
-  Form: ¨-e
   Meaning: therefore, that’s why
   Examples:
-    - example1
+    - Ich habe falsch geparkt. Deswegen
+      habe ich einen Strafzettel bekommen.
 
 - Word: das Detail
   Level: B1
-  Form: ¨-e
+  Form: -s
   Meaning: details
   Examples:
-    - example1
+    - Dieses Detail ist unwichtig.
+    - Ich habe alles bis ins kleinste
+      Detail vorbereitet.
 
 - Word: deutlich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: clear
   Examples:
-    - example1
+    - Sprechen Sie bitte deutlich!
+    - Können Sie das bitte deutlicher schreiben? Ich kann
+      das nicht lesen.
+    - Schreiben Sie bitte deutlich!
 
 - Word: die Diät
   Level: B1
@@ -7484,7 +7629,7 @@
 - Word: der Friseur
   Level: B1
   Form: ¨-e
-  Meaning: hairdresser
+  Meaning: hairdresser (F-)
   Examples:
     - example1
 
