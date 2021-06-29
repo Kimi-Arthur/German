@@ -329,13 +329,12 @@
 - Id: der Akkumulator
   Level: B1
   Form: -en
-  Meaning: battery (A-)
   Abbreviation:
     Id: der Akku
     Form: -s
+  Meaning: battery (A-)
   Examples:
-    - Bringst du bitte Akkumulatoren für die
-      Kamera mit?
+    - Bringst du bitte Akkumulatoren für die Kamera mit?
 
 - Id: die Aktion
   Level: B1
@@ -418,8 +417,7 @@
   Level: B1
   Meaning: very, of them all
   Examples:
-    - Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst. Dann wirst
-      du schnell wieder gesund.
+    - Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst. Dann wirst du schnell wieder gesund.
     - Das ist das Allerschönste, was ich je gesehen habe.
 
 - Id: allerdings
@@ -1015,8 +1013,7 @@
   Form: '-'
   Meaning: answer sheet/ paper
   Examples:
-    - Bitte übertragen Sie Ihre Lösungen auf den
-      Antwortbogen.
+    - Bitte übertragen Sie Ihre Lösungen auf den Antwortbogen.
 
 - Id: antworten
   Level: A1
@@ -1343,8 +1340,7 @@
   Level: A2
   Meaning: by no means
   Examples:
-    - Wirklich? Ich finde
-      James-Bond-Filme langweilig. Ich sehe ihn auf keinen Fall an!
+    - Wirklich? Ich finde James-Bond-Filme langweilig. Ich sehe ihn auf keinen Fall an!
 
 - Id: auf sein
   Level: A1
@@ -1772,17 +1768,13 @@
 
 - Id: ausmachen
   Level: A1
-  Form: macht aus,
-    machte aus,
-    hat ausgemacht
+  Form: macht aus, machte aus, hat ausgemacht
   Meaning: to turn off, agree
   Examples:
     - Mach bitte das Licht aus!
-    - Sie müssen leider warten. – Kein
-      Problem. Das macht mir nichts aus.
+    - Sie müssen leider warten. – Kein Problem. Das macht mir nichts aus.
     - Machen Sie bitte das Licht aus!
-    - Wir hatten doch ausgemacht, dass du
-      die Getränke besorgst.
+    - Wir hatten doch ausgemacht, dass du die Getränke besorgst.
     - Haben Sie einen Termin ausgemacht?
 
 - Id: die Ausnahme
@@ -1790,27 +1782,22 @@
   Form: -n
   Meaning: exception
   Examples:
-    - Normalerweise muss ich am
-      Wochenende arbeiten. Aber heute ist
-      eine Ausnahme.
+    - Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.
 
 - Id: auspacken
   Level: A2
-  Form: packt aus, packte aus,
-    hat ausgepackt
+  Form: packt aus, packte aus, hat ausgepackt
   Meaning: to unpack, to unwrap
   Examples:
     - Packst du bitte den Koffer aus?
 
 - Id: ausreichen
   Level: B1
-  Form: reicht aus, reichte aus,
-    hat ausgereicht
+  Form: reicht aus, reichte aus, hat ausgereicht
   Meaning: to be sufficient, last
   Examples:
     - Das Geld muss bis März ausreichen.
-    - Seine Kenntnisse reichen für diese
-      Arbeit aus.
+    - Seine Kenntnisse reichen für diese Arbeit aus.
 
 - Id: ausreichend
   Level: B1
@@ -1820,18 +1807,14 @@
 
 - Id: ausrichten
   Level: B1
-  Form: richtet aus,
-    richtete aus,
-    hat ausgerichtet
+  Form: richtet aus, richtete aus, hat ausgerichtet
   Meaning: to align, tell, adjust, convey a message
   Examples:
-    - Mein Mann ist nicht da. Soll ich ihm
-      etwas ausrichten?
+    - Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?
 
 - Id: (sich) ausruhen
   Level: A2
-  Form: ruht aus,
-    ruhte aus, hat ausgeruht
+  Form: ruht aus, ruhte aus, hat ausgeruht
   Meaning: to rest
   Examples:
     - Ruh dich erst mal aus! Du bist sicher müde.
@@ -1845,76 +1828,62 @@
   Meaning: statement
   Examples:
     - Ist die Aussage richtig oder falsch?
-    - Sind die Aussagen richtig
-      oder falsch?
+    - Sind die Aussagen richtig oder falsch?
 
 - Id: ausschließen
   Level: B1
-  Form: schließt aus,
-    schloss aus,
-    hat ausgeschlossen
+  Form: schließt aus, schloss aus, hat ausgeschlossen
   Meaning: to exclude, rule out
   Examples:
     - Das kann man nicht ganz ausschließen.
-    - So viel kann ich nicht bezahlen. Das ist
-      völlig ausgeschlossen.
+    - So viel kann ich nicht bezahlen. Das ist völlig ausgeschlossen.
 
 - Id: ausschließlich
   Level: B1
   Meaning: exclusive
   Examples:
-    - Tut mir leid. Wir haben ausschließlich
-      Nichtraucherzimmer.
+    - Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer.
 
 - Id: aussehen
   Level: A1
-  Form: sieht aus,
-    sah aus,
-    hat ausgesehen
+  Form: sieht aus, sah aus, hat ausgesehen
   Meaning: to seem, appear, look
   Examples:
     - Das sieht schön aus.
     - Wie sieht er aus? - Groß und blond.
     - Sie sieht wie ihre Mutter aus.
     - Das Kleid sieht hübsch aus.
-    - Sie sehen wieder besser aus. Sind Sie
-      wieder gesund?
+    - Sie sehen wieder besser aus. Sind Sie wieder gesund?
     - Er sieht genauso aus wie sein Vater.
-    - Es sieht so aus, als ob es bald regnen
-      würde.
+    - Es sieht so aus, als ob es bald regnen würde.
 
 - Id: außen
   Level: B1
   Meaning: outside, outwards
   Examples:
-    - Wir haben das Schloss nur von außen
-      gesehen.
+    - Wir haben das Schloss nur von außen gesehen.
     - Außen ist das Haus nicht sehr schön.
 
 - Id: außerhalb
   Level: A2
   Meaning: outside, beyond
   Examples:
-    - Die Wohnung ist nicht in der Stadt, sie liegt etwas
-      außerhalb.
+    - Die Wohnung ist nicht in der Stadt, sie liegt etwas außerhalb.
     - Wir wohnen außerhalb von Berlin.
 
 - Id: äußerlich
   Level: B1
   Meaning: external
   Examples:
-    - Das Medikament dürfen Sie nur
-      äußerlich anwenden.
+    - Das Medikament dürfen Sie nur äußerlich anwenden.
 
 - Id: außer
   Level: A2
   Meaning: except for
   Examples:
     - Außer Lisa möchte niemand den Film sehen.
-    - Wir haben täglich außer Samstag
-      geöffnet.
-    - Außer Lisa hat sich niemand um die
-      Stelle beworben.
+    - Wir haben täglich außer Samstag geöffnet.
+    - Außer Lisa hat sich niemand um die Stelle beworben.
     - Der Aufzug ist außer Betrieb.
 
 - Id: außerdem
@@ -1923,25 +1892,19 @@
   Examples:
     - Vier Brötchen, möchten Sie außerdem noch etwas?
     - Möchten Sie außerdem noch etwas?
-    - Der Film war langweilig, und außerdem
-      haben die Schauspieler schlecht
-      gespielt.
+    - Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt.
 
 - Id: die Aussicht
   Level: B1
   Form: -en
   Meaning: view, perspective
   Examples:
-    - Von diesem Turm hat man eine tolle
-      Aussicht.
-    - Mit mehreren Fremdsprachen hat man
-      gute Aussichten im Beruf.
+    - Von diesem Turm hat man eine tolle Aussicht.
+    - Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf.
 
 - Id: aussprechen
   Level: A2
-  Form: spricht aus,
-    sprach aus,
-    hat ausgesprochen
+  Form: spricht aus, sprach aus, hat ausgesprochen
   Meaning: to pronounce
   Examples:
     - Wie spricht man das Wort aus?
@@ -1963,15 +1926,11 @@
 
 - Id: ausstellen
   Level: B1
-  Form: stellt aus,
-    stellte aus,
-    hat ausgestellt
+  Form: stellt aus, stellte aus, hat ausgestellt
   Meaning: to exhibit, show
   Examples:
-    - Im Schaufenster sind Winterschuhe
-      ausgestellt.
-    - Das Zeugnis wird bis nächste Woche
-      ausgestellt.
+    - Im Schaufenster sind Winterschuhe ausgestellt.
+    - Das Zeugnis wird bis nächste Woche ausgestellt.
 
 - Id: die Ausstellung
   Level: A2
@@ -1979,45 +1938,36 @@
   Meaning: exhibition
   Examples:
     - Gehen wir morgen zusammen in die Ausstellung?
-    - Wir waren mit der Lehrerin in einer
-      Ausstellung.
-    - Die Ausstellung eines neuen Passes
-      dauert zwei Wochen.
+    - Wir waren mit der Lehrerin in einer Ausstellung.
+    - Die Ausstellung eines neuen Passes dauert zwei Wochen.
 
 - Id: (sich etwas) aussuchen
   Level: B1
-  Form: sucht aus, suchte aus,
-    hat ausgesucht
+  Form: sucht aus, suchte aus, hat ausgesucht
   Meaning: to select, pick out
   Examples:
-    - Such dir etwas Schönes aus! Ich lade
-      dich ein.
+    - Such dir etwas Schönes aus! Ich lade dich ein.
 
 - Id: austragen
   Level: A2
-  Form: trägt aus, trug aus
-    hat ausgetragen
+  Form: trägt aus, trug aus hat ausgetragen
   Meaning: to deliver
   Examples:
     - Er trägt jeden Morgen die Zeitung aus.
 
 - Id: auswählen
   Level: B1
-  Form: wählt aus,
-    wählte aus,
-    hat ausgewählt
+  Form: wählt aus, wählte aus, hat ausgewählt
   Meaning: to select, choose
   Examples:
-    - Für die Aufgabe können Sie aus drei
-      Themen auswählen.
+    - Für die Aufgabe können Sie aus drei Themen auswählen.
 
 - Id: die Auswahl
   Level: B1
   Form: -en
   Meaning: choice
   Examples:
-    - Wir müssen eine Auswahl aus den
-      Büchern treffen.
+    - Wir müssen eine Auswahl aus den Büchern treffen.
     - Das Geschäft hat eine große Auswahl.
 
 - Id: der Ausweis
@@ -2026,20 +1976,16 @@
   Meaning: identification (ID)
   Examples:
     - Hier ist mein Ausweis.
-    - Darf ich bitte mal Ihren Ausweis sehen? – Hier ist
-      mein Ausweis.
+    - Darf ich bitte mal Ihren Ausweis sehen? – Hier ist mein Ausweis.
 
 - Id: ausziehen
   Level: A1
-  Form: zieht aus,
-    zog aus,
-    hat/ist ausgezogen
+  Form: zieht aus, zog aus, hat/ist ausgezogen
   Meaning: to undress, move to other place
   Examples:
     - Zieh die Schuhe aus, bitte!
     - Willst du den Mantel nicht ausziehen?
-    - Müllers sind schon vor vier Wochen
-      ausgezogen.
+    - Müllers sind schon vor vier Wochen ausgezogen.
 
 - Id: das Auto
   Level: A1
@@ -2056,8 +2002,7 @@
   Meaning: motorway, expressway
   Examples:
     - Wo geht‘s hier bitte zur Autobahn?
-    - Darf ich mit dem Motorroller auf der Autobahn
-      fahren?
+    - Darf ich mit dem Motorroller auf der Autobahn fahren?
     - Das Dorf liegt direkt an der Autobahn.
 
 - Id: der Automat
@@ -2067,12 +2012,9 @@
   Examples:
     - Die Fahrkarten gibt es nur am Automaten.
     - Fahrkarten gibt es nur am Automaten.
-    - In Berlin ist der Fahrkartenautomat auf dem
-      Bahnsteig.
-    - Zigaretten bekommst du am
-      Automaten.
-    - Der Fahrkartenautomat ist auf dem
-      Bahnsteig.
+    - In Berlin ist der Fahrkartenautomat auf dem Bahnsteig.
+    - Zigaretten bekommst du am Automaten.
+    - Der Fahrkartenautomat ist auf dem Bahnsteig.
 
 - Id: automatisch
   Level: A1
@@ -2081,8 +2023,7 @@
     - Du musst nichts machen. Das geht automatisch.
     - Achtung, die Türen schließen automatisch!
     - Die Tür schließt automatisch.
-    - Das Zeugnis bekommen Sie
-      automatisch zugeschickt.
+    - Das Zeugnis bekommen Sie automatisch zugeschickt.
 
 - Id: der Autor
   Level: A2
@@ -2092,8 +2033,7 @@
     Form: -nen
   Meaning: author
   Examples:
-    - Diese Autorin hat in diesem Jahr schon
-      zwei Bücher geschrieben.
+    - Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.
 
 - Id: der Auszubildender
   Level: B1
@@ -2127,17 +2067,14 @@
     Form: -nen
   Meaning: baby sitter
   Examples:
-    - Meine Tochter arbeitet als Babysitter bei einer
-      Familie mit vier Kindern.
+    - Meine Tochter arbeitet als Babysitter bei einer Familie mit vier Kindern.
 
 - Id: backen
   Level: A2
-  Form: bäckt/backt,
-    backte, hat gebacken
+  Form: bäckt/backt, backte, hat gebacken
   Meaning: to bake
   Examples:
-    - Wenn du kommst, backe ich einen
-      Kuchen.
+    - Wenn du kommst, backe ich einen Kuchen.
 
 - Id: die Bäckerei
   Level: A1
@@ -2145,13 +2082,11 @@
   Meaning: bakery
   Examples:
     - Ich geh mal schnell zur Bäckerei.
-    - Wir kaufen unser Brot immer in der
-      Bäckerei am Markt.
+    - Wir kaufen unser Brot immer in der Bäckerei am Markt.
 
 - Id: baden
   Level: A1
-  Form: badet, badete, hat
-    gebadet
+  Form: badet, badete, hat gebadet
   Meaning: to take a bath
   Examples:
     - Ich bade nicht so gern, ich dusche lieber.
@@ -2167,8 +2102,7 @@
     - Wir haben kein großes Bad.
     - Das Haus ist sehr alt. Es hat kein Bad.
     - Im Winter nehme ich gern ein warmes Bad.
-    - Nach einem warmen Bad fühlt man
-      sich gleich viel besser.
+    - Nach einem warmen Bad fühlt man sich gleich viel besser.
     - Ich möchte ein Zimmer mit Bad.
 
 - Id: die Badewanne
@@ -2176,8 +2110,7 @@
   Form: -n
   Meaning: bathtub
   Examples:
-    - Nach einem langen Arbeitstag setzte
-      sie sich in die Badewanne.
+    - Nach einem langen Arbeitstag setzte sie sich in die Badewanne.
 
 - Id: die Bahn
   Level: A1
@@ -2194,8 +2127,7 @@
   Meaning: city train
   Examples:
     - Ich nehme lieber die S-Bahn.
-    - Die S-Bahn ist schneller als die
-      Straßenbahn.
+    - Die S-Bahn ist schneller als die Straßenbahn.
 
 - Id: die Straßenbahn
   Level: A1
@@ -2238,8 +2170,7 @@
     - Ich komme bald.
     - Auf Wiedersehen! Bis bald!
     - Besuchen Sie uns doch bald mal.
-    - Geben Sie mir bitte so bald wie
-      möglich Bescheid.
+    - Geben Sie mir bitte so bald wie möglich Bescheid.
     - Auf Wiedersehen, bis bald!
 
 - Id: der Balkon
@@ -2255,16 +2186,14 @@
   Meaning: ball
   Examples:
     - Meine Kinder spielen gern Ball.
-    - Ich spiele gern mit meinen Kindern
-      Ball.
+    - Ich spiele gern mit meinen Kindern Ball.
 
 - Id: das Ballett
   Level: B1
   Form: -e
   Meaning: ballet
   Examples:
-    - Meine Tochter möchte gern Ballett
-      tanzen.
+    - Meine Tochter möchte gern Ballett tanzen.
 
 - Id: die Banane
   Level: A1
@@ -2279,8 +2208,7 @@
   Form: -s
   Meaning: band
   Examples:
-    - Was ist deine Lieblingsband? Anton spielt in einer
-      Band.
+    - Was ist deine Lieblingsband? Anton spielt in einer Band.
 
 - Id: die Bank (¨-e)
   Level: A1
@@ -2289,8 +2217,7 @@
   Examples:
     - Er sitzt im Park auf einer Bank und liest
     - Kommt, wir setzen uns auf diese Bank.
-    - Kommt, wir setzen uns auf die Bank da
-      vorne.
+    - Kommt, wir setzen uns auf die Bank da vorne.
 
 - Id: die Bank (-en)
   Level: A1
@@ -2313,8 +2240,7 @@
   Synonym: (A, CH) = (D) Geldautomat
   Meaning: ATM
   Examples:
-    - Ich hole noch schnell Geld vom
-      Bankomaten.
+    - Ich hole noch schnell Geld vom Bankomaten.
 
 - Id: die Bankomatkarte
   Level: B1
@@ -2322,8 +2248,7 @@
   Synonym: = (A) ec-Karte / EC-Karte
   Meaning: ATM card
   Examples:
-    - Sie können auch mit Bankomat-Karte
-      zahlen.
+    - Sie können auch mit Bankomat-Karte zahlen.
 
 - Id: die Bar
   Level: B1
@@ -2331,8 +2256,7 @@
   Meaning: bar
   Examples:
     - Setzen wir uns doch an die Bar!
-    - Ich treffe meine Freundin in der
-      Hotelbar.
+    - Ich treffe meine Freundin in der Hotelbar.
 
 - Id: bar
   Level: A1
@@ -2362,27 +2286,23 @@
   Examples:
     - Yannick spielt lieber Basketball als Fußball.
     - Sie spielt sehr gern Basketball.
-    - Er hat zum Geburtstag einen neuen
-      Basketball bekommen.
+    - Er hat zum Geburtstag einen neuen Basketball bekommen.
 
 - Id: basteln
   Level: A2
-  Form: bastelt,
-    bastelte, hat gebastelt
+  Form: bastelt, bastelte, hat gebastelt
   Meaning: to do handicrafts
   Examples:
     - Die Kinder haben etwas gebastelt.
     - Die Kinder basteln ein Vogelhaus.
-    - Ich arbeite gern mit natürlichen
-      Bastelmaterialien.
+    - Ich arbeite gern mit natürlichen Bastelmaterialien.
 
 - Id: die Batterie
   Level: B1
   Form: -n
   Meaning: battery
   Examples:
-    - Bringst du bitte Batterien für die
-      Kamera mit?
+    - Bringst du bitte Batterien für die Kamera mit?
 
 - Id: der Bauch
   Level: A1
@@ -2394,8 +2314,7 @@
 
 - Id: bauen
   Level: A2
-  Form: baut, baute,
-    hat gebaut
+  Form: baut, baute, hat gebaut
   Meaning: to build
   Examples:
     - Unsere Nachbarn bauen ein neues Haus.
@@ -2422,8 +2341,7 @@
   Form: -n
   Meaning: farmer
   Examples:
-    - Wir kaufen unser Gemüse beim
-      Bauern.
+    - Wir kaufen unser Gemüse beim Bauern.
 
 - Id: der Baum
   Level: A1
@@ -2436,12 +2354,10 @@
 
 - Id: beachten
   Level: B1
-  Form: beachtet,
-    beachtete, hat beachtet
+  Form: beachtet, beachtete, hat beachtet
   Meaning: to obey, heed, comply with
   Examples:
-    - Bitte beachten Sie die Ansagen am
-      Bahnsteig.
+    - Bitte beachten Sie die Ansagen am Bahnsteig.
 
 - Id: der Beamte
   Level: A1
@@ -2456,28 +2372,23 @@
 
 - Id: beantragen
   Level: B1
-  Form: beantragt,
-    beantragte, hat beantragt
+  Form: beantragt, beantragte, hat beantragt
   Meaning: to apply for
   Examples:
-    - Hast du schon einen neuen Pass
-      beantragt?
+    - Hast du schon einen neuen Pass beantragt?
 
 - Id: beantworten
   Level: A2
-  Form: beantwortet, beantwortete,
-    hat beantwortet
+  Form: beantwortet, beantwortete, hat beantwortet
   Meaning: to answer
   Examples:
     - Können Sie meine Frage bitte beantworten?
     - Hast du die Mail schon beantwortet?
-    - Sie haben meine Frage leider nicht
-      beantwortet.
+    - Sie haben meine Frage leider nicht beantwortet.
 
 - Id: (sich) bedanken
   Level: A2
-  Form: bedankt,
-    bedankte, hat bedankt
+  Form: bedankt, bedankte, hat bedankt
   Meaning: to thank
   Examples:
     - Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.
@@ -2487,32 +2398,27 @@
   Form: -e
   Meaning: need, demand
   Examples:
-    - An diesem Produkt besteht großer
-      Bedarf.
+    - An diesem Produkt besteht großer Bedarf.
 
 - Id: bedeuten
   Level: A1
-  Form: bedeutet,
-    bedeutete, hat bedeutet
+  Form: bedeutet, bedeutete, hat bedeutet
   Meaning: to mean
   Examples:
     - Was bedeutet das Wort?
     - Was bedeutet dieses Wort?
-    - Ich bin krank. Das bedeutet, dass ich
-      heute nicht arbeiten kann
+    - Ich bin krank. Das bedeutet, dass ich heute nicht arbeiten kann
 
 - Id: die Bedeutung
   Level: B1
   Form: -en
   Meaning: meaning, significance
   Examples:
-    - Das Wort „Maus“ hat inzwischen zwei
-      Bedeutungen.
+    - Das Wort „Maus“ hat inzwischen zwei Bedeutungen.
 
 - Id: bedienen
   Level: B1
-  Form: bedient,
-    bediente, hat bedient
+  Form: bedient, bediente, hat bedient
   Meaning: to serve, operate
   Examples:
     - Werden Sie schon bedient?
@@ -2535,7 +2441,7 @@
 
 - Id: sich beeilen
   Level: A2
-  Form:  beeilt sich, beeilte sich, hat sich beeilt
+  Form: beeilt sich, beeilte sich, hat sich beeilt
   Meaning: to hurry os
   Examples:
     - Kannst du dich bitte beeilen? Der Bus fährt gleich ab!
@@ -2543,7 +2449,7 @@
 
 - Id: beenden
   Level: A2
-  Form:  beendet, beendete, hat beendet
+  Form: beendet, beendete, hat beendet
   Meaning: to end
   Examples:
     - Du musst deine Ausbildung auf jeden Fall beenden.
@@ -2569,7 +2475,7 @@
 
 - Id: begegnen
   Level: B1
-  Form:  begegnet, begegnete, ist begegnet
+  Form: begegnet, begegnete, ist begegnet
   Meaning: to meet, come across
   Examples:
     - Sind wir uns nicht schon mal irgendwann begegnet?
@@ -2597,7 +2503,7 @@
 
 - Id: begleiten
   Level: B1
-  Form:  begleitet, begleitete, hat begleitet
+  Form: begleitet, begleitete, hat begleitet
   Meaning: to accompany
   Examples:
     - Ich begleite dich ein Stück.
@@ -2611,7 +2517,7 @@
 
 - Id: begründen
   Level: A2
-  Form:  begründet, begründete, hat begründet
+  Form: begründet, begründete, hat begründet
   Meaning: to justify
   Examples:
     - Bitte begründen Sie Ihre Meinung.
@@ -2625,7 +2531,7 @@
 
 - Id: begrüßen
   Level: B1
-  Form:  begrüßt, begrüßte, hat begrüßt
+  Form: begrüßt, begrüßte, hat begrüßt
   Meaning: to greet
   Examples:
     - Der Gastgeber begrüßt seine Gäste.
@@ -2721,16 +2627,15 @@
     - Kannst du mir ein Beispiel sagen?
     - Können Sie mir ein Beispiel sagen?
     - Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.
-    - "Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot …"
+    - 'Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot …'
 
 - Id: zum Beispiel
   Level: A1
-  Meaning: for example
   Abbreviation:
     Id: z. B.
+  Meaning: for example
   Examples:
-    - Viele meiner Verwandten, z. B. meine beiden
-      Brüder, arbeiten auch hier.
+    - Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.
 
 - Id: beißen
   Level: B1
@@ -2798,7 +2703,7 @@
 
 - Id: beleidigen
   Level: B1
-  Form:  beleidigt, beleidigte, hat beleidigt
+  Form: beleidigt, beleidigte, hat beleidigt
   Meaning: to offend, hurt, insult
   Examples:
     - Ich wollte Sie nicht beleidigen.
@@ -2850,7 +2755,7 @@
 
 - Id: beobachten
   Level: B1
-  Form:  beobachtet, beobachtete, hat beobachtet
+  Form: beobachtet, beobachtete, hat beobachtet
   Meaning: to observe, watch
   Examples:
     - Wer hat den Unfall beobachtet?
@@ -2881,7 +2786,7 @@
 
 - Id: berechnen
   Level: B1
-  Form:  berechnet, berechnete, hat berechnet
+  Form: berechnet, berechnete, hat berechnet
   Meaning: to calculate, charge
   Examples:
     - Die Kosten für die Fahrt müssen erst berechnet werden.
@@ -2955,7 +2860,7 @@
 
 - Id: beruhigen
   Level: B1
-  Form:  beruhigt, beruhigte, hat beruhigt
+  Form: beruhigt, beruhigte, hat beruhigt
   Meaning: to calm
   Examples:
     - Beruhigen Sie sich bitte. Es ist alles in Ordnung.
@@ -2977,7 +2882,7 @@
 
 - Id: beschäftigen
   Level: B1
-  Form:  beschäftigt, beschäftigte, hat beschäftigt
+  Form: beschäftigt, beschäftigte, hat beschäftigt
   Meaning: to employ, be busy, deal with
   Examples:
     - Womit haben Sie sich bei Ihrer Arbeit beschäftigt?
@@ -3028,7 +2933,7 @@
 
 - Id: beschreiben
   Level: A2
-  Form:  beschreibt, beschrieb, hat beschrieben
+  Form: beschreibt, beschrieb, hat beschrieben
   Meaning: to describe
   Examples:
     - Kannst du mir den Weg zum Bahnhof beschreiben?
@@ -3068,7 +2973,7 @@
 
 - Id: besichtigen
   Level: A1
-  Form:  besichtigt, besichtigte, hat besichtigt
+  Form: besichtigt, besichtigte, hat besichtigt
   Meaning: to visit, to view something
   Examples:
     - Ich möchte gern den Dom besichtigen.
@@ -3095,7 +3000,7 @@
   Examples:
     - Dieses Angebot ist besonders günstig.
     - Hier ist die Pizza besonders gut.
-    - "Wie geht's? - Nicht besonders."
+    - Wie geht's? - Nicht besonders.
     - Ich habe heute ein besonders günstiges Angebot gesehen.
     - Durch den Sturm gab es besonders in Süddeutschland schwere Schäden.
 
@@ -3139,18 +3044,16 @@
   Form: -en
   Meaning: confirmation, acknowledgement
   Examples:
-    - Ich brauche eine schriftliche
-      Bestätigung für das Amt.
+    - Ich brauche eine schriftliche Bestätigung für das Amt.
 
 - Id: bestehen
   Level: A2
   Form: besteht, bestand, hat bestanden
   Meaning: to exist, last, pass, win
   Examples:
-    - "Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen."
+    - 'Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen.'
     - Ich habe die Prüfung bestanden!
-    - Das Modul Lesen besteht aus fünf
-      Teilen.
+    - Das Modul Lesen besteht aus fünf Teilen.
 
 - Id: bestellen
   Level: A1
@@ -3158,20 +3061,16 @@
   Meaning: to order, reserve
   Examples:
     - Wir möchten bestellen, bitte.
-    - Dieses Buch haben wir nicht da. Sollen wir es für
-      Sie bestellen?
+    - Dieses Buch haben wir nicht da. Sollen wir es für Sie bestellen?
     - Wir haben Pizza bestellt.
-    - Ich bin für 16 Uhr zum Vorstellungsgespräch
-      bestellt.
-    - Ich soll Ihnen Grüße von Frau Meier
-      bestellen.
+    - Ich bin für 16 Uhr zum Vorstellungsgespräch bestellt.
+    - Ich soll Ihnen Grüße von Frau Meier bestellen.
 
 - Id: bestimmt
   Level: B1
   Meaning: certain, definite
   Examples:
-    - Das hat Nancy bestimmt nicht so
-      gemeint.
+    - Das hat Nancy bestimmt nicht so gemeint.
     - Möchtest du ein bestimmtes Brot?
 
 - Id: bestrafen
@@ -3179,8 +3078,7 @@
   Form: bestraft, bestrafte, hat bestraft
   Meaning: to punish, sentence, fine
   Examples:
-    - Zu schnelles Fahren wird streng
-      bestraft.
+    - Zu schnelles Fahren wird streng bestraft.
 
 - Id: besuchen
   Level: A1
@@ -3205,17 +3103,14 @@
   Form: beteiligt sich, beteiligte sich, hat sich beteiligt
   Meaning: to take part, participate
   Examples:
-    - Wir wollen unserer Lehrerin ein
-      Geschenk kaufen. Wer möchte sich
-      beteiligen?
+    - Wir wollen unserer Lehrerin ein Geschenk kaufen. Wer möchte sich beteiligen?
 
 - Id: der Betrag
   Level: B1
   Form: ¨-e
   Meaning: amount, sum
   Examples:
-    - Bitte überweisen Sie den Betrag auf
-      unser Konto.
+    - Bitte überweisen Sie den Betrag auf unser Konto.
 
 - Id: betreuen
   Level: B1
@@ -3239,8 +3134,7 @@
   Form: -en
   Meaning: care
   Examples:
-    - Haben Sie eine Betreuung für Ihre
-      Kinder?
+    - Haben Sie eine Betreuung für Ihre Kinder?
 
 - Id: der Betrieb
   Level: B1
@@ -3248,10 +3142,8 @@
   Meaning: firm, concern, plant, operation
   Examples:
     - In diesem Betrieb arbeiten zehn Leute.
-    - Kurz vor Weihnachten ist in den
-      Kaufhäusern immer viel Betrieb.
-    - Der Aufzug ist in Betrieb/außer
-      Betrieb.
+    - Kurz vor Weihnachten ist in den Kaufhäusern immer viel Betrieb.
+    - Der Aufzug ist in Betrieb/außer Betrieb.
 
 - Id: der Betriebsrat
   Level: B1
@@ -3261,25 +3153,21 @@
     Form: -nen
   Meaning: works council
   Examples:
-    - Der Betriebsrat wird Sie über die
-      neuen Arbeitszeiten informieren.
+    - Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren.
 
 - Id: betrügen
   Level: B1
   Form: betrügt, betrog, hat betrogen
   Meaning: to cheat
   Examples:
-    - Ich würde meine Familie niemals
-      betrügen.
-    - Die Rechnung stimmt nicht. Der Kellner
-      hat mich betrogen.
+    - Ich würde meine Familie niemals betrügen.
+    - Die Rechnung stimmt nicht. Der Kellner hat mich betrogen.
 
 - Id: betrunken
   Level: B1
   Meaning: drunk
   Examples:
-    - Wenn Sie betrunken Auto fahren,
-      verlieren Sie Ihren Führerschein.
+    - Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein.
 
 - Id: das Bett
   Level: A1
@@ -3289,49 +3177,42 @@
     - Wir brauchen noch ein Kinderbett.
     - Sie ist krank und muss heute im Bett bleiben.
     - Wir wollten uns neue Betten kaufen.
-    - Solange Sie Fieber haben, müssen Sie
-      im Bett bleiben.
+    - Solange Sie Fieber haben, müssen Sie im Bett bleiben.
 
 - Id: die Bevölkerung
   Level: B1
   Form: -en
   Meaning: population
   Examples:
-    - 11 % der Bevölkerung wurden nicht im
-      Inland geboren.
+    - 11 % der Bevölkerung wurden nicht im Inland geboren.
 
 - Id: bevor
   Level: B1
   Meaning: before
   Examples:
-    - Bevor wir gehen, möchte ich noch
-      etwas essen.
+    - Bevor wir gehen, möchte ich noch etwas essen.
 
 - Id: bewegen
   Level: B1
   Form: bewegt, bewegte, hat bewegt
   Meaning: to move
   Examples:
-    - Ich kann mich vor Schmerzen kaum
-      noch bewegen.
-    - Ich kann meinen Finger nicht mehr
-      bewegen.
+    - Ich kann mich vor Schmerzen kaum noch bewegen.
+    - Ich kann meinen Finger nicht mehr bewegen.
 
 - Id: die Bewegung
   Level: B1
   Form: -en
   Meaning: movement
   Examples:
-    - Sie brauchen mehr Bewegung. Sie
-      müssen regelmäßig spazieren gehen.
+    - Sie brauchen mehr Bewegung. Sie müssen regelmäßig spazieren gehen.
 
 - Id: beweisen
   Level: B1
   Form: beweist, bewies, hat bewiesen
   Meaning: to prove
   Examples:
-    - Wir können beweisen, dass Sie bei Rot
-      über die Ampel gefahren sind.
+    - Wir können beweisen, dass Sie bei Rot über die Ampel gefahren sind.
 
 - Id: der Beweis
   Level: B1
@@ -3346,8 +3227,7 @@
   Meaning: to apply for
   Examples:
     - Ich möchte mich um diese Stelle bewerben.
-    - Ich habe mich um diese Stelle
-      beworben.
+    - Ich habe mich um diese Stelle beworben.
     - Ich habe mich als Kellner beworben.
 
 - Id: die Bewerbung
@@ -3356,8 +3236,7 @@
   Meaning: application
   Examples:
     - Kannst du mir bei meiner Bewerbung helfen?
-    - Wohin soll ich meine Bewerbung
-      schicken?
+    - Wohin soll ich meine Bewerbung schicken?
     - Hilfst du mir bei meiner Bewerbung?
 
 - Id: der Bewohner
@@ -3368,8 +3247,7 @@
     Form: -nen
   Meaning: inhabitant, occupant
   Examples:
-    - Ich kenne die anderen Hausbewohner
-      nicht.
+    - Ich kenne die anderen Hausbewohner nicht.
 
 - Id: bezahlen
   Level: A1
@@ -3384,14 +3262,13 @@
   Form: -en
   Meaning: connection, relationship
   Examples:
-    - Wir haben gute Beziehungen zu
-      unseren Nachbarn.
+    - Wir haben gute Beziehungen zu unseren Nachbarn.
 
 - Id: beziehungsweise
   Level: B1
-  Meaning: and ... respectively; that is
   Abbreviation:
     Id: bzw.
+  Meaning: and ... respectively; that is
   Examples:
     - Zwei Briefmarken, die 25 beziehungsweise 55 Cent kosten.
 
@@ -3401,8 +3278,7 @@
   Meaning: library
   Examples:
     - Sie lernt jeden Tag in der Bibliothek.
-    - Die Stadtbibliothek hat bereits
-      geschlossen.
+    - Die Stadtbibliothek hat bereits geschlossen.
 
 - Id: das Bier
   Level: A1
@@ -3416,10 +3292,8 @@
   Form: bietet, bot, hat geboten
   Meaning: to offer
   Examples:
-    - Er hat mir für den alten Wagen noch
-      800 Euro geboten.
-    - Die Firma bietet ihren Mitarbeitern die
-      Möglichkeit, Sprachkurse zu besuchen.
+    - Er hat mir für den alten Wagen noch 800 Euro geboten.
+    - Die Firma bietet ihren Mitarbeitern die Möglichkeit, Sprachkurse zu besuchen.
 
 - Id: der Bikini
   Level: B1
@@ -3434,18 +3308,15 @@
   Meaning: picture
   Examples:
     - Hast du ein Bild von deinem Sohn?
-    - Ein Bild von meinen Kindern hängt
-      über meinem Schreibtisch.
+    - Ein Bild von meinen Kindern hängt über meinem Schreibtisch.
 
 - Id: der Bildschirm
   Level: B1
   Form: -e
   Meaning: screen
   Examples:
-    - Ich brauche einen größeren Bildschirm
-      für meinen Computer.
-    - Wir haben einen Fernsehapparat mit
-      einem sehr großen Bildschirm.
+    - Ich brauche einen größeren Bildschirm für meinen Computer.
+    - Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.
 
 - Id: das Billett
   Level: B1
@@ -3453,16 +3324,14 @@
   Synonym: (CH) = (D, A) Fahrkarte
   Meaning: ticket (B-)
   Examples:
-    - Ein Billett können Sie am Schalter
-      kaufen.
+    - Ein Billett können Sie am Schalter kaufen.
 
 - Id: billig
   Level: A1
   Meaning: cheap
   Examples:
     - Die Jacke kostet nur 10 Euro! Die ist aber billig!
-    - Das Wörterbuch kostet nur fünf Euro. - Fünf Euro?
-      Das ist aber billig!
+    - Das Wörterbuch kostet nur fünf Euro. - Fünf Euro? Das ist aber billig!
     - Dieses Buch ist nicht ganz billig.
 
 - Id: die Biologie
@@ -3482,8 +3351,7 @@
   Level: B1
   Meaning: biological
   Examples:
-    - Biologische Lebensmittel gibt es jetzt
-      auch im Supermarkt.
+    - Biologische Lebensmittel gibt es jetzt auch im Supermarkt.
 
 - Id: die Birne
   Level: A1
@@ -3491,8 +3359,7 @@
   Meaning: pear
   Examples:
     - Ein Kilo Birnen, bitte!
-    - Möchten Sie Obst? Die Birnen sind
-      heute besonders schön.
+    - Möchten Sie Obst? Die Birnen sind heute besonders schön.
 
 - Id: bis
   Level: A1
@@ -3501,13 +3368,10 @@
     - Ich fahre nur bis Stuttgart.
     - Ich warte bis morgen.
     - Tschüss, bis gleich!
-    - Die Linie 8 fährt nur bis zum
-      Hauptbahnhof.
+    - Die Linie 8 fährt nur bis zum Hauptbahnhof.
     - Bis wann können Sie bleiben?
-    - Einige Züge hatten bis zu zwei Stunden
-      Verspätung.
-    - Für die Renovierung brauchen wir drei
-      bis vier Tage.
+    - Einige Züge hatten bis zu zwei Stunden Verspätung.
+    - Für die Renovierung brauchen wir drei bis vier Tage.
     - Warte hier, bis ich zurückkomme.
 
 - Id: bisher
@@ -3520,19 +3384,16 @@
   Level: A1
   Meaning: a bit
   Examples:
-    - Ich spreche Englisch, Französisch und ein bisschen
-      Deutsch.
+    - Ich spreche Englisch, Französisch und ein bisschen Deutsch.
     - Können Sie bitte ein bisschen lauter sprechen?
     - Ich spreche ein bisschen Französisch.
     - Möchten Sie noch ein bisschen Salat?
-    - Wenn Sie ein bisschen warten, können
-      wir zusammen gehen.
+    - Wenn Sie ein bisschen warten, können wir zusammen gehen.
     - Sprechen Sie Englisch? – Ein bisschen.
 
 - Id: bitten
   Level: A1
-  Form: bittet, bat,
-    hat gebeten
+  Form: bittet, bat, hat gebeten
   Meaning: to request
   Examples:
     - Darf ich Sie um etwas bitten?
@@ -3544,8 +3405,7 @@
   Meaning: request
   Examples:
     - Ich habe noch eine Bitte.
-    - Ich habe eine Bitte. Kann ich mal Ihr
-      Handy benutzen?
+    - Ich habe eine Bitte. Kann ich mal Ihr Handy benutzen?
 
 - Id: bitte
   Level: A1
@@ -3570,8 +3430,7 @@
   Level: B1
   Meaning: pale
   Examples:
-    - Du siehst ganz blass aus. Bist du
-      krank?
+    - Du siehst ganz blass aus. Bist du krank?
 
 - Id: das Blatt
   Level: A2
@@ -3580,24 +3439,20 @@
   Examples:
     - Haben Sie ein Blatt Papier für mich?
     - Die Bäume haben schon gelbe Blätter.
-    - Die Bäume bekommen schon gelbe
-      Blätter.
+    - Die Bäume bekommen schon gelbe Blätter.
 
 - Id: bleiben
   Level: A1
-  Form: bleibt, blieb,
-    ist geblieben
+  Form: bleibt, blieb, ist geblieben
   Meaning: to stay
   Examples:
     - Ich bleibe heute zu Hause.
     - Wir bleiben nur bis morgen.
     - Wir bleiben drei Tage in Berlin.
     - Bitte bleiben Sie stehen!
-    - Oh nein, meine Uhr ist stehen geblieben. Wie spät
-      ist es?
+    - Oh nein, meine Uhr ist stehen geblieben. Wie spät ist es?
     - Ich bleibe heute zu Hause.
-    - Im Juni und Juli bleibt unser Geschäft
-      samstags geschlossen.
+    - Im Juni und Juli bleibt unser Geschäft samstags geschlossen.
     - Bleiben Sie bitte am Apparat.
     - Bleiben Sie doch sitzen!
     - Wir bleiben nur bis morgen.
@@ -3614,10 +3469,8 @@
   Form: -e
   Meaning: view
   Examples:
-    - Von diesem Hotel hat man einen guten Blick auf den
-      Rhein.
-    - Von hier hat man einen tollen Blick
-      über die Stadt.
+    - Von diesem Hotel hat man einen guten Blick auf den Rhein.
+    - Von hier hat man einen tollen Blick über die Stadt.
 
 - Id: blind
   Level: B1
@@ -3627,12 +3480,10 @@
 
 - Id: blitzen
   Level: B1
-  Form: blitzt, blitzte,
-    hat geblitzt
+  Form: blitzt, blitzte, hat geblitzt
   Meaning: to flash, flash lightning
   Examples:
-    - Gestern Abend gab es ein Gewitter. Es
-      hat furchtbar geblitzt und gedonnert.
+    - Gestern Abend gab es ein Gewitter. Es hat furchtbar geblitzt und gedonnert.
     - Ihre Augen blitzen vor Freude.
 
 - Id: der Blitz
@@ -3640,8 +3491,7 @@
   Form: -e
   Meaning: lightning, flash
   Examples:
-    - Was für ein Gewitter, hast du den Blitz
-      gesehen?
+    - Was für ein Gewitter, hast du den Blitz gesehen?
     - Hast du das Foto mit Blitz gemacht?
 
 - Id: blöd
@@ -3676,21 +3526,16 @@
   Level: B1
   Meaning: only, merely
   Examples:
-    - Ich möchte nichts kaufen. Ich möchte
-      mich bloß umsehen.
-    - Komm bloß nicht zu spät. Wir müssen
-      pünktlich am Bahnhof sein.
-    - Ach, wenn ich bloß mehr verdienen
-      würde!
+    - Ich möchte nichts kaufen. Ich möchte mich bloß umsehen.
+    - Komm bloß nicht zu spät. Wir müssen pünktlich am Bahnhof sein.
+    - Ach, wenn ich bloß mehr verdienen würde!
 
 - Id: blühen
   Level: B1
-  Form: blüht, blühte,
-    hat geblüht
+  Form: blüht, blühte, hat geblüht
   Meaning: to bloom, blossom
   Examples:
-    - Die Bäume blühen schon. Es ist
-      Frühling.
+    - Die Bäume blühen schon. Es ist Frühling.
 
 - Id: die Blume
   Level: A1
@@ -3698,8 +3543,7 @@
   Meaning: flower
   Examples:
     - Gefallen dir die Blumen?
-    - Wir haben meiner Mutter Blumen zum
-      Geburtstag geschenkt.
+    - Wir haben meiner Mutter Blumen zum Geburtstag geschenkt.
 
 - Id: die Bluse
   Level: A2
@@ -3711,12 +3555,10 @@
 
 - Id: bluten
   Level: B1
-  Form: blutet, blutete,
-    hat geblutet
+  Form: blutet, blutete, hat geblutet
   Meaning: to bleed
   Examples:
-    - Ich habe mich verletzt. Meine Hand
-      blutet.
+    - Ich habe mich verletzt. Meine Hand blutet.
 
 - Id: das Blut
   Level: B1
@@ -3731,8 +3573,7 @@
   Meaning: floor
   Examples:
     - Die Bücher lagen alle auf dem Boden.
-    - Auf diesem Boden wächst Gemüse
-      besonders gut.
+    - Auf diesem Boden wächst Gemüse besonders gut.
 
 - Id: der Bogen
   Level: A1
@@ -3740,8 +3581,7 @@
   Meaning: curve, arch, bow; sheet of paper
   Examples:
     - Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
-    - Bitte schreiben Sie Ihren Namen auf
-      den Antwortbogen.
+    - Bitte schreiben Sie Ihren Namen auf den Antwortbogen.
 
 - Id: die Bohne
   Level: A2
@@ -3756,34 +3596,28 @@
   Form: -e
   Meaning: boat
   Examples:
-    - An diesem See kann man Boote
-      mieten.
+    - An diesem See kann man Boote mieten.
 
 - Id: die Botschaft
   Level: B1
   Form: -en
   Meaning: embassy
   Examples:
-    - Das Visum habe ich von der Botschaft
-      bekommen.
+    - Das Visum habe ich von der Botschaft bekommen.
 
 - Id: böse
   Level: A1
   Meaning: bad, evil, angry
   Examples:
     - Sie ist richtig böse auf mich.
-    - Ich habe dein Buch leider vergessen. Hoffentlich bist du
-      mir nicht böse.
+    - Ich habe dein Buch leider vergessen. Hoffentlich bist du mir nicht böse.
     - Mach nicht so ein böses Gesicht!
-    - Ich bin böse auf dich, du bist wieder
-      nicht gekommen!
-    - Zeig mal! Du hast dich verletzt? Das
-      sieht aber böse aus.
+    - Ich bin böse auf dich, du bist wieder nicht gekommen!
+    - Zeig mal! Du hast dich verletzt? Das sieht aber böse aus.
 
 - Id: braten
   Level: A2
-  Form: brät, briet,
-    hat gebraten
+  Form: brät, briet, hat gebraten
   Meaning: to fry
   Examples:
     - Braten Sie das Fleisch in etwas Öl!
@@ -3796,44 +3630,35 @@
   Form: '-'
   Meaning: roast, joint
   Examples:
-    - Nehmen Sie noch etwas Soße zum
-      Braten?
+    - Nehmen Sie noch etwas Soße zum Braten?
 
 - Id: brauchen
   Level: A1
-  Form: braucht,
-    brauchte, hat gebraucht
+  Form: braucht, brauchte, hat gebraucht
   Meaning: to need
   Examples:
     - Brauchst du die Zeitung noch?
     - Ich brauche ein neues Auto.
-    - Brauchst du die Zeitung noch oder kann ich sie
-      haben?
+    - Brauchst du die Zeitung noch oder kann ich sie haben?
     - Meine Großmutter ist krank. Sie braucht viel Ruhe.
     - Ich brauche ein Auto.
-    - Ich habe für die Renovierung eine
-      Woche gebraucht.
-    - Sie brauchen morgen nicht zu
-      kommen. Ich schaffe das alleine.
+    - Ich habe für die Renovierung eine Woche gebraucht.
+    - Sie brauchen morgen nicht zu kommen. Ich schaffe das alleine.
 
 - Id: brechen
   Level: B1
-  Form: bricht, brach,
-    hat gebrochen
+  Form: bricht, brach, hat gebrochen
   Meaning: to break
   Examples:
-    - Er hat sich beim Skifahren verletzt,
-      sein Bein ist gebrochen.
-    - Ich habe mir im Urlaub das Bein
-      gebrochen.
+    - Er hat sich beim Skifahren verletzt, sein Bein ist gebrochen.
+    - Ich habe mir im Urlaub das Bein gebrochen.
 
 - Id: breit
   Level: A1
   Meaning: wide
   Examples:
     - Wie breit ist der Schrank?
-    - Der Teppich ist zwei Meter lang und
-      einen Meter breit.
+    - Der Teppich ist zwei Meter lang und einen Meter breit.
 
 - Id: die Breite
   Level: B1
@@ -3844,34 +3669,26 @@
 
 - Id: bremsen
   Level: B1
-  Form: bremst,
-    bremste, hat gebremst
+  Form: bremst, bremste, hat gebremst
   Meaning: to brake
   Examples:
-    - Der Mann ist ganz plötzlich über die
-      Straße gegangen. Ich musste stark
-      bremsen.
+    - Der Mann ist ganz plötzlich über die Straße gegangen. Ich musste stark bremsen.
 
 - Id: die Bremse
   Level: B1
   Form: -n
   Meaning: brake
   Examples:
-    - Du musst unbedingt die Bremsen
-      kontrollieren lassen.
+    - Du musst unbedingt die Bremsen kontrollieren lassen.
 
 - Id: brennen
   Level: B1
-  Form: brennt, brannte,
-    hat gebrannt
+  Form: brennt, brannte, hat gebrannt
   Meaning: to burn
   Examples:
-    - In diesem Haus hat es letztes Jahr
-      gebrannt.
-    - Die Kerze brennt noch. Mach sie bitte
-      aus.
-    - In deinem Zimmer hat die ganze Nacht
-      das Licht gebrannt.
+    - In diesem Haus hat es letztes Jahr gebrannt.
+    - Die Kerze brennt noch. Mach sie bitte aus.
+    - In deinem Zimmer hat die ganze Nacht das Licht gebrannt.
 
 - Id: der Brief
   Level: A1
@@ -3887,8 +3704,7 @@
   Meaning: mailbox
   Examples:
     - Ist hier in der Nähe ein Briefkasten?
-    - Hol bitte mal die Zeitung aus dem
-      Briefkasten.
+    - Hol bitte mal die Zeitung aus dem Briefkasten.
 
 - Id: die Briefmarke
   Level: A1
@@ -3897,16 +3713,15 @@
   Examples:
     - Kaufst du bitte Briefmarken bei der Post.
     - Bitte die Briefmarke nicht vergessen!
-    - Briefmarken bekommen Sie am
-      Schalter 7.
+    - Briefmarken bekommen Sie am Schalter 7.
 
 - Id: der Briefträger
   Level: B1
   Form: '-'
+  Synonym: (D, A) = (CH) Pöstler
   Feminine:
     Id: die Briefträgerin
     Form: -nen
-  Synonym: (D, A) = (CH) Pöstler
   Meaning: postman (B-)
   Examples:
     - War die Briefträgerin schon da?
@@ -3917,8 +3732,7 @@
   Synonym: = (A) Kuvert = (CH) Couvert
   Meaning: envelope (B-)
   Examples:
-    - Ich hätte gern 50 Briefumschläge und
-      Briefmarken dazu.
+    - Ich hätte gern 50 Briefumschläge und Briefmarken dazu.
 
 - Id: die Brieftasche
   Level: B1
@@ -3926,8 +3740,7 @@
   Synonym: = (D, CH) Portemonnaie, Portmonee = (A) Geldbörse
   Meaning: wallet
   Examples:
-    - Ich habe nur Kleingeld in meiner
-      Brieftasche.
+    - Ich habe nur Kleingeld in meiner Brieftasche.
 
 - Id: die Brille
   Level: A2
@@ -3940,24 +3753,21 @@
 
 - Id: bringen
   Level: A1
-  Form: bringt, brachte,
-    hat gebracht
+  Form: bringt, brachte, hat gebracht
   Meaning: to bring
   Examples:
     - Bringen Sie mir bitte noch einen Kaffee!
     - Wir müssen ihn zum Arzt bringen.
     - Wir müssen Max ins Krankenhaus bringen.
     - Ich bringe dich nach Hause.
-    - Die Abendzeitung hat einen Bericht
-      über den Unfall gebracht.
+    - Die Abendzeitung hat einen Bericht über den Unfall gebracht.
 
 - Id: die Broschüre
   Level: B1
   Form: -n
   Meaning: brochure
   Examples:
-    - In der Broschüre finden Sie die
-      neuesten Informationen.
+    - In der Broschüre finden Sie die neuesten Informationen.
 
 - Id: das Brot
   Level: A1
@@ -3965,12 +3775,10 @@
   Meaning: bread
   Examples:
     - Haben Sie auch Weißbrot?
-    - Nimm noch ein paar belegte Brote für
-      die Fahrt mit.
+    - Nimm noch ein paar belegte Brote für die Fahrt mit.
     - Nimm doch noch ein Brot für das Abendessen.
     - Haben Sie auch Weißbrot?
-    - Brot kaufe ich immer beim Bäcker,
-      nicht im Supermarkt.
+    - Brot kaufe ich immer beim Bäcker, nicht im Supermarkt.
     - Was möchtest du aufs Brot haben?
 
 - Id: das Brötchen
@@ -3980,8 +3788,7 @@
   Meaning: bread roll (-n)
   Examples:
     - Möchtest du Brot oder Brötchen zum Frühstück?
-    - Ich hole schnell ein paar Brötchen zum
-      Frühstück.
+    - Ich hole schnell ein paar Brötchen zum Frühstück.
 
 - Id: das Brötli
   Level: B1
@@ -3989,18 +3796,15 @@
   Synonym: (CH) = (D) Brötchen = (A) Semmel
   Meaning: bread roll (-i)
   Examples:
-    - Ich hole schnell ein paar Brötli zum
-      Frühstück.
+    - Ich hole schnell ein paar Brötli zum Frühstück.
 
 - Id: die Brücke
   Level: A2
   Form: -n
   Meaning: bridge
   Examples:
-    - Fahren Sie über die nächste Brücke und dann
-      nach links.
-    - Fahren Sie über die nächste Brücke
-      und dann rechts.
+    - Fahren Sie über die nächste Brücke und dann nach links.
+    - Fahren Sie über die nächste Brücke und dann rechts.
 
 - Id: der Bruder
   Level: A1
@@ -4008,8 +3812,7 @@
   Meaning: brother
   Examples:
     - Sein Bruder arbeitet auch hier.
-    - Mein jüngster Bruder geht noch zur
-      Schule.
+    - Mein jüngster Bruder geht noch zur Schule.
 
 - Id: die Brust
   Level: B1
@@ -4024,8 +3827,7 @@
   Synonym: (A, CH) = (D) Junge
   Meaning: boy (B-)
   Examples:
-    - In der Schulklasse sind 15 Buben und
-      10 Mädchen.
+    - In der Schulklasse sind 15 Buben und 10 Mädchen.
 
 - Id: das Buch
   Level: A1
@@ -4035,31 +3837,26 @@
     - Gute Bücher sind oft sehr teuer.
     - In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
     - Was kostet das Buch, bitte?
-    - Haben Sie ein Buch über die
-      Geschichte von Berlin?
+    - Haben Sie ein Buch über die Geschichte von Berlin?
 
 - Id: die Buchhandlung
   Level: B1
   Form: -en
   Meaning: bookshop
   Examples:
-    - In der Buchhandlung in der Stadt
-      haben sie das Buch sicher.
+    - In der Buchhandlung in der Stadt haben sie das Buch sicher.
 
 - Id: buchen
   Level: A2
-  Form: bucht, buchte,
-    hat gebucht
+  Form: bucht, buchte, hat gebucht
   Meaning: to book
   Examples:
     - Morgen buche ich unsere Urlaubsreise.
-    - Ich habe für morgen einen Flug nach
-      Rom gebucht.
+    - Ich habe für morgen einen Flug nach Rom gebucht.
 
 - Id: buchstabieren
   Level: A1
-  Form: buchstabiert, buchstabierte,
-    hat buchstabiert
+  Form: buchstabiert, buchstabierte, hat buchstabiert
   Meaning: to spell
   Examples:
     - Bitte buchstabieren Sie Ihren Namen.
@@ -4071,10 +3868,8 @@
   Meaning: letter (of the alphabet)
   Examples:
     - Diesen Buchstaben gibt es in meiner Sprache nicht.
-    - Gibt es diesen Buchstaben auch in
-      deiner Muttersprache?
-    - Ihr Name beginnt mit K. – Buchstabe K
-      ist in Zimmer 3. Bitte warten Sie dort.
+    - Gibt es diesen Buchstaben auch in deiner Muttersprache?
+    - Ihr Name beginnt mit K. – Buchstabe K ist in Zimmer 3. Bitte warten Sie dort.
 
 - Id: die Büchse
   Level: B1
@@ -4111,8 +3906,7 @@
   Form: -en
   Meaning: castle
   Examples:
-    - Von der Burg hat man eine schöne
-      Aussicht.
+    - Von der Burg hat man eine schöne Aussicht.
 
 - Id: der Bürger
   Level: B1
@@ -4122,8 +3916,7 @@
     Form: -nen
   Meaning: citizen
   Examples:
-    - EU-Bürgerinnen und Bürger können
-      überall in Europa arbeiten.
+    - EU-Bürgerinnen und Bürger können überall in Europa arbeiten.
 
 - Id: das Büro
   Level: A2
@@ -4132,8 +3925,7 @@
   Examples:
     - Ich arbeite in einem Büro.
     - Unser Büro ist bis Dienstag geschlossen.
-    - Unser Büro bleibt samstags
-      geschlossen.
+    - Unser Büro bleibt samstags geschlossen.
     - Ich möchte in einem Büro arbeiten.
 
 - Id: die Bürste
@@ -4141,10 +3933,8 @@
   Form: -n
   Meaning: brush
   Examples:
-    - Hast du eine Bürste? Meine Schuhe
-      sind so schmutzig.
-    - Ich brauche eine Bürste für meine
-      Haare.
+    - Hast du eine Bürste? Meine Schuhe sind so schmutzig.
+    - Ich brauche eine Bürste für meine Haare.
 
 - Id: die Zahnbürste
   Level: B1
@@ -4159,8 +3949,7 @@
   Meaning: bus
   Examples:
     - Wann kommt der nächste Bus?
-    - Ich fahre meistens mit dem Bus zur
-      Arbeit.
+    - Ich fahre meistens mit dem Bus zur Arbeit.
 
 - Id: die Butter
   Level: A1
@@ -4177,20 +3966,16 @@
   Meaning: cafe
   Examples:
     - Sollen wir uns im Café treffen?
-    - Kommst du mit ins Café? Ich möchte gern einen
-      Kaffee trinken.
-    - Hier in der Nähe ist ein Café. Lass uns
-      einen Kaffee trinken.
+    - Kommst du mit ins Café? Ich möchte gern einen Kaffee trinken.
+    - Hier in der Nähe ist ein Café. Lass uns einen Kaffee trinken.
 
 - Id: die Cafeteria
   Level: A2
   Form: -s
   Meaning: cafeteria
   Examples:
-    - Ich gehe jetzt in die Cafeteria. Soll ich dir etwas
-      mitbringen?
-    - Ich hole mir schnell etwas aus der
-      Cafeteria.
+    - Ich gehe jetzt in die Cafeteria. Soll ich dir etwas mitbringen?
+    - Ich hole mir schnell etwas aus der Cafeteria.
 
 - Id: das Camp
   Level: B1
@@ -4232,8 +4017,7 @@
   Form: -n
   Meaning: chance
   Examples:
-    - Mein Mann hat gute Chancen, die Stelle
-      zu bekommen.
+    - Mein Mann hat gute Chancen, die Stelle zu bekommen.
 
 - Id: der Chat
   Level: B1
@@ -4272,8 +4056,7 @@
   Meaning: head, boss
   Examples:
     - Wir haben eine neue Chefin.
-    - Das kann ich nicht allein entscheiden,
-      da muss ich erst die Chefin fragen.
+    - Das kann ich nicht allein entscheiden, da muss ich erst die Chefin fragen.
 
 - Id: chic
   Level: B1
@@ -4290,12 +4073,11 @@
 
 - Id: circa
   Level: A1
-  Meaning: approximately (c-)
   Abbreviation:
     Id: ca.
+  Meaning: approximately (c-)
   Examples:
-    - Von Mainz nach Frankfurt sind es circa fünfzig
-      Kilometer.
+    - Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.
 
 - Id: die City
   Level: B1
@@ -4310,20 +4092,18 @@
   Meaning: club (C-)
   Examples:
     - Gibt es hier einen Tennis-Club?
-    - Ich möchte gern tanzen gehen. Wo gibt es hier
-      einen Club mit guter Musik?
+    - Ich möchte gern tanzen gehen. Wo gibt es hier einen Club mit guter Musik?
 
 - Id: der Coiffeur
   Level: B1
   Form: -e
+  Synonym: (CH) = (D, A) Friseur
   Feminine:
     Id: die Coiffeuse
     Form: -n
-  Synonym: (CH) = (D, A) Friseur
   Meaning: hairdresser (C-)
   Examples:
-    - Du siehst toll aus! Wer ist dein
-      Coiffeur?
+    - Du siehst toll aus! Wer ist dein Coiffeur?
     - Meine Tochter will Coiffeuse werden.
 
 - Id: die Cola
@@ -4358,8 +4138,7 @@
   Form: -s
   Meaning: couch
   Examples:
-    - Wir haben uns eine Couch und neue
-      Sessel gekauft.
+    - Wir haben uns eine Couch und neue Sessel gekauft.
 
 - Id: die Creme
   Level: A2
@@ -4368,10 +4147,8 @@
   Examples:
     - Ich suche eine Creme für die Hände.
     - Der Kuchen schmeckt super! Was ist in der Creme? – Das ist eine Buttercreme mit viel Schokolade.
-    - Ich hätte gern eine Creme für die
-      Hände.
-    - Für die Creme habe ich Butter und
-      Schokolade genommen.
+    - Ich hätte gern eine Creme für die Hände.
+    - Für die Creme habe ich Butter und Schokolade genommen.
 
 - Id: der Cousin
   Level: B1
@@ -4389,8 +4166,7 @@
   Synonym: (CH) = Briefumschlag = (A) Kuvert
   Meaning: envelope (C-)
   Examples:
-    - Ich hätte gern 50 Couverts und
-      Briefmarken dazu.
+    - Ich hätte gern 50 Couverts und Briefmarken dazu.
 
 - Id: da
   Level: A1
@@ -4404,14 +4180,10 @@
     - Da drüben ist der Bahnhof.
     - Da drüben ist ein Getränkeautomat.
     - Was Sie da sagen, ist richtig.
-    - Ich wollte gerade einparken. Da kam
-      ein Wagen rückwärts aus der Einfahrt.
-    - Wir haben schon geschlossen. – Da
-      kann man nichts machen.
-    - Da Sie keinen Mitgliedsausweis haben,
-      ist es etwas teurer.
-    - Wir haben gerade über dich
-      gesprochen. Da bist du ja.
+    - Ich wollte gerade einparken. Da kam ein Wagen rückwärts aus der Einfahrt.
+    - Wir haben schon geschlossen. – Da kann man nichts machen.
+    - Da Sie keinen Mitgliedsausweis haben, ist es etwas teurer.
+    - Wir haben gerade über dich gesprochen. Da bist du ja.
 
 - Id: darauf
   Level: A2
@@ -4430,8 +4202,7 @@
   Meaning: with it , there
   Examples:
     - Was hast du dir dabei gedacht?
-    - Schön, dass du da bist. Ist deine
-      Familie auch dabei?
+    - Schön, dass du da bist. Ist deine Familie auch dabei?
     - Hast du einen Stift dabei?
 
 - Id: das Dach
@@ -4439,52 +4210,41 @@
   Form: ¨-er
   Meaning: roof
   Examples:
-    - Wir müssen das Dach reparieren
-      lassen.
+    - Wir müssen das Dach reparieren lassen.
     - Wir wohnen direkt unter dem Dach.
 
 - Id: dafür
   Level: A2
   Meaning: for it
   Examples:
-    - Meine Schwester interessiert sich für
-      Politik. Ich interessiere mich nicht
-      dafür.
-    - Ich bin dafür, dass wir möglichst früh
-      losfahren.
+    - Meine Schwester interessiert sich für Politik. Ich interessiere mich nicht dafür.
+    - Ich bin dafür, dass wir möglichst früh losfahren.
 
 - Id: dagegen
   Level: A2
   Meaning: against it, on the other hand
   Examples:
-    - Vorsicht, da ist ein Baum! Fahr nicht
-      dagegen!
-    - Sind Sie für oder gegen ein
-      Rauchverbot? - Ich bin dagegen.
-    - Ich habe nichts dagegen, dass wir
-      schon nach Hause gehen.
+    - Vorsicht, da ist ein Baum! Fahr nicht dagegen!
+    - Sind Sie für oder gegen ein Rauchverbot? - Ich bin dagegen.
+    - Ich habe nichts dagegen, dass wir schon nach Hause gehen.
 
 - Id: daher
   Level: B1
   Meaning: from there, from that, that's why
   Examples:
-    - Ich bin erkältet, daher kann ich heute
-      nicht kommen.
+    - Ich bin erkältet, daher kann ich heute nicht kommen.
 
 - Id: dahin
   Level: B1
   Meaning: go towards there, until then
   Examples:
-    - Der Zug kommt in 30 Minuten. Bis
-      dahin können wir einen Kaffee trinken.
+    - Der Zug kommt in 30 Minuten. Bis dahin können wir einen Kaffee trinken.
 
 - Id: damals
   Level: B1
   Meaning: then, at that time
   Examples:
-    - Mit 15 wollte ich gerne Klavier spielen
-      lernen. Aber damals hatte ich kein
-      Geld dafür.
+    - Mit 15 wollte ich gerne Klavier spielen lernen. Aber damals hatte ich kein Geld dafür.
 
 - Id: die Dame
   Level: A1
@@ -4501,30 +4261,25 @@
   Level: B1
   Meaning: with it
   Examples:
-    - Mach schnell, damit wir nicht zu spät
-      kommen.
-    - Was macht man mit diesem Ding? -
-      Damit kann man Dosen aufmachen.
+    - Mach schnell, damit wir nicht zu spät kommen.
+    - Was macht man mit diesem Ding? - Damit kann man Dosen aufmachen.
 
 - Id: danach
   Level: B1
   Meaning: after it, afterwards
   Examples:
-    - Zuerst gehen wir einkaufen, danach
-      grillen wir auf unserem Balkon.
+    - Zuerst gehen wir einkaufen, danach grillen wir auf unserem Balkon.
 
 - Id: daneben
   Level: A1
   Meaning: beside it, next to it
   Examples:
     - Du kennst doch die Post. Daneben ist die Bank.
-    - Du weißt doch, wo die Post ist. Gleich
-      daneben ist die Bank.
+    - Du weißt doch, wo die Post ist. Gleich daneben ist die Bank.
 
 - Id: danken
   Level: A1
-  Form: dankt, dankte,
-    hat gedankt
+  Form: dankt, dankte, hat gedankt
   Meaning: to thank
   Examples:
     - Ich danke Ihnen für die Einladung.
@@ -4543,16 +4298,14 @@
   Level: B1
   Meaning: thankful, grateful
   Examples:
-    - Ich bin Ihnen sehr dankbar für Ihre
-      Hilfe.
+    - Ich bin Ihnen sehr dankbar für Ihre Hilfe.
 
 - Id: danke
   Level: A1
   Meaning: thanks
   Examples:
     - Soll ich Ihnen helfen? - Sehr freundlich, ja danke!
-    - Soll ich Ihnen helfen? Nein, danke,
-      nicht nötig.
+    - Soll ich Ihnen helfen? Nein, danke, nicht nötig.
     - Guten Appetit! – Danke gleichfalls.
 
 - Id: dann
@@ -4561,34 +4314,28 @@
   Examples:
     - Ich muss noch schnell zur Post, dann komme ich.
     - Wenn es nicht regnet, dann kommen wir.
-    - Wir waren pünktlich am Bahnhof. Aber
-      dann hatte der Zug Verspätung.
-    - Ich habe im Moment sehr viel zu tun. –
-      Dann will ich nicht länger stören.
+    - Wir waren pünktlich am Bahnhof. Aber dann hatte der Zug Verspätung.
+    - Ich habe im Moment sehr viel zu tun. – Dann will ich nicht länger stören.
 
 - Id: darstellen
   Level: B1
-  Form: stellt dar,
-    stellte dar, hat dargestellt
+  Form: stellt dar, stellte dar, hat dargestellt
   Meaning: to depict, portray
   Examples:
-    - Er konnte das Problem sehr gut
-      darstellen.
+    - Er konnte das Problem sehr gut darstellen.
 
 - Id: die Darstellung
   Level: B1
   Form: -en
   Meaning: presentation, description
   Examples:
-    - Ihr Buch enthält eine klare Darstellung
-      dieser Probleme.
+    - Ihr Buch enthält eine klare Darstellung dieser Probleme.
 
 - Id: dass
   Level: A2
   Meaning: that
   Examples:
-    - Rico hat mir gesagt, dass er auch zur
-      Party kommt.
+    - Rico hat mir gesagt, dass er auch zur Party kommt.
     - Ich finde es super, dass du mich besuchst.
 
 - Id: die Datei
@@ -4608,43 +4355,36 @@
     - Bitte Datum und Unterschrift nicht vergessen!
     - Welches Datum haben wir heute?
     - Haben Sie meine Kontaktdaten?
-    - Ich brauche noch ein paar Daten von
-      Ihnen.
+    - Ich brauche noch ein paar Daten von Ihnen.
 
 - Id: die Daten
   Level: B1
   Form: (Pl.)
   Meaning: data
   Examples:
-    - Wir haben alle Ihre Daten im
-      Computer.
+    - Wir haben alle Ihre Daten im Computer.
 
 - Id: dauern
   Level: A1
-  Form: dauert, dauerte,
-    hat gedauert
+  Form: dauert, dauerte, hat gedauert
   Meaning: to last, take time
   Examples:
     - Wie lange dauert der Film?
-    - Wie lange dauert die Pause? – Eine
-      halbe Stunde.
+    - Wie lange dauert die Pause? – Eine halbe Stunde.
 
 - Id: die Dauer
   Level: B1
   Form: -n
   Meaning: length of time
   Examples:
-    - Sie können das Buch für die Dauer
-      einer Woche ausleihen.
-    - Auf Dauer ist die Arbeit nicht
-      interessant.
+    - Sie können das Buch für die Dauer einer Woche ausleihen.
+    - Auf Dauer ist die Arbeit nicht interessant.
 
 - Id: dauernd
   Level: B1
   Meaning: constant, lasting
   Examples:
-    - Das dauernde Klingeln des Telefons
-      stört mich.
+    - Das dauernde Klingeln des Telefons stört mich.
     - Er ist dauernd krank.
 
 - Id: die Decke
@@ -4652,53 +4392,39 @@
   Form: -n
   Meaning: ceiling; blanket
   Examples:
-    - Im Wohnzimmer haben wir keine
-      Lampe an der Decke.
-    - Kann ich noch eine Decke bekommen?
-      Mir ist kalt.
+    - Im Wohnzimmer haben wir keine Lampe an der Decke.
+    - Kann ich noch eine Decke bekommen? Mir ist kalt.
 
 - Id: dekorieren
   Level: B1
-  Form: dekoriert,
-    dekorierte, hat dekoriert
+  Form: dekoriert, dekorierte, hat dekoriert
   Meaning: to decorate
   Examples:
-    - Hilfst du mir, den Tisch für die Party
-      zu dekorieren?
+    - Hilfst du mir, den Tisch für die Party zu dekorieren?
 
 - Id: denken
   Level: A2
-  Form: denkt, dachte,
-    hat gedacht
+  Form: denkt, dachte, hat gedacht
   Meaning: to think
   Examples:
     - Ich denke oft an meine Freundin.
-    - Was denktst du? Sollen wir heute Abend ins Kino
-      gehen?
+    - Was denktst du? Sollen wir heute Abend ins Kino gehen?
     - Du lachst - was denkst du gerade?
     - Ich denke, dass du recht hast.
-    - Wir diskutieren gerade über das
-      Rauchen. Wie denken Sie darüber?
-    - Denk bitte daran, die Heizung
-      auszumachen.
-    - Es ist mir ganz egal, was die Leute von
-      mir denken.
-    - Ich hatte mir gedacht, dass wir
-      zusammen fahren könnten.
+    - Wir diskutieren gerade über das Rauchen. Wie denken Sie darüber?
+    - Denk bitte daran, die Heizung auszumachen.
+    - Es ist mir ganz egal, was die Leute von mir denken.
+    - Ich hatte mir gedacht, dass wir zusammen fahren könnten.
 
 - Id: der Gedanke
   Level: B1
   Form: -n
   Meaning: thought
   Examples:
-    - Ich muss zuerst meine Gedanken
-      sammeln.
-    - Dein Hinweis bringt mich auf einen
-      Gedanken.
-    - Der Gedanke an das Unglück macht
-      uns traurig.
-    - Lass uns einen Ausflug machen, damit
-      du auf andere Gedanken kommst.
+    - Ich muss zuerst meine Gedanken sammeln.
+    - Dein Hinweis bringt mich auf einen Gedanken.
+    - Der Gedanke an das Unglück macht uns traurig.
+    - Lass uns einen Ausflug machen, damit du auf andere Gedanken kommst.
     - Sie ist ganz in Gedanken versunken.
 
 - Id: das Denkmal
@@ -4706,16 +4432,14 @@
   Form: ¨-er
   Meaning: monument, statue
   Examples:
-    - In dieser Stadt gibt es viele berühmte
-      Denkmäler.
+    - In dieser Stadt gibt es viele berühmte Denkmäler.
 
 - Id: denn
   Level: A1
   Meaning: because
   Examples:
     - Ich kann nicht kommen, denn ich bin krank.
-    - Ich lerne jetzt auch Portugiesisch, denn
-      ich möchte nach Südamerika reisen.
+    - Ich lerne jetzt auch Portugiesisch, denn ich möchte nach Südamerika reisen.
     - Wie ist das Spiel denn ausgegangen?
 
 - Id: derselbe
@@ -4723,15 +4447,13 @@
   Form: derselbe, derselbe, derselbe
   Meaning: the same
   Examples:
-    - Mein Freund und ich gehen in dieselbe
-      Schule.
+    - Mein Freund und ich gehen in dieselbe Schule.
 
 - Id: deshalb
   Level: A2
   Meaning: for that reason, that’s why
   Examples:
-    - Ich war krank. Deshalb war ich nicht
-      im Büro.
+    - Ich war krank. Deshalb war ich nicht im Büro.
 
 - Id: das Dessert
   Level: B1
@@ -4739,15 +4461,13 @@
   Synonym: = (D, A) Nachspeise
   Meaning: dessert (D-)
   Examples:
-    - Nach dem Essen gab es noch ein
-      leckeres Dessert.
+    - Nach dem Essen gab es noch ein leckeres Dessert.
 
 - Id: deswegen
   Level: B1
   Meaning: therefore, that’s why
   Examples:
-    - Ich habe falsch geparkt. Deswegen
-      habe ich einen Strafzettel bekommen.
+    - Ich habe falsch geparkt. Deswegen habe ich einen Strafzettel bekommen.
 
 - Id: das Detail
   Level: B1
@@ -4755,16 +4475,14 @@
   Meaning: details
   Examples:
     - Dieses Detail ist unwichtig.
-    - Ich habe alles bis ins kleinste
-      Detail vorbereitet.
+    - Ich habe alles bis ins kleinste Detail vorbereitet.
 
 - Id: deutlich
   Level: A2
   Meaning: clear
   Examples:
     - Sprechen Sie bitte deutlich!
-    - Können Sie das bitte deutlicher schreiben? Ich kann
-      das nicht lesen.
+    - Können Sie das bitte deutlicher schreiben? Ich kann das nicht lesen.
     - Schreiben Sie bitte deutlich!
 
 - Id: die Diät
@@ -4904,18 +4622,13 @@
   Level: B1
   Meaning: however, still
   Examples:
-    - Hast du keinen Hunger? - Doch, ich bin sehr
-      hungrig.
-    - Kannst du morgen nicht kommen? - Doch.
-      Geh doch mal wieder ins Kino!
+    - Hast du keinen Hunger? - Doch, ich bin sehr hungrig.
+    - Kannst du morgen nicht kommen? - Doch. Geh doch mal wieder ins Kino!
     - Das macht doch nichts!
-    - Isst du kein Fleisch? – Doch, manchmal
-      schon.
-    - Ich habe es mir anders überlegt. Ich
-      komme doch mit in die Stadt.
+    - Isst du kein Fleisch? – Doch, manchmal schon.
+    - Ich habe es mir anders überlegt. Ich komme doch mit in die Stadt.
     - Ihr kommt doch heute Abend?
-    - Fragen Sie doch Herrn Müller, der ist
-      Computerspezialist.
+    - Fragen Sie doch Herrn Müller, der ist Computerspezialist.
     - Ach, wenn doch schon Sonntag wäre!
 
 - Id: der Doktor
@@ -5054,16 +4767,13 @@
 
 - Id: drucken
   Level: A1
-  Form: druckt, druckte,
-    hat gedruckt
+  Form: druckt, druckte, hat gedruckt
   Meaning: to print
   Examples:
     - Bitte drucke das Formular für mich.
     - Wähle einfach „Datei drucken“!
-    - Warum hast du den Brief noch nicht
-      ausgedruckt?
-    - Bei welcher Firma haben Sie diese
-      Prospekte drucken lassen?
+    - Warum hast du den Brief noch nicht ausgedruckt?
+    - Bei welcher Firma haben Sie diese Prospekte drucken lassen?
     - Du gehst einfach auf „Datei drucken“!
 
 - Id: der Drucker
@@ -5072,21 +4782,18 @@
   Meaning: printer
   Examples:
     - Mein Drucker ist kaputt.
-    - Ich brauche einen neuen Drucker für
-      meinen Computer.
+    - Ich brauche einen neuen Drucker für meinen Computer.
 
 - Id: drücken
   Level: A1
-  Form: drückt, drückte,
-    hat gedrückt
+  Form: drückt, drückte, hat gedrückt
   Meaning: to press, push
   Examples:
     - Drück hier, dann geht der Computer an.
     - An dieser Tür musst du drücken, nicht ziehen, dann geht sie auf.
     - Drücken Sie „Bestätigen“!
     - Meine Schuhe drücken.
-    - Sie brauchen nur auf den Knopf zu
-      drücken.
+    - Sie brauchen nur auf den Knopf zu drücken.
     - Die neuen Schuhe drücken.
     - Wenn du hier drückst, geht die Tür auf.
 
@@ -5139,8 +4846,7 @@
   Meaning: announcement (radio)
   Examples:
     - Ich habe die Durchsage nicht verstanden.
-    - Sie hören eine Durchsage
-      im Radio.
+    - Sie hören eine Durchsage im Radio.
 
 - Id: der Durchschnitt
   Level: B1
@@ -5158,9 +4864,7 @@
 
 - Id: dürfen
   Level: A1
-  Form: darf, durfte,
-    hat gedurft (hat dürfen
-    als Modalverb)
+  Form: darf, durfte, hat gedurft (hat dürfen als Modalverb)
   Meaning: to be allowed
   Examples:
     - Sie dürfen hier nicht rauchen / parken.
@@ -5169,8 +4873,7 @@
     - Dürfen wir heute länger fernsehen?
     - Das hätten Sie nicht machen dürfen!
     - Was darf ich Ihnen anbieten?
-    - Ich suche ein gebrauchtes Auto. Es darf
-      nicht mehr als 1000 Euro kosten.
+    - Ich suche ein gebrauchtes Auto. Es darf nicht mehr als 1000 Euro kosten.
 
 - Id: der Durst
   Level: A1
@@ -5188,14 +4891,12 @@
 
 - Id: (sich) duschen
   Level: A1
-  Form: duscht,
-    duschte, hat geduscht
+  Form: duscht, duschte, hat geduscht
   Meaning: to have a shower
   Examples:
     - Ich bade nicht so gern, ich dusche lieber.
-    - Möchten Sie sich duschen? Das Badezimmer ist dort
-      hinten links.
-    - "Wenn Sie sich duschen wollen: Das Badezimmer ist dort hinten links."
+    - Möchten Sie sich duschen? Das Badezimmer ist dort hinten links.
+    - 'Wenn Sie sich duschen wollen: Das Badezimmer ist dort hinten links.'
 
 - Id: die Dusche
   Level: A1
@@ -5203,8 +4904,7 @@
   Meaning: shower
   Examples:
     - Unsere Wohnung hat nur eine Dusche.
-    - Wir haben leider nur noch ein Zimmer
-      mit Dusche.
+    - Wir haben leider nur noch ein Zimmer mit Dusche.
 
 - Id: duzen
   Level: B1
@@ -5454,12 +5154,9 @@
     - Die Prüfung ist ganz einfach.
     - Hin und zurück? – Nein, bitte nur einfach.
     - Ich brauche nur ein einfaches Zimmer.
-    - Ich verstehe das nicht. Kannst du es bitte einfacher
-      sagen?
-    - Hin und zurück? – Nein, bitte nur eine einfache
-      Fahrt nach Berlin.
-    - Wir haben am Wochenende einen
-      Ausflug gemacht. Es war einfach toll.
+    - Ich verstehe das nicht. Kannst du es bitte einfacher sagen?
+    - Hin und zurück? – Nein, bitte nur eine einfache Fahrt nach Berlin.
+    - Wir haben am Wochenende einen Ausflug gemacht. Es war einfach toll.
 
 - Id: die Einfahrt
   Level: B1
@@ -5547,23 +5244,19 @@
 
 - Id: einkaufen
   Level: A1
-  Form: kauft ein,
-    kaufte ein, hat eingekauft
+  Form: kauft ein, kaufte ein, hat eingekauft
   Meaning: to shop
   Examples:
     - Ich muss noch für morgen einkaufen.
-    - Wir gehen einmal pro Woche
-      einkaufen.
+    - Wir gehen einmal pro Woche einkaufen.
 
 - Id: der Einkauf
   Level: B1
   Form: ¨-e
   Meaning: shopping
   Examples:
-    - Achten Sie beim Einkauf auf
-      Sonderangebote.
-    - Ich habe alle Einkäufe erledigt. Jetzt
-      können wir einen Kaffee trinken.
+    - Achten Sie beim Einkauf auf Sonderangebote.
+    - Ich habe alle Einkäufe erledigt. Jetzt können wir einen Kaffee trinken.
 
 - Id: das Einkommen
   Level: B1
@@ -5591,9 +5284,7 @@
   Form: -en
   Meaning: introduction, induction
   Examples:
-    - Schreiben Sie eine
-      passende Einleitung und
-      einen Schluss.
+    - Schreiben Sie eine passende Einleitung und einen Schluss.
 
 - Id: einmal
   Level: A1
@@ -5602,15 +5293,12 @@
     - Diese Prüfung mache ich nicht noch einmal.
     - Rufen Sie/Ruf mich bitte morgen noch einmal an.
     - Warst du schon einmal in Paris?
-    - Ich habe diese Oper leider nur einmal
-      gesehen.
+    - Ich habe diese Oper leider nur einmal gesehen.
     - Auf einmal ging das Licht aus.
     - Ich kann nicht alles auf einmal machen.
     - Sehen wir uns (ein)mal wieder?
-    - Vor Jahren habe ich (ein)mal in Wien
-      gewohnt.
-    - Komm doch bitte (ein)mal her und hilf
-      mir.
+    - Vor Jahren habe ich (ein)mal in Wien gewohnt.
+    - Komm doch bitte (ein)mal her und hilf mir.
 
 - Id: einnehmen
   Level: B1
@@ -5852,8 +5540,7 @@
 
 - Id: empfehlen
   Level: A1
-  Form: empfiehlt,
-    empfahl, hat empfohlen
+  Form: empfiehlt, empfahl, hat empfohlen
   Meaning: to recommend
   Examples:
     - Welchen Wein können Sie mir empfehlen?
@@ -6015,16 +5702,12 @@
 
 - Id: entschuldigen
   Level: A1
-  Form: entschuldigt,
-    entschuldigte,
-    hat entschuldigt
+  Form: entschuldigt, entschuldigte, hat entschuldigt
   Meaning: to apologise
   Examples:
-    - Entschuldigen Sie bitte, dass ich Sie
-      störe. Aber es gibt ein Problem.
+    - Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.
     - Ich möchte mich bei dir entschuldigen.
-    - Herr Meier lässt sich entschuldigen, er
-      ist stark erkältet.
+    - Herr Meier lässt sich entschuldigen, er ist stark erkältet.
 
 - Id: die Entschuldigung
   Level: A1
@@ -6112,8 +5795,7 @@
   Meaning: ground floor
   Examples:
     - Ich wohne im Erdgeschoss.
-    - Unsere Wohnung befindet sich im
-      Erdgeschoss.
+    - Unsere Wohnung befindet sich im Erdgeschoss.
 
 - Id: das Ereignis
   Level: B1
@@ -6243,17 +5925,13 @@
 
 - Id: erinnern
   Level: A2
-  Form: erinnert,
-    erinnerte, hat erinnert
+  Form: erinnert, erinnerte, hat erinnert
   Meaning: to remember
   Examples:
     - Erinnerst du dich an José? - Nein, ich erinnere mich nicht an ihn, tut mir leid.
-    - Kannst du mich morgen bitte an meinen Arzttermin
-      erinnern?
-    - Bitte, erinnern Sie mich noch einmal an
-      den Termin.
-    - Ich erinnere mich noch genau an
-      Francescos Vater.
+    - Kannst du mich morgen bitte an meinen Arzttermin erinnern?
+    - Bitte, erinnern Sie mich noch einmal an den Termin.
+    - Ich erinnere mich noch genau an Francescos Vater.
 
 - Id: die Erinnerung
   Level: B1
@@ -6516,8 +6194,7 @@
 
 - Id: essen
   Level: A1
-  Form: isst, aß,
-    hat gegessen
+  Form: isst, aß, hat gegessen
   Meaning: to eat
   Examples:
     - Was gibt es heute zu essen?
@@ -6566,12 +6243,9 @@
   Examples:
     - Ich muss dir etwas erzählen!
     - Haben Sie etwas zum Schreiben?
-    - Ich habe leider nur Tee. Etwas anderes kann ich dir
-      leider nicht anbieten.
-    - Ich habe nur Tee. Etwas anderes kann
-      ich Ihnen leider nicht anbieten.
-    - Wollen wir mit dem Nachtisch noch
-      etwas warten?
+    - Ich habe leider nur Tee. Etwas anderes kann ich dir leider nicht anbieten.
+    - Ich habe nur Tee. Etwas anderes kann ich Ihnen leider nicht anbieten.
+    - Wollen wir mit dem Nachtisch noch etwas warten?
     - So etwas habe ich noch nie gehört.
     - Ich habe etwas Gutes für dich gekocht.
 
@@ -6654,13 +6328,11 @@
 
 - Id: fahren
   Level: A1
-  Form: fährt, fuhr, ist/hat
-    gefahren
+  Form: fährt, fuhr, ist/hat gefahren
   Meaning: to drive
   Examples:
     - Ich fahre mit dem Auto zur Arbeit.
-    - Achtung an Gleis 17! Der Zug München - Paris fährt
-      jetzt ab.
+    - Achtung an Gleis 17! Der Zug München - Paris fährt jetzt ab.
     - Wir sind mit dem Zug gefahren.
     - Fahr nicht so schnell.
     - Frau Koch fährt einen Mercedes.
@@ -6672,8 +6344,7 @@
   Form: -n
   Meaning: ferry
   Examples:
-    - Wir nehmen die Fähre über den
-      Bodensee.
+    - Wir nehmen die Fähre über den Bodensee.
 
 - Id: die Fahrbahn
   Level: B1
@@ -6692,7 +6363,7 @@
 - Id: die Fahrkarte
   Level: A1
   Form: ¨-e
-  Meaning: ticket
+  Meaning: ticket (for transport)
   Examples:
     - example1
 
@@ -6762,7 +6433,7 @@
 - Id: falsch
   Level: A1
   Form: ¨-e
-  Meaning: 'false'
+  Meaning: false
   Examples:
     - example1
 
@@ -7197,10 +6868,8 @@
   Level: A2
   Meaning: diligent, industrious, hardworking
   Examples:
-    - Ibrahim ist sehr fleißig. Er macht immer seine
-      Hausaufgaben.
-    - Pamela ist wirklich fleißig. Sie macht
-      immer ihre Hausaufgaben.
+    - Ibrahim ist sehr fleißig. Er macht immer seine Hausaufgaben.
+    - Pamela ist wirklich fleißig. Sie macht immer ihre Hausaufgaben.
 
 - Id: flexibel
   Level: B1
@@ -7211,16 +6880,14 @@
 
 - Id: fliegen
   Level: A1
-  Form: fliegt, flog,
-    ist geflogen
+  Form: fliegt, flog, ist geflogen
   Meaning: to fly
   Examples:
     - Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.
     - Ich fliege in den Ferien nach Spanien.
     - Wann fliegst du ab?
     - Der Vogel ist auf einen Baum geflogen.
-    - Diese Maschine fliegt direkt nach New
-      York.
+    - Diese Maschine fliegt direkt nach New York.
     - Ich bin nach Berlin geflogen.
 
 - Id: fliehen
@@ -7271,8 +6938,7 @@
   Meaning: flight
   Examples:
     - Ich möchte einen Flug nach Kanada buchen.
-    - Der Flug LH123 von München nach Frankfurt ist
-      um 21:00 Uhr.
+    - Der Flug LH123 von München nach Frankfurt ist um 21:00 Uhr.
     - Ich habe den Flug für Sie gebucht.
 
 - Id: der Flughafen
@@ -7281,8 +6947,7 @@
   Meaning: airport
   Examples:
     - Kannst du mich zum Flughafen bringen?
-    - Der Flughafen liegt 30 km außerhalb
-      der Stadt.
+    - Der Flughafen liegt 30 km außerhalb der Stadt.
 
 - Id: das Flugzeug
   Level: A1
@@ -7291,8 +6956,7 @@
   Examples:
     - Das Flugzeug aus Berlin kommt heute später an.
     - Das Flugzeug aus Berlin hat Verspätung.
-    - Das Flugzeug startet in einer halben Stunde. Wir
-      müssen uns beeilen.
+    - Das Flugzeug startet in einer halben Stunde. Wir müssen uns beeilen.
     - Das Flugzeug ist gerade gelandet.
 
 - Id: der Flur
@@ -7342,8 +7006,7 @@
   Form: -n
   Meaning: background, foil
   Examples:
-    - Dazu finden Sie hier fünf
-      Folien.
+    - Dazu finden Sie hier fünf Folien.
 
 - Id: fordern
   Level: B1
@@ -7431,9 +7094,7 @@
 
 - Id: fotografieren
   Level: A2
-  Form: fotografiert,
-    fotografierte,
-    hat fotografiert
+  Form: fotografiert, fotografierte, hat fotografiert
   Meaning: to photograph
   Examples:
     - Ich fotografiere gern.
@@ -7458,8 +7119,7 @@
   Form: -en
   Meaning: photographer
   Examples:
-    - Die Fotografin hat sehr schöne Fotos
-      gemacht.
+    - Die Fotografin hat sehr schöne Fotos gemacht.
 
 - Id: die Fotografie
   Level: B1
@@ -7470,8 +7130,7 @@
 
 - Id: fragen
   Level: A1
-  Form: fragt, fragte,
-    hat gefragt
+  Form: fragt, fragte, hat gefragt
   Meaning: to ask
   Examples:
     - Er möchte Sie etwas fragen. Wann kommen Sie?
@@ -7487,8 +7146,7 @@
   Meaning: question
   Examples:
     - Ich habe eine Frage.
-    - Ich habe Ihre Frage leider nicht
-      verstanden.
+    - Ich habe Ihre Frage leider nicht verstanden.
     - Das kommt gar nicht infrage!
 
 - Id: die Frau
@@ -7547,13 +7205,6 @@
   Examples:
     - example1
 
-- Id: die Fremdsprache
-  Level: B1
-  Form: ¨-e
-  Meaning: foreign language
-  Examples:
-    - example1
-
 - Id: fressen
   Level: B1
   Form: ¨-e
@@ -7563,18 +7214,13 @@
 
 - Id: sich freuen
   Level: A1
-  Form: freut sich,
-    freute sich,
-    hat sich gefreut
+  Form: freut sich, freute sich, hat sich gefreut
   Meaning: to be glad
   Examples:
     - Ich freue mich auf den Urlaub.
-    - Zum Geburtstag habe ich ein interessantes Buch
-      bekommen. Ich freue mich sehr über das Geschenk.
-    - Es freut mich, dass alles so gut
-      geklappt hat.
-    - Ich habe mich über Ihr Geschenk sehr
-      gefreut.
+    - Zum Geburtstag habe ich ein interessantes Buch bekommen. Ich freue mich sehr über das Geschenk.
+    - Es freut mich, dass alles so gut geklappt hat.
+    - Ich habe mich über Ihr Geschenk sehr gefreut.
     - Ich freue mich schon auf meinen nächsten Urlaub.
 
 - Id: die Freude
@@ -7653,8 +7299,7 @@
   Examples:
     - Ich bin froh, dass du kommen kannst.
     - Frohes Fest!
-    - Ich bin froh, dass alles so gut geklappt
-      hat.
+    - Ich bin froh, dass alles so gut geklappt hat.
 
 - Id: fröhlich
   Level: B1
@@ -7687,9 +7332,7 @@
 
 - Id: frühstücken
   Level: A1
-  Form: frühstückt,
-    frühstückte,
-    hat gefrühstückt
+  Form: frühstückt, frühstückte, hat gefrühstückt
   Meaning: to have breakfast
   Examples:
     - Am Sonntag frühstücke ich gern im Bett.
@@ -7704,8 +7347,7 @@
     - Möchtest du ein Ei zum Frühstück?
     - Möchtest du ein Ei zum Frühstück?
     - Wir sitzen gerade beim Frühstück.
-    - Sollen wir Ihnen das Frühstück aufs
-      Zimmer bringen?
+    - Sollen wir Ihnen das Frühstück aufs Zimmer bringen?
 
 - Id: fühlen
   Level: B1
@@ -7912,16 +7554,14 @@
 
 - Id: geben
   Level: A1
-  Form: gibt, gab,
-    hat gegeben
+  Form: gibt, gab, hat gegeben
   Meaning: to give
   Examples:
     - Kannst du mir bitte deinen Kugelschreiber geben?
     - Es gibt keine Karten mehr für das Konzert.
     - Kannst du mir mal deinen Stift geben?
     - Geben Sie mir bitte eine Quittung!
-    - Können Sie mir etwas zum Schreiben
-      geben?
+    - Können Sie mir etwas zum Schreiben geben?
     - Der Arzt hat mir eine Spritze gegeben.
     - Was gibt es im Fernsehen?
     - Es gibt bald Regen.
@@ -7980,8 +7620,7 @@
   Form: -en
   Meaning: birth
   Examples:
-    - Wir gratulieren zur Geburt eures
-      Kindes!
+    - Wir gratulieren zur Geburt eures Kindes!
 
 - Id: das Geburtsjahr
   Level: A1
@@ -8154,8 +7793,7 @@
 
 - Id: gehen
   Level: A1
-  Form: geht, ging,
-    ist gegangen
+  Form: geht, ging, ist gegangen
   Meaning: to go
   Examples:
     - Ich weiß nicht, wie das geht.
@@ -8163,19 +7801,14 @@
     - Jetzt muss ich (aber) leider gehen.
     - Ich muss zum Arzt gehen.
     - Das geht (doch) nicht!
-    - Ich gehe jeden Morgen zu Fuß zur
-      Arbeit.
-    - Meine Tochter geht noch aufs
-      Gymnasium.
+    - Ich gehe jeden Morgen zu Fuß zur Arbeit.
+    - Meine Tochter geht noch aufs Gymnasium.
     - Ein Freund von mir geht ins Ausland.
-    - Der nächste Zug geht erst in zwei
-      Stunden.
+    - Der nächste Zug geht erst in zwei Stunden.
     - Am Anfang ging alles ganz gut.
     - Geht Ihre Uhr richtig?
-    - Geht das bis morgen? – Nein, das geht
-      nicht. Ich brauche mehr Zeit.
-    - Der Mantel geht nicht mehr in den
-      Koffer.
+    - Geht das bis morgen? – Nein, das geht nicht. Ich brauche mehr Zeit.
+    - Der Mantel geht nicht mehr in den Koffer.
     - Das Fenster geht auf die Straße.
     - Geht es hier zum Zentrum?
     - Wie geht es Ihnen heute?
@@ -8205,8 +7838,7 @@
     - Hast du noch Geld?
     - Kannst du mir ein bisschen Geld leihen?
     - Ich habe nicht genug Geld dabei.
-    - Sie haben mir zu viel Wechselgeld
-      gegeben.
+    - Sie haben mir zu viel Wechselgeld gegeben.
 
 - Id: der Geldautomat
   Level: B1
@@ -8303,8 +7935,7 @@
   Level: A2
   Meaning: enough
   Examples:
-    - Es ist noch genug Pizza da. Möchtest du noch
-      ein Stück?
+    - Es ist noch genug Pizza da. Möchtest du noch ein Stück?
     - Ich verdiene nicht genug.
     - Ich habe jetzt lange genug gewartet.
 
@@ -8409,17 +8040,17 @@
 - Id: geschieden
   Level: B1
   Form: ¨-e
-  Meaning: divorced
+  Meaning: separated, divorced
   Examples:
-    - example1
+    - Ich bin seit drei Jahren geschieden.
+    - Meine Kollegin ist geschieden.
 
 - Id: das Geschirr
   Level: A2
   Form: -e
   Meaning: crockery, dishes, tablewares
   Examples:
-    - Für die Geburtstagsfeier brauche ich
-      Geschirr für zwölf Personen.
+    - Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.
     - Stellst du bitte das Geschirr in den Schrank?
 
 - Id: das Geschlecht
@@ -8706,13 +8337,10 @@
   Form: (Sg.)
   Meaning: luck
   Examples:
-    - Du hast dich nicht verletzt. Da hast du
-      Glück gehabt.
+    - Du hast dich nicht verletzt. Da hast du Glück gehabt.
     - Viel Glück bei der Prüfung!
-    - Es hat geregnet. Zum Glück hatte ich
-      einen Regenschirm dabei.
-    - Oh, es regnet. Zum Glück habe ich meinen
-      Schirm dabei.
+    - Es hat geregnet. Zum Glück hatte ich einen Regenschirm dabei.
+    - Oh, es regnet. Zum Glück habe ich meinen Schirm dabei.
 
 - Id: glücklich
   Level: A1
@@ -8720,10 +8348,8 @@
   Examples:
     - Meine Kinder sind glücklich verheiratet.
     - Ein glückliches neues Jahr!
-    - Meine Schwester hat geheiratet und ist
-      sehr glücklich.
-    - Ich wünsche Ihnen ein glückliches
-      neues Jahr.
+    - Meine Schwester hat geheiratet und ist sehr glücklich.
+    - Ich wünsche Ihnen ein glückliches neues Jahr.
     - Ich bin glücklich verheiratet.
 
 - Id: der Glückwunsch
@@ -8841,8 +8467,7 @@
     - Wir haben einen großen Garten.
     - Wie groß sind Sie?
     - Die Jacke ist mir zu groß.
-    - Wenn die Kinder groß sind, haben wir
-      wieder mehr Zeit.
+    - Wenn die Kinder groß sind, haben wir wieder mehr Zeit.
     - Ich habe keinen großen Hunger.
 
 - Id: die Größe
@@ -8986,8 +8611,7 @@
   Form: '-'
   Meaning: chicken meat (hen)
   Examples:
-    - Zum Mittagessen gibt es Hühnchen mit
-      Reis.
+    - Zum Mittagessen gibt es Hühnchen mit Reis.
 
 - Id: halb
   Level: B1
@@ -9136,10 +8760,8 @@
   Examples:
     - In der Schule bitte die Handys ausmachen!
     - Kannst du mir bitte deine Handynummer geben?
-    - Ich habe kein Festnetztelefon, aber ein
-      Handy.
-    - Soll ich Ihnen meine Handynummer
-      geben?
+    - Ich habe kein Festnetztelefon, aber ein Handy.
+    - Soll ich Ihnen meine Handynummer geben?
 
 - Id: hängen
   Level: B1
@@ -9221,21 +8843,16 @@
   Form: -en
   Meaning: housewife
   Examples:
-    - Die Hausfrau wäscht, kocht und kauft
-      ein.
-    - Meine Frau ist Hausfrau und kümmert
-      sich um die Kinder.
+    - Die Hausfrau wäscht, kocht und kauft ein.
+    - Meine Frau ist Hausfrau und kümmert sich um die Kinder.
 
 - Id: der Hausmann
   Level: A1
   Form: ¨-er
   Meaning: househusband
   Examples:
-    - Der Hausmann wäscht, kocht und kauft
-      ein.
-    - Mein Mann ist
-      Hausmann und kümmert sich um die
-      Kinder.
+    - Der Hausmann wäscht, kocht und kauft ein.
+    - Mein Mann ist Hausmann und kümmert sich um die Kinder.
 
 - Id: der Haushalt
   Level: A1
@@ -9247,14 +8864,13 @@
 - Id: der Hausmeister
   Level: B1
   Form: '-'
+  Synonym: (D, A) = (CH) Abwart
   Feminine:
     Id: die Hausmeisterin
     Form: -nen
-  Synonym: (D, A) = (CH) Abwart
   Meaning: caretaker
   Examples:
-    - Der Hausmeister hat mir geholfen, den
-      Schrank in die Wohnung zu tragen.
+    - Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen.
 
 - Id: das Haustier
   Level: B1
@@ -9335,14 +8951,12 @@
 
 - Id: heißen
   Level: A1
-  Form: heißt, hieß,
-    hat geheißen
+  Form: heißt, hieß, hat geheißen
   Meaning: to be called
   Examples:
     - Ich heiße Charlotte Meier.
     - Wie heißt das auf Deutsch?
-    - Die Erklärung verstehe ich nicht. Was
-      heißt das?
+    - Die Erklärung verstehe ich nicht. Was heißt das?
 
 - Id: das heißt
   Level: A2
@@ -9375,14 +8989,12 @@
 
 - Id: helfen
   Level: A1
-  Form: hilft, half,
-    hat geholfen
+  Form: hilft, half, hat geholfen
   Meaning: to help
   Examples:
     - Können Sie mir helfen, bitte?
     - Würden Sie mir bitte helfen?
-    - Kannst du mir helfen? Ich muss
-      nächsten Monat umziehen.
+    - Kannst du mir helfen? Ich muss nächsten Monat umziehen.
     - Die Tabletten haben mir gut geholfen.
 
 - Id: die Hilfe
@@ -9394,11 +9006,8 @@
     - Brauchen Sie meine Hilfe?
     - Er bekommt Hilfe von Freunden.
     - Vielen Dank für Ihre Hilfe.
-    - Haben Sie einen Kurs für Erste Hilfe
-      gemacht? Das müssen Sie, wenn Sie
-      den Führerschein machen wollen.
-    - Hilfe! Jemand hat mir die Handtasche
-      gestohlen. Bitte helfen Sie mir!
+    - Haben Sie einen Kurs für Erste Hilfe gemacht? Das müssen Sie, wenn Sie den Führerschein machen wollen.
+    - Hilfe! Jemand hat mir die Handtasche gestohlen. Bitte helfen Sie mir!
 
 - Id: hell
   Level: A1
@@ -9407,10 +9016,8 @@
     - Im Sommer ist es bis 21 Uhr hell.
     - Mein Zimmer ist sehr / schön hell.
     - Haben Sie das T-Shirt auch in hellblau?
-    - Im Sommer wird es um 5 Uhr schon
-      hell.
-    - Ich habe mir einen hellblauen Pullover
-      gekauft.
+    - Im Sommer wird es um 5 Uhr schon hell.
+    - Ich habe mir einen hellblauen Pullover gekauft.
 
 - Id: das Hemd
   Level: B1
@@ -9484,32 +9091,25 @@
 
 - Id: herunterladen
   Level: A2
-  Form: lädt
-    herunter, lud herunter,
-    hat heruntergeladen
+  Form: lädt herunter, lud herunter, hat heruntergeladen
   Meaning: to download
   Examples:
     - Er lädt die Musik aus dem Internet herunter.
-    - Ich habe mir Musik aus dem Internet
-      heruntergeladen.
+    - Ich habe mir Musik aus dem Internet heruntergeladen.
 
 - Id: herunterfahren
   Level: B1
-  Form: fährt
-    herunter, fuhr herunter,
-    hat heruntergefahren
+  Form: fährt herunter, fuhr herunter, hat heruntergefahren
   Meaning: to come down, drive down, shot down
   Examples:
-    - Zum Schluss musst du den Computer
-      herunterfahren.
+    - Zum Schluss musst du den Computer herunterfahren.
 
 - Id: das Herz
   Level: B1
   Form: -en
   Meaning: heart
   Examples:
-    - Ich bin ganz nervös. Mir klopft das
-      Herz.
+    - Ich bin ganz nervös. Mir klopft das Herz.
     - Wir müssen Ihr Herz untersuchen.
 
 - Id: herzlich
@@ -9524,14 +9124,10 @@
   Examples:
     - Heute ist ein schöner Tag.
     - Heute muss ich nur bis 16 Uhr arbeiten.
-    - Heute kann ich etwas früher nach
-      Hause gehen.
-    - Ab heute bleibt unser Büro
-      nachmittags geschlossen.
-    - Frau Müller kommt heute in acht Tagen
-      zurück.
-    - Heute kann man sich eine Welt ohne
-      Internet nicht mehr vorstellen.
+    - Heute kann ich etwas früher nach Hause gehen.
+    - Ab heute bleibt unser Büro nachmittags geschlossen.
+    - Frau Müller kommt heute in acht Tagen zurück.
+    - Heute kann man sich eine Welt ohne Internet nicht mehr vorstellen.
 
 - Id: heutig-
   Level: B1
@@ -9651,8 +9247,7 @@
   Meaning: hobby
   Examples:
     - Meine Hobbys sind Wandern und Schwimmen.
-    - Ich habe keine Zeit mehr für meine
-      Hobbys.
+    - Ich habe keine Zeit mehr für meine Hobbys.
 
 - Id: hoch
   Level: A1
@@ -9670,12 +9265,10 @@
 
 - Id: hochladen
   Level: B1
-  Form: lädt hoch,
-    lud hoch, hat hochgeladen
+  Form: lädt hoch, lud hoch, hat hochgeladen
   Meaning: to upload
   Examples:
-    - Kannst du bitte die Datei für die
-      Hausaufgabe hochladen?
+    - Kannst du bitte die Datei für die Hausaufgabe hochladen?
 
 - Id: höchstens
   Level: B1
@@ -9690,8 +9283,7 @@
   Meaning: wedding
   Examples:
     - Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
-    - Claudia und Peter wollen ihre Hochzeit
-      groß feiern.
+    - Claudia und Peter wollen ihre Hochzeit groß feiern.
 
 - Id: der Hof
   Level: B1
@@ -9754,8 +9346,7 @@
   Form: -s
   Meaning: homepage
   Examples:
-    - Auf der Homepage von Freiburg gibt es alle
-      wichtigen Informationen über die Stadt.
+    - Auf der Homepage von Freiburg gibt es alle wichtigen Informationen über die Stadt.
     - Kennst du eine Homepage mit Deutschübungen?
 
 - Id: der Honig
@@ -9775,8 +9366,7 @@
     - Ich kann nicht mehr so gut hören.
     - Ich höre jeden Tag die Nachrichten.
     - Dieses Wort habe ich noch nie gehört.
-    - Ich habe gehört, dass Herr Müller im
-      Krankenhaus liegt.
+    - Ich habe gehört, dass Herr Müller im Krankenhaus liegt.
 
 - Id: der Hörer
   Level: B1
@@ -9827,8 +9417,7 @@
   Examples:
     - Ich habe Hunger! Wann ist das Essen fertig?
     - Ich habe Hunger! Wann können wir endlich essen?
-    - Möchtest du Suppe? – Nein danke, ich
-      habe keinen Hunger.
+    - Möchtest du Suppe? – Nein danke, ich habe keinen Hunger.
 
 - Id: hungrig
   Level: B1
@@ -10017,8 +9606,7 @@
   Meaning: internet
   Examples:
     - Das findest du im Internet.
-    - Du kannst im Internet Musik hören oder Spiele
-      spielen.
+    - Du kannst im Internet Musik hören oder Spiele spielen.
 
 - Id: die Insel
   Level: B1
@@ -10106,25 +9694,20 @@
 
 - Id: interessieren
   Level: A2
-  Form: interessiert,
-    interessierte,
-    hat interessiert
+  Form: interessiert, interessierte, hat interessiert
   Meaning: to have interest
   Examples:
     - Ich interessiere mich sehr für Fußball.
     - Den Artikel über Brasilien finde ich sehr interessant.
-    - Das Thema Kindererziehung
-      interessiert mich sehr.
+    - Das Thema Kindererziehung interessiert mich sehr.
 
 - Id: interessant
   Level: A2
   Meaning: interesting
   Examples:
     - Ich lese gerade ein interessantes Buch.
-    - Ich habe einen interessanten Bericht
-      gelesen.
-    - Den Artikel über Brasilien finde ich
-      sehr interessant.
+    - Ich habe einen interessanten Bericht gelesen.
+    - Den Artikel über Brasilien finde ich sehr interessant.
 
 - Id: das Interesse
   Level: A2
@@ -10137,8 +9720,7 @@
   Level: B1
   Meaning: interested
   Examples:
-    - Mein Nachbar zieht nächsten Monat
-      aus. Sind Sie noch an der Wohnung interessiert?
+    - Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?
 
 - Id: interkulturell
   Level: B1
@@ -10295,11 +9877,8 @@
     - Ich muss jetzt gehen.
     - Bis jetzt hat alles gut geklappt.
     - Ab jetzt werde ich wieder öfter ins Fitness-Studio gehen.
-    - Ich habe jetzt schon dreimal bei
-      meinem Bruder angerufen. Aber er ist
-      nie da.
-    - Über viele Dinge denke ich jetzt
-      anders als früher.
+    - Ich habe jetzt schon dreimal bei meinem Bruder angerufen. Aber er ist nie da.
+    - Über viele Dinge denke ich jetzt anders als früher.
 
 - Id: jeweils
   Level: B1
@@ -10325,7 +9904,7 @@
 
 - Id: joggen
   Level: A2
-  Form:  joggt, joggte, hat gejoggt
+  Form: joggt, joggte, hat gejoggt
   Meaning: to jog
   Examples:
     - Ich jogge gern im Park.
@@ -10393,10 +9972,9 @@
   Examples:
     - Zum Frühstück trinke ich immer Kaffee.
     - Einen Kaffee, bitte.
-    - Bring bitte noch eine Packung Kaffee
-      mit.
+    - Bring bitte noch eine Packung Kaffee mit.
     - Wir sind bei Müllers zum Kaffee eingeladen.
-    -
+    - 
 
 - Id: der Kakao
   Level: B1
@@ -10529,20 +10107,15 @@
   Form: -n
   Meaning: card, menu, ticket, map
   Examples:
-    - Ich schreibe meinen Bekannten eine Karte aus dem
-      Urlaub.
+    - Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.
     - Wollen wir Karten spielen?
-    - Ich möchte auch etwas essen. Bringen Sie mir die Karte,
-      bitte.
-    - Du musst noch die Karten für das Konzert abholen,
-      vergiss das bitte nicht!
+    - Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.
+    - Du musst noch die Karten für das Konzert abholen, vergiss das bitte nicht!
     - Die Karte, bitte! Ich möchte etwas bestellen.
     - Kann ich auch mit Karte bezahlen?
-    - Schreibst du mir eine Karte aus dem
-      Urlaub?
+    - Schreibst du mir eine Karte aus dem Urlaub?
     - Diese Karte gilt nur für die 2. Klasse.
-    - Hast du schon die Karten für das
-      Konzert abgeholt?
+    - Hast du schon die Karten für das Konzert abgeholt?
     - Haben Sie eine Karte von Norddeutschland?
     - Herr Ober, bitte die Speisekarte.
     - Spielen Sie Karten?
@@ -10551,13 +10124,6 @@
   Level: B1
   Form: ¨-e
   Meaning: chipcard, smart card
-  Examples:
-    - example1
-
-- Id: die Fahrkarte
-  Level: A1
-  Form: ¨-e
-  Meaning: ticket (for transport)
   Examples:
     - example1
 
@@ -10650,8 +10216,7 @@
     - Ich habe keine Kinder.
     - Ich habe leider heute keine Zeit.
     - Jetzt habe ich noch keinen Hunger.
-    - Was für ein Auto haben Sie? – Ich habe
-      keins.
+    - Was für ein Auto haben Sie? – Ich habe keins.
 
 - Id: der Keller
   Level: B1
@@ -10669,16 +10234,12 @@
 
 - Id: kennen
   Level: A1
-  Form: kennt, kannte,
-    hat gekannt
+  Form: kennt, kannte, hat gekannt
   Meaning: to know
   Examples:
-    - Kennen Sie hier in der Nähe ein
-      gemütliches Café?
-    - Kennen Sie diese Frau? – Nein, leider
-      nicht.
-    - Kennen Sie Berlin? – Ja, eine tolle
-      Stadt.
+    - Kennen Sie hier in der Nähe ein gemütliches Café?
+    - Kennen Sie diese Frau? – Nein, leider nicht.
+    - Kennen Sie Berlin? – Ja, eine tolle Stadt.
 
 - Id: kennenlernen
   Level: A1
@@ -10871,8 +10432,7 @@
   Examples:
     - Eltville ist eine kleine Stadt am Rhein.
     - Unsere Wohnung ist sehr klein.
-    - Unsere Tochter ist noch klein. Sie ist erst zwei
-      Jahre alt.
+    - Unsere Tochter ist noch klein. Sie ist erst zwei Jahre alt.
     - Wir machen am Wochenende einen kleinen Ausflug.
 
 - Id: klettern
@@ -10958,8 +10518,7 @@
   Meaning: club (K-)
   Examples:
     - Gibt es hier einen Tennis-Klub?
-    - Ich möchte gern tanzen gehen. Wo gibt es hier
-      einen Klub mit guter Musik?
+    - Ich möchte gern tanzen gehen. Wo gibt es hier einen Klub mit guter Musik?
 
 - Id: klug
   Level: B1
@@ -11012,15 +10571,13 @@
 
 - Id: kochen
   Level: A1
-  Form: kocht, kochte,
-    hat gekocht
+  Form: kocht, kochte, hat gekocht
   Meaning: to cook
   Examples:
     - Herr Georgi kann gut kochen.
     - Ich koche gern.
     - Das Wasser kocht.
-    - Der Reis muss etwa 20 Minuten
-      kochen.
+    - Der Reis muss etwa 20 Minuten kochen.
 
 - Id: der Koch
   Level: B1
@@ -11030,8 +10587,7 @@
     Form: -nen
   Meaning: cook
   Examples:
-    - Ein Freund von mir ist Koch in einem
-      teuren Restaurant.
+    - Ein Freund von mir ist Koch in einem teuren Restaurant.
 
 - Id: der Koffer
   Level: A1
@@ -11063,32 +10619,27 @@
 
 - Id: kommen
   Level: A1
-  Form: kommt, kam,
-    ist gekommen
+  Form: kommt, kam, ist gekommen
   Meaning: to come
   Examples:
     - Woher kommen Sie? – Aus Frankreich.
     - Kommst du mit ins Schwimmbad?
     - Er wird bald kommen.
-    - Wir gehen heute Abend ins Konzert.
-      Kommen Sie auch?
+    - Wir gehen heute Abend ins Konzert. Kommen Sie auch?
     - Kommen Sie doch mal wieder zu uns.
     - Wenn Sie mal nach Köln kommen, besuchen Sie uns.
     - Steffi kommt im Herbst in die Schule.
     - Die Straßenbahn muss gleich kommen.
     - Wer kommt als Nächster dran?
-    - Die Handtücher kommen in den
-      Schrank.
-    - Wie sind Sie denn auf diese Idee
-      gekommen?
+    - Die Handtücher kommen in den Schrank.
+    - Wie sind Sie denn auf diese Idee gekommen?
 
 - Id: der Kommentar
   Level: B1
   Form: -e
   Meaning: commentary
   Examples:
-    - Sie lesen Kommentare zu
-      einem Artikel.
+    - Sie lesen Kommentare zu einem Artikel.
 
 - Id: die Kommunikation
   Level: B1
@@ -11148,24 +10699,17 @@
 
 - Id: können
   Level: A1
-  Form: kann, konnte,
-    hat gekonnt (hat können
-    als Modalverb)
+  Form: kann, konnte, hat gekonnt (hat können als Modalverb)
   Meaning: to be able to
   Examples:
     - Ich kann Deutsch und Russisch.
     - Können Sie mir helfen?
-    - Ich kann Deutsch und Russisch. Aber Englisch kann
-      ich nicht.
-    - Ich kann den schweren Koffer nicht
-      tragen.
-    - Sie können mit dem Bus zum Bahnhof
-      fahren.
+    - Ich kann Deutsch und Russisch. Aber Englisch kann ich nicht.
+    - Ich kann den schweren Koffer nicht tragen.
+    - Sie können mit dem Bus zum Bahnhof fahren.
     - Kann ich jetzt nach Hause gehen?
-    - Ich kann sehr gut Englisch und
-      Deutsch.
-    - Es kann sein, dass es heute noch
-      regnet.
+    - Ich kann sehr gut Englisch und Deutsch.
+    - Es kann sein, dass es heute noch regnet.
 
 - Id: das Konsulat
   Level: B1
@@ -11302,21 +10846,18 @@
 
 - Id: kosten
   Level: A1
-  Form: kostet, kostete,
-    hat gekostet
+  Form: kostet, kostete, hat gekostet
   Meaning: to cost
   Examples:
     - Wie viel kostet das Buch? – 20 Euro.
-    - Eine Wohnung zu finden, kostet viel
-      Zeit.
+    - Eine Wohnung zu finden, kostet viel Zeit.
 
 - Id: die Kosten
   Level: B1
   Form: (Pl.)
   Meaning: costs
   Examples:
-    - Die Kosten für die Reise bekomme ich
-      von der Firma.
+    - Die Kosten für die Reise bekomme ich von der Firma.
 
 - Id: kostenlos
   Level: A2
@@ -11353,8 +10894,7 @@
     Form: -s
   Meaning: motor vehicle
   Examples:
-    - Auf dieser Straße sind Kraftfahrzeuge
-      nicht erlaubt.
+    - Auf dieser Straße sind Kraftfahrzeuge nicht erlaubt.
 
 - Id: das Kraftwerk
   Level: B1
@@ -11367,11 +10907,9 @@
   Level: A1
   Meaning: ill, sick
   Examples:
-    - Ich kann heute nicht zur Arbeit kommen, ich bin krank
-      und liege im Bett.
+    - Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.
     - Ich war zwei Wochen krank.
-    - Ich muss mich um meine kranke
-      Großmutter kümmern.
+    - Ich muss mich um meine kranke Großmutter kümmern.
 
 - Id: der Kranke
   Level: B1
@@ -11389,8 +10927,7 @@
   Meaning: hospital
   Examples:
     - Meine Tante ist im Krankenhaus.
-    - Er hat sich verletzt und musste ins
-      Krankenhaus.
+    - Er hat sich verletzt und musste ins Krankenhaus.
 
 - Id: die Krankenkasse
   Level: A2
@@ -11407,8 +10944,7 @@
     Form: -nen
   Meaning: nurse
   Examples:
-    - Mein Bruder arbeitet als
-      Krankenpfleger im Krankenhaus.
+    - Mein Bruder arbeitet als Krankenpfleger im Krankenhaus.
 
 - Id: die Krankenschwester
   Level: B1
@@ -11422,8 +10958,7 @@
   Form: '-'
   Meaning: ambulance
   Examples:
-    - Wir mussten einen Krankenwagen
-      rufen.
+    - Wir mussten einen Krankenwagen rufen.
 
 - Id: die Krankheit
   Level: A2
@@ -11431,10 +10966,8 @@
   Meaning: illness
   Examples:
     - Welche Krankheit hat Herr Brandner?
-    - Gegen welche Krankheiten sollte ich
-      mich impfen lassen?
-    - Was für eine Krankheit hat Herr
-      Brandner?
+    - Gegen welche Krankheiten sollte ich mich impfen lassen?
+    - Was für eine Krankheit hat Herr Brandner?
 
 - Id: kreativ
   Level: B1
@@ -11683,15 +11216,11 @@
   Examples:
     - Ricardo hat kurzes Haar.
     - Kann ich Sie kurz sprechen?
-    - Kurz vor 8 Uhr hat das Telefon
-      geklingelt.
-    - Mein Mann ist kurz nach mir
-      gekommen.
-    - Ich bin vor Kurzem nach München
-      gezogen.
+    - Kurz vor 8 Uhr hat das Telefon geklingelt.
+    - Mein Mann ist kurz nach mir gekommen.
+    - Ich bin vor Kurzem nach München gezogen.
     - Ich wohne seit Kurzem in München.
-    - Ich habe das Kleid kürzer machen
-      lassen.
+    - Ich habe das Kleid kürzer machen lassen.
 
 - Id: kürzlich
   Level: B1
@@ -11730,13 +11259,11 @@
 
 - Id: lachen
   Level: A1
-  Form: lacht, lachte, hat
-    gelacht
+  Form: lacht, lachte, hat gelacht
   Meaning: to laugh
   Examples:
     - Die Kinder lachen viel.
-    - Die Kinder haben über den Witz
-      gelacht.
+    - Die Kinder haben über den Witz gelacht.
     - Lachen ist gesund.
     - Wir haben viel gelacht.
 
@@ -11810,10 +11337,8 @@
     - Die Jeans ist zu lang.
     - Die Hose ist zu lang. Können Sie sie ändern?
     - Der Teppich ist 3 m lang und 2 m breit.
-    - Meine Schwester hat mir einen langen
-      Brief geschrieben.
-    - Die Hose ist zu lang. Können Sie sie
-      kürzer machen?
+    - Meine Schwester hat mir einen langen Brief geschrieben.
+    - Die Hose ist zu lang. Können Sie sie kürzer machen?
 
 - Id: die Länge
   Level: B1
@@ -11827,18 +11352,13 @@
   Meaning: for a long time
   Examples:
     - Wie lange fährt der Zug von Hamburg nach Berlin?
-    - Wie lange dauert die Fahrt von
-      Hamburg nach Berlin?
-    - Wie lange bist du schon in
-      Deutschland?
+    - Wie lange dauert die Fahrt von Hamburg nach Berlin?
+    - Wie lange bist du schon in Deutschland?
     - Wartest du schon lange?
-    - Wir sind noch lange nicht fertig mit
-      der Arbeit.
+    - Wir sind noch lange nicht fertig mit der Arbeit.
     - Wir haben lange gefrühstückt.
-    - Beim Arzt muss man oft lange
-      warten.
-    - Ich komme gleich. Es dauert nicht
-      lange.
+    - Beim Arzt muss man oft lange warten.
+    - Ich komme gleich. Es dauert nicht lange.
 
 - Id: langsam
   Level: A1
@@ -11864,9 +11384,7 @@
 
 - Id: sich langweilen
   Level: B1
-  Form: langweilt,
-    langweilte,
-    hat gelangweilt
+  Form: langweilt, langweilte, hat gelangweilt
   Meaning: to be bored
   Examples:
     - Langweilst du dich?
@@ -11902,10 +11420,10 @@
 - Id: der Lastkraftwagen
   Level: A2
   Form: '-'
-  Meaning: truck
   Abbreviation:
     Id: der Lkw
     Form: -s
+  Meaning: truck
   Examples:
     - Der Müller braust nun mit einem Lastkraftwagen durch die Gegend.
 
@@ -11960,17 +11478,14 @@
 
 - Id: leben
   Level: A1
-  Form: lebt, lebte, hat
-    gelebt
+  Form: lebt, lebte, hat gelebt
   Meaning: to live
   Examples:
     - Sie lebt bei ihrer Schwester.
     - Ihre Großeltern leben nicht mehr.
     - Leben Ihre Großeltern noch?
-    - Herr Müller hat lange im Ausland
-      gelebt.
-    - Von der Rente allein kann meine Tante
-      nicht leben.
+    - Herr Müller hat lange im Ausland gelebt.
+    - Von der Rente allein kann meine Tante nicht leben.
     - Ich lebe noch bei meinen Eltern.
 
 - Id: das Leben
@@ -11980,8 +11495,7 @@
   Examples:
     - Das Leben in diesem Land ist teuer.
     - Hier in London ist das Leben teuer.
-    - Ich habe mich an das Leben auf dem
-      Land gewöhnt.
+    - Ich habe mich an das Leben auf dem Land gewöhnt.
     - Hier ist das Leben teuer.
 
 - Id: der Lebenslauf
@@ -11989,8 +11503,7 @@
   Form: ¨-e
   Meaning: curriculum vitae, CV
   Examples:
-    - Hast du den Lebenslauf für die
-      Bewerbung schon geschrieben?
+    - Hast du den Lebenslauf für die Bewerbung schon geschrieben?
 
 - Id: die Lebensmittel
   Level: A1
@@ -12072,21 +11585,17 @@
 
 - Id: leid tun
   Level: A2
-  Form: tut leid, tat leid,
-    hat leidgetan
+  Form: tut leid, tat leid, hat leidgetan
   Meaning: to be sorry
   Examples:
     - Es tut mir leid, dass ich nicht kommen kann.
     - Die Frau tut mir leid.
-    - Wie komme ich zum Bahnhof? - Tut
-      mir leid, das weiß ich nicht.
-    - Es tut mir leid, dass ich Ihnen nicht
-      helfen kann.
+    - Wie komme ich zum Bahnhof? - Tut mir leid, das weiß ich nicht.
+    - Es tut mir leid, dass ich Ihnen nicht helfen kann.
 
 - Id: leiden
   Level: B1
-  Form: leidet, litt,
-    hat gelitten
+  Form: leidet, litt, hat gelitten
   Meaning: to suffer
   Examples:
     - Er leidet an einer schweren Krankheit.
@@ -12098,8 +11607,7 @@
   Examples:
     - Leider kann ich nicht kommen. Ich muss zum Arzt.
     - Da kann ich Ihnen leider nicht helfen.
-    - Hast du schon eine Antwort auf deinen
-      Brief? – Leider nicht.
+    - Hast du schon eine Antwort auf deinen Brief? – Leider nicht.
 
 - Id: leihen
   Level: B1
@@ -12159,8 +11667,7 @@
 
 - Id: lernen
   Level: A1
-  Form: lernt, lernte, hat
-    gelernt
+  Form: lernt, lernte, hat gelernt
   Meaning: to learn
   Examples:
     - Wie lange lernen Sie schon Deutsch?
@@ -12192,10 +11699,8 @@
   Examples:
     - Morgen ist der letzte Kurstag.
     - Was hast du letzte Woche gemacht?
-    - Ich wohne im letzten Haus auf der
-      rechten Seite.
-    - Wann haben Sie Ihre Familie das letzte
-      Mal gesehen?
+    - Ich wohne im letzten Haus auf der rechten Seite.
+    - Wann haben Sie Ihre Familie das letzte Mal gesehen?
 
 - Id: die Leute
   Level: A1
@@ -12413,8 +11918,7 @@
   Examples:
     - Dazu lösen Sie acht Aufgaben.
     - Wir müssen dieses Problem lösen.
-    - Sie können die Fahrkarten auch am
-      Automaten lösen.
+    - Sie können die Fahrkarten auch am Automaten lösen.
 
 - Id: die Lösung
   Level: A1
@@ -12423,10 +11927,8 @@
   Examples:
     - Die Lösung ist ganz einfach.
     - Wählen Sie bei jeder Aufgabe die richtige Lösung.
-    - Wir fahren alle zusammen mit dem
-      Zug. Das ist die beste Lösung.
-    - Die Aufgabe ist nicht schwer. Die
-      Lösung ist ganz einfach.
+    - Wir fahren alle zusammen mit dem Zug. Das ist die beste Lösung.
+    - Die Aufgabe ist nicht schwer. Die Lösung ist ganz einfach.
 
 - Id: die Luft
   Level: B1
@@ -12465,8 +11967,7 @@
 
 - Id: machen
   Level: A1
-  Form: macht, machte,
-    hat gemacht
+  Form: macht, machte, hat gemacht
   Meaning: to make, do
   Examples:
     - Was machst du heute Abend?
@@ -12474,19 +11975,13 @@
     - Das macht 5 Euro 95.
     - Das macht nichts.
     - Was machst du am Wochenende?
-    - Ich habe die Betten noch nicht
-      gemacht.
-    - Soll ich dir die Suppe noch einmal
-      warm machen?
+    - Ich habe die Betten noch nicht gemacht.
+    - Soll ich dir die Suppe noch einmal warm machen?
     - Meine Arbeit macht mir viel Spaß.
     - Mach dir bitte keine Sorgen.
-    - Was würden Sie an meiner Stelle
-      machen?
-    - Tut mir leid. Die Küche hat schon
-      geschlossen. – Da kann man nichts
-      machen.
-    - Entschuldigung! – Das macht doch
-      nichts.
+    - Was würden Sie an meiner Stelle machen?
+    - Tut mir leid. Die Küche hat schon geschlossen. – Da kann man nichts machen.
+    - Entschuldigung! – Das macht doch nichts.
     - Das macht zusammen 20 Euro.
 
 - Id: das Mädchen
@@ -12767,17 +12262,14 @@
     - Dieses Auto kostet 1.000 Euro mehr als das andere.
     - Mehr kann ich nicht essen!
     - Ich möchte mehr Taschengeld.
-    - Ich habe diesmal mehr gelernt als bei
-      der letzten Prüfung.
+    - Ich habe diesmal mehr gelernt als bei der letzten Prüfung.
 
 - Id: mehrere
   Level: B1
   Meaning: several
   Examples:
-    - Ich habe mehrere Leute gefragt. Aber
-      niemand konnte mir helfen.
-    - Viele Wörter haben mehrere
-      Bedeutungen.
+    - Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.
+    - Viele Wörter haben mehrere Bedeutungen.
 
 - Id: die Mehrheit
   Level: B1
@@ -13075,11 +12567,9 @@
     - Fahren wir mit dem Auto oder mit dem Zug nach Hamburg?
     - Ich komme mit meinem Freund.
     - Ich gehe heute Abend mit Maria aus.
-    - Wir suchen eine Dreizimmerwohnung
-      mit Küche und Bad.
+    - Wir suchen eine Dreizimmerwohnung mit Küche und Bad.
     - Ich hätte gern einen Tee mit Zitrone.
-    - Mit meiner Mutter sind wir acht
-      Personen.
+    - Mit meiner Mutter sind wir acht Personen.
     - Ich bin mit dem Fahrrad gekommen.
 
 - Id: mitbringen
@@ -13102,8 +12592,7 @@
   Meaning: to take part
   Examples:
     - Warum macht ihr nicht mit?
-    - Wir organisieren ein Fest. Möchtest du auch
-      mitmachen?
+    - Wir organisieren ein Fest. Möchtest du auch mitmachen?
 
 - Id: mitnehmen
   Level: A1
@@ -13111,8 +12600,7 @@
   Meaning: to carry along
   Examples:
     - Nehmen wir meine Schwester ins Kino mit?
-    - Wir fahren am Wochenende in die Berge. Ich muss
-      mein Zelt mitnehmen.
+    - Wir fahren am Wochenende in die Berge. Ich muss mein Zelt mitnehmen.
 
 - Id: mitspielen
   Level: A2
@@ -13207,14 +12695,12 @@
 
 - Id: möchten
   Level: A1
-  Form: möchte, mochte,
-    hat gemocht
+  Form: möchte, mochte, hat gemocht
   Meaning: to want (to have), like (to have)
   Examples:
     - Was möchten Sie trinken?
     - Möchtest du auch einen Kaffee?
-    - Im Sommer möchten wir gern ans
-      Meer fahren.
+    - Im Sommer möchten wir gern ans Meer fahren.
 
 - Id: mobil
   Level: B1
@@ -13266,8 +12752,7 @@
     Form: -nen
   Meaning: presenter
   Examples:
-    - Die Moderatorin der Radiosendung diskutiert mit zwei
-      Gästen.
+    - Die Moderatorin der Radiosendung diskutiert mit zwei Gästen.
 
 - Id: modern
   Level: B1
@@ -13281,23 +12766,19 @@
   Form: -e
   Meaning: module
   Examples:
-    - Das Modul Hören besteht
-      aus vier Teilen.
+    - Das Modul Hören besteht aus vier Teilen.
 
 - Id: mögen
   Level: A1
-  Form: mag, mochte,
-    hat gemocht
+  Form: mag, mochte, hat gemocht
   Meaning: to like
   Examples:
     - Magst du Kaffee oder Tee?
     - Magst du Schokolade? - Nein, ich mag keine Süßigkeiten.
     - Ich mag keinen Reis.
     - Möchtest du noch ein Stück Kuchen?
-    - Ich möchte gern Herrn Schmidt
-      sprechen.
-    - Herr Müller, Sie möchten bitte sofort
-      zum Chef kommen.
+    - Ich möchte gern Herrn Schmidt sprechen.
+    - Herr Müller, Sie möchten bitte sofort zum Chef kommen.
 
 - Id: möglich
   Level: A1
@@ -13436,8 +12917,7 @@
   Meaning: museum
   Examples:
     - Im Kunstmuseum gibt es eine neue Ausstellung.
-    - Wir waren mit unserer Klasse im
-      Museum.
+    - Wir waren mit unserer Klasse im Museum.
 
 - Id: die Musik
   Level: A2
@@ -13482,17 +12962,13 @@
 
 - Id: müssen
   Level: A1
-  Form: muss, musste,
-    hat gemusst (hat müssen
-    als Modalverb)
+  Form: muss, musste, hat gemusst (hat müssen als Modalverb)
   Meaning: to have to
   Examples:
     - Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
     - Wie lange müssen Sie arbeiten?
-    - Sie müssen die Miete pünktlich
-      überweisen.
-    - Du musst mich nicht abholen. Nur
-      wenn du willst.
+    - Sie müssen die Miete pünktlich überweisen.
+    - Du musst mich nicht abholen. Nur wenn du willst.
 
 - Id: der Mut
   Level: B1
@@ -13517,8 +12993,8 @@
 
 - Id: nach
   Level: A1
-  Meaning: after, towards
   Form: + Dativ
+  Meaning: after, towards
   Examples:
     - Ich gehe jetzt nach Hause.
     - Ich fliege nach München.
@@ -13526,8 +13002,7 @@
     - Wir treffen uns nach der Arbeit.
     - Ich fahre morgen nach Hamburg.
     - Ich muss jetzt nach Hause.
-    - Es ist schon nach acht. Wir müssen uns
-      beeilen.
+    - Es ist schon nach acht. Wir müssen uns beeilen.
 
 - Id: der Nachbar
   Level: A2
@@ -13720,8 +13195,7 @@
   Meaning: naturally, of course
   Examples:
     - Natürlich helfen wir dir.
-    - Kommst du auch wirklich zu meiner
-      Party? – Natürlich.
+    - Kommst du auch wirklich zu meiner Party? – Natürlich.
 
 - Id: der Nebel
   Level: B1
@@ -13837,8 +13311,7 @@
     - Ich bin der neue Mitarbeiter.
     - Zeig mal! Ist das dein neues Handy?
     - Mein Wagen ist noch ganz neu.
-    - Man darf hier nicht mehr rauchen? Das
-      ist mir ganz neu.
+    - Man darf hier nicht mehr rauchen? Das ist mir ganz neu.
 
 - Id: die Neuigkeit
   Level: B1
@@ -13871,10 +13344,8 @@
     - Lisa wohnt nicht in Hamburg, sie wohnt in Bremen.
     - Zigarette? - Danke, ich rauche nicht.
     - Wie geht es dir? – Nicht so gut.
-    - Das Essen in der Kantine ist gar nicht
-      schlecht.
-    - Du kommst immer zu spät! - Das
-      stimmt nicht.
+    - Das Essen in der Kantine ist gar nicht schlecht.
+    - Du kommst immer zu spät! - Das stimmt nicht.
 
 - Id: die Nichte
   Level: B1
@@ -13908,8 +13379,7 @@
     - Er kommt nie pünktlich.
     - Der Chef ist nie da.
     - Warum bist du nie zufrieden?
-    - Bis morgen Abend schaffe ich die
-      Arbeit nie.
+    - Bis morgen Abend schaffe ich die Arbeit nie.
     - Ich gehe nie wieder in dieses Restaurant.
 
 - Id: niedrig
@@ -13951,19 +13421,13 @@
     - Es dauert noch ein paar Minuten.
     - Mein Bruder geht noch zur Schule.
     - Bist du fertig. – Nein, noch nicht ganz.
-    - Haben Sie noch einen Wunsch? – Ja,
-      bitte noch ein Bier.
+    - Haben Sie noch einen Wunsch? – Ja, bitte noch ein Bier.
     - Sonst noch etwas? – Nein, danke.
-    - Ich komme später. Ich muss erst noch
-      einkaufen.
-    - Meine Freundin studiert, und abends
-      arbeitet sie noch als Kellnerin.
-    - Es ist nicht mehr viel Zeit. Nur noch
-      fünf Minuten.
-    - Ist das Essen schon fertig. – Nein, es
-      dauert noch ein paar Minuten.
-    - Ist Amadeo schon da? – Vielleicht
-      kommt er noch.
+    - Ich komme später. Ich muss erst noch einkaufen.
+    - Meine Freundin studiert, und abends arbeitet sie noch als Kellnerin.
+    - Es ist nicht mehr viel Zeit. Nur noch fünf Minuten.
+    - Ist das Essen schon fertig. – Nein, es dauert noch ein paar Minuten.
+    - Ist Amadeo schon da? – Vielleicht kommt er noch.
 
 - Id: nochmal(s); noch mal
   Level: B1
@@ -14204,18 +13668,15 @@
 
 - Id: öffnen
   Level: A1
-  Form: öffnet, öffnete,
-    hat geöffnet
+  Form: öffnet, öffnete, hat geöffnet
   Meaning: to open
   Examples:
     - Ich öffne die Tür.
     - Der Laden ist samstags bis 16.00 Uhr geöffnet.
     - Wann öffnen die Geschäfte?
     - Kannst du bitte das Fenster öffnen?
-    - Kannst Du mir helfen? Ich kann die
-      Dose nicht öffnen.
-    - Du öffnest die Datei mit einem
-      Doppelklick.
+    - Kannst Du mir helfen? Ich kann die Dose nicht öffnen.
+    - Du öffnest die Datei mit einem Doppelklick.
 
 - Id: geöffnet
   Level: A1
@@ -14229,15 +13690,13 @@
   Examples:
     - Petra treffe ich oft.
     - Ich gehe nicht oft ins Kino.
-    - Ich treffe mich oft mit meiner
-      Freundin.
+    - Ich treffe mich oft mit meiner Freundin.
 
 - Id: öfter
   Level: B1
   Meaning: more often, repeatedly
   Examples:
-    - In letzter Zeit muss ich öfter
-      Überstunden machen.
+    - In letzter Zeit muss ich öfter Überstunden machen.
 
 - Id: ohne
   Level: A1
@@ -14292,8 +13751,7 @@
   Meaning: online
   Examples:
     - Wann bist du wieder online?
-    - Ich habe hier kein Internet. Ich bin erst heute
-      Abend wieder online.
+    - Ich habe hier kein Internet. Ich bin erst heute Abend wieder online.
     - Sie können das Geld auch online überweisen.
 
 - Id: der Opa
@@ -14418,14 +13876,7 @@
 - Id: der Vorort
   Level: B1
   Form: ¨-e
-  Meaning: suburbs
-  Examples:
-    - example1
-
-- Id: der Wohnort
-  Level: B1
-  Form: ¨-e
-  Meaning: place of residence
+  Meaning: suburb
   Examples:
     - example1
 
@@ -14908,8 +14359,7 @@
   Synonym: (D, CH) = Brieftasche, (A) Geldbörse
   Meaning: wallet
   Examples:
-    - Ich habe nur Kleingeld in meinem
-      Portemonnaie.
+    - Ich habe nur Kleingeld in meinem Portemonnaie.
 
 - Id: die Portion
   Level: B1
@@ -14962,8 +14412,7 @@
   Synonym: (CH) = (D) Hähnchen/Hühnchen = (A) Hend(e)l
   Meaning: chicken meat (P-)
   Examples:
-    - Zum Mittagessen gibt es Poulet mit
-      Reis.
+    - Zum Mittagessen gibt es Poulet mit Reis.
 
 - Id: das Praktikum
   Level: A1
@@ -14998,11 +14447,8 @@
   Form: -en
   Meaning: presentation
   Examples:
-    - Erklären Sie den Inhalt und
-      die Struktur Ihrer
-      Präsentation.
-    - Die Schülerin hat für ihre Präsentation
-      eine gute Note bekommen.
+    - Erklären Sie den Inhalt und die Struktur Ihrer Präsentation.
+    - Die Schülerin hat für ihre Präsentation eine gute Note bekommen.
 
 - Id: die Praxis
   Level: A1
@@ -15055,16 +14501,13 @@
 
 - Id: probieren
   Level: A2
-  Form: probiert,
-    probierte, hat probiert
+  Form: probiert, probierte, hat probiert
   Meaning: to try, to taste
   Examples:
     - Möchten Sie den Käse probieren?
     - Die Tür geht schwer auf. Probier mal!
-    - Haben Sie dieses Waschmittel schon
-      einmal probiert?
-    - Ich habe probiert, die Zeitung zu lesen,
-      aber es war zu schwer.
+    - Haben Sie dieses Waschmittel schon einmal probiert?
+    - Ich habe probiert, die Zeitung zu lesen, aber es war zu schwer.
     - Darf ich die Schuhe anprobieren?
     - Möchten Sie den Käse mal probieren?
 
@@ -15168,13 +14611,11 @@
 
 - Id: prüfen
   Level: A2
-  Form: prüft, prüfte, hat
-    geprüft
+  Form: prüft, prüfte, hat geprüft
   Meaning: to check, examine
   Examples:
     - Bitte prüfen Sie die Rechnung sofort.
-    - Bitte prüfen Sie sofort, ob die
-      Rechnung stimmt.
+    - Bitte prüfen Sie sofort, ob die Rechnung stimmt.
 
 - Id: die Prüfung
   Level: A1
@@ -15183,8 +14624,7 @@
   Examples:
     - Die Prüfung ist am Montag um 8.00 Uhr.
     - Ich habe die Prüfung bestanden.
-    - Mein Freund hat die Prüfung
-      bestanden.
+    - Mein Freund hat die Prüfung bestanden.
 
 - Id: das Publikum
   Level: B1
@@ -15205,8 +14645,7 @@
   Form: -e
   Meaning: point, dot, full stop
   Examples:
-    - Schreiben Sie etwas zu
-      allen drei Punkten.
+    - Schreiben Sie etwas zu allen drei Punkten.
     - Das Konzert beginnt um Punkt 20 Uhr.
     - Beim letzten Satz fehlt der Punkt.
     - Diesen Punkt haben wir noch nicht besprochen.
@@ -15370,8 +14809,7 @@
 
 - Id: rauchen
   Level: A1
-  Form: raucht, rauchte,
-    hat geraucht
+  Form: raucht, rauchte, hat geraucht
   Meaning: to smoke
   Examples:
     - Ich rauche nicht.
@@ -15388,8 +14826,7 @@
   Meaning: smoker
   Examples:
     - Gibt es hier ein Zimmer für Raucher?
-    - Ich bin keine Raucherin. Ich bin
-      Nichtraucherin.
+    - Ich bin keine Raucherin. Ich bin Nichtraucherin.
 
 - Id: der Raum
   Level: A1
@@ -15456,15 +14893,13 @@
 
 - Id: rechnen
   Level: A2
-  Form: rechnet,
-    rechnete, hat gerechnet
+  Form: rechnet, rechnete, hat gerechnet
   Meaning: to calculate, do arithmetic
   Examples:
     - Sarah kann gut rechnen.
     - Meine Tochter kann gut rechnen.
     - Im/In Rechnen hat sie eine Eins.
-    - Mit solchen Schwierigkeiten hatten wir
-      nicht gerechnet.
+    - Mit solchen Schwierigkeiten hatten wir nicht gerechnet.
 
 - Id: der Rechner
   Level: B1
@@ -15480,8 +14915,7 @@
   Examples:
     - Schicken Sie die Rechnung an mich.
     - Bitte, die Rechnung!
-    - Brauchen Sie für diese Reparatur eine
-      Rechnung?
+    - Brauchen Sie für diese Reparatur eine Rechnung?
 
 - Id: das Recht
   Level: B1
@@ -15614,8 +15048,7 @@
   Meaning: rich
   Examples:
     - Lotte ist reich. Sie hat sehr viel Geld.
-    - Wenn ich reich wäre, würde ich eine
-      Weltreise machen.
+    - Wenn ich reich wäre, würde ich eine Weltreise machen.
 
 - Id: reichen
   Level: B1
@@ -15683,8 +15116,7 @@
 
 - Id: reisen
   Level: A1
-  Form: reist, reiste,
-    ist gereist
+  Form: reist, reiste, ist gereist
   Meaning: to travel
   Examples:
     - Ich reise gernn nach Spanien.
@@ -15696,10 +15128,8 @@
   Examples:
     - Wir machen eine Reise nach Österreich.
     - Ich mache nächste Woche eine Geschäftsreise.
-    - Wir haben eine Reise nach Österreich
-      gebucht.
-    - Auf der Reise haben wir nette Leute
-      kennengelernt.
+    - Wir haben eine Reise nach Österreich gebucht.
+    - Auf der Reise haben wir nette Leute kennengelernt.
 
 - Id: das Reisebüro
   Level: A1
@@ -15708,8 +15138,7 @@
   Examples:
     - Mein Mann arbeitet im Reisebüro.
     - Wir organisieren eine Rundreise durch Deutschland.
-    - Wir haben die Reise im Reisebüro
-      gebucht.
+    - Wir haben die Reise im Reisebüro gebucht.
 
 - Id: der Reiseführer
   Level: A1
@@ -15717,8 +15146,7 @@
   Meaning: tourist guide
   Examples:
     - Ich kaufe mir einen Reiseführer von Berlin.
-    - Unser Reiseführer heißt Robert und ist sehr
-      sympathisch.
+    - Unser Reiseführer heißt Robert und ist sehr sympathisch.
 
 - Id: reiten
   Level: B1
@@ -16008,8 +15436,7 @@
   Form: -en
   Meaning: feedback
   Examples:
-    - Reagieren Sie auf die
-      Rückmeldung.
+    - Reagieren Sie auf die Rückmeldung.
 
 - Id: die Rücksicht
   Level: B1
@@ -16232,28 +15659,22 @@
   Level: A2
   Meaning: a pity, shame
   Examples:
-    - Schade, dass du nicht mitkommen
-      kannst.
-    - Ich kann leider nicht mitkommen. –
-      Das ist aber schade!
+    - Schade, dass du nicht mitkommen kannst.
+    - Ich kann leider nicht mitkommen. – Das ist aber schade!
 
 - Id: schaden
   Level: B1
-  Form: schadet,
-    schadete, hat geschadet
+  Form: schadet, schadete, hat geschadet
   Meaning: to hurt, damage
   Examples:
-    - Ein kleines Glas Wein kann nicht
-      schaden.
+    - Ein kleines Glas Wein kann nicht schaden.
 
 - Id: der Schaden
   Level: B1
   Form: ¨-
   Meaning: damage
   Examples:
-    - Ich hatte einen Unfall mit dem Auto.
-      Jetzt muss ich den Schaden der
-      Versicherung melden.
+    - Ich hatte einen Unfall mit dem Auto. Jetzt muss ich den Schaden der Versicherung melden.
 
 - Id: schädlich
   Level: A2
@@ -16305,12 +15726,10 @@
 
 - Id: schauen
   Level: B1
-  Form: schaut, schaute,
-    hat geschaut
+  Form: schaut, schaute, hat geschaut
   Meaning: to look (at something)
   Examples:
-    - Schau mal! Da vorne ist noch ein Platz
-      frei.
+    - Schau mal! Da vorne ist noch ein Platz frei.
 
 - Id: das Schaufenster
   Level: B1
@@ -16370,13 +15789,11 @@
 
 - Id: schenken
   Level: A2
-  Form: schenkt,
-    schenkte, hat geschenkt
+  Form: schenkt, schenkte, hat geschenkt
   Meaning: to give a present
   Examples:
     - Was schenken wir Michael zum Geburtstag?
-    - Wir wollen dir zum Geburtstag etwas
-      schenken.
+    - Wir wollen dir zum Geburtstag etwas schenken.
 
 - Id: die Schere
   Level: B1
@@ -16463,15 +15880,13 @@
 
 - Id: schlafen
   Level: A1
-  Form: schläft, schlief,
-    hat geschlafen
+  Form: schläft, schlief, hat geschlafen
   Meaning: to sleep
   Examples:
     - Ich schlafe meistens acht Stunden.
     - Haben Sie gut geschlafen?
     - Gute Nacht! Schlaf gut und träum süß!
-    - Wenn Sie mal nach München kommen,
-      können Sie bei uns schlafen.
+    - Wenn Sie mal nach München kommen, können Sie bei uns schlafen.
 
 - Id: schlagen
   Level: B1
@@ -16483,7 +15898,7 @@
 - Id: die Schlange
   Level: B1
   Form: ¨-e
-  Meaning: queue
+  Meaning: snake, line, queue
   Examples:
     - example1
 
@@ -16500,50 +15915,36 @@
   Examples:
     - Mir ist schlecht!
     - Sie sehen schlecht aus.
-    - Das Wetter ist schlecht. Wir haben schon seit einer
-      Woche schlechtes Wetter.
+    - Das Wetter ist schlecht. Wir haben schon seit einer Woche schlechtes Wetter.
     - Mir geht es schlecht. Ich habe Fieber.
-    - Du siehst aber schlecht aus. Bist du
-      krank?
+    - Du siehst aber schlecht aus. Bist du krank?
     - Es geht mir schlecht. Ich habe Fieber.
-    - Ich habe zu viel gegessen. Jetzt ist mir
-      schlecht.
-    - Hier ist schlechte Luft. Mach bitte das
-      Fenster auf.
-    - Stell die Milch in den Kühlschrank.
-      Sonst wird sie schlecht.
-    - Die Bezahlung in dieser Firma ist
-      schlecht.
-    - Die Verbindung ist schlecht. Ich höre
-      dich nicht gut.
-    - Der Film war nicht schlecht. Er hat mir
-      ganz gut gefallen.
+    - Ich habe zu viel gegessen. Jetzt ist mir schlecht.
+    - Hier ist schlechte Luft. Mach bitte das Fenster auf.
+    - Stell die Milch in den Kühlschrank. Sonst wird sie schlecht.
+    - Die Bezahlung in dieser Firma ist schlecht.
+    - Die Verbindung ist schlecht. Ich höre dich nicht gut.
+    - Der Film war nicht schlecht. Er hat mir ganz gut gefallen.
 
 - Id: schließen
   Level: A1
-  Form: schließt,
-    schloss, hat geschlossen
+  Form: schließt, schloss, hat geschlossen
   Meaning: to close, shut
   Examples:
     - Bitte, schließen Sie die Tür.
-    - Wir müssen uns beeilen, die Bank schließt um
-      18 Uhr.
+    - Wir müssen uns beeilen, die Bank schließt um 18 Uhr.
     - Die Tür schließt automatisch.
     - Wir schließen um 20.00 Uhr.
-    - Wann können wir den Mietvertrag
-      abschließen?
-    - Ich hatte die Papiere in den
-      Schreibtisch eingeschlossen.
-    - Du kannst die Datei schließen. Ich bin
-      fertig.
+    - Wann können wir den Mietvertrag abschließen?
+    - Ich hatte die Papiere in den Schreibtisch eingeschlossen.
+    - Du kannst die Datei schließen. Ich bin fertig.
     - Sie mussten die Firma leider schließen.
 
 - Id: geschlossen
   Level: A1
   Meaning: closed
   Examples:
-    - Die Banken sind am Samstag
-      geschlossen.
+    - Die Banken sind am Samstag geschlossen.
     - Die Bank hat am Samstag geschlossen.
 
 - Id: schließlich
@@ -16590,9 +15991,7 @@
 
 - Id: schmecken
   Level: A1
-  Form: schmeckt,
-    schmeckte,
-    hat geschmeckt
+  Form: schmeckt, schmeckte, hat geschmeckt
   Meaning: to taste
   Examples:
     - Schmeckt das gut?
@@ -16698,10 +16097,8 @@
   Meaning: chocolate
   Examples:
     - Julia liebt Schokolade.
-    - Ich habe eine Tafel Schokolade
-      gegessen.
-    - Bringen Sie mir bitte eine Tasse heiße
-      Schokolade.
+    - Ich habe eine Tafel Schokolade gegessen.
+    - Bringen Sie mir bitte eine Tasse heiße Schokolade.
 
 - Id: schon
   Level: A1
@@ -16709,17 +16106,12 @@
   Examples:
     - Ist das Essen schon fertig?
     - Ich wohne schon seit fünf Jahren in Freiburg.
-    - Mirko ist erst fünf. Aber er kann schon
-      lesen.
-    - Karl ist schon über 60. Aber er ist noch
-      sehr fit.
-    - Mach schon, ich kann nicht länger
-      warten.
+    - Mirko ist erst fünf. Aber er kann schon lesen.
+    - Karl ist schon über 60. Aber er ist noch sehr fit.
+    - Mach schon, ich kann nicht länger warten.
     - Keine Sorge. Es wird schon klappen.
-    - Kommst du mit spazieren? – Ich hätte
-      schon Lust, aber ich muss arbeiten.
-    - Ich mag keine Kartoffeln. Und du? – Ich
-      schon.
+    - Kommst du mit spazieren? – Ich hätte schon Lust, aber ich muss arbeiten.
+    - Ich mag keine Kartoffeln. Und du? – Ich schon.
 
 - Id: schön
   Level: A1
@@ -16732,13 +16124,10 @@
     - Schön, dass du kommst.
     - Ich finde eure Wohnung sehr schön.
     - Es ist schön heute.
-    - Wir wünschen Ihnen einen schönen
-      Aufenthalt in Kiel.
+    - Wir wünschen Ihnen einen schönen Aufenthalt in Kiel.
     - Schöne Grüße von Herrn Meier.
-    - Möchten Sie noch eine Tasse Kaffee? –
-      Nein, danke schön.
-    - Ich muss noch arbeiten. – Schön, dann
-      bleiben wir zu Hause.
+    - Möchten Sie noch eine Tasse Kaffee? – Nein, danke schön.
+    - Ich muss noch arbeiten. – Schön, dann bleiben wir zu Hause.
 
 - Id: der Schrank
   Level: A1
@@ -16763,31 +16152,27 @@
 
 - Id: schreiben
   Level: A1
-  Form: schreibt,
-    schrieb, hat geschrieben
+  Form: schreibt, schrieb, hat geschrieben
   Meaning: to write
   Examples:
     - Er schreibt jeden Tag fünfzig E-Mails.
     - Ich schreibe dir eine E-Mail.
     - Ich habe dir einen Brief geschrieben.
-    - Mein Kugelschreiber schreibt nicht
-      mehr.
+    - Mein Kugelschreiber schreibt nicht mehr.
 
 - Id: aufschreiben
   Level: B1
   Form: schreibt auf, schrieb auf, hat aufgeschrieben
   Meaning: to write down
   Examples:
-    - Ich habe mir deine Telefonnummer
-      aufgeschrieben.
+    - Ich habe mir deine Telefonnummer aufgeschrieben.
 
 - Id: das Schreiben
   Level: B1
   Form: '-'
   Meaning: letter, communication
   Examples:
-    - Haben Sie mein Schreiben vom 3. März
-      erhalten?
+    - Haben Sie mein Schreiben vom 3. März erhalten?
 
 - Id: schreien
   Level: B1
@@ -16975,8 +16360,7 @@
   Form: -en
   Meaning: difficulty
   Examples:
-    - Ich hatte große Schwierigkeiten einen
-      Parkplatz zu bekommen.
+    - Ich hatte große Schwierigkeiten einen Parkplatz zu bekommen.
 
 - Id: schwimmen
   Level: A1
@@ -17015,8 +16399,7 @@
 
 - Id: sehen
   Level: A1
-  Form: sieht, sah,
-    hat gesehen
+  Form: sieht, sah, hat gesehen
   Meaning: to see
   Examples:
     - Ich kann dich nicht sehen.
@@ -17024,15 +16407,12 @@
     - Möchtest du einen Film sehen?
     - Ich habe Lisa lange nicht gesehen. Ist sie im Urlaub?
     - Darf ich mal Ihren Ausweis sehen?
-    - Ich sehe nicht gut. Ich brauche eine
-      Brille.
+    - Ich sehe nicht gut. Ich brauche eine Brille.
     - Ich habe einen schönen Film gesehen.
     - Wir haben uns lange nicht gesehen.
     - Sieh mal! Es schneit.
-    - Ich komme gleich wieder, ich muss mal
-      schnell nach dem Essen sehen.
-    - Was machst du im Urlaub? – Ich weiß
-      noch nicht. Mal sehen.
+    - Ich komme gleich wieder, ich muss mal schnell nach dem Essen sehen.
+    - Was machst du im Urlaub? – Ich weiß noch nicht. Mal sehen.
     - Du siehst deiner Mutter sehr ähnlich.
 
 - Id: die Sehenswürdigkeit
@@ -17072,31 +16452,26 @@
     - Ich bin müde.
     - Das Auto ist jetzt fünfzehn Jahre alt.
     - Heute ist Montag.
-    - Der Termin beim Zahnarzt ist erst
-      übermorgen.
+    - Der Termin beim Zahnarzt ist erst übermorgen.
     - Um 11 Uhr ist Pause.
     - Herr Müller ist in seinem Zimmer.
     - Das Auto ist mir zu teuer.
     - Das ist schwer zu verstehen.
-    - 'Mit Präposition wie: Das Licht ist
-      an/aus.'
+    - 'Mit Präposition wie: Das Licht ist an/aus.'
 
 - Id: seit
   Level: A1
   Meaning: since
   Examples:
     - Ich wohne seit drei Jahren in Köln.
-    - Wir wohnen seit dem 1. März in
-      Dortmund.
-    - Seit ich in Deutschland wohne, lerne
-      ich Deutsch.
+    - Wir wohnen seit dem 1. März in Dortmund.
+    - Seit ich in Deutschland wohne, lerne ich Deutsch.
 
 - Id: seitdem
   Level: B1
   Meaning: since (then)
   Examples:
-    - Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich
-      Deutsch.
+    - Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich Deutsch.
 
 - Id: die Seite
   Level: B1
@@ -17117,8 +16492,7 @@
   Form: selber, selbe, selbes
   Meaning: same
   Examples:
-    - Ich habe am selben Tag Geburtstag wie
-      du.
+    - Ich habe am selben Tag Geburtstag wie du.
 
 - Id: selbst
   Level: A2
@@ -17489,21 +16863,16 @@
 
 - Id: sollen
   Level: A1
-  Form: soll, sollte, hat
-    gesollt (hat sollen als
-    Modalverb)
+  Form: soll, sollte, hat gesollt (hat sollen als Modalverb)
   Meaning: to be supposed to
   Examples:
     - Soll ich kommen?
     - Was soll ich mitbringen?
     - Wann soll ich kommen und was soll ich mitbringen?
-    - Und, was hat der Arzt gesagt? – Ich soll drei Tage
-      im Bett bleiben und viel Tee trinken.
+    - Und, was hat der Arzt gesagt? – Ich soll drei Tage im Bett bleiben und viel Tee trinken.
     - Wann soll ich kommen?
-    - Ich habe im Radio gehört, es soll
-      morgen regnen.
-    - Sollten Sie mit dem Vorschlag nicht
-      einverstanden sein, rufen Sie mich an.
+    - Ich habe im Radio gehört, es soll morgen regnen.
+    - Sollten Sie mit dem Vorschlag nicht einverstanden sein, rufen Sie mich an.
 
 - Id: sonder-
   Level: B1
@@ -17539,10 +16908,8 @@
   Meaning: sun
   Examples:
     - Die Sonne scheint.
-    - Das Wetter ist schön. Die Sonne
-      scheint.
-    - Ich habe zu lange in der Sonne
-      gelegen.
+    - Das Wetter ist schön. Die Sonne scheint.
+    - Ich habe zu lange in der Sonne gelegen.
 
 - Id: sonnig
   Level: B1
@@ -17555,13 +16922,10 @@
   Level: A2
   Meaning: otherwise, other, usually, normally
   Examples:
-    - Haben Sie sonst noch einen Wunsch? – Nein danke,
-      das ist alles.
+    - Haben Sie sonst noch einen Wunsch? – Nein danke, das ist alles.
     - Beeil dich, sonst kommen wir zu spät!
-    - Wir müssen jetzt gehen, sonst wird es
-      zu spät.
-    - Heute ist der Chef nicht mehr da. Sonst
-      ist er um diese Zeit immer im Büro.
+    - Wir müssen jetzt gehen, sonst wird es zu spät.
+    - Heute ist der Chef nicht mehr da. Sonst ist er um diese Zeit immer im Büro.
 
 - Id: sorgen
   Level: B1
@@ -17639,8 +17003,7 @@
   Meaning: exciting
   Examples:
     - Ich finde den Film sehr spannend.
-    - Das Spiel war spannend bis zur letzten
-      Minute.
+    - Das Spiel war spannend bis zur letzten Minute.
 
 - Id: sparen
   Level: B1
@@ -17749,17 +17112,14 @@
 
 - Id: spielen
   Level: A1
-  Form: spielt, spielte,
-    hat gespielt
+  Form: spielt, spielte, hat gespielt
   Meaning: to play
   Examples:
     - Die Kinder spielen draußen.
     - Spielen Sie Karten?
     - Jakob spielt Klavier.
-    - Wir haben einen großen Garten, da
-      können die Kinder spielen.
-    - Am Sonntag spielen wir gegen die
-      Fußballmannschaft der Nachbarschule.
+    - Wir haben einen großen Garten, da können die Kinder spielen.
+    - Am Sonntag spielen wir gegen die Fußballmannschaft der Nachbarschule.
     - Spielen Sie ein Instrument?
 
 - Id: das Spiel
@@ -17779,8 +17139,7 @@
     Form: -nen
   Meaning: player
   Examples:
-    - Für dieses Spiel braucht man zwei bis
-      vier Spieler.
+    - Für dieses Spiel braucht man zwei bis vier Spieler.
     - Beim Fußball gibt es elf Spieler.
 
 - Id: der Spielplatz
@@ -17795,8 +17154,7 @@
   Form: -e
   Meaning: toy
   Examples:
-    - Zu Weihnachten wünschen sich die
-      Kinder vor allem Spielzeug.
+    - Zu Weihnachten wünschen sich die Kinder vor allem Spielzeug.
 
 - Id: spitz
   Level: B1
@@ -17845,8 +17203,7 @@
   Form: -n
   Meaning: language
   Examples:
-    - Welche Sprachen sprichst du? – Ich spreche
-      Englisch und Spanisch.
+    - Welche Sprachen sprichst du? – Ich spreche Englisch und Spanisch.
     - Franco spricht mehrere Sprachen
 
 - Id: die Fremdsprache
@@ -17872,17 +17229,14 @@
 
 - Id: sprechen
   Level: A1
-  Form: spricht, sprach,
-    hat gesprochen
+  Form: spricht, sprach, hat gesprochen
   Meaning: to speak, talk
   Examples:
     - Kann ich (mit) Herrn Klein sprechen?
-    - Können Sie bitte etwas lauter
-      sprechen?
+    - Können Sie bitte etwas lauter sprechen?
     - Jean spricht sehr gut Deutsch.
     - Ich möchte nicht darüber sprechen.
-    - Die Bundeskanzlerin spricht heute
-      Abend im Fernsehen.
+    - Die Bundeskanzlerin spricht heute Abend im Fernsehen.
 
 - Id: die Sprechstunde
   Level: B1
@@ -17931,8 +17285,7 @@
   Form: Stadien
   Meaning: stadium
   Examples:
-    - Ich möchte am Samstag ins Stadion
-      gehen. Da spielt meine Mannschaft.
+    - Ich möchte am Samstag ins Stadion gehen. Da spielt meine Mannschaft.
 
 - Id: die Stadt
   Level: A1
@@ -17940,16 +17293,14 @@
   Meaning: city
   Examples:
     - Heidelberg ist eine alte Stadt.
-    - Ich wohne lieber auf dem Land als in
-      der Stadt.
+    - Ich wohne lieber auf dem Land als in der Stadt.
     - Gehst du mit mir in die Stadt?
 
 - Id: städtisch
   Level: B1
   Meaning: municipal
   Examples:
-    - Ich gehe gern in die städtische
-      Bibliothek.
+    - Ich gehe gern in die städtische Bibliothek.
 
 - Id: der Stadtplan
   Level: A2
@@ -18195,9 +17546,7 @@
   Form: -e
   Meaning: pen
   Examples:
-    - Kannst du mir bitte einen Stift geben? - Was
-      brauchst du? Einen Farbstift oder einen Bleistift
-      oder einen Kugelschreiber?
+    - Kannst du mir bitte einen Stift geben? - Was brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?
 
 - Id: der Stil
   Level: B1
@@ -18407,8 +17756,7 @@
   Form: ¨-e
   Meaning: current (electricity)
   Examples:
-    - Wie kann ich im Haushalt Strom
-      sparen?
+    - Wie kann ich im Haushalt Strom sparen?
 
 - Id: der Strumpf
   Level: B1
@@ -18485,9 +17833,7 @@
   Form: -en
   Meaning: structure
   Examples:
-    - Erklären Sie den Inhalt und
-      die Struktur Ihrer
-      Präsentation.
+    - Erklären Sie den Inhalt und die Struktur Ihrer Präsentation.
 
 - Id: stumm
   Level: B1
@@ -18502,8 +17848,7 @@
   Meaning: hour
   Examples:
     - Ich bin in einer Stunde (wieder) zurück.
-    - Wir haben heute nur vier Stunden
-      Schule.
+    - Wir haben heute nur vier Stunden Schule.
     - Ich warte seit zwei Stunden auf dich.
 
 - Id: der Sturm
@@ -18690,13 +18035,11 @@
 
 - Id: tanzen
   Level: A1
-  Form: tanzt, tanzte,
-    hat getanzt
+  Form: tanzt, tanzte, hat getanzt
   Meaning: to dance
   Examples:
     - Tanzen Sie gern?
-    - Auf der Hochzeit haben wir viel
-      getanzt.
+    - Auf der Hochzeit haben wir viel getanzt.
 
 - Id: der Tanz
   Level: B1
@@ -18853,8 +18196,7 @@
   Level: B1
   Meaning: to let tea infuse (!)
   Examples:
-    - Diesen Tee sollte man 10 Minuten
-      ziehen lassen.
+    - Diesen Tee sollte man 10 Minuten ziehen lassen.
 
 - Id: teilen
   Level: B1
@@ -18876,12 +18218,9 @@
   Meaning: part (of living things or abstract concepts)
   Examples:
     - Lies bitte auch den zweiten Teil.
-    - Was steht in dem Brief? Ich habe den
-      ersten Teil nicht verstanden.
-    - Der Film hat zwei Teile. Heute kommt
-      Teil 1.
-    - Gefällt dir der neue Job? – Nur zum
-      Teil.
+    - Was steht in dem Brief? Ich habe den ersten Teil nicht verstanden.
+    - Der Film hat zwei Teile. Heute kommt Teil 1.
+    - Gefällt dir der neue Job? – Nur zum Teil.
 
 - Id: die Teilzeit
   Level: B1
@@ -18913,15 +18252,12 @@
 
 - Id: telefonieren
   Level: A1
-  Form: telefoniert,
-    telefonierte,
-    hat telefoniert
+  Form: telefoniert, telefonierte, hat telefoniert
   Meaning: to telephone
   Examples:
     - Darf ich mal telefonieren?
     - Ich muss kurz telefonieren.
-    - Mein Mann telefoniert gerade. Können
-      Sie später noch einmal anrufen?
+    - Mein Mann telefoniert gerade. Können Sie später noch einmal anrufen?
 
 - Id: das Telefon
   Level: A1
@@ -18938,8 +18274,7 @@
   Examples:
     - Stell die Teller bitte auf den Tisch!
     - Möchtest du noch einen Teller Suppe?
-    - Stell bitte schon mal die Teller auf den
-      Tisch!
+    - Stell bitte schon mal die Teller auf den Tisch!
     - Willst du noch einen Teller Suppe?
 
 - Id: die Temperatur
@@ -18984,8 +18319,7 @@
   Form: '-'
   Meaning: calendar
   Examples:
-    - Hast du unser Treffen schon in deinen
-      Terminkalender eingetragen?
+    - Hast du unser Treffen schon in deinen Terminkalender eingetragen?
 
 - Id: der Terminal
   Level: B1
@@ -19034,8 +18368,7 @@
   Form: -ten
   Meaning: text structure
   Examples:
-    - Achten Sie auf den
-      Textaufbau.
+    - Achten Sie auf den Textaufbau.
 
 - Id: das Theater
   Level: B1
@@ -19232,8 +18565,7 @@
   Meaning: tour
   Examples:
     - Wo kann ich eine Stadttour buchen?
-    - Wir gehen am Wochenende wandern. Ich kenne
-      eine schöne Tour in den Bergen.
+    - Wir gehen am Wochenende wandern. Ich kenne eine schöne Tour in den Bergen.
 
 - Id: der Tourismus
   Level: B1
@@ -19370,25 +18702,20 @@
 
 - Id: (sich) trennen
   Level: B1
-  Form: trennt,
-    trennte, hat getrennt
+  Form: trennt, trennte, hat getrennt
   Meaning: to separate
   Examples:
     - Wir leben getrennt.
-    - Meine Freundin und ihr Mann haben
-      sich getrennt.
-    - Wir müssen den Müll trennen. Das
-      kommt zum Altpapier.
+    - Meine Freundin und ihr Mann haben sich getrennt.
+    - Wir müssen den Müll trennen. Das kommt zum Altpapier.
 
 - Id: die Trennung
   Level: B1
   Form: -en
   Meaning: separation
   Examples:
-    - Die Trennung von der Familie war
-      schwierig.
-    - Meine Kollegin ist noch nicht
-      geschieden, aber sie lebt in Trennung.
+    - Die Trennung von der Familie war schwierig.
+    - Meine Kollegin ist noch nicht geschieden, aber sie lebt in Trennung.
 
 - Id: getrennt leben
   Level: A2
@@ -19420,14 +18747,13 @@
 - Id: treu
   Level: B1
   Form: ¨-e
-  Meaning: 'true'
+  Meaning: true
   Examples:
     - example1
 
 - Id: trinken
   Level: A1
-  Form: trinkt, trank,
-    hat getrunken
+  Form: trinkt, trank, hat getrunken
   Meaning: to drink
   Examples:
     - Möchtest du etwas trinken?
@@ -19438,8 +18764,7 @@
   Form: -er
   Meaning: tip
   Examples:
-    - Ich habe dem Kellner zwei Euro
-      Trinkgeld gegeben.
+    - Ich habe dem Kellner zwei Euro Trinkgeld gegeben.
 
 - Id: trocken
   Level: B1
@@ -19498,15 +18823,12 @@
     - Ich habe noch etwas zu tun.
     - Was tut Ihr Mann?
     - Mein Rücken tut weh.
-    - Es tut mir leid, ich kann leider nicht kommen.
-      Was kann ich für Sie tun?
+    - Es tut mir leid, ich kann leider nicht kommen. Was kann ich für Sie tun?
     - Ich habe heute viel zu tun.
     - Was kann ich für Sie tun?
-    - Ich habe zu viel Zucker in den Kaffee
-      getan.
+    - Ich habe zu viel Zucker in den Kaffee getan.
     - Der Arm tut mir weh.
-    - Ich habe endlich mal ausgeschlafen.
-      Das hat gut getan.
+    - Ich habe endlich mal ausgeschlafen. Das hat gut getan.
 
 - Id: die Tür
   Level: B1
@@ -19557,13 +18879,6 @@
   Examples:
     - example1
 
-- Id: die U-Bahn
-  Level: B1
-  Form: ¨-e
-  Meaning: underground train
-  Examples:
-    - example1
-
 - Id: üben
   Level: B1
   Form: ¨-e
@@ -19587,25 +18902,18 @@
     - Sind Sie über 18?
     - Über uns wohnt Familie Schneider.
     - Die Müllers wohnen direkt über uns.
-    - Pass bitte auf, wenn du über die
-      Straße gehst.
-    - Fahren Sie über Stuttgart oder über
-      Würzburg?
-    - Übers Wochenende fahren wir in die
-      Berge.
-    - Kinder über zehn Jahre müssen voll
-      bezahlen.
-    - Ich suche ein Buch über die deutsche
-      Küche.
+    - Pass bitte auf, wenn du über die Straße gehst.
+    - Fahren Sie über Stuttgart oder über Würzburg?
+    - Übers Wochenende fahren wir in die Berge.
+    - Kinder über zehn Jahre müssen voll bezahlen.
+    - Ich suche ein Buch über die deutsche Küche.
 
 - Id: überall
   Level: A2
   Meaning: everywhere
   Examples:
-    - Ich habe überall gesucht, aber ich kann meine Brille
-      nicht finden.
-    - Ich habe überall gesucht, aber meine
-      Brille ist weg.
+    - Ich habe überall gesucht, aber ich kann meine Brille nicht finden.
+    - Ich habe überall gesucht, aber meine Brille ist weg.
 
 - Id: überfahren
   Level: B1
@@ -19644,14 +18952,11 @@
 
 - Id: übernachten
   Level: A1
-  Form: übernachtet,
-    übernachtete,
-    hat übernachtet
+  Form: übernachtet, übernachtete, hat übernachtet
   Meaning: to sleep / stay overnight
   Examples:
     - Du kannst bei mir übernachten.
-    - Wir haben auf dem Campingplatz
-      übernachtet.
+    - Wir haben auf dem Campingplatz übernachtet.
 
 - Id: die Übernachtung
   Level: B1
@@ -20481,8 +19786,7 @@
 
 - Id: vergleichen
   Level: A2
-  Form: vergleicht,
-    verglich, hat verglichen
+  Form: vergleicht, verglich, hat verglichen
   Meaning: to compare
   Examples:
     - Vergleichen Sie die Angebote!
@@ -20566,18 +19870,14 @@
 
 - Id: verhindern
   Level: B1
-  Form: verhindert,
-    verhinderte,
-    hat verhindert
+  Form: verhindert, verhinderte, hat verhindert
   Meaning: to prevent
   Examples:
-    - Wir konnten den Unfall nicht
-      verhindern.
+    - Wir konnten den Unfall nicht verhindern.
 
 - Id: verkaufen
   Level: A1
-  Form: verkauft,
-    verkaufte, hat verkauft
+  Form: verkauft, verkaufte, hat verkauft
   Meaning: to sell
   Examples:
     - Er verkauft sein altes Auto.
@@ -20592,8 +19892,7 @@
   Meaning: seller, salesman
   Examples:
     - Meine Mutter ist Verkäuferin im Kaufhaus.
-    - Die Verkäuferin wird Ihnen gleich
-      helfen.
+    - Die Verkäuferin wird Ihnen gleich helfen.
 
 - Id: der Verkehr
   Level: B1
@@ -20910,12 +20209,10 @@
   Examples:
     - Können Sie mich verstehen?
     - Ich verstehe diese Aufgabe nicht.
-    - Ich kann Sie kaum verstehen. Sprechen
-      Sie bitte lauter.
+    - Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.
     - Den Satz verstehe ich nicht.
     - Ich verstehe nichts von Computern.
-    - Unsere beiden Kinder verstehen sich
-      sehr gut.
+    - Unsere beiden Kinder verstehen sich sehr gut.
 
 - Id: versuchen
   Level: B1
@@ -21149,11 +20446,9 @@
     - Die Brötchen sind leider von gestern.
     - Ich komme gerade vom Zahnarzt.
     - Emil ist ein Freund von mir.
-    - Haben Sie noch eine Zeitung von
-      heute?
+    - Haben Sie noch eine Zeitung von heute?
     - Von jetzt an müssen wir sparen.
-    - Das Büro ist von 13 bis 15 Uhr
-      geschlossen.
+    - Das Büro ist von 13 bis 15 Uhr geschlossen.
 
 - Id: voneinander
   Level: B1
@@ -21292,13 +20587,6 @@
   Level: B1
   Form: ¨-e
   Meaning: at the front (not "vorn")
-  Examples:
-    - example1
-
-- Id: der Vorort
-  Level: B1
-  Form: ¨-e
-  Meaning: suburb
   Examples:
     - example1
 
@@ -21445,7 +20733,7 @@
 - Id: wahr
   Level: B1
   Form: ¨-e
-  Meaning: 'true'
+  Meaning: true
   Examples:
     - example1
 
@@ -21486,8 +20774,7 @@
 
 - Id: wandern
   Level: A1
-  Form: wandert,
-    wanderte, ist gewandert
+  Form: wandert, wanderte, ist gewandert
   Meaning: to go for a walk
   Examples:
     - Wir wandern um den Chiemsee.
@@ -21498,8 +20785,7 @@
   Form: -en
   Meaning: walk, trek
   Examples:
-    - Wir haben in den Ferien eine schöne
-      Wanderung gemacht.
+    - Wir haben in den Ferien eine schöne Wanderung gemacht.
 
 - Id: wann
   Level: A1
@@ -21554,8 +20840,7 @@
   Examples:
     - Warum kommt er nicht?
     - Warum besuchst du mich nicht?
-    - Ich weiß nicht, warum es hier so kalt
-      ist.
+    - Ich weiß nicht, warum es hier so kalt ist.
 
 - Id: was
   Level: A1
@@ -21568,14 +20853,12 @@
 
 - Id: (sich) waschen
   Level: A1
-  Form: wäscht,
-    wusch, hat gewaschen
+  Form: wäscht, wusch, hat gewaschen
   Meaning: to wash
   Examples:
     - Wo kann ich mir die Hände waschen?
     - Ich muss morgen waschen.
-    - Ich habe die Bluse gerade frisch
-      gewaschen.
+    - Ich habe die Bluse gerade frisch gewaschen.
     - Wo kann ich mir die Hände waschen?
 
 - Id: die Wäsche
@@ -21584,8 +20867,7 @@
   Meaning: washing
   Examples:
     - Ich muss heute noch Wäsche waschen.
-    - Kannst du bitte die Wäsche
-      aufhängen?
+    - Kannst du bitte die Wäsche aufhängen?
 
 - Id: das Waschmittel
   Level: B1
@@ -21659,8 +20941,7 @@
   Examples:
     - Wegen seiner Arbeit kann er leider nicht kommen.
     - Ich rufe wegen meiner Tochter an.
-    - Wegen Nebels konnte unser Flugzeug
-      nicht landen.
+    - Wegen Nebels konnte unser Flugzeug nicht landen.
 
 - Id: wehtun
   Level: B1
@@ -21790,8 +21071,7 @@
   Meaning: if
   Examples:
     - Wenn ich nicht arbeiten muss, komme ich.
-    - Kommst du zu der Party? - Vielleicht,
-      wenn ich nicht arbeiten muss.
+    - Kommst du zu der Party? - Vielleicht, wenn ich nicht arbeiten muss.
 
 - Id: wer
   Level: A1
@@ -21810,22 +21090,16 @@
 
 - Id: werden
   Level: A1
-  Form: wird, wurde,
-    ist geworden
+  Form: wird, wurde, ist geworden
   Meaning: to become
   Examples:
     - Mein Sohn will Arzt werden.
-    - Das Wetter am Wochenende wird gut. Das haben
-      sie im Radio gesagt.
+    - Das Wetter am Wochenende wird gut. Das haben sie im Radio gesagt.
     - Es wird kalt.
-    - Ich habe morgen Geburtstag. − Wie alt
-      wirst du denn?
-    - Warum fährst du so schnell? Bist du
-      verrückt geworden?!
+    - Ich habe morgen Geburtstag. − Wie alt wirst du denn?
+    - Warum fährst du so schnell? Bist du verrückt geworden?!
     - Mein Sohn möchte Polizist werden.
-    - Wohin fahren Sie in Urlaub? – Ich
-      glaube, wir werden dieses Jahr zu
-      Hause bleiben.
+    - Wohin fahren Sie in Urlaub? – Ich glaube, wir werden dieses Jahr zu Hause bleiben.
 
 - Id: werfen
   Level: B1
@@ -21911,10 +21185,8 @@
   Examples:
     - Wir hatten im Urlaub schlechtes Wetter.
     - 'Heute ist das Wetter gut: Es ist sonnig und warm.'
-    - Ich habe Radio gehört. Das Wetter soll
-      schön werden.
-    - Bei schönem Wetter könnten wir ein
-      Picknick machen.
+    - Ich habe Radio gehört. Das Wetter soll schön werden.
+    - Bei schönem Wetter könnten wir ein Picknick machen.
 
 - Id: der Wetterbericht
   Level: B1
@@ -21967,9 +21239,7 @@
 
 - Id: wiederholen
   Level: A1
-  Form: wiederholt,
-    wiederholte,
-    hat wiederholt
+  Form: wiederholt, wiederholte, hat wiederholt
   Meaning: to repeat
   Examples:
     - Können Sie das bitte wiederholen?
@@ -22063,20 +21333,16 @@
   Level: A2
   Meaning: really
   Examples:
-    - Du glaubst mir nicht? Es ist aber
-      wirklich so.
-    - Im Bahnhofsrestaurant isst man
-      wirklich sehr gut.
+    - Du glaubst mir nicht? Es ist aber wirklich so.
+    - Im Bahnhofsrestaurant isst man wirklich sehr gut.
 
 - Id: die Wirklichkeit
   Level: B1
   Form: -en
   Meaning: reality
   Examples:
-    - Das Buch beschreibt die Wirklichkeit
-      um 1900 sehr gut.
-    - Man sagte mir, das Buch kostet nur 9
-      Euro. In Wirklichkeit kostet es 14 Euro.
+    - Das Buch beschreibt die Wirklichkeit um 1900 sehr gut.
+    - Man sagte mir, das Buch kostet nur 9 Euro. In Wirklichkeit kostet es 14 Euro.
 
 - Id: der Wirt
   Level: B1
@@ -22143,8 +21409,7 @@
   Examples:
     - Woher kommen Sie?
     - Woher wissen Sie das?
-    - Unsere Nachbarn ziehen nach Berlin. –
-      Woher wissen Sie das?
+    - Unsere Nachbarn ziehen nach Berlin. – Woher wissen Sie das?
 
 - Id: wohin
   Level: A1
@@ -22163,8 +21428,7 @@
 
 - Id: wohnen
   Level: A1
-  Form: wohnt, wohnte,
-    hat gewohnt
+  Form: wohnt, wohnte, hat gewohnt
   Meaning: to live
   Examples:
     - Ich wohne in München.
@@ -22186,16 +21450,14 @@
   Form: -e
   Meaning: place of residence
   Examples:
-    - Tragen Sie bitte Straße und Wohnort
-      ein.
+    - Tragen Sie bitte Straße und Wohnort ein.
 
 - Id: der Wohnsitz
   Level: B1
   Form: -e
   Meaning: residence
   Examples:
-    - Er hat einen festen Wohnsitz in dieser
-      Stadt.
+    - Er hat einen festen Wohnsitz in dieser Stadt.
 
 - Id: die Wohnung
   Level: A1
@@ -22203,10 +21465,8 @@
   Meaning: flat, apartment
   Examples:
     - Seit wann haben Sie diese Wohnung?
-    - Haben Sie schon einen neue Wohnung gefunden?
-      Meine Wohnung ist sehr hell.
-    - Wir suchen eine möblierte Wohnung,
-      möglichst im Zentrum.
+    - Haben Sie schon einen neue Wohnung gefunden? Meine Wohnung ist sehr hell.
+    - Wir suchen eine möblierte Wohnung, möglichst im Zentrum.
 
 - Id: das Wohnzimmer
   Level: A2
@@ -22237,10 +21497,7 @@
 
 - Id: wollen
   Level: A1
-  Form: will, wollte,
-    hat gewollt
-    (hat wollen als
-    Modalverb)
+  Form: will, wollte, hat gewollt (hat wollen als Modalverb)
   Meaning: to want
   Examples:
     - Wollen Sie einen Kaffee trinken?
@@ -22276,8 +21533,7 @@
   Form: ¨-er
   Meaning: dictionary
   Examples:
-    - Ich muss das Wort im Wörterbuch
-      nachschlagen.
+    - Ich muss das Wort im Wörterbuch nachschlagen.
 
 - Id: die Wunde
   Level: B1
@@ -22597,8 +21853,7 @@
   Level: A1
   Meaning: approximately (z-)
   Examples:
-    - Von Mainz nach Frankfurt sind es zirka fünfzig
-      Kilometer.
+    - Von Mainz nach Frankfurt sind es zirka fünfzig Kilometer.
 
 - Id: der Zirkus
   Level: B1
@@ -22648,13 +21903,11 @@
     - Ich bringe Sie zum Bahnhof.
     - Wann sind Sie zu Hause?
     - Am besten gehen Sie zu Fuß.
-    - Gehen Ihre Kinder schon/noch zur
-      Schule?
+    - Gehen Ihre Kinder schon/noch zur Schule?
     - Bitte zwanzig Briefmarken zu 55 Cent.
     - Ich trinke zum Essen ein Bier.
     - Unsere Mannschaft hat 2 zu 1 gewonnen.
-    - Ich habe vor, mir ein neues Auto zu
-      kaufen.
+    - Ich habe vor, mir ein neues Auto zu kaufen.
     - Hast du etwas zu trinken für mich?
 
 - Id: zubereiten
@@ -23007,13 +22260,6 @@
   Examples:
     - example1
 
-- Id: der Kindergarten
-  Level: M
-  Form: ¨-e
-  Meaning: nursery school
-  Examples:
-    - example1
-
 - Id: die Krippe
   Level: M
   Form: ¨-e
@@ -23084,13 +22330,6 @@
   Examples:
     - example1
 
-- Id: die Universität
-  Level: M
-  Form: ¨-e
-  Meaning: university
-  Examples:
-    - example1
-
 - Id: die Volkshochschule
   Level: M
   Form: ¨-e
@@ -23105,13 +22344,6 @@
   Examples:
     - example1
 
-- Id: die Biologie
-  Level: M
-  Form: ¨-e
-  Meaning: biology
-  Examples:
-    - example1
-
 - Id: die Chemie
   Level: M
   Form: ¨-e
@@ -23123,13 +22355,6 @@
   Level: M
   Form: ¨-e
   Meaning: geography
-  Examples:
-    - example1
-
-- Id: die Geschichte
-  Level: M
-  Form: ¨-e
-  Meaning: history
   Examples:
     - example1
 
@@ -23200,13 +22425,6 @@
   Level: M
   Form: ¨-e
   Meaning: insufficient (6)
-  Examples:
-    - example1
-
-- Id: die Farbe
-  Level: M
-  Form: ¨-e
-  Meaning: colour
   Examples:
     - example1
 
@@ -23873,13 +23091,6 @@
   Examples:
     - example1
 
-- Id: die Schlange
-  Level: M
-  Form: ¨-e
-  Meaning: snake
-  Examples:
-    - example1
-
 - Id: das Schwein
   Level: M
   Form: -e
@@ -23926,13 +23137,6 @@
   Level: M
   Form: ¨-e
   Meaning: 1 centimeter
-  Examples:
-    - example1
-
-- Id: das Gewicht
-  Level: M
-  Form: ¨-e
-  Meaning: weight
   Examples:
     - example1
 
@@ -24033,126 +23237,126 @@
 - Id: eins
   Level: M
   Form: ¨-e
-  Meaning: '1'
+  Meaning: 1
   Examples:
     - example1
 
 - Id: zwei
   Level: M
   Form: ¨-e
-  Meaning: '2'
+  Meaning: 2
   Examples:
     - example1
 
 - Id: drei
   Level: M
   Form: ¨-e
-  Meaning: '3'
+  Meaning: 3
   Examples:
     - example1
 
 - Id: vier
   Level: M
   Form: ¨-e
-  Meaning: '4'
+  Meaning: 4
   Examples:
     - example1
 
 - Id: fünf
   Level: M
   Form: ¨-e
-  Meaning: '5'
+  Meaning: 5
   Examples:
     - example1
 
 - Id: sechs
   Level: M
   Form: ¨-e
-  Meaning: '6'
+  Meaning: 6
   Examples:
     - example1
 
 - Id: sieben
   Level: M
   Form: ¨-e
-  Meaning: '7'
+  Meaning: 7
   Examples:
     - example1
 
 - Id: acht
   Level: M
   Form: ¨-e
-  Meaning: '8'
+  Meaning: 8
   Examples:
     - example1
 
 - Id: neun
   Level: M
   Form: ¨-e
-  Meaning: '9'
+  Meaning: 9
   Examples:
     - example1
 
 - Id: zehn
   Level: M
   Form: ¨-e
-  Meaning: '10'
+  Meaning: 10
   Examples:
     - example1
 
 - Id: elf
   Level: M
   Form: ¨-e
-  Meaning: '11'
+  Meaning: 11
   Examples:
     - example1
 
 - Id: zwölf
   Level: M
   Form: ¨-e
-  Meaning: '12'
+  Meaning: 12
   Examples:
     - example1
 
 - Id: dreizehn
   Level: M
   Form: ¨-e
-  Meaning: '13'
+  Meaning: 13
   Examples:
     - example1
 
 - Id: einundzwanzig
   Level: M
   Form: ¨-e
-  Meaning: '21'
+  Meaning: 21
   Examples:
     - example1
 
 - Id: dreißig
   Level: M
   Form: ¨-e
-  Meaning: '30'
+  Meaning: 30
   Examples:
     - example1
 
 - Id: einhundert
   Level: M
   Form: ¨-e
-  Meaning: '100'
+  Meaning: 100
   Examples:
     - example1
 
 - Id: einhundertundeins
   Level: M
   Form: ¨-e
-  Meaning: '101'
+  Meaning: 101
   Examples:
     - example1
 
 - Id: zweihundert
   Level: M
   Form: ¨-e
-  Meaning: '200'
+  Meaning: 200
   Examples:
     - example1
 
@@ -24305,14 +23509,14 @@
 - Id: neunzehnhundertneunundneunzig
   Level: M
   Form: ¨-e
-  Meaning: '1999'
+  Meaning: 1999
   Examples:
     - example1
 
 - Id: zweitausendundvier
   Level: M
   Form: ¨-e
-  Meaning: '2004'
+  Meaning: 2004
   Examples:
     - example1
 
@@ -24734,15 +23938,13 @@
   Form: -n
   Meaning: the weekend
   Examples:
-    - Ich arbeite die ganze Woche und muss
-      auch am Wochenende arbeiten.
+    - Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.
 
 - Id: am Wochenende
   Level: M
   Meaning: at the weekend
   Examples:
-    - Ich arbeite die ganze Woche und muss
-      auch am Wochenende arbeiten.
+    - Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.
 
 - Id: der Montag
   Level: M
