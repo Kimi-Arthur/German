@@ -5267,17 +5267,19 @@
 
 - Id: einladen
   Level: A1
-  Form: ¨-e
+  Form: lädt ein, lud ein,
+    hat eingeladen
   Meaning: to invite
   Examples:
-    - example1
+    - Darf ich Sie zu einem Kaffee einladen?
+    - Darf ich Sie zum Essen einladen?
 
 - Id: die Einladung
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: invitation
   Examples:
-    - example1
+    - Danke für die Einladung zu deinem Geburtstag!
 
 - Id: die Einleitung
   Level: B1
@@ -8118,10 +8120,15 @@
 
 - Id: das Gespräch
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: conversation, discussion
   Examples:
-    - example1
+    - Das Gespräch mit Frau Kunz ist um 14 Uhr.
+    - Sie hören ein Gespräch. Zu diesem Gespräch gibt es
+      fünf Aufgaben.
+    - Herr Müller ist gerade in einem
+      Gespräch.
+    - Ich erwarte ein Gespräch aus Berlin.
 
 - Id: gestern
   Level: A1
@@ -13051,11 +13058,21 @@
     - example1
 
 - Id: die Nachricht
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: news
   Examples:
-    - example1
+    - Ich sehe abends immer die Nachrichten im
+      Fernsehen.
+    - Kommst du mit ins Kino? - Ich weiß es noch nicht.
+    - Ich schreibe dir später eine Nachricht.
+    - Sie haben keine neuen Nachrichten.
+    - Ich habe eine gute Nachricht für Sie.
+      Sie haben die Prüfung bestanden.
+    - Ich habe im Radio die Nachrichten
+      gehört.
+    - Im Moment bin ich nicht zu Hause.
+      Aber Sie können eine Nachricht hinterlassen.
 
 - Id: nachschlagen
   Level: B1
@@ -18553,7 +18570,7 @@
     - example1
 
 - Id: die Tour
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: tour
   Examples:
@@ -18562,17 +18579,23 @@
 
 - Id: der Tourismus
   Level: B1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: tourism
   Examples:
-    - example1
+    - In dieser Gegend gibt es viel
+      Tourismus.
 
 - Id: der Tourist
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
+  Feminine:
+    Word: die Touristin
+    Form: -nen
   Meaning: tourist
   Examples:
-    - example1
+    - Im Sommer kommen viele Touristen in diese Stadt.
+    - Es kommen immer mehr Touristen in
+      unsere Stadt.
 
 - Id: die Tradition
   Level: B1
@@ -19631,11 +19654,12 @@
     - example1
 
 - Id: die Veranstaltung
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: event, function
   Examples:
-    - example1
+    - Am Samstag ist unser Lokal geschlos -
+      sen. Wir haben eine Veranstaltung.
 
 - Id: verantwortlich
   Level: B1
@@ -22799,10 +22823,13 @@
 
 - Id: der Bundespräsident
   Level: M
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Word: die Bundespräsidentin
+    Form: -nen
   Meaning: Federal President
   Examples:
-    - example1
+    - Mit dem linken Handrücken wischte der Bundespräsident sich den Mund ab.
 
 - Id: das Bundesland
   Level: M
@@ -24364,3 +24391,17 @@
   Meaning: equality
   Examples:
     - Ich bringe etwas in die Gleiche.
+
+- Word: das Markenzeichen
+  Level: K
+  Form: '-'
+  Meaning: trademark
+  Examples:
+    - Herrn Gleismann-Kubitzki war nicht bekannt, dass das Wort Regionalexpress ein Markenzeichen ist.
+
+- Word: die Öffnungszeit
+  Level: K
+  Form: -en (Pl.)
+  Meaning: opening hours
+  Examples:
+    - Die Öffnungszeiten der Geschäfte könnten flexibler gestaltet werden.
