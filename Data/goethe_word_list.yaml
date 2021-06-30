@@ -18589,7 +18589,7 @@
   Level: A2
   Form: -en
   Feminine:
-    Word: die Touristin
+    Id: die Touristin
     Form: -nen
   Meaning: tourist
   Examples:
@@ -22825,7 +22825,7 @@
   Level: M
   Form: '-'
   Feminine:
-    Word: die Bundespräsidentin
+    Id: die Bundespräsidentin
     Form: -nen
   Meaning: Federal President
   Examples:
@@ -24392,14 +24392,14 @@
   Examples:
     - Ich bringe etwas in die Gleiche.
 
-- Word: das Markenzeichen
+- Id: das Markenzeichen
   Level: K
   Form: '-'
   Meaning: trademark
   Examples:
     - Herrn Gleismann-Kubitzki war nicht bekannt, dass das Wort Regionalexpress ein Markenzeichen ist.
 
-- Word: die Öffnungszeit
+- Id: die Öffnungszeit
   Level: K
   Form: -en (Pl.)
   Meaning: opening hours
