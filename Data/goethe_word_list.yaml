@@ -1,3 +1,4 @@
+# goethe/words
 - Id: ab
   Level: A1
   Meaning: from
@@ -5267,8 +5268,7 @@
 
 - Id: einladen
   Level: A1
-  Form: lädt ein, lud ein,
-    hat eingeladen
+  Form: lädt ein, lud ein, hat eingeladen
   Meaning: to invite
   Examples:
     - Darf ich Sie zu einem Kaffee einladen?
@@ -8124,10 +8124,8 @@
   Meaning: conversation, discussion
   Examples:
     - Das Gespräch mit Frau Kunz ist um 14 Uhr.
-    - Sie hören ein Gespräch. Zu diesem Gespräch gibt es
-      fünf Aufgaben.
-    - Herr Müller ist gerade in einem
-      Gespräch.
+    - Sie hören ein Gespräch. Zu diesem Gespräch gibt es fünf Aufgaben.
+    - Herr Müller ist gerade in einem Gespräch.
     - Ich erwarte ein Gespräch aus Berlin.
 
 - Id: gestern
@@ -13062,17 +13060,13 @@
   Form: -en
   Meaning: news
   Examples:
-    - Ich sehe abends immer die Nachrichten im
-      Fernsehen.
+    - Ich sehe abends immer die Nachrichten im Fernsehen.
     - Kommst du mit ins Kino? - Ich weiß es noch nicht.
     - Ich schreibe dir später eine Nachricht.
     - Sie haben keine neuen Nachrichten.
-    - Ich habe eine gute Nachricht für Sie.
-      Sie haben die Prüfung bestanden.
-    - Ich habe im Radio die Nachrichten
-      gehört.
-    - Im Moment bin ich nicht zu Hause.
-      Aber Sie können eine Nachricht hinterlassen.
+    - Ich habe eine gute Nachricht für Sie. Sie haben die Prüfung bestanden.
+    - Ich habe im Radio die Nachrichten gehört.
+    - Im Moment bin ich nicht zu Hause. Aber Sie können eine Nachricht hinterlassen.
 
 - Id: nachschlagen
   Level: B1
@@ -18582,8 +18576,7 @@
   Form: (Sg.)
   Meaning: tourism
   Examples:
-    - In dieser Gegend gibt es viel
-      Tourismus.
+    - In dieser Gegend gibt es viel Tourismus.
 
 - Id: der Tourist
   Level: A2
@@ -18594,8 +18587,7 @@
   Meaning: tourist
   Examples:
     - Im Sommer kommen viele Touristen in diese Stadt.
-    - Es kommen immer mehr Touristen in
-      unsere Stadt.
+    - Es kommen immer mehr Touristen in unsere Stadt.
 
 - Id: die Tradition
   Level: B1
@@ -19658,8 +19650,7 @@
   Form: -en
   Meaning: event, function
   Examples:
-    - Am Samstag ist unser Lokal geschlos -
-      sen. Wir haben eine Veranstaltung.
+    - Am Samstag ist unser Lokal geschlos - sen. Wir haben eine Veranstaltung.
 
 - Id: verantwortlich
   Level: B1
