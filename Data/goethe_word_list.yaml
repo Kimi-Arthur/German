@@ -8973,10 +8973,15 @@
 
 - Id: die Heimat
   Level: A1
-  Form: ¨-e
+  Form: -en / (Sg.)
   Meaning: homeland
   Examples:
-    - example1
+    - Ich komme aus der Schweiz. Das ist meine Heimat.
+    - Mein Heimatland ist Italien. Dort bin ich geboren.
+    - Jetzt lebe ich in Deutschland, das ist meine neue
+      Heimat.
+    - Ich lebe jetzt hier in Deutschland. Das
+      ist meine neue Heimat.
 
 - Id: heimlich
   Level: B1
@@ -10055,18 +10060,26 @@
     - example1
 
 - Id: kalt
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: cold
   Examples:
-    - example1
+    - Heute ist es sehr kalt.
+    - Der Kaffee ist kalt. Ich möchte ihn nicht mehr
+      trinken.
+    - Mir ist kalt.
+    - Du hast ja ganz kalte Hände.
+    - Das Mittagessen ist kalt geworden.
+    - Abends essen wir immer kalt.
+    - Wir hatten einen kalten Winter.
+    - Mir ist kalt. Mach bitte die Heizung an.
 
 - Id: die Kälte
   Level: B1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: coldness, cold (weather)
   Examples:
-    - example1
+    - Bei dieser Kälte fahre ich nicht mit
+      dem Fahrrad.
 
 - Id: die Kamera
   Level: B1
@@ -10126,24 +10139,28 @@
 
 - Id: kaputt
   Level: A1
-  Form: ¨-e
   Meaning: broken
   Examples:
-    - example1
+    - Das Glas war teuer. Es geht sehr leicht kaputt.
+    - Unsere Waschmaschine ist kaputt.
+    - Ich bin noch ganz kaputt von der
+      Reise.
 
 - Id: kaputtgehen
   Level: B1
-  Form: ¨-e
+  Form: geht kaputt, ging kaputt, ist kaputtgegangen
   Meaning: to get broken
   Examples:
-    - example1
+    - Pass bitte mit diesem Glas auf. Es geht
+      leicht kaputt.
+    - Der Fernseher ist gestern kaputtgegangen.
 
 - Id: kaputtmachen
   Level: B1
-  Form: ¨-e
+  Form: macht kaputt, machte kaputt, hat kaputtgemacht
   Meaning: to break
   Examples:
-    - example1
+    - Wer hat die Lampe kaputtgemacht?
 
 - Id: der Karneval
   Level: B1
@@ -10468,10 +10485,12 @@
 
 - Id: das Klavier
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: piano
   Examples:
-    - example1
+    - Jakob kann sehr gut Klavier spielen.
+    - Meine Tochter möchte Klavier spielen
+      lernen.
 
 - Id: kleben
   Level: B1
@@ -11607,10 +11626,10 @@
 
 - Id: ledig
   Level: A1
-  Form: ¨-e
   Meaning: single
   Examples:
-    - example1
+    - Sind Sie verheiratet? – Nein. Ledig.
+    - Wie ist Ihr Familienstand? – Ledig.
 
 - Id: leer
   Level: B1
@@ -12464,17 +12483,18 @@
 
 - Id: der Mensch
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: human being, person
   Examples:
-    - example1
+    - Die Menschen sind hier anders als bei uns.
+    - Die Menschen sind hier ein bisschen anders als
+      im Süden.
 
 - Id: menschlich
   Level: B1
-  Form: ¨-e
-  Meaning: human, humane
+  Meaning: mankind, humane
   Examples:
-    - example1
+    - Fehler zu machen ist menschlich.
 
 - Id: das Menü
   Level: B1
@@ -12851,11 +12871,11 @@
     - Die Moderatorin der Radiosendung diskutiert mit zwei Gästen.
 
 - Id: modern
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: modern
   Examples:
-    - example1
+    - Das Stadtzentrum von Frankfurt ist sehr modern.
+    - Die Wohnung ist modern eingerichtet.
 
 - Id: das Modul
   Level: B1
@@ -12906,10 +12926,13 @@
 
 - Id: der Moment
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: moment
   Examples:
-    - example1
+    - Moment mal bitte!
+    - Einen Moment bitte.
+    - Warten Sie bitte einen Moment.
+    - Ich habe im Moment sehr viel zu tun.
 
 - Id: der Mond
   Level: B1
@@ -13627,10 +13650,19 @@
 
 - Id: die Nummer
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: number
   Examples:
-    - example1
+    - Sie haben Zimmer Nummer zwölf.
+    - Welche Hausnummer haben Sie?
+    - Können Sie mir Ihre Nummer geben?
+    - Haben Sie die Bluse auch eine Nummer kleiner?
+    - Ich habe mich in der Hausnummer
+      geirrt.
+    - Ich habe die falsche Nummer gewählt.
+    - Der Wagen hatte eine Münchner
+      Nummer.
+    -  Bitte geben Sie mir Ihre Kontonummer.
 
 - Id: nun
   Level: B1
@@ -14951,7 +14983,9 @@
   Form: ¨-e
   Meaning: room
   Examples:
-    - example1
+    - Der Unterricht ist in Raum 332.
+    - Der Unterricht findet heute in Raum 332 statt.
+    - Getränke gibt es im Raum nebenan.
 
 - Id: rauf
   Level: B1
@@ -15071,18 +15105,20 @@
     - example1
 
 - Id: reden
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: redet, redete, hat geredet
   Meaning: to talk, speak
   Examples:
-    - example1
+    - Mit meiner Freundin kann ich über alles reden.
+    - Rede nicht so viel!
+    - Worüber habt ihr gestern geredet?
 
 - Id: die Rede
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: speech, talk
   Examples:
-    - example1
+    - Der Präsident hat eine Rede gehalten.
 
 - Id: reduzieren
   Level: B1
@@ -15135,17 +15171,22 @@
 
 - Id: regnen
   Level: A1
-  Form: ¨-e
+  Form: regnet, regnete, hat geregnet
   Meaning: to rain
   Examples:
-    - example1
+    - Heute regnet es.
+    - Wenn es regnet, bleiben wir zu Hause.
+    - Es hat gestern den ganzen Tag
+      geregnet.
 
 - Id: der Regen
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: '-' / (Sg.)
   Meaning: rain
   Examples:
-    - example1
+    - Bei diesem Regen gehe ich nicht raus.
+    - Bei Regen gehe ich nicht aus dem Haus.
+    - Bei Regen fällt das Konzert aus.
 
 - Id: die Region
   Level: B1
@@ -15649,10 +15690,15 @@
 
 - Id: sagen
   Level: A1
-  Form: ¨-e
+  Form: sagt, sagte, hat gesagt
   Meaning: to say
   Examples:
-    - example1
+    - Sag mal, wie geht es dir denn?
+    - Entschuldigung, was haben Sie gesagt?
+    - Wie sagt man „sorry“ auf Deutsch?
+    - Sag mal, wie geht es dir denn?
+    - Können Sie mir bitte sagen, wo hier
+      ein Geldautomat ist?
 
 - Id: die Sahne
   Level: B1
@@ -20026,10 +20072,12 @@
 
 - Id: verheiratet
   Level: A1
-  Form: ¨-e
   Meaning: married
   Examples:
-    - example1
+    - Ich bin verheiratet und habe drei Kinder.
+    - Mit wem sind Sie verheiratet?
+    - Meine Eltern sind seit 30 Jahren
+      verheiratet.
 
 - Id: verhindern
   Level: B1
@@ -20525,10 +20573,16 @@
 
 - Id: vielleicht
   Level: A1
-  Form: ¨-e
   Meaning: maybe
   Examples:
-    - example1
+    - Ich komme vielleicht mit dem Bus.
+    - Vielleicht bekomme ich diesen Job.
+    - Er besucht uns vielleicht am Wochenende.
+    - Kannst du mir vielleicht ein bisschen Geld leihen?
+    - Kommst du mit in die Stadt? - Ich weiß
+      noch nicht. Vielleicht.
+    - Die Fahrkarte war vielleicht teuer!
+    - Hast du vielleicht Kleingeld für mich?
 
 - Id: das Viertel
   Level: B1
@@ -20706,18 +20760,18 @@
     - example1
 
 - Id: vorher
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: before(hand)
   Examples:
-    - example1
+    - Ich komme mit ins Café. Vorher muss
+      ich aber noch zur Bank.
 
 - Id: vorhin
   Level: B1
-  Form: ¨-e
   Meaning: not long ago, just now
   Examples:
-    - example1
+    - Vorhin hat Heidrun angerufen. Du
+      sollst sie zurückrufen.
 
 - Id: vorkommen
   Level: B1
@@ -22078,10 +22132,11 @@
 
 - Id: zubereiten
   Level: B1
-  Form: ¨-e
+  Form:  bereitet zu, bereitete zu, hat zubereitet
   Meaning: to prepare
   Examples:
-    - example1
+    - Sie bereitet das Fleisch mit Kartoffeln
+      zu.
 
 - Id: der Zucker
   Level: B1
@@ -23733,10 +23788,10 @@
 
 - Id: das Weihnachten
   Level: M
-  Form: ¨-e
+  Form: '-'
   Meaning: Christmas
   Examples:
-    - example1
+    - In drei Tagen ist Weihnachten.
 
 - Id: der Silvester
   Level: M
@@ -24592,4 +24647,52 @@
   Meaning: to communicate
   Examples:
     - Immerhin kommunizieren die beiden noch miteinander.
+
+- Id: die Rotation
+  Level: K
+  Form: -en
+  Meaning: rotation
+  Examples:
+    - Die Rotation der Erde sorgt für Tag und Nacht.
+
+- Id: die Impfung
+  Level: K
+  Form: -en
+  Meaning: vaccination
+  Examples:
+    - Impfungen sind in der Schweiz freiwillig.
+
+- Id: beitreten
+  Level: K
+  Form: tritt bei, trat bei, ist beigetreten (+ Dativ)
+  Meaning: to join (to become a member of)
+  Examples:
+    - Ich kann der Gewerkschaft nicht beitreten.
+
+- Id: gebrochen
+  Level: K
+  Meaning: broken (physically)
+  Examples:
+    - Dieses gebrochene Orange steht dir gut!
+
+- Id: verrücken
+  Level: K
+  Form: verrückt, verrückte, hat verrückt
+  Meaning: to shift; to move by pushing
+  Examples:
+    - In Graz müssen zahlreiche Ortstafeln verrückt werden.
+
+- Id: die Heimatstadt
+  Level: K
+  Form: ¨-e
+  Meaning: hometown
+  Examples:
+    - Meine Heimatstadt Duisburg hat Geschichte geschrieben.
+
+- Id: bügeln
+  Level: K
+  Form: bügelt, bügelte, hat gebügelt
+  Meaning: to iron
+  Examples:
+    - Ich muss noch meine Hemden bügeln.
 
