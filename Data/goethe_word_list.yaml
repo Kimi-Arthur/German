@@ -4641,10 +4641,13 @@
 
 - Id: das Dokument
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: document
   Examples:
-    - example1
+    - Hast du alle Dokumente für die
+      Anmeldung dabei?
+    - Dieser Stein ist ein wichtiges
+      Dokument für die alte römische Kultur.
 
 - Id: donnern
   Level: B1
@@ -5769,10 +5772,13 @@
 
 - Id: entwickeln
   Level: B1
-  Form: ¨-e
+  Form: entwickelt, entwickelte, hat entwickelt
   Meaning: to develop
   Examples:
-    - example1
+    - Unser Sohn entwickelt sich gut in der
+      Schule.
+    - Die Firma hat ein neues Produkt
+      entwickelt.
 
 - Id: die Entwicklung
   Level: B1
@@ -6526,10 +6532,11 @@
 
 - Id: faulenzen
   Level: B1
-  Form: ¨-e
+  Form: faulenzt, faulenzte, hat gefaulenzt
   Meaning: to idle
   Examples:
-    - example1
+    - Am Wochenende können wir
+      faulenzen.
 
 - Id: das Fax
   Level: A1
@@ -6561,31 +6568,36 @@
 
 - Id: feiern
   Level: A1
-  Form: ¨-e
+  Form: feiert, feierte, hat gefeiert
   Meaning: to celebrate
   Examples:
-    - example1
+    - Wir feiern heute meinen Geburtstag.
+    - Wir haben gestern Karls Geburtstag gefeiert.
 
 - Id: die Feier
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: celebration
   Examples:
-    - example1
+    - Es war eine schöne Feier.
+    - Die Feier war sehr schön.
 
 - Id: der Feierabend
-  Level: B1
-  Form: ¨-e
-  Meaning: end of the working day
+  Level: A1
+  Form: -e
+  Meaning: quitting time, hometime
   Examples:
-    - example1
+    - Wann hast du Feierabend?
+    - Einen schönen Feierabend.
 
 - Id: der Feiertag
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: -e
   Meaning: public holiday
   Examples:
-    - example1
+    - Am Montag ist Feiertag.
+    - Am ersten Mai ist ein Feiertag.
+    - Schöne Feiertage.
 
 - Id: das Feld
   Level: B1
@@ -6617,24 +6629,28 @@
 
 - Id: fernsehen
   Level: A1
-  Form: ¨-e
+  Form: sieht fern, sah fern, hat ferngesehen
   Meaning: to watch television
   Examples:
-    - example1
+    - Wollen wir heute Abend mal fernsehen?
+    - Lass uns heute Abend mal fernsehen.
+    - Meine Kinder dürfen abends nur eine
+      Stunde fernsehen.
 
 - Id: das Fernsehen
   Level: B1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: television (broadcasting)
   Examples:
-    - example1
+    - Was gibt es heute Abend im
+      Fernsehen?
 
 - Id: der Fernseher
-  Level: A1
-  Form: ¨-e
+  Level: A2
+  Form: '-'
   Meaning: television (set)
   Examples:
-    - example1
+    - Der Fernseher ist schon wieder kaputt.
 
 - Id: fertig
   Level: A1
@@ -7234,24 +7250,32 @@
 
 - Id: der Freund
   Level: A1
-  Form: ¨-e
+  Form: -e
+  Feminine:
+    Id: die Freundin
+    Form: -nen
   Meaning: friend
   Examples:
-    - example1
+    - Das ist ein Freund von mir.
+    - Das ist meine Freundin Susanne.
+    - Ich sehe meine Freunde nur am
+      Wochenende.
 
 - Id: freundlich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: friendly
   Examples:
-    - example1
+    - Der Mann ist sehr freundlich zu mir.
+    - Mit freundlichen Grüßen
+    - Er hat uns sehr freundlich begrüßt.
 
 - Id: die Freundschaft
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: friendship
   Examples:
-    - example1
+    - Deine Freundschaft ist mir sehr
+      wichtig.
 
 - Id: der Frieden
   Level: B1
@@ -7360,24 +7384,43 @@
 
 - Id: führen
   Level: B1
-  Form: ¨-e
+  Form: führt, führte, hat geführt
   Meaning: to lead
   Examples:
-    - example1
+    - Der Lehrer führt seine Schüler durch
+      das Museum.
+    - Frau Meyer führt den Betrieb schon
+      seit zehn Jahren.
+    - 'Nach 20 Minuten führte unsere Mannschaft 2: 0.'
+    - Die Straße führt direkt zum Bahnhof.
+
+- Id: der Führerausweis
+  Level: B1
+  Form: -e
+  Synonym: (CH) = (D, A) Führerschein
+  Meaning: driving id
+  Examples:
+    - Hast du einen Führerausweis?
 
 - Id: der Führerschein
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
+  Synonym: (D, A) = (CH) Führerausweis
   Meaning: driving license
   Examples:
-    - example1
+    - Hast du einen Führerschein?
+    - Sie hat die Führerscheinprüfung bestanden.
+    - Ich habe vor einem halben Jahr den
+      Führerschein gemacht.
 
 - Id: die Führung
   Level: A1
-  Form: ¨-e
-  Meaning: guide, tour
+  Form: -en
+  Meaning: lead, conducted tour
   Examples:
-    - example1
+    - Die Führung durch das Haus beginnt in 3 Minuten.
+    - Die nächste Führung beginnt um 15 Uhr.
+    - Bayern München liegt in Führung.
 
 - Id: das Fundbüro
   Level: B1
@@ -7419,7 +7462,9 @@
   Form: ¨-e
   Meaning: football
   Examples:
-    - example1
+    - Spielt ihr gerne Fußball?
+    - Jonas wünscht sich zu Weihnachten
+      einen neuen Fußball.
 
 - Id: der Fußgänger
   Level: B1
@@ -7531,21 +7576,28 @@
   Form: ¨-e
   Meaning: guest
   Examples:
-    - example1
+    - Am Wochenende haben wir mehrere Gäste.
+    - Heute Abend haben wir Gäste.
+    - Der Gast hat sich über das Essen
+      beschwert.
 
 - Id: das Gasthaus
   Level: B1
-  Form: ¨-e
-  Meaning: guest house
+  Form: ¨-er
+  Synonym: (A)
+  Meaning: restaurant (-h-)
   Examples:
-    - example1
+    - Gehen wir noch in ein Gasthaus ein
+      Bier trinken?
 
 - Id: die Gaststätte
   Level: B1
-  Form: ¨-e
-  Meaning: restaurant
+  Form: -n
+  Synonym: (D)
+  Meaning: restaurant (-ä-)
   Examples:
-    - example1
+    - Ich arbeite seit einem Monat in einer
+      Gaststätte.
 
 - Id: das Gebäude
   Level: B1
@@ -9565,10 +9617,13 @@
 
 - Id: der Ingenieur
   Level: B1
-  Form: ¨-e
+  Form: -e
+  Feminine:
+    Id: die Ingenieurin
+    Form: -nen
   Meaning: engineer
   Examples:
-    - example1
+    - Hans will Bauingenieur werden.
 
 - Id: der Inhalt
   Level: B1
@@ -9915,11 +9970,15 @@
     - Ich jogge gern im Park.
 
 - Id: der Journalist
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
+  Feminine:
+    Id: die Journalistin
+    Form: -nen
   Meaning: journalist
   Examples:
-    - example1
+    - Meine Tochter möchte Journalistin
+      werden.
 
 - Id: die Jugend
   Level: B1
@@ -9979,7 +10038,7 @@
     - Einen Kaffee, bitte.
     - Bring bitte noch eine Packung Kaffee mit.
     - Wir sind bei Müllers zum Kaffee eingeladen.
-    - 
+    -
 
 - Id: der Kakao
   Level: B1
@@ -10231,11 +10290,15 @@
     - example1
 
 - Id: der Kellner
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: '-'
+  Feminine:
+    Id: die Kellnerin
+    Form: -nen
+  Synonym: = (D, A) Ober = (CH) Serviceangestellter
   Meaning: waiter
   Examples:
-    - example1
+    - Ich bin Kellnerin von Beruf.
 
 - Id: kennen
   Level: A1
@@ -10541,10 +10604,12 @@
 
 - Id: die Kneipe
   Level: B1
-  Form: ¨-e
+  Form: -n
+  Synonym: (D)
   Meaning: pub
   Examples:
-    - example1
+    - Gehen wir noch in eine Kneipe ein Bier
+      trinken?
 
 - Id: das Knie
   Level: B1
@@ -10603,17 +10668,16 @@
 
 - Id: der Kollege
   Level: A1
-  Form: ¨-e
+  Form: -n
+  Feminine:
+    Id: die Kollegin
+    Form: -nen
   Meaning: colleague
   Examples:
-    - example1
-
-- Id: die Kollegin
-  Level: B1
-  Form: ¨-e
-  Meaning: colleague (female)
-  Examples:
-    - example1
+    - Wie heißt die neue Kollegin?
+    - Ich habe guten Kontakt zu meinen
+      Kollegen.
+    - Mein neuer Kollege ist sehr nett.
 
 - Id: komisch
   Level: B1
@@ -10759,11 +10823,15 @@
     - example1
 
 - Id: kontrollieren
-  Level: B1
-  Form: ¨-e
-  Meaning: to control
+  Level: A2
+  Form: kontrolliert, kontrollierte, hat kontrolliert
+  Meaning: to control, to check
   Examples:
-    - example1
+    - Können Sie bei meinem Auto bitte das Öl kontrollieren?
+    - Bitte öffnen Sie Ihren Koffer, wir müssen Ihr
+      Gepäck kontrollieren.
+    - Beim Auto müssen Sie regelmäßig das
+      Öl kontrollieren.
 
 - Id: die Kontrolle
   Level: B1
@@ -11441,10 +11509,22 @@
 
 - Id: laufen
   Level: A1
-  Form: ¨-e
+  Form: läuft, lief, ist gelaufen
   Meaning: to run
   Examples:
-    - example1
+    - Ich möchte nicht Auto fahren, ich möchte laufen.
+    - Ich gehe jeden Morgen laufen.
+    - Unsere Tochter ist erst ein Jahr alt, aber sie kann
+      schon laufen.
+    - Wann läuft der Film?
+    - Ich bin gestern 100 m in 10,4 Sekunden
+      gelaufen.
+    - Bist du mit dem Auto hier? – Nein, ich
+      bin gelaufen.
+    - Jeden Morgen gehe ich eine halbe
+      Stunde laufen.
+    - Wie geht´s beruflich? – Danke, das
+      Geschäft läuft gut.
 
 - Id: das Laufwerk
   Level: B1
@@ -11562,10 +11642,14 @@
 
 - Id: der Lehrer
   Level: A1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Id: die Lehrerin
+    Form: -nen
   Meaning: teacher
   Examples:
-    - example1
+    - Unsere Deutschlehrerin heißt Frau Müller.
+    - Die Lehrerin hat heute viele Hausaufgaben gegeben.
 
 - Id: die Lehrerin
   Level: B1
@@ -11686,17 +11770,28 @@
 
 - Id: lesen
   Level: A1
-  Form: ¨-e
+  Form: liest, las, hat gelesen
   Meaning: to read
   Examples:
-    - example1
+    - Ich lese ein Buch von García Márquez.
+    - In der Schule lesen wir ein Buch von Goethe.
+    - Ich habe gelesen, dass es ab heute
+      Sonderangebote gibt.
+    - Deine Schrift kann ich nicht gut lesen.
+    - In der Schule lesen wir ein Buch von
+      Goethe.
 
 - Id: der Leser
   Level: B1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Id: die Leserin
+    Form: -nen
   Meaning: reader
   Examples:
-    - example1
+    - Die Leserinnen und Leser sind mit der
+      Zeitung zufrieden.
+    - Ich werde einen Leserbrief schreiben.
 
 - Id: letzt-
   Level: A1
@@ -12615,18 +12710,14 @@
     - Warum spielt ihr nicht mit?
 
 - Id: der Mitarbeiter
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: '-'
+  Feminine:
+    Id: die Mitarbeiterin
+    Form: -nen
   Meaning: employee
   Examples:
-    - example1
-
-- Id: die Mitarbeiterin
-  Level: B1
-  Form: ¨-e
-  Meaning: employee (fem.)
-  Examples:
-    - example1
+    - Unsere Firma hat sieben Mitarbeiter.
 
 - Id: miteinander
   Level: B1
@@ -13623,10 +13714,13 @@
 
 - Id: oder
   Level: A1
-  Form: ¨-e
   Meaning: or
   Examples:
-    - example1
+    - Wann können Sie kommen – Heute oder morgen?
+    - Entweder fahren wir mit dem Bus oder wir gehen
+      zu Fuß.
+    - Möchten Sie Kaffee oder Tee?
+    -
 
 - Id: der Ofen
   Level: B1
@@ -13978,10 +14072,12 @@
 
 - Id: die Party
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: party
   Examples:
-    - example1
+    - Heute Abend machen wir eine Party.
+    - Letzte Woche war ich auf einer
+      Geburtstagsparty.
 
 - Id: der Pass
   Level: A1
@@ -14020,17 +14116,14 @@
 
 - Id: der Patient
   Level: B1
-  Form: ¨-e
+  Form: -en
+  Feminine:
+    Id: die Patientin
+    Form: -nen
   Meaning: patient
   Examples:
-    - example1
-
-- Id: die Patientin
-  Level: B1
-  Form: ¨-e
-  Meaning: patient (fem.)
-  Examples:
-    - example1
+    - Ich bin Patientin bei Dr. Hausner. Ich
+      möchte bitte einen Termin.
 
 - Id: pauschal
   Level: B1
@@ -14448,10 +14541,11 @@
 
 - Id: präsentieren
   Level: B1
-  Form: ¨-e
+  Form: präsentiert, präsentierte, hat präsentiert
   Meaning: to present
   Examples:
-    - example1
+    - Präsentieren Sie Ihre Ergebnisse bitte
+      im Kurs.
 
 - Id: die Präsentation
   Level: B1
@@ -14531,24 +14625,27 @@
 
 - Id: produzieren
   Level: B1
-  Form: ¨-e
+  Form: produziert, produzierte, hat produziert
   Meaning: to produce
   Examples:
-    - example1
+    - Unsere Firma produziert Feuerzeuge.
 
 - Id: das Produkt
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: product
   Examples:
-    - example1
+    - Unsere Produkte haben eine sehr hohe Qualität.
+    - Der Arzt sagt, ich soll keine fertigen
+      Produkte essen.
 
 - Id: die Produktion
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: production
   Examples:
-    - example1
+    - Die Produktion von Käse dauert oft
+      viele Wochen.
 
 - Id: der Professor
   Level: B1
@@ -14572,18 +14669,28 @@
     - example1
 
 - Id: das Programm
-  Level: B1
-  Form: ¨-e
-  Meaning: programme
+  Level: A2
+  Form: -e
+  Meaning: program
   Examples:
-    - example1
+    - Dieses Programm im Radio interessiert mich nicht.
+      Was kommt heute im Kino? Hast du das Programm
+      hier?
+    - Hast du schon ins Programm geguckt?
+      Gibt es heute im Fernsehen einen
+      schönen Film?
+    - Mit welchen Programmen arbeitest du
+      am Computer?
 
 - Id: das Projekt
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: project
   Examples:
-    - example1
+    - Wir machen ein Projekt über Sehenswürdigkeiten in
+      unserer Stadt.
+    - Der Staat fördert Projekte für Kinder
+      und Jugendliche.
 
 - Id: der Prospekt
   Level: A1
@@ -16250,24 +16357,34 @@
 
 - Id: die Schule
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: school
   Examples:
-    - example1
+    - Meine Tochter geht schon in die Schule.
+    - Die Schule ist gleich hier um die Ecke.
+    - Nächste Woche fängt die Schule
+      wieder an.
+
+- Id: die Schularbeit
+  Level: B1
+  Form: -en
+  Synonym: (A) = (D) Klassenarbeit
+  Meaning: classwork
+  Examples:
+    - Mein Sohn schreibt bei Schularbeiten
+      immer gute Noten.
 
 - Id: der Schüler
   Level: A1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Id: die Schülerin
+    Form: -nen
   Meaning: pupil
   Examples:
-    - example1
-
-- Id: die Schülerin
-  Level: B1
-  Form: ¨-e
-  Meaning: pupil (fem.), school student
-  Examples:
-    - example1
+    - In meinem Kurs sind acht Schülerinnen und fünf
+      Schüler.
+    - In der Klasse sind 25 Schülerinnen.
 
 - Id: die Schulter
   Level: B1
@@ -16548,10 +16665,11 @@
 
 - Id: das Seminar
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: seminar
   Examples:
-    - example1
+    - Ich möchte dieses Seminar unbedingt
+      besuchen.
 
 - Id: senden
   Level: B1
@@ -16730,17 +16848,20 @@
 
 - Id: sitzen
   Level: A1
-  Form: ¨-e
+  Form: sitzt, saß, hat/ist gesessen
   Meaning: to sit
   Examples:
-    - example1
+    - Wo sitzen Sie?
+    - Wo möchten Sie sitzen? – Bitte ganz hinten.
+    - Die Jacke sitzt sehr gut.
 
 - Id: der Sitz
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: seat
   Examples:
-    - example1
+    - Ich suche für meinen Sohn einen Sitz
+      fürs Auto. Erst ist erst drei Jahre alt.
 
 - Id: der Ski
   Level: A2
@@ -17169,31 +17290,36 @@
 
 - Id: der Sport
   Level: A1
-  Form: ¨-e
+  Form: -e / (Sg.)
   Meaning: sport
   Examples:
-    - example1
+    - Ich mache viel Sport.
+    - Für Sport interessiere ich mich sehr.
 
 - Id: die Sportart
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: type of sport
   Examples:
-    - example1
+    - Welche Sportart findest du am besten?
 
 - Id: der Sportler
   Level: B1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Id: die Sportlerin
+    Form: -nen
   Meaning: sportsman
   Examples:
-    - example1
+    - Sie ist eine gute Sportlerin.
 
 - Id: sportlich
-  Level: B1
-  Form: ¨-e
+  Level: A2
   Meaning: sporting, sporty, athletic
   Examples:
-    - example1
+    - Tom ist sehr sportlich.
+    - Ich bin nicht sehr sportlich.
+    - Ich mag bequeme und sportliche Kleidung.
 
 - Id: der Spot
   Level: B1
@@ -17265,10 +17391,11 @@
 
 - Id: spülen
   Level: B1
-  Form: ¨-e
+  Form: spült, spülte, hat gespült
   Meaning: to rinse, flush
   Examples:
-    - example1
+    - Hast du das Geschirr gespült?
+    - Spülen Sie bitte jetzt den Mund aus.
 
 - Id: die Spur
   Level: B1
@@ -17410,14 +17537,15 @@
   Form: ¨-e
   Meaning: dust
   Examples:
-    - example1
+    - Ich habe überall Staub gewischt.
 
 - Id: staubsaugen
   Level: B1
-  Form: ¨-e
+  Form: staubsaugt, staubsaugte, hat gestaubsaugt
   Meaning: to vacuum
   Examples:
-    - example1
+    - Ich muss heute in meiner Wohnung
+      noch staubsaugen.
 
 - Id: das Steak
   Level: B1
@@ -17785,31 +17913,43 @@
 
 - Id: studieren
   Level: A1
-  Form: ¨-e
+  Form: studiert, studierte, hat studiert
   Meaning: to study
   Examples:
-    - example1
+    - Ich studiere in Mainz.
+    - Mein Sohn will Medizin studieren.
 
 - Id: der Student
   Level: A1
-  Form: ¨-e
+  Form: -en
+  Feminine:
+    Id: die Studentin
+    Form: -nen
   Meaning: student
   Examples:
-    - example1
+    - Ich bin Studentin.
+    - Schüler und Studenten zahlen die
+      Hälfte.
 
-- Id: der Studierende
+- Id: der Studierender
   Level: B1
-  Form: ¨-e
-  Meaning: student
+  Form: Studierende
+  Feminine:
+    Id: die Studierende
+    Form: '-'
+  Meaning: student (-ie-)
   Examples:
-    - example1
+    - Zehn Studierende besuchen das
+      Seminar.
 
 - Id: das Studium
   Level: A1
-  Form: ¨-e
-  Meaning: studies
+  Form: Studien / (Sg.)
+  Meaning: study, studies
   Examples:
-    - example1
+    - Das Studium dauert drei Jahre.
+    - Sie brauchen für diese Stelle ein
+      abgeschlossenes Studium.
 
 - Id: das Studio
   Level: B1
@@ -18168,24 +18308,27 @@
 
 - Id: die Technik
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: technology, technique
   Examples:
-    - example1
+    - Ich verstehe nicht viel von Technik.
+    - Um die Aufgaben zu lösen, brauchst du
+      eine gute Arbeitstechnik.
 
 - Id: technisch
   Level: B1
-  Form: ¨-e
   Meaning: technical
   Examples:
-    - example1
+    - Es gab ein technisches Problem.
+    - Sind Sie technisch interessiert?
 
 - Id: die Technologie
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: technology
   Examples:
-    - example1
+    - Große Fortschritte gab es in der
+      Technologie.
 
 - Id: der Tee
   Level: A1
@@ -18234,25 +18377,32 @@
     - example1
 
 - Id: teilnehmen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: nimmt teil, nahm teil, hat teilgenommen
   Meaning: to take part
   Examples:
-    - example1
+    - Ich möchte an dem Tanzkurs teilnehmen.
+    - Leider konnte ich an dem Kurs nicht
+      regelmäßig teilnehmen.
 
 - Id: die Teilnahme
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: participation
   Examples:
-    - example1
+    - Die Teilnahme am Gewinnspiel ist
+      kostenlos.
 
 - Id: der Teilnehmer
   Level: B1
-  Form: ¨-e
+  Form: '-'
+  Feminine:
+    Id: die Teilnehmerin
+    Form: -nen
   Meaning: participant
   Examples:
-    - example1
+    - Die Teilnehmerinnen aus unserem Kurs
+      kommen aus verschiedenen Ländern.
 
 - Id: telefonieren
   Level: A1
@@ -18695,11 +18845,11 @@
     - example1
 
 - Id: treiben
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: treibt, trieb, hat getrieben
   Meaning: to play sport
   Examples:
-    - example1
+    - Welchen Sport treibst du?
 
 - Id: der Trend
   Level: B1
@@ -19439,17 +19589,19 @@
 
 - Id: unterrichten
   Level: B1
-  Form: ¨-e
+  Form: unterrichtet, unterrichtete, hat unterrichtet
   Meaning: to teach
   Examples:
-    - example1
+    - Meine Frau unterrichtet Spanisch.
 
 - Id: der Unterricht
   Level: A1
-  Form: ¨-e
+  Form: -e / (Sg.)
   Meaning: lesson
   Examples:
-    - example1
+    - Wir haben Unterricht von 8.00 bis 12.00 Uhr.
+    - Der Unterricht dauert von 17
+      bis 19 Uhr.
 
 - Id: untersagt
   Level: B1
@@ -19515,11 +19667,14 @@
     - example1
 
 - Id: untersuchen
-  Level: B1
-  Form: ¨-e
-  Meaning: to examine, investigate, to have a medical
+  Level: A2
+  Form: untersucht, untersuchte, hat untersucht
+  Meaning: to examine, investigate
   Examples:
-    - example1
+    - Der Arzt hat mich untersucht.
+    - Der Arzt muss dein Bein untersuchen.
+    - Sie sollten sich vom Arzt untersuchen
+      lassen.
 
 - Id: die Untersuchung
   Level: B1
@@ -20294,10 +20449,11 @@
 
 - Id: die Verwaltung
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: management, administration
   Examples:
-    - example1
+    - Sprechen Sie bitte mit der Verwaltung.
+      Die können Ihnen helfen.
 
 - Id: verwandt
   Level: B1
@@ -21734,10 +21890,12 @@
 
 - Id: die Zeitung
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: newspaper
   Examples:
-    - example1
+    - Ich lese gern Zeitung.
+    - Ich lese manchmal Zeitung.
+    - Wo ist die Zeitung von heute?
 
 - Id: das Zelt
   Level: B1
@@ -24396,3 +24554,42 @@
   Meaning: opening hours
   Examples:
     - Die Öffnungszeiten der Geschäfte könnten flexibler gestaltet werden.
+
+- Id: der Informatiker
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Informatikerin
+    Form: -nen
+  Meaning: computer scientist, information technician
+  Examples:
+    - Die Suchmaschine Google wurde von zwei Informatikern entwickelt.
+
+- Id: konstruieren
+  Level: K
+  Form: konstruiert, konstruierte, hat konstruiert
+  Meaning: to design, to construct
+  Examples:
+    - Viele Entwicklungsingenieure haben gemeinsam die neue Werkzeugmaschine konstruiert.
+
+- Id: die Vorlesung
+  Level: K
+  Form: -en
+  Meaning: (university) lecture
+  Examples:
+    - Zu den Vorlesungen komme ich immer pünktlich.
+
+- Id: saugen
+  Level: K
+  Form: saugt, saugte, hat gesaugt
+  Meaning: to suck
+  Examples:
+    - Das Kalb sog heftig am Euter.
+
+- Id: kommunizieren
+  Level: K
+  Form: kommuniziert, kommunizierte, hat kommuniziert
+  Meaning: to communicate
+  Examples:
+    - Immerhin kommunizieren die beiden noch miteinander.
+
