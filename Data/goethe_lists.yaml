@@ -112,12 +112,47 @@
   - das Bier
   - das Bild
   - billig
+  - die Birne
+  - bis
   - ein bisschen
+  - bitten
+  - die Bitte
+  - bitte
+  - bitter
+  - bleiben
   - der Bleistift
+  - der Blick
+  - die Blume
+  - der Bogen
+  - böse
+  - brauchen
+  - breit
+  - der Brief
+  - die Briefmarke
+  - bringen
+  - das Brot
+  - das Brötchen
+  - der Bruder
+  - das Buch
   - buchstabieren
+  - der Buchstabe
+  - der Bus
+  - die Butter
+  - das Café
   - die CD
+  - der Chef
   - circa
   - der Computer
+  - da
+  - die Dame
+  - daneben
+  - danken
+  - der Dank
+  - danke
+  - dann
+  - das Datum
+  - dauern
+  - denn
   - drucken
   - der Drucker
   - drücken
@@ -128,6 +163,8 @@
   - die E-Mail
   - einfach
   - einkaufen
+  - einladen
+  - die Einladung
   - einmal
   - empfehlen
   - entschuldigen
@@ -135,6 +172,11 @@
   - das Essen
   - fahren
   - das Fax
+  - feiern
+  - die Feier
+  - der Feierabend
+  - der Feiertag
+  - fernsehen
   - fliegen
   - der Flughafen
   - das Flugzeug
@@ -142,9 +184,13 @@
   - fragen
   - die Frage
   - sich freuen
+  - der Freund
   - früher
   - frühstücken
   - das Frühstück
+  - die Führung
+  - der Fußball
+  - der Gast
   - geben
   - das Geburtsjahr
   - der Geburtsort
@@ -152,6 +198,7 @@
   - gegen
   - gehen
   - das Geld
+  - das Gespräch
   - das Glück
   - glücklich
   - der Glückwunsch
@@ -164,6 +211,7 @@
   - die Hausfrau
   - der Hausmann
   - der Haushalt
+  - die Heimat
   - heißen
   - helfen
   - die Hilfe
@@ -178,10 +226,12 @@
   - jetzt
   - der Job
   - der Kaffee
+  - kaputt
   - die Karte
   - kennen
   - klein
   - kochen
+  - der Kollege
   - kommen
   - können
   - kosten
@@ -192,15 +242,20 @@
   - lachen
   - lang
   - lange
+  - laufen
   - leben
   - das Leben
   - die Lebensmittel
+  - ledig
+  - der Lehrer
   - leider
   - lernen
+  - lesen
   - letzt-
   - die Lösung
   - machen
   - mehr
+  - der Mensch
   - mit
   - mitbringen
   - mitkommen
@@ -208,6 +263,7 @@
   - mitnehmen
   - möchten
   - mögen
+  - der Moment
   - morgen
   - müde
   - müssen
@@ -217,18 +273,25 @@
   - nichts
   - nie
   - noch
+  - die Nummer
+  - oder
   - öffnen
   - geöffnet
   - oft
+  - die Party
   - die Prüfung
   - rauchen
+  - der Raum
   - die Rechnung
+  - regnen
+  - der Regen
   - der Reis
   - reisen
   - die Reise
   - das Reisebüro
   - der Reiseführer
   - die Rezeption
+  - sagen
   - schlafen
   - schlecht
   - schließen
@@ -237,15 +300,22 @@
   - schon
   - schön
   - schreiben
+  - die Schule
+  - der Schüler
   - sehen
   - sein
   - seit
+  - sitzen
   - sollen
   - die Sonne
   - spielen
+  - der Sport
   - die Sprache
   - sprechen
   - die Stadt
+  - studieren
+  - der Student
+  - das Studium
   - die Stunde
   - tanzen
   - das Taxi
@@ -255,17 +325,21 @@
   - das Telefon
   - der Termin
   - teuer
+  - treiben
   - trinken
   - tun
   - über
   - übernachten
   - die Uhr
   - und so weiter
+  - der Unterricht
   - der Urlaub
+  - verheiratet
   - verkaufen
   - der Verkäufer
   - (sich) verstehen
   - viel
+  - vielleicht
   - wandern
   - wann
   - warum
@@ -283,6 +357,7 @@
   - wohnen
   - die Wohnung
   - wollen
+  - die Zeitung
   - das Zimmer
   - zirka
   - zu
@@ -521,40 +596,108 @@
   - der Bikini
   - der Bildschirm
   - das Billett
+  - Bio-
+  - biologisch
+  - bisher
+  - blass
+  - blind
+  - blitzen
+  - der Blitz
   - bloggen
-  - buchen
+  - bloß
+  - blühen
+  - bluten
+  - das Blut
+  - der Boden
+  - das Boot
+  - die Botschaft
+  - der Braten
+  - brechen
+  - die Breite
+  - bremsen
+  - die Bremse
+  - brennen
+  - der Briefkasten
+  - der Briefträger
+  - der Briefumschlag
+  - die Brieftasche
+  - die Broschüre
+  - das Brötli
+  - die Brust
+  - der Bub
+  - die Buchhandlung
+  - die Büchse
+  - das Buffet
+  - die Bühne
+  - die Burg
+  - der Bürger
+  - die Bürste
+  - die Zahnbürste
   - das Camp
   - campen
   - die Castingshow
   - der CD-Player
+  - die Chance
   - der Chat
   - der Chatroom
   - checken
   - chic
   - der Chip
   - die City
+  - der Coiffeur
   - die Cola
   - cool
+  - die Couch
+  - der Cousin
+  - das Couvert
+  - das Dach
+  - daher
+  - dahin
+  - damals
+  - damit
   - danach
+  - dankbar
+  - darstellen
+  - die Darstellung
+  - die Daten
+  - die Dauer
+  - dauernd
+  - die Decke
+  - dekorieren
+  - der Gedanke
   - das Denkmal
+  - derselbe
+  - das Dessert
+  - deswegen
+  - das Detail
   - doch
+  - das Dokument
   - drin
   - drinnen
   - die DVD
   - das E-Bike
   - der Einkauf
   - die Einleitung
+  - entwickeln
   - etc.
   - die Fähre
   - die Fantasie
+  - faulenzen
   - faxen
+  - das Fernsehen
   - die Folie
   - der Fotograf
   - die Fotografie
   - die Freude
+  - die Freundschaft
+  - führen
+  - der Führerausweis
+  - das Gasthaus
+  - die Gaststätte
   - das Gebäude
   - die Geburt
   - das Gedicht
+  - geschieden
   - global
   - googeln
   - das Hühnchen
@@ -565,13 +708,19 @@
   - der Hit
   - hochladen
   - hungrig
+  - der Ingenieur
   - interessiert
   - der Jazz
   - jobben
+  - die Kälte
+  - kaputtgehen
+  - kaputtmachen
   - der Käse
   - kein
   - der Ketchup
   - der Killer
+  - das Klavier
+  - die Kneipe
   - der Koch
   - der Kommentar
   - die Kosten
@@ -585,11 +734,13 @@
   - die Langeweile
   - der Lebenslauf
   - leiden
+  - der Leser
   - live
   - lösen
   - mailen
   - der Manager
   - mehrere
+  - menschlich
   - die Mobilbox
   - der Moderator
   - das Modul
@@ -599,6 +750,7 @@
   - das Obergeschoss
   - öfter
   - O.K.
+  - der Patient
   - in Pension
   - pensioniert
   - der Personenkraftwagen
@@ -607,10 +759,15 @@
   - das Portemonnaie
   - der Pöstler
   - das Poulet
+  - präsentieren
   - die Präsentation
+  - produzieren
+  - das Produkt
+  - die Produktion
   - das Puzzle
   - der Raucher
   - der Rechner
+  - die Rede
   - in Rente
   - die Rückmeldung
   - das Sandwich
@@ -620,11 +777,14 @@
   - schick
   - aufschreiben
   - das Schreiben
+  - die Schularbeit
   - die Schwierigkeit
   - seitdem
   - selb-
   - selber
+  - das Seminar
   - die Show
+  - der Sitz
   - der Schi
   - das Smartphone
   - der Snack
@@ -636,23 +796,34 @@
   - der Spieler
   - der Spielplatz
   - das Spielzeug
+  - die Sportart
+  - der Sportler
   - der Spot
   - die Fremdsprache
   - die Muttersprache
   - die Zweitsprache
+  - spülen
   - das Stadion
   - städtisch
+  - der Staub
+  - staubsaugen
   - das Steak
   - der Strom
+  - der Studierender
   - die Struktur
   - der Swimmingpool
   - der Tanz
+  - die Technik
+  - technisch
+  - die Technologie
   - Tee ziehen lassen
   - das Teil
+  - die Teilnahme
+  - der Teilnehmer
   - der Terminkalender
   - der Terminal
   - der Textaufbau
-  - die Tour
+  - der Tourismus
   - der Trend
   - (sich) trennen
   - die Trennung
@@ -661,10 +832,13 @@
   - twittern
   - übertragen
   - das Untergeschoss
+  - unterrichten
   - der User
   - verhindern
   - verrückt
+  - die Verwaltung
   - von
+  - vorhin
   - die Wanderung
   - die Wirklichkeit
   - die Wohngemeinschaft
@@ -672,6 +846,7 @@
   - der Wohnsitz
   - das Wörterbuch
   - die Zahnpasta
+  - zubereiten
   - zuordnen
 - Id: A2
   Words:
@@ -743,17 +918,41 @@
   - der Besuch
   - sich bewerben
   - die Bibliothek
+  - die Biologie
+  - das Blatt
+  - blöd
   - der Blog
+  - blond
+  - die Bluse
+  - die Bohne
+  - braten
+  - die Brille
+  - die Brücke
+  - buchen
+  - bunt
   - das Büro
+  - die Cafeteria
   - chatten
   - der Club
   - der Comic
+  - die Creme
+  - darauf
+  - darüber
+  - dabei
+  - dafür
+  - dagegen
+  - dass
+  - die Datei
+  - denken
+  - deshalb
+  - deutlich
   - dunkel
   - das E-Book
   - das Erdgeschoss
   - erinnern
   - etwas
   - der Fan
+  - der Fernseher
   - das Festival
   - fit
   - die Fitness
@@ -761,7 +960,9 @@
   - der Flug
   - fotografieren
   - der Fotoapparat
+  - freundlich
   - froh
+  - der Führerschein
   - genug
   - das Geschirr
   - der Hamburger
@@ -773,7 +974,11 @@
   - interessant
   - das Interesse
   - joggen
+  - der Journalist
+  - kalt
+  - der Kellner
   - der Klub
+  - kontrollieren
   - kostenlos
   - das Krankenhaus
   - die Krankenkasse
@@ -787,9 +992,12 @@
   - die Mailbox
   - die Mannschaft
   - mitspielen
+  - der Mitarbeiter
+  - modern
   - das Museum
   - die Musik
   - der Nachbar
+  - die Nachricht
   - die Natur
   - natürlich
   - die Notiz
@@ -798,10 +1006,13 @@
   - der Personalcomputer
   - das Poster
   - probieren
+  - das Programm
+  - das Projekt
   - prüfen
   - der Punkt
   - das Rathaus
   - rechnen
+  - reden
   - reich
   - schade
   - schädlich
@@ -814,16 +1025,23 @@
   - sonst
   - spannend
   - das Spiel
+  - sportlich
   - der Stadtplan
   - der Stift
   - surfen
   - das Team
+  - teilnehmen
   - der Teller
+  - die Tour
+  - der Tourist
   - getrennt leben
   - das T-Shirt
   - überall
+  - untersuchen
+  - die Veranstaltung
   - vergleichen
   - vgl.
+  - vorher
   - die Wäsche
   - das Wasserklosett
   - wegen
@@ -841,10 +1059,12 @@
   - der Türke
   - türkisch
   - das Türkisch
+  - der Bundespräsident
   - das Schwein
   - zweifach
   - heute ist der erste März
   - Berlin, zehnter April zweitausendundzwölf
+  - das Weihnachten
   - der Silvester
   - der Frühling
   - das Frühjahr
@@ -891,3 +1111,17 @@
   - der Staubsauger
   - der Tintenfisch
   - die Gleiche
+  - das Markenzeichen
+  - die Öffnungszeit
+  - der Informatiker
+  - konstruieren
+  - die Vorlesung
+  - saugen
+  - kommunizieren
+  - die Rotation
+  - die Impfung
+  - beitreten
+  - gebrochen
+  - verrücken
+  - die Heimatstadt
+  - bügeln

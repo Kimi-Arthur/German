@@ -10,7 +10,7 @@ for word in words:
     if word['Examples'][0].startswith('example'):
         continue
     lists[word['Level']] = lists.get(word['Level'], [])
-    lists[word['Level']] += [word['Word']]
+    lists[word['Level']] += [word['Id']]
 
 output = [{'Id':k,'Words':v} for k,v in lists.items()]
 
