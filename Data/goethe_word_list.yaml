@@ -5887,10 +5887,12 @@
 
 - Id: das Ergebnis
   Level: A1
-  Form: ¨-e
+  Form: -se
   Meaning: result
   Examples:
-    - example1
+    - Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+    - Ein so gutes Ergebnis hat uns alle
+      überrascht.
 
 - Id: erhalten
   Level: B1
@@ -6352,45 +6354,62 @@
 
 - Id: die Fahrbahn
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: carriageway, roadway
   Examples:
-    - example1
+    - Fahren Sie bitte vorsichtig. Es sind
+      Kühe auf der Fahrbahn.
 
 - Id: der Fahrer
   Level: A1
-  Form: ¨-e
+  Form: '-'
   Meaning: driver
   Examples:
-    - example1
+    - Bitte nicht mit dem Fahrer sprechen!
+    - Die Fahrerin des Wagens wurde nicht
+      verletzt.
+    - Leonid ist von Beruf Busfahrer.
+    - Während der Fahrt bitte nicht mit dem
+      Fahrer sprechen!
 
 - Id: die Fahrkarte
   Level: A1
-  Form: ¨-e
+  Form: -n
+  Synonym: = (CH) Billet
   Meaning: ticket (for transport)
   Examples:
-    - example1
+    - Hast du schon eine Fahrkarte?
+    - Ihre Fahrkarten, bitte!
+    - Fahrkarten bekommt man am
+      Automaten.
 
 - Id: der Fahrplan
   Level: B1
   Form: ¨-e
   Meaning: timetable
   Examples:
-    - example1
+    - Ist das der neue Fahrplan?
+    - Der Fahrplan hat sich geändert.
+    - Haben Sie schon den neuen
+      Sommerfahrplan?
 
 - Id: das Fahrrad
   Level: A1
-  Form: ¨-e
+  Form: ¨-er
+  Synonym: = (D, A) Rad = (CH) Velo
   Meaning: bicycle
   Examples:
-    - example1
+    - Fährst du mit dem Fahrrad oder mit dem Auto?
+    - Wenn es nicht regnet, fahre ich mit dem Fahrrad.
+    - Sie fährt jeden Morgen mit dem
+      Fahrrad zur Arbeit.
 
 - Id: das Fahrzeug
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: vehicle
   Examples:
-    - example1
+    - Wem gehört das Fahrzeug?
 
 - Id: fair
   Level: B1
@@ -6443,10 +6462,11 @@
 
 - Id: die Familie
   Level: A1
-  Form: ¨-e
+  Form: -n
   Meaning: family
   Examples:
-    - example1
+    - Meine Familie lebt in Spanien.
+    - Ich habe eine große Familie.
 
 - Id: der Familienstand
   Level: A1
@@ -8186,11 +8206,13 @@
     - example1
 
 - Id: die Gesundheit
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: (Sg.)
   Meaning: health
   Examples:
-    - example1
+    - Sie müssen mehr auf Ihre Gesundheit
+      achten.
+    - Gesundheit! Sind Sie erkältet?
 
 - Id: das Getränk
   Level: A1
@@ -10733,10 +10755,10 @@
 
 - Id: die Konferenz
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: conference
   Examples:
-    - example1
+    - Die Konferenz findet in Raum 19 statt.
 
 - Id: der Konflikt
   Level: B1
@@ -11206,10 +11228,17 @@
 
 - Id: der Kunde
   Level: A1
-  Form: ¨-e
+  Form: -n
+  Feminine:
+    Id: die Kundin
+    Form: -nen
   Meaning: customer
   Examples:
-    - example1
+    - Einen Moment, bitte. Ich habe eine Kundin.
+    - Sie ist schon lange bei mir Kundin. Ich
+      habe ihr einen Sonderpreis gegeben.
+    - Einen Augenblick, bitte. Ich habe einen
+      Kunden.
 
 - Id: kündigen
   Level: B1
@@ -11906,10 +11935,10 @@
 
 - Id: die Literatur
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: literature
   Examples:
-    - example1
+    - Ich interessiere mich für Literatur.
 
 - Id: die Liste
   Level: B1
@@ -12255,11 +12284,14 @@
     - example1
 
 - Id: der Markt
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: market
   Examples:
-    - example1
+    - Ich gehe heute auf den Markt.
+    - Samstags ist hier Markt.
+    - Mittwochs und samstags ist bei uns
+      Markt.
 
 - Id: die Marmelade
   Level: B1
@@ -13568,10 +13600,12 @@
 
 - Id: die Note
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: note, grades
   Examples:
-    - example1
+    - Eva hat immer sehr gute Noten in Deutsch.
+    - Meine Kinder lernen im
+      Musikunterricht gerade Noten lesen.
 
 - Id: notieren
   Level: B1
@@ -13634,10 +13668,17 @@
 
 - Id: nur
   Level: A1
-  Form: ¨-e
   Meaning: just, only
   Examples:
-    - example1
+    - Ich möchte nur ein Glas Wasser.
+    - Das T-Shirt kostet nur fünf Euro.
+    - Im Kaufhaus gibt‘s T-Shirts für nur fünf
+      Euro.
+    - Ich habe keinen Hunger. Ich möchte
+      nur etwas trinken.
+    - Ich habe nur heute Abend Zeit.
+    - Kannst du mir Geld leihen? Tut mir
+      leid. Ich habe nur fünf Euro dabei.
 
 - Id: nutzen
   Level: B1
@@ -15377,10 +15418,10 @@
 
 - Id: das Restaurant
   Level: A1
-  Form: ¨-e
+  Form: -s
   Meaning: restaurant
   Examples:
-    - example1
+    - Wir essen heute in (einem) Restaurant.
 
 - Id: retten
   Level: B1
@@ -15390,11 +15431,17 @@
     - example1
 
 - Id: das Rezept
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: recipe
   Examples:
-    - example1
+    - Dieser Kuchen schmeckt super! Kannst du mir bitte
+      das Rezept geben?
+    - Dieses Medikament gibt es nur auf Rezept.
+    - Diese Schmerztabletten gibt es nur auf
+      Rezept.
+    - Weißt du ein gutes Rezept für
+      Gemüsesuppe?
 
 - Id: die Rezeption
   Level: A1
@@ -16647,10 +16694,11 @@
 
 - Id: das Semester
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: semester
   Examples:
-    - example1
+    - Mein Neffe studiert im 7. Semester
+      Medizin.
 
 - Id: das Seminar
   Level: B1
@@ -18425,10 +18473,11 @@
 
 - Id: das Tennis
   Level: B1
-  Form: ¨-e
+  Form: (Sg.)
   Meaning: tennis
   Examples:
-    - example1
+    - Steffi spielt sehr gut Tennis.
+    - Ich spiele gern Tennis.
 
 - Id: der Teppich
   Level: B1
@@ -19654,10 +19703,11 @@
 
 - Id: die Untersuchung
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: examination, investigation, inquiry
   Examples:
-    - example1
+    - Ich habe morgen eine Untersuchung im
+      Krankenhaus.
 
 - Id: unterwegs
   Level: B1
@@ -19896,11 +19946,11 @@
     - example1
 
 - Id: vereinbaren
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: vereinbart, vereinbarte, hat vereinbart
   Meaning: to agree upon
   Examples:
-    - example1
+    - Können wir einen Termin vereinbaren?
 
 - Id: die Vergangenheit
   Level: B1
@@ -20801,7 +20851,7 @@
   Form: ¨-e
   Meaning: talk, lecture
   Examples:
-    - example1
+    - Ihr Vortrag war sehr interessant.
 
 - Id: die Vorwahl
   Level: A1
