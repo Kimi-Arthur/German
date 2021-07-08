@@ -9562,11 +9562,14 @@
     - example1
 
 - Id: die Idee
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -n
   Meaning: idea
   Examples:
-    - example1
+    - Was machen wir heute Abend? Hast du eine gute
+      Idee?
+    - Du willst ein Picknick machen? Ich
+      finde die Idee toll.
 
 - Id: illegal
   Level: B1
@@ -10067,7 +10070,7 @@
     - Einen Kaffee, bitte.
     - Bring bitte noch eine Packung Kaffee mit.
     - Wir sind bei Müllers zum Kaffee eingeladen.
-    - 
+    -
 
 - Id: der Kakao
   Level: B1
@@ -10362,10 +10365,11 @@
 
 - Id: das Kennzeichen
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: number plate
   Examples:
-    - example1
+    - Das Auto hat ein Schweizer
+      Kennzeichen.
 
 - Id: die Kerze
   Level: B1
@@ -13785,7 +13789,7 @@
     - Wann können Sie kommen – Heute oder morgen?
     - Entweder fahren wir mit dem Bus oder wir gehen zu Fuß.
     - Möchten Sie Kaffee oder Tee?
-    - 
+    -
 
 - Id: der Ofen
   Level: B1
@@ -16190,18 +16194,21 @@
     - Die Suppe schmeckt nach Knoblauch.
 
 - Id: der Schmerz
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: pain
   Examples:
-    - example1
+    - Haben Sie Schmerzen?
+    - Ich habe Bauchschmerzen.
+    - Ich kann vor Schmerzen nicht laufen.
 
 - Id: das Schmerzmittel
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: painkiller
   Examples:
-    - example1
+    - Sie haben Zahnschmerzen? Ich
+      verschreibe Ihnen ein Schmerzmittel.
 
 - Id: schminken
   Level: B1
@@ -16895,24 +16902,25 @@
 
 - Id: der Sinn
   Level: B1
-  Form: ¨-e
+  Form: -e
   Meaning: sense
   Examples:
-    - example1
+    - Es hat keinen Sinn, noch ein Spiel zu
+      beginnen. Es ist schon spät.
 
 - Id: sinnlos
   Level: B1
-  Form: ¨-e
   Meaning: meaningless, senseless
   Examples:
-    - example1
+    - So ein sinnloses Buch habe ich schon
+      lange nicht mehr gelesen.
 
 - Id: sinnvoll
   Level: B1
-  Form: ¨-e
   Meaning: meaningful
   Examples:
-    - example1
+    - Es funktioniert einfach nicht. Es ist
+      sinnvoll, es noch einmal zu versuchen.
 
 - Id: die Situation
   Level: B1
@@ -17790,10 +17798,12 @@
 
 - Id: stimmen
   Level: B1
-  Form: ¨-e
+  Form: stimmt, stimmte, hat gestimmt
   Meaning: to be right, vote
   Examples:
-    - example1
+    - Meine Adresse stimmt nicht mehr.
+    - Das Wetter in Deutschland könnte
+      besser sein. – Das stimmt.
 
 - Id: die Stimmung
   Level: B1
@@ -20505,10 +20515,11 @@
 
 - Id: die Vertretung
   Level: B1
-  Form: ¨-e
-  Meaning: representation, advocacy
+  Form: -en
+  Meaning: representation, substitution
   Examples:
-    - example1
+    - Herr Dr. Meyer macht für mich die
+      Vertretung.
 
 - Id: verurteilen
   Level: B1
@@ -20807,7 +20818,7 @@
 
 - Id: vorlesen
   Level: B1
-  Form:  liest vor, las vor, hat vorgelesen
+  Form: liest vor, las vor, hat vorgelesen
   Meaning: to read (aloud)
   Examples:
     - Ich lese meinen Kindern oft etwas vor.
@@ -21269,17 +21280,24 @@
 
 - Id: die Welt
   Level: A1
-  Form: ¨-e
+  Form: -en
   Meaning: world
   Examples:
-    - example1
+    - Es gibt viele Probleme auf der Welt.
+    - Ich möchte gern einmal um die Welt reisen.
+    - Die Studenten kommen aus vielen Ländern. Sie
+      kommen aus der ganzen Welt.
+    - Überall auf der Welt gibt es Probleme.
+    - Ich habe die besten Eltern der Welt.
 
 - Id: weltweit
   Level: B1
-  Form: ¨-e
   Meaning: worldwide
   Examples:
-    - example1
+    - Unsere Firma produziert für den
+      weltweiten Markt.
+    - Das Zertifikat B1 wird weltweit
+      angeboten.
 
 - Id: wenden
   Level: B1
@@ -23652,17 +23670,15 @@
 
 - Id: erstens
   Level: M
-  Form: ¨-e
   Meaning: firstly
   Examples:
-    - example1
+    - 'Erstens: Beruhigen Sie sich bitte.'
 
 - Id: zweitens
   Level: M
-  Form: ¨-e
   Meaning: secondly
   Examples:
-    - example1
+    - Zweitens weise ich Sie darauf hin, dass das Rauchen ausschließlich an diesem Ort gestattet ist.
 
 - Id: drittens
   Level: M
@@ -24740,3 +24756,25 @@
   Meaning: to fall asleep
   Examples:
     - Warum musst du immer im Kino einschlafen?
+
+- Id: der Nachtisch
+  Level: K
+  Form: -e
+  Meaning: dessert
+  Examples:
+    - Zum Nachtisch gibt es Götterspeise.
+
+- Id: das Fachgebiet
+  Level: K
+  Form: -e
+  Meaning: specialization
+  Examples:
+    - Sein spezielles Fachgebiet ist die Erforschung des Spracherwerbs.
+
+- Id: beibringen
+  Level: K
+  Form: bringt bei, brachte bei, hat beigebracht
+  Meaning: to teach someone something
+  Examples:
+    - Können Sie mir das Malen beibringen?
+
