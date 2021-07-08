@@ -2,7 +2,7 @@
 
 Past tense. Normally **only** used in writing, except **sein** / **haben** / **Modalverben**.
 
-Structure: Subjekt + *past form of sein/haben* + Objekt.
+Structure: Subjekt + <ruby><i>past form</i><rt>Präteritum</rt></ruby> + Objekt.
 
 | Sentence                               | Meaning                                |
 | -------------------------------------- | -------------------------------------- |
@@ -15,7 +15,7 @@ Structure: Subjekt + *past form of sein/haben* + Objekt.
 | Er hatte keine Milch.                  | He had no milk.                        |
 | Ich hatte einen Kaffee.                | I had a coffee.                        |
 
-## Forms
+## Präteritum
 
 ### sein
 
@@ -39,3 +39,6 @@ Structure: Subjekt + *past form of sein/haben* + Objekt.
 | ihr       | hattet  |
 | sie/Sie   | hatten  |
 
+### Modalverben
+
+See [Modalverben](./Modalverben.md).
