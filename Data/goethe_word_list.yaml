@@ -4684,17 +4684,26 @@
 
 - Id: dort
   Level: A1
-  Form: ¨-e
   Meaning: there
   Examples:
-    - example1
+    - Dort ist unser Haus.
+    - Wir treffen uns vor dem Kino. - Gut, ich bin in fünf
+      Minuten dort.
+    - Dort drüben ist der Bahnhof.
+    - Ich werde in fünf Minuten dort sein.
+
+- Id: dorther
+  Level: A1
+  Meaning: from there
+  Examples:
+    - Kommst du mit in die Stadt? - Nein, ich komme
+      gerade dorther/von dort.
 
 - Id: dorthin
-  Level: B1
-  Form: ¨-e
+  Level: A1
   Meaning: to there
   Examples:
-    - example1
+    - Deine Tasche kannst du dorthin stellen.
 
 - Id: die Dose
   Level: B1
@@ -7353,11 +7362,20 @@
     - example1
 
 - Id: früh
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: early
   Examples:
-    - example1
+    - Geht es auch später? Sechs Uhr ist mir zu früh.
+    - Ich muss morgen sehr früh aufstehen.
+    - Hier ist schon am frühen Morgen
+      starker Verkehr.
+    - Mein Vater arbeitet von früh bis spät.
+    - Ich bin heute sehr früh aufgestanden.
+    - Wir sind eine halbe Stunde zu früh
+      gekommen.
+    - Wecken Sie mich bitte morgen früh um
+      6 Uhr.
 
 - Id: früher
   Level: A1
@@ -8026,11 +8044,13 @@
     - example1
 
 - Id: das Gerät
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -e
   Meaning: device
   Examples:
-    - example1
+    - Elektrogeräte finden Sie im dritten Stock.
+    - Ich kaufe meine Elektrogeräte immer
+      gebraucht. Das ist viel billiger.
 
 - Id: gerecht
   Level: B1
@@ -8186,10 +8206,11 @@
 
 - Id: gestern
   Level: A1
-  Form: ¨-e
   Meaning: yesterday
   Examples:
-    - example1
+    - Gestern war ich krank.
+    - Gestern wollte ich dich anrufen.
+    - Ich bin erst gestern zurückgekommen.
 
 - Id: gesund
   Level: B1
@@ -10876,24 +10897,27 @@
 
 - Id: kopieren
   Level: B1
-  Form: ¨-e
+  Form: kopiert, kopierte, hat kopiert
   Meaning: to copy
   Examples:
-    - example1
+    - Kann ich mir diesen Artikel kopieren?
+    - Ich kopiere dir die Datei auf die
+      Speicherkarte.
+    - Ich kann dir die CD kopieren.
 
 - Id: die Kopie
   Level: B1
-  Form: ¨-e
+  Form: -n
   Meaning: copy
   Examples:
-    - example1
+    - Machst du mir bitte eine Kopie?
 
 - Id: der Kopierer
   Level: B1
-  Form: ¨-e
+  Form: '-'
   Meaning: copier
   Examples:
-    - example1
+    - Der Kopierer ist schon wieder kaputt.
 
 - Id: der Körper
   Level: B1
@@ -12401,25 +12425,33 @@
     - example1
 
 - Id: meinen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: meint, meinte, hat gemeint
   Meaning: to mean, think
   Examples:
-    - example1
+    - Wie meinst du das? Erklär mir das bitte genauer!
+    - Dieser Film ist gut. Was meinst du?
+    - Ich meine, du solltest weniger rauchen.
 
 - Id: meinetwegen
   Level: B1
-  Form: ¨-e
   Meaning: on my account, as far as I'm concerned
   Examples:
-    - example1
+    - Meinetwegen kannst du heute das
+      Auto haben.
 
 - Id: die Meinung
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
   Meaning: opinion
   Examples:
-    - example1
+    - 'Meine Meinung zu dem Thema ist: …'
+    - Was ist deine Meinung dazu?
+    - Ich habe meine Meinung geändert.
+    - Ich bin der Meinung, dass du recht
+      hast.
+    - Meiner Meinung nach gibt es hier zu
+      viele Autos.
 
 - Id: meist-
   Level: A1
@@ -12472,10 +12504,10 @@
 
 - Id: die Mensa
   Level: B1
-  Form: ¨-e
+  Form: -s / Mensen
   Meaning: canteen
   Examples:
-    - example1
+    - Ich esse fast jeden Tag in der Mensa.
 
 - Id: der Mensch
   Level: A1
@@ -14648,10 +14680,13 @@
 
 - Id: das Problem
   Level: A1
-  Form: ¨-e
+  Form: -e
   Meaning: problem
   Examples:
-    - example1
+    - Mein Problem ist die Sprache.
+    - Ich habe ein Problem. Können Sie mir bitte helfen?
+    - José spricht nicht gern über seine
+      Probleme.
 
 - Id: produzieren
   Level: B1
@@ -15362,17 +15397,21 @@
 
 - Id: reparieren
   Level: A1
-  Form: ¨-e
+  Form: repariert, reparierte, hat repariert
   Meaning: to repair
   Examples:
-    - example1
+    - Er hat das Fahrrad repariert.
+    - Er muss den Motor reparieren.
+    - Das Fahrrad kann man leider nicht
+      mehr reparieren.
 
 - Id: die Reparatur
-  Level: B1
-  Form: ¨-e
+  Level: A1
+  Form: -en
   Meaning: repair
   Examples:
-    - example1
+    - Die Reparatur ist sehr teuer.
+    - Eine Reparatur wäre zu teuer.
 
 - Id: die Reportage
   Level: B1
@@ -17201,11 +17240,11 @@
     - example1
 
 - Id: spazieren gehen
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: geht spazieren, ging spazieren, ist spazieren gegangen
   Meaning: to go for a walk, stroll
   Examples:
-    - example1
+    - Wir gehen sonntags immer spazieren.
 
 - Id: der Spaziergang
   Level: B1
@@ -19145,10 +19184,10 @@
 
 - Id: die Übernachtung
   Level: B1
-  Form: ¨-e
+  Form: -en
   Meaning: sleep over, stay
   Examples:
-    - example1
+    - In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro.
 
 - Id: übernehmen
   Level: B1
@@ -19528,11 +19567,15 @@
     - example1
 
 - Id: die Universität
-  Level: B1
-  Form: ¨-e
+  Level: A2
+  Form: -en
+  Abbreviation:
+    Id: die Uni
+    Form: -s
   Meaning: university
   Examples:
-    - example1
+    - Er studiert an der Universität Freiburg.
+    - Mein Sohn studiert an der Universität.
 
 - Id: unten
   Level: A1
@@ -20764,10 +20807,10 @@
 
 - Id: vorlesen
   Level: B1
-  Form: ¨-e
-  Meaning: to read to
+  Form:  liest vor, las vor, hat vorgelesen
+  Meaning: to read (aloud)
   Examples:
-    - example1
+    - Ich lese meinen Kindern oft etwas vor.
 
 - Id: vorn
   Level: B1
@@ -24669,3 +24712,31 @@
   Meaning: to iron
   Examples:
     - Ich muss noch meine Hemden bügeln.
+
+- Id: dokumentieren
+  Level: K
+  Form: dokumentiert, dokumentierte, hat dokumentiert
+  Meaning: to document
+  Examples:
+    - Liszt lebte gleichzeitig aber aus einem tiefen Glauben heraus und dokumentierte in seinen Briefen immer wieder seine Liebe zur Gemeinde.
+
+- Id: das Experiment
+  Level: K
+  Form: -e
+  Meaning: experiment
+  Examples:
+    - Mein Experiment war ein Reinfall.
+
+- Id: durchführen
+  Level: K
+  Form: führt durch, führte durch, hat durchgeführt
+  Meaning: to perform, to carry out
+  Examples:
+    - Darf ich Sie kurz durch die Ausstellung führen?
+
+- Id: einschlafen
+  Level: K
+  Form: schläft ein, schlief ein, ist eingeschlafen
+  Meaning: to fall asleep
+  Examples:
+    - Warum musst du immer im Kino einschlafen?
