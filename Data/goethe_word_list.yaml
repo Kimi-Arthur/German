@@ -6595,9 +6595,16 @@
 
 - Id: fertig
   Level: A1
-  Meaning: ready
+  Meaning: ready for use, done, finished
   Examples:
-    - example1
+    - Bist du fertig?
+    - Ist mein Auto schon fertig?
+    - Das Essen ist gleich fertig. Kommst du?
+    - Wir müssen gleich gehen. Bist du fertig?
+    - Wenn ich mit der Arbeit fertig bin,
+      gehe ich nach Hause.
+    - Das war ein schlimmer Tag. Ich bin
+      total fertig.
 
 - Id: fest
   Level: B1
@@ -6692,21 +6699,23 @@
   Form: '-'
   Meaning: fire
   Examples:
-    - example1
+    - Der Schaden durch das Feuer war sehr
+      groß.
+    - Haben Sie Feuer?
 
 - Id: das Feuerzeug
   Level: B1
   Form: -e
   Meaning: lighter
   Examples:
-    - example1
+    - Ist das Feuerzeug neu?
 
 - Id: die Feuerwehr
   Level: B1
   Form: -en
   Meaning: fire brigade
   Examples:
-    - example1
+    - 'Schnell! Rufen Sie die Feuerwehr! Die Nummer ist: 112.'
 
 - Id: das Fieber
   Level: A1
@@ -9074,7 +9083,17 @@
   Level: A1
   Meaning: here
   Examples:
-    - example1
+    - Hier ist 06131-553221, Pamela Linke.
+    - Hier wohne ich.
+    - Elektro Bauer, guten Tag. Hier ist Pamela Linke. Was kann ich für Sie tun?
+    - Hier wohne ich.
+    - Unterschreiben Sie bitte hier!
+    - Von hier hat man eine herrliche
+      Aussicht.
+    - Hier sind die Schlüssel für meine Wohnung. Kannst Du meine Blumen
+      gießen?
+    - Hier ist Pamela Linke. Bitte
+      hinterlassen Sie eine Nachricht.
 
 - Id: hierher
   Level: B1
@@ -11846,18 +11865,21 @@
     - example1
 
 - Id: lügen
-  Level: B1
+  Level: A2
   Form: lügt, log, hat gelogen
   Meaning: to lie
   Examples:
-    - example1
+    - Du sollst nicht lügen.
+    - Glaub ihm nicht, er lügt.
+    - Glaube nicht alles, was man dir sagt. Es
+      ist oft gelogen.
 
 - Id: die Lüge
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: lie
   Examples:
-    - example1
+    - Das stimmt nicht! Das ist eine Lüge!
 
 - Id: die Lust
   Level: B1
@@ -13286,7 +13308,6 @@
 
 - Id: noch
   Level: A1
-  Form: ¨-e
   Meaning: still, yet
   Examples:
     - Vielleicht kommt er noch.
@@ -18298,10 +18319,12 @@
     - example1
 
 - Id: toll
-  Level: B1
+  Level: A2
   Meaning: great
   Examples:
-    - example1
+    - Der Urlaub war toll.
+    - Ich habe mir ein tolles Kleid gekauft.
+    - Unser Urlaub war toll.
 
 - Id: die Tomate
   Level: A1
@@ -20480,17 +20503,21 @@
     - example1
 
 - Id: wahr
-  Level: B1
+  Level: A2
   Meaning: true
   Examples:
-    - example1
+    - Das ist (nicht) wahr!
+    - Was ich sage, ist wahr.
+    - Es ist eine wahre Geschichte.
+    - Es ist doch schön hier, nicht wahr?
 
 - Id: die Wahrheit
   Level: B1
   Form: -en
   Meaning: truth
   Examples:
-    - example1
+    - Sag mir bitte die Wahrheit. Hast du
+      wieder geraucht?
 
 - Id: während
   Level: B1
