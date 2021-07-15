@@ -5677,7 +5677,9 @@
   Form: -en
   Meaning: apology
   Examples:
-    - example1
+    - Entschuldigung! – Bitte.
+    - Oh, Entschuldigung! – Macht nichts.
+      Kein Problem.
 
 - Id: entsorgen
   Level: B1
@@ -6507,7 +6509,10 @@
   Form: '-'
   Meaning: mistake
   Examples:
-    - example1
+    - Diesen Fehler mache ich immer wieder.
+    - Ich glaube, da haben Sie einen Fehler
+      gemacht.
+    - Die Schülerin hat den Fehler sofort gefunden.
 
 - Id: feiern
   Level: A1
@@ -8530,7 +8535,15 @@
   Form: hat, hatte, hat gehabt
   Meaning: to have
   Examples:
-    - example1
+    - Ich habe ein neues Auto.
+    - Hast du kurz Zeit?
+    - Wir haben Hunger.
+    - Heute habe ich keine Zeit.
+    - Kann ich bitte eine Suppe haben?
+    - Unsere Wohnung hat vier Zimmer.
+    - Ich habe heute viel zu tun.
+    - Du hast es gut. Du kannst in Urlaub
+      fahren.
 
 - Id: das Hackfleisch
   Level: B1
@@ -9017,7 +9030,9 @@
   Form: -en
   Meaning: man, gentleman
   Examples:
-    - example1
+    - Guten Tag, Herr Sommer!
+    - Da ist ein Herr, der möchte Sie
+      sprechen.
 
 - Id: herstellen
   Level: B1
@@ -9980,7 +9995,8 @@
   Form: '-'
   Meaning: chapter
   Examples:
-    - example1
+    - Die Lehrerin hat gesagt, wir sollen
+      zwei Kapitel im Buch wiederholen.
 
 - Id: kaputt
   Level: A1
@@ -10225,21 +10241,27 @@
   Form: -er
   Meaning: child
   Examples:
-    - example1
+    - Wie viele Kinder haben Sie?
+    - Mein Bruder hat zwei Kinder.
+    - Wir haben ein Kind bekommen.
+    - Die Kinder spielen Fußball.
 
 - Id: der Kindergarten
   Level: A1
   Form: ¨-
   Meaning: kindergarten
   Examples:
-    - example1
+    - Die kleine Laura geht schon in den Kindergarten.
+    - Morgens bringe ich meinen Sohn in
+      den Kindergarten.
 
 - Id: die Kindheit
   Level: B1
   Form: (Sg.)
   Meaning: childhood
   Examples:
-    - example1
+    - In meiner Kindheit war ich oft auf dem
+      Land bei meinen Großeltern.
 
 - Id: das Kino
   Level: A1
@@ -11083,18 +11105,23 @@
     - example1
 
 - Id: die Kunst
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: art
   Examples:
-    - example1
+    - Ich verstehe nichts von moderner Kunst.
+    - Kunst war mein Lieblingsfach in der Schule.
 
 - Id: der Künstler
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Künstlerin
+    Form: -nen
   Meaning: artist
   Examples:
-    - example1
+    - In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine
+      Musikerin.
 
 - Id: künstlich
   Level: B1
@@ -11983,18 +12010,25 @@
     - example1
 
 - Id: malen
-  Level: B1
+  Level: A2
   Form: malt, malte, hat gemalt
   Meaning: to draw
   Examples:
-    - example1
+    - Mein Sohn kann gut malen.
+    - Das Bild hat mein Vater gemalt.
 
 - Id: der Maler
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Malerin
+    Form: -nen
   Meaning: painter
   Examples:
-    - example1
+    - Wir haben die Maler im Haus. Wir
+      lassen die Wände neu streichen.
+    - Picasso ist vielleicht der bekannteste
+      Maler der Welt.
 
 - Id: man
   Level: B1
@@ -16857,13 +16891,29 @@
   Level: A1
   Meaning: late
   Examples:
-    - example1
+    - Es ist schon spät, ich muss gehen.
+    - Wie spät ist es?
+    - Ich muss mich beeilen. Sonst komme
+      ich zu spät.
+    - Sonntags stehen wir immer spät auf.
+    - Am späten Nachmittag ist der Verkehr
+      besonders stark.
+    - Können Sie später noch mal anrufen?
+    - Was willst du denn später mal
+      werden?
+
+- Id: später
+  Level: A1
+  Meaning: later
+  Examples:
+    - Das können wir später machen.
 
 - Id: spätestens
   Level: B1
   Meaning: at the latest
   Examples:
-    - example1
+    - Ich muss spätestens um 9 Uhr bei der
+      Arbeit sein.
 
 - Id: spazieren gehen
   Level: A2
@@ -21456,14 +21506,24 @@
   Form: -en
   Meaning: time
   Examples:
-    - example1
+    - Ich habe heute keine Zeit.
+    - Es ist noch früh. Wir haben noch viel
+      Zeit.
+    - Um welche Zeit sind Sie normalerweise zu Hause?
+    - Um diese Zeit ist hier wenig los.
 
 - Id: der Zeitpunkt
   Level: B1
   Form: -e
   Meaning: point in time
   Examples:
-    - example1
+    - Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch.
+
+- Id: zurzeit
+  Level: A1
+  Meaning: at the moment
+  Examples:
+    - Zurzeit habe ich sehr viel zu tun.
 
 - Id: die Zeitschrift
   Level: B1
@@ -21817,12 +21877,6 @@
   Examples:
     - example1
 
-- Id: zurzeit
-  Level: A1
-  Meaning: at the moment
-  Examples:
-    - example1
-
 - Id: zusagen
   Level: B1
   Form: sagt zu, sagte zu, hat zugesagt
@@ -22094,7 +22148,7 @@
   Form: (Sg.)
   Meaning: mathematics
   Examples:
-    - example1
+    - Wichtige Teilgebiete der Mathematik sind die Geometrie, die Arithmetik, die Algebra und die Stochastik.
 
 - Id: die Philosophie
   Level: M
@@ -22108,7 +22162,7 @@
   Form: (Sg.)
   Meaning: physics
   Examples:
-    - example1
+    - Wir schreiben morgen eine Arbeit in Physik.
 
 - Id: die Schulnote
   Level: M
@@ -24136,3 +24190,89 @@
   Meaning: to teach someone something
   Examples:
     - Können Sie mir das Malen beibringen?
+
+- Id: der Assistent
+  Level: K
+  Form: -en
+  Feminine:
+    Id: die Assistentin
+    Form: -nen
+  Meaning: assistant
+  Examples:
+    - Dem Hochschulprofessor wurden zwei Assistenten zur Seite gestellt.
+
+- Id: das Solarauto
+  Level: K
+  Form: -s
+  Meaning: solar car
+  Examples:
+    - Nach 37 Stunden reiner Fahrzeit erreichte das niederländische Solarauto "Nuna 9" als erstes das Ziel.
+
+- Id: der Jurist
+  Level: K
+  Form: -en
+  Feminine:
+    Id: die Juristin
+    Form: -nen
+  Meaning: jurist
+  Examples:
+    - Unter den Studenten bilden die Juristen eine besondere Spezies.
+
+- Id: der Physiker
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Physikerin
+    Form: -nen
+  Meaning: physicist
+  Examples:
+    - Newton, Maxwell, Einstein und Feynman waren bedeutende Physiker.
+
+- Id: der Mathematiker
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Mathematikerin
+    Form: -nen
+  Meaning: mathematician
+  Examples:
+    - Ein Mathematiker befasst sich mit Mathematik.
+
+- Id: die Journalistik
+  Level: K
+  Form: (Sg.)
+  Meaning: journalism
+  Examples:
+    - Im Frühjahr 1959 haben erstmalig über 150 Studierende das Hochschulfernstudium der Journalistik beendet.
+
+- Id: das Design
+  Level: K
+  Form: -s
+  Meaning: design
+  Examples:
+    - Das Design der Autos wird immer ähnlicher.
+
+- Id: der Designer
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Designerin
+    Form: -nen
+  Meaning: designer
+  Examples:
+    - Ein neues Kochbuch offenbart die Lieblingsrezepte von renommierten Designern.
+
+- Id: darum
+  Level: K
+  Meaning: around it; therefore; because!
+  Examples:
+    - Warum? Darum!
+    - Ich werde darum kämpfen.
+
+- Id: gestalten
+  Level: K
+  Form: gestaltet, gestaltete, hat gestaltet
+  Meaning: to design
+  Examples:
+    - Wie sollen wir unser Fest gestalten?
+
