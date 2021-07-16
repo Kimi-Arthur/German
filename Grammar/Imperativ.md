@@ -8,7 +8,7 @@ Telling you what to do / give an order.
 | ------------------------ | ---------------------------------- | ------------------------------------------------- |
 | WIth object pronoun      | Pronoun comes after verb           | Hol mir das Buch!                                 |
 | With two object pronouns | Direct object pronoun comes first  | Hol es mir!                                       |
-| Relexivive verb          | Reflexive pronoun comes after verb | setz dich!<br />setzt euch!<br />setzen Sie sich! |
+| Relexive verb            | Reflexive pronoun comes after verb | setz dich!<br />setzt euch!<br />setzen Sie sich! |
 | Separable prefix         | prefix at last                     | Hör aber endlich auf!                             |
 
 ## Deklination
