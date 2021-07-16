@@ -5073,11 +5073,14 @@
   Examples:
     - example1
 
-- Id: ein
+- Id: ein-
   Level: A1
   Meaning: a
   Examples:
-    - example1
+    - Ich nehme ein Bier. Willst du auch eins?
+    - Ist hier einer, der das kann?
+    - Wir haben zu wenig Mitspieler. Wir
+      brauchen noch einen.
 
 - Id: die Einbahnstraße
   Level: B1
@@ -6808,7 +6811,9 @@
   Form: -n
   Meaning: bottle
   Examples:
-    - example1
+    - Eine Flasche Bier, bitte.
+    - Wo kann man die leeren Flaschen
+      zurückgeben?
 
 - Id: der Fleck
   Level: B1
@@ -7873,16 +7878,23 @@
     - example1
 
 - Id: genau
-  Level: B1
+  Level: A2
   Meaning: exactly
   Examples:
-    - example1
+    - Sind Sie sicher, dass die Prüfung am 15. Juni ist? -
+      Ja, das weiß ich genau.
+    - Die Uhr geht genau.
+    - Es ist genau acht Uhr.
+    - Haben Sie die genaue Zeit?
+    - Sind Sie sicher, dass heute Ruhetag ist?
+      – Ja, das weiß ich genau.
 
 - Id: genauso
   Level: B1
   Meaning: exactly like
   Examples:
-    - example1
+    - Katarina sieht genauso aus wie ihre
+      Schwester.
 
 - Id: genehmigen
   Level: B1
@@ -10314,9 +10326,11 @@
 
 - Id: klar
   Level: A1
-  Meaning: clear
+  Meaning: clear; understood
   Examples:
-    - example1
+    - Kommst du mit? – Klar!
+    - Ich komme morgen zu deiner Party, das ist doch
+      klar.
 
 - Id: klären
   Level: B1
@@ -11235,11 +11249,14 @@
     - example1
 
 - Id: die Lampe
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: lamp
   Examples:
-    - example1
+    - Mach bitte die Lampe an. Es ist so dunkel.
+    - Ich habe mir eine neue Lampe gekauft.
+    - Mach doch bitte die Lampe an. Es ist
+      so dunkel hier.
 
 - Id: das Land
   Level: A1
@@ -12186,11 +12203,19 @@
     - example1
 
 - Id: das Medikament
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: medicine
   Examples:
-    - example1
+    - Nehmen Sie dieses Medikament dreimal pro Tag!
+    - Dieses Medikament gibt es nur auf
+      Rezept.
+    - Der Arzt hat mir ein Medikament
+      verschrieben.
+    - Für dieses Medikament müssen Sie
+      fünf Euro dazu zahlen.
+    - Dieses Medikament hat mir sehr gut
+      geholfen.
 
 - Id: die Medizin
   Level: B1
@@ -15866,7 +15891,9 @@
   Form: '-'
   Meaning: key
   Examples:
-    - example1
+    - Ich gebe Ihnen noch den Zimmerschlüssel.
+    - Ich finde meinen Schlüssel nicht.
+    - Ich kann meine Schlüssel nicht finden.
 
 - Id: schmal
   Level: B1
@@ -16358,11 +16385,16 @@
     - Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich Deutsch.
 
 - Id: die Seite
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: page
   Examples:
-    - example1
+    - Öffnen Sie das Kursbuch auf Seite 20.
+    - Das ist die Bachstraße. Mein Haus ist auf der
+      linken Seite.
+    - Das hier ist die Goethestraße. Ich
+      wohne auf der linken Seite.
+    - Der Text steht auf Seite 20.
 
 - Id: der Sekretär
   Level: B1
@@ -17699,11 +17731,12 @@
     - example1
 
 - Id: der Stuhl
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: chair
   Examples:
-    - example1
+    - Ist der Stuhl frei?
+    - Da hinten ist noch ein Stuhl frei.
 
 - Id: die Struktur
   Level: B1
@@ -17925,7 +17958,9 @@
   Form: -n
   Meaning: pocket, handbag
   Examples:
-    - example1
+    - Ich habe die Schlüssel in der Tasche.
+    - Ich habe nicht viel Gepäck. Nur eine Tasche.
+    - Meine Jacke hat keine Taschen.
 
 - Id: das Taschengeld
   Level: B1
@@ -17942,11 +17977,13 @@
     - example1
 
 - Id: die Tasse
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: cup
   Examples:
-    - example1
+    - Möchten Sie eine Tasse Kaffee?
+    - Die Tassen sind von meiner
+      Großmutter.
 
 - Id: die Tastatur
   Level: B1
@@ -18326,7 +18363,8 @@
   Form: -e
   Meaning: table
   Examples:
-    - example1
+    - Die Fotos liegen auf dem Tisch.
+    - Das Essen steht schon auf dem Tisch.
 
 - Id: der Titel
   Level: B1
@@ -18700,11 +18738,12 @@
     - Ich habe endlich mal ausgeschlafen. Das hat gut getan.
 
 - Id: die Tür
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: door
   Examples:
-    - example1
+    - Mach bitte die Tür zu!
+    - Machen Sie bitte die Tür zu! Es zieht.
 
 - Id: der Turm
   Level: B1
@@ -21526,11 +21565,11 @@
     - Zurzeit habe ich sehr viel zu tun.
 
 - Id: die Zeitschrift
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: magazine
   Examples:
-    - example1
+    - Diese Zeitschrift kauft Andrea jede Woche.
 
 - Id: die Zeitung
   Level: A1
@@ -21789,7 +21828,8 @@
   Form: (Sg.)
   Meaning: home
   Examples:
-    - example1
+    - Ich fühle mich hier wohl. Das ist mein
+      Zuhause.
 
 - Id: zuhören
   Level: B1
@@ -22211,7 +22251,7 @@
   Level: M
   Meaning: blue
   Examples:
-    - example1
+    - Möchten Sie Ihre Forelle blau oder nach Müllerin Art?
 
 - Id: braun
   Level: M
@@ -24275,4 +24315,25 @@
   Meaning: to design
   Examples:
     - Wie sollen wir unser Fest gestalten?
+
+- Id: der Regenschirm
+  Level: K
+  Form: -e
+  Meaning: umbrella
+  Examples:
+    - Einen Regenschirm hat man im Herbst gerne dabei.
+
+- Id: das Lehrbuch
+  Level: K
+  Form: ¨-er
+  Meaning: textbook
+  Examples:
+    - Lehrbücher sind die Schulbücher und die Einführungen in Wissenschaften.
+
+- Id: die Kaffeemaschine
+  Level: K
+  Form: -n
+  Meaning: coffee machine
+  Examples:
+    - Aus den Millionen von Büroküchen auf der ganzen Welt ist die Kaffeemaschine nicht mehr wegzudenken.
 
