@@ -1268,7 +1268,7 @@
   Feminine:
     Id: die Ärztin
     Form: -nen
-  Meaning: doctor
+  Meaning: doctor (A)
   Examples:
     - Morgen habe ich einen Termin bei meiner Ärztin.
     - Ich muss heute zum Arzt.
@@ -2420,7 +2420,7 @@
 - Id: bedienen
   Level: B1
   Form: bedient, bediente, hat bedient
-  Meaning: to serve, operate
+  Meaning: to serve, operate (b-)
   Examples:
     - Werden Sie schon bedient?
     - Die Kaffeemaschine ist ganz leicht zu bedienen.
@@ -4491,127 +4491,169 @@
   Form: -en
   Meaning: diet
   Examples:
-    - example1
+    - Ich möchte abnehmen. Deshalb mache
+      ich eine Diät.
 
 - Id: der Dialekt
   Level: B1
   Form: -e
   Meaning: dialect
   Examples:
-    - example1
+    - Ich verstehe dich besser, wenn du
+      nicht Dialekt sprichst.
 
 - Id: der Dialog
   Level: B1
   Form: -e
   Meaning: dialog
   Examples:
-    - example1
+    - Sie hören jetzt einen Dialog.
 
 - Id: dicht
   Level: B1
   Meaning: thick, dense
   Examples:
-    - example1
+    - Unsere Fenster sind nicht dicht. Es
+      zieht immer.
 
 - Id: dick
-  Level: B1
+  Level: A2
   Meaning: thick, fat
   Examples:
-    - example1
+    - Ich bin zu dick. Ich muss weniger
+      essen.
+    - Die Wände sind hier sehr dick.
 
 - Id: der Dieb
   Level: B1
   Form: -e
   Meaning: thief, burglar
   Examples:
-    - example1
+    - Ein Dieb hat mir auf dem Markt die
+      Tasche gestohlen.
 
 - Id: dienen
   Level: B1
   Form: dient, diente, hat gedient
-  Meaning: to serve
+  Meaning: to serve (d-)
   Examples:
-    - example1
+    - Solche Kontakte dienen der
+      Verbesserung der internationalen
+      Beziehungen.
+    - Dieser Raum dient als
+      Aufenthaltsraum.
+    - Er hat der Firma viele Jahre lang
+      gedient.
 
 - Id: der Dienst
   Level: B1
   Form: -e
   Meaning: service, duty
   Examples:
-    - example1
+    - Als Krankenschwester habe ich oft
+      Frühdienst.
+    - Morgen habe ich Dienst. Deshalb kann
+      ich nicht kommen.
 
 - Id: dies-
-  Level: B1
+  Level: A1
+  Form: dieser, diese, dieses
   Meaning: this, that
   Examples:
-    - example1
+    - Ich nehme lieber diesen Kuchen.
+    - Wohin fährst du dieses Jahr in Urlaub?
+    - Welche Hose nehmen Sie? – Diese hier.
 
 - Id: diesmal
   Level: B1
   Meaning: this time
   Examples:
-    - example1
+    - Die letzten Spiele haben wir verloren.
+      Diesmal haben wir zum Glück
+      gewonnen.
 
 - Id: digital
   Level: B1
   Meaning: digital
   Examples:
-    - example1
+    - Ich habe eine Digitaluhr gekauft. Die
+      geht genauer als meine alte Uhr.
 
 - Id: das Ding
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: thing
   Examples:
-    - example1
+    - Gib mir bitte mal das Ding da drüben!
+    - Was macht man mit diesem Ding? - Damit kann
+      man Flaschen öffnen.
 
 - Id: das Diplom
   Level: B1
   Form: -e
   Meaning: diploma
   Examples:
-    - example1
+    - Wo kann ich mein Diplom abholen?
 
 - Id: direkt
-  Level: B1
+  Level: A2
   Meaning: direct
   Examples:
-    - example1
+    - Wir wohnen direkt über dem Café.
+    - Gibt es keinen direkten Zug nach Hamburg? - Nein,
+      Sie müssen immer umsteigen.
+    - Ich möchte nicht direkt nach der Schule studieren.
+      Ich möchte erst reisen.
+    - Wir liefern Ihnen das Sofa direkt ins Haus.
+    - Das Dorf liegt direkt an der Autobahn.
+    - Sie übertragen das Fußballspiel direkt.
 
 - Id: der Direktor
   Level: B1
   Form: -en
+  Feminine:
+    Id: die Direktorin
+    Form: -nen
   Meaning: director
   Examples:
-    - example1
+    - Ich möchte gern mit dem Direktor
+      sprechen.
 
 - Id: die Diskothek
-  Level: B1
+  Level: A1
   Form: -en
+  Abbreviation:
+    Id: die Disko
+    Form: -s
   Meaning: disco
   Examples:
-    - example1
+    - Heute abend gehen wir in die Disco tanzen.
+    - Wir gehen heute Abend in die
+      Disko(thek).
 
 - Id: diskutieren
-  Level: B1
+  Level: A2
   Form: diskutiert, diskutierte, hat diskutiert
   Meaning: to discuss
   Examples:
-    - example1
+    - Wir haben lange diskutiert, wie wir das
+      Büro einrichten sollen.
 
 - Id: die Diskussion
   Level: B1
   Form: -en
   Meaning: discussion
   Examples:
-    - example1
+    - Im Fernsehen gab es eine Diskussion
+      zum Thema „Kinderbetreuung“.
 
 - Id: die Distanz
   Level: B1
   Form: -en
   Meaning: distance
   Examples:
-    - example1
+    - Diese Firma transportiert Waren auch
+      über große Distanzen.
 
 - Id: doch
   Level: B1
@@ -4629,9 +4671,14 @@
 - Id: der Doktor
   Level: A1
   Form: -en
-  Meaning: doctor
+  Feminine:
+    Id: die Doktorin
+    Form: -nen
+  Meaning: doctor (D-)
   Examples:
-    - example1
+    - Ist Frau Dr. Müller da?
+    - Meine Tochter ist krank. Wir gehen
+      zum Doktor.
 
 - Id: das Dokument
   Level: B1
@@ -4646,34 +4693,48 @@
   Form: donnert, donnerte, hat gedonnert
   Meaning: to thunder, crushed
   Examples:
-    - example1
+    - Hörst du es donnern? Das Gewitter
+      kommt näher.
+    - Der Lkw donnert über die Landstraße.
 
 - Id: der Donner
   Level: B1
   Form: '-'
   Meaning: thunder
   Examples:
-    - example1
+    - Der Donner kam erst lange nach dem
+      Blitz.
 
 - Id: doppelt
   Level: B1
   Meaning: double (d-)
   Examples:
-    - example1
+    - Das Buch habe ich doppelt.
 
-- Id: Doppel
+- Id: das Doppel
   Level: B1
   Form: '-'
   Meaning: double
   Examples:
-    - example1
+    - Wir hätten gern ein Doppelbett.
+    - Wollen Sie ein Doppelzimmer oder ein
+      Einzelzimmer?
+
+- Id: das Doppelzimmer
+  Level: A1
+  Form: '-'
+  Meaning: double room
+  Examples:
+    - Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?
 
 - Id: das Dorf
   Level: A1
   Form: ¨-er
   Meaning: village
   Examples:
-    - example1
+    - Meine Familie lebt in einem Dorf.
+    - Unser Dorf liegt direkt an der
+      Autobahn.
 
 - Id: dort
   Level: A1
@@ -4699,44 +4760,60 @@
 - Id: die Dose
   Level: B1
   Form: -n
+  Synonym: = (D, CH) Büchse
   Meaning: can, container (D-)
   Examples:
-    - example1
+    - Ich habe noch eine Dose Bohnen.
 
 - Id: draußen
   Level: A1
   Meaning: outside
   Examples:
-    - example1
+    - Wollen wir draußen sitzen?
+    - Das Wetter ist so schön. Wollen wir draußen sitzen?
+    - Hunde müssen draußen bleiben.
+    - Es ist kalt draußen.
+    - Wir müssen draußen warten.
 
 - Id: der Dreck
   Level: B1
   Form: (Sg.)
   Meaning: dirt, muck, filth, mud
   Examples:
-    - example1
+    - Iss den Apfel nicht! Der lag im Dreck.
+    - Ich konnte vor lauter Dreck auf dem
+      Fenster nichts sehen.
+    - Kümmere dich um deinen eigenen
+      Dreck!
 
 - Id: drehen
   Level: B1
   Form: dreht, drehte, hat gedreht
   Meaning: to turn
   Examples:
-    - example1
+    - Drehen Sie zum Einschalten den
+      Schalter nach rechts.
+    - Die Kinder drehen sich zur Musik im
+      Kreis.
+    - Bei Familie Huber dreht sich jetzt alles
+      um das Baby.
 
 - Id: drin
-  Level: B1
+  Level: A2
   Meaning: inside, indoor (4)
   Examples:
     - In der Packung ist nichts mehr drin.
 
 - Id: dringend
-  Level: B1
+  Level: A2
   Meaning: urgent
   Examples:
-    - example1
+    - Bitte kommen Sie schnell. Es ist dringend.
+    - Ich muss dich dringend sprechen.
+    - Ich erwarte einen dringenden Anruf.
 
 - Id: drinnen
-  Level: B1
+  Level: A2
   Meaning: inside, indoor (7)
   Examples:
     - Wollen Sie drinnen oder draußen sitzen?
@@ -4749,20 +4826,21 @@
   Form: -n
   Meaning: drug
   Examples:
-    - example1
+    - Nimmst du etwa Drogen?
 
 - Id: die Drogerie
   Level: B1
   Form: -n
   Meaning: drugstore
   Examples:
-    - example1
+    - Waschmittel bekommst du in der
+      Drogerie.
 
 - Id: drüben
-  Level: B1
+  Level: A2
   Meaning: over there
   Examples:
-    - example1
+    - Da drüben ist die Haltestelle.
 
 - Id: drucken
   Level: A1
@@ -4801,13 +4879,20 @@
   Form: ¨-e
   Meaning: pressure
   Examples:
-    - example1
+    - Mit einem Knopfdruck schaltet man
+      das Gerät ein.
+    - Wie hoch muss der Druck in den
+      vorderen Reifen sein?
 
 - Id: dumm
-  Level: B1
+  Level: A2
   Meaning: stupid
   Examples:
-    - example1
+    - Ich finde den Film dumm.
+    - Entschuldigung, das war dumm von mir.
+    - Das ist mir zu dumm.
+    - Mir ist etwas Dummes passiert.
+    - Ich fand den Film wirklich sehr dumm.
 
 - Id: dunkel
   Level: A2
@@ -4818,22 +4903,37 @@
     - Ich will eine dunkelblaue Bluse kaufen.
 
 - Id: dünn
-  Level: B1
+  Level: A2
   Meaning: thin
   Examples:
-    - example1
+    - Das Buch ist sehr dünn. Es hat nur 40 Seiten.
+    - Mein Bruder ist 1,80 Meter groß und 62 Kilo
+      schwer, er ist zu dünn.
+    - Mein Sohn ist sehr dünn. Er isst zu
+      wenig.
+    - Warum ziehst du nur so einen dünnen
+      Mantel an? Es ist kalt draußen.
 
 - Id: durch
   Level: A1
   Meaning: through
   Examples:
-    - example1
+    - Am besten gehen Sie durch die Breite Straße.
+    - Wir fahren mit dem Fahrrad durch den Wald.
+    - Wenn Sie zum Bahnhof gehen, kommen Sie durch die Goethestraße.
+    - Wir haben den ganzen Mai durch
+      geheizt.
+    - Wir haben unsere Wohnung durch
+      einen Freund bekommen.
 
 - Id: durcheinander
   Level: B1
   Meaning: confused, in a mess
   Examples:
-    - example1
+    - Alle meine Sachen sind durcheinander.
+      Ich finde nichts mehr.
+    - Bitte redet nicht alle durcheinander.
+      Sonst verstehe ich nichts.
 
 - Id: die Durchsage
   Level: A1
@@ -4848,13 +4948,18 @@
   Form: -e
   Meaning: average, on average
   Examples:
-    - example1
+    - Der Durchschnitt der Ausgaben liegt
+      bei 150 Euro im Monat.
+    - Im Durchschnitt brauchen wir täglich
+      20 Minuten zur Arbeit.
+    - Die Studentin gehört zum Durchschnitt.
 
 - Id: durchschnittlich
   Level: B1
   Meaning: ordinary, average
   Examples:
-    - example1
+    - Die Preise sind im letzten Jahr um
+      durchschnittlich 6 % gestiegen.
 
 - Id: dürfen
   Level: A1
@@ -4874,13 +4979,16 @@
   Form: (Sg.)
   Meaning: thirst
   Examples:
-    - example1
+    - Hast du etwas zu trinken? Ich habe großen Durst.
+    - Ich hole Ihnen etwas zu trinken. Sie
+      haben sicher Durst.
 
 - Id: durstig
   Level: B1
   Meaning: thirsty
   Examples:
-    - example1
+    - Du bist sicher durstig. Was möchtest
+      du trinken?
 
 - Id: (sich) duschen
   Level: A1
@@ -4904,7 +5012,8 @@
   Form: duzt, duzte, hat geduzt
   Meaning: say ‘du’ to sb
   Examples:
-    - example1
+    - Wollen wir Du zueinander sagen? Ja,
+      wir können uns gern duzen?
 
 - Id: die DVD
   Level: B1
@@ -4917,19 +5026,21 @@
   Level: B1
   Meaning: exactly, just, level, smooth
   Examples:
-    - example1
+    - Ich bin eben erst angekommen.
+    - Ich gebe auf. Ich habe eben kein Glück!
 
 - Id: ebenfalls
   Level: B1
   Meaning: likewise
   Examples:
-    - example1
+    - Ich wünsche Ihnen ein schönes
+      Wochenende. – Danke, ebenfalls.
 
 - Id: ebenso
   Level: B1
   Meaning: just as, as well
   Examples:
-    - example1
+    - Schöne Feiertage. – Danke, ebenso.
 
 - Id: das E-Bike
   Level: B1
@@ -4956,24 +5067,47 @@
     - Ich schreibe Ihnen/dir eine E-Mail.
 
 - Id: echt
-  Level: B1
+  Level: A2
   Meaning: real, really
   Examples:
-    - example1
+    - Ist das Bild ein echter Picasso?
+    - Der Film ist echt gut.
+    - Ich träume von einem echten
+      Perserteppich.
 
 - Id: die EC-Karte
   Level: B1
-  Form: <EC-Karte>
+  Synonym: = (A) Bankomat-Karte
   Meaning: EC card (bank card)
   Examples:
-    - example1
+    - Bezahlen Sie bar? Sie können auch mit
+      der ec-Karte zahlen.
 
 - Id: die Ecke
   Level: A1
   Form: -n
-  Meaning: corner
+  Synonym: (D, CH) = (A) Eck
+  Meaning: corner (4)
   Examples:
-    - example1
+    - An der nächsten Ecke links.
+    - Gehen Sie an der nächsten Ecke links. Dann
+      kommen Sie zur Apotheke.
+    - Wir stellen das Regal in die Ecke.
+    - Das Regal stellen wir hier in die Ecke.
+    - Das bekommen Sie im Kiosk an der
+      Ecke.
+    - Wo ist die Apotheke? − Gleich um die
+      Ecke.
+
+- Id: das Eck
+  Level: B1
+  Form: -en
+  Synonym: (A) = (D, CH) Ecke
+  Meaning: corner (3)
+  Examples:
+    - Das Regal stellen wir hier ins Eck.
+    - Das bekommen Sie im Kiosk am Eck.
+    - Wo ist die Apotheke? − Gleich ums Eck.
 
 - Id: eckig
   Level: B1
