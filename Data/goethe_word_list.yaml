@@ -4480,7 +4480,7 @@
 
 - Id: deutlich
   Level: A2
-  Meaning: clear
+  Meaning: clear, distinct
   Examples:
     - Sprechen Sie bitte deutlich!
     - Können Sie das bitte deutlicher schreiben? Ich kann das nicht lesen.
@@ -5113,99 +5113,134 @@
   Level: B1
   Meaning: square
   Examples:
-    - example1
+    - Ich möchte einen eckigen Tisch, keinen
+      runden.
 
 - Id: egal
-  Level: B1
+  Level: A2
   Meaning: all the same
   Examples:
-    - example1
+    - Das ist mir egal.
+    - Willst du Tee oder Kaffee trinken? – Egal.
+    - Es ist mir ganz egal, was die Leute
+      denken.
+    - Egal, wie das Wetter ist, ich gehe
+      schwimmen.
 
 - Id: die Ehe
   Level: B1
   Form: -n
   Meaning: marriage
   Examples:
-    - example1
+    - Sie hat zwei Kinder aus erster Ehe.
 
 - Id: die Ehefrau
   Level: A1
   Form: -en
   Meaning: wife
   Examples:
-    - example1
+    - Das ist meine (Ehe-) Frau.
+    - Wie heißt Ihre Ehefrau mit Vornamen?
 
 - Id: der Ehemann
   Level: A1
   Form: ¨-er
   Meaning: husband
   Examples:
-    - example1
+    - Das ist mein (Ehe-) Mann.
+
+- Id: der Ehepartner
+  Level: A2
+  Form: '-'
+  Feminine:
+    Id: die Ehepartnerin
+    Form: -nen
+  Meaning: spouse
+  Examples:
+    - Die beiden sind nicht nur miteinander befreundet, sie sind Ehepartner.
 
 - Id: das Ehepaar
   Level: B1
   Form: -e
   Meaning: (Ehemannmarried) couple
   Examples:
-    - example1
+    - Das Ehepaar unter uns hat zwei
+      Kinder.
 
 - Id: eher
   Level: B1
   Meaning: sooner, rather, more
   Examples:
-    - example1
+    - Ich stehe meist eher auf als mein
+      Mann.
+    - Michael sieht gerne Serien, ich mag
+      eher Krimis.
 
 - Id: ehrlich
   Level: B1
   Meaning: honest
   Examples:
-    - example1
+    - Sie ist ein ehrlicher Mensch.
+    - Bitte sei in dieser Sache ehrlich.
+    - Die Pause haben wir uns ehrlich
+      verdient.
 
 - Id: das Ei
   Level: A1
   Form: -er
   Meaning: egg
   Examples:
-    - example1
+    - Möchtest du ein Ei zum Frühstück?
 
 - Id: eigen
-  Level: B1
+  Level: A2
   Meaning: own
   Examples:
-    - example1
+    - Nicht alle Kinder haben ein eigenes Zimmer.
+    - Fast jedes Kind hat ein eigenes
+      Zimmer.
+    - Manche Leute haben keine eigene
+      Meinung.
 
 - Id: eigentlich
-  Level: B1
+  Level: A2
   Meaning: actually, real, actual
   Examples:
-    - example1
+    - Wir wollten eigentlich Freunde besuchen, aber dann
+      sind wir doch zu Hause geblieben.
+    - Kennst du eigentlich Susanne?
+    - Die Sängerin nennt sich Arabella. Aber
+      eigentlich heißt sie Uschi Müller.
+    - Was willst du eigentlich von mir?
 
 - Id: sich eignen
   Level: B1
-  Form: eignet, eignete, hat geeignet
+  Form: eignet sich, eignete sich, hat sich geeignet
   Meaning: to be suitable
   Examples:
-    - example1
+    - Dieses Hotel eignet sich besonders für
+      Familien mit Kindern.
 
 - Id: eilen
   Level: B1
-  Form: eilt, eilte, hat geeilt
+  Form: eilt, eilte, hat/ist geeilt
   Meaning: to hurry
   Examples:
-    - example1
+    - Es eilt sehr. Bitte machen Sie schnell.
 
 - Id: die Eile
   Level: B1
   Form: (Sg.)
   Meaning: haste
   Examples:
-    - example1
+    - Ich bin sehr in Eile.
+    - Das hat keine Eile.
 
 - Id: eilig
   Level: A1
   Meaning: hasty, hurry
   Examples:
-    - example1
+    - Hast du es eilig?
 
 - Id: ein-
   Level: A1
@@ -5220,47 +5255,62 @@
   Form: -n
   Meaning: one way street
   Examples:
-    - example1
+    - Die Goethestraße ist jetzt eine
+      Einbahnstraße.
 
 - Id: einbrechen
   Level: B1
   Form: bricht ein, brach ein, hat eingebrochen
   Meaning: to break in(to)
   Examples:
-    - example1
+    - Jemand ist in unsere Wohnung
+      eingebrochen.
 
 - Id: der Einbrecher
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Einbrecherin
+    Form: -nen
   Meaning: burglar
   Examples:
-    - example1
+    - Die Einbrecher haben nichts gestohlen.
 
 - Id: der Einbruch
   Level: B1
   Form: ¨-e
   Meaning: break in
   Examples:
-    - example1
+    - In der Urlaubszeit gibt es viele
+      Wohnungseinbrüche.
 
 - Id: eindeutig
   Level: B1
-  Meaning: clear
+  Meaning: unambiguous, clear
   Examples:
-    - example1
+    - Das Ergebnis ist eindeutig. Du hast
+      gewonnen.
+    - Du kannst eindeutig besser kochen als
+      ich.
 
 - Id: der Eindruck
   Level: B1
   Form: ¨-e
   Meaning: impression
   Examples:
-    - example1
+    - Ich finde die Leute auf der Straße
+      ziemlich unfreundlich. Wie ist dein
+      Eindruck?
+    - Ich glaube, ich habe bei dem
+      Vorstellungsgespräch einen guten
+      Eindruck gemacht.
 
 - Id: einerseits
   Level: B1
   Meaning: on the other hand
   Examples:
-    - example1
+    - Einerseits möchte ich die Reise gern
+      machen, andererseits ist sie zu teuer.
 
 - Id: einfach
   Level: A1
@@ -5278,82 +5328,101 @@
   Form: -en
   Meaning: driving in, entrance, slip road
   Examples:
-    - example1
+    - Da parkt wieder jemand vor unserer
+      Einfahrt.
+    - 'Können Sie nicht lesen: Einfahrt freihalten!'
 
 - Id: einfallen
   Level: B1
   Form: fällt ein, fiel ein, ist eingefallen
   Meaning: to fall in, collapse
   Examples:
-    - example1
+    - Mir ist wieder eingefallen, wie das
+      Buch heißt.
 
 - Id: der Einfall
   Level: B1
   Form: ¨-e
   Meaning: idea
   Examples:
-    - example1
+    - Frag einfach meine Freundin. Sie hat
+      immer gute Einfälle.
 
 - Id: der Einfluss
   Level: B1
   Form: ¨-e
   Meaning: influence
   Examples:
-    - example1
+    - Das Wetter hat Einfluss auf die
+      Gesundheit der Menschen.
 
 - Id: beeinflussen
   Level: B1
   Form: beeinflusst, beeinflusste, hat beeinflusst
   Meaning: to influence
   Examples:
-    - example1
+    - Dieses Ereignis hat die Wahlen
+      beeinflusst.
 
 - Id: einfügen
   Level: B1
   Form: fügt ein, fügte ein, hat eingefügt
   Meaning: to fit into, insert in
   Examples:
-    - example1
+    - Markieren Sie zuerst die Zeilen, dann
+      „kopieren“ drücken und dann einfügen.
 
 - Id: einführen
   Level: B1
   Form: führt ein, führte ein, hat eingeführt
   Meaning: to bring in, introduce
   Examples:
-    - example1
+    - Dürfen wir diese Ware ins Land
+      einführen?
+    - Wir haben letztes Jahr ein neues
+      System eingeführt.
 
 - Id: die Einführung
   Level: B1
   Form: -en
   Meaning: introduction
   Examples:
-    - example1
+    - Leider habe ich die Einführung des
+      Kurses verpasst.
 
 - Id: der Eingang
   Level: A1
   Form: ¨-e
   Meaning: entrance
   Examples:
-    - example1
+    - Der Eingang ist um die Ecke.
+    - Das Gebäude hat zwei Eingänge.
 
 - Id: einheitlich
   Level: B1
   Meaning: uniform
   Examples:
-    - example1
+    - Die Schüler dieser Schule tragen
+      einheitliche Kleidung.
 
-- Id: einig
-  Level: B1
+- Id: einig-
+  Level: A2
   Meaning: several
   Examples:
-    - example1
+    - In diesem Text sind einige Fehler.
+    - Das dauert noch einige Zeit, bis das Essen fertig ist.
+    - In diesem Bericht sind einige Fehler.
+    - Das wird noch einige Zeit dauern.
+    - Einige Leute sind für das Gesetz, aber
+      viele sind auch dagegen.
 
 - Id: sich einigen
   Level: B1
-  Form: einigt, einigte, hat geeinigt
+  Form: einigt sich, einigte sich, hat sich geeinigt
   Meaning: to agree on something
   Examples:
-    - example1
+    - Jeder hat einen anderen Vorschlag.
+      Wir können uns leider nicht einigen.
 
 - Id: einkaufen
   Level: A1
@@ -5371,12 +5440,20 @@
     - Achten Sie beim Einkauf auf Sonderangebote.
     - Ich habe alle Einkäufe erledigt. Jetzt können wir einen Kaffee trinken.
 
+- Id: das Einkaufszentrum
+  Level: A2
+  Form: -en
+  Meaning: shopping center
+  Examples:
+    - Kommst du morgen mit ins Einkaufszentrum?
+
 - Id: das Einkommen
   Level: B1
   Form: '-'
   Meaning: income
   Examples:
-    - example1
+    - Bei einem höheren Einkommen muss
+      man mehr Steuern zahlen.
 
 - Id: einladen
   Level: A1
@@ -5419,229 +5496,297 @@
   Form: nimmt ein, nahm ein, hat eingenommen
   Meaning: to take, take up
   Examples:
-    - example1
+    - Wie muss ich die Tropfen einnehmen?
 
 - Id: die Einnahme
   Level: B1
   Form: -n
   Meaning: revenue, takings, income
   Examples:
-    - example1
+    - Unser Geschäft läuft gut. Unsere
+      Einnahmen waren in diesem Monat
+      höher als im letzten.
 
 - Id: einpacken
-  Level: B1
+  Level: A2
   Form: packt ein, packte ein, hat eingepackt
-  Meaning: to pack
+  Meaning: to pack up
   Examples:
-    - example1
+    - Pack bitte die Handtücher ein!
+    - Soll ich Ihnen das als Geschenk einpacken?
+    - Hast du Handtücher eingepackt?
 
 - Id: einrichten
   Level: B1
   Form: richtet ein, richtete ein, hat eingerichtet
   Meaning: to establish, set up, furnish
   Examples:
-    - example1
+    - Ich habe meine Wohnung selbst
+      eingerichtet.
+    - Wenn Sie Fragen haben, rufen Sie uns
+      an. Wir haben eine extra Telefon-nummer eingerichtet.
 
 - Id: die Einrichtung
   Level: B1
   Form: -en
   Meaning: furnishings, organisation, equipment
   Examples:
-    - example1
+    - Deine Wohnung ist sehr gemütlich, die
+      Einrichtung gefällt mir sehr gut.
 
 - Id: einsam
   Level: B1
   Meaning: lonely, solitary
   Examples:
-    - example1
+    - Ohne meine Familie fühle ich mich ein
+      bisschen einsam.
 
 - Id: einschalten
   Level: B1
   Form: schaltet ein, schaltete ein, hat eingeschaltet
   Meaning: to turn on
   Examples:
-    - example1
+    - Können Sie bitte die Heizung
+      einschalten?
 
 - Id: einschließlich
   Level: B1
   Meaning: inclusive
   Examples:
-    - example1
+    - Alles zusammen kostet 200 Euro
+      einschließlich Fahrtkosten.
 
 - Id: das Einschreiben
   Level: B1
   Form: '-'
   Meaning: registered mail/ post
   Examples:
-    - example1
+    - Ich habe den Brief als Einschreiben
+      geschickt.
 
 - Id: einsetzen
   Level: B1
   Form: setzt ein, setzte ein, hat eingesetzt
   Meaning: to put, set, install
   Examples:
-    - example1
+    - Ich glaube, wir müssen jemanden
+      einsetzen, der sich um die
+      Organisation kümmert.
+    - Peter hat sich dafür eingesetzt, dass
+      ich den Job bekomme.
 
 - Id: einsteigen
   Level: A1
   Form: steigt ein, stieg ein, ist eingestiegen
   Meaning: to board, get in
   Examples:
-    - example1
+    - Schnell, steig ein, der Zug fährt gleich ab.
+    - Bitte ab 20 Uhr vorn im Bus einsteigen.
+    - Ab 20 Uhr vorne beim Fahrer
+      einsteigen.
+    - Steig ein. Wir wollen losfahren.
 
 - Id: einstellen
   Level: B1
   Form: stellt ein, stellte ein, hat eingestellt
   Meaning: to employ, take on, adjust
   Examples:
-    - example1
+    - Die Firma wird in diesem Jahr drei
+      neue Leute einstellen.
+    - Das Gerät ist nicht richtig eingestellt.
 
 - Id: eintragen
-  Level: B1
+  Level: A2
   Form: trägt ein, trug ein, hat eingetragen
   Meaning: to enter, put one's name down
   Examples:
-    - example1
+    - Tragen Sie sich bitte in die Liste ein.
+    - Sie müssen Ihren Namen und Ihre Adresse eintragen.
 
 - Id: eintreten
   Level: B1
   Form: tritt ein, trat ein, hat eingetreten
   Meaning: to enter, occur
   Examples:
-    - example1
+    - Letztes Jahr bin ich in einen
+      Sportverein eingetreten.
 
 - Id: der Eintritt
   Level: A1
   Form: -e
   Meaning: admission, entrance
   Examples:
-    - example1
+    - Der Preis für den Eintritt ist 5 Euro.
+    - Kinder über 10 Jahre zahlen den
+      vollen Eintritt.
+    - Der Eintritt ist frei. Sie müssen nichts bezahlen.
+    - Der Eintritt kostet fünf Euro.
 
 - Id: einverstanden
-  Level: B1
+  Level: A2
   Meaning: agreed
   Examples:
-    - example1
+    - Als Termin schlage ich den 3. Mai vor. – Gut, einverstanden!
+    - Bist du einverstanden, wenn wir bald
+      nach Hause gehen?
 
 - Id: der Einwohner
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Einwohnerin
+    Form: -nen
   Meaning: inhabitant
   Examples:
-    - example1
+    - Berlin hat über drei Millionen
+      Einwohner.
 
 - Id: einzahlen
   Level: B1
   Form: zahlt ein, zahlte ein, hat eingezahlt
   Meaning: to pay in
   Examples:
-    - example1
+    - Ich habe gestern Geld auf mein
+      Bankkonto eingezahlt.
 
 - Id: die Einzahlung
   Level: B1
   Form: -en
   Meaning: payment
   Examples:
-    - example1
-
-- Id: Einzel-
-  Level: B1
-  Form: '-'
-  Meaning: standalone
-  Examples:
-    - example1
+    - Sie sollten die Einzahlung pünktlich
+      machen.
 
 - Id: einzeln
-  Level: B1
+  Level: A2
   Meaning: single, odd (from a pair)
   Examples:
-    - example1
+    - Dieses Mineralwasser gibt es nur als
+      Sechserpack, nicht einzeln.
+    - Die Schüler mussten einzeln zum Schularzt kommen.
+    - Nicht alle zusammen. Könnt ihr bitte einzeln
+      sprechen?
+    - Florian ist ein Einzelkind. Er hat keine Geschwister.
+      Ein Einzelzimmer ist noch frei.
+
+- Id: das Einzelkind
+  Level: B1
+  Form: -er
+  Meaning: only child
+  Examples:
+    - Ich habe überhaupt keine Geschwister, ich bin Einzelkind.
+
+- Id: das Einzelzimmer
+  Level: A1
+  Form: '-'
+  Meaning: single room
+  Examples:
+    - Haben Sie noch ein Einzelzimmer?
 
 - Id: die Einzelheit
   Level: B1
   Form: -en
-  Meaning: particular, detail
+  Meaning: detail
   Examples:
-    - example1
+    - Du musst mir das in allen Einzelheiten
+      erzählen.
 
 - Id: einzig
   Level: B1
   Meaning: only, unique
   Examples:
-    - example1
+    - Wir waren die einzigen Gäste.
+    - Das war das einzige Mal, dass ich ihn
+      gesehen habe.
 
 - Id: einziehen
-  Level: B1
+  Level: A2
   Form: zieht ein, zog ein, hat eingezogen
   Meaning: to move in, draw in, take in
   Examples:
-    - example1
+    - Im Juni ziehen unsere neuen Nachbarn ein.
+    - Wann können wir in die Wohnung einziehen?
+    - Die Wohnung ist fertig. Wir können
+      nächste Woche einziehen.
 
 - Id: das Eis
-  Level: B1
+  Level: A2
   Form: (Sg.)
-  Meaning: ice cream
+  Meaning: ice, ice cream
+  Synonym: (D, A) = (CH) Glace/Glacé
   Examples:
-    - example1
+    - Möchtest du auch ein Eis?
+    - Im Winter gibt es Eis und Schnee.
+    - Bitte eine Cola ohne Eis.
+    - Zum Nachtisch gibt es Schokoladeneis.
 
 - Id: die Eisenbahn
   Level: B1
   Form: -en
   Meaning: railway
   Examples:
-    - example1
+    - Die Kinder wünschen sich eine
+      elektrische Eisenbahn.
 
 - Id: elegant
   Level: B1
   Meaning: elegant
   Examples:
-    - example1
+    - Ich finde dein Kleid sehr elegant.
 
 - Id: elektrisch
   Level: B1
   Meaning: electrical
   Examples:
-    - example1
-
-- Id: Elektro
-  Level: B1
-  Meaning: electric
-  Examples:
-    - example1
+    - Wir kochen nicht mit Gas, sondern
+      elektrisch.
 
 - Id: elektronisch
   Level: B1
   Meaning: electronic
   Examples:
-    - example1
+    - Wir sollten die Daten elektronisch
+      bearbeiten, sonst dauert es zu lange.
 
 - Id: die Eltern
   Level: A1
   Form: (Pl.)
   Meaning: parents
   Examples:
-    - example1
+    - Meine Eltern leben in Spanien.
+    - Ich wohne noch bei meinen Eltern.
 
 - Id: empfangen
   Level: B1
   Form: empfängt, empfing, hat empfangen
   Meaning: to receive
   Examples:
-    - example1
+    - Wir können mit unserem Fernseher
+      über 30 Programme empfangen.
+    - Die Gäste wurden sehr herzlich
+      empfangen.
 
 - Id: der Empfang
   Level: B1
   Form: ¨-e
   Meaning: reception
   Examples:
-    - example1
+    - Bitte den Empfang bestätigen!
+    - Ich bin mit dem Fernseher nicht
+      zufrieden. Der Empfang ist sehr
+      schlecht.
+    - Zur Firmeneröffnung bitten wir zu
+      einem kleinen Empfang.
 
 - Id: der Empfänger
   Level: A1
   Form: '-'
   Meaning: receiver, recipient
   Examples:
-    - example1
+    - Auf dem Brief steht dein Name, also bist du der
+      Empfänger.
+    - Es fehlt die genaue Adresse des
+      Empfängers.
 
 - Id: empfehlen
   Level: A1
@@ -5656,148 +5801,198 @@
   Form: -en
   Meaning: recommendation
   Examples:
-    - example1
+    - Ich rufe auf Empfehlung von Herrn
+      Weber an.
 
 - Id: enden
   Level: A1
   Form: endet, endete, hat geendet
   Meaning: to end
   Examples:
-    - example1
+    - Die Straße endet hier.
+    - Der Kurs endet in einer Woche.
+    - Das Arbeitsverhältnis endet im Mai.
 
 - Id: das Ende
   Level: A1
   Form: -n
   Meaning: end
   Examples:
-    - example1
+    - Sie wohnt am Ende der Straße.
+    - Er bekommt sein Geld am Ende des Monats.
+    - Die nächste Prüfung findet Ende
+      August statt.
+    - Rinaldo ist Ende fünfzig.
+    - Am Dienstag gehen die Ferien zu Ende.
 
 - Id: endgültig
   Level: B1
   Meaning: final, definite
   Examples:
-    - example1
+    - Damit ist das Problem endgültig gelöst.
+    - Der endgültige Termin steht noch nicht
+      fest.
+    - Das Ergebnis ist noch nicht endgültig.
 
 - Id: endlich
-  Level: B1
+  Level: A2
   Meaning: finally
   Examples:
-    - example1
+    - Wann kommst du endlich? Der Film fängt gleich an.
+      Endlich bist du da!
+    - Endlich haben wir eine schöne
+      Wohnung gefunden.
+    - Haben Sie sich nun endlich
+      entschieden?
 
 - Id: die Energie
   Level: B1
   Form: -n
   Meaning: energy
   Examples:
-    - example1
+    - Wir müssen Energie sparen.
+    - Abends habe ich keine Energie mehr,
+      um Sport zu machen.
 
 - Id: eng
-  Level: B1
+  Level: A2
   Meaning: tight, narrow, close
   Examples:
-    - example1
+    - Diese Hose ist zu eng. Gibt es sie auch eine
+      Nummer größer?
+    - Die Jacke ist mir zu eng.
+    - Wir arbeiten mit dieser Firma eng
+      zusammen.
 
 - Id: der Enkel
   Level: B1
   Form: '-'
   Meaning: grandson, grandchild
   Examples:
-    - example1
+    - Alle meine Enkel gehen schon zur
+      Schule.
 
 - Id: die Enkelin
   Level: B1
   Form: -nen
   Meaning: granddaughter
   Examples:
-    - example1
+    - Alle meine Enkelinnen gehen schon zur
+      Schule.
 
 - Id: entdecken
   Level: B1
   Form: entdeckt, entdeckte, hat entdeckt
   Meaning: to discover
   Examples:
-    - example1
+    - Ich habe in deinem Brief noch ein paar
+      Fehler entdeckt.
 
 - Id: entfernen
   Level: B1
   Form: entfernt, entfernte, hat entfernt
   Meaning: to remove
   Examples:
-    - example1
+    - Der Müll muss dringend entfernt
+      werden.
+    - Das Hotel liegt etwa 100 m vom Strand
+      entfernt.
 
 - Id: die Entfernung
   Level: B1
   Form: -en
   Meaning: distance
   Examples:
-    - example1
+    - Aus dieser Entfernung ist das nicht zu
+      erkennen.
 
 - Id: entgegenkommen
   Level: B1
   Form: kommt entgegen, kam entgegen, ist entgegengekommen
   Meaning: to (come to) meet
   Examples:
-    - example1
+    - Auf dem Weg nach Hause ist mir mein
+      Nachbar entgegengekommen.
+    - Können Sie mir mit dem Preis
+      entgegenkommen?
 
 - Id: enthalten
   Level: B1
   Form: enthält, enthielt, hat enthalten
   Meaning: to contain
   Examples:
-    - example1
+    - Diese Schokolade enthält nur sehr
+      wenig Zucker.
+    - Ist die Änderung im Preis enthalten?
 
 - Id: entlang
   Level: B1
   Meaning: along
   Examples:
-    - example1
+    - Gehen Sie diese Straße entlang. Dann
+      kommen Sie direkt zum Bahnhof.
 
 - Id: entlassen
   Level: B1
   Form: entlässt, entließ, hat entlassen
   Meaning: to dismiss, discharge, fire
   Examples:
-    - example1
+    - Die Operation ist gut gelaufen. Wir
+      können Sie nächste Woche aus dem
+      Krankenhaus entlassen.
+    - Die Firma hat viele Mitarbeiter
+      entlassen.
 
 - Id: die Entlassung
   Level: B1
   Form: -en
   Meaning: discharge, dismissal, firing
   Examples:
-    - example1
+    - Seine Entlassung aus der Firma kam
+      überraschend.
 
 - Id: entscheiden
   Level: B1
   Form: entscheidet, entschied, hat entschieden
   Meaning: to decide
   Examples:
-    - example1
+    - Das kann ich nicht allein entscheiden,
+      da muss ich erst fragen.
+    - Für welchen Anzug haben Sie sich
+      entschieden?
 
 - Id: die Entscheidung
   Level: B1
   Form: -en
   Meaning: decision
   Examples:
-    - example1
+    - Diese wichtige Entscheidung möchte
+      ich zuerst mit meinem Mann
+      besprechen.
 
 - Id: unentschieden
   Level: B1
   Meaning: undecided
   Examples:
-    - example1
+    - Es steht unentschieden zwischen den
+      beiden Mannschaften.
+    - Ich bin noch immer unentschieden,
+      was ich morgen tun soll.
 
 - Id: sich entschließen
   Level: B1
-  Form: entschließt, entschloss, hat entschlossen
+  Form: entschließt sich, entschloss sich, hat sich entschlossen
   Meaning: to decide
   Examples:
-    - example1
+    - Mein Nachbar hat sich nun doch
+      entschlossen, sein Auto zu verkaufen.
 
 - Id: entschlossen
   Level: B1
   Meaning: determined, resolute
   Examples:
-    - example1
+    - Ich bin fest entschlossen, diese
+      Ausbildung fertigzumachen.
 
 - Id: entschuldigen
   Level: A1
@@ -5821,47 +6016,54 @@
   Form: entsorgt, entsorgte, hat entsorgt
   Meaning: get rid of rubbish, throw away rubbish from a town
   Examples:
-    - example1
+    - Wie kann ich meine alte
+      Kaffeemaschine entsorgen?
 
 - Id: entspannend
   Level: B1
   Meaning: relaxing
   Examples:
-    - example1
+    - Der Urlaub war sehr entspannend.
 
 - Id: entstehen
   Level: B1
   Form: entsteht, entstand, ist entstanden
-  Meaning: to arise, result
+  Meaning: to arise, to come into being
   Examples:
-    - example1
+    - Hier entsteht ein neues Einkaufszentrum.
+    - Andere Kosten entstehen nicht.
 
 - Id: enttäuschen
   Level: B1
   Form: enttäuscht, enttäuschte, hat enttäuscht
   Meaning: to disappoint
   Examples:
-    - example1
+    - Leider hat mich sein Verhalten
+      enttäuscht.
+    - Wir waren von dem Konzert sehr
+      enttäuscht.
+    - Das Ergebnis war enttäuschend.
 
 - Id: enttäuscht
   Level: B1
-  Meaning: disappointed
+  Meaning: disappointed (defeated of hope or expectation)
   Examples:
-    - example1
+    - Er machte ein sehr enttäuschtes Gesicht.
 
 - Id: die Enttäuschung
   Level: B1
   Form: -en
   Meaning: disappointment
   Examples:
-    - example1
+    - Das Endspiel war eine große
+      Enttäuschung.
 
-- Id: entweder...oder
+- Id: entweder
   Level: B1
-  Form: <entweder...oder>
-  Meaning: either..or..
+  Meaning: either
   Examples:
-    - example1
+    - Nur einer kann gewinnen, entweder du
+      oder ich.
 
 - Id: entwickeln
   Level: B1
@@ -5876,14 +6078,28 @@
   Form: -en
   Meaning: development
   Examples:
-    - example1
+    - Genug Schlaf ist wichtig für die
+      Entwicklung Ihres Kindes.
 
 - Id: die Erde
   Level: B1
   Form: -n
-  Meaning: earth
+  Meaning: soil, ground, world
   Examples:
-    - example1
+    - Die Pflanzen brauchen neue Erde.
+    - Mein Sohn hat das Glas auf die Erde
+      fallen lassen.
+    - An der Konferenz nehmen Vertreter
+      aus fast allen Ländern der Erde teil.
+
+- Id: der Erdapfel
+  Level: B1
+  Form: ¨-
+  Synonym: (A) = Kartoffel
+  Meaning: potato
+  Examples:
+    - Kann ich bitte noch Erdäpfel
+      bekommen?
 
 - Id: das Erdgeschoss
   Level: A2
@@ -5901,81 +6117,96 @@
   Form: -se
   Meaning: event
   Examples:
-    - example1
+    - Alle Zeitungen haben über diese
+      Ereignisse berichtet.
+    - Das Konzert war ein großes Ereignis.
 
 - Id: sich ereignen
   Level: B1
-  Form: ereignet, ereignete, hat ereignet
+  Form: ereignet sich, ereignete sich, hat sich ereignet
   Meaning: to happen
   Examples:
-    - example1
+    - Der Unfall ereignete sich am frühen
+      Morgen.
 
 - Id: erfahren
   Level: B1
   Meaning: to learn, find out, experience
   Examples:
-    - example1
+    - Wann erfahren wir das Ergebnis der
+      Prüfung?
 
 - Id: die Erfahrung
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: experience
   Examples:
-    - example1
+    - Ich habe zehn Jahre Erfahrung in diesem Beruf.
+    - Mit diesem Gerät haben wir gute
+      Erfahrungen gemacht.
 
 - Id: erfinden
   Level: B1
   Form: erfindet, erfand, hat erfunden
   Meaning: to invent
   Examples:
-    - example1
+    - Das Rad wurde vor ca. 6000 Jahren erfunden.
 
 - Id: die Erfindung
   Level: B1
   Form: -en
   Meaning: invention
   Examples:
-    - example1
+    - Die Erfindung des Buchdrucks war
+      sehr wichtig für die Menschen.
 
 - Id: der Erfolg
   Level: B1
   Form: -e
   Meaning: success
   Examples:
-    - example1
+    - Der Film war ein großer Erfolg.
+    - Ich wünsche Ihnen viel Erfolg bei der
+      Prüfung.
 
 - Id: erfolgreich
   Level: B1
   Meaning: successful
   Examples:
-    - example1
+    - Mein Großvater war ein erfolgreicher
+      Geschäftsmann.
 
 - Id: erforderlich
   Level: B1
   Meaning: required, necessary
   Examples:
-    - example1
+    - Hier ist die Liste der erforderlichen Zutaten für den Kuchen.
+    - Es ist erforderlich, dass man den Pass
+      persönlich abholt.
 
 - Id: erfordern
   Level: B1
   Form: erfordert, erforderte, hat erfordert
   Meaning: to require
   Examples:
-    - example1
+    - Dieser Job erfordert viel Kraft.
 
 - Id: erfüllen
   Level: B1
   Form: erfüllt, erfüllte, hat erfüllt
   Meaning: to fulfil
   Examples:
-    - example1
+    - Sie müssen den Vertrag in allen
+      Punkten erfüllen.
+    - Wir erfüllen Ihnen jeden Wunsch.
 
 - Id: ergänzen
   Level: B1
   Form: ergänzt, ergänzte, hat ergänzt
   Meaning: to supplement, complete
   Examples:
-    - example1
+    - Ergänzen Sie bitte die fehlenden
+      Angaben.
 
 - Id: das Ergebnis
   Level: A1
@@ -5990,35 +6221,43 @@
   Form: erhält, erhielt, hat erhalten
   Meaning: to receive
   Examples:
-    - example1
+    - Ihr Schreiben vom 3. Januar haben wir
+      erhalten.
 
 - Id: erhöhen
   Level: B1
   Form: erhöht, erhöhte, hat erhöht
   Meaning: to increase, raise
   Examples:
-    - example1
+    - Die Regierung wird sicher bald wieder
+      die Steuern erhöhen.
+    - Die Zahl der Unfälle hat sich stark
+      erhöht.
 
 - Id: die Erhöhung
   Level: B1
   Form: -en
   Meaning: increase
   Examples:
-    - example1
+    - Wir streiken für eine Lohnerhöhung.
 
 - Id: sich erholen
   Level: B1
   Form: ist erholt, war erholt, ist erholt gewesen
   Meaning: to rest, relax, recover
   Examples:
-    - example1
+    - Im Urlaub habe ich mich sehr gut
+      erholt.
+    - Er hat sich nach dem Unfall sehr
+      schnell wieder erholt.
 
 - Id: die Erholung
   Level: B1
   Form: (Sg.)
   Meaning: rest, relaxation, recovery
   Examples:
-    - example1
+    - Ich habe zu viel gearbeitet. Jetzt
+      brauche ich etwas Erholung.
 
 - Id: erinnern
   Level: A2
@@ -6035,252 +6274,325 @@
   Form: -en
   Meaning: memory
   Examples:
-    - example1
+    - An diese Zeit habe ich viele schöne
+      Erinnerungen.
 
 - Id: sich erkälten
   Level: B1
-  Form: ist erkältet, war erkältet, ist erkältet gewesen
+  Form: erkältet sich, erkältete sich, hat sich erkältet
   Meaning: to catch a cold
   Examples:
-    - example1
+    - Der Junge hat sich beim Baden
+      erkältet.
 
 - Id: erkältet
-  Level: B1
+  Level: A2
   Meaning: have a cold
   Examples:
-    - example1
+    - Ich bin stark erkältet.
+    - Lisa ist erkältet. Sie kann heute nicht zur Schule gehen.
 
 - Id: die Erkältung
   Level: B1
   Form: -en
   Meaning: cold
   Examples:
-    - example1
+    - Du hast eine schlimme Erkältung!
 
 - Id: erkennen
   Level: B1
   Form: erkennt, erkannte, hat erkannt
   Meaning: to recognise
   Examples:
-    - example1
+    - Ich habe Roberto gleich an seiner
+      Stimme erkannt.
+    - Auf dem Foto kann man kaum etwas
+      erkennen.
+    - Ich habe erkannt, dass es ein Fehler
+      war, den Kurs nicht fertigzumachen.
 
 - Id: erklären
   Level: A1
   Form: erklärt, erklärte, hat erklärt
   Meaning: to explain
   Examples:
-    - example1
+    - Ich verstehe das nicht. Kannst du mir erklären, wie man
+      diesen Apparat bedient?
+    - Ich kann mir nicht erklären, wie der
+      Brief verschwinden konnte.
 
 - Id: die Erklärung
   Level: B1
   Form: -en
   Meaning: explanation, declaration
   Examples:
-    - example1
+    - Hast du schon die Steuererklärung
+      gemacht?
+    - Die Erklärung der Lehrerin ist besser
+      als die Erklärung im Buch.
 
 - Id: sich erkundigen
   Level: B1
   Form: erkundigt sich, erkundigte sich, hat sich erkundigt
   Meaning: to inquire (about)
   Examples:
-    - example1
+    - Hast du dich schon nach einem Zug
+      erkundigt?
+    - Ich möchte mich erkundigen, wie es
+      Ihnen geht.
 
 - Id: erlauben
   Level: A1
   Form: erlaubt, erlaubte, hat erlaubt
   Meaning: to allow
   Examples:
-    - example1
+    - Rauchen ist hier nicht erlaubt.
+    - Meine Kinder dürfen diesen Film sehen. Ich habe es ihnen erlaubt.
+    - Ich erlaube meinen Kindern nicht, so
+      lange fernzusehen.
+    - Parken ist hier nicht erlaubt.
 
 - Id: die Erlaubnis
   Level: B1
-  Form: -se
+  Form: -se / (Sg.)
   Meaning: permission
   Examples:
-    - example1
+    - Sie hätten ihn vorher um Erlaubnis bitten müssen.
 
 - Id: erleben
   Level: B1
   Form: erlebt, erlebte, hat erlebt
   Meaning: to experience, live through
   Examples:
-    - example1
+    - In unserem Urlaub haben wir viel
+      Schönes erlebt.
 
 - Id: das Erlebnis
   Level: B1
   Form: -se
   Meaning: experience
   Examples:
-    - example1
+    - Die Reise war ein tolles Erlebnis.
 
 - Id: erledigen
   Level: B1
   Form: erledigt, erledigte, hat erledigt
   Meaning: to take care of, deal with
   Examples:
-    - example1
+    - Diese zwei Pakete müssen zur Post.
+      Könntest du das für mich erledigen?
 
 - Id: erleichtern
   Level: B1
   Form: erleichtert, erleichterte, hat erleichtert
   Meaning: to make easier, lighten
   Examples:
-    - example1
+    - Ich bin erleichtert, dass alles so gut
+      geklappt hat.
+    - Das Internet erleichtert mir die Arbeit
+      sehr.
 
 - Id: die Ermäßigung
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: discount
   Examples:
-    - example1
+    - Für Schüler, Studenten und Rentner gibt es eine
+      Ermäßigung.
+    - Es gibt eine Ermäßigung für Kinder
+      und Senioren.
 
 - Id: ernähren
   Level: B1
   Form: ernährt, ernährte, hat ernährt
   Meaning: to feed, nourish
   Examples:
-    - example1
+    - Wie ernähre ich mich richtig?
+    - Meine Eltern müssen beide arbeiten,
+      um die Familie zu ernähren.
 
 - Id: die Ernährung
   Level: B1
   Form: -en
   Meaning: nourishment
   Examples:
-    - example1
+    - Ich finde eine gesunde Ernährung
+      wichtig.
 
 - Id: ernst
   Level: B1
   Meaning: serious
   Examples:
-    - example1
+    - Der starke Verkehr ist ein ernstes
+      Problem.
 
 - Id: ernsthaft
   Level: B1
   Meaning: seriously
   Examples:
-    - example1
+    - Ich überlege ernsthaft, ob ich in eine
+      andere Stadt ziehen soll.
 
 - Id: die Ernte
   Level: B1
   Form: -n
   Meaning: harvest
   Examples:
-    - example1
+    - Die Ernte ist dieses Jahr gut.
 
 - Id: eröffnen
   Level: B1
   Form: eröffnet, eröffnete, hat eröffnet
   Meaning: to open
   Examples:
-    - example1
+    - Mein Nachbar hat letzten Monat ein
+      Geschäft eröffnet.
+    -  Ich möchte ein Konto eröffnen.
 
 - Id: die Eröffnung
   Level: B1
   Form: -en
   Meaning: opening
   Examples:
-    - example1
+    - Die Eröffnung der neuen Oper ist am
+      1. Juni.
 
 - Id: erreichen
-  Level: B1
+  Level: A2
   Form: erreicht, erreichte, hat erreicht
   Meaning: to reach
   Examples:
-    - example1
+    - Wenn wir uns beeilen, erreichen wir noch den Zug um acht Uhr.
+    - Bis 18 Uhr können Sie mich im Büro erreichen.
+    - Auf diese Art erreichen Sie bei mir gar
+      nichts.
+    - Dieser Zug erreicht eine
+      Geschwindigkeit von 200 km/h.
 
 - Id: erschöpft
   Level: B1
   Meaning: exhausted
   Examples:
-    - example1
+    - Nach dem Sport bin ich immer sehr erschöpft.
 
 - Id: erschrecken
   Level: B1
   Form: erschreckt, erschreckte, hat erschreckt
   Meaning: to scare, shock
   Examples:
-    - example1
+    - Du hast richtig krank ausgesehen. Ich
+      war ganz erschrocken.
+    - Hast du mich aber erschreckt!
+    - Entschuldigung. Ich wollte Sie nicht erschrecken.
 
 - Id: ersetzen
   Level: B1
   Form: ersetzt, ersetzte, hat ersetzt
   Meaning: to replace
   Examples:
-    - example1
+    - Wir ersetzen Ihnen die Kosten.
+    - Peter ist krank. Jemand muss ihn
+      ersetzen.
 
 - Id: der Ersatz
   Level: B1
   Form: ¨-e
   Meaning: replacement
   Examples:
-    - example1
+    - Sie bekommen von unserer Firma
+      einen Ersatz für das kaputte Gerät.
 
 - Id: erst
   Level: B1
+  Meaning: first, only
+  Examples:
+    - Wir können erst morgen kommen.
+    - Dina ist keine 18, sie ist erst 16 Jahre alt.
+    - Sofia ist erst 20 Jahre alt.
+    - Ich habe das erst gestern erfahren.
+    - Sprich erst mit dem Arzt.
+    - Erst hat mir die Arbeit gar nicht
+      gefallen, aber jetzt habe ich mich
+      daran gewöhnt.
+
+- Id: erst-
+  Level: B1
   Meaning: first
   Examples:
-    - example1
+    - Ich war zum ersten Mal allein im
+      Urlaub.
+    - Ich wohne im ersten Stock.
+    - An erster Stelle kommt die Schule.
 
 - Id: erstellen
   Level: B1
   Form: erstellt, erstellte, hat erstellt
   Meaning: to erect, build
   Examples:
-    - example1
+    - Erstellen Sie bitte eine Liste mit allen
+      Informationen, die Sie brauchen.
 
 - Id: erwachsen
   Level: B1
   Meaning: to grow up
   Examples:
-    - example1
+    - Die Kinder sind schon fast erwachsen.
+    - Wir haben zwei erwachsene Töchter.
 
 - Id: der Erwachsene
-  Level: B1
-  Form: <Erwachsene>
+  Level: A1
+  Form: -n
   Meaning: adult
   Examples:
-    - example1
+    - Dieser Film ist nur für Erwachsene.
+    - Erwachsene zahlen zehn Euro, für Kinder ist der
+      Eintritt frei.
 
 - Id: erwarten
   Level: B1
   Form: erwartet, erwartete, hat erwartet
   Meaning: to expect
   Examples:
-    - example1
+    - Ich erwarte einen Anruf aus Berlin.
+    - Frau Müller erwartet ein Kind.
+    - Wir hatten nichts anderes erwartet.
+    - Ich kann es gar nicht erwarten, euch
+      wieder zu sehen.
 
 - Id: erzählen
-  Level: B1
+  Level: A1
   Form: erzählt, erzählte, hat erzählt
   Meaning: to tell
   Examples:
-    - example1
+    - Wir müssen euch etwas erzählen!
+    - Erzählst du mir eine Geschichte?
+    - Mein Mann hat mir schon viel von
+      Ihnen erzählt.
+    - Ich muss meinen Kindern abends
+      immer eine Geschichte erzählen.
 
 - Id: die Erzählung
   Level: B1
   Form: -en
   Meaning: story, tale
   Examples:
-    - example1
+    - Diese Erzählung ist sehr berühmt. Du
+      musst sie lesen.
 
 - Id: erziehen
   Level: B1
   Form: erzieht, erzog, hat erzogen
   Meaning: to bring up, raise
   Examples:
-    - example1
+    - Kinder zu erziehen ist nicht leicht.
 
 - Id: die Erziehung
   Level: B1
   Form: (Sg.)
   Meaning: up bringing, education
   Examples:
-    - example1
-
-- Id: es
-  Level: A1
-  Meaning: it
-  Examples:
-    - example1
+    - Heute kümmern sich auch viele Väter
+      um die Erziehung der Kinder.
 
 - Id: essen
   Level: A1
@@ -6305,14 +6617,16 @@
   Form: -e
   Meaning: vinegar
   Examples:
-    - example1
+    - Am Salat fehlt noch etwas Essig.
 
 - Id: die Etage
   Level: B1
   Form: -n
+  Synonym: (D, CH) = Stock
   Meaning: floor, storey of building
   Examples:
-    - example1
+    - Das Büro ist in der 3. Etage,
+      Zimmer 305.
 
 - Id: etc.
   Level: B1
@@ -6324,7 +6638,11 @@
   Level: B1
   Meaning: about
   Examples:
-    - example1
+    - Von hier sind es etwa zwanzig
+      Kilometer.
+    - Von zu Hause brauche ich etwa
+      10 Minuten bis zur Arbeit.
+    - Du bist doch nicht etwa krank?
 
 - Id: etwas
   Level: A2
@@ -6342,39 +6660,45 @@
   Level: B1
   Meaning: possible
   Examples:
-    - example1
+    - Ich komme eventuell etwas später.
 
 - Id: ewig
   Level: B1
   Meaning: eternally
   Examples:
-    - example1
+    - Ich warte schon ewig auf mein neues
+      Auto!
 
 - Id: der Experte
   Level: B1
   Form: -n
   Meaning: expert
   Examples:
-    - example1
+    - Ich verstehe ein bisschen was von
+      Computern. Aber ich bin kein Experte.
 
 - Id: der Export
   Level: B1
   Form: -e
   Meaning: export
   Examples:
-    - example1
+    - Hier ist die Firma Schulz, Import und
+      Export.
+    - Sonja arbeitet in der Exportabteilung.
 
 - Id: extra
   Level: B1
   Meaning: extra
   Examples:
-    - example1
+    - Die Getränke kosten extra.
+    - Warum sind Sie nicht gekommen? Ich
+      habe extra auf Sie gewartet.
 
 - Id: extrem
   Level: B1
   Meaning: extreme
   Examples:
-    - example1
+    - Die Prüfung war extrem schwer.
 
 - Id: die Fabrik
   Level: B1
