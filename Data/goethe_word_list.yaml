@@ -8510,12 +8510,13 @@
   Examples:
     - example1
 
-- Id: die Geschwister
+- Id: das Geschwister
   Level: A1
-  Form: '-'
+  Form: '- (Pl.)'
   Meaning: siblings
   Examples:
-    - example1
+    - Ich habe leider keine Geschwister.
+    - Die Geschwister sehen sich nur selten.
 
 - Id: die Gesellschaft
   Level: B1
@@ -9967,7 +9968,11 @@
   Form: -en
   Meaning: information
   Examples:
-    - example1
+    - Wenn Sie Fragen haben, gehen Sie zur Information.
+    - Wir haben hier einige wichtige Informationen
+      für Sie.
+    - Bitte lesen Sie diese Informationen
+      genau.
 
 - Id: der Ingenieur
   Level: B1
@@ -14171,7 +14176,8 @@
   Form: '-'
   Meaning: uncle
   Examples:
-    - example1
+    - Nächste Woche fahre ich zu meinem
+      Onkel nach Berlin.
 
 - Id: online
   Level: A2
@@ -14736,17 +14742,23 @@
 
 - Id: die Polizei
   Level: A1
-  Form: -en
+  Form: -en / (Sg.)
   Meaning: police
   Examples:
-    - example1
+    - Holen Sie die Polizei!
+    - Rufen Sie bitte die Polizei.
+    - Er arbeitet bei der Polizei.
 
 - Id: der Polizist
   Level: B1
   Form: -en
+  Feminine:
+    Id: die Polizistin
+    Form: -nen
   Meaning: policeman
   Examples:
-    - example1
+    - Die Ampel war kaputt. Ein Polizist hat
+      den Verkehr geregelt.
 
 - Id: die Pommes frites
   Level: A1
@@ -16150,18 +16162,26 @@
   Examples:
     - example1
 
-- Id: sich scheiden lassen
+- Id: scheiden
   Level: B1
+  Form: scheidet, schied, hat geschieden
   Meaning: to separate, dissolve
   Examples:
-    - example1
+    - Meine Nachbarn haben sich scheiden
+      lassen.
+
+- Id: geschieden
+  Level: B1
+  Meaning: divorced
+  Examples:
+    - Meine Kollegin ist geschieden.
 
 - Id: die Scheidung
   Level: B1
   Form: -en
   Meaning: divorce
   Examples:
-    - example1
+    - Wann war die Scheidung?
 
 - Id: der Schein
   Level: B1
@@ -18253,7 +18273,10 @@
   Form: sucht, suchte, hat gesucht
   Meaning: to search for, look for
   Examples:
-    - example1
+    - Suchst du etwas?
+    - Ich suche meine Brille.
+    - Wir suchen eine größere Wohnung.
+    - Wen suchen Sie?
 
 - Id: die Sucht
   Level: B1
@@ -18410,7 +18433,8 @@
   Form: -n
   Meaning: aunt
   Examples:
-    - example1
+    - Die Familie meiner Mutter ist sehr
+      groß, daher habe ich viele Tanten.
 
 - Id: tanzen
   Level: A1
@@ -20649,14 +20673,19 @@
   Level: B1
   Meaning: related (to)
   Examples:
-    - example1
+    - Sind Sie mit Frau Meyer verwandt?
 
 - Id: der Verwandte
   Level: A1
-  Form: <Verwandte>
+  Form: -n
+  Feminine:
+    Id: die Verwandte
+    Form: -n
   Meaning: relative, relation
   Examples:
-    - example1
+    - Peter besucht seine Verwandten in Polen.
+    - Zu meinem Geburtstag kommen alle
+      Verwandten.
 
 - Id: verwechseln
   Level: B1
@@ -22401,21 +22430,30 @@
   Level: A1
   Meaning: together
   Examples:
-    - example1
+    - Sollen wir zusammen essen gehen?
+    - Das macht zusammen 2 Euro 80.
+    - Wollen wir zusammen essen gehen?
+    - Zahlen, bitte. – Zusammen oder getrennt?
+    - Das macht zusammen 10 Euro 80.
+    - Wir haben als Kinder oft zusammen
+      gespielt.
+    - Fuß und Ball musst du zusammenschreiben – Fußball!
 
 - Id: die Zusammenarbeit
   Level: B1
   Form: (Sg.)
   Meaning: team work, collaboration
   Examples:
-    - example1
+    - Sie sind der neue Kollege? Auf gute
+      Zusammenarbeit!
 
 - Id: zusammenfassen
   Level: B1
   Form: fasst zusammen, fasste zusammen, hat zusammengefasst
   Meaning: to summarize
   Examples:
-    - example1
+    - Können Sie das bitte noch einmal kurz
+      zusammenfassen?
 
 - Id: der Zusammenhang
   Level: B1
@@ -24879,4 +24917,18 @@
   Meaning: romance novel
   Examples:
     - Dieses Theaterstück basiert auf einem Liebesroman.
+
+- Id: der Kommissar
+  Level: K
+  Form: -e
+  Meaning: commissioner
+  Examples:
+    - Ein Kommissar verwaltete vorübergehend das Gebiet.
+
+- Id: der Liebling
+  Level: K
+  Form: -e
+  Meaning: darling, favorite
+  Examples:
+    - Komm Liebling, sei mein Liebling.
 
