@@ -9361,7 +9361,11 @@
   Form: heiratet, heiratete, hat geheiratet
   Meaning: to marry
   Examples:
-    - example1
+    - Meine Schwester heiratet einen Japaner.
+    - Meine Schwester heiratet nächsten Monat.
+    - Unsere Freunde heiraten nächsten
+      Monat in Italien.
+    - Wir haben 1980 geheiratet.
 
 - Id: heiß
   Level: B1
@@ -12147,27 +12151,56 @@
   Form: liebt, liebte, hat geliebt
   Meaning: to love
   Examples:
-    - example1
+    - Ich liebe dich!
+    - Ich liebe meine Familie.
+    - Meine Frau liebt ihren Beruf.
+    - Wir sind schon lange verheiratet, aber
+      wir lieben uns immer noch.
 
 - Id: lieb
-  Level: B1
+  Level: A1
   Meaning: dear, sweet, nice
   Examples:
-    - example1
+    - Liebe Susanne, lieber Hans,
+    - Ich fahre lieber mit dem Zug als mit dem Bus.
+    - Möchtest du Pommes oder lieber eine Pizza?
+    - Die Kinder waren heute sehr lieb.
+    - Vielen Dank für deine Hilfe. Das ist
+      sehr lieb von dir.
+    - Liebe Frau Meier!
 
 - Id: die Liebe
   Level: B1
   Form: -n
   Meaning: love
   Examples:
-    - example1
+    - Wir haben aus Liebe geheiratet.
+    - Für mich ist das Wichtigste die Liebe
+      zu meiner Familie und zu meinen
+      Kindern.
+    - Die Kinder haben die Geschenke mit
+      viel Liebe gemacht.
 
-- Id: Lieblings-
+- Id: die Lieblingsfarbe
   Level: A1
-  Form: <Lieblings>
-  Meaning: favourite
+  Form: -n
+  Meaning: favourite color
   Examples:
-    - example1
+    - Meine Lieblingsfarbe ist Blau.
+
+- Id: das Lieblingsfilm
+  Level: A1
+  Form: -e
+  Meaning: favorite film
+  Examples:
+    - Mein Lieblingsfilm ist „Schwarze Augen“.
+
+- Id: das Lieblingsessen
+  Level: A1
+  Form: '-'
+  Meaning: favorite food
+  Examples:
+    - Mein Lieblingsessen ist Pizza.
 
 - Id: das Lied
   Level: A1
@@ -13397,7 +13430,10 @@
   Form: ¨-
   Meaning: mother
   Examples:
-    - example1
+    - Frau Berghäuser ist die Mutter von Michaela.
+    - Meine Mutter heißt Klara.
+    - Dieser Raum ist für Mütter mit kleinen
+      Kindern reserviert.
 
 - Id: nach
   Level: A1
@@ -14470,7 +14506,7 @@
   Level: B1
   Meaning: perfect
   Examples:
-    - example1
+    - Die Reiseorganisation war perfekt.
 
 - Id: die Person
   Level: B1
@@ -15755,7 +15791,7 @@
   Form: -e
   Meaning: novel
   Examples:
-    - example1
+    - Ich lese gern Romane.
 
 - Id: die Rose
   Level: B1
@@ -16691,7 +16727,11 @@
   Form: -n
   Meaning: sister
   Examples:
-    - example1
+    - Meine Schwester kommt am Dienstag.
+    - Ich habe eine ältere Schwester und
+      einen jüngeren Bruder.
+    - Schwester Anna hat mir eine
+      Schmerztablette gegeben.
 
 - Id: Schwieger-
   Level: B1
@@ -17184,7 +17224,8 @@
   Form: ¨-e
   Meaning: son
   Examples:
-    - example1
+    - Das ist Hans, mein Sohn.
+    - Mein jüngster Sohn ist vier.
 
 - Id: solange
   Level: B1
@@ -18810,7 +18851,7 @@
   Form: ¨-
   Meaning: daughter
   Examples:
-    - example1
+    - Das ist meine Tochter Katharina.
 
 - Id: der Tod
   Level: B1
@@ -19916,7 +19957,10 @@
   Form: ¨-
   Meaning: father
   Examples:
-    - example1
+    - Mein Vater ist Arbeiter.
+    - Mein Vater arbeitet in einem
+      Restaurant.
+    - Herr Müller ist Vater geworden.
 
 - Id: vegetarisch
   Level: B1
@@ -24807,4 +24851,32 @@
   Meaning: writing desk
   Examples:
     - Meine Werkbank ist der Schreibtisch.
+
+- Id: verheiraten
+  Level: K
+  Form: verheiratet, verheiratete, hat verheiratet
+  Meaning: to wed
+  Examples:
+    - Der Kapitän verheiratete die beiden miteinander.
+
+- Id: die Telefonnummer
+  Level: K
+  Form: -n
+  Meaning: telephone number
+  Examples:
+    - Gibst du mir deine Telefonnummer?
+
+- Id: das Autokennzeichen
+  Level: K
+  Form: '-'
+  Meaning: car number plate
+  Examples:
+    - Die beiden Männer waren in einem Polo mit gestohlenen Autokennzeichen unterwegs.
+
+- Id: der Liebesroman
+  Level: K
+  Form: -e
+  Meaning: romance novel
+  Examples:
+    - Dieses Theaterstück basiert auf einem Liebesroman.
 
