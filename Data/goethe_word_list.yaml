@@ -8693,11 +8693,12 @@
     - example1
 
 - Id: die Gitarre
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: guitar
   Examples:
-    - example1
+    - Er kann gut Gitarre spielen.
+    - Ich spiele seit drei Jahren Gitarre.
 
 - Id: das Glas
   Level: A1
@@ -10370,11 +10371,17 @@
     - example1
 
 - Id: der Kalender
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: calendar
   Examples:
-    - example1
+    - Haben Sie am Montag Zeit? - Einen Moment, ich
+      schaue in meinem Kalender.
+    - Ich schreibe alle Termine in meinen Kalender.
+    - Ich habe den Termin in meinem
+      Kalender notiert.
+    - Haben Sie am Montag Zeit? – Moment.
+      Ich muss erst in meinem Terminkalender nachschauen.
 
 - Id: kalt
   Level: A2
@@ -13132,11 +13139,13 @@
     - example1
 
 - Id: die Mode
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: fashion
   Examples:
-    - example1
+    - Wie findest du die neue Mode?
+    - Welche Farbe ist denn jetzt gerade in
+      Mode?
 
 - Id: das Modell
   Level: B1
@@ -24756,3 +24765,46 @@
   Meaning: coffee machine
   Examples:
     - Aus den Millionen von Büroküchen auf der ganzen Welt ist die Kaffeemaschine nicht mehr wegzudenken.
+
+- Id: der Zimmerschlüssel
+  Level: K
+  Form: '-'
+  Meaning: room key
+  Examples:
+    - Ob er mit dem neuen Zimmer zufrieden sei, fragte Signora Morelli, als sie ihm den Zimmerschlüssel und die erste Post von Frau Hartwig gab.
+
+- Id: der Autoschlüssel
+  Level: K
+  Form: '-'
+  Meaning: car key
+  Examples:
+    - Vergiss die Autoschlüssel nicht!
+
+- Id: der Sonnenschirm
+  Level: K
+  Form: -e
+  Meaning: sun umbrella
+  Examples:
+    - Sie saßen im Garten unter einem bunten Sonnenschirm.
+
+- Id: das Cello
+  Level: K
+  Form: Celli
+  Meaning: cello
+  Examples:
+    - Die Geige oder das Cello muss auf den Spieler persönlich eingestellt werden.
+
+- Id: die Tageszeitung
+  Level: K
+  Form: -en
+  Meaning: daily newspaper
+  Examples:
+    - Jeden Morgen las er seine Tageszeitung.
+
+- Id: der Schreibtisch
+  Level: K
+  Form: -e
+  Meaning: writing desk
+  Examples:
+    - Meine Werkbank ist der Schreibtisch.
+
