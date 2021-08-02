@@ -6924,10 +6924,11 @@
     - example1
 
 - Id: fast
-  Level: B1
+  Level: A2
   Meaning: nearly, almost
   Examples:
-    - example1
+    - Das Konzent ist fast zu Ende.
+    - Ich habe fast alles verstanden.
 
 - Id: faul
   Level: B1
@@ -8710,7 +8711,12 @@
   Form: ¨-er
   Meaning: glass
   Examples:
-    - example1
+    - Bitte noch ein Glas Wein!
+    - Wir brauchen noch drei Gläser.
+    - Vorsicht, die Kanne ist aus Glas!
+    - Eine Flasche Mineralwasser und zwei
+      Gläser bitte!
+    - Ein Glas Bier bitte.
 
 - Id: glatt
   Level: B1
@@ -14690,7 +14696,9 @@
   Form: -s
   Meaning: pizza
   Examples:
-    - example1
+    - Mein Lieblingsessen ist Pizza.
+    - Eine Pizza mit viel Käse, bitte.
+    - Lass uns eine Pizza bestellen!
 
 - Id: das Plakat
   Level: B1
@@ -15999,7 +16007,8 @@
   Form: -e
   Meaning: salad
   Examples:
-    - example1
+    - Wie schmeckt dir der Salat?
+    - Möchten Sie zum Fisch einen Salat?
 
 - Id: die Salbe
   Level: B1
@@ -16517,7 +16526,8 @@
   Form: '-'
   Meaning: schnitzel
   Examples:
-    - example1
+    - Bitte ein Schnitzel mit Kartoffeln und
+      Salat.
 
 - Id: der Schnupfen
   Level: B1
@@ -25006,4 +25016,18 @@
   Meaning: curry sausage
   Examples:
     - Ich hätte gern eine Currywurst.
+
+- Id: der Eistee
+  Level: K
+  Form: -s
+  Meaning: iced tea
+  Examples:
+    - Herr Ober, bringen Sie mir bitte einen Eistee.
+
+- Id: der Pilsener
+  Level: K
+  Form: '-'
+  Meaning: pilsener, a particular style of lager beer
+  Examples:
+    - example
 
