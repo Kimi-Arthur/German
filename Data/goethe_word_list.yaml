@@ -8428,9 +8428,13 @@
 
 - Id: gern
   Level: A1
+  Form: lieber, am liebsten
   Meaning: gladly
   Examples:
-    - example1
+    - Ich gehe gerne einkaufen.
+    - Ich helfe Ihnen gern.
+    - Kaffee oder Tee? - Ich trinke lieber einen Tee.
+    - Am liebsten trinke ich Kaffee.
 
 - Id: gesamt
   Level: B1
@@ -12247,7 +12251,7 @@
   Form: -n
   Meaning: lemonade
   Examples:
-    - example1
+    - Die Limonade ist sehr süß.
 
 - Id: die Linie
   Level: B1
@@ -12942,10 +12946,12 @@
 
 - Id: die Milch
   Level: A1
-  Form: -e
+  Form: -e / (Sg.)
   Meaning: milk
   Examples:
-    - example1
+    - Die Milch steht im Kühlschrank.
+    - Stellst du bitte die Milch in den
+      Kühlschrank?
 
 - Id: mild
   Level: B1
@@ -12967,11 +12973,13 @@
     - example1
 
 - Id: das Mineralwasser
-  Level: B1
-  Form: '-'
+  Level: A2
+  Form: '- / (Sg.)'
   Meaning: mineral water
   Examples:
-    - example1
+    - Ein Glas Mineralwasser, bitte.
+    - Kann ich bitte ein Mineralwasser
+      haben?
 
 - Id: minimal
   Level: B1
@@ -13695,7 +13703,15 @@
   Form: nimmt, nahm, hat genommen
   Meaning: to take
   Examples:
-    - example1
+    - Heute gibt es Hähnchen. Das nehme ich.
+    - Ich nehme den Bus.
+    - Nehmen Sie die Tabletten vor dem Essen!
+    - Was möchten Sie? – Ich nehme einen Salat.
+    - Wer hat die Flasche aus dem
+      Kühlschrank genommen?
+    - Sollen wir ein Taxi nehmen?
+    - In diesem Jahr kann ich meinen Urlaub
+      erst im Oktober nehmen.
 
 - Id: nein
   Level: A1
@@ -14135,7 +14151,18 @@
   Level: A1
   Meaning: without
   Examples:
-    - example1
+    - Ohne Geld kann er nichts kaufen.
+    - Bitte einen Kaffee ohne Milch und Zucker.
+    - Schaffst du das auch ohne mich oder soll ich dir
+      helfen?
+    - Bitte eine Pizza ohne Zwiebeln.
+    - Ohne Auto ist es schwer, zur Arbeit zu
+      kommen.
+    - Mein Sohn ist einfach mit dem Auto
+      weggefahren, ohne mich zu fragen.
+    - In diesem Haus kann man nichts
+      machen, ohne dass die Nachbarn
+      darüber reden.
 
 - Id: das Ohr
   Level: B1
@@ -14229,11 +14256,11 @@
     - example1
 
 - Id: die Orange
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: orange
   Examples:
-    - example1
+    - Ich esse gern Orangen.
 
 - Id: das Orchester
   Level: B1
@@ -15939,7 +15966,8 @@
   Form: ¨-e
   Meaning: juice
   Examples:
-    - example1
+    - Möchtest du einen Apfelsaft?
+    - Ich trinke gern Apfelsaft.
 
 - Id: sagen
   Level: A1
@@ -18164,7 +18192,15 @@
   Form: -e
   Meaning: piece
   Examples:
-    - example1
+    - Möchten Sie noch ein Stück Kuchen?
+    - Im Theater spielen sie heute das Stück
+      „Romeo und Julia“.
+    - Ich nehme zwei Stück Zucker in den
+      Kaffee.
+    - Was kosten die Kulis? – Ein Euro pro
+      Stück.
+    - Ich begleite dich ein Stück.
+    - Er spielt in dem Stück die Hauptrolle.
 
 - Id: die Studie
   Level: B1
@@ -18319,11 +18355,11 @@
     - example1
 
 - Id: die Suppe
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: soup
   Examples:
-    - example1
+    - Schmeckt dir die Suppe?
 
 - Id: surfen
   Level: A2
@@ -21243,10 +21279,13 @@
 
 - Id: das Wasser
   Level: A1
-  Form: '-'
+  Form: '- / (Sg.)'
   Meaning: water
   Examples:
-    - example1
+    - Ein Glas Wasser, bitte.
+    - Gibt es hier kein warmes Wasser?
+    - Kann ich bitte ein Glas Wasser haben?
+    - Eine Cola und zwei Wasser, bitte!
 
 - Id: das Wasserklosett
   Level: A2
@@ -21928,11 +21967,12 @@
     - example1
 
 - Id: die Wurst
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: sausage
   Examples:
-    - example1
+    - Eine Wurst mit Pommes, bitte.
+    - Diese Wurst ist mir zu fett.
 
 - Id: wütend
   Level: B1
@@ -21965,7 +22005,11 @@
   Form: zahlt, zahlte, hat gezahlt
   Meaning: to pay
   Examples:
-    - example1
+    - Entschuldigung, zahlen bitte!
+    - Bitte zählen Sie das Wechselgeld
+      sofort nach.
+    - Mein Sohn kann schon bis 100 zählen.
+    - Ich zähle auf dich!
 
 - Id: die Zahlung
   Level: B1
@@ -22268,11 +22312,12 @@
     - Sie bereitet das Fleisch mit Kartoffeln zu.
 
 - Id: der Zucker
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: sugar
   Examples:
-    - example1
+    - Trinken Sie den Tee mit oder ohne Zucker?
+    - Nehmen Sie Zucker in den Tee?
 
 - Id: zuerst
   Level: B1
@@ -23315,7 +23360,9 @@
   Form: -e
   Meaning: dog
   Examples:
-    - example1
+    - Der Hund ist noch jung.
+    - Magst du Hunde?
+    - Meine Tochter hat Angst vor Hunden.
 
 - Id: das Insekt
   Level: M
@@ -24931,4 +24978,32 @@
   Meaning: darling, favorite
   Examples:
     - Komm Liebling, sei mein Liebling.
+
+- Id: der Orangensaft
+  Level: K
+  Form: ¨-e
+  Meaning: orange juice
+  Examples:
+    - Orangensaft ist nicht gut für mich.
+
+- Id: das Mineral
+  Level: K
+  Form: -e
+  Meaning: mineral
+  Examples:
+    - Eine der weltgrößten Sammlungen von Mineralien befindet sich in Freiberg.
+
+- Id: das Curry
+  Level: K
+  Form: '-'
+  Meaning: curry
+  Examples:
+    - Die Suppe war sehr stark mit Curry gewürzt.
+
+- Id: die Currywurst
+  Level: K
+  Form: ¨-e
+  Meaning: curry sausage
+  Examples:
+    - Ich hätte gern eine Currywurst.
 
