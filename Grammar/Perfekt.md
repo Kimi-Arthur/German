@@ -1,6 +1,6 @@
 # Vergangenheit (Perfekt) = past tense (perfect)
 
-Vergangenheit includes [Präteritum](./2020-03-26.md#Präteritum) and Perfekt.
+Vergangenheit includes [Präteritum](./Präteritum.md) and Perfekt.
 
 Perfekt is informal, normally used in speaking.
 
