@@ -1,4 +1,4 @@
-# CLass Notes
+# Class Notes
 
 ## A1
 - [2020-02-18 L01](/Class%20Notes/2020-02-18%20L01.md)
