@@ -1,8 +1,10 @@
-# [2022-03-21](https://epaper.20minuten.ch/#read/644/Region%20Z%C3%BCrich/2022-03-21/1)
+# 20min
+
+## [2022-03-21](https://epaper.20minuten.ch/#read/644/Region%20Z%C3%BCrich/2022-03-21/1)
 
 | Title                                               | Meaning                                                     | Words                                                       |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| Angriff auf die Schweiz: Mehrheit würde kämpfen.    | Attack on Switzerland: Majority would fight.                | der Angriff<br/>die Mehrheit<br/>kämpfen                    |
+| Angriff auf die Schweiz: Mehrheit würde kämpfen.    | Attack on Switzerland: Majority would fight.                | der Angriff<br/>die Mehrheit<br/>kämpfen                    |
 | King Odermatt krönt Traumsaison.                    | King Odermatt crowns dream season.                          | krönen<br />der Traum<br />die Saison                       |
 | Zwei von drei würden gegen einen Aggressor kämpfen. | Two out of three would fight an aggressor.                  | der Aggressor                                               |
 | Deshalb fordert Selenski vehement Flugverbotszone.  | That is why Selenski is vehemently demanding a no-fly zone. | deshalb<br />fordern<br />vehement<br />die Flugverbotszone |
