@@ -7208,28 +7208,28 @@
   Form: fordert, forderte, hat gefordert
   Meaning: to demand
   Examples:
-    - example1
+    - Die Arbeitnehmer fordern mehr Geld.
 
 - Id: die Forderung
   Level: B1
   Form: -en
   Meaning: demand
   Examples:
-    - example1
+    - Alle Forderungen der Arbeitnehmer kann man in dieser E-Mail lesen.
 
 - Id: fördern
   Level: B1
   Form: fördert, förderte, hat gefördert
   Meaning: to promote, help
   Examples:
-    - example1
+    - Die Stadt fördert viele Sportprojekte.
 
 - Id: die Förderung
   Level: B1
   Form: -en
   Meaning: promotion
   Examples:
-    - example1
+    - Für das Projekt bekommen wir eine Förderung von der Stadt.
 
 - Id: die Form
   Level: B1
@@ -10200,7 +10200,7 @@
   Form: kämpft, kämpfte, hat gekämpft
   Meaning: to fight
   Examples:
-    - example1
+    - Die Frauen kämpfen für mehr Rechte.
 
 - Id: der Kampf
   Level: B1
@@ -12505,7 +12505,7 @@
   Form: -en
   Meaning: majority
   Examples:
-    - example1
+    - Die Mehrheit der Menschen in Deutschland besitzt ein Handy.
 
 - Id: die Mehrwertsteuer
   Level: B1
@@ -15748,7 +15748,7 @@
   Form: -s
   Meaning: season
   Examples:
-    - example1
+    - Urlaub in den Schulferien ist immer teurer. Das ist die Saison mit den höchsten Preisen.
 
 - Id: der Salat
   Level: A1
@@ -18848,18 +18848,27 @@
     - example1
 
 - Id: träumen
-  Level: B1
+  Level: A2
   Form: träumt, träumte, hat geträumt
   Meaning: to dream
   Examples:
-    - example1
+    - Ich habe schlecht geträumt.
+    - Ich träume von einem großen Haus mit Garten.
 
 - Id: der Traum
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: dream
   Examples:
-    - example1
+    - Ich möchte eine eigene Firma, das ist mein Traum.
+    - Mein Traum ist ein eigenes Geschäft.
+
+- Id: der Traumberuf
+  Level: B1
+  Form: -e
+  Meaning: dream job
+  Examples:
+    - Jetzt sind wir beim Traumberuf.
 
 - Id: traurig
   Level: B1
@@ -24770,22 +24779,36 @@
   Level: 20
   Form: -e
   Meaning: attack, offensive, strike, assault, onslaught, raid, offence
+  Examples:
+    - Angriff auf die Schweiz.
+    - Angriff deckt eine breite Palette ab.
 
 - Id: krönen
   Level: 20
   Form: krönt, krönte, hat gekrönt
   Meaning: to crown
+  Examples:
+    - King Odermatt krönt Traumsaison.
+    - Karl der Große wurde im Jahr 800 zum Kaiser gekrönt.
 
 - Id: der Aggressor
   Level: 20
   Form: -en
   Meaning: aggressor
+  Examples:
+    - Zwei von drei würden gegen einen Aggressor kämpfen.
+    - Dank Bismarcks politischem Geschick galt Frankreich im Krieg von 1870 als Aggressor.
 
 - Id: vehement
   Level: 20
-  Meaning: vehement
+  Meaning: showing strong feelings; passionate; forceful or intense
+  Examples:
+    - Er setzte sich vehement für den Vorschlag ein.
+    - Deshalb fordert Selenski vehement Flugverbotszone.
 
 - Id: die Flugverbotszone
   Level: 20
   Form: -n
   Meaning: no-fly zone
+  Examples:
+    - Deshalb fordert Selenski vehement Flugverbotszone.
