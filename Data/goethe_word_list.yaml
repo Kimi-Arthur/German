@@ -54,6 +54,7 @@
   Examples:
     - Wir fahren um zwölf Uhr ab.
     - Unser Zug ist pünktlich abgefahren.
+    - Achtung an Gleis 17! Der Zug München - Paris fährt jetzt ab.
 
 - Id: die Abfahrt
   Level: A1
@@ -62,6 +63,7 @@
   Examples:
     - Vor der Abfahrt rufe ich an.
     - Es bleiben uns noch zwanzig Minuten bis zur Abfahrt.
+    - Wir haben noch zwanzig Minuten bis zur Abfahrt.
 
 - Id: der Abfall
   Level: B1
@@ -6479,35 +6481,43 @@
   Form: -en
   Meaning: factory
   Examples:
-    - example1
+    - Ich arbeite in einer Autofabrik.
 
 - Id: das Fach
-  Level: B1
+  Level: A2
   Form: ¨-er
   Meaning: compartment, field of expertise, subject
   Examples:
-    - example1
+    - Welches Fach magst du in der Schule am liebsten?
+    - Die Handtücher sind im obersten Fach
+      links.
 
 - Id: der Fachmann
   Level: B1
   Form: ¨-er
   Meaning: expert
+  Feminine:
+    Id: die Fachfrau
+    Form: -en
   Examples:
-    - example1
+    - Meine Schwester ist Computerfachfrau.
 
 - Id: die Fachleute
   Level: B1
-  Form: <Fachleute>
+  Form: (Pl.)
   Meaning: experts
   Examples:
-    - example1
+    - Die suchen Fachleute für dieses
+      Computerprogramm.
 
 - Id: die Fähigkeit
   Level: B1
   Form: -en
   Meaning: ability
   Examples:
-    - example1
+    - In seiner Position braucht man die
+      Fähigkeit, andere zu überzeugen.
+    - Ich glaube, sie hat die Fähigkeit dazu.
 
 - Id: fahren
   Level: A1
@@ -6586,46 +6596,65 @@
   Level: B1
   Meaning: fair
   Examples:
-    - example1
+    - Ich finde, unsere Mannschaft hat sehr
+      fair gespielt.
 
 - Id: der Faktor
   Level: B1
   Form: -en
   Meaning: factor
   Examples:
-    - example1
+    - Die Creme hat einen hohen Sonnenschutzfaktor.
 
 - Id: der Fall
   Level: B1
   Form: ¨-e
   Meaning: case
   Examples:
-    - example1
+    - Was würden Sie in diesem Fall tun?
+    - Rufen Sie auf jeden Fall vorher noch
+      einmal an.
+    - Für den Fall, dass meine Mutter aus
+      dem Krankenhaus kommt, bleibe ich zu
+      Hause.
 
 - Id: fallen
-  Level: B1
+  Level: A2
   Form: fällt, fiel, ist gefallen
   Meaning: to fall
   Examples:
-    - example1
+    - Pass auf, das Glas fällt gleich vom Tisch.
+    - Das Glas ist auf den Boden gefallen.
+    - In den Bergen ist schon Schnee
+      gefallen.
+    - Die Temperatur ist ganz plötzlich unter
+      null gefallen.
 
 - Id: fällig
   Level: B1
   Meaning: due
   Examples:
-    - example1
+    - Die Rechnung ist Énde des Monats
+      fällig.
 
 - Id: falls
   Level: B1
   Meaning: in case
   Examples:
-    - example1
+    - Falls es regnet, machen wir kein
+      Picknick.
 
 - Id: falsch
   Level: A1
   Meaning: false
   Examples:
-    - example1
+    - Das ist falsch.
+    - Die Lösung ist falsch.
+    - Sie haben die falsche Nummer gewählt.
+    - Tut mir leid, ich habe die falsche
+      Nummer gewählt.
+    - Meine Uhr geht falsch.
+    - Was Sie da sagen, ist falsch.
 
 - Id: die Familie
   Level: A1
@@ -6635,12 +6664,22 @@
     - Meine Familie lebt in Spanien.
     - Ich habe eine große Familie.
 
+- Id: der Familienname
+  Level: A1
+  Form: -n
+  Meaning: surname
+  Examples:
+    - Meine Familiennamen sind García González.
+    - Mein Familienname ist González.
+
 - Id: der Familienstand
   Level: A1
   Form: (Sg.)
+  Synonym: (D, A) = Personenstand = (CH) Zivilstand
   Meaning: marital status
   Examples:
-    - example1
+    - Bei „Familienstand“ musst du „ledig“
+      ankreuzen.
 
 - Id: der Fan
   Level: A2
@@ -6655,7 +6694,8 @@
   Form: fängt, fing, hat gefangen
   Meaning: to catch
   Examples:
-    - example1
+    - Das Kind hat den Ball gefangen.
+    - Unsere Katze hat eine Maus gefangen.
 
 - Id: die Fantasie
   Level: B1
@@ -6665,37 +6705,65 @@
     - Mein Sohn malt sehr gut. Er hat viel Fantasie.
 
 - Id: fantastisch
-  Level: B1
+  Level: A2
   Meaning: fantastic
   Examples:
-    - example1
+    - Dein neues Kleid sieht fantastisch aus!
+    - Das Buch ist fantastisch. Du musst es unbedingt
+      lesen!
+    - Die Aussicht ist fantastisch!
 
 - Id: die Farbe
   Level: A1
   Form: -n
   Meaning: colour
   Examples:
-    - example1
+    - Die Farbe gefällt mir gut.
+    - Was ist deine Lieblingsfarbe?
+    - Welche Farbe magst du am liebsten?
+    - Diese Farbe trocknet schnell.
 
-- Id: farbig-
+- Id: farbig
   Level: B1
   Meaning: colored
   Examples:
-    - example1
+    - Ich brauche kein weißes, sondern
+      farbiges Papier.
+
+- Id: das Faschierte
+  Level: B1
+  Form: (Sg.)
+  Synonym: (A) = (D, CH) Hackfleisch
+  Meaning: minced meat (F-)
+  Examples:
+    - Geben Sie mir bitte 500 g Faschiertes.
 
 - Id: der Fasching
   Level: B1
-  Form: -s
-  Meaning: carnival
+  Form: '-'
+  Synonym: (D, A) = (D) Karneval = (CH) Fasnacht
+  Meaning: carnival (F-g)
   Examples:
-    - example1
+    - Dort hängt mein Kostüm für den
+      Faschings(um)zug.
+
+- Id: die Fasnacht
+  Level: B1
+  Form: (Sg.)
+  Synonym: (CH) = (D, A) Fasching = (D) Karneval
+  Meaning: carnival (F-t)
+  Examples:
+    - Dort hängt mein Kostüm für den
+      Fasnachtsumzug.
 
 - Id: fassen
   Level: B1
   Form: fasst, fasste, hat gefasst
   Meaning: to grasp, catch, hold, take, understand
   Examples:
-    - example1
+    - Sie haben den Dieb gefasst.
+    - Ich habe den Entschluss gefasst, nach
+      Wien zu ziehen.
 
 - Id: fast
   Level: A2
@@ -6705,10 +6773,15 @@
     - Ich habe fast alles verstanden.
 
 - Id: faul
-  Level: B1
+  Level: A2
   Meaning: lazy, rotten
   Examples:
-    - example1
+    - 'Heute sind wir faul: Wir machen keine Hausaufgaben und arbeiten nicht.'
+    - Mein Sohn war am Anfang in der
+      Schule sehr faul. Heute lernt er sehr
+      fleißig.
+    - Den Apfel kannst du nicht mehr essen.
+      Er ist faul.
 
 - Id: faulenzen
   Level: B1
@@ -6716,6 +6789,15 @@
   Meaning: to idle
   Examples:
     - Am Wochenende können wir faulenzen.
+
+- Id: der Fauteuil
+  Level: B1
+  Form: -s
+  Synonym: (A, CH) = (D, CH) Sessel
+  Meaning: armchair (F-)
+  Examples:
+    - Ich hätte gern einen bequemen
+      Fauteuil.
 
 - Id: das Fax
   Level: A1
@@ -6736,7 +6818,17 @@
   Form: fehlt, fehlte, hat gefehlt
   Meaning: to be wanting, missing, absent
   Examples:
-    - example1
+    - Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
+      Was fehlt Ihnen?
+    - Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
+    - Was fehlt Ihnen?
+    - Auf dem Brief fehlt der Absender.
+    - Hast du Kleingeld? Mir fehlt ein Euro.
+    - In der Kasse fehlen 20 Euro.
+    - Antonio war nicht in der Schule, er
+      fehlt schon seit drei Tagen.
+    - Was fehlt Ihnen? Haben Sie
+      Schmerzen?
 
 - Id: der Fehler
   Level: A1
@@ -6785,14 +6877,16 @@
   Form: -er
   Meaning: field
   Examples:
-    - example1
+    - Auf diesem Feld wächst Gemüse.
 
 - Id: das Fenster
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: window
   Examples:
-    - example1
+    - Kannst du bitte das Fenster öffnen?
+    - Darf ich einen Moment das Fenster
+      aufmachen?
 
 - Id: die Ferien
   Level: B1
@@ -8791,9 +8885,10 @@
 - Id: das Hackfleisch
   Level: B1
   Form: (Sg.)
-  Meaning: minced meat
+  Synonym: (D, CH) = (A) Faschierte
+  Meaning: minced meat (H-)
   Examples:
-    - example1
+    - Geben Sie mir bitte 500g Hackfleisch.
 
 - Id: der Hafen
   Level: B1
@@ -10270,9 +10365,11 @@
 - Id: der Karneval
   Level: B1
   Form: -e
-  Meaning: carnival
+  Synonym: (D) = (D, A) Fasching = (CH) Fasnacht
+  Meaning: carnival (K-)
   Examples:
-    - example1
+    - Dort hängt mein Kostüm für den
+      Karnevals(um)zug.
 
 - Id: die Karotte
   Level: B1
@@ -16791,9 +16888,10 @@
 - Id: der Sessel
   Level: B1
   Form: '-'
-  Meaning: chair
+  Synonym: (D, CH) = (A, CH) Fauteuil
+  Meaning: armchair
   Examples:
-    - example1
+    - Ich hätte gern einen bequemen Sessel.
 
 - Id: setzen
   Level: B1
