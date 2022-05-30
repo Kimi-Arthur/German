@@ -1270,7 +1270,7 @@
   Feminine:
     Id: die Ärztin
     Form: -nen
-  Meaning: doctor (A)
+  Meaning: doctor (A-)
   Examples:
     - Morgen habe ich einen Termin bei meiner Ärztin.
     - Ich muss heute zum Arzt.
@@ -2951,7 +2951,7 @@
 - Id: sich beschweren
   Level: A2
   Form: beschwert sich, beschwerte sich, hat sich beschwert
-  Meaning: to complaint
+  Meaning: to complain
   Examples:
     - Hier ist es zu laut. Wo können wir uns beschweren?
     - Mein Nachbar beschwert sich immer über unsere Kinder, wenn sie im Garten spielen.
