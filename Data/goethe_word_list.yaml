@@ -6796,7 +6796,6 @@
   Form: fehlt, fehlte, hat gefehlt
   Meaning: to be wanting, missing, absent
   Examples:
-    - Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?
     - Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
     - Was fehlt Ihnen?
     - Auf dem Brief fehlt der Absender.
@@ -6865,16 +6864,28 @@
 - Id: die Ferien
   Level: B1
   Form: (Pl.)
+  Synonym: (CH) = (D, A) Urlaub
   Meaning: holidays
   Examples:
-    - example1
+    - Bald haben wir Ferien.
+    - Fährst du in den Ferien weg oder bleibst du zu
+      Hause?
+    - Ich habe noch drei Tage Ferien.
+
+- Id: die Ferienwohnung
+  Level: B1
+  Form: -en
+  Meaning: holiday home
+  Examples:
+    - Ich suche eine günstige
+      Ferienwohnung.
 
 - Id: die Fernbedienung
   Level: B1
   Form: -en
   Meaning: remote control
   Examples:
-    - example1
+    - Hast du die Fernbedienung gesehen?
 
 - Id: fernsehen
   Level: A1
@@ -6914,14 +6925,21 @@
   Level: B1
   Meaning: fixed, firm, solid, strong
   Examples:
-    - example1
+    - Mein Kollege glaubt fest daran, dass er
+      die neue Stelle bekommt.
+    - Als wir nach Hause kamen, haben die
+      Kinder schon fest geschlafen.
+    - Für die nächste Familienfeier gibt es
+      noch keinen festen Termin.
 
 - Id: das Fest
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: celebration, festival, party
   Examples:
-    - example1
+    - Frohes Fest!
+    - Wenn ich 18 werde, feiern wir ein
+      großes Fest.
 
 - Id: das Festival
   Level: A2
@@ -6935,76 +6953,88 @@
   Form: -n
   Meaning: hard drive
   Examples:
-    - example1
+    - Mein Computer hat eine große
+      Festplatte.
 
 - Id: festhalten
   Level: B1
   Form: hält fest, hielt fest, hat festgehalten
   Meaning: to hold on to, detain
   Examples:
-    - example1
+    - Halt dich gut fest.
+    - Halt die Flasche gut fest.
 
 - Id: festlegen
   Level: B1
   Form: legt fest, legte fest, hat festgelegt
-  Meaning: to fix, lay down
+  Meaning: to set, to determine
   Examples:
-    - example1
+    - Ich weiß noch nicht, ob ich das mache.
+      Ich möchte mich noch nicht festlegen.
+    - Habt ihr den Hochzeitstermin schon
+      festgelegt?
 
 - Id: festnehmen
   Level: B1
   Form: nimmt fest, nahm fest, hat festgenommen
   Meaning: to capture, arrest
   Examples:
-    - example1
+    - Die Polizei hat einen Mann
+      festgenommen.
 
 - Id: festsetzen
   Level: B1
   Form: setzt fest, setzte fest, hat festgesetzt
   Meaning: to determine
   Examples:
-    - example1
+    - Die Schule hat den Termin für die
+      Prüfung festgesetzt.
 
 - Id: feststehen
   Level: B1
   Form: steht fest, stand fest, hat festgestanden
   Meaning: to be certain
   Examples:
-    - example1
+    - Der Termin steht seit Langem fest.
 
 - Id: feststellen
   Level: B1
   Form: stellt fest, stellte fest, hat festgestellt
   Meaning: to establish, detect
   Examples:
-    - example1
+    - Er hat festgestellt, dass der Absender
+      des Briefes falsch war.
+    - Der Arzt hat mich untersucht, konnte
+      aber nichts feststellen.
 
 - Id: fett
-  Level: B1
+  Level: A2
   Meaning: fat
   Examples:
-    - example1
+    - Die Wurst ist mir zu fett.
+    - Das ist aber eine fette Katze!
 
 - Id: das Fett
   Level: B1
   Form: -e
   Meaning: fat
   Examples:
-    - example1
+    - Man soll nicht so viel Fett essen.
 
 - Id: feucht
   Level: B1
   Meaning: damp
   Examples:
-    - example1
+    - Die Wäsche ist noch feucht.
+    - Es ist heute feucht draußen.
 
 - Id: das Feuer
   Level: A1
   Form: '-'
   Meaning: fire
   Examples:
-    - Der Schaden durch das Feuer war sehr groß.
     - Haben Sie Feuer?
+    - Der Schaden durch das Feuer war sehr groß.
 
 - Id: das Feuerzeug
   Level: B1
@@ -7025,55 +7055,81 @@
   Form: '-'
   Meaning: fever, temperature
   Examples:
-    - example1
+    - Mein Mann hat noch immer Fieber.
+    - Sie hat hohes Fieber.
+    - Plötzlich habe ich hohes Fieber
+      bekommen.
 
 - Id: die Figur
   Level: B1
   Form: -en
   Meaning: figure
   Examples:
-    - example1
+    - Lars hat eine gute Figur.
+    - Bei diesem Spiel hat jeder Spieler vier
+      Figuren.
 
 - Id: der Film
   Level: A1
   Form: -e
   Meaning: film
   Examples:
-    - example1
+    - Ich möchte gern diesen Film sehen.
+    - Den Film musst du dir unbedingt
+      ansehen.
 
 - Id: finanzieren
   Level: B1
   Form: finanziert, finanzierte, hat finanziert
   Meaning: to finance, be financed
   Examples:
-    - example1
+    - Ich weiß nicht, wie ich das Auto
+      finanzieren soll.
 
 - Id: finanziell
   Level: B1
   Meaning: financial
   Examples:
-    - example1
+    - Finanziell geht es meinem Neffen jetzt
+      besser.
 
 - Id: finden
   Level: A1
   Form: findet, fand, hat gefunden
   Meaning: to find
   Examples:
-    - example1
+    - Wir müssen den Schlüssel finden.
+    - Ich finde es nicht gut, dass du so viel arbeitest.
+    - Ich finde ihn sehr nett.
+    - Meine Tante hat eine gute Arbeit
+      gefunden.
+    - Ich kann meinen Schlüssel nicht finden.
+    - Luigi finde ich sehr nett.
 
 - Id: der Finger
   Level: B1
   Form: '-'
   Meaning: finger
   Examples:
-    - example1
+    - Alessandro hat sich in den Finger
+      geschnitten.
 
 - Id: die Firma
   Level: A1
   Form: Firmen
   Meaning: firm
   Examples:
-    - example1
+    - Er arbeitet jetzt bei einer anderen Firma.
+    - Seit wann arbeiten Sie bei dieser
+      Firma?
+
+- Id: der Fisch
+  Level: A1
+  Form: -e
+  Meaning: fish
+  Examples:
+    - Ich esse gern Fisch. Fleisch mag ich nicht.
+    - Fisch mag ich lieber als Fleisch.
 
 - Id: fit
   Level: A2
@@ -7092,14 +7148,17 @@
   Level: B1
   Meaning: flat, low, shallow
   Examples:
-    - example1
+    - Für die Arbeit brauche ich flache
+      Schuhe.
+    - An dieser Stelle ist der See sehr flach.
 
 - Id: die Fläche
   Level: B1
   Form: -n
   Meaning: area
   Examples:
-    - example1
+    - Unsere Wohnung hat eine Wohnfläche
+      von 100 m².
 
 - Id: die Flasche
   Level: A1
@@ -7114,21 +7173,23 @@
   Form: -e
   Meaning: stain, patch
   Examples:
-    - example1
+    - Du hast einen Fleck auf der Bluse.
 
 - Id: das Fleisch
   Level: A1
   Form: (Sg.)
   Meaning: meat
   Examples:
-    - example1
+    - Fleisch mag ich nicht.
 
 - Id: der Fleischhauer
   Level: B1
   Form: '-'
+  Synonym: (CH) = (D, A) Metzger
   Meaning: butcher
   Examples:
-    - example1
+    - Dieser Fleischhauer macht sehr gute
+      Wurst.
 
 - Id: fleißig
   Level: A2
@@ -12034,7 +12095,7 @@
   Examples:
     - Meine Lieblingsfarbe ist Blau.
 
-- Id: das Lieblingsfilm
+- Id: der Lieblingsfilm
   Level: A1
   Form: -e
   Meaning: favorite film

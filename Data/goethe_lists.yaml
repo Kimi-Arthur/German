@@ -154,35 +154,65 @@
     - das Datum
     - dauern
     - denn
+    - dies-
+    - die Diskothek
+    - der Doktor
+    - das Doppelzimmer
+    - das Dorf
     - dort
     - dorther
     - dorthin
+    - draußen
     - drucken
     - der Drucker
     - drücken
+    - durch
     - die Durchsage
     - dürfen
+    - der Durst
     - (sich) duschen
     - die Dusche
     - die E-Mail
+    - die Ecke
+    - die Ehefrau
+    - der Ehemann
+    - das Ei
+    - eilig
     - ein-
     - einfach
+    - der Eingang
     - einkaufen
     - einladen
     - die Einladung
     - einmal
+    - einsteigen
+    - der Eintritt
+    - das Einzelzimmer
+    - die Eltern
+    - der Empfänger
     - empfehlen
+    - enden
+    - das Ende
     - entschuldigen
     - die Entschuldigung
     - das Ergebnis
+    - erklären
+    - erlauben
+    - der Erwachsene
+    - erzählen
     - essen
     - das Essen
     - fahren
     - der Fahrer
     - die Fahrkarte
     - das Fahrrad
+    - falsch
     - die Familie
+    - der Familienname
+    - der Familienstand
+    - die Farbe
     - das Fax
+    - fehlen
     - der Fehler
     - feiern
     - die Feier
@@ -191,7 +221,13 @@
     - fernsehen
     - fertig
     - das Feuer
+    - das Fieber
+    - der Film
+    - finden
+    - die Firma
+    - der Fisch
     - die Flasche
+    - das Fleisch
     - fliegen
     - der Flughafen
     - das Flugzeug
@@ -213,8 +249,11 @@
     - gegen
     - gehen
     - das Geld
+    - gern
+    - das Geschwister
     - das Gespräch
     - gestern
+    - das Glas
     - das Glück
     - glücklich
     - der Glückwunsch
@@ -229,6 +268,7 @@
     - der Hausmann
     - der Haushalt
     - die Heimat
+    - heiraten
     - heißen
     - helfen
     - die Hilfe
@@ -241,6 +281,7 @@
     - die Hochzeit
     - hören
     - der Hunger
+    - die Information
     - das Internet
     - jetzt
     - der Job
@@ -275,10 +316,16 @@
     - lernen
     - lesen
     - letzt-
+    - lieben
+    - lieb
+    - die Lieblingsfarbe
+    - der Lieblingsfilm
+    - das Lieblingsessen
     - die Lösung
     - machen
     - mehr
     - der Mensch
+    - die Milch
     - mit
     - mitbringen
     - mitkommen
@@ -290,7 +337,9 @@
     - morgen
     - müde
     - müssen
+    - die Mutter
     - nach
+    - nehmen
     - neu
     - nicht
     - nichts
@@ -302,7 +351,9 @@
     - öffnen
     - geöffnet
     - oft
+    - ohne
     - die Party
+    - die Polizei
     - das Problem
     - die Prüfung
     - rauchen
@@ -319,7 +370,9 @@
     - die Reparatur
     - das Restaurant
     - die Rezeption
+    - der Saft
     - sagen
+    - der Salat
     - schlafen
     - schlecht
     - schließen
@@ -331,10 +384,12 @@
     - schreiben
     - die Schule
     - der Schüler
+    - die Schwester
     - sehen
     - sein
     - seit
     - sitzen
+    - der Sohn
     - sollen
     - die Sonne
     - spät
@@ -348,6 +403,7 @@
     - der Student
     - das Studium
     - die Stunde
+    - suchen
     - tanzen
     - die Tasche
     - das Taxi
@@ -358,6 +414,7 @@
     - der Termin
     - teuer
     - der Tisch
+    - die Tochter
     - treiben
     - trinken
     - tun
@@ -367,10 +424,12 @@
     - und so weiter
     - der Unterricht
     - der Urlaub
+    - der Vater
     - verheiratet
     - verkaufen
     - der Verkäufer
     - (sich) verstehen
+    - der Verwandte
     - viel
     - vielleicht
     - wandern
@@ -378,6 +437,7 @@
     - warum
     - was
     - (sich) waschen
+    - das Wasser
     - welch-
     - die Welt
     - wer
@@ -391,13 +451,14 @@
     - wohnen
     - die Wohnung
     - wollen
+    - zahlen
     - die Zeit
     - zurzeit
     - die Zeitung
     - das Zimmer
     - zirka
     - zu
-
+    - zusammen
 - Id: B1
   Words:
     - abbiegen
@@ -707,27 +768,232 @@
     - das Dessert
     - deswegen
     - das Detail
+    - die Diät
+    - der Dialekt
+    - der Dialog
+    - dicht
+    - der Dieb
+    - dienen
+    - der Dienst
+    - diesmal
+    - digital
+    - das Diplom
+    - der Direktor
+    - die Diskussion
+    - die Distanz
     - doch
     - das Dokument
-    - drin
-    - drinnen
+    - donnern
+    - der Donner
+    - doppelt
+    - das Doppel
+    - die Dose
+    - der Dreck
+    - drehen
+    - die Droge
+    - die Drogerie
+    - der Druck
+    - durcheinander
+    - der Durchschnitt
+    - durchschnittlich
+    - durstig
+    - duzen
     - die DVD
+    - eben
+    - ebenfalls
+    - ebenso
     - das E-Bike
+    - die EC-Karte
+    - das Eck
+    - eckig
+    - die Ehe
+    - das Ehepaar
+    - eher
+    - ehrlich
+    - sich eignen
+    - eilen
+    - die Eile
+    - die Einbahnstraße
+    - einbrechen
+    - der Einbrecher
+    - der Einbruch
+    - eindeutig
+    - der Eindruck
+    - einerseits
+    - die Einfahrt
+    - einfallen
+    - der Einfall
+    - der Einfluss
+    - beeinflussen
+    - einfügen
+    - einführen
+    - die Einführung
+    - einheitlich
+    - sich einigen
     - der Einkauf
+    - das Einkommen
     - die Einleitung
+    - einnehmen
+    - die Einnahme
+    - einrichten
+    - die Einrichtung
+    - einsam
+    - einschalten
+    - einschließlich
+    - das Einschreiben
+    - einsetzen
+    - einstellen
+    - eintreten
+    - der Einwohner
+    - einzahlen
+    - die Einzahlung
+    - das Einzelkind
+    - die Einzelheit
+    - einzig
+    - die Eisenbahn
+    - elegant
+    - elektrisch
+    - elektronisch
+    - empfangen
+    - der Empfang
+    - die Empfehlung
+    - endgültig
+    - die Energie
+    - der Enkel
+    - die Enkelin
+    - entdecken
+    - entfernen
+    - die Entfernung
+    - entgegenkommen
+    - enthalten
+    - entlang
+    - entlassen
+    - die Entlassung
+    - entscheiden
+    - die Entscheidung
+    - unentschieden
+    - sich entschließen
+    - entschlossen
+    - entsorgen
+    - entspannend
+    - entstehen
+    - enttäuschen
+    - enttäuscht
+    - die Enttäuschung
+    - entweder
     - entwickeln
+    - die Entwicklung
+    - die Erde
+    - der Erdapfel
+    - das Ereignis
+    - sich ereignen
+    - erfahren
+    - erfinden
+    - die Erfindung
+    - der Erfolg
+    - erfolgreich
+    - erforderlich
+    - erfordern
+    - erfüllen
+    - ergänzen
+    - erhalten
+    - erhöhen
+    - die Erhöhung
+    - sich erholen
+    - die Erholung
+    - die Erinnerung
+    - sich erkälten
+    - die Erkältung
+    - erkennen
+    - die Erklärung
+    - sich erkundigen
+    - die Erlaubnis
+    - erleben
+    - das Erlebnis
+    - erledigen
+    - erleichtern
+    - ernähren
+    - die Ernährung
+    - ernst
+    - ernsthaft
+    - die Ernte
+    - eröffnen
+    - die Eröffnung
+    - erschöpft
+    - erschrecken
+    - ersetzen
+    - der Ersatz
+    - erst
+    - erst-
+    - erstellen
+    - erwachsen
+    - erwarten
+    - die Erzählung
+    - erziehen
+    - die Erziehung
+    - der Essig
+    - die Etage
     - etc.
+    - etwa
+    - eventuell
+    - ewig
+    - der Experte
+    - der Export
+    - extra
+    - extrem
+    - die Fabrik
+    - der Fachmann
+    - die Fachleute
+    - die Fähigkeit
     - die Fähre
     - die Fahrbahn
     - der Fahrplan
     - das Fahrzeug
+    - fair
+    - der Faktor
+    - der Fall
+    - fällig
+    - falls
+    - fangen
     - die Fantasie
+    - farbig
+    - das Faschierte
+    - der Fasching
+    - die Fasnacht
+    - fassen
     - faulenzen
+    - der Fauteuil
     - faxen
+    - das Feld
+    - die Ferien
+    - die Ferienwohnung
+    - die Fernbedienung
     - das Fernsehen
+    - fest
+    - die Festplatte
+    - festhalten
+    - festlegen
+    - festnehmen
+    - festsetzen
+    - feststehen
+    - feststellen
+    - das Fett
+    - feucht
     - das Feuerzeug
     - die Feuerwehr
+    - die Figur
+    - finanzieren
+    - finanziell
+    - der Finger
+    - flach
+    - die Fläche
+    - der Fleck
+    - der Fleischhauer
     - die Folie
+    - fordern
+    - die Forderung
+    - fördern
+    - die Förderung
     - der Fotograf
     - die Fotografie
     - die Freude
@@ -743,6 +1009,7 @@
     - geschieden
     - global
     - googeln
+    - das Hackfleisch
     - das Hühnchen
     - der Hausmeister
     - herunterfahren
@@ -756,9 +1023,11 @@
     - der Jazz
     - jobben
     - die Kälte
+    - kämpfen
     - das Kapitel
     - kaputtgehen
     - kaputtmachen
+    - der Karneval
     - der Käse
     - kein
     - das Kennzeichen
@@ -786,6 +1055,8 @@
     - der Lebenslauf
     - leiden
     - der Leser
+    - die Liebe
+    - die Limonade
     - die Literatur
     - live
     - lösen
@@ -793,6 +1064,7 @@
     - der Maler
     - der Manager
     - mehrere
+    - die Mehrheit
     - meinetwegen
     - die Mensa
     - menschlich
@@ -806,12 +1078,16 @@
     - das Obergeschoss
     - öfter
     - O.K.
+    - der Onkel
     - der Patient
     - in Pension
     - pensioniert
+    - perfekt
     - der Personenkraftwagen
     - die Phantasie
+    - die Pizza
     - die Plattform
+    - der Polizist
     - das Portemonnaie
     - der Pöstler
     - das Poulet
@@ -825,13 +1101,19 @@
     - der Rechner
     - die Rede
     - in Rente
+    - der Roman
     - die Rückmeldung
+    - die Saison
     - das Sandwich
     - schaden
     - der Schaden
     - schauen
+    - scheiden
+    - geschieden
+    - die Scheidung
     - schick
     - das Schmerzmittel
+    - das Schnitzel
     - aufschreiben
     - das Schreiben
     - die Schularbeit
@@ -841,6 +1123,7 @@
     - selber
     - das Semester
     - das Seminar
+    - der Sessel
     - die Show
     - der Sinn
     - sinnlos
@@ -872,9 +1155,11 @@
     - das Steak
     - stimmen
     - der Strom
+    - das Stück
     - der Studierender
     - die Struktur
     - der Swimmingpool
+    - die Tante
     - der Tanz
     - die Technik
     - technisch
@@ -888,6 +1173,7 @@
     - der Terminal
     - der Textaufbau
     - der Tourismus
+    - der Traumberuf
     - der Trend
     - (sich) trennen
     - die Trennung
@@ -904,6 +1190,7 @@
     - verrückt
     - die Vertretung
     - die Verwaltung
+    - verwandt
     - von
     - vorhin
     - vorlesen
@@ -921,7 +1208,8 @@
     - zubereiten
     - das Zuhause
     - zuordnen
-
+    - die Zusammenarbeit
+    - zusammenfassen
 - Id: A2
   Words:
     - die Abkürzung
@@ -1020,14 +1308,51 @@
     - denken
     - deshalb
     - deutlich
+    - dick
+    - das Ding
+    - direkt
+    - diskutieren
+    - drin
+    - dringend
+    - drinnen
+    - drüben
+    - dumm
     - dunkel
+    - dünn
     - das E-Book
+    - echt
+    - egal
+    - der Ehepartner
+    - eigen
+    - eigentlich
+    - einig-
+    - das Einkaufszentrum
+    - einpacken
+    - eintragen
+    - einverstanden
+    - einzeln
+    - einziehen
+    - das Eis
+    - endlich
+    - eng
     - das Erdgeschoss
+    - die Erfahrung
     - erinnern
+    - erkältet
+    - die Ermäßigung
+    - erreichen
     - etwas
+    - das Fach
+    - fallen
     - der Fan
+    - fantastisch
+    - fast
+    - faul
+    - das Fenster
     - der Fernseher
+    - das Fest
     - das Festival
+    - fett
     - fit
     - die Fitness
     - fleißig
@@ -1043,6 +1368,7 @@
     - das Gerät
     - das Geschirr
     - die Gesundheit
+    - die Gitarre
     - der Hamburger
     - das heißt
     - herunterladen
@@ -1054,6 +1380,7 @@
     - das Interesse
     - joggen
     - der Journalist
+    - der Kalender
     - kalt
     - der Kellner
     - der Klub
@@ -1079,8 +1406,10 @@
     - das Medikament
     - meinen
     - die Meinung
+    - das Mineralwasser
     - mitspielen
     - der Mitarbeiter
+    - die Mode
     - modern
     - das Museum
     - die Musik
@@ -1090,6 +1419,7 @@
     - natürlich
     - die Notiz
     - online
+    - die Orange
     - das Paket
     - der Personalcomputer
     - das Poster
@@ -1121,6 +1451,7 @@
     - der Stadtplan
     - der Stift
     - der Stuhl
+    - die Suppe
     - surfen
     - die Tasse
     - das Team
@@ -1129,6 +1460,8 @@
     - toll
     - die Tour
     - der Tourist
+    - träumen
+    - der Traum
     - getrennt leben
     - das T-Shirt
     - die Tür
@@ -1149,8 +1482,9 @@
     - das Wohnzimmer
     - die Wolke
     - bewölkt
+    - die Wurst
     - die Zeitschrift
-
+    - der Zucker
 - Id: M
   Words:
     - die Mathematik
@@ -1164,6 +1498,7 @@
     - türkisch
     - das Türkisch
     - der Bundespräsident
+    - der Hund
     - das Schwein
     - erstens
     - zweitens
@@ -1183,7 +1518,6 @@
     - die Woche
     - der Monat
     - das Jahr
-
 - Id: K
   Words:
     - dran sein
@@ -1252,3 +1586,27 @@
     - der Regenschirm
     - das Lehrbuch
     - die Kaffeemaschine
+    - der Zimmerschlüssel
+    - der Autoschlüssel
+    - der Sonnenschirm
+    - das Cello
+    - die Tageszeitung
+    - der Schreibtisch
+    - verheiraten
+    - die Telefonnummer
+    - das Autokennzeichen
+    - der Liebesroman
+    - der Kommissar
+    - der Liebling
+    - der Orangensaft
+    - das Mineral
+    - das Curry
+    - die Currywurst
+    - der Eistee
+- Id: 20
+  Words:
+    - der Angriff
+    - krönen
+    - der Aggressor
+    - vehement
+    - die Flugverbotszone
