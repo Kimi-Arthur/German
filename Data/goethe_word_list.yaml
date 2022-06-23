@@ -7178,7 +7178,7 @@
   Level: B1
   Meaning: flexible
   Examples:
-    - example1
+    - Meine Arbeitszeit ist flexibel.
 
 - Id: fliegen
   Level: A1
@@ -7192,46 +7192,63 @@
     - Diese Maschine fliegt direkt nach New York.
     - Ich bin nach Berlin geflogen.
 
+- Id: abfliegen
+  Level: A1
+  Form: fliegt ab, flog ab, ist abgeflogen
+  Meaning: to take off (from the ground), to fly away
+  Examples:
+    - Wann fliegst du ab?
+
+- Id: der Abflug
+  Level: A1
+  Form: ¨-e
+  Meaning: take-off
+  Examples:
+    - Der Abflug ist um 11.20 Uhr.
+
 - Id: fliehen
   Level: B1
   Form: flieht, floh, ist geflohen
   Meaning: to flee
   Examples:
-    - example1
+    - Der Einbrecher ist sofort geflohen.
 
 - Id: die Flucht
   Level: B1
   Form: -en
   Meaning: flight, escape
   Examples:
-    - example1
+    - Der Einbrecher war schon auf der Flucht.
 
 - Id: fließen
   Level: B1
   Form: fließt, floss, ist geflossen
   Meaning: to flow
   Examples:
-    - example1
+    - Dieser Fluss fließt in die Nordsee.
 
 - Id: fließend
   Level: B1
   Meaning: fluent
   Examples:
-    - example1
+    - Mein Kollege spricht fließend Deutsch.
+    - Zimmer mit fließendem Wasser.
 
 - Id: der Flohmarkt
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: flea market
   Examples:
-    - example1
+    - Ich gehe gern auf den Flohmarkt.
+    - Diesen Hut habe ich auf dem Flohmarkt gekauft.
+    - Diesen Hut habe ich am Flohmarkt gekauft.
 
 - Id: die Flöte
   Level: B1
   Form: -n
   Meaning: flute
   Examples:
-    - example1
+    - Sie spielt sehr schön Flöte.
 
 - Id: der Flug
   Level: A2
@@ -7263,43 +7280,47 @@
 - Id: der Flur
   Level: B1
   Form: -e
+  Synonym: (D) = Gang = (D, CH) Korridor
   Meaning: hallway
   Examples:
-    - example1
+    - Wir warten draußen im Flur.
 
 - Id: der Fluss
   Level: B1
   Form: ¨-e
   Meaning: river
   Examples:
-    - example1
+    - Der Rhein ist ein großer Fluss.
+    - Wie heißt dieser Fluss?
 
 - Id: die Flüssigkeit
   Level: B1
   Form: -en
   Meaning: fluid
   Examples:
-    - example1
-
-- Id: die Folge
-  Level: B1
-  Form: -n
-  Meaning: episode
-  Examples:
-    - example1
+    - Dieses Medikament mit viel Flüssigkeit einnehmen.
 
 - Id: folgen
   Level: B1
   Form: folgt, folgte, hat gefolgt
   Meaning: to follow
   Examples:
-    - example1
+    - Es folgen die Nachrichten.
+    - Folgen Sie der Reiseleiterin.
+
+- Id: die Folge
+  Level: B1
+  Form: -n
+  Meaning: episode
+  Examples:
+    - Die Folgen des Unfalls waren schlimm.
 
 - Id: folgend
   Level: B1
   Meaning: following, next
   Examples:
-    - example1
+    - Mehr Informationen auf den folgenden Seiten.
+    - "Das Geschäft hat folgende Angebote: …"
 
 - Id: die Folie
   Level: B1
@@ -7341,56 +7362,58 @@
   Form: -en
   Meaning: shape
   Examples:
-    - example1
+    - Diese Schuhe haben eine schöne Form.
+    - Ich möchte für den Geburtstag einen Kuchen backen. Kannst du mir eine Backform leihen?
 
 - Id: das Formular
   Level: A1
   Form: -e
   Meaning: form (document)
   Examples:
-    - example1
+    - Sie müssen dieses Formular ausfüllen.
+    - Füllen Sie bitte dieses Formular aus.
 
 - Id: die Forschung
   Level: B1
   Form: -en
   Meaning: research
   Examples:
-    - example1
+    - Er arbeitet in der Forschung.
 
 - Id: die Fortbildung
   Level: B1
-  Form: <Fortbildung>
+  Form: -en
   Meaning: further education
   Examples:
-    - example1
+    - Die Fortbildung, die ich machen will, ist sehr teuer.
 
 - Id: der Fortschritt
   Level: B1
   Form: -e
   Meaning: progress
   Examples:
-    - example1
+    - Ich habe beim Deutschlernen große Fortschritte gemacht.
 
 - Id: fortsetzen
   Level: B1
   Form: setzt fort, setzte fort, hat fortgesetzt
   Meaning: to continue
   Examples:
-    - example1
+    - Wir setzen die Behandlung am nächsten Donnerstag um 11 Uhr fort.
 
 - Id: die Fortsetzung
   Level: B1
   Form: -en
   Meaning: continuation
   Examples:
-    - example1
+    - Fortsetzung folgt.
 
 - Id: das Forum
   Level: B1
   Form: Foren
   Meaning: forum
   Examples:
-    - example1
+    - Ich melde mich heute bei diesem Forum an.
 
 - Id: fotografieren
   Level: A2
@@ -7454,45 +7477,56 @@
   Form: -en
   Meaning: woman
   Examples:
-    - example1
+    - Das ist Frau Becker.
+    - Guten Tag, Frau Schmitt!
+    - Hier arbeiten mehr Frauen als Männer.
+    - In meinem Deutschkurs sind mehr Frauen als Männer.
+    - Ist Ihre Frau berufstätig?
 
 - Id: frech
   Level: B1
   Meaning: cheeky
   Examples:
-    - example1
+    - Du darfst in der Schule nicht so frech sein.
 
 - Id: frei
   Level: A1
   Meaning: free
   Examples:
-    - example1
+    - Ist der Platz noch frei?
+    - Entschuldigung, ist dieser Platz noch frei?
+    - Morgen haben wir frei.
+    - Eintritt frei.
+    - Ich trinke nur alkoholfreies Bier.
+    - Dieses Medikament ist rezeptfrei.
+    - Die Schüler können die Arbeitszeit frei wählen.
 
 - Id: im Freien
   Level: B1
   Meaning: outdoors
   Examples:
-    - example1
+    - Wir wollen heute im Freien übernachten.
 
 - Id: die Freiheit
   Level: B1
   Form: -en
   Meaning: freedom
   Examples:
-    - example1
+    - Wir wollen die Freiheit haben, unsere Meinung sagen zu können.
 
 - Id: die Freizeit
   Level: A1
   Form: -en
   Meaning: free time
   Examples:
-    - example1
+    - In meiner Freizeit spiele ich oft Fußball.
+    - In meiner Freizeit höre ich gern Musik.
 
 - Id: freiwillig
-  Level: B1
+  Level: A2
   Meaning: voluntary
   Examples:
-    - example1
+    - Manchmal bleibe ich freiwillig länger im Büro.
 
 - Id: fremd
   Level: A1
