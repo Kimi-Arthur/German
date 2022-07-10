@@ -1,0 +1,69 @@
+{
+  "A1": {
+    "scope": "yaml",
+    "prefix": "aa",
+    "body": [
+      "- Id: ${1:das Wort}",
+      "  Level: A1",
+      "  Form: ${2:¨-e}",
+      "  Meaning: ${3:meaning}",
+      "  Examples:",
+      "    - $0",
+    ],
+    "description": "A1 Word"
+  },
+  "A2": {
+    "scope": "yaml",
+    "prefix": "ab",
+    "body": [
+      "- Id: ${1:das Wort}",
+      "  Level: A2",
+      "  Form: ${2:¨-e}",
+      "  Meaning: ${3:meaning}",
+      "  Examples:",
+      "    - $0",
+    ],
+    "description": "A2 Word"
+  },
+  "B1": {
+    "scope": "yaml",
+    "prefix": "bb",
+    "body": [
+      "- Id: ${1:das Wort}",
+      "  Level: B1",
+      "  Form: ${2:¨-e}",
+      "  Meaning: ${3:meaning}",
+      "  Examples:",
+      "    - $0",
+    ],
+    "description": "B1 Word"
+  },
+  "Feminine": {
+    "scope": "yaml",
+    "prefix": "f",
+    "body": [
+      "Feminine:",
+      "  Id: die ${1:Nachbarin}",
+      "  Form: ${2:-nen}$0",
+    ],
+    "description": "Feminine Word"
+  },
+  "Abbreviation": {
+    "scope": "yaml",
+    "prefix": "ak",
+    "body": [
+      "Abbreviation:",
+      "  Id: ${1:der Lkw}",
+      "  Form: ${2:-s}$0",
+    ],
+    "description": "Word Abbreviation"
+  },
+  "Synonym": {
+    "scope": "yaml",
+    "prefix": "bb",
+    "body": [
+      "Synonym: (D, A) = (D) in Rente, (D, CH) pensioniert",
+    ],
+    "description": "Synonym"
+  }
+}
