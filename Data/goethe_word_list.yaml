@@ -7532,14 +7532,16 @@
   Level: A1
   Meaning: foreign
   Examples:
-    - example1
+    - Das weiß ich nicht; ich bin fremd hier.
+    - Ich reise gern in fremde Länder.
+    - Ich bin fremd hier.
 
 - Id: fressen
   Level: B1
   Form: frisst, fraß, hat gefressen
   Meaning: to eat (for animals)
   Examples:
-    - example1
+    - Hat der Hund schon etwas zu fressen bekommen?
 
 - Id: sich freuen
   Level: A1
@@ -7591,45 +7593,53 @@
   Form: '-'
   Meaning: peace
   Examples:
-    - example1
+    - Endlich ist hier Frieden!
 
 - Id: frieren
   Level: B1
   Form: friert, fror, hat gefroren
   Meaning: to be cold
   Examples:
-    - example1
+    - Wenn Sie frieren, mache ich das Fenster wieder zu.
+    - Heute Nacht hat es gefroren.
 
 - Id: frisch
-  Level: B1
+  Level: A2
   Meaning: fresh
   Examples:
-    - example1
+    - Das Brot ist noch ganz frisch. Ich habe es gerade gekauft.
+    - Die Handtücher sind frisch gewaschen.
+    - Ich muss mal an die frische Luft.
 
 - Id: der Friseur
   Level: B1
   Form: -e
+  Feminine:
+    Id: die Friseurin
+    Form: -nen
+  Synonym: (D, A) = (CH) Coiffeur
   Meaning: hairdresser (F-)
   Examples:
-    - example1
+    - Du siehst toll aus! Wer ist dein Friseur?
+    - Meine Tochter will Friseurin werden.
 
 - Id: die Frisur
   Level: B1
   Form: -en
   Meaning: hair cut
   Examples:
-    - example1
+    - Du hast eine tolle Frisur! Warst du beim Friseur?
 
 - Id: die Frist
   Level: B1
   Form: -en
   Meaning: deadline
   Examples:
-    - example1
+    - Die Frist für die Anmeldung zum Deutschkurs ist abgelaufen.
 
 - Id: froh
   Level: A2
-  Meaning: happy, glad
+  Meaning: happy, glad (4)
   Examples:
     - Ich bin froh, dass du kommen kannst.
     - Frohes Fest!
@@ -7637,16 +7647,17 @@
 
 - Id: fröhlich
   Level: B1
-  Meaning: happy
+  Meaning: happy (8)
   Examples:
-    - example1
+    - Die Musik klingt fröhlich.
+    - Sie ist ein fröhlicher Mensch.
 
 - Id: die Frucht
   Level: B1
   Form: ¨-e
   Meaning: fruit
   Examples:
-    - example1
+    - Welche Früchte kann man essen?
 
 - Id: früh
   Level: A2
@@ -7688,11 +7699,13 @@
     - Sollen wir Ihnen das Frühstück aufs Zimmer bringen?
 
 - Id: fühlen
-  Level: B1
+  Level: A2
   Form: fühlt, fühlte, hat gefühlt
   Meaning: to feel
   Examples:
-    - example1
+    - Ich fühle mich heute nicht gut.
+    - Wie fühlen Sie sich? - Danke, ich fühle mich wohl.
+    - Fühl mal, ob das Wasser nicht zu heiß ist.
 
 - Id: führen
   Level: B1
@@ -7734,9 +7747,16 @@
 - Id: das Fundbüro
   Level: B1
   Form: -s
-  Meaning: lost property office
+  Meaning: lost and found office
   Examples:
     - example1
+
+- Id: die Fundsache
+  Level: A2
+  Form: -n
+  Meaning: found object
+  Examples:
+    - Haben Sie meinen Schirm gefunden? - Sie können dort bei den Fundsachen schauen.
 
 - Id: funktionieren
   Level: B1
@@ -7749,20 +7769,41 @@
   Level: A1
   Meaning: for
   Examples:
-    - example1
+    - Das ist der Schlüssel für die Haustür.
+    - Das ist das Brot für morgen.
+    - Das Paket ist für Sie.
+    - Gibt es hier einen Sportverein für Jugendliche?
+    - Ist Post für mich da?
+    - Ich habe die Schlüssel für meine Wohnung verloren.
+    - Diese alten Möbel haben wir für 100 Euro bekommen.
+    - Für einen Anfänger spielt er schon sehr gut Klavier.
+    - Du kannst nicht einkaufen gehen? Ich kann es für dich machen.
+    - Für mich ist das ein schwerer Fehler.
+    - Wir haben die Wohnung für ein Jahr gemietet.
 
 - Id: furchtbar
-  Level: B1
+  Level: A2
   Meaning: terrible
   Examples:
-    - example1
+    - Er hat furchtbare Schmerzen.
+    - Die Hose sieht ja furchtbar aus. So kannst du nicht zur Arbeit gehen!
+
+- Id: (sich) fürchten
+  Level: B1
+  Form: fürchtet, fürchtete, hat gefürchtet
+  Meaning: to be afraid
+  Examples:
+    - Sie fürchtet sich vor Schlangen.
 
 - Id: der Fuß
   Level: A1
   Form: ¨-e
   Meaning: foot
   Examples:
-    - example1
+    - Der linke Fuß tut mir weh.
+    - Gehen Sie zu Fuß zur Arbeit?
+    - Er hat sich den linken Fuß gebrochen.
+    - Sind Sie zu Fuß gekommen?
 
 - Id: der Fußball
   Level: A1
@@ -7775,30 +7816,26 @@
 - Id: der Fußgänger
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Fußgängerin
+    Form: -nen
   Meaning: pedestrian
   Examples:
-    - example1
+    - Dieser Weg ist nur für Fußgänger.
 
 - Id: die Fußgängerzone
   Level: B1
   Form: -n
   Meaning: pedestrian area
   Examples:
-    - example1
-
-- Id: (sich) fürchten
-  Level: B1
-  Form: fürchtet, fürchtete, hat gefürchtet
-  Meaning: to be afraid
-  Examples:
-    - example1
+    - Wir treffen uns um 15 Uhr in der Fußgängerzone.
 
 - Id: füttern
   Level: B1
   Form: füttert, fütterte, hat gefüttert
   Meaning: to feed sb. sth.
   Examples:
-    - example1
+    - Es ist im Zoo nicht erlaubt, die Tiere zu füttern.
 
 - Id: die Gabel
   Level: B1
