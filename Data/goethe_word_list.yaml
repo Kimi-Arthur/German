@@ -7749,7 +7749,7 @@
   Form: -s
   Meaning: lost and found office
   Examples:
-    - example1
+    - Sie haben Ihren Schirm verloren. Da fragen Sie am besten im Fundbüro.
 
 - Id: die Fundsache
   Level: A2
@@ -7763,7 +7763,8 @@
   Form: funktioniert, funktionierte, hat funktioniert
   Meaning: to function
   Examples:
-    - example1
+    - Können Sie mir bitte mal zeigen, wie der Automat funktioniert?
+    - Unsere Ehe funktioniert nicht mehr.
 
 - Id: für
   Level: A1
