@@ -40,7 +40,7 @@
   },
   "Feminine": {
     "scope": "yaml",
-    "prefix": "f",
+    "prefix": "fe",
     "body": [
       "Feminine:",
       "  Id: die ${1:Nachbarin}",
@@ -60,7 +60,7 @@
   },
   "Synonym": {
     "scope": "yaml",
-    "prefix": "bb",
+    "prefix": "sy",
     "body": [
       "Synonym: (D, A) = (D) in Rente, (D, CH) pensioniert",
     ],
