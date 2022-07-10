@@ -7838,79 +7838,97 @@
     - Es ist im Zoo nicht erlaubt, die Tiere zu füttern.
 
 - Id: die Gabel
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: fork
   Examples:
-    - example1
+    - Kann ich bitte eine Gabel haben?
+    - Wir brauchen bitte noch eine Gabel.
 
 - Id: die Galerie
   Level: B1
   Form: -n
   Meaning: gallery
   Examples:
-    - example1
+    - Diese Galerie ist sehr interessant.
 
 - Id: der Gang
   Level: B1
   Form: ¨-e
+  Synonym: = (D, CH) Korridor = (D) Flur
   Meaning: walk, passage, aisle
   Examples:
-    - example1
+    - Wir warten draußen im Gang.
+    - Schalten Sie bitte jetzt in den dritten Gang.
+    - Was möchten Sie als ersten Gang? Suppe oder Salat?
 
 - Id: ganz
-  Level: B1
+  Level: A2
   Meaning: complete, completely
   Examples:
-    - example1
+    - Oh nein! Was ist passiert? Ist deine Brille jetzt kaputt? - Nein, zum Glück ist sie noch ganz!
+    - Morgen haben wir den ganzen Tag Schule.
+    - Ich bin ganz sicher, dass dein Termin am Montag ist.
+    - Ich finde Lara ganz nett.
+    - Oh, ich habe meinen Zahnarzttermin ganz vergessen.
+    - Ich habe den ganzen Tag noch nichts gegessen.
+    - Den Zahnarzttermin habe ich ganz vergessen.
+    - Ich finde Janis ganz nett.
+    - Am Montag ist hier Ruhetag. Das weiß ich ganz sicher.
+    - Gott sei Dank ist meine Brille noch ganz.
 
 - Id: gar
   Level: B1
   Meaning: quite, at all
   Examples:
-    - example1
+    - Die Kartoffeln sind noch nicht gar.
+    - Du räumst nie dein Zimmer auf. - Das ist gar nicht wahr.
 
 - Id: die Garage
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: garage
   Examples:
-    - example1
+    - Hier ist eine Garage für dein Auto.
+    - Hier ist eine Garage zu vermieten.
 
 - Id: garantieren
   Level: B1
   Form: garantiert, garantierte, hat garantiert
   Meaning: to guarantee
   Examples:
-    - example1
+    - Ich kann Ihnen nicht garantieren, dass das Gerät nächste Woche fertig ist.
 
 - Id: die Garantie
   Level: B1
   Form: -n
   Meaning: guarantee
   Examples:
-    - example1
+    - Auf die Waschmaschine haben Sie ein Jahr Garantie.
+    Bitte, achten Sie auf Ihre Garderobe.
 
 - Id: die Garderobe
   Level: B1
   Form: -n
   Meaning: cloakroom
   Examples:
-    - example1
+    - Die Mäntel bitte an der Garderobe abgeben.
 
 - Id: der Garten
   Level: A1
   Form: ¨-
   Meaning: garden
   Examples:
-    - example1
+    - Wir haben leider keinen Garten.
+    - Wir haben einen schönen großen Garten.
 
 - Id: das Gas
   Level: B1
   Form: -e
   Meaning: gas
   Examples:
-    - example1
+    - Wir kochen mit Gas.
+    - Gib Gas! Die Ampel ist grün.
 
 - Id: der Gast
   Level: A1
@@ -7963,48 +7981,53 @@
   Form: -e
   Meaning: biscuit (UK); cake, pastry
   Examples:
-    - example1
+    - Das Gebäck ist ganz frisch.
 
 - Id: das Gebiet
   Level: B1
   Form: -e
   Meaning: region
   Examples:
-    - example1
+    - In diesem Gebiet gibt es kaum Industrie.
+    - Die Zeitschrift berichtet regelmäßig über Fortschritte auf dem Gebiet der Medizin.
 
 - Id: das Gebirge
   Level: B1
   Form: '-'
   Meaning: mountains
   Examples:
-    - example1
+    - Wir haben unseren Urlaub im Gebirge verbracht.
 
 - Id: geboren werden
-  Level: B1
+  Level: A1
+  Form: wird geboren, wurde geboren, ist geboren geworden
   Meaning: to be born
   Examples:
-    - example1
+    - Ich bin in Zagreb geboren.
+    - Wann und wo sind Sie geboren?
 
 - Id: gebrauchen
   Level: B1
   Form: gebraucht, gebrauchte, hat gebraucht
   Meaning: to use
   Examples:
-    - example1
+    - Wir können diese Möbel gut gebrauchen.
+    - Ich habe den Wagen gebraucht gekauft.
+    - Ich suche eine gebrauchte Waschmaschine.
 
 - Id: die Gebrauchsanweisung
   Level: B1
   Form: -en
   Meaning: instruction manual
   Examples:
-    - example1
+    - Lesen Sie bitte zuerst die Gebrauchsanweisung.
 
 - Id: die Gebühr
   Level: B1
   Form: -en
   Meaning: fee
   Examples:
-    - example1
+    - Die Gebühr liegt bei 60 Euro.
 
 - Id: die Geburt
   Level: B1
@@ -8047,7 +8070,7 @@
   Form: (Sg.)
   Meaning: patience
   Examples:
-    - example1
+    - Bitte haben Sie etwas Geduld.
 
 - Id: geehrt
   Level: B1
