@@ -7178,7 +7178,7 @@
   Level: B1
   Meaning: flexible
   Examples:
-    - example1
+    - Meine Arbeitszeit ist flexibel.
 
 - Id: fliegen
   Level: A1
@@ -7192,46 +7192,63 @@
     - Diese Maschine fliegt direkt nach New York.
     - Ich bin nach Berlin geflogen.
 
+- Id: abfliegen
+  Level: A1
+  Form: fliegt ab, flog ab, ist abgeflogen
+  Meaning: to take off (from the ground), to fly away
+  Examples:
+    - Wann fliegst du ab?
+
+- Id: der Abflug
+  Level: A1
+  Form: ¨-e
+  Meaning: take-off
+  Examples:
+    - Der Abflug ist um 11.20 Uhr.
+
 - Id: fliehen
   Level: B1
   Form: flieht, floh, ist geflohen
   Meaning: to flee
   Examples:
-    - example1
+    - Der Einbrecher ist sofort geflohen.
 
 - Id: die Flucht
   Level: B1
   Form: -en
   Meaning: flight, escape
   Examples:
-    - example1
+    - Der Einbrecher war schon auf der Flucht.
 
 - Id: fließen
   Level: B1
   Form: fließt, floss, ist geflossen
   Meaning: to flow
   Examples:
-    - example1
+    - Dieser Fluss fließt in die Nordsee.
 
 - Id: fließend
   Level: B1
   Meaning: fluent
   Examples:
-    - example1
+    - Mein Kollege spricht fließend Deutsch.
+    - Zimmer mit fließendem Wasser.
 
 - Id: der Flohmarkt
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: flea market
   Examples:
-    - example1
+    - Ich gehe gern auf den Flohmarkt.
+    - Diesen Hut habe ich auf dem Flohmarkt gekauft.
+    - Diesen Hut habe ich am Flohmarkt gekauft.
 
 - Id: die Flöte
   Level: B1
   Form: -n
   Meaning: flute
   Examples:
-    - example1
+    - Sie spielt sehr schön Flöte.
 
 - Id: der Flug
   Level: A2
@@ -7263,43 +7280,47 @@
 - Id: der Flur
   Level: B1
   Form: -e
+  Synonym: (D) = Gang = (D, CH) Korridor
   Meaning: hallway
   Examples:
-    - example1
+    - Wir warten draußen im Flur.
 
 - Id: der Fluss
   Level: B1
   Form: ¨-e
   Meaning: river
   Examples:
-    - example1
+    - Der Rhein ist ein großer Fluss.
+    - Wie heißt dieser Fluss?
 
 - Id: die Flüssigkeit
   Level: B1
   Form: -en
   Meaning: fluid
   Examples:
-    - example1
-
-- Id: die Folge
-  Level: B1
-  Form: -n
-  Meaning: episode
-  Examples:
-    - example1
+    - Dieses Medikament mit viel Flüssigkeit einnehmen.
 
 - Id: folgen
   Level: B1
   Form: folgt, folgte, hat gefolgt
   Meaning: to follow
   Examples:
-    - example1
+    - Es folgen die Nachrichten.
+    - Folgen Sie der Reiseleiterin.
+
+- Id: die Folge
+  Level: B1
+  Form: -n
+  Meaning: episode
+  Examples:
+    - Die Folgen des Unfalls waren schlimm.
 
 - Id: folgend
   Level: B1
   Meaning: following, next
   Examples:
-    - example1
+    - Mehr Informationen auf den folgenden Seiten.
+    - "Das Geschäft hat folgende Angebote: …"
 
 - Id: die Folie
   Level: B1
@@ -7341,56 +7362,58 @@
   Form: -en
   Meaning: shape
   Examples:
-    - example1
+    - Diese Schuhe haben eine schöne Form.
+    - Ich möchte für den Geburtstag einen Kuchen backen. Kannst du mir eine Backform leihen?
 
 - Id: das Formular
   Level: A1
   Form: -e
   Meaning: form (document)
   Examples:
-    - example1
+    - Sie müssen dieses Formular ausfüllen.
+    - Füllen Sie bitte dieses Formular aus.
 
 - Id: die Forschung
   Level: B1
   Form: -en
   Meaning: research
   Examples:
-    - example1
+    - Er arbeitet in der Forschung.
 
 - Id: die Fortbildung
   Level: B1
-  Form: <Fortbildung>
+  Form: -en
   Meaning: further education
   Examples:
-    - example1
+    - Die Fortbildung, die ich machen will, ist sehr teuer.
 
 - Id: der Fortschritt
   Level: B1
   Form: -e
   Meaning: progress
   Examples:
-    - example1
+    - Ich habe beim Deutschlernen große Fortschritte gemacht.
 
 - Id: fortsetzen
   Level: B1
   Form: setzt fort, setzte fort, hat fortgesetzt
   Meaning: to continue
   Examples:
-    - example1
+    - Wir setzen die Behandlung am nächsten Donnerstag um 11 Uhr fort.
 
 - Id: die Fortsetzung
   Level: B1
   Form: -en
   Meaning: continuation
   Examples:
-    - example1
+    - Fortsetzung folgt.
 
 - Id: das Forum
   Level: B1
   Form: Foren
   Meaning: forum
   Examples:
-    - example1
+    - Ich melde mich heute bei diesem Forum an.
 
 - Id: fotografieren
   Level: A2
@@ -7454,45 +7477,56 @@
   Form: -en
   Meaning: woman
   Examples:
-    - example1
+    - Das ist Frau Becker.
+    - Guten Tag, Frau Schmitt!
+    - Hier arbeiten mehr Frauen als Männer.
+    - In meinem Deutschkurs sind mehr Frauen als Männer.
+    - Ist Ihre Frau berufstätig?
 
 - Id: frech
   Level: B1
   Meaning: cheeky
   Examples:
-    - example1
+    - Du darfst in der Schule nicht so frech sein.
 
 - Id: frei
   Level: A1
   Meaning: free
   Examples:
-    - example1
+    - Ist der Platz noch frei?
+    - Entschuldigung, ist dieser Platz noch frei?
+    - Morgen haben wir frei.
+    - Eintritt frei.
+    - Ich trinke nur alkoholfreies Bier.
+    - Dieses Medikament ist rezeptfrei.
+    - Die Schüler können die Arbeitszeit frei wählen.
 
 - Id: im Freien
   Level: B1
   Meaning: outdoors
   Examples:
-    - example1
+    - Wir wollen heute im Freien übernachten.
 
 - Id: die Freiheit
   Level: B1
   Form: -en
   Meaning: freedom
   Examples:
-    - example1
+    - Wir wollen die Freiheit haben, unsere Meinung sagen zu können.
 
 - Id: die Freizeit
   Level: A1
   Form: -en
   Meaning: free time
   Examples:
-    - example1
+    - In meiner Freizeit spiele ich oft Fußball.
+    - In meiner Freizeit höre ich gern Musik.
 
 - Id: freiwillig
-  Level: B1
+  Level: A2
   Meaning: voluntary
   Examples:
-    - example1
+    - Manchmal bleibe ich freiwillig länger im Büro.
 
 - Id: fremd
   Level: A1
@@ -22483,435 +22517,369 @@
     - example1
 
 - Id: die Akademie
-  Level: M
   Form: -n
   Meaning: academy
   Examples:
     - example1
 
 - Id: die Bildungseinrichtung
-  Level: M
   Form: <Bildungseinrichtung>
   Meaning: Educational institution
   Examples:
     - example1
 
 - Id: die Krippe
-  Level: M
   Form: -n
   Meaning: nursery school, day nursery
   Examples:
     - example1
 
 - Id: die Kindertagesstätte
-  Level: M
   Form: -n
   Meaning: day care center
   Examples:
     - example1
 
 - Id: die Grundschule
-  Level: M
   Form: -n
   Meaning: primary school
   Examples:
     - example1
 
 - Id: die Mittelschule
-  Level: M
   Form: -n
   Meaning: middle school
   Examples:
     - example1
 
 - Id: die Realschule
-  Level: M
   Form: -n
   Meaning: middle school
   Examples:
     - example1
 
 - Id: die Gesamtschule
-  Level: M
   Form: -n
   Meaning: comprehensive school, complete school
   Examples:
     - example1
 
 - Id: die Berufsschule
-  Level: M
   Form: -n
   Meaning: vocational school
   Examples:
     - example1
 
 - Id: die Sonderschule
-  Level: M
   Form: -n
   Meaning: special (needs) school
   Examples:
     - example1
 
 - Id: das Gymnasium
-  Level: M
   Form: Gymnasien
   Meaning: secondary school
   Examples:
     - example1
 
 - Id: die Fachhochschule
-  Level: M
   Form: -n
   Meaning: specialized college of higher education
   Examples:
     - example1
 
 - Id: die Volkshochschule
-  Level: M
   Form: -n
   Meaning: adult institution not generally granting academic degrees
   Examples:
     - example1
 
 - Id: das Schulfach
-  Level: M
   Form: ¨-er
   Meaning: school subject
   Examples:
     - example1
 
 - Id: die Chemie
-  Level: M
   Form: -n
   Meaning: chemistry
   Examples:
     - example1
 
 - Id: die Geografie
-  Level: M
   Form: -n
   Meaning: geography
   Examples:
     - example1
 
 - Id: die Mathematik
-  Level: M
   Form: (Sg.)
   Meaning: mathematics
   Examples:
     - Wichtige Teilgebiete der Mathematik sind die Geometrie, die Arithmetik, die Algebra und die Stochastik.
 
 - Id: die Philosophie
-  Level: M
   Form: -n
   Meaning: philosophy
   Examples:
     - example1
 
 - Id: die Physik
-  Level: M
   Form: (Sg.)
   Meaning: physics
   Examples:
     - Wir schreiben morgen eine Arbeit in Physik.
 
 - Id: die Schulnote
-  Level: M
   Form: -n
   Meaning: school marks
   Examples:
     - example1
 
 - Id: sehr gut (1)
-  Level: M
   Meaning: very good (1)
   Examples:
     - example1
 
 - Id: gut (2)
-  Level: M
   Meaning: good (2)
   Examples:
     - example1
 
 - Id: befriedigend (3)
-  Level: M
   Meaning: satisfactory (3)
   Examples:
     - example1
 
 - Id: ausreichend (4)
-  Level: M
   Meaning: adequate (4)
   Examples:
     - example1
 
 - Id: mangelhaft (5)
-  Level: M
   Meaning: deficient (5)
   Examples:
     - example1
 
 - Id: ungenügend (6)
-  Level: M
   Meaning: insufficient (6)
   Examples:
     - example1
 
 - Id: blau
-  Level: M
   Meaning: blue
   Examples:
     - Möchten Sie Ihre Forelle blau oder nach Müllerin Art?
 
 - Id: braun
-  Level: M
   Meaning: brown
   Examples:
     - example1
 
 - Id: gelb
-  Level: M
   Meaning: yellow
   Examples:
     - example1
 
 - Id: grau
-  Level: M
   Meaning: grey
   Examples:
     - example1
 
 - Id: lila
-  Level: M
   Meaning: purple
   Examples:
     - example1
 
 - Id: orange
-  Level: M
   Meaning: orange
   Examples:
     - example1
 
 - Id: rosa
-  Level: M
   Meaning: pink
   Examples:
     - example1
 
 - Id: rot
-  Level: M
   Meaning: red
   Examples:
     - example1
 
 - Id: schwarz
-  Level: M
   Meaning: black
   Examples:
     - example1
 
 - Id: violett
-  Level: M
   Meaning: violet
   Examples:
     - example1
 
 - Id: weiß
-  Level: M
   Meaning: white
   Examples:
     - example1
 
 - Id: grün
-  Level: M
   Meaning: green
   Examples:
     - example1
 
 - Id: die Himmelsrichtung
-  Level: M
   Form: -en
   Meaning: direction (north, etc.)
   Examples:
     - example1
 
 - Id: der Norden
-  Level: M
   Form: (Sg.)
   Meaning: north
   Examples:
     - example1
 
 - Id: nördlich
-  Level: M
   Meaning: northern
   Examples:
     - example1
 
 - Id: der Osten
-  Level: M
   Form: (Sg.)
   Meaning: east
   Examples:
     - example1
 
 - Id: östlich
-  Level: M
   Meaning: eastern
   Examples:
     - example1
 
 - Id: der Süden
-  Level: M
   Form: (Sg.)
   Meaning: south
   Examples:
     - example1
 
 - Id: südlich
-  Level: M
   Meaning: southern
   Examples:
     - example1
 
 - Id: der Westen
-  Level: M
   Form: (Sg.)
   Meaning: west
   Examples:
     - example1
 
 - Id: westlich
-  Level: M
   Meaning: western
   Examples:
     - example1
 
 - Id: Deutschland
-  Level: M
   Meaning: Germany
   Examples:
     - example1
 
 - Id: der Deutsche
-  Level: M
   Form: (Sg.)
   Meaning: German (man)
   Examples:
     - example1
 
 - Id: die Deutsche
-  Level: M
   Form: (Sg.)
   Meaning: German (woman)
   Examples:
     - example1
 
 - Id: deutsch
-  Level: M
   Meaning: German (adj.)
   Examples:
     - example1
 
 - Id: das Deutsch
-  Level: M
   Form: -e
   Meaning: German (language)
   Examples:
     - example1
 
 - Id: Europa
-  Level: M
   Form: (Sg.)
   Meaning: Europe
   Examples:
     - example1
 
 - Id: der Europäer
-  Level: M
   Form: '-'
   Meaning: European (man)
   Examples:
     - example1
 
 - Id: europäisch
-  Level: M
   Meaning: European (adj.)
   Examples:
     - example1
 
 - Id: Griechenland
-  Level: M
   Form: (Sg.)
   Meaning: Greece
   Examples:
     - example1
 
 - Id: der Grieche
-  Level: M
   Form: -n
   Meaning: Greek (man)
   Examples:
     - example1
 
 - Id: die Griechin
-  Level: M
   Form: -nen
   Meaning: Greek (woman)
   Examples:
     - example1
 
 - Id: griechisch
-  Level: M
   Meaning: Greek (adj.)
   Examples:
     - example1
 
 - Id: das Griechisch
-  Level: M
   Form: -e
   Meaning: Greek (language)
   Examples:
     - example1
 
 - Id: Österreich
-  Level: M
   Form: (Sg.)
   Meaning: Austria
   Examples:
     - example1
 
 - Id: der Österreicher
-  Level: M
   Form: '-'
   Meaning: Austrian (man)
   Examples:
     - example1
 
 - Id: die Österreicherin
-  Level: M
   Form: -nen
   Meaning: Austrian (woman)
   Examples:
     - example1
 
 - Id: österreichisch
-  Level: M
   Meaning: Austrian (adj.)
   Examples:
     - example1
 
 - Id: die Schweiz
-  Level: M
   Form: -en
   Meaning: Switzerland
   Examples:
     - Die Hauptstadt der Schweiz ist de facto die Bundesstadt Bern.
 
 - Id: der Schweizer
-  Level: M
   Form: '-'
   Feminine:
     Id: die Schweizerin
@@ -22921,21 +22889,18 @@
     - Viktor Giacobbo ist ein Schweizer.
 
 - Id: schweizerisch
-  Level: M
   Synonym: Schweizer
   Meaning: Swiss (adj)
   Examples:
     - Die bekanntesten schweizerischen Produkte sind Käse, Schokolade und Uhren.
 
 - Id: die Türkei
-  Level: M
   Form: '-'
   Meaning: Turkey
   Examples:
     - Ankara ist die Hauptstadt der Türkei.
 
 - Id: der Türke
-  Level: M
   Form: -n
   Feminine:
     Id: die Türkin
@@ -22945,74 +22910,63 @@
     - Mein Kollege ist Türke.
 
 - Id: türkisch
-  Level: M
   Meaning: Turkish (adj)
   Examples:
     - Er brachte seine türkische Ehefrau mit.
 
 - Id: das Türkisch
-  Level: M
   Form: '-'
   Meaning: Turkish (language)
   Examples:
     - Ich spreche Türkisch.
 
 - Id: die Ukraine
-  Level: M
   Form: (Sg.)
   Meaning: Ukraine
   Examples:
     - example1
 
 - Id: der Ukrainer
-  Level: M
   Form: '-'
   Meaning: Ukrainian (man)
   Examples:
     - example1
 
 - Id: die Ukrainerin
-  Level: M
   Form: -nen
   Meaning: Ukrainian (woman)
   Examples:
     - example1
 
 - Id: ukrainisch
-  Level: M
   Meaning: Ukrainian (adj.)
   Examples:
     - example1
 
 - Id: das Ukrainisch
-  Level: M
   Form: -e
   Meaning: Ukrainian (language)
   Examples:
     - example1
 
 - Id: politische Begriffe
-  Level: M
   Meaning: political terms (no article)
   Examples:
     - example1
 
 - Id: der Bund
-  Level: M
   Form: ¨-e
   Meaning: union, confederacy
   Examples:
     - example1
 
 - Id: der Bundeskanzler
-  Level: M
   Form: '-'
   Meaning: Federal Chancellor
   Examples:
     - example1
 
 - Id: der Bundespräsident
-  Level: M
   Form: '-'
   Feminine:
     Id: die Bundespräsidentin
@@ -23022,189 +22976,161 @@
     - Mit dem linken Handrücken wischte der Bundespräsident sich den Mund ab.
 
 - Id: das Bundesland
-  Level: M
   Form: ¨-er
   Meaning: state, land
   Examples:
     - example1
 
 - Id: Bundesrepublik Deutschland
-  Level: M
   Meaning: German Federal Republic
   Examples:
     - example1
 
 - Id: der Bundestag
-  Level: M
   Form: -e
   Meaning: lower house of german parliament
   Examples:
     - example1
 
 - Id: der Bürgermeister
-  Level: M
   Form: '-'
   Meaning: mayor
   Examples:
     - example1
 
 - Id: die Demokratie
-  Level: M
   Form: -n
   Meaning: democracy
   Examples:
     - example1
 
 - Id: demokratisch
-  Level: M
   Meaning: democratic
   Examples:
     - example1
 
 - Id: die Europäische Union
-  Level: M
   Meaning: European Union
   Examples:
     - example1
 
 - Id: das Europäische Parlament
-  Level: M
   Meaning: european parliament
   Examples:
     - example1
 
 - Id: die Gemeinde
-  Level: M
   Form: -n
   Meaning: community
   Examples:
     - example1
 
 - Id: der Kanton
-  Level: M
   Form: -e
   Meaning: canton (Switzerland), province
   Examples:
     - example1
 
 - Id: konservativ
-  Level: M
   Meaning: conservative
   Examples:
     - example1
 
 - Id: liberal
-  Level: M
   Meaning: liberal
   Examples:
     - example1
 
 - Id: der Minister
-  Level: M
   Form: '-'
   Meaning: minister
   Examples:
     - example1
 
 - Id: das Parlament
-  Level: M
   Form: -e
   Meaning: parliament
   Examples:
     - example1
 
 - Id: die Partei
-  Level: M
   Form: -en
   Meaning: political party
   Examples:
     - example1
 
 - Id: die Regierung
-  Level: M
   Form: -en
   Meaning: government
   Examples:
     - example1
 
 - Id: der Staat
-  Level: M
   Form: -en
   Meaning: state
   Examples:
     - example1
 
 - Id: staatlich
-  Level: M
   Meaning: stately
   Examples:
     - example1
 
 - Id: das Tiere
-  Level: M
   Form: <Tiere>
   Meaning: animal
   Examples:
     - example1
 
 - Id: der Affe
-  Level: M
   Form: -n
   Meaning: monkey
   Examples:
     - example1
 
 - Id: der Bär
-  Level: M
   Form: -en
   Meaning: bear
   Examples:
     - example1
 
 - Id: die Biene
-  Level: M
   Form: -n
   Meaning: bee
   Examples:
     - example1
 
 - Id: der Elefant
-  Level: M
   Form: -en
   Meaning: elephant
   Examples:
     - example1
 
 - Id: die Ente
-  Level: M
   Form: -n
   Meaning: duck
   Examples:
     - example1
 
 - Id: die Fliege
-  Level: M
   Form: -n
   Meaning: fly
   Examples:
     - example1
 
 - Id: die Giraffe
-  Level: M
   Form: -n
   Meaning: giraffe
   Examples:
     - example1
 
 - Id: der Hase
-  Level: M
   Form: -n
   Meaning: hare
   Examples:
     - example1
 
 - Id: der Hund
-  Level: M
   Form: -e
   Meaning: dog
   Examples:
@@ -23213,1233 +23139,1044 @@
     - Meine Tochter hat Angst vor Hunden.
 
 - Id: das Insekt
-  Level: M
   Form: -en
   Meaning: insect
   Examples:
     - example1
 
 - Id: die Katze
-  Level: M
   Form: -n
   Meaning: cat
   Examples:
     - example1
 
 - Id: das Krokodil
-  Level: M
   Form: -e
   Meaning: crocodile
   Examples:
     - example1
 
 - Id: die Kuh
-  Level: M
   Form: ¨-e
   Meaning: cow
   Examples:
     - example1
 
 - Id: der Löwe
-  Level: M
   Form: -n
   Meaning: lion
   Examples:
     - example1
 
 - Id: die Maus
-  Level: M
   Form: ¨-e
   Meaning: mouse
   Examples:
     - example1
 
 - Id: die Mücke
-  Level: M
   Form: -n
   Meaning: mosquito
   Examples:
     - example1
 
 - Id: das Pferd
-  Level: M
   Form: -e
   Meaning: horse
   Examples:
     - example1
 
 - Id: der Pinguin
-  Level: M
   Form: -e
   Meaning: penguin
   Examples:
     - example1
 
 - Id: das Schaf
-  Level: M
   Form: -e
   Meaning: sheep
   Examples:
     - example1
 
 - Id: die Schildkröte
-  Level: M
   Form: -n
   Meaning: tortoise
   Examples:
     - example1
 
 - Id: das Schwein
-  Level: M
   Form: -e
   Meaning: pig
   Examples:
     - Hast du die Schweine schon gefüttert?
 
 - Id: der Vogel
-  Level: M
   Form: ¨-
   Meaning: bird
   Examples:
     - example1
 
 - Id: die Währung
-  Level: M
   Form: -en
   Meaning: currency
   Examples:
     - example1
 
 - Id: der Euro
-  Level: M
   Form: -s
   Meaning: euro
   Examples:
     - example1
 
 - Id: der Franken
-  Level: M
   Meaning: Swiss franc
   Examples:
     - example1
 
 - Id: ein Meter
-  Level: M
   Meaning: 1 metre
   Examples:
     - example1
 
 - Id: ein Zentimeter
-  Level: M
   Meaning: 1 centimeter
   Examples:
     - example1
 
 - Id: ein Meter fünfzehn
-  Level: M
   Meaning: 1,15 m
   Examples:
     - example1
 
 - Id: zweihundert Kilometer
-  Level: M
   Meaning: 200 km
   Examples:
     - example1
 
 - Id: ein Quadratmeter
-  Level: M
   Meaning: 1 square meter
   Examples:
     - example1
 
 - Id: ein Grad unter Null
-  Level: M
   Meaning: minus one degree (u-)
   Examples:
     - example1
 
 - Id: minus ein Grad
-  Level: M
   Meaning: minus one degree (m-)
   Examples:
     - example1
 
 - Id: vier Grad über Null
-  Level: M
   Meaning: four degrees centigrade (ü-)
   Examples:
     - example1
 
 - Id: plus vier Grad
-  Level: M
   Meaning: four degrees centigrade (p-)
   Examples:
     - example1
 
 - Id: ein Prozent
-  Level: M
   Meaning: one percent
   Examples:
     - example1
 
 - Id: ein Liter
-  Level: M
   Meaning: one litre
   Examples:
     - example1
 
 - Id: das Maß
-  Level: M
   Form: -e
   Meaning: measurement
   Examples:
     - example1
 
 - Id: ein Gramm
-  Level: M
   Meaning: one gramme
   Examples:
     - example1
 
 - Id: ein halbes Kilo
-  Level: M
   Meaning: a half kilo
   Examples:
     - example1
 
 - Id: ein Pfund
-  Level: M
   Meaning: a pound
   Examples:
     - example1
 
 - Id: ein Kilogramm
-  Level: M
   Meaning: one kilogram
   Examples:
     - example1
 
 - Id: eins
-  Level: M
   Meaning: 1
   Examples:
     - example1
 
 - Id: zwei
-  Level: M
   Meaning: 2
   Examples:
     - example1
 
 - Id: drei
-  Level: M
   Meaning: 3
   Examples:
     - example1
 
 - Id: vier
-  Level: M
   Meaning: 4
   Examples:
     - example1
 
 - Id: fünf
-  Level: M
   Meaning: 5
   Examples:
     - example1
 
 - Id: sechs
-  Level: M
   Meaning: 6
   Examples:
     - example1
 
 - Id: sieben
-  Level: M
   Meaning: 7
   Examples:
     - example1
 
 - Id: acht
-  Level: M
   Meaning: 8
   Examples:
     - example1
 
 - Id: neun
-  Level: M
   Meaning: 9
   Examples:
     - example1
 
 - Id: zehn
-  Level: M
   Meaning: 10
   Examples:
     - example1
 
 - Id: elf
-  Level: M
   Meaning: 11
   Examples:
     - example1
 
 - Id: zwölf
-  Level: M
   Meaning: 12
   Examples:
     - example1
 
 - Id: dreizehn
-  Level: M
   Meaning: 13
   Examples:
     - example1
 
 - Id: einundzwanzig
-  Level: M
   Meaning: 21
   Examples:
     - example1
 
 - Id: dreißig
-  Level: M
   Meaning: 30
   Examples:
     - example1
 
 - Id: einhundert
-  Level: M
   Meaning: 100
   Examples:
     - example1
 
 - Id: einhundertundeins
-  Level: M
   Meaning: 101
   Examples:
     - example1
 
 - Id: zweihundert
-  Level: M
   Meaning: 200
   Examples:
     - example1
 
 - Id: tausend
-  Level: M
   Meaning: 1 000
   Examples:
     - example1
 
 - Id: eine Million
-  Level: M
   Meaning: 1 000 000
   Examples:
     - example1
 
 - Id: eine Milliarde
-  Level: M
   Meaning: 1 000 000 000
   Examples:
     - example1
 
 - Id: erste
-  Level: M
   Meaning: first
   Examples:
     - example1
 
 - Id: zweite
-  Level: M
   Meaning: second (place, thing, etc.)
   Examples:
     - example1
 
 - Id: dritte
-  Level: M
   Meaning: third
   Examples:
     - example1
 
 - Id: vierte
-  Level: M
   Meaning: fourth
   Examples:
     - example1
 
 - Id: erstens
-  Level: M
   Meaning: firstly
   Examples:
     - 'Erstens: Beruhigen Sie sich bitte.'
 
 - Id: zweitens
-  Level: M
   Meaning: secondly
   Examples:
     - Zweitens weise ich Sie darauf hin, dass das Rauchen ausschließlich an diesem Ort gestattet ist.
 
 - Id: drittens
-  Level: M
   Meaning: thirdly
   Examples:
     - example1
 
 - Id: viertens
-  Level: M
   Meaning: fourthly
   Examples:
     - example1
 
 - Id: zweimal
-  Level: M
   Meaning: twice
   Examples:
     - example1
 
 - Id: dreimal
-  Level: M
   Meaning: three times
   Examples:
     - example1
 
 - Id: viermal
-  Level: M
   Meaning: four times
   Examples:
     - example1
 
 - Id: zweifach
-  Level: M
   Meaning: double (z-)
   Examples:
     - Jedes hergestellte Produkt wird von uns zweifach kontrolliert.
 
 - Id: plus
-  Level: M
   Meaning: plus
   Examples:
     - example1
 
 - Id: minus
-  Level: M
   Meaning: minus
   Examples:
     - example1
 
 - Id: Bruchzahlen
-  Level: M
   Form: <Bruchzahlen>
   Meaning: fractions
   Examples:
     - example1
 
 - Id: ein halb
-  Level: M
   Meaning: a half
   Examples:
     - example1
 
 - Id: ein Drittel
-  Level: M
   Meaning: a third
   Examples:
     - example1
 
 - Id: ein Viertel
-  Level: M
   Meaning: a quarter
   Examples:
     - example1
 
 - Id: neunzehnhundertneunundneunzig
-  Level: M
   Meaning: 1999
   Examples:
     - example1
 
 - Id: zweitausendundvier
-  Level: M
   Meaning: 2004
   Examples:
     - example1
 
 - Id: heute ist der erste März
-  Level: M
   Form: ¨-e
   Meaning: today is the first of March
   Examples:
     - der erste März = der erste Dritte
 
 - Id: Berlin, zehnter April zweitausendundzwölf
-  Level: M
   Meaning: Berlin, 10th April 2012
   Examples:
     - zehnter April = zehnter Vierter
     - zweitausendundzwölf = zweitausendzwölf
 
 - Id: die Feiertage
-  Level: M
   Form: <Feiertage>
   Meaning: festivals
   Examples:
     - example1
 
 - Id: das Neujahr
-  Level: M
   Form: (Sg.)
   Meaning: new year
   Examples:
     - example1
 
 - Id: das Ostern
-  Level: M
   Form: '-'
   Meaning: Easter
   Examples:
     - example1
 
 - Id: das Pfingsten
-  Level: M
   Form: '-'
   Meaning: Pentecost
   Examples:
     - example1
 
 - Id: das Weihnachten
-  Level: M
   Form: '-'
   Meaning: Christmas
   Examples:
     - In drei Tagen ist Weihnachten.
 
 - Id: der Silvester
-  Level: M
   Form: '-'
   Meaning: New years eve
   Examples:
     - Zu Silvester werden viele Feuerwerkskörper verschossen.
 
 - Id: der Nationalfeiertag
-  Level: M
   Form: -e
   Meaning: national holiday
   Examples:
     - example1
 
 - Id: die Jahreszeit
-  Level: M
   Form: -en
   Meaning: season
   Examples:
     - example1
 
 - Id: der Frühling
-  Level: M
   Form: -e
   Meaning: spring
   Examples:
     - Im Frühling blüht die Natur auf.
 
 - Id: das Frühjahr
-  Level: M
   Form: -e
   Meaning: spring (months)
   Examples:
     - Im Frühjahr blüht die Natur auf.
 
 - Id: der Sommer
-  Level: M
   Form: '-'
   Meaning: summer
   Examples:
     - Das Baden ist die schönste Beschäftigung im Sommer.
 
 - Id: der Herbst
-  Level: M
   Form: -e
   Meaning: autumn
   Examples:
     - Im Herbst sammeln die Kinder Kastanien.
 
 - Id: der Winter
-  Level: M
   Form: '-'
   Meaning: winter
   Examples:
     - Im Winter ist es kalt, es liegt oft Schnee.
 
 - Id: die Monatsnamen
-  Level: M
   Form: <Monatsnamen>
   Meaning: names of the months
   Examples:
     - example1
 
 - Id: der Januar
-  Level: M
   Form: -e
   Meaning: January
   Examples:
     - example1
 
 - Id: der Februar
-  Level: M
   Form: -e
   Meaning: February
   Examples:
     - example1
 
 - Id: der März
-  Level: M
   Form: -e
   Meaning: March
   Examples:
     - example1
 
 - Id: der April
-  Level: M
   Form: -e
   Meaning: April
   Examples:
     - example1
 
 - Id: der Mai
-  Level: M
   Form: -e
   Meaning: May
   Examples:
     - example1
 
 - Id: der Juni
-  Level: M
   Form: -s
   Meaning: June
   Examples:
     - example1
 
 - Id: der Juli
-  Level: M
   Form: -s
   Meaning: July
   Examples:
     - example1
 
 - Id: der August
-  Level: M
   Form: -e
   Meaning: August
   Examples:
     - example1
 
 - Id: der September
-  Level: M
   Form: '-'
   Meaning: September
   Examples:
     - example1
 
 - Id: der Oktober
-  Level: M
   Form: '-'
   Meaning: October
   Examples:
     - example1
 
 - Id: der November
-  Level: M
   Form: '-'
   Meaning: November
   Examples:
     - example1
 
 - Id: der Dezember
-  Level: M
   Form: '-'
   Meaning: December
   Examples:
     - example1
 
 - Id: die Tageszeiten
-  Level: M
   Form: <Tageszeiten>
   Meaning: times of the day
   Examples:
     - example1
 
 - Id: der Tag
-  Level: M
   Form: -e
   Meaning: day
   Examples:
     - example1
 
 - Id: der Morgen
-  Level: M
   Form: '-'
   Meaning: morning
   Examples:
     - example1
 
 - Id: der Vormittag
-  Level: M
   Form: -e
   Meaning: morning
   Examples:
     - example1
 
 - Id: der Mittag
-  Level: M
   Form: -e
   Meaning: midday
   Examples:
     - example1
 
 - Id: der Nachmittag
-  Level: M
   Form: -e
   Meaning: afternoon
   Examples:
     - example1
 
 - Id: der Abend
-  Level: M
   Form: -e
   Meaning: evening
   Examples:
     - Gegen Abend werden wir uns sehen.
 
 - Id: die Nacht
-  Level: M
   Form: ¨-e
   Meaning: night
   Examples:
     - example1
 
 - Id: die Mitternacht
-  Level: M
   Form: ¨-e
   Meaning: midnight
   Examples:
     - example1
 
 - Id: täglich; tagsüber
-  Level: M
   Meaning: daily
   Examples:
     - example1
 
 - Id: morgens; am Morgen
-  Level: M
   Meaning: (tomorrow) in the morning
   Examples:
     - example1
 
 - Id: vormittags; am Vormittag
-  Level: M
   Meaning: (tomorrow), in the morning, before noon
   Examples:
     - example1
 
 - Id: mittags; zu Mittag; am Mittag
-  Level: M
   Meaning: at lunch time
   Examples:
     - example1
 
 - Id: nachmittags; am Nachmittag
-  Level: M
   Meaning: afternoon
   Examples:
     - example1
 
 - Id: abends; am Abend
-  Level: M
   Meaning: in the evening
   Examples:
     - example1
 
 - Id: nachts; in der Nacht
-  Level: M
   Meaning: by night, in the night
   Examples:
     - example1
 
 - Id: um Mitternacht
-  Level: M
   Meaning: midnight
   Examples:
     - example1
 
 - Id: die Uhrzeit
-  Level: M
   Form: -en
   Meaning: time (of day)
   Examples:
     - example1
 
 - Id: null Uhr drei
-  Level: M
   Meaning: 00:03
   Examples:
     - example1
 
 - Id: sieben Uhr fünfzehn
-  Level: M
   Meaning: 07:15
   Examples:
     - example1
 
 - Id: dreizehn Uhr siebzehn
-  Level: M
   Meaning: 13:17
   Examples:
     - example1
 
 - Id: vierundzwanzig Uhr
-  Level: M
   Meaning: 24:00
   Examples:
     - example1
 
 - Id: ein Uhr
-  Level: M
   Meaning: one o'clock
   Examples:
     - example1
 
 - Id: fünf Minuten vor eins
-  Level: M
   Meaning: five to one
   Examples:
     - example1
 
 - Id: fünf Minuten nach eins
-  Level: M
   Meaning: five past one
   Examples:
     - example1
 
 - Id: viertel vor zwei
-  Level: M
   Meaning: quarter to two
   Examples:
     - example1
 
 - Id: viertel nach zwei
-  Level: M
   Meaning: quarter past two
   Examples:
     - example1
 
 - Id: halb drei
-  Level: M
   Meaning: half past two
   Examples:
     - example1
 
 - Id: der Wochentag
-  Level: M
   Form: -e
   Meaning: day of the week
   Examples:
     - example1
 
 - Id: Wochentags
-  Level: M
   Meaning: on week days
   Examples:
     - example1
 
 - Id: der Werktag
-  Level: M
   Form: -e
   Meaning: work day, working day
   Examples:
     - example1
 
 - Id: das Wochenende
-  Level: M
   Form: -n
   Meaning: the weekend
   Examples:
     - Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.
 
 - Id: am Wochenende
-  Level: M
   Meaning: at the weekend
   Examples:
     - Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.
 
 - Id: der Montag
-  Level: M
   Form: -e
   Meaning: Monday
   Examples:
     - example1
 
 - Id: der Dienstag
-  Level: M
   Form: -e
   Meaning: Tuesday
   Examples:
     - example1
 
 - Id: der Mittwoch
-  Level: M
   Form: -e
   Meaning: Wednesday
   Examples:
     - example1
 
 - Id: der Donnerstag
-  Level: M
   Form: -e
   Meaning: Thursday
   Examples:
     - example1
 
 - Id: der Freitag
-  Level: M
   Form: -e
   Meaning: Friday
   Examples:
     - example1
 
 - Id: der Samstag
-  Level: M
   Form: -e
   Meaning: Saturday
   Examples:
     - example1
 
 - Id: der Sonntag
-  Level: M
   Form: -e
   Meaning: Sunday
   Examples:
     - example1
 
 - Id: am Montag
-  Level: M
   Meaning: on Monday
   Examples:
     - example1
 
 - Id: montags
-  Level: M
   Meaning: on Mondays
   Examples:
     - example1
 
 - Id: dienstags
-  Level: M
   Meaning: on Tuesdays
   Examples:
     - example1
 
 - Id: mittwochs
-  Level: M
   Meaning: on Wednesdays
   Examples:
     - example1
 
 - Id: donnerstags
-  Level: M
   Meaning: on Thursdays
   Examples:
     - example1
 
 - Id: freitags
-  Level: M
   Meaning: on Fridays
   Examples:
     - example1
 
 - Id: samstags; sonnabends
-  Level: M
   Meaning: on Saturdays
   Examples:
     - example1
 
 - Id: Sonntags
-  Level: M
   Meaning: on Sundays
   Examples:
     - example1
 
 - Id: Zeitangaben
-  Level: M
   Form: <Zeitangaben>
   Meaning: units of time
   Examples:
     - example1
 
 - Id: die Sekunde
-  Level: M
   Form: -n
   Meaning: second (1/60th of Minute)
   Examples:
     - example1
 
 - Id: die Minute
-  Level: M
   Form: -n
   Meaning: minute
   Examples:
     - example1
 
 - Id: der Tag
-  Level: M
   Form: -e
   Meaning: day
   Examples:
     - example1
 
 - Id: die Woche
-  Level: M
   Form: -n
   Meaning: week
   Examples:
     - In dieser Woche gibt es mal keine Extratermine.
 
 - Id: der Monat
-  Level: M
   Form: -e
   Meaning: month
   Examples:
     - Jeden Monat suche ich mehrere Beispiele zusammen und trage sie nach.
 
 - Id: monatlich
-  Level: M
   Meaning: monthly
   Examples:
     - example1
 
 - Id: das Jahr
-  Level: M
   Form: -e
   Meaning: year
   Examples:
     - Der Bau des Hauses dauerte 2 Jahre.
 
 - Id: jährlich
-  Level: M
   Meaning: yearly
   Examples:
     - example1
 
 - Id: das Jahrzehnt
-  Level: M
   Form: -e
   Meaning: decade
   Examples:
     - example1
 
 - Id: das Jahrhundert
-  Level: M
   Form: -e
   Meaning: century
   Examples:
     - example1
 
 - Id: das Jahrtausend
-  Level: M
   Form: -e
   Meaning: millennium
   Examples:
     - example1
 
 - Id: stündlich
-  Level: M
   Meaning: hourly
   Examples:
     - example1
 
 - Id: wöchentlich
-  Level: M
   Meaning: weekly
   Examples:
     - example1
 
 - Id: dran sein
-  Level: K
   Meaning: to be somebody's turn in a game
   Examples:
     - Du bist dran!
 
 - Id: schummeln
-  Level: K
   Form: schummelt, schummelte, hat geschummelt
   Meaning: to cheat (s-)
   Examples:
     - Er hat beim Spielen ein bisschen geschummelt.
 
 - Id: mogeln
-  Level: K
   Form: mogelt, mogelte, hat gemogelt
   Meaning: to cheat (m-)
   Examples:
     - Unser Kleiner versucht immer mal wieder zu mogeln.
 
 - Id: trennbar
-  Level: K
   Meaning: separable
   Examples:
     - Bei den Champignons sind Hut und Stiel leicht voneinander trennbar.
 
 - Id: zerreißen
-  Level: K
   Form: zerreißt, zerriss, hat zerrissen
   Meaning: to rip, to tear
   Examples:
     - Es sieht aus, dein Hemd ist zerrissen.
 
 - Id: missverstehen
-  Level: K
   Form: missversteht, missverstand, hat missverstanden
   Meaning: to misunderstand, to misapprehend
   Examples:
     - Sie missversteht mich absichtlich.
 
 - Id: die Bestellung
-  Level: K
   Form: -en
   Meaning: order, request for a product
   Examples:
     - Die Bestellung wurde schnell geliefert.
 
 - Id: experimentieren
-  Level: K
   Form: experimentiert, experimentierte, hat experimentiert
   Meaning: to experiment
   Examples:
     - Die Studenten experimentierten mit Salzsäure.
 
 - Id: der Daumen
-  Level: K
   Form: '-'
   Meaning: thumb
   Examples:
     - Klaus lutscht immer noch am Daumen.
 
 - Id: die Scheiße
-  Level: K
   Form: (Sg.)
   Meaning: shit
   Examples:
     - Wo ich hintrete nur Scheiße!
 
 - Id: der Schokoladenkuchen
-  Level: K
   Form: '-'
   Meaning: chocolate cake
   Examples:
     - Zu deinem Geburtstag backe ich dir einen leckeren Schokoladenkuchen.
 
 - Id: der Käsekuchen
-  Level: K
   Form: '-'
   Meaning: cheesecake
   Examples:
     - Ich nehme noch ein Stück vom Käsekuchen.
 
 - Id: die Kopiermaschine
-  Level: K
   Form: -n
   Meaning: copy machine
   Examples:
     - Ich habe eine Kopiermaschine.
 
 - Id: das Natel
-  Level: K
   Form: -s
   Meaning: mobile phone (CH)
   Examples:
     - Hast du das Natel dabei?
 
 - Id: der Blumentopf
-  Level: K
   Form: ¨-e
   Meaning: flowerpot
   Examples:
     - Wenn Pflanzen zu groß werden, muss man sie in einen größeren Blumentopf umpflanzen.
 
 - Id: die Dienstreise
-  Level: K
   Form: -n
   Meaning: business trip
   Examples:
     - Seine Dienstreise ging diesmal nach München.
 
 - Id: das Protokoll
-  Level: K
   Form: -e
   Meaning: protocol
   Examples:
     - Herr Müller schreibt heute das Protokoll!
 
 - Id: abrufen
-  Level: K
   Form: ruft ab, rief ab, hat abgerufen
   Meaning: to check, to access, fetch or retrieve
   Examples:
     - Er rief seine Mails bereits am Morgen ab.
 
 - Id: weiterleiten
-  Level: K
   Form: leitet weiter, leitete weiter, hat weitergeleitet
   Meaning: to forward
   Examples:
     - Ich habe deine E-Mail an Egon weitergeleitet.
 
 - Id: wiederkommen
-  Level: K
   Form: kommt wieder, kam wieder, ist wiedergekommen
   Meaning: to come back
   Examples:
     - Ich gehe jetzt, weiß aber noch nicht, wann ich wiederkomme, warte nicht auf mich, geh ruhig ins Bett!
 
 - Id: der Jude
-  Level: K
   Form: -n
   Meaning: Jew
   Examples:
     - Albert Einstein war Jude.
 
 - Id: stornieren
-  Level: K
   Form: storniert, stornierte, hat storniert
   Meaning: to cancel, to reverse
   Examples:
     - Nachdem er bemerkte, dass er den Artikel schon hatte, stornierte er den Kauf.
 
 - Id: abspülen
-  Level: K
   Form: spült ab, spülte ab, hat abgespült
   Meaning: to wash off, to rinse
   Examples:
     - Wer spült heute ab?
 
 - Id: das Waschbecken
-  Level: K
   Form: '-'
   Meaning: sink; basin
   Examples:
     - Er wusch sich am Waschbecken die dreckigen Hände.
 
 - Id: anbauen
-  Level: K
   Form: baut an, baute an, hat angebaut
   Meaning: to add on; to grow, to cultivate
   Examples:
     - Baust du das Waschbecken bald an?
 
 - Id: einräumen
-  Level: K
   Form: räumt ein, räumte ein, hat eingeräumt
   Meaning: to store things; to grant, concede, admit
   Examples:
@@ -24447,63 +24184,54 @@
     - Wir wollen zu zweit das Zimmer einräumen.
 
 - Id: der Küchenschrank
-  Level: K
   Form: ¨-e
   Meaning: cupboard, kitchen cabinet
   Examples:
     - Es gibt doch noch einen Küchenschrank.
 
 - Id: die Beförderung
-  Level: K
   Form: -en
   Meaning: transportation
   Examples:
     - Papas Beförderung zum Regierungsbaudirektor war unter Dach und Fach.
 
 - Id: fertigstellen
-  Level: K
   Form: stellt fertig, stellte fertig, hat fertiggestellt
   Meaning: to finish, to complete, to accomplish
   Examples:
     - Heute hat er sein Kunstwerk fertiggestellt.
 
 - Id: der Staubsauger
-  Level: K
   Form: '-'
   Meaning: vacuum cleaner
   Examples:
     - Unser Staubsauger ist defekt, er saugt nur noch mit halber Kraft.
 
 - Id: der Tintenfisch
-  Level: K
   Form: -e
   Meaning: cuttlefish, octopus, or squid
   Examples:
     - Seit Jahrmillionen bevölkern Tintenfische, jene räuberischen Weichtiere, alle Meere der Welt.
 
 - Id: die Gleiche
-  Level: K
   Form: (Sg.)
   Meaning: equality
   Examples:
     - Ich bringe etwas in die Gleiche.
 
 - Id: das Markenzeichen
-  Level: K
   Form: '-'
   Meaning: trademark
   Examples:
     - Herrn Gleismann-Kubitzki war nicht bekannt, dass das Wort Regionalexpress ein Markenzeichen ist.
 
 - Id: die Öffnungszeit
-  Level: K
   Form: -en (Pl.)
   Meaning: opening hours
   Examples:
     - Die Öffnungszeiten der Geschäfte könnten flexibler gestaltet werden.
 
 - Id: der Informatiker
-  Level: K
   Form: '-'
   Feminine:
     Id: die Informatikerin
@@ -24513,132 +24241,113 @@
     - Die Suchmaschine Google wurde von zwei Informatikern entwickelt.
 
 - Id: konstruieren
-  Level: K
   Form: konstruiert, konstruierte, hat konstruiert
   Meaning: to design, to construct
   Examples:
     - Viele Entwicklungsingenieure haben gemeinsam die neue Werkzeugmaschine konstruiert.
 
 - Id: die Vorlesung
-  Level: K
   Form: -en
   Meaning: (university) lecture
   Examples:
     - Zu den Vorlesungen komme ich immer pünktlich.
 
 - Id: saugen
-  Level: K
   Form: saugt, saugte, hat gesaugt
   Meaning: to suck
   Examples:
     - Das Kalb sog heftig am Euter.
 
 - Id: kommunizieren
-  Level: K
   Form: kommuniziert, kommunizierte, hat kommuniziert
   Meaning: to communicate
   Examples:
     - Immerhin kommunizieren die beiden noch miteinander.
 
 - Id: die Rotation
-  Level: K
   Form: -en
   Meaning: rotation
   Examples:
     - Die Rotation der Erde sorgt für Tag und Nacht.
 
 - Id: die Impfung
-  Level: K
   Form: -en
   Meaning: vaccination
   Examples:
     - Impfungen sind in der Schweiz freiwillig.
 
 - Id: beitreten
-  Level: K
   Form: tritt bei, trat bei, ist beigetreten (+ Dativ)
   Meaning: to join (to become a member of)
   Examples:
     - Ich kann der Gewerkschaft nicht beitreten.
 
 - Id: gebrochen
-  Level: K
   Meaning: broken (physically)
   Examples:
     - Dieses gebrochene Orange steht dir gut!
 
 - Id: verrücken
-  Level: K
   Form: verrückt, verrückte, hat verrückt
   Meaning: to shift; to move by pushing
   Examples:
     - In Graz müssen zahlreiche Ortstafeln verrückt werden.
 
 - Id: die Heimatstadt
-  Level: K
   Form: ¨-e
   Meaning: hometown
   Examples:
     - Meine Heimatstadt Duisburg hat Geschichte geschrieben.
 
 - Id: bügeln
-  Level: K
   Form: bügelt, bügelte, hat gebügelt
   Meaning: to iron
   Examples:
     - Ich muss noch meine Hemden bügeln.
 
 - Id: dokumentieren
-  Level: K
   Form: dokumentiert, dokumentierte, hat dokumentiert
   Meaning: to document
   Examples:
     - Liszt lebte gleichzeitig aber aus einem tiefen Glauben heraus und dokumentierte in seinen Briefen immer wieder seine Liebe zur Gemeinde.
 
 - Id: das Experiment
-  Level: K
   Form: -e
   Meaning: experiment
   Examples:
     - Mein Experiment war ein Reinfall.
 
 - Id: durchführen
-  Level: K
   Form: führt durch, führte durch, hat durchgeführt
   Meaning: to perform, to carry out
   Examples:
     - Darf ich Sie kurz durch die Ausstellung führen?
 
 - Id: einschlafen
-  Level: K
   Form: schläft ein, schlief ein, ist eingeschlafen
   Meaning: to fall asleep
   Examples:
     - Warum musst du immer im Kino einschlafen?
 
 - Id: der Nachtisch
-  Level: K
   Form: -e
   Meaning: dessert
   Examples:
     - Zum Nachtisch gibt es Götterspeise.
 
 - Id: das Fachgebiet
-  Level: K
   Form: -e
   Meaning: specialization
   Examples:
     - Sein spezielles Fachgebiet ist die Erforschung des Spracherwerbs.
 
 - Id: beibringen
-  Level: K
   Form: bringt bei, brachte bei, hat beigebracht
   Meaning: to teach someone something
   Examples:
     - Können Sie mir das Malen beibringen?
 
 - Id: der Assistent
-  Level: K
   Form: -en
   Feminine:
     Id: die Assistentin
@@ -24648,14 +24357,12 @@
     - Dem Hochschulprofessor wurden zwei Assistenten zur Seite gestellt.
 
 - Id: das Solarauto
-  Level: K
   Form: -s
   Meaning: solar car
   Examples:
     - Nach 37 Stunden reiner Fahrzeit erreichte das niederländische Solarauto "Nuna 9" als erstes das Ziel.
 
 - Id: der Jurist
-  Level: K
   Form: -en
   Feminine:
     Id: die Juristin
@@ -24665,7 +24372,6 @@
     - Unter den Studenten bilden die Juristen eine besondere Spezies.
 
 - Id: der Physiker
-  Level: K
   Form: '-'
   Feminine:
     Id: die Physikerin
@@ -24675,7 +24381,6 @@
     - Newton, Maxwell, Einstein und Feynman waren bedeutende Physiker.
 
 - Id: der Mathematiker
-  Level: K
   Form: '-'
   Feminine:
     Id: die Mathematikerin
@@ -24685,21 +24390,18 @@
     - Ein Mathematiker befasst sich mit Mathematik.
 
 - Id: die Journalistik
-  Level: K
   Form: (Sg.)
   Meaning: journalism
   Examples:
     - Im Frühjahr 1959 haben erstmalig über 150 Studierende das Hochschulfernstudium der Journalistik beendet.
 
 - Id: das Design
-  Level: K
   Form: -s
   Meaning: design
   Examples:
     - Das Design der Autos wird immer ähnlicher.
 
 - Id: der Designer
-  Level: K
   Form: '-'
   Feminine:
     Id: die Designerin
@@ -24709,168 +24411,144 @@
     - Ein neues Kochbuch offenbart die Lieblingsrezepte von renommierten Designern.
 
 - Id: darum
-  Level: K
   Meaning: around it; therefore; because!
   Examples:
     - Warum? Darum!
     - Ich werde darum kämpfen.
 
 - Id: gestalten
-  Level: K
   Form: gestaltet, gestaltete, hat gestaltet
   Meaning: to design
   Examples:
     - Wie sollen wir unser Fest gestalten?
 
 - Id: der Regenschirm
-  Level: K
   Form: -e
   Meaning: umbrella
   Examples:
     - Einen Regenschirm hat man im Herbst gerne dabei.
 
 - Id: das Lehrbuch
-  Level: K
   Form: ¨-er
   Meaning: textbook
   Examples:
     - Lehrbücher sind die Schulbücher und die Einführungen in Wissenschaften.
 
 - Id: die Kaffeemaschine
-  Level: K
   Form: -n
   Meaning: coffee machine
   Examples:
     - Aus den Millionen von Büroküchen auf der ganzen Welt ist die Kaffeemaschine nicht mehr wegzudenken.
 
 - Id: der Zimmerschlüssel
-  Level: K
   Form: '-'
   Meaning: room key
   Examples:
     - Ob er mit dem neuen Zimmer zufrieden sei, fragte Signora Morelli, als sie ihm den Zimmerschlüssel und die erste Post von Frau Hartwig gab.
 
 - Id: der Autoschlüssel
-  Level: K
   Form: '-'
   Meaning: car key
   Examples:
     - Vergiss die Autoschlüssel nicht!
 
 - Id: der Sonnenschirm
-  Level: K
   Form: -e
   Meaning: sun umbrella
   Examples:
     - Sie saßen im Garten unter einem bunten Sonnenschirm.
 
 - Id: das Cello
-  Level: K
   Form: Celli
   Meaning: cello
   Examples:
     - Die Geige oder das Cello muss auf den Spieler persönlich eingestellt werden.
 
 - Id: die Tageszeitung
-  Level: K
   Form: -en
   Meaning: daily newspaper
   Examples:
     - Jeden Morgen las er seine Tageszeitung.
 
 - Id: der Schreibtisch
-  Level: K
   Form: -e
   Meaning: writing desk
   Examples:
     - Meine Werkbank ist der Schreibtisch.
 
 - Id: verheiraten
-  Level: K
   Form: verheiratet, verheiratete, hat verheiratet
   Meaning: to wed
   Examples:
     - Der Kapitän verheiratete die beiden miteinander.
 
 - Id: die Telefonnummer
-  Level: K
   Form: -n
   Meaning: telephone number
   Examples:
     - Gibst du mir deine Telefonnummer?
 
 - Id: das Autokennzeichen
-  Level: K
   Form: '-'
   Meaning: car number plate
   Examples:
     - Die beiden Männer waren in einem Polo mit gestohlenen Autokennzeichen unterwegs.
 
 - Id: der Liebesroman
-  Level: K
   Form: -e
   Meaning: romance novel
   Examples:
     - Dieses Theaterstück basiert auf einem Liebesroman.
 
 - Id: der Kommissar
-  Level: K
   Form: -e
   Meaning: commissioner
   Examples:
     - Ein Kommissar verwaltete vorübergehend das Gebiet.
 
 - Id: der Liebling
-  Level: K
   Form: -e
   Meaning: darling, favorite
   Examples:
     - Komm Liebling, sei mein Liebling.
 
 - Id: der Orangensaft
-  Level: K
   Form: ¨-e
   Meaning: orange juice
   Examples:
     - Orangensaft ist nicht gut für mich.
 
 - Id: das Mineral
-  Level: K
   Form: -e
   Meaning: mineral
   Examples:
     - Eine der weltgrößten Sammlungen von Mineralien befindet sich in Freiberg.
 
 - Id: das Curry
-  Level: K
   Form: '-'
   Meaning: curry
   Examples:
     - Die Suppe war sehr stark mit Curry gewürzt.
 
 - Id: die Currywurst
-  Level: K
   Form: ¨-e
   Meaning: curry sausage
   Examples:
     - Ich hätte gern eine Currywurst.
 
 - Id: der Eistee
-  Level: K
   Form: -s
   Meaning: iced tea
   Examples:
     - Herr Ober, bringen Sie mir bitte einen Eistee.
 
 - Id: der Pilsener
-  Level: K
   Form: '-'
   Meaning: pilsener, a particular style of lager beer
   Examples:
     - example
 
 - Id: der Angriff
-  Level: 20
   Form: -e
   Meaning: attack, offensive, strike, assault, onslaught, raid, offence
   Examples:
@@ -24878,7 +24556,6 @@
     - Angriff deckt eine breite Palette ab.
 
 - Id: krönen
-  Level: 20
   Form: krönt, krönte, hat gekrönt
   Meaning: to crown
   Examples:
@@ -24886,7 +24563,6 @@
     - Karl der Große wurde im Jahr 800 zum Kaiser gekrönt.
 
 - Id: der Aggressor
-  Level: 20
   Form: -en
   Meaning: aggressor
   Examples:
@@ -24894,14 +24570,12 @@
     - Dank Bismarcks politischem Geschick galt Frankreich im Krieg von 1870 als Aggressor.
 
 - Id: vehement
-  Level: 20
   Meaning: showing strong feelings; passionate; forceful or intense
   Examples:
     - Er setzte sich vehement für den Vorschlag ein.
     - Deshalb fordert Selenski vehement Flugverbotszone.
 
 - Id: die Flugverbotszone
-  Level: 20
   Form: -n
   Meaning: no-fly zone
   Examples:
