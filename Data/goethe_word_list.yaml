@@ -2630,7 +2630,7 @@
     - Kannst du mir ein Beispiel sagen?
     - Können Sie mir ein Beispiel sagen?
     - Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.
-    - 'Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot …'
+    - "Hier gibt's so viele Sachen: beispielsweise Wurst, Obst, Brot …"
 
 - Id: zum Beispiel
   Level: A1
@@ -3626,7 +3626,7 @@
     - Braten Sie das Fleisch in etwas Öl!
     - Der Fisch brät in der Pfanne.
     - Das Fleisch muss zehn Minuten braten.
-    - Heute gibt’s gebratenen Fisch.
+    - Heute gibt's gebratenen Fisch.
 
 - Id: der Braten
   Level: B1
@@ -4454,7 +4454,7 @@
 
 - Id: deshalb
   Level: A2
-  Meaning: for that reason, that’s why
+  Meaning: for that reason, that's why
   Examples:
     - Ich war krank. Deshalb war ich nicht im Büro.
 
@@ -4468,14 +4468,14 @@
 
 - Id: deswegen
   Level: B1
-  Meaning: therefore, that’s why
+  Meaning: therefore, that's why
   Examples:
     - Ich habe falsch geparkt. Deswegen habe ich einen Strafzettel bekommen.
 
 - Id: das Detail
   Level: B1
   Form: -s
-  Meaning: details
+  Meaning: detail
   Examples:
     - Dieses Detail ist unwichtig.
     - Ich habe alles bis ins kleinste Detail vorbereitet.
@@ -4965,7 +4965,7 @@
 - Id: duzen
   Level: B1
   Form: duzt, duzte, hat geduzt
-  Meaning: say ‘du’ to sb
+  Meaning: to address informally using the pronoun du, to thou
   Examples:
     - Wollen wir Du zueinander sagen? Ja, wir können uns gern duzen?
 
