@@ -4213,7 +4213,7 @@
   Level: B1
   Form: -n
   Synonym: = (D, CH) Portemonnaie, Portmonee = (A) Geldbörse
-  Meaning: wallet
+  Meaning: wallet (B-)
   WikiMeanings: wallet, purse
   Examples:
     - Ich habe nur Kleingeld in meiner Brieftasche.
@@ -9096,18 +9096,18 @@
     - Bitte haben Sie etwas Geduld.
 
 - Id: geehrt
-  Level: B1
+  Level: A2
   Meaning: dear (Sir or Madam, in letters)
   WikiMeanings: ''
   Examples:
-    - Sehr geehrte Damen und Herren, …
+    - Sehr geehrte Damen und Herren,
 
 - Id: geeignet
   Level: B1
   Meaning: suitable
   WikiMeanings: suitable, appropriate; convenient
   Examples:
-    - example1
+    - Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet.
 
 - Id: die Gefahr
   Level: B1
@@ -9115,14 +9115,15 @@
   Meaning: danger
   WikiMeanings: danger, hazard, peril, risk; threat
   Examples:
-    - example1
+    - Betreten der Baustelle auf eigene Gefahr.
 
 - Id: gefährlich
-  Level: B1
+  Level: A2
   Meaning: dangerous
   WikiMeanings: dangerous
   Examples:
-    - example1
+    - Achtung, hier ist eine gefährliche Kurve!
+    - Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich.
 
 - Id: gefallen
   Level: A1
@@ -9130,14 +9131,18 @@
   Meaning: to like (pp. fallen)
   WikiMeanings: to please; to appeal to; fallen, dropped
   Examples:
-    - example1
+    - Das Bild gefällt mir.
+    - Wie gefällt es Ihnen in Berlin?
+    - Wie gefällt es Ihnen hier?
+    - Der Pullover gefällt mir gut.
 
 - Id: sich etwas gefallen lassen
   Level: B1
+  Form: lässt sich etwas gefallen, ließ sich etwas gefallen, hat sich etwas gefallen lassen
   Meaning: to put up something
   WikiMeanings: ''
   Examples:
-    - example1
+    - Das würde ich mir nicht gefallen lassen.
 
 - Id: das Gefängnis
   Level: B1
@@ -9145,7 +9150,7 @@
   Meaning: prison
   WikiMeanings: prison, jail; prison sentence
   Examples:
-    - example1
+    - Er wurde zu fünf Jahren Gefängnis verurteilt.
 
 - Id: das Gefühl
   Level: B1
@@ -9153,7 +9158,7 @@
   Meaning: feeling
   WikiMeanings: feeling (either physical sensation or emotion); sense of something, instinct
   Examples:
-    - example1
+    - Ich glaube, ich schaffe die Prüfung. Ich habe ein gutes Gefühl.
 
 - Id: gegen
   Level: A1
@@ -9176,7 +9181,8 @@
   Meaning: opposition, opponent
   WikiMeanings: adversary, opponent, enemy
   Examples:
-    - example1
+    - Sie ist eine Gegnerin von Tierversuchen.
+    - Die Mannschaft aus Frankreich war ein sehr starker Gegner.
 
 - Id: die Gegend
   Level: B1
@@ -9184,7 +9190,8 @@
   Meaning: area, district
   WikiMeanings: area, region
   Examples:
-    - example1
+    - Der Schwarzwald ist eine sehr schöne Gegend.
+    - Die Schule muss hier in der Gegend sein.
 
 - Id: der Gegensatz
   Level: B1
@@ -9192,7 +9199,8 @@
   Meaning: contrast
   WikiMeanings: opposition, antagonism; opposite; conflict, contradiction
   Examples:
-    - example1
+    - Diese beiden Meinungen stehen in starkem Gegensatz zueinander.
+    - Im Gegensatz zu ihm ist sein Vater ziemlich klein.
 
 - Id: der Gegenstand
   Level: B1
@@ -9200,7 +9208,8 @@
   Meaning: object
   WikiMeanings: 'object, item, thing, article; '
   Examples:
-    - example1
+    - Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.
+    - 'Eine Durchsage der Polizei: Auf der A8 liegen Gegenstände auf der Fahrbahn.'
 
 - Id: das Gegenteil
   Level: B1
@@ -9208,22 +9217,27 @@
   Meaning: opposite
   WikiMeanings: opposite (contrary thing)
   Examples:
-    - example1
+    - Das Gegenteil von „klein“ ist „groß“.
+    - Sie ist das genaue Gegenteil von ihrem Bruder.
+    - Du bist sicher müde. - Nein, ganz im Gegenteil!
 
 - Id: gegenüber
   Level: B1
   Meaning: opposite
   WikiMeanings: opposite; to, toward, towards; compared to; vis-à-vis, in dealings with, in dealing with, towards; on the opposite side
   Examples:
-    - example1
+    - Das Geschäft liegt direkt gegenüber der Post.
+    - Dem Gast gegenüber ist das Rauchen nicht höflich.
+    - Das Café liegt gegenüber vom Bahnhof.
 
 - Id: das Gehalt
-  Level: B1
-  Form: -e
+  Level: A2
+  Form: ¨-er
   Meaning: salary
   WikiMeanings: salary; content
   Examples:
-    - example1
+    - Sie ist mit ihrem Gehalt zufrieden.
+    - Ich bin mit meinem Gehalt zufrieden.
 
 - Id: das Geheimnis
   Level: B1
@@ -9231,14 +9245,14 @@
   Meaning: secret
   WikiMeanings: secret
   Examples:
-    - example1
+    - Das kann ich dir nicht sagen. Das ist ein Geheimnis.
 
 - Id: geheim
   Level: B1
   Meaning: secret
   WikiMeanings: secret
   Examples:
-    - example1
+    - Das ist geheim. Du darfst es niemandem sagen.
 
 - Id: gehen
   Level: A1
@@ -9247,7 +9261,7 @@
   WikiMeanings: to go, to walk; to leave; to leave, to take off; to be going; to be all right;; to be possible; to work, to function; to last, to go for, to go on, to be in progress; to sit, to rise, to expand; to be (on); to approach; to be going (on some one)
   Examples:
     - Ich weiß nicht, wie das geht.
-    - Wie geht‘s? - Es geht.
+    - Wie geht's? - Es geht.
     - Jetzt muss ich (aber) leider gehen.
     - Ich muss zum Arzt gehen.
     - Das geht (doch) nicht!
@@ -9272,15 +9286,18 @@
   Meaning: to belong to
   WikiMeanings: to belong to, be the property of; to be a prerequisite for; to be a characteristic of; to belong to, be a part of; to be proper; ought to be
   Examples:
-    - example1
+    - Wem gehört das?
+    - Gehört der Stift dir?
+    - Gehört Ihnen das Haus?
 
 - Id: der Gehsteig
   Level: B1
   Form: -e
+  Synonym: (D, A) = (CH) Trottoir
   Meaning: pavement, sidewalk
   WikiMeanings: pavement; sidewalk
   Examples:
-    - example1
+    - Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt.
 
 - Id: das Geld
   Level: A1
@@ -9296,10 +9313,20 @@
 - Id: der Geldautomat
   Level: B1
   Form: -en
+  Synonym: (D) = (A, CH) Bancomat/Bankomat
   Meaning: cash machine
   WikiMeanings: ATM, automated teller machine
   Examples:
-    - example1
+    - Ich hole noch Geld vom Geldautomaten.
+
+- Id: die Geldbörse
+  Level: A2
+  Form: -n
+  Synonym: (A) = Brieftasche = (D, CH) Portemonnaie/Portmonee
+  Meaning: wallet, purse (G-)
+  Examples:
+    - Sie hat ihre Geldbörse verloren.
+    - Ich habe nur Kleingeld in meiner Geldbörse.
 
 - Id: die Gelegenheit
   Level: B1
@@ -9307,7 +9334,7 @@
   Meaning: opportunity
   WikiMeanings: opportunity, chance, instance, occasion; facility (facilities), accommodation
   Examples:
-    - example1
+    - Das Fest ist eine gute Gelegenheit, unsere Freunde zu sehen.
 
 - Id: gelingen
   Level: B1
@@ -9315,7 +9342,7 @@
   Meaning: to succeed
   WikiMeanings: to succeed
   Examples:
-    - example1
+    - Es ist mir gelungen, meinen Chef zu überzeugen.
 
 - Id: gelten
   Level: B1
@@ -16680,7 +16707,7 @@
   Level: B1
   Form: -s
   Synonym: (D, CH) = Brieftasche, (A) Geldbörse
-  Meaning: wallet
+  Meaning: wallet (P-)
   WikiMeanings: wallet, purse
   Examples:
     - Ich habe nur Kleingeld in meinem Portemonnaie.
