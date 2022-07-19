@@ -441,7 +441,8 @@
     - Du musst die Wunde mit Alkohol reinigen.
     - Nein, danke! Ich trinke keinen Alkohol.
 
-- Id: all-
+- Id: all
+  Form: aller, alle, alles
   Level: A1
   Meaning: all
   WikiMeanings: all
@@ -688,7 +689,7 @@
     - Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.
     - Der Käse ist heute im Angebot.
 
-- Id: ander-
+- Id: anderer
   Level: A1
   Form: anderer, andere, anderes
   Meaning: other, different
@@ -3369,7 +3370,7 @@
   Examples:
     - Besitzt Ihre Frau ein eigenes Auto?
 
-- Id: besonder-
+- Id: besondere
   Level: B1
   Meaning: particular, special (b-)
   WikiMeanings: ''
@@ -3768,7 +3769,7 @@
   Examples:
     - Meine Freundin studiert Biologie.
 
-- Id: Bio-
+- Id: bio-
   Level: B1
   Meaning: organic
   WikiMeanings: ; organic products
@@ -5120,10 +5121,10 @@
     - Als Krankenschwester habe ich oft Frühdienst.
     - Morgen habe ich Dienst. Deshalb kann ich nicht kommen.
 
-- Id: dies-
+- Id: dies
   Level: A1
   Form: dieser, diese, dieses
-  Meaning: this, that
+  Meaning: this
   WikiMeanings: this
   Examples:
     - Ich nehme lieber diesen Kuchen.
@@ -5831,7 +5832,7 @@
   Examples:
     - Hast du es eilig?
 
-- Id: ein-
+- Id: ein
   Level: A1
   Meaning: a
   WikiMeanings: one; the same; a, an; ; on
@@ -5894,7 +5895,7 @@
 
 - Id: einerseits
   Level: B1
-  Meaning: on the other hand
+  Meaning: on the one hand
   WikiMeanings: on the one hand
   Examples:
     - Einerseits möchte ich die Reise gern machen, andererseits ist sie zu teuer.
@@ -5993,7 +5994,7 @@
   Examples:
     - Die Schüler dieser Schule tragen einheitliche Kleidung.
 
-- Id: einig-
+- Id: einig
   Level: A2
   Meaning: several
   WikiMeanings: some, a few, plenty; united; agreed, in agreement
@@ -7106,7 +7107,7 @@
     - Sprich erst mit dem Arzt.
     - Erst hat mir die Arbeit gar nicht gefallen, aber jetzt habe ich mich daran gewöhnt.
 
-- Id: erst-
+- Id: erst
   Level: B1
   Meaning: first
   WikiMeanings: 'first, at first; only; not until, not for, not before; only, as recently as; ; '
@@ -10775,7 +10776,7 @@
     - Frau Müller kommt heute in acht Tagen zurück.
     - Heute kann man sich eine Welt ohne Internet nicht mehr vorstellen.
 
-- Id: heutig-
+- Id: heutig
   Level: B1
   Meaning: today's
   WikiMeanings: today's; contemporary; present-day
@@ -11288,12 +11289,12 @@
   Examples:
     - example1
 
-- Id: inner-
+- Id: inner
   Level: B1
-  Meaning: internal
+  Meaning: internal, inner
   WikiMeanings: inner; within; in the
   Examples:
-    - example1
+    - Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben.
 
 - Id: innerhalb
   Level: B1
