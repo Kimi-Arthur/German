@@ -442,8 +442,8 @@
     - Nein, danke! Ich trinke keinen Alkohol.
 
 - Id: all
-  Form: aller, alle, alles
   Level: A1
+  Form: aller, alle, alles
   Meaning: all
   WikiMeanings: all
   Examples:
@@ -693,7 +693,7 @@
   Level: A1
   Form: anderer, andere, anderes
   Meaning: other, different
-  WikiMeanings: See anderer.; the second
+  WikiMeanings: other, different; second
   Examples:
     - WiIlst du diese Jacke? - Nein, ich möchte die andere.
     - Willst du diesen Mantel? - Nein, ich möchte den anderen.
@@ -3373,7 +3373,7 @@
 - Id: besondere
   Level: B1
   Meaning: particular, special (b-)
-  WikiMeanings: ''
+  WikiMeanings: special, particular, extraordinary
   Examples:
     - Meine Eltern wollten uns mit dieser Reise eine ganz besondere Freude machen.
 
@@ -7106,12 +7106,6 @@
     - Ich habe das erst gestern erfahren.
     - Sprich erst mit dem Arzt.
     - Erst hat mir die Arbeit gar nicht gefallen, aber jetzt habe ich mich daran gewöhnt.
-
-- Id: erst
-  Level: B1
-  Meaning: first
-  WikiMeanings: 'first, at first; only; not until, not for, not before; only, as recently as; ; '
-  Examples:
     - Ich war zum ersten Mal allein im Urlaub.
     - Ich wohne im ersten Stock.
     - An erster Stelle kommt die Schule.
