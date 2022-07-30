@@ -6,7 +6,7 @@
 
 - Id: -ei
   Type: Suffix
-  Meaning: (n. -> nf.) -y; site; country; condition of it
+  Meaning: '(n. -> nf.) -y: site; country; condition of it'
 
 - Id: -eur
   Type: Suffix
@@ -26,11 +26,11 @@
 
 - Id: -li
   Type: Suffix
-  Meaning: (-> nn.) diminutive
+  Meaning: (n. -> nn.) diminutive
 
 - Id: -nis
   Type: Suffix
-  Meaning: (v./adj. -> nn.) -ness; process or product of it
+  Meaning: '(v./adj. -> nn./nf.) -ness: process or product of it'
 
 - Id: -thek
   Type: Suffix
@@ -54,11 +54,11 @@
 
 - Id: -ig
   Type: Suffix
-  Meaning: (-> adj.) -y; like it
+  Meaning: '(-> adj.) -y: like it'
 
 - Id: -ismus
   Type: Suffix
-  Meaning: (n./adj. -> nm.) -ism; state of mind, political direction, mental attitude, individual phenomenon
+  Meaning: '(n./adj. -> nm.) -ism: state of mind, political direction, mental attitude, individual phenomenon'
 
 - Id: -lich
   Type: Suffix
@@ -66,7 +66,7 @@
 
 - Id: -reich
   Type: Suffix
-  Meaning: (n. -> adj.) -rich, -ful; rich in, full of
+  Meaning: '(n. -> adj.) -rich, -ful: rich in, full of'
 
 - Id: -ung
   Type: Suffix
@@ -77,12 +77,12 @@
   Meaning: (v. -> n.) outcome
 
 - Id: -end
-  Type: Unknown
-  Meaning: (v. -> adj.) -ing; present participle
+  Type: Suffix
+  Meaning: '(v. -> adj.) -ing: present participle'
 
 - Id: -fach
   Type: Suffix
-  Meaning: (num. -> adj.) -fold; times
+  Meaning: '(num. -> adj.) -fold: times'
 
 - Id: -halb
   Type: Suffix
@@ -94,7 +94,7 @@
 
 - Id: -ist
   Type: Suffix
-  Meaning: (n. -> nm.) -ist; person who practices it; person who adheres to doctrine
+  Meaning: '(n. -> nm.) -ist: person who practices it; person who adheres to doctrine'
 
 - Id: -ling
   Type: Suffix
@@ -102,79 +102,83 @@
 
 - Id: -sam
   Type: Suffix
-  Meaning: (v./n./adj. -> adj.) similarity or the possession of a quality.
+  Meaning: (-> adj.) similarity or the possession of a quality.
 
 - Id: -voll
   Type: Suffix
-  Meaning: ; -ful
+  Meaning: '(n. -> adj.) -ful: full of'
 
 - Id: -bar
   Type: Suffix
-  Meaning: -able, -ible
+  Meaning: '(v. -> adj.) -able, -ible: can be done; can do; suitable'
 
 - Id: -ent
-  Type: Unknown
+  Type: Suffix
+  Meaning: (v. -> nm./nn.) person or thing that carries it out, mostly for Latin/Romance words
 
 - Id: -fon
   Type: Noun
-  Meaning: phone
+  Meaning: (-> nn.) phone
 
 - Id: -heit
   Type: Suffix
-  Meaning: -ness, -th, -ty (adj. -> n.)
+  Meaning: '(adj. -> nf.) -ness, -th, -ty: condition, quality, property; (n. -> nf.) from concrete to abstract'
 
 - Id: -ik
-  Type: Unknown
-  Meaning: forms feminine nouns referring to fields of study
+  Type: Suffix
+  Meaning: (-> nf.) field of study; property, quality, characteristics
 
 - Id: -keit
-  Type: Unknown
+  Type: Suffix
+  Meaning: '(adj. -> nf.) -ness, -th, -ty: condition, quality, property; (n. -> nf.) from concrete to abstract'
 
 - Id: -logie
   Type: Suffix
-  Meaning: -logy
+  Meaning: '(-> nf.) -logy: branch of learning, study of particular subject; speech, way of speaking'
 
 - Id: -schaft
   Type: Suffix
-  Meaning: -ship, -hood
+  Meaning: '(n./adj. -> nf.) -ship, -hood: group of people; result of action; condition'
 
 - Id: -weise
-  Type: Unknown
-  Meaning: -wise (n./adj. -> adv.)
+  Type: Suffix
+  Meaning: '(n./adj. -> adv.) -wise: in certain way; in certain quantity'
 
 - Id: -chen
   Type: Suffix
-  Meaning: nowadays the most common suffix to create a diminutive form
+  Meaning: (n. -> nn.) diminutive
 
 - Id: -er
   Type: Suffix
-  Meaning: Forms agent nouns etc. from verbs, suffixed to the verb stem.
+  Meaning: '(-> nm.) -er: person who does it; inhabitant;'
 
 - Id: -grafie
-  Type: Unknown
+  Type: Suffix
+  Meaning: '(-> nf.) -graphy: field of study'
 
 - Id: -iell
-  Type: Unknown
+  Type: Suffix
+  Meaning: (n. -> adj.) affliation to
 
 - Id: -in
   Type: Suffix
-  Meaning: creates the female form for many nouns for living beings; umlaut usually occurs in monosyllables, but rarely in polysyllables
+  Meaning: (n. -> nf.) female
 
 - Id: -ler
   Type: Suffix
-  Meaning: used to create agent nouns, similar to
+  Meaning: '(-> nm.) -er: person who does it'
 
 - Id: -los
   Type: Suffix
-  Meaning: -less
+  Meaning: '(n. -> adj.) -less: lacking, without'
 
 - Id: -seits
   Type: Suffix
-  Meaning: on the side of, from the side of
+  Meaning: (-> adj.) on the side of, from the side of
 
 - Id: -wärts
   Type: Suffix
-  Meaning: -wards. Forms adverbs denoting course or direction to, or motion or tendency toward. The adverbs are formed either from a noun or from a preposition.
+  Meaning: '(n./prep. -> adv.) -wards: course or direction to, motion or tendency toward'
 
 - Id: Schwieger-
   Type: Unknown
