@@ -7878,7 +7878,7 @@
 
 - Id: fett
   Level: A2
-  Meaning: fat
+  Meaning: fat, containing a lot of fat
   WikiMeanings: fat; rich, containing a lot of fat; bold; awesome, phat
   Examples:
     - Die Wurst ist mir zu fett.
@@ -7887,7 +7887,7 @@
 - Id: das Fett
   Level: B1
   Form: -e
-  Meaning: fat
+  Meaning: fat, grease
   WikiMeanings: fat, grease; lipid
   Examples:
     - Man soll nicht so viel Fett essen.
@@ -7920,7 +7920,7 @@
 - Id: die Feuerwehr
   Level: B1
   Form: -en
-  Meaning: fire brigade
+  Meaning: fire brigade, fire department
   WikiMeanings: fire brigade; fire department
   Examples:
     - 'Schnell! Rufen Sie die Feuerwehr! Die Nummer ist: 112.'
@@ -7938,7 +7938,7 @@
 - Id: die Figur
   Level: B1
   Form: -en
-  Meaning: figure
+  Meaning: figure, character
   WikiMeanings: figure, figurine; character; piece; figure; figure
   Examples:
     - Lars hat eine gute Figur.
@@ -7956,7 +7956,7 @@
 - Id: finanzieren
   Level: B1
   Form: finanziert, finanzierte, hat finanziert
-  Meaning: to finance, be financed
+  Meaning: to finance, to be financed
   WikiMeanings: to pay for, to finance, to fund
   Examples:
     - Ich weiß nicht, wie ich das Auto finanzieren soll.
@@ -7992,7 +7992,7 @@
 - Id: die Firma
   Level: A1
   Form: Firmen
-  Meaning: firm
+  Meaning: company, firm
   WikiMeanings: A company, a business.; A firm, the name under which a company operates, as opposed to the actual legal entity.
   Examples:
     - Er arbeitet jetzt bei einer anderen Firma.
@@ -8066,6 +8066,9 @@
 - Id: der Fleischhauer
   Level: B1
   Form: '-'
+  Feminine:
+      Id: die Fleischhauerin
+      Form: -nen
   Synonym: (CH) = (D, A) Metzger
   Meaning: butcher
   WikiMeanings: butcher&#39;s [shop  Brit ]
@@ -8299,7 +8302,7 @@
 - Id: das Formular
   Level: A1
   Form: -e
-  Meaning: form (document)
+  Meaning: form (document to be filled)
   WikiMeanings: form (document to be filled)
   Examples:
     - Sie müssen dieses Formular ausfüllen.
@@ -8381,6 +8384,9 @@
 - Id: der Fotograf
   Level: B1
   Form: -en
+  Feminine:
+      Id: die Fotografin
+      Form: -nen
   Meaning: photographer
   WikiMeanings: photographer
   Examples:
@@ -8431,7 +8437,7 @@
 
 - Id: frech
   Level: B1
-  Meaning: cheeky
+  Meaning: cheeky, rude
   WikiMeanings: cheeky, barefaced, rude, saucy; naughty
   Examples:
     - Du darfst in der Schule nicht so frech sein.
