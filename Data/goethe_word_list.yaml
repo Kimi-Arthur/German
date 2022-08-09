@@ -8066,10 +8066,10 @@
 - Id: der Fleischhauer
   Level: B1
   Form: '-'
-  Feminine:
-      Id: die Fleischhauerin
-      Form: -nen
   Synonym: (CH) = (D, A) Metzger
+  Feminine:
+    Id: die Fleischhauerin
+    Form: -nen
   Meaning: butcher
   WikiMeanings: butcher&#39;s [shop  Brit ]
   Examples:
@@ -8385,8 +8385,8 @@
   Level: B1
   Form: -en
   Feminine:
-      Id: die Fotografin
-      Form: -nen
+    Id: die Fotografin
+    Form: -nen
   Meaning: photographer
   WikiMeanings: photographer
   Examples:
