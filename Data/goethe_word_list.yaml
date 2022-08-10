@@ -545,8 +545,7 @@
   Examples:
     - 'Also, es ist so: ...'
     - Er hat Zeit, also muss er uns helfen.
-    - 'Also, die Sache ist so: …'
-    - Er hat Zeit, also kann er uns helfen.
+    - 'Also, die Sache ist so: ...'
     - Irina hat Urlaub. Sie kann uns also helfen.
     - Also wirklich, jetzt reicht es.
 
@@ -2962,7 +2961,7 @@
     - Kannst du mir ein Beispiel sagen?
     - Können Sie mir ein Beispiel sagen?
     - Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.
-    - "Hier gibt's so viele Sachen: beispielsweise Wurst, Obst, Brot …"
+    - "Hier gibt's so viele Sachen: beispielsweise Wurst, Obst, Brot ..."
 
 - Id: zum Beispiel
   Level: A1
@@ -3687,7 +3686,7 @@
   Abbreviation:
     Id: bzw.
   Meaning: and ... respectively; that is
-  WikiMeanings: or, also; or rather; more precisely; and…respectively
+  WikiMeanings: or, also; or rather; more precisely; and...respectively
   Examples:
     - Zwei Briefmarken, die 25 beziehungsweise 55 Cent kosten.
 
@@ -7838,7 +7837,7 @@
   Level: B1
   Form: legt fest, legte fest, hat festgelegt
   Meaning: to set, to determine
-  WikiMeanings: to set, to determine; to commit oneself to… (sich auf … festlegen )
+  WikiMeanings: to set, to determine; to commit oneself to... (sich auf ... festlegen )
   Examples:
     - Ich weiß noch nicht, ob ich das mache. Ich möchte mich noch nicht festlegen.
     - Habt ihr den Hochzeitstermin schon festgelegt?
@@ -8248,7 +8247,7 @@
   WikiMeanings: following, subsequent
   Examples:
     - Mehr Informationen auf den folgenden Seiten.
-    - 'Das Geschäft hat folgende Angebote: …'
+    - 'Das Geschäft hat folgende Angebote: ...'
 
 - Id: die Folie
   Level: B1
@@ -14412,7 +14411,7 @@
   Meaning: opinion
   WikiMeanings: opinion
   Examples:
-    - 'Meine Meinung zu dem Thema ist: …'
+    - 'Meine Meinung zu dem Thema ist: ...'
     - Was ist deine Meinung dazu?
     - Ich habe meine Meinung geändert.
     - Ich bin der Meinung, dass du recht hast.
@@ -15782,7 +15781,7 @@
 - Id: nun
   Level: B1
   Meaning: now
-  WikiMeanings: now, at this moment; now, then;; ; now, well, so; now that, given that it has occurred that the circumstances do not withstand that …
+  WikiMeanings: now, at this moment; now, then;; ; now, well, so; now that, given that it has occurred that the circumstances do not withstand that ...
   Examples:
     - example1
 
