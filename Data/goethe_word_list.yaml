@@ -9006,7 +9006,7 @@
 - Id: das Gebirge
   Level: B1
   Form: '-'
-  Meaning: mountains
+  Meaning: a group of mountains
   WikiMeanings: a group of mountains, mountain range, mountains; geographical area containing mountains
   Examples:
     - Wir haben unseren Urlaub im Gebirge verbracht.
@@ -9351,14 +9351,16 @@
   Meaning: to be valid
   WikiMeanings: to be valid; to count; to hold true; to be effective; to be in force; to be worth; to be for/of (+ dative); to be regarded (as something); to pass (for something); to be necessary; to pass; to go; (Often translated with as a unit into , , , , etc.)
   Examples:
-    - example1
+    - Mein Pass gilt noch ein Jahr.
+    - 'Bitte diesen Zettel gut aufheben: Er gilt als Garantie.'
 
 - Id: gemeinsam
   Level: B1
   Meaning: together
   WikiMeanings: common, mutual, shared; together, jointly
   Examples:
-    - example1
+    - Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.
+    - Wir benutzen die Garage gemeinsam mit dem Nachbarn.
 
 - Id: die Gemeinschaft
   Level: B1
@@ -9366,7 +9368,7 @@
   Meaning: community
   WikiMeanings: community, collective, syndicate, consortium
   Examples:
-    - example1
+    - Rauchen ist in den Gemeinschafts-räumen nicht erlaubt.
 
 - Id: das Gemüse
   Level: A1
@@ -9374,14 +9376,17 @@
   Meaning: vegetables
   WikiMeanings: vegetable; vegetables; a seasoned vegetable-based side dish, such as a relish (not necessarily pickled and not usually in the form of a paste)
   Examples:
-    - example1
+    - Gemüse brauchen wir auch noch.
+    - Wir kaufen das Gemüse immer auf dem Markt.
+    - Tomaten sind mein Lieblingsgemüse.
 
 - Id: gemütlich
   Level: B1
   Meaning: cosy
   WikiMeanings: cosy, gemütlich
   Examples:
-    - example1
+    - Wir haben eine sehr gemütliche Wohnung.
+    - Es ist sehr gemütlich bei dir.
 
 - Id: genau
   Level: A2
@@ -9407,7 +9412,7 @@
   Meaning: to approve, authorise
   WikiMeanings: to permit, to sanction, to approve
   Examples:
-    - example1
+    - Mein Chef hat mir sechs Wochen Urlaub genehmigt.
 
 - Id: die Generation
   Level: B1
@@ -9415,7 +9420,7 @@
   Meaning: generation
   WikiMeanings: generation
   Examples:
-    - example1
+    - In diesem Haus wohnen drei Generationen zusammen.
 
 - Id: genießen
   Level: B1
@@ -9423,7 +9428,8 @@
   Meaning: to taste, enjoy
   WikiMeanings: to enjoy (an experience); to relish; to savor; to have (food or beverage), to eat, to drink; to receive; to have
   Examples:
-    - example1
+    - Er kann das Essen leider nicht genießen, weil es zu scharf ist.
+    - Sie hat eine gute Ausbildung genossen.
 
 - Id: genug
   Level: A2
@@ -9440,7 +9446,7 @@
   Meaning: to be enough
   WikiMeanings: to suffice, to do enough, to be enough
   Examples:
-    - example1
+    - 'Wie viele Zimmer brauchen Sie? - Mir genügt eine 2-Zimmer-Wohnung.'
 
 - Id: das Gepäck
   Level: A1
@@ -9448,21 +9454,28 @@
   Meaning: luggage, baggage
   WikiMeanings: luggage, baggage
   Examples:
-    - example1
+    - Wollen Sie Ihr Gepäck mitnehmen?
+    - Sie können Ihr Gepäck auch im Hotel lassen.
+    - Ich habe mein Gepäck am Bahnhof gelassen.
 
 - Id: gerade
   Level: A1
   Meaning: straight
   WikiMeanings: even; now, at the moment; just, a short while ago; just, only, not more than; exactly; expresses the continuous aspect; straight
   Examples:
-    - example1
+    - Da kommt er ja gerade.
+    - Kannst du später anrufen? Wir essen gerade.
+    - Was machst du gerade?
+    - Das Bild hängt nicht gerade.
+    - Kannst du später noch mal anrufen? Wir sind gerade beim Essen.
 
 - Id: geradeaus
-  Level: B1
+  Level: A1
   Meaning: straight ahead
   WikiMeanings: straight ahead, straightforward (in a forward direction)
   Examples:
-    - example1
+    - Gehen Sie immer geradeaus!
+    - Fahren Sie geradeaus bis zur nächsten Kreuzung.
 
 - Id: das Gerät
   Level: A2
@@ -9478,15 +9491,16 @@
   Meaning: just, fair
   WikiMeanings: just, fair
   Examples:
-    - example1
+    - Lass uns den Kuchen gerecht verteilen.
 
 - Id: das Gericht
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: court; meal
   WikiMeanings: court (of justice); judgement; dish (type of prepared food)
   Examples:
-    - example1
+    - Ich habe heute Vormittag einen Termin beim Gericht.
+    - Mein Lieblingsgericht ist Pizza.
 
 - Id: gering
   Level: B1
@@ -9511,7 +9525,8 @@
   Meaning: whole
   WikiMeanings: total, whole, entire, overall, big
   Examples:
-    - example1
+    - Ich habe meine gesamten Bücher verschenkt.
+    - Gesamtgewicht, Gesamtsumme
 
 - Id: das Geschäft
   Level: A1
@@ -9519,7 +9534,8 @@
   Meaning: business, shop
   WikiMeanings: shop; store; business; business activity; transaction
   Examples:
-    - example1
+    - Die Geschäfte schließen um 18.30 Uhr.
+    - Wissen Sie, wo hier ein Schuhgeschäft ist?
 
 - Id: geschehen
   Level: B1
@@ -9527,7 +9543,7 @@
   Meaning: to happen
   WikiMeanings: to occur; to happen; to happen to (someone); to serve (someone) right
   Examples:
-    - example1
+    - 'Vielen Dank für Ihre Hilfe. - Gern geschehen.'
 
 - Id: das Geschenk
   Level: A1
@@ -9535,15 +9551,19 @@
   Meaning: present, gift
   WikiMeanings: present, gift
   Examples:
-    - example1
+    - Danke für das schöne Geschenk.
+    - Vielen Dank für das Geschenk.
 
 - Id: die Geschichte
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: history
   WikiMeanings: history; story
   Examples:
-    - example1
+    - Erzählst du mir eine Geschichte?
+    - Ich interessiere mich nicht für Geschichte.
+    - Paul hat gute Noten in Geschichte.
+    - Abends erzähle ich meinen Kindern immer eine Geschichte.
 
 - Id: das Geschirr
   Level: A2
@@ -9560,7 +9580,7 @@
   Meaning: sex, gender
   WikiMeanings: sex; gender; gender; sex organ; genus, type, race; lineage, generation, family; dynasty, house
   Examples:
-    - example1
+    - 'Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“.'
 
 - Id: der Geschmack
   Level: B1
@@ -9568,7 +9588,7 @@
   Meaning: taste
   WikiMeanings: taste; flavour; smell, odor
   Examples:
-    - example1
+    - Ich möchte bitte Kaugummi mit Erdbeergeschmack.
 
 - Id: die Geschwindigkeit
   Level: B1
@@ -9576,7 +9596,7 @@
   Meaning: speed
   WikiMeanings: speed, pace, tempo, velocity, rate
   Examples:
-    - example1
+    - Das Auto fuhr mit zu hoher Geschwindigkeit.
 
 - Id: die Geschwindigkeitsbeschränkung
   Level: B1
@@ -9584,12 +9604,12 @@
   Meaning: speed limit
   WikiMeanings: speed limit
   Examples:
-    - example1
+    - Bitte beachten Sie die Geschwindigkeitsbeschränkungen.
 
 - Id: das Geschwister
   Level: A1
-  Form: '- (Pl.)'
-  Meaning: siblings
+  Form: '-'
+  Meaning: sibling
   WikiMeanings: sibling
   Examples:
     - Ich habe leider keine Geschwister.
@@ -9601,7 +9621,9 @@
   Meaning: society
   WikiMeanings: society, community; circle (of friends, people with common interests); company
   Examples:
-    - example1
+    - Er will die Gesellschaft verändern.
+    - Meine Frau arbeitet bei einer Versicherungsgesellschaft.
+    - Ich fühle mich in großer Gesellschaft wohl.
 
 - Id: das Gesetz
   Level: B1
@@ -9609,15 +9631,17 @@
   Meaning: law
   WikiMeanings: law, legal act, bill, statute
   Examples:
-    - example1
+    - Das Parlament hat ein neues Gesetz beschlossen.
 
 - Id: das Gesicht
-  Level: B1
+  Level: A2
   Form: -er
   Meaning: face
   WikiMeanings: the face; a facial expression, a look; that which is outward or in front; honour, reputation; a vision, sight; an extraordinary or supernatural phenomenon that is seen; sight, vision; the ability to see
   Examples:
-    - example1
+    - Wasch dir bitte das Gesicht.
+    - Sie hat ein freundliches Gesicht.
+    - Mach doch kein so trauriges Gesicht!
 
 - Id: gespannt
   Level: B1
