@@ -9446,7 +9446,7 @@
   Meaning: to be enough
   WikiMeanings: to suffice, to do enough, to be enough
   Examples:
-    - 'Wie viele Zimmer brauchen Sie? - Mir genügt eine 2-Zimmer-Wohnung.'
+    - Wie viele Zimmer brauchen Sie? - Mir genügt eine 2-Zimmer-Wohnung.
 
 - Id: das Gepäck
   Level: A1
@@ -9543,7 +9543,7 @@
   Meaning: to happen
   WikiMeanings: to occur; to happen; to happen to (someone); to serve (someone) right
   Examples:
-    - 'Vielen Dank für Ihre Hilfe. - Gern geschehen.'
+    - Vielen Dank für Ihre Hilfe. - Gern geschehen.
 
 - Id: das Geschenk
   Level: A1
@@ -9703,7 +9703,7 @@
   Meaning: violence
   WikiMeanings: strong or violent force; violence; physical control or power; authority; legally established control or power
   Examples:
-    -  Ich mag keine Filme, in denen Gewalt vorkommt.
+    - Ich mag keine Filme, in denen Gewalt vorkommt.
     - Die Tür ließ sich nur mit Gewalt öffnen.
 
 - Id: die Gewerkschaft
@@ -9721,7 +9721,7 @@
   WikiMeanings: weight; importance
   Examples:
     - 'Bei „Gewicht“ schreibst du: 62 Kilo.'
-    - 'Wie teuer ist das Päckchen? - Das hängt vom Gewicht ab.'
+    - Wie teuer ist das Päckchen? - Das hängt vom Gewicht ab.
     - Sie dürfen Gepäck bis zu einem Gewicht von 15 kg mitnehmen.
 
 - Id: gewinnen
@@ -9741,7 +9741,7 @@
   Meaning: prize, profit
   WikiMeanings: profit, gain, yield; winnings, prize
   Examples:
-    - 'Ich habe bei einem Ratespiel mitge - macht. Der Hauptgewinn ist ein Auto.'
+    - Ich habe bei einem Ratespiel mitge - macht. Der Hauptgewinn ist ein Auto.
 
 - Id: das Gewissen
   Level: B1
@@ -9837,6 +9837,7 @@
   Form: -n
   Synonym: (CH) = (D, A) Eis
   Meaning: ice cream (G-)
+  WikiMeanings: ice cream
   Examples:
     - Zum Dessert gibt es Schokoladenglace.
 
@@ -9888,7 +9889,7 @@
   Meaning: likewise
   WikiMeanings: likewise
   Examples:
-    - 'Schöne Feiertage! - Danke, gleichfalls.'
+    - Schöne Feiertage! - Danke, gleichfalls.
 
 - Id: gleichberechtigt
   Level: B1
@@ -20331,6 +20332,7 @@
 - Id: gestorben
   Level: A1
   Meaning: deceased (no longer alive)
+  WikiMeanings: deceased (no longer alive)
   Examples:
     - Meine Frau ist gestern gestorben.
 
