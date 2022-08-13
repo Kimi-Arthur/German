@@ -265,6 +265,7 @@
     - das Gemüse
     - das Gepäck
     - gerade
+    - geradeaus
     - gern
     - das Geschäft
     - das Geschenk
@@ -544,6 +545,7 @@
     - stehen
     - die Stelle
     - stellen
+    - gestorben
     - der Stock
     - die Straße
     - studieren
@@ -1083,18 +1085,24 @@
     - genug
     - das Gepäck
     - gerade
+    - geradeaus
     - das Gerät
+    - das Gericht
     - gern
     - das Geschäft
     - das Geschenk
+    - die Geschichte
     - das Geschirr
     - das Geschwister
+    - das Gesicht
     - das Gespräch
     - gestern
+    - gesund
     - die Gesundheit
     - das Getränk
     - das Gewicht
     - gewinnen
+    - das Gewitter
     - die Gitarre
     - das Glas
     - glauben
@@ -1447,6 +1455,8 @@
     - stehen
     - die Stelle
     - stellen
+    - sterben
+    - gestorben
     - der Stift
     - der Stock
     - die Straße
@@ -2664,7 +2674,6 @@
     - das Gespräch
     - gestern
     - gesund
-    - gesundheit
     - die Gesundheit
     - das Getränk
     - die Gewalt
@@ -2683,6 +2692,7 @@
     - das Gift
     - giftig
     - die Gitarre
+    - die Glace
     - das Glas
     - glatt
     - glauben
@@ -2696,7 +2706,7 @@
     - glücklich
     - der Glückwunsch
     - das Gold
-    - Golf
+    - der Golf
     - googeln
     - der Gott
     - die Grafik
@@ -3943,6 +3953,7 @@
     - stellen
     - der Stempel
     - sterben
+    - gestorben
     - der Stern
     - die Steuer
     - der Steward
