@@ -9648,7 +9648,7 @@
   Meaning: tense, strained, curious, eager
   WikiMeanings: curious, excited; tense
   Examples:
-    - example1
+    - Ich bin gespannt, wer bei diesem Spiel gewinnt.
 
 - Id: das Gespräch
   Level: A1
@@ -9671,19 +9671,12 @@
     - Ich bin erst gestern zurückgekommen.
 
 - Id: gesund
-  Level: B1
+  Level: A2
   Meaning: healthy
   WikiMeanings: healthy; healthy
   Examples:
-    - example1
-
-- Id: gesundheit
-  Level: B1
-  Form: <gesundheit>
-  Meaning: health, bless you (after sneezing)
-  WikiMeanings: health
-  Examples:
-    - example1
+    - Ich hatte Grippe. Jetzt bin ich wieder gesund.
+    - Zu viel Zucker ist nicht gesund.
 
 - Id: die Gesundheit
   Level: A2
@@ -9700,7 +9693,9 @@
   Meaning: drink
   WikiMeanings: drink, beverage
   Examples:
-    - example1
+    - Mein Lieblingsgetränk ist Tomatensaft.
+    - Die Getränkekarte, bitte!
+    - Besorgst du bitte die Getränke?
 
 - Id: die Gewalt
   Level: B1
@@ -9708,15 +9703,16 @@
   Meaning: violence
   WikiMeanings: strong or violent force; violence; physical control or power; authority; legally established control or power
   Examples:
-    - example1
+    -  Ich mag keine Filme, in denen Gewalt vorkommt.
+    - Die Tür ließ sich nur mit Gewalt öffnen.
 
 - Id: die Gewerkschaft
   Level: B1
   Form: -en
-  Meaning: union
+  Meaning: labor union
   WikiMeanings: labor union, trade union
   Examples:
-    - example1
+    - Die Gewerkschaft vertritt die Interessen der Arbeitnehmer.
 
 - Id: das Gewicht
   Level: A1
@@ -9724,7 +9720,9 @@
   Meaning: weight
   WikiMeanings: weight; importance
   Examples:
-    - example1
+    - 'Bei „Gewicht“ schreibst du: 62 Kilo.'
+    - 'Wie teuer ist das Päckchen? - Das hängt vom Gewicht ab.'
+    - Sie dürfen Gepäck bis zu einem Gewicht von 15 kg mitnehmen.
 
 - Id: gewinnen
   Level: A1
@@ -9732,7 +9730,10 @@
   Meaning: to win
   WikiMeanings: to win; to be victorious; to win something; to gain; to win over; to persuade; to win or extract a resource
   Examples:
-    - example1
+    - Wer gewinnt das Spiel?
+    - Unsere Mannschaft hat gewonnen.
+    - Mein Sohn will bei diesem Spiel immer gewinnen.
+    - Ich möchte so gern einmal im Lotto gewinnen.
 
 - Id: der Gewinn
   Level: B1
@@ -9740,7 +9741,7 @@
   Meaning: prize, profit
   WikiMeanings: profit, gain, yield; winnings, prize
   Examples:
-    - example1
+    - 'Ich habe bei einem Ratespiel mitge - macht. Der Hauptgewinn ist ein Auto.'
 
 - Id: das Gewissen
   Level: B1
@@ -9748,15 +9749,16 @@
   Meaning: conscience
   WikiMeanings: conscience
   Examples:
-    - example1
+    - Ich habe deinen Geburtstag vergessen. Ich habe ein ganz schlechtes Gewissen.
 
 - Id: das Gewitter
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: thunderstorm
   WikiMeanings: thunderstorm, lightning storm
   Examples:
-    - example1
+    - Ich glaube, es gibt heute ein Gewitter.
+    - Es wird gleich ein Gewitter geben.
 
 - Id: gewöhnen
   Level: B1
@@ -9764,7 +9766,8 @@
   Meaning: to accustom, get used to
   WikiMeanings: to get used to; to accustom oneself to; to adapt to
   Examples:
-    - example1
+    - Wir haben uns an das Leben hier gewöhnt.
+    - Ich bin daran gewöhnt, früh aufzustehen.
 
 - Id: die Gewohnheit
   Level: B1
@@ -9772,21 +9775,22 @@
   Meaning: habit
   WikiMeanings: habit
   Examples:
-    - example1
+    - Er hat die Gewohnheit, morgens zuerst die Post zu erledigen.
+    - Aus alter Gewohnheit treffen wir uns jeden Samstagabend.
 
 - Id: gewohnt
   Level: B1
-  Meaning: usual, used to
+  Meaning: used to
   WikiMeanings: usual, customary; familiar, accustomed; wont
   Examples:
-    - example1
+    - Ich bin gewohnt, früh ins Bett zu gehen.
 
 - Id: gewöhnlich
   Level: B1
-  Meaning: usual, ordinary, common
+  Meaning: usually
   WikiMeanings: usual, normal, ordinary; usually
   Examples:
-    - example1
+    - Um die Zeit ist er gewöhnlich zu Hause.
 
 - Id: das Gewürz
   Level: B1
@@ -9794,7 +9798,7 @@
   Meaning: spice
   WikiMeanings: spice, condiment, seasoning
   Examples:
-    - example1
+    - Von den scharfen Gewürzen bekommt man Durst.
 
 - Id: gießen
   Level: B1
@@ -9802,7 +9806,7 @@
   Meaning: to water
   WikiMeanings: to pour;; to pour; to cast; to found; to water; to pour down; to rain strongly
   Examples:
-    - example1
+    - Es hat nicht geregnet. Ich muss meine Blumen gießen.
 
 - Id: das Gift
   Level: B1
@@ -9810,14 +9814,14 @@
   Meaning: poison
   WikiMeanings: poison; toxin; venom; gift; something given
   Examples:
-    - example1
+    - Vorsicht, das Gift dieser Pflanze ist für Menschen gefährlich!
 
 - Id: giftig
   Level: B1
   Meaning: poisonous
   WikiMeanings: poisonous; venomously
   Examples:
-    - example1
+    - Vorsicht, das ist giftig!
 
 - Id: die Gitarre
   Level: A2
@@ -9827,6 +9831,14 @@
   Examples:
     - Er kann gut Gitarre spielen.
     - Ich spiele seit drei Jahren Gitarre.
+
+- Id: die Glace
+  Level: B1
+  Form: -n
+  Synonym: (CH) = (D, A) Eis
+  Meaning: ice cream (G-)
+  Examples:
+    - Zum Dessert gibt es Schokoladenglace.
 
 - Id: das Glas
   Level: A1
@@ -9845,7 +9857,7 @@
   Meaning: smooth; slippery
   WikiMeanings: 'without roughness or unevenness: smooth; sleek, slick; even; clean (of a shave or cut); straight (of hair); slippery (from e.g. ice, but not from grease); smooth; clear, unequivocal; smooth; smooth; smoothbore; funny'
   Examples:
-    - example1
+    - Fahr vorsichtig! Es ist glatt.
 
 - Id: glauben
   Level: A1
@@ -9853,35 +9865,44 @@
   Meaning: to believe
   WikiMeanings: to believe something; to believe in; to believe someone; to think, to believe
   Examples:
-    - example1
+    - Sie können mir glauben, es ist so.
+    - Ich glaube, er kommt gleich.
+    - Ich glaube, der Chef ist heute nicht im Büro.
+    - Er glaubt mir nicht, dass ich schon um 8 Uhr hier war.
+    - Glaubst du an Zufälle?
 
 - Id: gleich
   Level: A1
   Meaning: equal, identical, the same
   WikiMeanings: equal; same; very similar; same; identical; alike; in a moment; at once, at a time, simultaneously; right; just; directly; now; immediately; straight away
   Examples:
-    - example1
+    - Das ist mir gleich.
+    - Das ist der gleiche Preis.
+    - Ich komme gleich.
+    - Wir sind gleich alt.
+    - Es ist mir ganz gleich, was Sie von mir denken.
+    - Wir haben das gleiche Hemd an.
 
 - Id: gleichfalls
   Level: B1
   Meaning: likewise
   WikiMeanings: likewise
   Examples:
-    - example1
+    - 'Schöne Feiertage! - Danke, gleichfalls.'
 
 - Id: gleichberechtigt
   Level: B1
   Meaning: with equal rights
   WikiMeanings: having equal rights
   Examples:
-    - example1
+    - Mann und Frau sind gleichberechtigt.
 
 - Id: gleichzeitig
   Level: B1
   Meaning: at the same time
   WikiMeanings: simultaneous, concurrent, coincident, concomitant; simultaneously
   Examples:
-    - example1
+    - Ich kann nicht alles gleichzeitig machen.
 
 - Id: das Gleis
   Level: A1
@@ -9889,7 +9910,8 @@
   Meaning: platform
   WikiMeanings: railway; (individual) track
   Examples:
-    - example1
+    - Der ICE nach Berlin hält heute an Gleis 12.
+    - Der Zug fährt heute von Gleis 7 ab.
 
 - Id: global
   Level: B1
@@ -9934,15 +9956,15 @@
   Meaning: gold
   WikiMeanings: gold (chemical element, Au)
   Examples:
-    - example1
+    - Ist der Ring aus Gold? Nein, der sieht nur so aus.
 
-- Id: Golf
+- Id: der Golf
   Level: B1
   Form: -e
   Meaning: golf
   WikiMeanings: bay, gulf; golf; , the most popular car in Germany throughout the 1980s and 1990s
   Examples:
-    - example1
+    - Kannst du Golf spielen?
 
 - Id: googeln
   Level: B1
@@ -20299,12 +20321,18 @@
     - example1
 
 - Id: sterben
-  Level: B1
+  Level: A2
   Form: stirbt, starb, ist gestorben
   Meaning: to die
   WikiMeanings: to die; to die a (particular kind of) death
   Examples:
-    - example1
+    - Herr Müller kommt heute nicht. Sein Vater ist gestern gestorben.
+
+- Id: gestorben
+  Level: A1
+  Meaning: deceased (no longer alive)
+  Examples:
+    - Meine Frau ist gestern gestorben.
 
 - Id: der Stern
   Level: B1
