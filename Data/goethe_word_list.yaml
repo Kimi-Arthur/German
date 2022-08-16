@@ -9982,7 +9982,15 @@
   Meaning: god
   WikiMeanings: god; God
   Examples:
-    - example1
+    - Glaubst du an Gott?
+    - Gott sei Dank ist ihm nichts passiert.
+
+- Id: der Grad
+  Level: A1
+  Form: -e (- for measuring unit)
+  Meaning: degree
+  Examples:
+    - Heute haben wir dreißig Grad.
 
 - Id: die Grafik
   Level: B1
@@ -9990,7 +9998,7 @@
   Meaning: graph
   WikiMeanings: graph; chart, diagram, graphic
   Examples:
-    - example1
+    - Die Grafik zeigt die Temperaturen im letzten Jahr.
 
 - Id: das Gras
   Level: B1
@@ -9998,7 +10006,7 @@
   Meaning: grass
   WikiMeanings: grass; weed, marijuana
   Examples:
-    - example1
+    - Wir lagen den ganzen Tag im Gras.
 
 - Id: gratulieren
   Level: A1
@@ -10006,7 +10014,8 @@
   Meaning: to congratulate
   WikiMeanings: to congratulate
   Examples:
-    - example1
+    - Ich gratuliere dir!
+    - Ich gratuliere euch zur Geburt eurer Tochter.
 
 - Id: die Gratulation
   Level: B1
@@ -10014,14 +10023,14 @@
   Meaning: congratulations (singular)
   WikiMeanings: congratulation
   Examples:
-    - example1
+    - Herzliche Gratulation! Sie haben gewonnen!
 
 - Id: gratis
   Level: B1
-  Meaning: free
+  Meaning: free, without charge (g-)
   WikiMeanings: free, without charge
   Examples:
-    - example1
+    - Diese Reparatur kostet Sie gar nichts, wir machen das gratis für Sie.
 
 - Id: greifen
   Level: B1
@@ -10029,7 +10038,7 @@
   Meaning: to grasp, seize, grab
   WikiMeanings: to grab; to grasp; to grip (something); to grab; to seize; to snatch (in an aggressive way); to reach; to grab; to capture (someone); to strike; to take hold; to bite
   Examples:
-    - example1
+    - Greifen Sie doch zu!
 
 - Id: die Grenze
   Level: B1
@@ -10037,15 +10046,23 @@
   Meaning: border
   WikiMeanings: border; limit; frontier; boundary
   Examples:
-    - example1
+    - An der Grenze musst du deinen Ausweis zeigen.
 
 - Id: grillen
   Level: A1
   Form: grillt, grillte, hat gegrillt
-  Meaning: to grill (BBQ)
+  Synonym: (D, A) = (CH) grillieren
+  Meaning: to grill
   WikiMeanings: to grill
   Examples:
-    - example1
+    - Heute grillen wir im Garten.
+    - Heute wollen wir im Garten grillen.
+
+- Id: grillieren
+  Level: B1
+  Meaning: to grill (CH)
+  Examples:
+    - Heute wollen wir im Garten grillieren.
 
 - Id: der Grill
   Level: B1
@@ -10053,15 +10070,15 @@
   Meaning: grill
   WikiMeanings: grill
   Examples:
-    - example1
+    - Kannst du mir deinen Grill leihen? Wir wollen am Wochenende ein Picknick machen.
 
 - Id: die Grippe
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: flu
   WikiMeanings: flu; influenza; grippe.
   Examples:
-    - example1
+    - Ich habe eine Grippe und kann leider nicht kommen.
 
 - Id: groß
   Level: A1
@@ -10076,6 +10093,24 @@
     - Die Jacke ist mir zu groß.
     - Wenn die Kinder groß sind, haben wir wieder mehr Zeit.
     - Ich habe keinen großen Hunger.
+
+- Id: die Großeltern
+  Level: B1
+  Meaning: grandparents
+  Examples:
+    - Ich verbringe meine Ferien immer bei meinen Großeltern.
+
+- Id: die Großmutter
+  Level: B1
+  Meaning: grandmother
+  Examples:
+    - Ich war gestern bei meiner Großmutter.
+
+- Id: der Großvater
+  Level: B1
+  Meaning: grandfather
+  Examples:
+    - Mein Großvater lebt noch.
 
 - Id: die Größe
   Level: A1
