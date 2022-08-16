@@ -9989,6 +9989,7 @@
   Level: A1
   Form: -e (- for measuring unit)
   Meaning: degree
+  WikiMeanings: degree
   Examples:
     - Heute haben wir dreißig Grad.
 
@@ -10060,7 +10061,9 @@
 
 - Id: grillieren
   Level: B1
+  Form: grilliert, grillierte, hat grilliert
   Meaning: to grill (CH)
+  WikiMeanings: to grill
   Examples:
     - Heute wollen wir im Garten grillieren.
 
@@ -10096,19 +10099,25 @@
 
 - Id: die Großeltern
   Level: B1
+  Form: (Pl.)
   Meaning: grandparents
+  WikiMeanings: grandparents
   Examples:
     - Ich verbringe meine Ferien immer bei meinen Großeltern.
 
 - Id: die Großmutter
   Level: B1
+  Form: ¨-
   Meaning: grandmother
+  WikiMeanings: grandmother; old woman, elderly woman, old lady
   Examples:
     - Ich war gestern bei meiner Großmutter.
 
 - Id: der Großvater
   Level: B1
+  Form: ¨-
   Meaning: grandfather
+  WikiMeanings: grandfather
   Examples:
     - Mein Großvater lebt noch.
 
