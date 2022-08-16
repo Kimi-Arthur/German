@@ -10098,28 +10098,28 @@
     - Ich habe keinen großen Hunger.
 
 - Id: die Großeltern
-  Level: B1
+  Level: A1
   Form: (Pl.)
   Meaning: grandparents
   WikiMeanings: grandparents
   Examples:
-    - Ich verbringe meine Ferien immer bei meinen Großeltern.
+    - Meine Großeltern leben in Japan.
 
 - Id: die Großmutter
-  Level: B1
+  Level: A1
   Form: ¨-
   Meaning: grandmother
   WikiMeanings: grandmother; old woman, elderly woman, old lady
   Examples:
-    - Ich war gestern bei meiner Großmutter.
+    - Meine Großmutter heißt Eva.
 
 - Id: der Großvater
-  Level: B1
+  Level: A1
   Form: ¨-
   Meaning: grandfather
   WikiMeanings: grandfather
   Examples:
-    - Mein Großvater lebt noch.
+    - Mein Großvater ist schon 80.
 
 - Id: die Größe
   Level: A1
@@ -10127,7 +10127,11 @@
   Meaning: size
   WikiMeanings: size, height; greatness; quantity
   Examples:
-    - example1
+    - Haben Sie das auch in Größe 40?
+    - Haben Sie das T-Shirt auch in Größe M?
+    - Welche Größe haben Sie?
+    - 'Größe: 170 cm'
+    - Haben Sie das Hemd auch in Größe 40?
 
 - Id: gründen
   Level: B1
@@ -10135,7 +10139,7 @@
   Meaning: to found
   WikiMeanings: to build; to establish; to found; to institute; to plant
   Examples:
-    - example1
+    - Frau Bauer hat eine eigene Firma gegründet.
 
 - Id: der Grund
   Level: B1
@@ -10143,22 +10147,24 @@
   Meaning: ground
   WikiMeanings: ground, land (usually as someone's property); bottom (of a container or a body of water); reason; motive, cause
   Examples:
-    - example1
+    - Sie haben Ihre Stelle gekündigt. Aus welchem Grund?
+    - Sie haben keinen Grund, sich zu beschweren.
 
 - Id: gründlich
   Level: B1
   Meaning: thorough
   WikiMeanings: thorough, in-depth; thoroughly, completely
   Examples:
-    - example1
+    - Ich möchte die Wohnung gründlich reinigen, bevor der Besuch kommt.
+    - Waschen Sie sich gründlich die Hände.
 
 - Id: das Grundstück
   Level: B1
   Form: -e
-  Meaning: piece/ plot of land
+  Meaning: land, real estate
   WikiMeanings: land, parcel, real estate
   Examples:
-    - example1
+    - Wir wollen ein Haus bauen und suchen ein günstiges Grundstück.
 
 - Id: die Gruppe
   Level: A1
@@ -10166,7 +10172,8 @@
   Meaning: group
   WikiMeanings: group
   Examples:
-    - example1
+    - Die erste Gruppe beginnt um 16 Uhr.
+    - Für Gruppen gibt es eine Ermäßigung.
 
 - Id: grüßen
   Level: B1
