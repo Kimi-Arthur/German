@@ -10181,7 +10181,8 @@
   Meaning: to greet
   WikiMeanings: to greet
   Examples:
-    - example1
+    - Wer war die Frau, die du eben gegrüßt hast?
+    - Ich soll Sie von Frau Meier grüßen.
 
 - Id: der Gruß
   Level: A1
@@ -10189,7 +10190,10 @@
   Meaning: greetings
   WikiMeanings: greeting; compliment; salute
   Examples:
-    - example1
+    - Schönen Gruß an Ihren Mann.
+    - Viele Grüße an Ihre Frau.
+    - Liebe Grüße
+    - Mit freundlichen Grüßen
 
 - Id: gucken
   Level: B1
@@ -10197,14 +10201,16 @@
   Meaning: to look
   WikiMeanings: to look, to direct one's gaze at something; to watch, to direct one's gaze at something for some time; to look, to have a certain facial expression
   Examples:
-    - example1
+    - Guck doch mal! Es schneit.
+    - Was bedeutet dieses Wort? - Guck doch im Wörterbuch nach.
 
 - Id: gültig
   Level: A1
   Meaning: valid
   WikiMeanings: valid, validated, legal; available
   Examples:
-    - example1
+    - Der Pass ist nicht mehr gültig.
+    - Mein Pass ist nur noch zwei Monate gültig.
 
 - Id: günstig
   Level: A1
@@ -10221,7 +10227,20 @@
   Meaning: good
   WikiMeanings: good; good; good; good; all right, fair, proper; good; well; a little more than; easily, likely; okay, all right, now then
   Examples:
-    - example1
+    - Das finde ich gut.
+    - Ich komme um 13 Uhr. - Gut!
+    - Guten Morgen!
+    - Ein gutes neues Jahr!
+    - Guten Appetit!
+    - Welches Bild gefällt dir besser?
+    - Dieses Kleid finde ich am besten.
+    - Ich kenne ein gutes Lokal.
+    - Maria kann gut tanzen.
+    - Ich glaube, die Wurst ist nicht mehr gut.
+    - Mir ist heute gar nicht gut.
+    - Wir hatten im Urlaub gutes Wetter.
+    - Heute ist das Wetter wieder besser.
+    - Christine ist meine beste Freundin.
 
 - Id: die Gymnastik
   Level: B1
@@ -10229,7 +10248,7 @@
   Meaning: gymnastics
   WikiMeanings: gymnastics
   Examples:
-    - example1
+    - Ich mache jeden Morgen Gymnastik.
 
 - Id: das Haar
   Level: A1
@@ -10237,7 +10256,9 @@
   Meaning: hair
   WikiMeanings: hair
   Examples:
-    - example1
+    - Sie hat lange Haare.
+    - Meine Freundin hat langes schwarzes Haar.
+    - Die Haare unseres Hundes liegen überall in der Wohnung.
 
 - Id: haben
   Level: A1
