@@ -180,25 +180,17 @@
   Type: Suffix
   Meaning: '(n./prep. -> adv.) -wards: course or direction to, motion or tendency toward'
 
-- Id: Schwieger-
-  Type: Unknown
-  Meaning: in law
-
 - Id: auf-
   Type: Prefix
-  Meaning: upwards (e.g. aufnehmen (pick up), aufstehen, aufwachsen)
+  Meaning: '(v.; sep.) up-: upwards, open'
 
 - Id: bio-
   Type: Prefix
   Meaning: organic
 
 - Id: kriminal-
-  Type: Unknown
+  Type: Prefix
   Meaning: criminal
-
-- Id: mittler-
-  Type: Noun
-  Meaning: middle
 
 - Id: sonder-
   Type: Prefix
@@ -271,8 +263,8 @@
   Meaning: very, of them all
 
 - Id: be-
-  Type: Unknown
-  Meaning: (inseparable, vi. -> vt.) working on something or change of state; touching the object; mentioning the object
+  Type: Prefix
+  Meaning: (vi. -> vt.; ins.) working on something or change of state; touching the object; mentioning the object
 
 - Id: ent-
   Type: Prefix
