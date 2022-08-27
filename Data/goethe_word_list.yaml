@@ -10290,7 +10290,7 @@
   Meaning: habour
   WikiMeanings: harbour/harbor; port; haven; pot
   Examples:
-    - example1
+    - Wenn du in Hamburg bist, musst du dir unbedingt den Hafen ansehen.
 
 - Id: hageln
   Level: B1
@@ -10298,7 +10298,7 @@
   Meaning: to hail (weather)
   WikiMeanings: to hail
   Examples:
-    - example1
+    - Bei Gewitter kann es auch hageln.
 
 - Id: das Hähnchen
   Level: A1
@@ -10322,22 +10322,25 @@
   Meaning: half
   WikiMeanings: half, halfway; a half-hour before, thirty minutes before
   Examples:
-    - example1
+    - Treffen wir uns um halb neun?
+    - Bei dieser Firma habe ich ein halbes Jahr gearbeitet.
+    - Ich gebe Ihnen die Tomaten zum halben Preis.
+    - Die Flasche ist ja noch halb voll.
 
 - Id: die Halbpension
   Level: A1
   Form: (Sg.)
-  Meaning: half pension
+  Meaning: room and board
   WikiMeanings: half-board
   Examples:
-    - example1
+    - Wir möchten ein Hotel mit Halbpension.
 
 - Id: halbtags
   Level: B1
   Meaning: half day
   WikiMeanings: on a part-time basis
   Examples:
-    - example1
+    - Ich habe ein kleines Kind und kann nicht acht Stunden am Tag arbeiten. Deshalb möchte ich halbtags arbeiten.
 
 - Id: die Hälfte
   Level: B1
@@ -10345,7 +10348,9 @@
   Meaning: half
   WikiMeanings: half; fifty percent of something; half, share; any of two correlating pieces, whatever the size; middle; the virtual line where two equal halves meet
   Examples:
-    - example1
+    - Bitte teilt euch die Schokolade. Jeder bekommt die Hälfte.
+    - Die Hälfte vom Urlaub ist schon vorbei.
+    - Was hat der Mann gesagt? Ich habe nur die Hälfte verstanden.
 
 - Id: die Halle
   Level: A1
@@ -10353,7 +10358,9 @@
   Meaning: hall
   WikiMeanings: hall
   Examples:
-    - example1
+    - Wir treffen uns in Halle B.
+    - Wo ist die neue Sporthalle?
+    - Die Stadt baut eine neue Sporthalle.
 
 - Id: das Hallenbad
   Level: B1
@@ -10361,36 +10368,38 @@
   Meaning: indoor swimming pool
   WikiMeanings: indoor public swimming pool
   Examples:
-    - example1
+    - Sie geht jeden Tag zum Schwimmen ins Hallenbad.
 
 - Id: hallo
   Level: A1
   Meaning: hello
   WikiMeanings: hello (a general greeting used when meeting somebody)
   Examples:
-    - example1
+    - Hallo Inge! Wie geht's?
+    - Hallo, wie geht's? - Danke, gut, und dir?
 
 - Id: der Hals
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: throat
   WikiMeanings: neck; throat
   Examples:
-    - example1
+    - Mir tut der Hals weh.
+    - Ich habe seit gestern Halsschmerzen.
 
 - Id: halt
   Level: B1
-  Meaning: stop
+  Meaning: just, simply; stop
   WikiMeanings: stop!, wait!; ; so, just, simply, indeed
   Examples:
-    - example1
+    - Es gibt leider keine Karten mehr. - Schade. Da kann man nichts machen. Das ist halt so.
 
 - Id: haltbar
   Level: B1
   Meaning: durable, non-perishable
   WikiMeanings: durable, lasting; tenable
   Examples:
-    - example1
+    - Diese Tomaten sind mindestens 2 Wochen haltbar.
 
 - Id: halten
   Level: A1
@@ -10398,23 +10407,30 @@
   Meaning: to keep, hold
   WikiMeanings: 'to hold; to stop; to halt; to hold back; to support; to hold up; to keep; to maintain; to hold; to keep; to hold; to keep; to stay; to stop; to take for, to consider; to adhere to, to follow (rules, the law, etc.); '
   Examples:
-    - example1
+    - Dieser Zug hält nicht in Rüdesheim.
+    - Kannst du mal kurz meine Jacke halten?
+    - Entschuldigung, hält dieser Zug auch in Darmstadt?
+    - Halten Sie bitte im Keller die Fenster geschlossen.
+    - Alle Mieter müssen sich an die Hausordnung halten.
+    - Die Stadt will einen neuen Flughafen bauen. Was halten Sie davon?
+    - Halt, Polizei! Fahren Sie bitte an den Straßenrand.
+    - Die Wurst hält sich noch ein paar Tage.
 
 - Id: der Halt
   Level: B1
   Form: -e
-  Meaning: stop (noun)
+  Meaning: stop (of a train)
   WikiMeanings: hold; adhesion; foothold; grip; support; stop (e.g. of a train); halt; cessation
   Examples:
-    - example1
+    - Nächster Halt ist am Südbahnhof.
 
 - Id: die Haltestelle
   Level: A1
   Form: -n
-  Meaning: stop(ping place)
+  Meaning: stop (place to get on and off bus)
   WikiMeanings: stop (place to get on and off line buses or trams)
   Examples:
-    - example1
+    - An der nächsten Haltestelle müssen Sie aussteigen.
 
 - Id: der Hamburger
   Level: A2
@@ -10430,23 +10446,28 @@
   Meaning: hammer
   WikiMeanings: hammer, mallet; sensation, something extraordinary (be it positive or negative); a hard shot, slam
   Examples:
-    - example1
+    - Ich möchte ein Bild aufhängen. Hast du einen Hammer für mich?
 
 - Id: die Hand
   Level: A1
   Form: ¨-e
-  Meaning: the hand
+  Meaning: hand
   WikiMeanings: 'hand; '
   Examples:
-    - example1
+    - Er gibt mir die Hand.
+    - Wasch dir bitte die Hände vor dem Essen.
+    - Gib mir bitte deine Hand. Wir gehen jetzt über die Straße.
 
 - Id: der Handwerker
   Level: B1
   Form: '-'
+  Feminine:
+      Id: die Handwerkerin
+      Form: -nen
   Meaning: craftsman, workman, artisan
   WikiMeanings: craftsman; contractor
   Examples:
-    - example1
+    - Morgen sind bei uns die Handwerker. Wir bekommen eine neue Badewanne.
 
 - Id: handeln
   Level: B1
@@ -10454,7 +10475,9 @@
   Meaning: to deal, trade
   WikiMeanings: to act; to take action; to negotiate; to bargain; to haggle; to trade in; to deal; to sell; to trade; to tip as; to take into consideration as being; to discuss; to deal with; to write or speak about; to be about; to deal with; to be, to be a case of, to be a matter of; to handle something; to control; to deal with in an organised fashion
   Examples:
-    - example1
+    - Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.
+    - Kann ich Sie bitte mal sprechen? - Worum handelt es sich denn?
+    - Auf diesem Markt kannst du handeln und bekommst die Sachen billiger.
 
 - Id: der Handel
   Level: B1
@@ -10462,15 +10485,24 @@
   Meaning: trade
   WikiMeanings: deal; trade, trading
   Examples:
-    - example1
+    - Der Handel mit Computern ist ein gutes Geschäft.
 
 - Id: der Händler
   Level: B1
   Form: '-'
+  Feminine:
+      Id: die Händlerin
+      Form: -nen
   Meaning: seller, dealer
   WikiMeanings: trader, merchant
   Examples:
-    - example1
+    - Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?
+
+- Id: das Handtuch
+  Level: A2
+  Meaning: towel
+  Examples:
+    - Gibst du mir bitte ein frisches Handtuch?
 
 - Id: das Handy
   Level: A1
@@ -10484,19 +10516,27 @@
     - Soll ich Ihnen meine Handynummer geben?
 
 - Id: hängen
-  Level: B1
+  Level: A2
   Form: hängt, hing, hat gehangen
   Meaning: to hang
   WikiMeanings: to hang; to be suspended; to be attached to; to be fond of; to be devoted to; to cling to; to depend on; to hang something; to suspend; to hang something; to suspend; to hang someone; to execute by hanging; to hang on to; to follow
   Examples:
-    - example1
+    - Im Museum hängen moderne Bilder.
+    - Warum hast du das Bild noch nicht an die Wand gehängt?
+    - Das Bild von meiner Tochter hat im Wohnzimmer gehangen.
+    - Das Bild hängt schief.
+    - Hast du den Anzug wieder in den Schrank gehängt?
 
 - Id: hart
-  Level: B1
-  Meaning: hard
+  Level: A2
+  Meaning: hard; harsh
   WikiMeanings: hard; severe, harsh; unmoved, cold, cruel; hard (with force or effort); sharply, roughly, severely; close ( to)
   Examples:
-    - example1
+    - Ich finde das Bett zu hart.
+    - Die Brötchen sind ja ganz hart.
+    - Das Bett im Hotel war mir zu hart.
+    - Ich habe eine harte Woche vor mir. Ich muss jeden Tag Überstunden machen.
+    - Wir haben hart gearbeitet, um die Wohnung zu bezahlen.
 
 - Id: hassen
   Level: B1
@@ -10504,37 +10544,31 @@
   Meaning: to hate
   WikiMeanings: to hate; to mob
   Examples:
-    - example1
+    - Ich hasse Autofahren.
+    - Ich hasse es, zu spät zu kommen.
 
 - Id: hässlich
-  Level: B1
+  Level: A2
   Meaning: ugly
   WikiMeanings: ugly
   Examples:
-    - example1
+    - Ich finde das Kleid hässlich. Es gefällt mir nicht.
+    - Das ist aber eine hässliche Lampe!
 
 - Id: häufig
   Level: B1
   Meaning: frequent, frequently
   WikiMeanings: frequent; common; frequently, often; in common, at once, together
   Examples:
-    - example1
-
-- Id: Haupt
-  Level: B1
-  Form: ¨-er
-  Meaning: main
-  WikiMeanings: head; head; leader; chief; chief; see
-  Examples:
-    - example1
+    - Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.
 
 - Id: die Hauptstadt
-  Level: B1
+  Level: A2
   Form: ¨-e
   Meaning: capital city
   WikiMeanings: capital (capital city)
   Examples:
-    - example1
+    - Berlin ist die Hauptstadt von Deutschland.
 
 - Id: der Hauptbahnhof
   Level: B1
@@ -10542,7 +10576,7 @@
   Meaning: main railway station
   WikiMeanings: central/main train station
   Examples:
-    - example1
+    - Treffen wir uns am Hauptbahnhof?
 
 - Id: das Haus
   Level: A1
