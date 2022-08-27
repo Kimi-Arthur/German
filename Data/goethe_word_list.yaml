@@ -9205,7 +9205,7 @@
 - Id: der Gegenstand
   Level: B1
   Form: ¨-e
-  Meaning: object
+  Meaning: object, item, thing, article
   WikiMeanings: 'object, item, thing, article; '
   Examples:
     - Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.
@@ -9214,7 +9214,7 @@
 - Id: das Gegenteil
   Level: B1
   Form: -e
-  Meaning: opposite
+  Meaning: opposite (contrary thing)
   WikiMeanings: opposite (contrary thing)
   Examples:
     - Das Gegenteil von „klein“ ist „groß“.
@@ -9223,7 +9223,7 @@
 
 - Id: gegenüber
   Level: B1
-  Meaning: opposite
+  Meaning: opposite to
   WikiMeanings: opposite; to, toward, towards; compared to; vis-à-vis, in dealings with, in dealing with, towards; on the opposite side
   Examples:
     - Das Geschäft liegt direkt gegenüber der Post.
@@ -9242,14 +9242,14 @@
 - Id: das Geheimnis
   Level: B1
   Form: -se
-  Meaning: secret
+  Meaning: secret, a piece of knowledge that is hidden
   WikiMeanings: secret
   Examples:
     - Das kann ich dir nicht sagen. Das ist ein Geheimnis.
 
 - Id: geheim
   Level: B1
-  Meaning: secret
+  Meaning: done or kept in secret (g-)
   WikiMeanings: secret
   Examples:
     - Das ist geheim. Du darfst es niemandem sagen.
@@ -9373,7 +9373,7 @@
 - Id: das Gemüse
   Level: A1
   Form: '-'
-  Meaning: vegetables
+  Meaning: vegetable
   WikiMeanings: vegetable; vegetables; a seasoned vegetable-based side dish, such as a relish (not necessarily pickled and not usually in the form of a paste)
   Examples:
     - Gemüse brauchen wir auch noch.
@@ -10663,10 +10663,10 @@
 
 - Id: heimlich
   Level: B1
-  Meaning: secretly
+  Meaning: done or kept in secret (h-)
   WikiMeanings: secret, clandestine
   Examples:
-    - example1
+    - Gestern habe ich gehört, dass mein Sohn heimlich raucht.
 
 - Id: das Heimweh
   Level: B1
