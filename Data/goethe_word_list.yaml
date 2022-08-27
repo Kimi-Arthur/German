@@ -10462,8 +10462,8 @@
   Level: B1
   Form: '-'
   Feminine:
-      Id: die Handwerkerin
-      Form: -nen
+    Id: die Handwerkerin
+    Form: -nen
   Meaning: craftsman, workman, artisan
   WikiMeanings: craftsman; contractor
   Examples:
@@ -10491,8 +10491,8 @@
   Level: B1
   Form: '-'
   Feminine:
-      Id: die Händlerin
-      Form: -nen
+    Id: die Händlerin
+    Form: -nen
   Meaning: seller, dealer
   WikiMeanings: trader, merchant
   Examples:
@@ -10500,7 +10500,9 @@
 
 - Id: das Handtuch
   Level: A2
+  Form: ¨-er
   Meaning: towel
+  WikiMeanings: towel (cloth for wiping)
   Examples:
     - Gibst du mir bitte ein frisches Handtuch?
 
