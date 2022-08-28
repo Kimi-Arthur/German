@@ -10639,21 +10639,13 @@
   Examples:
     - Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen.
 
-- Id: das Haustier
-  Level: B1
-  Form: -e
-  Meaning: pet
-  WikiMeanings: A domestic animal, in the senses of livestock and beast of burden; also called Nutztier.; A pet; sometimes called Heimtier.
-  Examples:
-    - example1
-
 - Id: die Haut
   Level: B1
   Form: ¨-e
   Meaning: skin
   WikiMeanings: skin, hide of a person, animal or (part of a) plant; a creature, especially a person; skin
   Examples:
-    - example1
+    - Haben Sie eine Creme für trockene Haut?
 
 - Id: heben
   Level: B1
@@ -10661,22 +10653,24 @@
   Meaning: to lift
   WikiMeanings: to lift; to raise; to heave; to hoist; to rise; to lift
   Examples:
-    - example1
+    - Kannst du mir helfen? Das Paket kann ich allein nicht heben.
+    - Wenn Sie für diesen Vorschlag sind, heben Sie bitte die Hand!
 
 - Id: das Heft
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: exercise book
   WikiMeanings: notebook, writing booklet, cahier, composition book; notepad, writing pad; exercise book; number, issue; magazine; comic; haft; handle (of a weapon or certain tools)
   Examples:
-    - example1
+    - Hast du dein Heft dabei?
+    - Ich hätte gern ein Schreibheft.
 
 - Id: heim
   Level: B1
   Meaning: home
   WikiMeanings: home;
   Examples:
-    - example1
+    - Ich will jetzt heim.
 
 - Id: das Heim
   Level: B1
@@ -10684,7 +10678,7 @@
   Meaning: home
   WikiMeanings: home; hostel; asylum
   Examples:
-    - example1
+    - Meine Oma wohnt in einem Seniorenheim.
 
 - Id: die Heimat
   Level: A1
@@ -10710,7 +10704,7 @@
   Meaning: home sickness
   WikiMeanings: homesickness
   Examples:
-    - example1
+    - Ich habe oft Heimweh nach meiner Familie.
 
 - Id: heiraten
   Level: A1
@@ -10724,11 +10718,14 @@
     - Wir haben 1980 geheiratet.
 
 - Id: heiß
-  Level: B1
+  Level: A2
   Meaning: hot
   WikiMeanings: hot; hot; horny
   Examples:
-    - example1
+    - Vorsicht, der Tee ist heiß!
+    - Mir ist heiß. Kannst du das Fenster öffnen?
+    - Für die Jahreszeit ist es zu heiß.
+    - Ich mache dir einen heißen Tee.
 
 - Id: heißen
   Level: A1
@@ -10737,6 +10734,7 @@
   WikiMeanings: to have a name; to be named; to be called;; to mean, to signify; to have a meaning; to say, to be said; to go, run (like); to call (someone something); to order, to direct, to call to do something
   Examples:
     - Ich heiße Charlotte Meier.
+    - Wie heißen Sie?
     - Wie heißt das auf Deutsch?
     - Die Erklärung verstehe ich nicht. Was heißt das?
 
@@ -10755,23 +10753,28 @@
   Meaning: to heat
   WikiMeanings: to heat
   Examples:
-    - example1
+    - Wir heizen mit Öl.
+    - Ziehen Sie sich warm an. In der Halle ist nicht geheizt.
 
 - Id: die Heizung
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: heating
   WikiMeanings: heating (a system that raises the temperature of a room or building)
   Examples:
-    - example1
+    - Es ist kalt. Ist die Heizung kaputt?
 
 - Id: der Held
   Level: B1
   Form: -en
+  Feminine:
+    Id: die Heldin
+    Form: -nen
   Meaning: hero
   WikiMeanings: hero; protagonist
   Examples:
-    - example1
+    - Er spielt gern den Helden.
+    - Sie ist die Heldin des Tages.
 
 - Id: helfen
   Level: A1
@@ -10809,26 +10812,38 @@
     - Ich habe mir einen hellblauen Pullover gekauft.
 
 - Id: das Hemd
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: shirt
   WikiMeanings: shirt, or in particular a dress shirt
   Examples:
-    - example1
+    - Nick trägt heute ein neues Hemd.
 
 - Id: her
-  Level: B1
+  Level: A2
   Meaning: direction from, to
   WikiMeanings: hither, to this place, to here, to me/us; ago
   Examples:
-    - example1
+    - Komm bitte mal her!
+    - Herein! Die Tür ist offen.
+    - Woher kommen Sie?
+    - Wir haben uns lange nicht gesehen. - Ja, das ist wirklich lange her.
+    - Komm her zu mir!
 
 - Id: heraus
-  Level: B1
+  Level: A2
+  Synonym: = raus
   Meaning: out (of)
   WikiMeanings: out of (in the direction of the speaker); out over here; out from there
   Examples:
-    - example1
+    - Möchtet ihr nicht rauskommen? Das Wetter ist so schön.
+    - Kannst du bitte den Müll rausbringen?
+
+- Id: herausfinden
+  Level: B1
+  Meaning: meaning
+  Examples:
+    - Hast du schon rausgefunden, wann und wo man sich für den Kurs anmelden muss?
 
 - Id: die Herausforderung
   Level: B1
@@ -21489,6 +21504,14 @@
   Form: -e
   Meaning: animal
   WikiMeanings: animal; A person who has a quality thought of as animalistic, such as ferocity, strength, hairiness, etc.; hind
+  Examples:
+    - example1
+
+- Id: das Haustier
+  Level: B1
+  Form: -e
+  Meaning: pet
+  WikiMeanings: A domestic animal, in the senses of livestock and beast of burden; also called Nutztier.; A pet; sometimes called Heimtier.
   Examples:
     - example1
 
