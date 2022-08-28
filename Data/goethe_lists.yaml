@@ -328,14 +328,16 @@
     - holen
     - hören
     - das Hotel
+    - der Hund
     - der Hunger
     - immer
     - in
     - die Information
-    - das Internet
     - international
+    - das Internet
     - ja
     - die Jacke
+    - jeder
     - jetzt
     - der Job
     - der Jugendliche
@@ -1151,40 +1153,59 @@
     - die Hausfrau
     - der Hausmann
     - der Haushalt
+    - das Heft
     - die Heimat
     - heiraten
+    - heiß
     - heißen
     - das heißt
+    - die Heizung
     - helfen
     - die Hilfe
     - hell
+    - das Hemd
+    - her
+    - heraus
     - der Herd
     - der Herr
+    - herstellen
     - herunterladen
     - herzlich
     - heute
     - hier
+    - der Himmel
     - hinten
+    - hinter
     - das Hobby
     - hoch
     - die Hochzeit
+    - hoffen
     - holen
     - die Homepage
     - hören
+    - die Hose
     - das Hotel
+    - der Hund
     - der Hunger
+    - husten
     - der ICE
     - die Idee
     - immer
     - in
+    - informieren
     - die Information
-    - das Internet
+    - die Insel
+    - das Instrument
+    - intelligent
     - interessieren
     - interessant
     - das Interesse
     - international
+    - das Internet
     - ja
     - die Jacke
+    - die Jeans
+    - jeder
     - jetzt
     - der Job
     - joggen
@@ -1609,6 +1630,7 @@
     - der Zucker
     - zufrieden
     - der Zug
+    - zuhören
     - zurück
     - zusammen
     - zu sein
@@ -2795,7 +2817,6 @@
     - der Hausmann
     - der Haushalt
     - der Hausmeister
-    - das Haustier
     - die Haut
     - heben
     - das Heft
@@ -2813,10 +2834,12 @@
     - der Held
     - helfen
     - die Hilfe
+    - das Hilfsmittel
     - hell
     - das Hemd
     - her
     - heraus
+    - herausfinden
     - die Herausforderung
     - der Herd
     - herein
@@ -2833,9 +2856,7 @@
     - hier
     - hierher
     - der Himmel
-    - herunter
-    - herunterwerfen
-    - das Hilfsmittel
+    - hinunterwerfen
     - hinten
     - hinter
     - hinterlassen
@@ -2868,6 +2889,7 @@
     - hübsch
     - der Hügel
     - der Humor
+    - der Hund
     - der Hunger
     - hungrig
     - hupen
@@ -2895,10 +2917,9 @@
     - innen
     - inner
     - innerhalb
-    - das Internet
     - die Insel
-    - insgesamt
     - das Inserat
+    - insgesamt
     - installieren
     - das Institut
     - das Instrument
@@ -2914,22 +2935,22 @@
     - interessiert
     - interkulturell
     - international
+    - das Internet
     - das Interview
     - inzwischen
-    - irgendwann
-    - irgendwas
-    - irgendwo
-    - irgendwer
     - irgendein
+    - irgendwann
     - sich irren
     - ja
     - die Jacke
+    - die Jause
     - der Jazz
     - je
-    - je.. desto..
+    - je... desto...
     - die Jeans
     - jeder
     - jederzeit
+    - jedes Mal
     - jedoch
     - jemals
     - jemand
@@ -4101,6 +4122,7 @@
     - das Ticket
     - tief
     - das Tier
+    - das Haustier
     - der Tierpark
     - der Tipp
     - tippen
