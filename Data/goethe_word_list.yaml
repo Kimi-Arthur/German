@@ -11693,6 +11693,8 @@
 
 - Id: irgendein
   Level: B1
+  Meaning: some, any
+  WikiMeanings: some
   Examples:
     - Was für einen Saft möchten Sie? - Ganz egal, irgendeinen.
 
@@ -11714,10 +11716,18 @@
 
 - Id: ja
   Level: A1
-  Meaning: yes
+  Meaning: yes, yeah
   WikiMeanings: yes; yea, yeah, aye; obviously; certainly; of course; really; just; as you know; as is generally known; yes
   Examples:
-    - example1
+    - Sind Sie Herr Watanabe? - Ja.
+    - Sind Sie verheiratet? - Ja.
+    - Hallo? - Ja, bitte? Wer spricht denn da?
+    - Denk bitte daran, die Tür abzuschließen. - Ja, ja, mach ́ ich.
+    - Heute Morgen um fünf hat es geschneit. - Ja, wirklich?
+    - Ich würde ja gern kommen, aber es geht wirklich nicht.
+    - Du weißt ja, dass ich kein Bier trinke. Gib mir bitte einen Tee.
+    - Du bist hier in Berlin? - Das ist ja eine Überraschung.
+    - Steige bitte ja nicht auf den Stuhl!
 
 - Id: die Jacke
   Level: A1
@@ -11725,7 +11735,12 @@
   Meaning: jacket
   WikiMeanings: jacket
   Examples:
-    - example1
+    - Zieh dir eine Jacke an. Es ist kalt.
+
+- Id: die Jause
+  Level: B1
+  Examples:
+    - Es ist Zeit für eine kleine Jause.
 
 - Id: der Jazz
   Level: B1
