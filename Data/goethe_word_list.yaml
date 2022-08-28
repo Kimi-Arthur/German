@@ -11780,11 +11780,12 @@
     - Nicht nur junge Leute tragen Jeans.
 
 - Id: jeder
-  Level: B1
+  Level: A1
   Form: jeder, jedes, jede
   Meaning: every
   WikiMeanings: each
   Examples:
+    - Blumen kannst du in jedem Bahnhof kaufen.
     - Das Restaurant hat jeden Tag geöffnet.
     - Jedes Kind bekommt ein Spiel.
     - Die Prospekte bekommen Sie in jedem Reisebüro.
@@ -11795,7 +11796,12 @@
   Meaning: at any time
   WikiMeanings: anytime
   Examples:
-    - example1
+    - Sie können mich jederzeit anrufen.
+
+- Id: jedes Mal
+  Level: B1
+  Examples:
+    - Inge erzählt die Geschichte jedes Mal anders.
 
 - Id: jedoch
   Level: B1
