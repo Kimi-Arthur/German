@@ -10800,6 +10800,14 @@
     - Haben Sie einen Kurs für Erste Hilfe gemacht? Das müssen Sie, wenn Sie den Führerschein machen wollen.
     - Hilfe! Jemand hat mir die Handtasche gestohlen. Bitte helfen Sie mir!
 
+- Id: das Hilfsmittel
+  Level: B1
+  Form: '-'
+  Meaning: aids (help)
+  WikiMeanings: (auxiliary) device, implement, aid, tool, jig, resource, accessory, assistive equipment, adjuvant
+  Examples:
+    - Hilfsmittel wie Mobiltelefone oder Wörterbücher sind nicht erlaubt.
+
 - Id: hell
   Level: A1
   Meaning: light, bright
@@ -10957,7 +10965,7 @@
   Meaning: today's
   WikiMeanings: today's; contemporary; present-day
   Examples:
-    - example1
+    - Die heutigen Computer können viel mehr als noch vor ein paar Jahren.
 
 - Id: hier
   Level: A1
@@ -10978,52 +10986,43 @@
   Meaning: this way, here
   WikiMeanings: to here, here (to this place), hither
   Examples:
-    - example1
+    - Ich komme oft hierher. In diesem Café gibt es guten Kuchen.
 
 - Id: der Himmel
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: sky
   WikiMeanings: sky; heaven; canopy; headliner
   Examples:
-    - example1
+    - 'Heute ist so tolles Wetter: Der Himmel ist blau und es gibt keine Wolken.'
+    - Wir hatten im Urlaub so tolles Wetter. Immer Sonne und blauer Himmel.
 
-- Id: herunter
+- Id: hinunterwerfen
   Level: B1
-  Meaning: downwards, down
-  WikiMeanings: down, downwards (to the own location downwards)
+  Form: wirft hinunter, warf hinunter, hat hinuntergeworfen
+  Synonym: = runterwerfen
+  Meaning: to throw down sth  sep  [to sb]
+  WikiMeanings: to throw down sth  sep  [to sb]
   Examples:
-    - example1
-
-- Id: herunterwerfen
-  Level: B1
-  Form: <herunterwerfen>
-  Meaning: to throw down
-  WikiMeanings: to throw down sth [to sb] [from sth] sep
-  Examples:
-    - example1
-
-- Id: das Hilfsmittel
-  Level: B1
-  Form: '-'
-  Meaning: aids (help)
-  WikiMeanings: (auxiliary) device, implement, aid, tool, jig, resource, accessory, assistive equipment, adjuvant
-  Examples:
-    - Hilfsmittel wie Mobiltelefone oder Wörterbücher sind nicht erlaubt.
+    - Kannst du mir bitte den Schlüssel Kannst du mir bitte den Schlüssel vergessen.
 
 - Id: hinten
   Level: A1
   Meaning: behind, at the back (h.., not "hinter")
   WikiMeanings: behind; in the back; over (there); yonder
   Examples:
-    - example1
+    - Die Tür zum Aussteigen ist hinten.
+    - Bitte hinten aussteigen!
+    - Wo möchtest du sitzen? Hinten oder vorne?
 
 - Id: hinter
-  Level: B1
+  Level: A2
   Meaning: behind, in back of (h.., not "hinten")
   WikiMeanings: behind, after; after; beyond; over; to some place fairly nearby
   Examples:
-    - example1
+    - Hinter dem Haus haben wir einen Garten.
+    - Fahren Sie Ihren Wagen bitte hinter das Haus.
+    - Auf den hinteren Plätzen kann man nicht sehr viel sehen.
 
 - Id: hinterlassen
   Level: B1
@@ -11031,14 +11030,14 @@
   Meaning: to leave
   WikiMeanings: to leave behind (after leaving a location); to bequeath
   Examples:
-    - example1
+    - Möchten Sie eine Nachricht hinterlassen?
 
 - Id: hinterher
   Level: B1
   Meaning: afterwards, after
   WikiMeanings: behind; afterwards
   Examples:
-    - example1
+    - Vor der Prüfung habe ich so viel gelernt. Hinterher habe ich vieles wieder vergessen.
 
 - Id: hinweisen
   Level: B1
@@ -11046,7 +11045,7 @@
   Meaning: to point to, to refer to
   WikiMeanings: to portend (to signify); to point out
   Examples:
-    - example1
+    - Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.
 
 - Id: der Hinweis
   Level: B1
@@ -11054,14 +11053,14 @@
   Meaning: hint
   WikiMeanings: hint; clue; pointer; an act or thing which makes someone aware of something; evidence, cue; advice, instruction
   Examples:
-    - example1
+    - Die Polizei hat viele Hinweise zum Unfall bekommen.
 
 - Id: historisch
   Level: B1
   Meaning: historical
   WikiMeanings: historical, historic; historically
   Examples:
-    - example1
+    - Wir waren mit unserer Klasse im Historischen Museum.
 
 - Id: der Hit
   Level: B1
@@ -11077,7 +11076,7 @@
   Meaning: heat
   WikiMeanings: heat
   Examples:
-    - example1
+    - Gestern war eine schreckliche Hitze!
 
 - Id: das Hobby
   Level: A1
@@ -11093,7 +11092,11 @@
   Meaning: high
   WikiMeanings: high, tall; high, great, immense; grand, important; up, upwards; northwards; to the power of
   Examples:
-    - example1
+    - Der Mount Everest ist 8.880 Meter hoch.
+    - Die Preise in diesem Laden sind sehr hoch.
+    - Der Berg ist fast 3000 m hoch.
+    - Das Hotel liegt hoch über dem See.
+    - Die Benzinpreise sind sehr hoch.
 
 - Id: die Höhe
   Level: B1
@@ -11101,7 +11104,8 @@
   Meaning: height, altitude; amount
   WikiMeanings: height
   Examples:
-    - example1
+    - 'Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.'
+    - Wir fliegen jetzt in 6000 m Höhe.
 
 - Id: hochladen
   Level: B1
@@ -11116,7 +11120,7 @@
   Meaning: at the most
   WikiMeanings: at most
   Examples:
-    - example1
+    - Ich habe wenig Zeit. Ich kann höchstens eine Viertelstunde bleiben.
 
 - Id: die Hochzeit
   Level: A1
@@ -11133,7 +11137,7 @@
   Meaning: yard
   WikiMeanings: yard, court, courtyard; court; farmyard; farm, agricultural enterprise
   Examples:
-    - example1
+    - Die Kinder spielen am liebsten im Hof.
 
 - Id: der Bauernhof
   Level: B1
@@ -11141,22 +11145,24 @@
   Meaning: farm
   WikiMeanings: A farm.
   Examples:
-    - example1
+    - Meine Großeltern hatten einen Bauernhof.
 
 - Id: hoffen
-  Level: B1
+  Level: A2
   Form: hofft, hoffte, hat gehofft
   Meaning: to hope
   WikiMeanings: to hope
   Examples:
-    - example1
+    - Ich hoffe, dass es dir gut geht.
+    - Ich hoffe, dass ihr zu meinem Geburtstag kommen könnt.
+    - Wir alle hoffen auf besseres Wetter.
 
 - Id: hoffentlich
   Level: B1
   Meaning: hopefully
   WikiMeanings: hopefully
   Examples:
-    - example1
+    - Hoffentlich hat unser Zug keine Verspätung.
 
 - Id: die Hoffnung
   Level: B1
@@ -11164,14 +11170,14 @@
   Meaning: hope
   WikiMeanings: hope, the belief or expectation that something wished for can or will really happen.; hope, the actual thing wished for; hope, a person or thing that is a source of hope
   Examples:
-    - example1
+    - Man darf die Hoffnung nicht verlieren.
 
 - Id: höflich
   Level: B1
   Meaning: polite
   WikiMeanings: polite (well-mannered)
   Examples:
-    - example1
+    - Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.
 
 - Id: holen
   Level: A1
@@ -11179,7 +11185,9 @@
   Meaning: to get
   WikiMeanings: to (go) get, to fetch; to get
   Examples:
-    - example1
+    - Ich hole zwei Flaschen Wasser aus der Küche.
+    - Soll ich uns etwas zu trinken holen?
+    - Warum haben Sie nicht sofort einen Arzt geholt?
 
 - Id: das Holz
   Level: B1
@@ -11187,7 +11195,7 @@
   Meaning: wood
   WikiMeanings: wood; a particular kind of wood; a piece of wood, usually small; grove; woods; small forest
   Examples:
-    - example1
+    - Möchten Sie ein Regal aus Holz oder aus Metall?
 
 - Id: die Homepage
   Level: A2
@@ -11204,7 +11212,7 @@
   Meaning: honey
   WikiMeanings: honey
   Examples:
-    - example1
+    - Ich esse gern Brötchen mit Honig und Butter zum Frühstück.
 
 - Id: hören
   Level: A1
