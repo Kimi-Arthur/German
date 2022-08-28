@@ -10825,7 +10825,6 @@
   WikiMeanings: hither, to this place, to here, to me/us; ago
   Examples:
     - Komm bitte mal her!
-    - Herein! Die Tür ist offen.
     - Woher kommen Sie?
     - Wir haben uns lange nicht gesehen. - Ja, das ist wirklich lange her.
     - Komm her zu mir!
@@ -10854,7 +10853,7 @@
   Meaning: challenge
   WikiMeanings: challenge (that which encourages someone to do something they otherwise would not); challenge; provocation
   Examples:
-    - example1
+    - Das Spiel ist eine Herausforderung.
 
 - Id: der Herd
   Level: A1
@@ -10862,14 +10861,17 @@
   Meaning: stove
   WikiMeanings: cooker; stove; hob; cooktop; fireplace, hearth; the household as the traditional workplace of women; hotbed, place where something (negative) spreads from
   Examples:
-    - example1
+    - In der neuen Küche fehlt noch der Herd.
 
 - Id: herein
   Level: B1
+  Synonym: = rein
   Meaning: in (here), here
   WikiMeanings: in (in the direction of the speaker)
   Examples:
-    - example1
+    - Herein! Die Tür ist offen.
+    - Möchtest du nicht reinkommen? Ich kann uns einen Tee machen.
+    - Kommt doch herein!
 
 - Id: die Herkunft
   Level: B1
@@ -10877,7 +10879,7 @@
   Meaning: origin
   WikiMeanings: origin, source; descent (lineage or hereditary derivation); etymology
   Examples:
-    - example1
+    - Viele Leute fragen mich nach meiner Herkunft.
 
 - Id: der Herr
   Level: A1
@@ -10889,12 +10891,12 @@
     - Da ist ein Herr, der möchte Sie sprechen.
 
 - Id: herstellen
-  Level: B1
+  Level: A2
   Form: stellt her, stellte her, hat hergestellt
   Meaning: to make, manufacture
   WikiMeanings: to produce, manufacture; to establish, make, install, connect
   Examples:
-    - example1
+    - In unserer Firma stellen wir Schokolade her.
 
 - Id: der Hersteller
   Level: B1
@@ -10902,10 +10904,11 @@
   Meaning: manufacturer
   WikiMeanings: manufacturer
   Examples:
-    - example1
+    - Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren.
 
 - Id: herunterladen
   Level: A2
+  Synonym: = runterladen
   Form: lädt herunter, lud herunter, hat heruntergeladen
   Meaning: to download
   WikiMeanings: to download (to transfer data from a remote computer to a local one)
