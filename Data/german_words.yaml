@@ -188,67 +188,33 @@
   Type: Prefix
   Meaning: organic
 
-- Id: kriminal-
-  Type: Prefix
-  Meaning: criminal
-
 - Id: sonder-
   Type: Prefix
   Meaning: special
 
 - Id: un-
   Type: Prefix
-  Meaning: prefix (for negation)
+  Meaning: '-un: absence, lack of, contrary to'
 
-- Id: Öko-
-  Type: Unknown
-  Meaning: eco
-
-- Id: Spezial-
-  Type: Unknown
-  Meaning: special
+- Id: öko-
+  Type: Prefix
+  Meaning: 'eco-: ecology, environmental'
 
 - Id: aus-
   Type: Prefix
-  Meaning: out-
-
-- Id: doppel-
-  Type: Prefix
-  Meaning: ; double-.
-
-- Id: letzt-
-  Type: Prefix
-  Meaning: last
-
-- Id: photo-
-  Type: Noun
-
-- Id: swimming-
-  Type: Unknown
+  Meaning: '(sep.) out-: outward, outside, end, undo'
 
 - Id: ver-
   Type: Prefix
-  Meaning: for-
+  Meaning: '(ins.) for-: away, out, up; transition into; faulty action'
 
 - Id: ab-
   Type: Prefix
-  Meaning: off-, away
-
-- Id: auto-
-  Type: Prefix
-  Meaning: auto-
+  Meaning: '(sep.) off-: removal, quitting; down; from, of; different'
 
 - Id: ein-
-  Type: Unknown
-  Meaning: into
-
-- Id: manch-
-  Type: Pronoun
-  Meaning: some
-
-- Id: selb-
-  Type: Unknown
-  Meaning: same
+  Type: Prefix
+  Meaning: (sep.) into
 
 - Id: techno-
   Type: Noun
@@ -256,11 +222,7 @@
 
 - Id: weiter-
   Type: Prefix
-  Meaning: A verb prefix indicating the continuation of an action; equivalent to (?) on.
-
-- Id: aller-
-  Type: Prefix
-  Meaning: very, of them all
+  Meaning: '(sep.) further-: continuation'
 
 - Id: be-
   Type: Prefix
@@ -268,29 +230,19 @@
 
 - Id: ent-
   Type: Prefix
-  Meaning: (inseparable) from, away from, off; reversion; beginning
-
-- Id: meist-
-  Type: Prefix
-  Meaning: most (adj.)
-
-- Id: sogenannt-
-  Type: Adjective
-  Meaning: so-called
+  Meaning: (ins.) from, off; to the opposite; beginning
 
 - Id: tele-
-  Type: Unknown
-
-- Id: welch-
-  Type: Pronoun
-  Meaning: which
+  Type: Prefix
+  Meaning: far
 
 - Id: an-
   Type: Prefix
-  Meaning: on
+  Meaning: (sep.) on, up
 
 - Id: biblio-
-  Type: Unknown
+  Type: Prefix
+  Meaning: book
 
 - Id: foto-
   Type: Prefix
@@ -298,16 +250,8 @@
 
 - Id: miss-
   Type: Prefix
-  Meaning: Same functions and meanings as the English prefix mis-; a nominal, adjectival and inseparable verbal prefix that negates the meaning or expresses the opposite of its stem or indicates that something isn't being done correctly or isn't correct or good.
-
-- Id: solch-
-  Type: Adjective
-  Meaning: such
-
-- Id: traum-
-  Type: Noun
-  Meaning: dream
+  Meaning: '(ins.) mis-: opposite of'
 
 - Id: zer-
   Type: Prefix
-  Meaning: asunder, to pieces, to bits
+  Meaning: (ins.) to pieces
