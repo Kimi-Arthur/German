@@ -5931,7 +5931,7 @@
 - Id: der Einfall
   Level: B1
   Form: ¨-e
-  Meaning: idea
+  Meaning: idea; invasion
   WikiMeanings: idea; invasion, inroad
   Examples:
     - Frag einfach meine Freundin. Sie hat immer gute Einfälle.
@@ -11230,18 +11230,22 @@
 - Id: der Hörer
   Level: B1
   Form: '-'
-  Meaning: listener
+  Feminine:
+    Id: die Hörerin
+    Form: -nen
+  Meaning: listener (H-)
   WikiMeanings: receiver
   Examples:
-    - example1
+    - Die Sendung hat viele Hörer und Hörerinnen.
 
 - Id: die Hose
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: trousers
   WikiMeanings: trousers
   Examples:
-    - example1
+    - Kann ich die Hose waschen?
+    - Können Sie die Hose etwas kürzer machen?
 
 - Id: das Hotel
   Level: A1
@@ -11249,14 +11253,15 @@
   Meaning: hotel
   WikiMeanings: hotel
   Examples:
-    - example1
+    - Im Urlaub sind wir in einem Hotel am Meer.
 
 - Id: hübsch
   Level: B1
   Meaning: pretty, nice
   WikiMeanings: pretty, handsome
   Examples:
-    - example1
+    - Wir haben eine hübsche Wohnung gefunden.
+    - Dietmars neue Freundin ist sehr hübsch.
 
 - Id: der Hügel
   Level: B1
@@ -11264,7 +11269,7 @@
   Meaning: hill
   WikiMeanings: hill
   Examples:
-    - example1
+    - Auf diesem Hügel machen wir eine Pause.
 
 - Id: der Humor
   Level: B1
@@ -11272,7 +11277,18 @@
   Meaning: humor
   WikiMeanings: humor (something funny)
   Examples:
-    - example1
+    - Wir mögen Paul, weil er so viel Humor hat.
+    - Den Humor des Komikers verstehe ich nicht.
+
+- Id: der Hund
+  Level: A1
+  Form: -e
+  Meaning: dog
+  WikiMeanings: dog, hound; scoundrel; dog (mean or morally reprehensible person); A board with casters used to transport heavy objects.
+  Examples:
+    - Der Hund ist noch jung.
+    - Magst du Hunde?
+    - Meine Tochter hat Angst vor Hunden.
 
 - Id: der Hunger
   Level: A1
@@ -11297,15 +11313,16 @@
   Meaning: to hoot
   WikiMeanings: to sound the horn
   Examples:
-    - example1
+    - Hier ist ein Krankenhaus. Hier darfst du nicht hupen.
 
 - Id: husten
-  Level: B1
+  Level: A2
   Form: hustet, hustete, hat gehustet
   Meaning: to cough
   WikiMeanings: to cough
   Examples:
-    - example1
+    - Sie hustet seit zwei Tagen. Sie ist krank.
+    - Der Junge hat die ganze Nacht gehustet.
 
 - Id: der Husten
   Level: B1
@@ -11313,7 +11330,7 @@
   Meaning: cough
   WikiMeanings: 'cough; : the act of coughing, a certain way of it'
   Examples:
-    - example1
+    - Haben Sie ein Medikament gegen Husten?
 
 - Id: der Hut
   Level: B1
@@ -11321,7 +11338,7 @@
   Meaning: hat
   WikiMeanings: hat; head; top; protection keeping, care, supervision, guard, ward
   Examples:
-    - example1
+    - Sie sollten im Sommer nicht ohne Hut in die Sonne gehen.
 
 - Id: die Hütte
   Level: B1
@@ -11329,7 +11346,7 @@
   Meaning: hut
   WikiMeanings: hut, cabin, shack, cottage; metalworks; ironworks
   Examples:
-    - example1
+    - Wir übernachten in der Hütte auf dem Berg.
 
 - Id: der ICE
   Level: A2
@@ -11344,12 +11361,12 @@
   Meaning: ideal
   WikiMeanings: ideal
   Examples:
-    - example1
+    - Eine Wohnung mit Garten wäre für uns ideal.
 
 - Id: die Idee
   Level: A2
   Form: -n
-  Meaning: idea
+  Meaning: idea (I-)
   WikiMeanings: idea
   Examples:
     - Was machen wir heute Abend? Hast du eine gute Idee?
@@ -11360,22 +11377,25 @@
   Meaning: illegal
   WikiMeanings: illegal
   Examples:
-    - example1
+    - Ohne Steuerkarte zu arbeiten ist illegal. Wenn es herauskommt, musst du Strafe zahlen.
 
 - Id: der Imbiss
   Level: B1
   Form: -e
+  Synonym: (D) = (A) Jause = (CH) Znüni/Zvieri
   Meaning: snack
   WikiMeanings: snack; snack bar, fast-food restaurant
   Examples:
-    - example1
+    - Es ist Zeit für einen kleinen Imbiss.
 
 - Id: immer
   Level: A1
   Meaning: always, still
   WikiMeanings: 'always; to a greater degree over time, more and more; '
   Examples:
-    - example1
+    - Frau Bast kommt immer zu spät.
+    - Mein Kollege liegt immer noch im Krankenhaus.
+    - Die Schmerzen werden immer schlimmer.
 
 - Id: der Import
   Level: B1
@@ -11383,28 +11403,38 @@
   Meaning: import
   WikiMeanings: import; import
   Examples:
-    - example1
+    - Im dritten Stock ist die Firma Schmidt & Co, Import und Export.
+    - Der Import von Zigaretten ist nur bis zu einer bestimmten Menge erlaubt.
 
 - Id: in
   Level: A1
   Meaning: in, into
   WikiMeanings: in, inside, within, at (inside a building); in; in, at, by (at the end of or during a period of time); into, to (going inside (of)); ; in, popular (in fashion)
   Examples:
-    - example1
+    - Ich wohne in Wiesbaden.
+    - Der Zug kommt in fünf Minuten.
+    - Frau Rausch arbeitet in einem Geschäft.
+    - Komm, wir gehen ins Kino.
+    - Meine Wohnung ist im dritten Stock.
+    - Wollen wir heute ins Einkaufszentrum gehen?
+    - Rufen Sie bitte in fünf Minuten noch einmal an.
+    - Im Mai war ich in Urlaub.
+    - Wir sind in einer schwierigen Lage.
+    - Meine Tochter kommt nächstes Jahr ins Gymnasium.
 
 - Id: indem
   Level: B1
   Meaning: while, by
   WikiMeanings: by (indicates a means)
   Examples:
-    - example1
+    - Du kannst die Datei öffnen, indem du hier klickst.
 
 - Id: individuell
   Level: B1
   Meaning: individual
   WikiMeanings: individual; personalized
   Examples:
-    - example1
+    - Die Lehrerin versucht, jedes Kind individuell zu fördern.
 
 - Id: die Industrie
   Level: B1
@@ -11412,7 +11442,7 @@
   Meaning: industry
   WikiMeanings: industry
   Examples:
-    - example1
+    - In dieser Gegend gibt es viel Industrie.
 
 - Id: die Infektion
   Level: B1
@@ -11420,15 +11450,17 @@
   Meaning: infection
   WikiMeanings: infection
   Examples:
-    - example1
+    - Sie haben eine Infektion. Sie müssen Tabletten nehmen.
 
 - Id: informieren
-  Level: B1
+  Level: A2
   Form: informiert, informierte, hat informiert
   Meaning: to inform
   WikiMeanings: to inform, to update; to be informed, to be updated
   Examples:
-    - example1
+    - Ich möchte mich vor der Reise über das Land informieren.
+    - Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.
+    - Du musst dich vor der Reise genau über die Bedingungen informieren.
 
 - Id: die Information
   Level: A1
@@ -11454,24 +11486,24 @@
 - Id: der Inhalt
   Level: B1
   Form: -e
-  Meaning: contents
+  Meaning: content
   WikiMeanings: content
   Examples:
-    - example1
+    - Geben Sie den Inhalt der Packung in einen Liter kochendes Wasser.
 
 - Id: inklusive
   Level: B1
   Meaning: inclusive, inclusive of
   WikiMeanings: including; also including the last-mentioned term
   Examples:
-    - example1
+    - Der Zimmerpreis ist inklusive Frühstück.
 
 - Id: innen
   Level: B1
   Meaning: inside
   WikiMeanings: within; inside
   Examples:
-    - example1
+    - Der Lichtschalter ist innen links.
 
 - Id: inner
   Level: B1
@@ -11485,7 +11517,8 @@
   Meaning: within, inside
   WikiMeanings: within, inside; within, in the space of; within, inside; within, in the space of
   Examples:
-    - example1
+    - Diese Fahrkarte gilt nur innerhalb der Stadt.
+    - Nach dem Umzug müssen Sie sich innerhalb einer Woche ummelden.
 
 - Id: das Internet
   Level: A1
@@ -25536,20 +25569,23 @@
     - Ich fühle mich hier wohl. Das ist mein Zuhause.
 
 - Id: zuhören
-  Level: B1
+  Level: A2
   Form: hört zu, hörte zu, hat zugehört
   Meaning: to listen
   WikiMeanings: to listen (to someone or something)
   Examples:
-    - example1
+    - Hör mir doch mal zu! Ich rede mit dir.
 
 - Id: der Zuhörer
   Level: B1
   Form: '-'
-  Meaning: listener
+  Feminine:
+    Id: die Zuhörerin
+    Form: -nen
+  Meaning: listener (Z-)
   WikiMeanings: ; listener; audience
   Examples:
-    - example1
+    - Liebe Zuhörerinnen und Zuhörer, Ihre Meinung interessiert uns. Bitte rufen Sie an!
 
 - Id: die Zukunft
   Level: B1
@@ -26644,16 +26680,6 @@
   WikiMeanings: hare; the constellation Lepus; .
   Examples:
     - example1
-
-- Id: der Hund
-  Level: M
-  Form: -e
-  Meaning: dog
-  WikiMeanings: dog, hound; scoundrel; dog (mean or morally reprehensible person); A board with casters used to transport heavy objects.
-  Examples:
-    - Der Hund ist noch jung.
-    - Magst du Hunde?
-    - Meine Tochter hat Angst vor Hunden.
 
 - Id: das Insekt
   Level: M
