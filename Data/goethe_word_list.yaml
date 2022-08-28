@@ -11383,7 +11383,7 @@
   Level: B1
   Form: -e
   Synonym: (D) = (A) Jause = (CH) Znüni/Zvieri
-  Meaning: snack
+  Meaning: snack (I-)
   WikiMeanings: snack; snack bar, fast-food restaurant
   Examples:
     - Es ist Zeit für einen kleinen Imbiss.
@@ -11739,6 +11739,10 @@
 
 - Id: die Jause
   Level: B1
+  Form: -n
+  Synonym: (A) = (D) Imbiss = (CH) Znüni/Zvieri
+  Meaning: snack (J-)
+  WikiMeanings: snack
   Examples:
     - Es ist Zeit für eine kleine Jause.
 
@@ -11755,29 +11759,36 @@
   Meaning: ever, each, every
   WikiMeanings: ever; per; the
   Examples:
-    - example1
+    - Die Pullover kosten je nach Qualität zwischen 40 und 60 Euro.
+    - Fahren Sie im Juni oder im Juli? - Je nachdem, wann mein Mann Urlaub bekommt.
 
-- Id: je.. desto..
+- Id: je... desto...
   Level: B1
-  Meaning: the.. the.. (comparison)
+  Meaning: the... the... (e.g. the more, the better)
   WikiMeanings: ''
   Examples:
-    - example1
+    - Je mehr, desto besser!
+    - Je länger ich Deutsch lerne, desto besser kann ich es verstehen.
 
 - Id: die Jeans
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: jeans
   WikiMeanings: A pair of jeans, denim trousers
   Examples:
-    - example1
+    - Ich mag Jeans lieber als Röcke.
+    - Nicht nur junge Leute tragen Jeans.
 
 - Id: jeder
   Level: B1
+  Form: jeder, jedes, jede
   Meaning: every
   WikiMeanings: each
   Examples:
-    - example1
+    - Das Restaurant hat jeden Tag geöffnet.
+    - Jedes Kind bekommt ein Spiel.
+    - Die Prospekte bekommen Sie in jedem Reisebüro.
+    - Im Supermarkt gibt es keine Schmerztabletten. Das weiß doch jeder.
 
 - Id: jederzeit
   Level: B1
