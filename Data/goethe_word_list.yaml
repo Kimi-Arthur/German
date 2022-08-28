@@ -955,7 +955,7 @@
 - Id: die Annonce
   Level: B1
   Form: -n
-  Meaning: advertisement
+  Meaning: advertisement (Ann-)
   WikiMeanings: classified ad
   Examples:
     - Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer.
@@ -1003,7 +1003,7 @@
 - Id: die Ansage
   Level: A1
   Form: -n
-  Meaning: advertisement
+  Meaning: advertisement (Ans-)
   WikiMeanings: announcement
   Examples:
     - Hören Sie die Ansagen.
@@ -1195,7 +1195,7 @@
 - Id: die Anzeige
   Level: A1
   Form: -n
-  Meaning: advertisement, announcement
+  Meaning: advertisement, announcement (Anz-)
   WikiMeanings: advertisement, announcement; display; charge, notification
   Examples:
     - Ich habe Ihre Anzeige in der Zeitung gelesen.
@@ -11520,37 +11520,30 @@
     - Diese Fahrkarte gilt nur innerhalb der Stadt.
     - Nach dem Umzug müssen Sie sich innerhalb einer Woche ummelden.
 
-- Id: das Internet
-  Level: A1
-  Form: (Sg.)
-  Meaning: internet
-  WikiMeanings: internet
-  Examples:
-    - Das findest du im Internet.
-    - Du kannst im Internet Musik hören oder Spiele spielen.
-
 - Id: die Insel
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: island
   WikiMeanings: an island, an isle
   Examples:
-    - example1
+    - Ich möchte im Sommer auf einer Insel Urlaub machen.
+    - Rügen ist die größte deutsche Insel.
+    - Ich würde dieses Mal gern auf einer Insel Ferien machen.
+
+- Id: das Inserat
+  Level: B1
+  Form: -e
+  Meaning: advertisement (I-)
+  WikiMeanings: advertisement
+  Examples:
+    - Was kostet ein Inserat in der Zeitung?
 
 - Id: insgesamt
   Level: B1
   Meaning: altogether, in all
   WikiMeanings: overall, altogether, in total, all in all, by and large, on the whole
   Examples:
-    - example1
-
-- Id: das Inserat
-  Level: B1
-  Form: -e
-  Meaning: advertisement
-  WikiMeanings: advertisement
-  Examples:
-    - example1
+    - Insgesamt haben sich 20 Teilnehmer für die Prüfung angemeldet.
 
 - Id: installieren
   Level: B1
@@ -11558,7 +11551,7 @@
   Meaning: to install
   WikiMeanings: to install (set up something for use)
   Examples:
-    - example1
+    - Können Sie mir helfen, meinen Computer zu installieren?
 
 - Id: das Institut
   Level: B1
@@ -11566,15 +11559,15 @@
   Meaning: institute
   WikiMeanings: institute; department
   Examples:
-    - example1
+    - Ich besuche einen Sprachkurs in einem kleinen Sprachinstitut.
 
 - Id: das Instrument
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: instrument
   WikiMeanings: instrument
   Examples:
-    - example1
+    - Ich spiele Klavier. Spielen Sie auch ein Musikinstrument?
 
 - Id: integrieren
   Level: B1
@@ -11582,7 +11575,8 @@
   Meaning: to integrate
   WikiMeanings: to integrate
   Examples:
-    - example1
+    - Sie ist schon sehr gut im Team integriert.
+    - Die Leute aus dem Ausland sollen besser integriert werden.
 
 - Id: die Integration
   Level: B1
@@ -11590,14 +11584,15 @@
   Meaning: integration
   WikiMeanings: integration
   Examples:
-    - example1
+    - Gute Deutschkenntnisse sollen bei der Integration helfen.
 
 - Id: intelligent
-  Level: B1
+  Level: A2
   Meaning: intelligent
   WikiMeanings: intelligent
   Examples:
-    - example1
+    - Einstein war sehr intelligent.
+    - Maria ist sehr intelligent. Sie kann sehr gut rechnen.
 
 - Id: die Intelligenz
   Level: B1
@@ -11605,22 +11600,22 @@
   Meaning: intelligence
   WikiMeanings: intelligence (capacity of mind)
   Examples:
-    - example1
+    - Meine Kinder haben in der Schule einen Intelligenztest gemacht.
 
 - Id: intensiv
   Level: B1
   Meaning: intensive
   WikiMeanings: intense; acute; intensive
   Examples:
-    - example1
+    - Ich möchte intensiv Deutsch lernen.
 
 - Id: der Intensivkurs
   Level: B1
-  Form: <Intensivkurs>
+  Form: -e
   Meaning: intensive course
   WikiMeanings: intensive course
   Examples:
-    - example1
+    - Der Intensivkurs findet täglich von 9 bis 12 Uhr statt.
 
 - Id: interessieren
   Level: A2
@@ -11661,14 +11656,24 @@
   Meaning: intercultural
   WikiMeanings: intercultural
   Examples:
-    - example1
+    - Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.
 
 - Id: international
   Level: A1
   Meaning: international
   WikiMeanings: international
   Examples:
-    - example1
+    - 'Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...'
+    - Der Professor war international bekannt.
+
+- Id: das Internet
+  Level: A1
+  Form: (Sg.)
+  Meaning: internet
+  WikiMeanings: internet
+  Examples:
+    - Das findest du im Internet.
+    - Du kannst im Internet Musik hören oder Spiele spielen.
 
 - Id: das Interview
   Level: B1
@@ -11676,49 +11681,27 @@
   Meaning: interview
   WikiMeanings: interview
   Examples:
-    - example1
+    - Komm schnell! Im Radio kommt ein Interview mit deinem Lieblingssänger.
+    - Ich habe im Fernsehen ein interes- santes Interview mit zwei Schauspielern gesehen.
 
 - Id: inzwischen
   Level: B1
   Meaning: meanwhile
   WikiMeanings: in the meantime
   Examples:
-    - example1
+    - Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.
+
+- Id: irgendein
+  Level: B1
+  Examples:
+    - Was für einen Saft möchten Sie? - Ganz egal, irgendeinen.
 
 - Id: irgendwann
   Level: B1
   Meaning: sometime
   WikiMeanings: sometime, somewhen, anytime; at some point, someday
   Examples:
-    - example1
-
-- Id: irgendwas
-  Level: B1
-  Meaning: something
-  WikiMeanings: ''
-  Examples:
-    - example1
-
-- Id: irgendwo
-  Level: B1
-  Meaning: somewhere
-  WikiMeanings: somewhere; anywhere
-  Examples:
-    - example1
-
-- Id: irgendwer
-  Level: B1
-  Meaning: somebody
-  WikiMeanings: somebody; anybody
-  Examples:
-    - example1
-
-- Id: irgendein
-  Level: B1
-  Meaning: some, any
-  WikiMeanings: some
-  Examples:
-    - example1
+    - Ich habe Sie irgendwann schon mal gesehen.
 
 - Id: sich irren
   Level: B1
@@ -11726,7 +11709,8 @@
   Meaning: to be mistaken
   WikiMeanings: to wander; to err, to be wrong, to be mistaken
   Examples:
-    - example1
+    - Du irrst dich. Das Auto war nicht grün, sondern rot.
+    - Ich habe mich in der Hausnummer geirrt.
 
 - Id: ja
   Level: A1
@@ -17830,7 +17814,7 @@
 - Id: die Reklame
   Level: B1
   Form: -n
-  Meaning: advertising, advertisement
+  Meaning: advertisement (R-)
   WikiMeanings: advertisement
   Examples:
     - example1
@@ -24550,7 +24534,7 @@
 - Id: die Werbung
   Level: B1
   Form: -en
-  Meaning: advertisment
+  Meaning: advertisment (W-)
   WikiMeanings: promotion, solicitation, recruitment; commercial advertisement
   Examples:
     - example1
