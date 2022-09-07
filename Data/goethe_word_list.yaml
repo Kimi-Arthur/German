@@ -11781,7 +11781,7 @@
 
 - Id: jeder
   Level: A1
-  Form: jeder, jedes, jede
+  Form: jeder, jede, jedes
   Meaning: every
   WikiMeanings: each
   Examples:
@@ -11810,21 +11810,24 @@
   Meaning: however
   WikiMeanings: however, yet, nevertheless, but.
   Examples:
-    - example1
+    - Sie ruft immer wieder an, jedoch ohne Erfolg.
 
 - Id: jemals
   Level: B1
   Meaning: ever
   WikiMeanings: ever
   Examples:
-    - example1
+    - Hast du jemals von dem Problem gehört? - Nein, nie.
 
 - Id: jemand
-  Level: B1
+  Level: A2
   Meaning: someone
   WikiMeanings: someone, somebody
   Examples:
-    - example1
+    - Hat jemand meinen Stift?
+    - Hallo, ist jemand da?
+    - Hat jemand einen Bleistift für mich?
+    - Kennst du jemand, der mir ein Fahrrad leihen kann?
 
 - Id: jetzt
   Level: A1
@@ -11843,7 +11846,7 @@
   Meaning: each time
   WikiMeanings: in each case; each
   Examples:
-    - example1
+    - Der Kurs findet jeweils montags und donnerstags um 18 Uhr statt.
 
 - Id: der Job
   Level: A1
@@ -11887,38 +11890,54 @@
   Meaning: youth
   WikiMeanings: youth; the group of all young people
   Examples:
-    - example1
+    - In meiner Jugend habe ich mich sehr für Musik interessiert.
 
 - Id: der Jugendliche
   Level: A1
-  Form: <Jugendliche>
+  Form: -n
+  Feminine:
+    Id: die Jugendliche
+    Form: -nen
   Meaning: young person, teenager
   WikiMeanings: ': female youth, female teenager, female adolescent'
   Examples:
-    - example1
+    - Viele Jugendliche kaufen gern ein.
+    - Viele Jugendliche hören den ganzen Tag Musik.
+    - Der Eintritt für Kinder und Jugendliche bis 16 Jahre ist frei.
+    - Die Jugendlichen gehen gerne in die Disko.
+    - Der Eintritt ist für Kinder und Jugendliche bis 16 Jahre frei.
 
 - Id: die Jugendherberge
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: youth hostel
   WikiMeanings: youth hostel
   Examples:
-    - example1
+    - Wir übernachten in einer Jugendherberge.
+    - Wo habt ihr übernachtet? - In einer Jugendherberge.
 
 - Id: jung
   Level: A1
   Meaning: young
   WikiMeanings: young
   Examples:
-    - example1
+    - Claudia ist 21. - Was? Noch so jung?
+    - Bei uns im Haus wohnen viele junge Leute.
+    - Mein Bruder ist fünf Jahre jünger als ich.
+    - Für diesen Film bist du noch zu jung.
+    - Meine Mutter ist jung geblieben.
+    - Ich habe sehr jung geheiratet.
+    - Ich bin in unserer Familie die Jüngste.
 
 - Id: der Junge
   Level: A1
   Form: -n
+  Synonym: (D) = (A, CH) Bub
   Meaning: boy (J-)
   WikiMeanings: boy; jack
   Examples:
-    - example1
+    - Ich habe zwei Kinder. Einen Jungen und ein Mädchen.
+    - In der Klasse von meiner Tochter sind 13 Jungen und 15 Mädchen.
 
 - Id: das Kabel
   Level: B1
@@ -11926,7 +11945,8 @@
   Meaning: cable
   WikiMeanings: cable; telegram; thick rope
   Examples:
-    - example1
+    - Wo ist das Kabel für das Aufnahmegerät?
+    - Mit Kabel bekommen Sie über 30 Fernsehkanäle.
 
 - Id: die Kabine
   Level: B1
@@ -11934,7 +11954,7 @@
   Meaning: cabin, cubicle
   WikiMeanings: cabin, cubicle
   Examples:
-    - example1
+    - Um zu wählen, gehen Sie bitte in diese Kabine.
 
 - Id: der Kaffee
   Level: A1
@@ -11946,6 +11966,12 @@
     - Einen Kaffee, bitte.
     - Bring bitte noch eine Packung Kaffee mit.
     - Wir sind bei Müllers zum Kaffee eingeladen.
+
+- Id: das Kaffeehaus
+  Level: B1
+  Meaning: meaning
+  Examples:
+    - Hier in der Nähe ist ein Kaffeehaus. Lass uns einen Kaffee trinken.
 
 - Id: der Kakao
   Level: B1
