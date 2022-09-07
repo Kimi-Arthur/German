@@ -11969,7 +11969,9 @@
 
 - Id: das Kaffeehaus
   Level: B1
-  Meaning: meaning
+  Form: ¨-er
+  Meaning: coffeehouse
+  WikiMeanings: coffeehouse
   Examples:
     - Hier in der Nähe ist ein Kaffeehaus. Lass uns einen Kaffee trinken.
 
@@ -11979,7 +11981,7 @@
   Meaning: cocoa
   WikiMeanings: cocoa; cocoa, hot chocolate; cacao
   Examples:
-    - example1
+    - Zum Frühstück trinke ich immer einen Kakao.
 
 - Id: der Kalender
   Level: A2
@@ -12015,12 +12017,13 @@
     - Bei dieser Kälte fahre ich nicht mit dem Fahrrad.
 
 - Id: die Kamera
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: camera
   WikiMeanings: camera (device for taking photographs or filming)
   Examples:
-    - example1
+    - Er kann mit der Kamera Fotos und Filme machen.
+    - Ich habe eine ganz neue Kamera.
 
 - Id: kämpfen
   Level: B1
@@ -12036,7 +12039,7 @@
   Meaning: fight, struggle
   WikiMeanings: fight, struggle
   Examples:
-    - example1
+    - Im Schulbus gibt es immer einen Kampf um die Sitzplätze.
 
 - Id: der Kanal
   Level: B1
@@ -12044,7 +12047,7 @@
   Meaning: canal
   WikiMeanings: canal; something that resembles such a watercourse, e.g. a vessel in the body; channel; channel
   Examples:
-    - example1
+    - Mit Kabel bekommen Sie über 30 Fernsehkanäle.
 
 - Id: der Kandidat
   Level: B1
@@ -12052,15 +12055,16 @@
   Meaning: candidate
   WikiMeanings: candidate
   Examples:
-    - example1
+    - Wie viele Kandidaten kommen zur Prüfung?
 
 - Id: die Kanne
   Level: B1
   Form: -n
-  Meaning: can
+  Meaning: can, pot
   WikiMeanings: can, jug, pot
   Examples:
-    - example1
+    - Das ist aber eine schöne Teekanne. - Ja, die ist aus China.
+    - Bitte einen Kaffee! - Eine Tasse oder ein Kännchen?
 
 - Id: die Kantine
   Level: B1
@@ -12068,7 +12072,7 @@
   Meaning: canteen
   WikiMeanings: canteen
   Examples:
-    - example1
+    - In unserer Kantine kann man günstig essen.
 
 - Id: das Kapitel
   Level: B1
