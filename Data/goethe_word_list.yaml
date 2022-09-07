@@ -13390,19 +13390,22 @@
     - Stell die Milch in den Kühlschrank!
 
 - Id: die Kultur
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: culture
   WikiMeanings: culture
   Examples:
-    - example1
+    - Ich interessiere mich für andere Länder und Kulturen.
+    - Ich finde fremde Länder und Kulturen sehr interessant.
+    - Jana interessiert sich sehr für Kultur. Sie geht jede Woche ins Theater oder ins Museum.
 
 - Id: kulturell
   Level: A1
   Meaning: cultural
   WikiMeanings: cultural
   Examples:
-    - example1
+    - Es gibt große kulturelle Unterschiede zwischen den Ländern.
+    - Ich bin kulturell interessiert. Ich gehe oft ins Museum.
 
 - Id: sich kümmern
   Level: A1
@@ -13410,7 +13413,9 @@
   Meaning: to look after
   WikiMeanings: to take care, to look after; to grieve, to afflict, to trouble, to concern
   Examples:
-    - example1
+    - Ich habe keine Zeit. Ich muss mich um das Essen kümmern.
+    - Jede Mutter kümmert sich um ihre kleinen Kinder.
+    - Sonja kann nicht arbeiten. Sie muss sich um ihre Tochter kümmern.
 
 - Id: der Kunde
   Level: A1
@@ -13431,7 +13436,10 @@
   Meaning: to give one's notice, terminate
   WikiMeanings: to cancel (a contract); to quit, resign from (a job); to fire (an employee)
   Examples:
-    - example1
+    -  Ich war mit meiner Stelle nicht zufrieden und habe gekündigt.
+    - Hast du deine Wohnung schon gekündigt?
+    - Ich möchte die Zeitschrift nicht mehr. - Dann musst du schriftlich kündigen.
+    - Meine Arbeit gefällt mir nicht mehr. Ich habe heute gekündigt.
 
 - Id: die Kündigung
   Level: B1
@@ -13439,7 +13447,7 @@
   Meaning: termination
   WikiMeanings: a declaration of will ending a continuing obligation, termination, dismissal, resignation, notice, quitting
   Examples:
-    - example1
+    - Ich habe die Kündigung bekommen. Jetzt bin ich arbeitslos.
 
 - Id: die Kunst
   Level: A2
@@ -13466,7 +13474,7 @@
   Meaning: artificial
   WikiMeanings: artificial
   Examples:
-    - example1
+    - Ich mag kein künstliches Licht.
 
 - Id: der Kunststoff
   Level: B1
@@ -13474,7 +13482,7 @@
   Meaning: artificial material
   WikiMeanings: plastic (a stiff but usually slightly flexible synthetic material)
   Examples:
-    - example1
+    - Der Stuhl ist aus Kunststoff.
 
 - Id: der Kurs
   Level: A1
@@ -13482,15 +13490,20 @@
   Meaning: course
   WikiMeanings: course (direction); course (learning); exchange rate, market price
   Examples:
-    - example1
+    - Ich besuche regelmäßig einen Deutschkurs.
+    - Der Deutschkurs geht bis zum Sommer.
+    - Der Deutschkurs dauert zwei Monate.
 
 - Id: der Kursleiter
   Level: B1
   Form: '-'
-  Meaning: course leader
+  Feminine:
+    Id: die Kursleiter
+    Form: -nen
+  Meaning: course director
   WikiMeanings: course director
   Examples:
-    - example1
+    - Die Kursleiterin ist mit unserer Kursgruppe manchmal in den Computerraum gegangen.
 
 - Id: die Kurve
   Level: B1
@@ -13498,7 +13511,8 @@
   Meaning: curve
   WikiMeanings: bend (curve)
   Examples:
-    - example1
+    - Fahr bitte nicht so schnell in die Kurven.
+    - Achtung. Das Stauende ist gleich hinter einer Kurve.
 
 - Id: kurz
   Level: A1
@@ -13518,7 +13532,7 @@
   Meaning: lately, recently
   WikiMeanings: recently, lately (in the recent past); recent
   Examples:
-    - example1
+    - Wir haben doch kürzlich darüber gesprochen, dass wir am Wochenende wegfahren wollen.
 
 - Id: küssen
   Level: B1
@@ -13526,7 +13540,8 @@
   Meaning: to kiss
   WikiMeanings: to kiss; to make out
   Examples:
-    - example1
+    - Er nahm sie in die Arme und küsste sie.
+    - Beim Verabsch
 
 - Id: der Kuss
   Level: B1
@@ -13534,7 +13549,7 @@
   Meaning: kiss
   WikiMeanings: kiss
   Examples:
-    - example1
+    - Gib der Mama einen Kuss!
 
 - Id: die Küste
   Level: B1
@@ -13542,7 +13557,12 @@
   Meaning: coast
   WikiMeanings: coast
   Examples:
-    - example1
+    - Unser Dorf liegt direkt an der Küste.
+
+- Id: das Kuvert
+  Level: B1
+  Examples:
+    - Ich hätte gern 50 Kuverts und Briefmarken dazu.
 
 - Id: lächeln
   Level: B1
