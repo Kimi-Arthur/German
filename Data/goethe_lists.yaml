@@ -348,6 +348,8 @@
     - die Karte
     - die Kartoffel
     - die Kasse
+    - kaufen
+    - kein
     - kennen
     - kennenlernen
     - das Kind
@@ -367,6 +369,7 @@
     - der Kopf
     - kosten
     - krank
+    - die Kreditkarte
     - kriegen
     - die Küche
     - der Kuchen
@@ -1206,52 +1209,75 @@
     - die Jacke
     - die Jeans
     - jeder
+    - jemand
     - jetzt
     - der Job
     - joggen
     - der Journalist
     - der Jugendliche
+    - die Jugendherberge
     - jung
     - der Junge
     - der Kaffee
     - der Kalender
     - kalt
+    - die Kamera
     - kaputt
     - die Karte
     - die Kartoffel
     - die Kasse
+    - die Katze
+    - kaufen
+    - das Kaufhaus
+    - kein
+    - der Keller
     - der Kellner
     - kennen
     - kennenlernen
+    - die Kenntnis
     - das Kind
     - der Kindergarten
     - das Kino
     - der Kiosk
+    - die Kirche
     - klar
     - die Klasse
+    - das Klavier
+    - das Kleid
     - die Kleidung
     - klein
     - der Klub
+    - klug
     - kochen
     - der Koffer
     - der Kollege
+    - komisch
     - kommen
     - können
+    - der Kontakt
     - das Konto
     - kontrollieren
+    - das Konzert
     - der Kopf
+    - der Körper
+    - die Kosmetik
     - kosten
     - kostenlos
     - krank
     - das Krankenhaus
     - die Krankenkasse
     - die Krankheit
+    - der Kredit
+    - die Kreditkarte
+    - die Kreuzung
     - kriegen
+    - der Krimi
     - die Küche
     - der Kuchen
     - der Kugelschreiber
     - kühl
     - der Kühlschrank
+    - die Kultur
     - kulturell
     - sich kümmern
     - der Kunde
@@ -2968,6 +2994,7 @@
     - das Kabel
     - die Kabine
     - der Kaffee
+    - das Kaffeehaus
     - der Kakao
     - der Kalender
     - kalt
@@ -2995,16 +3022,18 @@
     - der Kasten
     - der Katalog
     - die Katastrophe
-    - (sich etwas) kaufen
+    - die Katze
+    - kaufen
     - der Kauf
     - der Käufer
+    - das Kaufhaus
     - kaum
     - kein
     - der Keller
     - der Kellner
     - kennen
     - kennenlernen
-    - die Kenntnisse
+    - die Kenntnis
     - das Kennzeichen
     - die Kerze
     - der Ketchup
@@ -3061,6 +3090,7 @@
     - kompliziert
     - der Kompromiss
     - die Konferenz
+    - die Konfitüre
     - der Konflikt
     - der König
     - die Konkurrenz
@@ -3084,6 +3114,7 @@
     - korrekt
     - der Korridor
     - korrigieren
+    - die Kosmetik
     - kosten
     - die Kosten
     - kostenlos
@@ -3108,7 +3139,6 @@
     - die Kreuzung
     - der Krieg
     - kriegen
-    - kriminal-
     - die Kriminalpolizei
     - der Krimi
     - die Krise
@@ -3139,6 +3169,7 @@
     - küssen
     - der Kuss
     - die Küste
+    - das Kuvert
     - lächeln
     - lachen
     - der Laden
@@ -3248,7 +3279,6 @@
     - die Mailbox
     - mailen
     - das Mal
-    - jedes Mal
     - malen
     - der Maler
     - man
