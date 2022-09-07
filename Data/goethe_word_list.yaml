@@ -12434,20 +12434,22 @@
     - Zeitungen kannst du am Kiosk kaufen.
 
 - Id: die Kirche
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: church
   WikiMeanings: church; church; an assembly
   Examples:
+    - Diese Kirche ist fast 800 Jahre alt.
     - Diese Kirche ist aus dem 12. Jahrhundert.
 
 - Id: die Kiste
   Level: B1
   Form: -n
+  Synonym: (A, D) = (D) Kasten
   Meaning: case, box
   WikiMeanings: chest, box; bed, sleeping furniture; old banger, hooptie; television set; computer tower; affair, matter; coffin wherein one is interred; fundament, buttocks
   Examples:
-    - example1
+    - Ich habe zwei Kisten Bier gekauft.
 
 - Id: das Kissen
   Level: B1
@@ -12455,7 +12457,7 @@
   Meaning: pillow
   WikiMeanings: cushion; pillow; all the soft parts of a bed, i.e. mattress, duvet, and pillow collectively
   Examples:
-    - example1
+    - Ohne Kopfkissen kann ich nicht schlafen.
 
 - Id: klagen
   Level: B1
@@ -12463,15 +12465,15 @@
   Meaning: to complain
   WikiMeanings: to complain (to express feelings of pain, dissatisfaction, or resentment); to wail, lament; to sue
   Examples:
-    - example1
+    - Sie klagt über Kopfschmerzen.
 
 - Id: klappen
   Level: B1
   Form: klappt, klappte, hat geklappt
-  Meaning: to work (well), gp as planned
+  Meaning: to work (well / as planned)
   WikiMeanings: to clap; to fold; to flip; to bend; to work out, to succeed, to function correctly, etc.
   Examples:
-    - example1
+    - Wie war die Reise? - Gut. Es hat alles prima geklappt.
 
 - Id: klar
   Level: A1
@@ -12487,14 +12489,14 @@
   Meaning: to resolve; to clarify
   WikiMeanings: to clarify, to clear up (an issue or misunderstanding), to fill in unknown details, to resolve, to sort out (a problem or a question); to clarify, to remove (visible contaminants); to become clear; to seduce, to wrap around one's little finger as a sex object
   Examples:
-    - example1
+    - Ich hoffe, wir können dieses Problem bald klären.
 
 - Id: klasse
   Level: B1
   Meaning: class, great
   WikiMeanings: great, awesome
   Examples:
-    - example1
+    - Ich finde unseren Lehrer klasse.
 
 - Id: die Klasse
   Level: A1
@@ -12502,18 +12504,23 @@
   Meaning: class
   WikiMeanings: a class; a grouping; class; excellence
   Examples:
-    - example1
+    - In unserer Klasse sind fünfundzwanzig Schüler.
+    - Im Zug fahre ich immer 2. Klasse.
+    -  In der Klasse sind 24 Schülerinnen und Schüler.
+    -  Im Herbst komme ich in die 7. Klasse.
+    - Einmal nach Frankfurt, 1. Klasse, bitte.
 
 - Id: die Klassenarbeit
   Level: B1
   Form: -en
+  Synonym: (D) = (A) Schularbeit
   Meaning: class test
   WikiMeanings: written class test, exam
   Examples:
-    - example1
+    - Mein Sohn schreibt bei Klassenarbeiten immer gute Noten.
 
 - Id: das Klavier
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: piano
   WikiMeanings: piano
@@ -12524,18 +12531,20 @@
 - Id: kleben
   Level: B1
   Form: klebt, klebte, hat geklebt
-  Meaning: to stick
+  Meaning: to glue, to stick
   WikiMeanings: to glue; to stick; to be sticky
   Examples:
-    - example1
+    - Die Briefmarke klebt nicht mehr.
+    - Ich klebe Ihnen ein Pflaster darauf.
 
 - Id: das Kleid
-  Level: B1
+  Level: A2
   Form: -er
   Meaning: dress
   WikiMeanings: dress, gown; garment; clothes
   Examples:
-    - example1
+    - Julia möchte ein rotes Kleid kaufen.
+    - Ich habe mir ein neues Kleid gekauft.
 
 - Id: die Kleidung
   Level: A1
@@ -12543,7 +12552,8 @@
   Meaning: clothes
   WikiMeanings: clothing; apparel; clothes
   Examples:
-    - example1
+    - Wo finde ich Kleidung? - Jacken im ersten, Jeans im zweiten Stock.
+    - Hier brauchen Sie auch im Sommer warme Kleidung.
 
 - Id: klein
   Level: A1
@@ -12561,7 +12571,7 @@
   Meaning: to climb
   WikiMeanings: to climb (e.g. up a tree)
   Examples:
-    - example1
+    - Die Kinder sind auf den Baum geklettert.
 
 - Id: klicken
   Level: B1
@@ -12569,7 +12579,7 @@
   Meaning: to click
   WikiMeanings: to click
   Examples:
-    - example1
+    - Wenn du die Datei öffnen willst, musst du mit der Maus zweimal klicken.
 
 - Id: der Klick
   Level: B1
@@ -12577,7 +12587,7 @@
   Meaning: click
   WikiMeanings: 'click; '
   Examples:
-    - example1
+    - Um das Wort zu markieren, genügt ein Doppelklick mit der linken Maustaste.
 
 - Id: das Klima
   Level: B1
@@ -12585,7 +12595,7 @@
   Meaning: climate
   WikiMeanings: climate
   Examples:
-    - example1
+    - Alle sagen, dass sich das Klima ändert.
 
 - Id: die Klimaanlage
   Level: B1
@@ -12593,15 +12603,16 @@
   Meaning: air conditioner
   WikiMeanings: air conditioner
   Examples:
-    - example1
+    - Im Sommer brauchen wir eine Klimaanlage.
 
 - Id: klingeln
   Level: B1
   Form: klingelt, klingelte, hat geklingelt
-  Meaning: to ring
+  Meaning: to ring (like a bell)
   WikiMeanings: to ring (to produce the sound of a bell or a similar sound)
   Examples:
-    - example1
+    - Ich glaube, es hat an der Tür geklingelt.
+    - Das Telefon klingelt.
 
 - Id: die Klingel
   Level: B1
@@ -12609,7 +12620,7 @@
   Meaning: door bell
   WikiMeanings: bell
   Examples:
-    - example1
+    - Drück bitte auf die Klingel!
 
 - Id: klingen
   Level: B1
@@ -12617,7 +12628,7 @@
   Meaning: to sound
   WikiMeanings: to ring; to clink; to sound
   Examples:
-    - example1
+    - Wollen wir einkaufen gehen und danach zusammen kochen? - Ja, das klingt gut.
 
 - Id: die Klinik
   Level: B1
@@ -12625,7 +12636,7 @@
   Meaning: clinic, hospital
   WikiMeanings: clinic
   Examples:
-    - example1
+    - Ich muss in die Klinik, um meinen kranken Onkel zu besuchen.
 
 - Id: klopfen
   Level: B1
@@ -12633,15 +12644,18 @@
   Meaning: to knock
   WikiMeanings: to knock, to rap; to throb; to beat quickly or audibly
   Examples:
-    - example1
+    - Da klopft jemand ans Fenster.
+    - Hat es nicht eben geklopft?
+    - Bitte klopfen Sie an.
 
 - Id: der Kloß
   Level: B1
   Form: ¨-e
-  Meaning: dumpling
+  Synonym: (D) = (D, A) Knödel
+  Meaning: dumpling (4)
   WikiMeanings: thickish lump; dumpling; fatso; overweight person
   Examples:
-    - example1
+    - Möchten Sie zum Fleisch Kartoffeln oder Klöße? - Klöße, bitte.
 
 - Id: der Klub
   Level: A2
@@ -12653,18 +12667,27 @@
     - Ich möchte gern tanzen gehen. Wo gibt es hier einen Klub mit guter Musik?
 
 - Id: klug
-  Level: B1
+  Level: A2
   Meaning: clever
   WikiMeanings: intelligent, prudent, wise, smart
   Examples:
-    - example1
+    - Molly ist ein kluges Mädchen.
+    - Lisa ist sehr klug. Sie bekommt immer gute Noten.
+    - Das ist klug von dir.
+    - Ich halte sie für klug.
+    - Er hat sich in der Diskussion nicht besonders klug verhalten.
+    - Das ist ein kluger Hund.
 
 - Id: knapp
   Level: B1
   Meaning: tight, scarce, short, just
   WikiMeanings: scarce; lean; somewhat less (than); short or tight; a close call, a narrow escape; narrowly, just, barely; somewhat less than, almost
   Examples:
-    - example1
+    - Mach schnell. Die Zeit ist knapp.
+    - Unser Geld wird knapp. Wir müssen sparen.
+    - Die Fahrt war kurz. Nur knapp eine Stunde.
+    - Die Wohnung hat nur knapp 30 m².
+    - Der Tisch hat nur knapp 50 Euro gekostet.
 
 - Id: die Kneipe
   Level: B1
@@ -12681,7 +12704,7 @@
   Meaning: knee
   WikiMeanings: knee
   Examples:
-    - example1
+    - Ich habe mich am Knie verletzt. Jetzt kann ich nicht laufen.
 
 - Id: der Knochen
   Level: B1
@@ -12689,15 +12712,16 @@
   Meaning: bone
   WikiMeanings: bone
   Examples:
-    - example1
+    - Ich bin hingefallen. Jetzt tun mir alle Knochen weh.
 
 - Id: der Knödel
   Level: B1
   Form: '-'
-  Meaning: dumpling
+  Synonym: (D, A) = (D) Kloß
+  Meaning: dumpling (6)
   WikiMeanings: dumpling
   Examples:
-    - example1
+    - Möchten Sie zum Fleisch Erdäpfel oder Knödel? - Knödel bitte.
 
 - Id: der Knopf
   Level: B1
@@ -12705,7 +12729,8 @@
   Meaning: button
   WikiMeanings: button; button; stud, knob, e.g. a doorknob; .
   Examples:
-    - example1
+    - An meiner Jacke fehlt ein Knopf.
+    - Der Fahrstuhl kommt nicht. - Sie müssen auf den Knopf drücken.
 
 - Id: kochen
   Level: A1
@@ -12735,7 +12760,9 @@
   Meaning: suitcase
   WikiMeanings: a case; a suitcase or briefcase; idiot, fool
   Examples:
-    - example1
+    - Ist das Ihr Koffer?
+    - Hast du den Koffer schon gepackt?
+    - Ich habe den Koffer schon gepackt.
 
 - Id: der Kollege
   Level: A1
