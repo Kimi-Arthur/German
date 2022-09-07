@@ -12292,12 +12292,15 @@
     - Was für ein Auto haben Sie? - Ich habe keins.
 
 - Id: der Keller
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: cellar
   WikiMeanings: cellar; basement; .
   Examples:
-    - example1
+    - Bitte bring die Kartoffeln in den Keller!
+    - Die Waschmaschinen sind im Keller.
+    - Unser Keller ist nicht besonders groß.
+
 
 - Id: der Kellner
   Level: A2
@@ -12327,15 +12330,18 @@
   Meaning: to get to know, meet
   WikiMeanings: to meet sb
   Examples:
-    - example1
+    - Wir sind neu hier. Wir möchten Sie kennenlernen.
+    - Wo habt ihr euch kennengelernt? - Wir haben uns in München kennengelernt.
+    - Ich möchte gern reisen und andere Länder kennenlernen.
 
-- Id: die Kenntnisse
-  Level: B1
-  Form: <Kenntnisse>
+- Id: die Kenntnis
+  Level: A2
   Meaning: knowledge
   WikiMeanings: knowledge
   Examples:
-    - example1
+    - Deine Deutschkenntnisse sind sehr gut!
+    -  In vielen Berufen braucht man heute Sprachkenntnisse.
+    - Ich möchte meine Deutschkenntnisse verbessern.
 
 - Id: das Kennzeichen
   Level: B1
@@ -12351,7 +12357,7 @@
   Meaning: candle
   WikiMeanings: candle
   Examples:
-    - example1
+    - Für den Geburtstagstisch brauchen wir viele Blumen und Kerzen.
 
 - Id: der Ketchup
   Level: B1
@@ -12367,7 +12373,7 @@
   Meaning: chain
   WikiMeanings: chain; necklace, bracelet, anklet; chain, shackle, fetter; chain, series; chain of businesses; company with several chain stores
   Examples:
-    - example1
+    - Ich habe zum Geburtstag eine goldene Kette bekommen.
 
 - Id: der Killer
   Level: B1
@@ -12414,15 +12420,18 @@
   Meaning: cinema
   WikiMeanings: cinema
   Examples:
-    - example1
+    - Wir sehen heute Abend im Kino einen schönen Film.
+    - Gehen wir heute Abend zusammen ins Kino?
+    - Wollen wir ins Kino gehen?
 
 - Id: der Kiosk
   Level: A1
   Form: -e
-  Meaning: kiosk
+  Meaning: kiosk, convenience store
   WikiMeanings: kiosk; convenience store
   Examples:
-    - example1
+    - Zeitungen bekommst du am Kiosk.
+    - Zeitungen kannst du am Kiosk kaufen.
 
 - Id: die Kirche
   Level: B1
@@ -12430,7 +12439,7 @@
   Meaning: church
   WikiMeanings: church; church; an assembly
   Examples:
-    - example1
+    - Diese Kirche ist aus dem 12. Jahrhundert.
 
 - Id: die Kiste
   Level: B1
