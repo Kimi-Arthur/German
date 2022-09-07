@@ -12782,7 +12782,9 @@
   Meaning: strange, funny, odd
   WikiMeanings: comedic, comic, pertaining to comedy; funny, comical; peculiar, weird, strange, funny
   Examples:
-    - example1
+    - Das Essen schmeckt komisch. Probier mal.
+    - Der Film war sehr komisch. Wir haben viel gelacht.
+    - Eine grüne Hose und gelbe Schuhe? Das sieht komisch aus.
 
 - Id: kommen
   Level: A1
@@ -12816,21 +12818,22 @@
   Meaning: communication
   WikiMeanings: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
   Examples:
-    - example1
+    - Die Kommunikation zwischen den Abteilungen ist gut.
 
 - Id: komplett
   Level: B1
   Meaning: completely
   WikiMeanings: complete
   Examples:
-    - example1
+    -  Ich habe den Termin komplett vergessen.
+    - Die Wohnung ist jetzt komplett eingerichtet.
 
 - Id: kompliziert
   Level: B1
   Meaning: complicated
   WikiMeanings: complicated, complex; sophisticated
   Examples:
-    - example1
+    - Er schreibt viel zu kompliziert.
 
 - Id: der Kompromiss
   Level: B1
@@ -12838,7 +12841,7 @@
   Meaning: compromise
   WikiMeanings: compromise
   Examples:
-    - example1
+    - Alle wollen etwas anderes. Wir müssen einen Kompromiss finden.
 
 - Id: die Konferenz
   Level: B1
@@ -12847,6 +12850,12 @@
   WikiMeanings: conference
   Examples:
     - Die Konferenz findet in Raum 19 statt.
+
+- Id: die Konfitüre
+  Level: B1
+  Meaning: meaning
+  Examples:
+    - Bring bitte noch ein Glas Konfitüre mit.
 
 - Id: der Konflikt
   Level: B1
