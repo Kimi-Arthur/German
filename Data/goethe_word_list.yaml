@@ -12301,7 +12301,6 @@
     - Die Waschmaschinen sind im Keller.
     - Unser Keller ist nicht besonders groß.
 
-
 - Id: der Kellner
   Level: A2
   Form: '-'
@@ -12336,11 +12335,12 @@
 
 - Id: die Kenntnis
   Level: A2
+  Form: -se
   Meaning: knowledge
-  WikiMeanings: knowledge
+  WikiMeanings: knowledge; skills; awareness; science (knowledge gained through study or practice)
   Examples:
     - Deine Deutschkenntnisse sind sehr gut!
-    -  In vielen Berufen braucht man heute Sprachkenntnisse.
+    - In vielen Berufen braucht man heute Sprachkenntnisse.
     - Ich möchte meine Deutschkenntnisse verbessern.
 
 - Id: das Kennzeichen
