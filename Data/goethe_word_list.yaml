@@ -12778,7 +12778,7 @@
     - Mein neuer Kollege ist sehr nett.
 
 - Id: komisch
-  Level: B1
+  Level: A2
   Meaning: strange, funny, odd
   WikiMeanings: comedic, comic, pertaining to comedy; funny, comical; peculiar, weird, strange, funny
   Examples:
@@ -12892,7 +12892,6 @@
   Meaning: to be able to
   WikiMeanings: to be able (to do or be something), to have the possibility of; can.
   Examples:
-    - Ich kann Deutsch und Russisch.
     - Können Sie mir helfen?
     - Ich kann Deutsch und Russisch. Aber Englisch kann ich nicht.
     - Ich kann den schweren Koffer nicht tragen.
@@ -12900,6 +12899,7 @@
     - Kann ich jetzt nach Hause gehen?
     - Ich kann sehr gut Englisch und Deutsch.
     - Es kann sein, dass es heute noch regnet.
+    - Du kannst durch den Park laufen, das ist am schnellsten.
 
 - Id: das Konsulat
   Level: B1
@@ -12926,12 +12926,13 @@
     - Der Konsum von Lebensmitteln steigt.
 
 - Id: der Kontakt
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: contact
   WikiMeanings: contact; junction
   Examples:
     - Ich habe wenig Kontakt zu meinen Kollegen.
+    - Bitte schicken Sie mir Ihre Kontaktdaten!
 
 - Id: das Konto
   Level: A1
@@ -12978,7 +12979,7 @@
     - Bitte stör mich jetzt nicht. Ich muss mich auf meine Arbeit konzentrieren.
 
 - Id: das Konzert
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: concert
   WikiMeanings: concert; concerto
@@ -12991,6 +12992,7 @@
   Meaning: head
   WikiMeanings: head; crown, top; heading, title; person; individual; fellow (referring to one's intellect or mentality); head; heads
   Examples:
+    - Mein Kopf tut weh!
     - Ich habe Kopfschmerzen.
     - Michael kann gut im Kopf rechnen.
 
@@ -13021,7 +13023,7 @@
     - Der Kopierer ist schon wieder kaputt.
 
 - Id: der Körper
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: body
   WikiMeanings: body (of a person, animal, etc.); body; body, solid; field
@@ -13059,6 +13061,11 @@
   Examples:
     - Können Sie bitte meinen Brief korrigieren?
     - Der Lehrer hat meine Fehler korrigiert.
+
+- Id: die Kosmetik
+  Level: A2
+  Examples:
+    - Kosmetik können Sie im Erdgeschoss kaufen.
 
 - Id: kosten
   Level: A1
