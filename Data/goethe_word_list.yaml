@@ -6685,7 +6685,7 @@
   Level: B1
   Form: ¨-
   Synonym: (A) = Kartoffel
-  Meaning: potato
+  Meaning: potato (A)
   WikiMeanings: potato
   Examples:
     - Kann ich bitte noch Erdäpfel bekommen?
@@ -7389,6 +7389,7 @@
     - Hast du schon eine Fahrkarte?
     - Ihre Fahrkarten, bitte!
     - Fahrkarten bekommt man am Automaten.
+    - Fahrkarten können Sie am Schalter kaufen.
 
 - Id: der Fahrplan
   Level: B1
@@ -12084,7 +12085,7 @@
 
 - Id: kaputt
   Level: A1
-  Meaning: broken
+  Meaning: broken out of order
   WikiMeanings: destroyed, broken, out of order; tired, exhausted
   Examples:
     - Das Glas war teuer. Es geht sehr leicht kaputt.
@@ -12094,7 +12095,7 @@
 - Id: kaputtgehen
   Level: B1
   Form: geht kaputt, ging kaputt, ist kaputtgegangen
-  Meaning: to get broken
+  Meaning: to get broken, to break down
   WikiMeanings: to break, break down, fall to pieces, go to pot
   Examples:
     - Pass bitte mit diesem Glas auf. Es geht leicht kaputt.
@@ -12120,10 +12121,11 @@
 - Id: die Karotte
   Level: B1
   Form: -n
+  Synonym: = (D) Möhre = (CH) Rüebli
   Meaning: carrot
   WikiMeanings: carrot
   Examples:
-    - example1
+    - Hasen fressen gern Karotten.
 
 - Id: die Karriere
   Level: B1
@@ -12131,7 +12133,7 @@
   Meaning: career
   WikiMeanings: career
   Examples:
-    - example1
+    - Mein Bruder hat große Pläne. Er will Karriere machen.
 
 - Id: die Karte
   Level: A1
@@ -12158,15 +12160,17 @@
   Meaning: chipcard, smart card
   WikiMeanings: chip card, smart card
   Examples:
-    - example1
+    - Ich habe eine Chipkarte für diesen Automaten.
 
 - Id: die Kartoffel
   Level: A1
   Form: -n
+  Synonym: = (A) Erdapfel
   Meaning: potato
   WikiMeanings: potato; a German; particularly an ethnic German from the perspective of allochthone populations in Germany
   Examples:
-    - example1
+    - Für Pommes frites braucht man Kartoffeln.
+    - Kann ich bitte noch Kartoffeln bekommen?
 
 - Id: der Käse
   Level: B1
@@ -12183,7 +12187,7 @@
   Meaning: till, cash register
   WikiMeanings: till, cash register, cash box; cash desk, checkout, box office; ; health insurance institution
   Examples:
-    - example1
+    - Zahlen Sie bitte an der Kasse.
 
 - Id: die Kassette
   Level: B1
@@ -12191,15 +12195,17 @@
   Meaning: cassette
   WikiMeanings: cassette; coffer
   Examples:
-    - example1
+    - Meine Eltern besitzen noch viele Musikkassetten. 
 
 - Id: der Kasten
   Level: B1
   Form: ¨-
-  Meaning: case, box, crate
+  Synonym: (D) = (A, D) Kiste / (A, CH) = (D, CH) Schrank
+  Meaning: case / cupboard
   WikiMeanings: crate (e.g. for bottles); box, case; cupboard
   Examples:
-    - example1
+    - (case) Ich habe zwei Kästen Bier gekauft.
+    - (cupboard) Die Handtücher liegen im Kasten.
 
 - Id: der Katalog
   Level: B1
@@ -12207,7 +12213,7 @@
   Meaning: catalogue
   WikiMeanings: catalogue
   Examples:
-    - example1
+    - Ich habe mir ein Kleid aus dem Katalog bestellt.
 
 - Id: die Katastrophe
   Level: B1
@@ -12215,41 +12221,62 @@
   Meaning: catastrophe
   WikiMeanings: catastrophe, disaster, calamity
   Examples:
-    - example1
+    - Der Urlaub war eine Katastrophe. Es hat nur geregnet.
 
-- Id: (sich etwas) kaufen
-  Level: B1
+- Id: die Katze
+  Level: A2
+  Form: -n
+  Meaning: cat
+  WikiMeanings: house cat,; female house cat; cat; the obsolete constellation Felis
+  Examples:
+    - Meine Tochter wünscht sich eine Katze.
+
+- Id: kaufen
+  Level: A1
   Form: kauft, kaufte, hat gekauft
   Meaning: to buy
   WikiMeanings: to buy, to purchase; to buy, to purchase for someone
   Examples:
-    - example1
+    - Tim kauft sich ein neues Auto.
+    - Im Supermarkt kauft man sehr günstig ein.
+    - Ich habe mir einen Pullover gekauft.
 
 - Id: der Kauf
   Level: B1
   Form: ¨-e
-  Meaning: buy
+  Meaning: purchase
   WikiMeanings: purchase
   Examples:
-    - example1
+    - Der neue Esstisch war ein guter Kauf.
 
 - Id: der Käufer
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Käuferin
+    Form: -nen
   Meaning: buyer
   WikiMeanings: ; shopper, buyer
   Examples:
-    - example1
+    - Ich habe schon einen Käufer für den alten Tisch.
+
+- Id: das Kaufhaus
+  Level: A2
+  Meaning: meaning
+  Examples:
+    - Meine Pullover kaufe ich immer im Kaufhaus Hertie.
 
 - Id: kaum
   Level: B1
   Meaning: hardly, scarcely
   WikiMeanings: barely, hardly; difficult to, nearly impossible to; little
   Examples:
-    - example1
+    -  Ich kann Sie kaum verstehen. Bitte sprechen Sie lauter.
+    - Es hat letzte Woche kaum geregnet.
+    - Die Fahrt hat nicht lange gedauert. Kaum 20 Minuten.
 
 - Id: kein
-  Level: B1
+  Level: A1
   Meaning: none, not any
   WikiMeanings: no; not a(n); not one; not any
   Examples:
@@ -12749,7 +12776,7 @@
   Level: B1
   Form: -en
   Meaning: communication
-  WikiMeanings: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
+  WikiMeanings: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
   Examples:
     - example1
 
@@ -13124,20 +13151,23 @@
     - example1
 
 - Id: der Kredit
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: credit, loan
   WikiMeanings: loan or anything afforded to someone in the expectation of return; credibility, informal credit rating, the ability of someone to get loans based on his reputation
   Examples:
-    - example1
+    - Ich brauche einen Kredit von der Bank.
+    - Bezahlen Sie mit Kreditkarte?
+    - Ich habe den Wagen auf Kredit gekauft.
+    - Wir haben von der Bank einen Kredit bekommen.
 
 - Id: die Kreditkarte
-  Level: B1
+  Level: A1
   Form: -n
   Meaning: credit card
   WikiMeanings: credit card
   Examples:
-    - example1
+    - Kann ich mit Kreditkarte zahlen?
 
 - Id: der Kreis
   Level: B1
@@ -18792,7 +18822,7 @@
   Level: A1
   Form: ¨-e
   Meaning: end
-  WikiMeanings: end, ending, conclusion, finish; logical conclusion
+  WikiMeanings: end, ending, conclusion, finish; logical conclusion
   Examples:
     - example1
 
@@ -19706,7 +19736,7 @@
 - Id: so
   Level: B1
   Meaning: so, like this
-  WikiMeanings: 'so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; that, which, who; '
+  WikiMeanings: 'so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; that, which, who; '
   Examples:
     - example1
 
@@ -26727,14 +26757,6 @@
   Form: -en
   Meaning: insect
   WikiMeanings: insect
-  Examples:
-    - example1
-
-- Id: die Katze
-  Level: M
-  Form: -n
-  Meaning: cat
-  WikiMeanings: house cat,; female house cat; cat; the obsolete constellation Felis
   Examples:
     - example1
 
