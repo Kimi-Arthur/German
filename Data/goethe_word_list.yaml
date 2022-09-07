@@ -2776,7 +2776,7 @@
 
 - Id: befreit
   Level: B1
-  Meaning: free
+  Meaning: freed from
   WikiMeanings: freed from something, liberated
   Examples:
     - Studenten und Studentinnen sind von den Rundfunk-Gebühren befreit.
@@ -13090,7 +13090,7 @@
 
 - Id: kostenlos
   Level: A2
-  Meaning: free
+  Meaning: free, without cost (k-)
   WikiMeanings: without cost, free; for free, free of charge
   Examples:
     - Diese Zeitschrift kostet nichts. Sie ist kostenlos.
@@ -13258,7 +13258,7 @@
     - Was bedeutet dieses Kreuz hier?
 
 - Id: die Kreuzung
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: crossing, junction
   WikiMeanings: crossing, intersection; crossbreeding; crossbreed
@@ -13282,6 +13282,9 @@
   Examples:
     -  Haben Sie meinen Brief gekriegt?
     - Was kriegen Sie? - Ein Schwarzbrot, bitte.
+    - Ich kriege 15 Euro in der Stunde für meine Arbeit.
+    - 'Auch wenn du schnell läufst: Ich kriege dich.'
+    - Was kriegen Sie? - Ein Käsebrötchen, bitte.
 
 - Id: die Kriminalpolizei
   Level: B1
@@ -13291,12 +13294,14 @@
     - Ein Nachbar von uns arbeitet bei der Kriminalpolizei.
 
 - Id: der Krimi
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: thriller, crime film or TV programme
   WikiMeanings: A crime story, a crime thriller; An exciting event, a course of events whose expected outcome changes often
   Examples:
     - Heute Abend kommt ein spannender Krimi im Fernsehen.
+    - Miriam liest gern spannende Krimis.
+    - Schauen wir am Sonntag zusammen den Tatort? - Nein, ich mag keine Krimis.
 
 - Id: die Krise
   Level: B1
@@ -13338,6 +13343,7 @@
   Examples:
     -  Ich suche eine Wohnung mit drei Zimmern, Küche und Bad.
     - Ich mag die deutsche Küche.
+    - Der neue Herd kommt in die Küche.
 
 - Id: der Kuchen
   Level: A1
@@ -13357,6 +13363,7 @@
   WikiMeanings: ballpoint pen, biro; biro ink
   Examples:
     - Mein Kugelschreiber ist weg.
+    - Hast du einen Kugelschreiber für mich?
 
 - Id: der Kuli
   Level: B1
