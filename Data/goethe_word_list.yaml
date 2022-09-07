@@ -12825,7 +12825,7 @@
   Meaning: completely
   WikiMeanings: complete
   Examples:
-    -  Ich habe den Termin komplett vergessen.
+    - Ich habe den Termin komplett vergessen.
     - Die Wohnung ist jetzt komplett eingerichtet.
 
 - Id: kompliziert
@@ -12853,7 +12853,10 @@
 
 - Id: die Konfitüre
   Level: B1
-  Meaning: meaning
+  Form: -n
+  Synonym: (CH) = (D, A) Marmelade
+  Meaning: jam (K-)
+  WikiMeanings: jam, confiture
   Examples:
     - Bring bitte noch ein Glas Konfitüre mit.
 
@@ -12863,7 +12866,8 @@
   Meaning: conflict
   WikiMeanings: conflict
   Examples:
-    - example1
+    - Das ist ein alter Konflikt.
+    - Ich habe einen Konflikt mit meinen Eltern.
 
 - Id: der König
   Level: B1
@@ -12871,7 +12875,7 @@
   Meaning: king
   WikiMeanings: king; originating as a nickname.
   Examples:
-    - example1
+    - Der spanische König ist in Deutschland zu Besuch.
 
 - Id: die Konkurrenz
   Level: B1
@@ -12879,7 +12883,8 @@
   Meaning: competition
   WikiMeanings: competition (act of competing); competitors, competition (rival businesses)
   Examples:
-    - example1
+    -  Die Reparatur ist mir hier zu teuer. Bei der Konkurrenz bekomme ich sie für die Hälfte.
+    - Es ist schwer, ein Geschäft aufzumachen. Die Konkurrenz ist groß.
 
 - Id: können
   Level: A1
@@ -12902,7 +12907,7 @@
   Meaning: consulate
   WikiMeanings: consulate
   Examples:
-    - example1
+    - Ein Visum bekommst du auch im Konsulat.
 
 - Id: konsumieren
   Level: B1
@@ -12910,7 +12915,7 @@
   Meaning: to consume
   WikiMeanings: to consume
   Examples:
-    - example1
+    - Die Europäer haben im letzten Jahr mehr Fleisch konsumiert.
 
 - Id: der Konsum
   Level: B1
@@ -12918,7 +12923,7 @@
   Meaning: consumption
   WikiMeanings: consumption; A convenience store like shop or small supermarket.
   Examples:
-    - example1
+    - Der Konsum von Lebensmitteln steigt.
 
 - Id: der Kontakt
   Level: B1
@@ -12926,7 +12931,7 @@
   Meaning: contact
   WikiMeanings: contact; junction
   Examples:
-    - example1
+    - Ich habe wenig Kontakt zu meinen Kollegen.
 
 - Id: das Konto
   Level: A1
@@ -12934,15 +12939,16 @@
   Meaning: account
   WikiMeanings: account; bank account; account
   Examples:
-    - example1
+    -  Ich möchte ein Konto eröffnen.
+    - Das Geld überweisen wir am 1. März auf Ihr Konto.
 
 - Id: das Girokonto
   Level: B1
   Form: Girokonten
-  Meaning: current account
+  Meaning: checking account
   WikiMeanings: checking account
   Examples:
-    - example1
+    - Mein Girokonto kostet gar nichts.
 
 - Id: kontrollieren
   Level: A2
@@ -12960,7 +12966,8 @@
   Meaning: inspection
   WikiMeanings: inspection; control
   Examples:
-    - example1
+    - An den Grenzen gibt es kaum noch Kontrollen.
+    - Fahrkartenkontrolle! Bitte Ihre Fahrkarten!
 
 - Id: sich konzentrieren
   Level: B1
@@ -12968,7 +12975,7 @@
   Meaning: to concentrate
   WikiMeanings: to concentrate, focus; to concentrate
   Examples:
-    - example1
+    - Bitte stör mich jetzt nicht. Ich muss mich auf meine Arbeit konzentrieren.
 
 - Id: das Konzert
   Level: B1
@@ -12976,7 +12983,7 @@
   Meaning: concert
   WikiMeanings: concert; concerto
   Examples:
-    - example1
+    - Für das Konzert am Sonntag gibt es noch Karten.
 
 - Id: der Kopf
   Level: A1
@@ -12984,7 +12991,8 @@
   Meaning: head
   WikiMeanings: head; crown, top; heading, title; person; individual; fellow (referring to one's intellect or mentality); head; heads
   Examples:
-    - example1
+    - Ich habe Kopfschmerzen.
+    - Michael kann gut im Kopf rechnen.
 
 - Id: kopieren
   Level: B1
@@ -13018,29 +13026,30 @@
   Meaning: body
   WikiMeanings: body (of a person, animal, etc.); body; body, solid; field
   Examples:
-    - example1
+    - Der Arzt sagt, ich muss etwas für meinen Körper tun, z. B. schwimmen oder Fahrrad fahren.
 
 - Id: körperlich
   Level: B1
-  Meaning: physical
+  Meaning: bodily, physical
   WikiMeanings: bodily, physical
   Examples:
-    - example1
+    - Körperliche Arbeit macht mir nichts aus.
 
 - Id: korrekt
   Level: B1
   Meaning: correct
   WikiMeanings: correct; accurate; proper; decent; great; cool
   Examples:
-    - example1
+    - Ich habe die Rechnung geprüft. Alles ist korrekt.
 
 - Id: der Korridor
   Level: B1
   Form: -e
+  Synonym: (D, CH) = Gang = (D) Flur
   Meaning: corridor
   WikiMeanings: corridor; hallway, hall, foyer
   Examples:
-    - example1
+    - Wir warten draußen im Korridor.
 
 - Id: korrigieren
   Level: B1
@@ -13048,7 +13057,8 @@
   Meaning: to correct
   WikiMeanings: to correct; to mark
   Examples:
-    - example1
+    - Können Sie bitte meinen Brief korrigieren?
+    - Der Lehrer hat meine Fehler korrigiert.
 
 - Id: kosten
   Level: A1
@@ -14602,10 +14612,11 @@
 - Id: die Marmelade
   Level: B1
   Form: -n
-  Meaning: jam
+  Synonym: (D, A) = (CH) Konfitüre
+  Meaning: jam (M-)
   WikiMeanings: jam; marmalade
   Examples:
-    - example1
+    - Bring bitte noch ein Glas Marmelade mit.
 
 - Id: die Maschine
   Level: A1
