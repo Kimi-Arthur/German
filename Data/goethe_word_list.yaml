@@ -13574,7 +13574,7 @@
   Meaning: to smile
   WikiMeanings: to smile
   Examples:
-    - example1
+    - Schauen Sie in die Kamera. Bitte lächeln!
 
 - Id: lachen
   Level: A1
@@ -13586,6 +13586,7 @@
     - Die Kinder haben über den Witz gelacht.
     - Lachen ist gesund.
     - Wir haben viel gelacht.
+    - Lachen ist gesund.
 
 - Id: der Laden
   Level: A1
@@ -13593,7 +13594,9 @@
   Meaning: shop
   WikiMeanings: 'shop; any establishment entertaining guests, especially a pub or bar, but also a hotel, restaurant, discotheque, etc.; a (usually organised) group of people and its affairs: a company, political party, club, school, etc.; shutter; loading'
   Examples:
-    - example1
+    - Dieses Kleid habe ich in einem Laden im Zentrum gekauft.
+    - Ich kaufe meine Zeitung immer beim Zeitungsladen am Eck.
+    - Im Buchladen können Sie Bücher kaufen.
 
 - Id: die Lage
   Level: B1
@@ -13601,7 +13604,7 @@
   Meaning: position, situation, place
   WikiMeanings: location, position; situation; thickness (layer)
   Examples:
-    - example1
+    - Wir suchen eine Wohnung an/in zentraler Lage.
 
 - Id: das Lager
   Level: B1
@@ -13609,7 +13612,8 @@
   Meaning: camp, store room
   WikiMeanings: 'a place where one sleeps, such as a bed or a spot in a barn, etc.; a lair of an animal (but not usually underground, for which ); a camp; an army, especially but not exclusively when encamped; a camp, party; a stock; storage; depot; repository; a measure (of some resource); a bearing; : lager'
   Examples:
-    - example1
+    -  Ich weiß nicht, ob wir diesen Schuh in Ihrer Größe haben. Ich sehe mal im Lager nach.
+    - Unsere Kinder fahren im Sommer ins Zeltlager.
 
 - Id: die Lampe
   Level: A2
@@ -13627,7 +13631,10 @@
   Meaning: land, country, state
   WikiMeanings: country; state, province; land; land; country, countryside
   Examples:
-    - example1
+    - Deutschland ist ein schönes Land.
+    - Möchten Sie lieber auf dem Land oder in der Stadt wohnen?
+    - Wir haben ein Stück Land gekauft und wollen dort bauen.
+    - In welchen Ländern warst du schon?
 
 - Id: die Landwirtschaft
   Level: B1
@@ -13635,15 +13642,15 @@
   Meaning: agriculture
   WikiMeanings: agriculture
   Examples:
-    - example1
+    - Auf dem Land arbeiten die meisten Leute in der Landwirtschaft.
 
 - Id: die Landschaft
   Level: B1
   Form: -en
-  Meaning: countryside, landscape
+  Meaning: landscape
   WikiMeanings: landscape, scenery
   Examples:
-    - example1
+    - Die Landschaft ist sehr hügelig.
 
 - Id: landen
   Level: B1
@@ -13651,7 +13658,8 @@
   Meaning: to land
   WikiMeanings: to land; to land; to end up (somewhere)
   Examples:
-    - example1
+    - Wir sind erst um 20 Uhr in München gelandet.
+    - Wegen starken Nebels konnte die Maschine nicht in Frankfurt landen.
 
 - Id: die Landung
   Level: B1
@@ -13659,7 +13667,7 @@
   Meaning: landing
   WikiMeanings: landing
   Examples:
-    - example1
+    - Bei der Landung müssen Sie sich anschnallen.
 
 - Id: lang
   Level: A1
