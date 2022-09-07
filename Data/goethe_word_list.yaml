@@ -13073,6 +13073,7 @@
 - Id: kosten
   Level: A1
   Form: kostet, kostete, hat gekostet
+  Synonym: (A) = (D, CH) probieren
   Meaning: to cost
   WikiMeanings: to cost; to taste, try
   Examples:
@@ -13100,7 +13101,7 @@
   Meaning: costume, suit
   WikiMeanings: "costume; skirt suit: a women's business suit consisting of a skirt and jacket."
   Examples:
-    - example1
+    - In dem Film tragen die Leute bunte Kostüme.
 
 - Id: die Kraft
   Level: B1
@@ -13108,14 +13109,15 @@
   Meaning: strength
   WikiMeanings: strength, force, power; force; employee
   Examples:
-    - example1
+    - Für diese Arbeit braucht man viel Kraft.
 
 - Id: kräftig
   Level: B1
   Meaning: strong
   WikiMeanings: strong, sturdy, vigorous, powerful, bold
   Examples:
-    - example1
+    - Der Mann ist kräftig. Er macht viel Sport und isst viel.
+    - Die Suppe musst du kräftig würzen.
 
 - Id: das Kraftfahrzeug
   Level: B1
@@ -13134,7 +13136,7 @@
   Meaning: power station
   WikiMeanings: power station, power plant
   Examples:
-    - example1
+    - Die Menschen protestieren gegen das Kraftwerk.
 
 - Id: krank
   Level: A1
@@ -13151,7 +13153,7 @@
   Feminine:
     Id: die Kranke
     Form: -n
-  Meaning: sick-person, invalid
+  Meaning: sick-person
   WikiMeanings: ': sick female, female sufferer (from a disease), female patient, female invalid'
   Examples:
     - Kranke brauchen viel Ruhe.
@@ -13215,7 +13217,8 @@
   Meaning: creative
   WikiMeanings: creative
   Examples:
-    - example1
+    - Die Kinder sind beim Basteln sehr kreativ.
+    - Wir brauchen eine kreative Lösung für dieses Problem.
 
 - Id: der Kredit
   Level: A2
@@ -13242,7 +13245,9 @@
   Meaning: circle
   WikiMeanings: circle; range, scope; a type of territorial administrative division, district
   Examples:
-    - example1
+    - Die Kinder sitzen im Kindergarten im Kreis.
+    - Bitte malt jetzt alle einen Kreis in euer Heft.
+    - Unser Ort gehört zum Kreis Neuss.
 
 - Id: das Kreuz
   Level: B1
@@ -13250,7 +13255,7 @@
   Meaning: cross
   WikiMeanings: cross; clubs; cross; sharp sign, ♯; lower back
   Examples:
-    - example1
+    - Was bedeutet dieses Kreuz hier?
 
 - Id: die Kreuzung
   Level: B1
@@ -13258,7 +13263,7 @@
   Meaning: crossing, junction
   WikiMeanings: crossing, intersection; crossbreeding; crossbreed
   Examples:
-    - example1
+    - Fahren Sie an der nächsten Kreuzung rechts.
 
 - Id: der Krieg
   Level: B1
@@ -13266,7 +13271,8 @@
   Meaning: war
   WikiMeanings: war, warfare
   Examples:
-    - example1
+    -  Es herrscht noch immer Krieg in diesem Land.
+    - Der Lehrer spricht über den Zweiten Weltkrieg.
 
 - Id: kriegen
   Level: A1
@@ -13274,21 +13280,15 @@
   Meaning: to get, receive
   WikiMeanings: to get; to catch, to come down with; to war
   Examples:
-    - example1
-
-- Id: kriminal-
-  Level: B1
-  Meaning: criminal
-  WikiMeanings: criminal
-  Examples:
-    - example1
+    -  Haben Sie meinen Brief gekriegt?
+    - Was kriegen Sie? - Ein Schwarzbrot, bitte.
 
 - Id: die Kriminalpolizei
   Level: B1
   Meaning: Criminal Investigation Department
   WikiMeanings: The branch or department of a police force that investigates crime.; A specific unit of that branch.
   Examples:
-    - example1
+    - Ein Nachbar von uns arbeitet bei der Kriminalpolizei.
 
 - Id: der Krimi
   Level: B1
@@ -13296,7 +13296,7 @@
   Meaning: thriller, crime film or TV programme
   WikiMeanings: A crime story, a crime thriller; An exciting event, a course of events whose expected outcome changes often
   Examples:
-    - example1
+    - Heute Abend kommt ein spannender Krimi im Fernsehen.
 
 - Id: die Krise
   Level: B1
@@ -13304,7 +13304,7 @@
   Meaning: crisis
   WikiMeanings: crisis (unstable situation)
   Examples:
-    - example1
+    - Die Wirtschaft steckt in einer schweren Krise.
 
 - Id: kritisieren
   Level: B1
@@ -13312,7 +13312,7 @@
   Meaning: to criticise
   WikiMeanings: to criticize, to criticise
   Examples:
-    - example1
+    - Kritisiere mich nicht so oft.
 
 - Id: die Kritik
   Level: B1
@@ -13320,14 +13320,15 @@
   Meaning: criticism
   WikiMeanings: criticism; criticism, review; critique, review
   Examples:
-    - example1
+    - Es gibt viel Kritik an der Politik der Regierung.
+    - Dieser Film hat sehr gute Kritiken bekommen.
 
 - Id: kritisch
   Level: B1
   Meaning: critical
   WikiMeanings: critical
   Examples:
-    - example1
+    - Es gab eine Diskussion über die Lebensmittelpreise. Ein Journalist hat kritische Fragen gestellt.
 
 - Id: die Küche
   Level: A1
@@ -13335,7 +13336,8 @@
   Meaning: kitchen
   WikiMeanings: kitchen; cuisine
   Examples:
-    - example1
+    -  Ich suche eine Wohnung mit drei Zimmern, Küche und Bad.
+    - Ich mag die deutsche Küche.
 
 - Id: der Kuchen
   Level: A1
@@ -13351,10 +13353,10 @@
 - Id: der Kugelschreiber
   Level: A1
   Form: '-'
-  Meaning: ball-point pen, biro
+  Meaning: ballpoint pen
   WikiMeanings: ballpoint pen, biro; biro ink
   Examples:
-    - example1
+    - Mein Kugelschreiber ist weg.
 
 - Id: der Kuli
   Level: B1
@@ -13362,7 +13364,7 @@
   Meaning: Biro
   WikiMeanings: coolie; slave; ; (ballpoint) pen
   Examples:
-    - example1
+    - Hast du einen Kuli für mich?
 
 - Id: kühl
   Level: A2
