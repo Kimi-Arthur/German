@@ -10668,7 +10668,7 @@
 
 - Id: heim
   Level: B1
-  Meaning: home
+  Meaning: (to) home
   WikiMeanings: home;
   Examples:
     - Ich will jetzt heim.
@@ -11009,7 +11009,7 @@
 
 - Id: hinten
   Level: A1
-  Meaning: behind, at the back (h.., not "hinter")
+  Meaning: behind, in the back
   WikiMeanings: behind; in the back; over (there); yonder
   Examples:
     - Die Tür zum Aussteigen ist hinten.
@@ -11018,7 +11018,7 @@
 
 - Id: hinter
   Level: A2
-  Meaning: behind, in back of (h.., not "hinten")
+  Meaning: behind, after, beyond
   WikiMeanings: behind, after; after; beyond; over; to some place fairly nearby
   Examples:
     - Hinter dem Haus haben wir einen Garten.
@@ -25743,7 +25743,7 @@
 - Id: das Zuhause
   Level: B1
   Form: (Sg.)
-  Meaning: home
+  Meaning: home, living premise
   WikiMeanings: One’s living premises, home
   Examples:
     - Ich fühle mich hier wohl. Das ist mein Zuhause.
