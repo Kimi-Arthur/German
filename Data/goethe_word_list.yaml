@@ -13707,14 +13707,15 @@
   Meaning: slow
   WikiMeanings: slow; slowly , gradually, carefully
   Examples:
-    - example1
+    - Könnten Sie bitte etwas langsamer sprechen?
+    - Es wird langsam kalt. Es wird Herbst.
 
 - Id: längst
   Level: B1
   Meaning: long (time) ago
   WikiMeanings: long ago, long
   Examples:
-    - example1
+    - Wann reparierst du die Heizung. - Die habe ich schon längst repariert.
 
 - Id: langweilig
   Level: A2
@@ -13755,15 +13756,22 @@
   Meaning: noise
   WikiMeanings: annoying noise; noise
   Examples:
-    - example1
+    - Die Flugzeuge machen einen schrecklichen Lärm.
 
 - Id: lassen
-  Level: B1
+  Level: A2
   Form: lässt, ließ, hat gelassen
   Meaning: to let, allow, have done
   WikiMeanings: to allow; to permit; to let; to have someone (do something); to have (something done); to make (something happen); to cause (something to be done); to let remain, to leave (in a certain state); to stop (something); to quit; to refrain from; to help doing (something); to cease; to desist
   Examples:
-    - example1
+    - Ich habe mein Gepäck am Bahnhof gelassen.
+    - Am Samstag lasse ich mir die Haare schneiden.
+    - Ich lasse meine Kinder abends nur eine Stunde fernsehen.
+    - Kann ich mein Auto hier stehen lassen?
+    - Wo habe ich nur meine Brille gelassen?
+    - Ich habe meinen Anzug reinigen lassen.
+    - Ich kann meine kleine Tochter noch nicht allein lassen.
+    - Lass mich in Ruhe. Ich muss arbeiten.
 
 - Id: der Lastkraftwagen
   Level: A2
@@ -13782,7 +13790,7 @@
   Meaning: lorry, truck
   WikiMeanings: vice; ; truck, lorry
   Examples:
-    - example1
+    - Auf der Autobahn waren so viele Laster. Deshalb hat es so lange gedauert.
 
 - Id: laufen
   Level: A1
@@ -13797,7 +13805,7 @@
     - Ich bin gestern 100 m in 10,4 Sekunden gelaufen.
     - Bist du mit dem Auto hier? - Nein, ich bin gelaufen.
     - Jeden Morgen gehe ich eine halbe Stunde laufen.
-    - Wie geht´s beruflich? - Danke, das Geschäft läuft gut.
+    - Wie geht's beruflich? - Danke, das Geschäft läuft gut.
 
 - Id: das Laufwerk
   Level: B1
@@ -13805,7 +13813,7 @@
   Meaning: (computer) drive, running gear
   WikiMeanings: drive; part of a clockwork mechanism; chassis part of a railroad car; chassis part of a tracked vehicle
   Examples:
-    - example1
+    - Für meinen Computer habe ich mir ein neues Laufwerk gekauft.
 
 - Id: die Laune
   Level: B1
@@ -13813,14 +13821,17 @@
   Meaning: mood
   WikiMeanings: mood, humor; whim
   Examples:
-    - example1
+    - Heute geht es mir besser, aber gestern hatte ich richtig schlechte Laune.
 
 - Id: laut
   Level: A1
   Meaning: loud
   WikiMeanings: loud, noisy; according to; ;
   Examples:
-    - example1
+    - Lass uns gehen. Hier ist es mir zu laut.
+    - Können Sie bitte etwas lauter sprechen?
+    - Laut Wetterbericht gibt es morgen Regen.
+    - Nicht so laut! Das Baby schläft.
 
 - Id: der Lautsprecher
   Level: B1
@@ -13828,14 +13839,14 @@
   Meaning: loud speaker
   WikiMeanings: loudspeaker; loudhailer; public address system, PA system, PA, tannoy
   Examples:
-    - example1
+    - Bitte achten Sie auch auf die Lautsprecher-Ansagen am Bahnhof.
 
 - Id: lecker
   Level: B1
   Meaning: delicious
   WikiMeanings: yummy, tasty; attractive (woman or man); well, with pleasure
   Examples:
-    - example1
+    - Das Essen war sehr lecker.
 
 - Id: leben
   Level: A1
@@ -13884,7 +13895,7 @@
   Meaning: leather
   WikiMeanings: leather
   Examples:
-    - example1
+    - Ist die Tasche aus Leder?
 
 - Id: ledig
   Level: A1
@@ -13895,11 +13906,12 @@
     - Wie ist Ihr Familienstand? - Ledig.
 
 - Id: leer
-  Level: B1
+  Level: A2
   Meaning: empty
   WikiMeanings: 'empty; '
   Examples:
-    - example1
+    - Das Restaurant war fast leer.
+    - Die Kanne ist fast leer. Ich mache uns neuen Tee.
 
 - Id: legen
   Level: A1
@@ -13907,7 +13919,9 @@
   Meaning: to lay, put, place, lie down
   WikiMeanings: to lay, to put, to place, to position, so that it afterwards lies as opposed to being ,; to castrate; to slay, to defeat; to cause great amusement, to make someone collapse in laughter, to kill, to slay
   Examples:
-    - example1
+    -  Ich habe Ihnen die Briefe auf den Schreibtisch gelegt.
+    - Legen Sie die Zeitungen bitte dort ins Regal.
+    - Legen Sie das Buch auf den Tisch.
 
 - Id: die Lehre
   Level: B1
@@ -13915,7 +13929,7 @@
   Meaning: apprenticeship
   WikiMeanings: teaching, tenet; apprenticeship; doctrine; lesson; theory; science; jig, gauge
   Examples:
-    - example1
+    - Mein Cousin will eine dreijährige Lehre machen.
 
 - Id: die Lehrstelle
   Level: B1
@@ -13923,7 +13937,7 @@
   Meaning: apprenticeship places
   WikiMeanings: apprenticeship
   Examples:
-    - example1
+    - Es sind noch viele Lehrstellen frei.
 
 - Id: der Lehrer
   Level: A1
@@ -13936,14 +13950,6 @@
   Examples:
     - Unsere Deutschlehrerin heißt Frau Müller.
     - Die Lehrerin hat heute viele Hausaufgaben gegeben.
-
-- Id: die Lehrerin
-  Level: B1
-  Form: -nen
-  Meaning: teacher (female)
-  WikiMeanings: teacher
-  Examples:
-    - example1
 
 - Id: der Lehrling
   Level: B1
