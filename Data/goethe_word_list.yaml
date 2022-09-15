@@ -14275,7 +14275,7 @@
   Meaning: line
   WikiMeanings: line; file; equator (nautical)
   Examples:
-    - example1
+    - Zum Hauptbahnhof können Sie mit der Linie 8 fahren.
 
 - Id: der Link
   Level: A2
@@ -14287,10 +14287,17 @@
 
 - Id: links
   Level: A1
-  Meaning: left
+  Meaning: on the left
   WikiMeanings: on the left; to the left; inside out
   Examples:
-    - example1
+    - An der Kreuzung müssen Sie nach links abbiegen.
+    -  Gehen Sie die nächste Straße links.
+
+- Id: link
+  Level: B1
+  Examples:
+    - Er hat sich das linke Bein gebrochen.
+    - Das Haus ist auf der linken Seite.
 
 - Id: die Lippe
   Level: B1
@@ -14298,7 +14305,15 @@
   Meaning: lip
   WikiMeanings: lip
   Examples:
-    - example1
+    - Es ist sehr kalt. Meine Lippen sind ganz trocken.
+
+- Id: die Liste
+  Level: B1
+  Form: -n
+  Meaning: list
+  WikiMeanings: list
+  Examples:
+    - Was brauchen wir für die Party? - Mach doch eine Einkaufsliste.
 
 - Id: die Literatur
   Level: B1
@@ -14307,14 +14322,6 @@
   WikiMeanings: literature
   Examples:
     - Ich interessiere mich für Literatur.
-
-- Id: die Liste
-  Level: B1
-  Form: -n
-  Meaning: list
-  WikiMeanings: list
-  Examples:
-    - example1
 
 - Id: live
   Level: B1
@@ -14329,7 +14336,7 @@
   Meaning: to praise
   WikiMeanings: to praise
   Examples:
-    - example1
+    - Ich habe alle Hausaufgaben gemacht. Der Lehrer hat mich heute gelobt. 
 
 - Id: das Loch
   Level: B1
@@ -14337,22 +14344,23 @@
   Meaning: hole
   WikiMeanings: hole; perforation; hole in the ground; pit; gap; bare spot; cavity; dungeon; underground prison; prison; jail / gaol; apartment, flat or house in a bad condition; dump; boring small town or village; loch, lough
   Examples:
-    - example1
+    -  Ich habe ein Loch im Zahn. Ich muss zum Zahnarzt.
+    - Deine Hose hat ein Loch. - Ich weiß, sie ist schon alt.
 
 - Id: locker
   Level: B1
   Meaning: loose, relaxed
   WikiMeanings: loose; relaxed; loosely; relaxedly, casually; easily (expressing confidence in the value)
   Examples:
-    - example1
+    - Lassen Sie bitte die Arme ganz locker und atmen Sie tief ein.
 
 - Id: der Löffel
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: spoon
   WikiMeanings: spoon; hare's ear
   Examples:
-    - example1
+    - Bitte, bringen Sie mir einen Löffel.
 
 - Id: der Lohn
   Level: B1
@@ -14360,7 +14368,8 @@
   Meaning: salary
   WikiMeanings: wage; reward
   Examples:
-    - example1
+    -  Sie bekommen Ihren Lohn immer am Ende des Monats.
+    - Die Löhne sind hier sehr niedrig.
 
 - Id: sich lohnen
   Level: B1
@@ -14368,22 +14377,25 @@
   Meaning: to be worthwhile, to pay off
   WikiMeanings: to be worthwhile; to pay off
   Examples:
-    - example1
+    - Für drei Tage zu meinen Eltern fahren lohnt sich nicht. Es ist zu weit.
 
 - Id: das Lokal
   Level: A1
   Form: -e
-  Meaning: pub
+  Meaning: pub, small restaurant
   WikiMeanings: A restaurant, especially when small and/or traditional; a pub that serves hot food; an inn; A room or facility used for public services.
   Examples:
-    - example1
+    - Gibt es hier in der Nähe ein gemütliches Lokal?
+    - In unserer Straße gibt es ein neues Lokal.
 
 - Id: los
   Level: B1
   Meaning: go on, the matter
   WikiMeanings: ; off, rid of; going on; open; come on!, let's go!; Go!
   Examples:
-    - example1
+    - Los! Beeilt euch!
+    - Gibt es ein Problem? Was ist denn los?
+    - Achtung - fertig - los!
 
 - Id: losfahren
   Level: B1
@@ -14391,7 +14403,7 @@
   Meaning: to leave
   WikiMeanings: to set off, to hit the road
   Examples:
-    - example1
+    - Wir fahren um 8 Uhr los. Sei bitte pünktlich.
 
 - Id: löschen
   Level: B1
@@ -14399,7 +14411,8 @@
   Meaning: to put out, erase, cancel
   WikiMeanings: to quench (fire, thirst, or lime); to delete, to erase (remembrance, memory, data); to unload (goods from a ship)
   Examples:
-    - example1
+    - Du kannst die Datei löschen. Ich brauche sie nicht mehr.
+    - Das Feuer wurde schnell gelöscht
 
 - Id: lösen
   Level: B1
@@ -14428,7 +14441,9 @@
   Meaning: air
   WikiMeanings: air, atmosphere; breeze, zephyr, breath
   Examples:
-    - example1
+    - Oh, hier ist aber schlechte Luft.
+    - Die Seeluft tut mir gut.
+    - Bitte mach das Fenster auf. Ich brauche frische Luft.
 
 - Id: lügen
   Level: A2
@@ -14451,17 +14466,24 @@
 - Id: die Lust
   Level: B1
   Form: ¨-e
-  Meaning: desire
+  Meaning: desire, wish
   WikiMeanings: desire; the wish to do or have something; satisfaction of desire; pleasure; fun
   Examples:
-    - example1
+    -  Ich habe keine Lust zu grillen.
+    - Hast du Lust auf einen Tee?
+    - Gehen wir heute Abend ins Kino? - Nein, ich habe keine Lust.
+    - Ich habe Lust auf Schokolade.
 
 - Id: lustig
   Level: A1
   Meaning: funny
   WikiMeanings: funny, humorous; enjoyable, amusing, fun
   Examples:
-    - example1
+    -  Ich habe einen lustigen Film gesehen.
+    - Mir ist heute etwas Lustiges passiert.
+    - Frau Mertens ist lustig. Sie lacht immer.
+    - Warum lacht ihr? Was ist so lustig?
+    - Ich mag lustige Filme.
 
 - Id: machen
   Level: A1
@@ -14489,7 +14511,8 @@
   Meaning: girl
   WikiMeanings: girl; maiden
   Examples:
-    - example1
+    - Familie Kurz hat zwei Mädchen und einen Jungen.
+    - Familie Kurz bekommt ein Baby. - Junge oder Mädchen?
 
 - Id: das Magazin
   Level: B1
@@ -14497,7 +14520,7 @@
   Meaning: magazine
   WikiMeanings: magazine; warehouse; storage; magazine; magazine
   Examples:
-    - example1
+    - Jugendliche lesen dieses Magazin gern.
 
 - Id: der Magen
   Level: B1
@@ -14505,14 +14528,15 @@
   Meaning: stomach
   WikiMeanings: stomach, maw
   Examples:
-    - example1
+    - Mit tut der Magen weh. Ich habe Magenschmerzen.
+    - Mein Magen tut weh.
 
 - Id: mager
   Level: B1
-  Meaning: lean
+  Meaning: lean, without fat, skinny
   WikiMeanings: lean, without fat; meager, skinny
   Examples:
-    - example1
+    - Bitte 1 kg mageres Fleisch.
 
 - Id: die Mahlzeit
   Level: B1
@@ -14520,7 +14544,8 @@
   Meaning: meal
   WikiMeanings: meal; mealtime; ; enjoy your meal!; good afternoon
   Examples:
-    - example1
+    - Die Tropfen bitte immer nach den Mahlzeiten einnehmen.
+    - In Deutschland gibt es meist nur einmal am Tag eine warme Mahlzeit.
 
 - Id: die Mahnung
   Level: B1
@@ -14528,7 +14553,7 @@
   Meaning: warning, reminder
   WikiMeanings: warning; reminder
   Examples:
-    - example1
+    - Wenn du die Rechnung nicht pünktlich bezahlst, bekommst du eine Mahnung.
 
 - Id: die Mailbox
   Level: A2
