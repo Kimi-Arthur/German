@@ -13957,14 +13957,18 @@
   Meaning: apprentice, trainee
   WikiMeanings: apprentice
   Examples:
-    - example1
+    - Als Lehrling verdient man nicht sehr viel Geld.
 
 - Id: leicht
   Level: A1
-  Meaning: light
+  Meaning: light, easy
   WikiMeanings: light; easy; light, lite, diet; slight; slightly
   Examples:
-    - example1
+    - Der Koffer ist ganz leicht. Ich kann ihn allein tragen.
+    -  Es ist nicht leicht, bei diesem Arzt einen Termin zu bekommen.
+    - Deutsch ist nicht leicht.
+    - Das Paket ist leicht, es wiegt nur ein Kilo.
+    - Die Aufgabe ist nicht leicht.
 
 - Id: leid tun
   Level: A2
@@ -13996,19 +14000,23 @@
     - Hast du schon eine Antwort auf deinen Brief? - Leider nicht.
 
 - Id: leihen
-  Level: B1
+  Level: A2
   Form: leiht, lieh, hat geliehen
   Meaning: to lend, barrow
   WikiMeanings: to borrow; to lend, loan
   Examples:
-    - example1
+    - Ich habe mir von meinem Bruder 50 Euro geliehen.
+    - Ich kann dir mein Fahrrad leihen.
+    - Sie können das Buch in der Bibliothek ausleihen.
+    - Kannst du mir fünf Euro leihen?
 
 - Id: leise
   Level: A1
   Meaning: quiet
   WikiMeanings: quiet, soft, low; slight, faint, light
   Examples:
-    - example1
+    - Seid leise. Die anderen schlafen schon.
+    - Könntest du das Radio bitte etwas leiser stellen?
 
 - Id: leisten
   Level: B1
@@ -14016,7 +14024,8 @@
   Meaning: to supply, afford
   WikiMeanings: to perform (a task, work), to accomplish (a task), to achieve (a goal); to provide (aid, service); to afford, to pay for
   Examples:
-    - example1
+    - So ein teures Auto kann ich mir leider nicht leisten.
+    - Bei einem Unfall muss jeder Erste Hilfe leisten.
 
 - Id: die Leistung
   Level: B1
@@ -14024,7 +14033,7 @@
   Meaning: performance, achievement
   WikiMeanings: performance, accomplishment; service; contractual performance; power
   Examples:
-    - example1
+    - Meine Leistungen in der Schule sind ganz gut.
 
 - Id: leiten
   Level: B1
@@ -14032,15 +14041,18 @@
   Meaning: to lead, manage, direct
   WikiMeanings: to lead; to manage; to conduct
   Examples:
-    - example1
+    - Wer leitet den Kurs?
 
 - Id: der Leiter
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Leiterin
+    Form: -nen
   Meaning: leader, head
   WikiMeanings: ladder
   Examples:
-    - example1
+    - Wie heißt die Leiterin der Schule?
 
 - Id: die Leitung
   Level: B1
@@ -14048,7 +14060,9 @@
   Meaning: management
   WikiMeanings: cable, line, wire; conduit, pipe; management; conduction
   Examples:
-    - example1
+    - Ab 1. Juli übernimmt Herr Meier die Leitung der Abteilung.
+    - Tut mir leid, alle Leitungen sind besetzt.
+    - Wir müssen eine neue Leitung legen lassen.
 
 - Id: die Leiter
   Level: B1
@@ -14056,7 +14070,7 @@
   Meaning: ladder
   WikiMeanings: ladder
   Examples:
-    - example1
+    - Haben Sie eine Leiter für mich? Ich will die Fenster putzen.
 
 - Id: lernen
   Level: A1
@@ -14069,10 +14083,13 @@
 - Id: der Lerner
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Lernerin
+    Form: -nen
   Meaning: learner
   WikiMeanings: learner
   Examples:
-    - example1
+    - Sie ist eine fleißige Lernerin.
 
 - Id: lesen
   Level: A1
@@ -14098,8 +14115,9 @@
     - Die Leserinnen und Leser sind mit der Zeitung zufrieden.
     - Ich werde einen Leserbrief schreiben.
 
-- Id: letzt-
+- Id: letzte
   Level: A1
+  Form: letzter, letzte, letztes
   Meaning: last
   WikiMeanings: finally
   Examples:
@@ -14114,15 +14132,17 @@
   Meaning: people
   WikiMeanings: people , folk (folks), peeps , guys (boys and/or girls)
   Examples:
-    - example1
+    - Auf der Party waren viele Leute.
+    - In der Disko sind viele Leute.
+    - Auf der Party sind viele Leute.
 
 - Id: das Lexikon
   Level: B1
   Form: Lexika
-  Meaning: dictionary
+  Meaning: dictionary, reference book
   WikiMeanings: reference book; a book, usually alphabetically ordered, in which definitions and facts can be looked up, such as an encyclopaedia, dictionary, etc.; a lexicon, in other words the vocabulary of a language, field, or individual person.
   Examples:
-    - example1
+    - Wir könnten im Lexikon nachsehen.
 
 - Id: das Licht
   Level: A1
@@ -14130,7 +14150,9 @@
   Meaning: light
   WikiMeanings: light; candle; eye of game, especially ground game
   Examples:
-    - example1
+    -  Kannst du bitte Licht machen? Ich kann so nichts sehen.
+    - Es ist so dunkel. Wo macht man hier das Licht an?
+    - Wo macht man hier das Licht an?
 
 - Id: lieben
   Level: A1
@@ -14195,15 +14217,18 @@
   Meaning: song
   WikiMeanings: song
   Examples:
-    - example1
+    - Zu deinem Geburtstag singen wir dir ein Lied.
+    - Welches ist dein Lieblingslied?
+    - Zum Geburtstag singen wir dir ein Lied.
 
 - Id: liefern
-  Level: B1
+  Level: A2
   Form: liefert, lieferte, hat geliefert
   Meaning: to deliver
   WikiMeanings: to supply, provide (goods etc.) ( to); to deliver (goods, an order etc.); to yield (produce outcome); to research, to read up on something; to fight
   Examples:
-    - example1
+    - Wir liefern Ihnen das Regal direkt ins Haus.
+    - Wir liefern Ihnen den Schrank nach Hause.
 
 - Id: die Lieferung
   Level: B1
@@ -14211,7 +14236,7 @@
   Meaning: delivery
   WikiMeanings: delivery, shipment
   Examples:
-    - example1
+    - Sie bezahlen erst bei der Lieferung.
 
 - Id: liegen
   Level: A1
@@ -14219,15 +14244,22 @@
   Meaning: to lie (place/ location)
   WikiMeanings: to lie; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
   Examples:
-    - example1
+    - Der Brief liegt schon auf Ihrem Schreibtisch.
+    - Judith liegt noch im Bett.
+    - Er liegt schon seit drei Wochen im Krankenhaus.
+    - Frankfurt liegt am Main.
+    - In den Bergen liegt schon Schnee.
+    - Um neun Uhr liegt Judith noch im Bett.
+    - Die Zeitung liegt auf dem Tisch. Judith liegt noch im Bett.
 
 - Id: der Lift
   Level: B1
   Form: -e
+  Synonym: = (D, A) Aufzug
   Meaning: lift
   WikiMeanings: lift; elevator
   Examples:
-    - example1
+    - Im Büro ist leider der Lift kaputt
 
 - Id: die Limonade
   Level: B1
