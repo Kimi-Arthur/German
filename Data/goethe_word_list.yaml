@@ -14291,10 +14291,12 @@
   WikiMeanings: on the left; to the left; inside out
   Examples:
     - An der Kreuzung müssen Sie nach links abbiegen.
-    -  Gehen Sie die nächste Straße links.
+    - Gehen Sie die nächste Straße links.
 
 - Id: link
   Level: B1
+  Meaning: left
+  WikiMeanings: left; untrustworthy; dubious, wrong, disreputable, questionable; sly, cunning
   Examples:
     - Er hat sich das linke Bein gebrochen.
     - Das Haus ist auf der linken Seite.
@@ -14336,7 +14338,7 @@
   Meaning: to praise
   WikiMeanings: to praise
   Examples:
-    - Ich habe alle Hausaufgaben gemacht. Der Lehrer hat mich heute gelobt. 
+    - Ich habe alle Hausaufgaben gemacht. Der Lehrer hat mich heute gelobt.
 
 - Id: das Loch
   Level: B1
@@ -14344,7 +14346,7 @@
   Meaning: hole
   WikiMeanings: hole; perforation; hole in the ground; pit; gap; bare spot; cavity; dungeon; underground prison; prison; jail / gaol; apartment, flat or house in a bad condition; dump; boring small town or village; loch, lough
   Examples:
-    -  Ich habe ein Loch im Zahn. Ich muss zum Zahnarzt.
+    - Ich habe ein Loch im Zahn. Ich muss zum Zahnarzt.
     - Deine Hose hat ein Loch. - Ich weiß, sie ist schon alt.
 
 - Id: locker
@@ -14368,7 +14370,7 @@
   Meaning: salary
   WikiMeanings: wage; reward
   Examples:
-    -  Sie bekommen Ihren Lohn immer am Ende des Monats.
+    - Sie bekommen Ihren Lohn immer am Ende des Monats.
     - Die Löhne sind hier sehr niedrig.
 
 - Id: sich lohnen
@@ -14469,7 +14471,7 @@
   Meaning: desire, wish
   WikiMeanings: desire; the wish to do or have something; satisfaction of desire; pleasure; fun
   Examples:
-    -  Ich habe keine Lust zu grillen.
+    - Ich habe keine Lust zu grillen.
     - Hast du Lust auf einen Tee?
     - Gehen wir heute Abend ins Kino? - Nein, ich habe keine Lust.
     - Ich habe Lust auf Schokolade.
@@ -14479,7 +14481,7 @@
   Meaning: funny
   WikiMeanings: funny, humorous; enjoyable, amusing, fun
   Examples:
-    -  Ich habe einen lustigen Film gesehen.
+    - Ich habe einen lustigen Film gesehen.
     - Mir ist heute etwas Lustiges passiert.
     - Frau Mertens ist lustig. Sie lacht immer.
     - Warum lacht ihr? Was ist so lustig?
