@@ -1274,7 +1274,7 @@
   Level: B1
   Form: -n
   Synonym: (D, CH) = (A) Marille
-  Meaning: apricot
+  Meaning: apricot (A-)
   WikiMeanings: apricot
   Examples:
     - Schmecken dir die Aprikosen?
@@ -14580,7 +14580,9 @@
   Meaning: time
   WikiMeanings: time; occasion, case, occurrence; a mark on the body, e.g. a scar, mole, etc.; mark, sign in the landscape, e.g. a milestone; base
   Examples:
-    - example1
+    - Das machen wir nächstes Mal.
+    - Das erste Mal war ich vor fünf Jahren in England.
+    - Bis zum nächsten Mal.
 
 - Id: malen
   Level: A2
@@ -14608,7 +14610,8 @@
   Meaning: one
   WikiMeanings: one, you; they, people; someone, somebody; they; just; only
   Examples:
-    - example1
+    - Wie schreibt man das?
+    - Hier darf man nicht parken.
 
 - Id: der Manager
   Level: B1
@@ -14621,19 +14624,21 @@
   Examples:
     - Zurzeit wird über die Gehälter der Manager heftig diskutiert.
 
-- Id: manch-
+- Id: manch
   Level: B1
   Meaning: some
   WikiMeanings: many a; many; some
   Examples:
-    - example1
+    - Manche Nachbarn sind unfreundlich.
+    - An manchen Tagen ist das Zugfahren billiger.
 
 - Id: manchmal
   Level: B1
   Meaning: sometimes
   WikiMeanings: sometimes
   Examples:
-    - example1
+    - Manchmal gehe ich mit meiner Frau ins Café.
+    - Rauchen Sie? – Manchmal.
 
 - Id: der Mangel
   Level: B1
@@ -14641,7 +14646,8 @@
   Meaning: lack, shortage
   WikiMeanings: lack; deficiency (dietary); mangle
   Examples:
-    - example1
+    -  In dieser Stadt gibt es einen großen Mangel an Wohnungen.
+    - Die Maschine hat technische Mängel.
 
 - Id: der Mann
   Level: A1
@@ -14649,14 +14655,15 @@
   Meaning: man
   WikiMeanings: man, male human being; husband
   Examples:
-    - example1
+    -  In unserer Firma arbeiten fast nur Männer.
+    - Mein Mann arbeitet bei der Post.
 
 - Id: männlich
   Level: A1
   Meaning: male
   WikiMeanings: male; manly; masculine
   Examples:
-    - example1
+    - 'Kreuzen Sie bitte an: „weiblich“ oder „männlich“.'
 
 - Id: die Mannschaft
   Level: A2
@@ -14673,7 +14680,7 @@
   Meaning: coat, jacket
   WikiMeanings: mantle; coat
   Examples:
-    - example1
+    - Es ist sehr kalt. Zieh deinen Mantel an.
 
 - Id: die Mappe
   Level: B1
@@ -14681,7 +14688,7 @@
   Meaning: briefcase, folder
   WikiMeanings: portfolio; briefcase; folder; looseleaf binder
   Examples:
-    - example1
+    - Mein Pass ist in dieser Mappe.
 
 - Id: das Märchen
   Level: B1
@@ -14689,7 +14696,7 @@
   Meaning: fairytale
   WikiMeanings: fairy tale; fairy tale
   Examples:
-    - example1
+    - Meine Großmutter hat uns viele Märchen erzählt.
 
 - Id: die Margarine
   Level: B1
@@ -14697,7 +14704,13 @@
   Meaning: margarine
   WikiMeanings: margarine
   Examples:
-    - example1
+    - Meine Frau isst nur Margarine und keine Butter.
+
+- Id: die Marille
+  Level: B1
+  Synonym: (A) = (D, CH) Aprikose
+  Examples:
+    - Schmecken dir die Marillen?
 
 - Id: die Marke
   Level: B1
@@ -14705,7 +14718,8 @@
   Meaning: mark, brand, stamp
   WikiMeanings: mark (like trade mark), brand; stamp (for letters)
   Examples:
-    - example1
+    -  Ich brauche bitte fünf Briefmarken zu 1 Euro.
+    - Markenschuhe sind mir zu teuer.
 
 - Id: markieren
   Level: B1
@@ -14713,7 +14727,7 @@
   Meaning: to mark
   WikiMeanings: to mark (indicate); to tag (to mention a friend to notify)
   Examples:
-    - example1
+    - Hier ist unser Hotel. Ich markiere Ihnen auf dem Plan den Weg zum Bahnhof.
 
 - Id: der Markt
   Level: A2
@@ -14740,7 +14754,8 @@
   Meaning: machine
   WikiMeanings: machine; engine; airplane; motorcycle
   Examples:
-    - example1
+    -  Ich habe eine neue Kaffeemaschine.
+    - Unsere Maschine soll um 7 Uhr 10 starten.
 
 - Id: das Material
   Level: B1
@@ -14748,7 +14763,13 @@
   Meaning: material
   WikiMeanings: material (matter)
   Examples:
-    - example1
+    - Aus welchem Material ist der Schrank? - Aus Holz.
+
+- Id: die Matura
+  Level: B1
+  Synonym:  (A, CH) = (D) Abitur
+  Examples:
+    - Meine Tocher hat gerade die Matura gemacht.
 
 - Id: die Mauer
   Level: B1
@@ -14756,14 +14777,15 @@
   Meaning: wall
   WikiMeanings: a wall, usually one made of stone or concrete; several players forming a blockade against the ball; the Berlin Wall
   Examples:
-    - example1
+    - Die Kinder sind über die Mauer geklettert.
 
 - Id: maximal
   Level: B1
   Meaning: maximum
   WikiMeanings: maximal
   Examples:
-    - example1
+    - Wie lange braucht ein Brief? - Maximal zwei Tage.
+    - Wie schwer darf der Brief sein? - Maximal 20 g.
 
 - Id: der Mechaniker
   Level: B1
@@ -14771,15 +14793,16 @@
   Meaning: mechanic
   WikiMeanings: mechanic, repairman, fitter, mechanician, machinist; ; auto mechanic
   Examples:
-    - example1
+    - Das kann nur ein Mechaniker reparieren.
+    - Karim ist Automechaniker. Er arbeitet bei Opel.
 
-- Id: die Medien
+- Id: das Medium
   Level: B1
-  Form: (Sg.)
+  Form: Medien
   Meaning: media
   WikiMeanings: the media + sing/pl vb
   Examples:
-    - example1
+    - Umweltschutz ist in den Medien ein großes Thema.
 
 - Id: das Medikament
   Level: A2
@@ -14799,7 +14822,8 @@
   Meaning: medicine
   WikiMeanings: medicine; medicine
   Examples:
-    - example1
+    - Du musst noch deine Medizin nehmen.
+    - Mein Sohn will Medizin studieren.
 
 - Id: das Meer
   Level: A1
@@ -14807,7 +14831,7 @@
   Meaning: sea
   WikiMeanings: sea; lake
   Examples:
-    - example1
+    - Wir machen immer Urlaub am Meer.
 
 - Id: das Mehl
   Level: B1
@@ -14815,7 +14839,7 @@
   Meaning: flour
   WikiMeanings: flour; meal; powder; dust
   Examples:
-    - example1
+    - Ich möchte einen Kuchen backen. Ist noch genug Mehl da?
 
 - Id: mehr
   Level: A1
@@ -14849,7 +14873,7 @@
   Meaning: value added tax, VAT
   WikiMeanings: value added tax (tax levied on added value of an exchange)
   Examples:
-    - example1
+    - Die Mehrwertsteuer bei diesem Produkt beträgt 20 %.
 
 - Id: meinen
   Level: A2
