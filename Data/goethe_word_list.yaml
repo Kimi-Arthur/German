@@ -158,7 +158,7 @@
   Level: B1
   Form: -e
   Synonym: (D) = (A, CH) Matura
-  Meaning: school graduation exam
+  Meaning: school graduation exam (A-)
   WikiMeanings: final exams taken by pupils at the end of their secondary education in Germany and Finland
   Examples:
     - Meine Tochter hat gerade Abitur gemacht.
@@ -14646,7 +14646,7 @@
   Meaning: lack, shortage
   WikiMeanings: lack; deficiency (dietary); mangle
   Examples:
-    -  In dieser Stadt gibt es einen großen Mangel an Wohnungen.
+    - In dieser Stadt gibt es einen großen Mangel an Wohnungen.
     - Die Maschine hat technische Mängel.
 
 - Id: der Mann
@@ -14655,7 +14655,7 @@
   Meaning: man
   WikiMeanings: man, male human being; husband
   Examples:
-    -  In unserer Firma arbeiten fast nur Männer.
+    - In unserer Firma arbeiten fast nur Männer.
     - Mein Mann arbeitet bei der Post.
 
 - Id: männlich
@@ -14708,7 +14708,10 @@
 
 - Id: die Marille
   Level: B1
+  Form: -n
   Synonym: (A) = (D, CH) Aprikose
+  Meaning: apricot (M-)
+  WikiMeanings: apricot
   Examples:
     - Schmecken dir die Marillen?
 
@@ -14718,7 +14721,7 @@
   Meaning: mark, brand, stamp
   WikiMeanings: mark (like trade mark), brand; stamp (for letters)
   Examples:
-    -  Ich brauche bitte fünf Briefmarken zu 1 Euro.
+    - Ich brauche bitte fünf Briefmarken zu 1 Euro.
     - Markenschuhe sind mir zu teuer.
 
 - Id: markieren
@@ -14754,7 +14757,7 @@
   Meaning: machine
   WikiMeanings: machine; engine; airplane; motorcycle
   Examples:
-    -  Ich habe eine neue Kaffeemaschine.
+    - Ich habe eine neue Kaffeemaschine.
     - Unsere Maschine soll um 7 Uhr 10 starten.
 
 - Id: das Material
@@ -14767,7 +14770,10 @@
 
 - Id: die Matura
   Level: B1
-  Synonym:  (A, CH) = (D) Abitur
+  Form: Maturen
+  Synonym: (A, CH) = (D) Abitur
+  Meaning: school graduation exam (M-)
+  WikiMeanings: matura
   Examples:
     - Meine Tocher hat gerade die Matura gemacht.
 
@@ -14800,7 +14806,7 @@
   Level: B1
   Form: Medien
   Meaning: media
-  WikiMeanings: the media + sing/pl vb
+  WikiMeanings: media, medium (format for communicating or presenting information); medium (the nature of the surrounding environment, e.g. solid, liquid, gas, vacuum or a specific substance); medium (someone who supposedly conveys information from the spirit world); middle voice
   Examples:
     - Umweltschutz ist in den Medien ein großes Thema.
 
