@@ -14575,7 +14575,7 @@
     - Er mailt ihr sehr viel.
 
 - Id: das Mal
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: time
   WikiMeanings: time; occasion, case, occurrence; a mark on the body, e.g. a scar, mole, etc.; mark, sign in the landscape, e.g. a milestone; base
@@ -14583,6 +14583,9 @@
     - Das machen wir nächstes Mal.
     - Das erste Mal war ich vor fünf Jahren in England.
     - Bis zum nächsten Mal.
+    - Sag mal, wie gefällt dir mein neues Kleid?
+    - Das erste Mal war ich vor fünf Jahren in England.
+    - Tschüss, bis zum nächsten Mal!
 
 - Id: malen
   Level: A2
@@ -14606,7 +14609,7 @@
     - Picasso ist vielleicht der bekannteste Maler der Welt.
 
 - Id: man
-  Level: B1
+  Level: A1
   Meaning: one
   WikiMeanings: one, you; they, people; someone, somebody; they; just; only
   Examples:
@@ -14625,7 +14628,7 @@
     - Zurzeit wird über die Gehälter der Manager heftig diskutiert.
 
 - Id: manch
-  Level: B1
+  Level: A2
   Meaning: some
   WikiMeanings: many a; many; some
   Examples:
@@ -14633,12 +14636,12 @@
     - An manchen Tagen ist das Zugfahren billiger.
 
 - Id: manchmal
-  Level: B1
+  Level: A2
   Meaning: sometimes
   WikiMeanings: sometimes
   Examples:
     - Manchmal gehe ich mit meiner Frau ins Café.
-    - Rauchen Sie? – Manchmal.
+    - Rauchen Sie? - Manchmal.
 
 - Id: der Mangel
   Level: B1
@@ -14657,13 +14660,16 @@
   Examples:
     - In unserer Firma arbeiten fast nur Männer.
     - Mein Mann arbeitet bei der Post.
+    - Mein Mann ist Polizist.
+    - Mein Mann arbeitet bei der Polizei.
 
 - Id: männlich
   Level: A1
-  Meaning: male
+  Meaning: male, manly
   WikiMeanings: male; manly; masculine
   Examples:
     - 'Kreuzen Sie bitte an: „weiblich“ oder „männlich“.'
+    - 'Bitte wählen Sie: „weiblich“ oder „männlich“.'
 
 - Id: die Mannschaft
   Level: A2
@@ -14759,6 +14765,7 @@
   Examples:
     - Ich habe eine neue Kaffeemaschine.
     - Unsere Maschine soll um 7 Uhr 10 starten.
+    - Die Waschmaschine ist günstig.
 
 - Id: das Material
   Level: B1
@@ -14838,6 +14845,7 @@
   WikiMeanings: sea; lake
   Examples:
     - Wir machen immer Urlaub am Meer.
+    - Wir machen Urlaub am Meer.
 
 - Id: das Mehl
   Level: B1
