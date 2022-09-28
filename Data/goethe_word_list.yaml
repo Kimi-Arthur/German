@@ -14940,7 +14940,7 @@
   Meaning: master, champion
   WikiMeanings: master; champion
   Examples:
-    -  Ich weiß nicht, wie man das macht. - Dann frag doch den Meister.
+    - Ich weiß nicht, wie man das macht. - Dann frag doch den Meister.
     - Unsere Mannschaft ist deutscher Meister geworden.
 
 - Id: melden
@@ -14949,7 +14949,7 @@
   Meaning: to report, register, put one's hand up, volunteer
   WikiMeanings: to report; to tell on (someone); to put one's hand up (in school); to get in touch (with someone), touch base; to stay in touch; to follow up, get back to
   Examples:
-    -  Ich habe schon zweimal angerufen. Aber es meldet sich niemand.
+    - Ich habe schon zweimal angerufen. Aber es meldet sich niemand.
     - Den Unfall müssen Sie der Versicherung melden.
     - Warum hast du dich so lange nicht gemeldet? Warst du krank?
 
@@ -15010,7 +15010,7 @@
   Meaning: to notice
   WikiMeanings: to notice; to memorize, remember, learn; to realize
   Examples:
-    -  Ich habe nicht gemerkt, dass es schon so spät ist. Ich muss gehen.
+    - Ich habe nicht gemerkt, dass es schon so spät ist. Ich muss gehen.
     - Ich kann mir keine Zahlen merken. Ich vergesse sie sofort wieder.
 
 - Id: merkwürdig
@@ -15026,7 +15026,7 @@
   Meaning: exhibition, fair
   WikiMeanings: fair (trade exhibition); mass, the eucharistic liturgy
   Examples:
-    -  Kommst du mit zur Automobilmesse?
+    - Kommst du mit zur Automobilmesse?
     - Vielleicht kann ich auf der Messe einen Job bekommen.
 
 - Id: messen
@@ -15141,7 +15141,7 @@
   Meaning: mild
   WikiMeanings: mild (in all of its common senses)
   Examples:
-    -  Möchten Sie die Soße scharf? – Nein, bitte ganz mild.
+    - Möchten Sie die Soße scharf? – Nein, bitte ganz mild.
     - Wie wird das Wetter? – Es soll etwas milder werden.
 
 - Id: die Minderheit
@@ -15157,7 +15157,7 @@
   Meaning: at least
   WikiMeanings: at least
   Examples:
-    -  Ein guter Fernsehapparat kostet mindestens 500 Euro.
+    - Ein guter Fernsehapparat kostet mindestens 500 Euro.
     - Bitte kommen Sie mindestens eine Stunde vor Abflug zum Flughafen.
 
 - Id: das Mineralwasser
@@ -15182,18 +15182,22 @@
   Meaning: to mix
   WikiMeanings: to mix; to shuffle
   Examples:
-    -  Ich möchte ein gemischtes Eis mit Sahne.
+    - Ich möchte ein gemischtes Eis mit Sahne.
     - Wie möchten Sie das Geld? – Bitte gemischt, große und kleine Scheine.
 
 - Id: der Misserfolg
   Level: B1
+  Form: -e
   Meaning: failure
+  WikiMeanings: failure
   Examples:
     - Die Konferenz war ein Misserfolg.
 
 - Id: das Misstrauen
   Level: B1
+  Form: (Sg.)
   Meaning: mistrust
+  WikiMeanings: ; mistrust
   Examples:
     - Das Misstrauen zwischen den beiden Parteien ist weiterhin groß.
 
@@ -15204,7 +15208,7 @@
   WikiMeanings: to misunderstand, to misapprehend
   Examples:
     - Sie missversteht mich absichtlich.
-    -  Sie haben mich missverstanden.
+    - Sie haben mich missverstanden.
 
 - Id: das Missverständnis
   Level: B1
