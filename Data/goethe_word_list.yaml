@@ -14925,9 +14925,10 @@
   Examples:
     - Wie gut kannst du Deutsch? - Das Meiste verstehe ich.
     - Ich bin neu im Haus. Die meisten Nachbarn kenne ich noch nicht.
+    - Die meisten Norddeutschen sind sehr groß.
 
 - Id: meistens
-  Level: B1
+  Level: A2
   Meaning: mostly
   WikiMeanings: mostly; most often, usually, normally
   Examples:
@@ -14962,7 +14963,7 @@
     - Hast du die Meldung im Radio gehört? Es wird starken Sturm geben.
 
 - Id: die Menge
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: quantity, lot (of)
   WikiMeanings: quantity; multitude; crowd, gathering of people; set
@@ -15005,7 +15006,7 @@
     - Nimm doch das Menü, das sieht gut aus.
 
 - Id: merken
-  Level: B1
+  Level: A2
   Form: merkt, merkte, hat gemerkt
   Meaning: to notice
   WikiMeanings: to notice; to memorize, remember, learn; to realize
@@ -15021,13 +15022,14 @@
     - Das ist eine merkwürdige Geschichte.
 
 - Id: die Messe
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: exhibition, fair
   WikiMeanings: fair (trade exhibition); mass, the eucharistic liturgy
   Examples:
     - Kommst du mit zur Automobilmesse?
     - Vielleicht kann ich auf der Messe einen Job bekommen.
+    - Kommst du mit zur Buchmesse nach Frankfurt?
 
 - Id: messen
   Level: B1
@@ -15039,12 +15041,13 @@
     - Ich habe das Zimmer ausgemessen. Es sind genau 20 m².
 
 - Id: das Messer
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: knife
   WikiMeanings: knife
   Examples:
     - Das Messer schneidet nicht gut.
+    - Ich habe nur ein Messer. Kannst du mir bitte noch eine Gabel bringen?
 
 - Id: das Metall
   Level: B1
@@ -15080,13 +15083,14 @@
     - Dieser Metzger hat sehr gute Wurst.
 
 - Id: mieten
-  Level: B1
+  Level: A1
   Form: mietet, mietete, hat gemietet
   Meaning: to rent
   WikiMeanings: to hire, to rent
   Examples:
     - Wir haben die Wohnung für drei Jahre gemietet.
     - Im Urlaub haben wir ein Auto gemietet.
+    - Ich möchte ein Auto mieten.
 
 - Id: die Miete
   Level: A1
@@ -15096,6 +15100,8 @@
   Examples:
     - Unsere Miete ist sehr hoch.
     - Wie viel Miete bezahlst du?
+    - Die Miete für diese Wohnung ist 600 Euro.
+    - Wie viel Miete bezahlst du für deine Wohnung?
 
 - Id: der Mieter
   Level: B1
@@ -15153,12 +15159,13 @@
     - Frauen sind in unserer Firma in der Minderheit.
 
 - Id: mindestens
-  Level: B1
+  Level: A2
   Meaning: at least
   WikiMeanings: at least
   Examples:
     - Ein guter Fernsehapparat kostet mindestens 500 Euro.
     - Bitte kommen Sie mindestens eine Stunde vor Abflug zum Flughafen.
+    - Schreiben Sie mindestens sieben Sätze! Ich warte schon mindestens 20 Minuten. Wann kommst du denn endlich?
 
 - Id: das Mineralwasser
   Level: A2
