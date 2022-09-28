@@ -14918,26 +14918,21 @@
     - Ich bin der Meinung, dass du recht hast.
     - Meiner Meinung nach gibt es hier zu viele Autos.
 
-- Id: meist-
+- Id: meist
   Level: A1
-  Meaning: most (adj.)
+  Meaning: most
   WikiMeanings: ; most; mostly, most often, usually
   Examples:
-    - example1
-
-- Id: die meisten
-  Level: B1
-  Meaning: most (of them)
-  WikiMeanings: most
-  Examples:
-    - example1
+    - Wie gut kannst du Deutsch? - Das Meiste verstehe ich.
+    - Ich bin neu im Haus. Die meisten Nachbarn kenne ich noch nicht.
 
 - Id: meistens
   Level: B1
   Meaning: mostly
   WikiMeanings: mostly; most often, usually, normally
   Examples:
-    - example1
+    - Meistens trinke ich zum Frühstück nur einen Kaffee.
+    - Seid ihr am Wochenende zu Hause? - Ja, meistens.
 
 - Id: der Meister
   Level: B1
@@ -14945,7 +14940,8 @@
   Meaning: master, champion
   WikiMeanings: master; champion
   Examples:
-    - example1
+    -  Ich weiß nicht, wie man das macht. - Dann frag doch den Meister.
+    - Unsere Mannschaft ist deutscher Meister geworden.
 
 - Id: melden
   Level: B1
@@ -14953,7 +14949,9 @@
   Meaning: to report, register, put one's hand up, volunteer
   WikiMeanings: to report; to tell on (someone); to put one's hand up (in school); to get in touch (with someone), touch base; to stay in touch; to follow up, get back to
   Examples:
-    - example1
+    -  Ich habe schon zweimal angerufen. Aber es meldet sich niemand.
+    - Den Unfall müssen Sie der Versicherung melden.
+    - Warum hast du dich so lange nicht gemeldet? Warst du krank?
 
 - Id: die Meldung
   Level: B1
@@ -14961,7 +14959,7 @@
   Meaning: announcement, report
   WikiMeanings: report; notification; message
   Examples:
-    - example1
+    - Hast du die Meldung im Radio gehört? Es wird starken Sturm geben.
 
 - Id: die Menge
   Level: B1
@@ -14969,7 +14967,10 @@
   Meaning: quantity, lot (of)
   WikiMeanings: quantity; multitude; crowd, gathering of people; set
   Examples:
-    - example1
+    - Diesen Preis gibt es nur, wenn Sie große Mengen kaufen.
+    - Wir haben noch eine Menge Zeit.
+    - Ich kenne schon eine Menge Leute in der Stadt.
+    - Das Auto hat bestimmt eine Menge Geld gekostet.
 
 - Id: die Mensa
   Level: B1
@@ -15001,7 +15002,7 @@
   Meaning: menu
   WikiMeanings: set meal, set menu; menu
   Examples:
-    - example1
+    - Nimm doch das Menü, das sieht gut aus.
 
 - Id: merken
   Level: B1
@@ -15009,14 +15010,15 @@
   Meaning: to notice
   WikiMeanings: to notice; to memorize, remember, learn; to realize
   Examples:
-    - example1
+    -  Ich habe nicht gemerkt, dass es schon so spät ist. Ich muss gehen.
+    - Ich kann mir keine Zahlen merken. Ich vergesse sie sofort wieder.
 
 - Id: merkwürdig
   Level: B1
   Meaning: odd, strange
   WikiMeanings: strange, odd; remarkable, noteworthy; worthy to remember
   Examples:
-    - example1
+    - Das ist eine merkwürdige Geschichte.
 
 - Id: die Messe
   Level: B1
@@ -15024,7 +15026,8 @@
   Meaning: exhibition, fair
   WikiMeanings: fair (trade exhibition); mass, the eucharistic liturgy
   Examples:
-    - example1
+    -  Kommst du mit zur Automobilmesse?
+    - Vielleicht kann ich auf der Messe einen Job bekommen.
 
 - Id: messen
   Level: B1
@@ -15032,7 +15035,8 @@
   Meaning: to measure
   WikiMeanings: to measure (something); to compete; to measure; to be a given size, height, width, length, etc.
   Examples:
-    - example1
+    - Haben Sie schon Fieber gemessen?
+    - Ich habe das Zimmer ausgemessen. Es sind genau 20 m².
 
 - Id: das Messer
   Level: B1
@@ -15040,7 +15044,7 @@
   Meaning: knife
   WikiMeanings: knife
   Examples:
-    - example1
+    - Das Messer schneidet nicht gut.
 
 - Id: das Metall
   Level: B1
@@ -15048,7 +15052,7 @@
   Meaning: metal
   WikiMeanings: metal; metal
   Examples:
-    - example1
+    - Dieser Tisch hier ist ganz aus Metall.
 
 - Id: die Methode
   Level: B1
@@ -15056,23 +15060,24 @@
   Meaning: method
   WikiMeanings: manner; approach; technique; method; method
   Examples:
-    - example1
+    - Weißt du eine gute Methode, um schnell gut Deutsch zu lernen?
 
 - Id: die Metropole
   Level: B1
   Form: -n
-  Meaning: metropolis
+  Meaning: metropolis, very large city
   WikiMeanings: metropolis; very large city; city which dominates its surroundings due to its population, administrative power or culture(s)
   Examples:
-    - example1
+    - Berlin und Wien sind Metropolen.
 
 - Id: der Metzger
   Level: B1
   Form: '-'
+  Synonym: = (A) Fleischhauer
   Meaning: butcher
   WikiMeanings: butcher
   Examples:
-    - example1
+    - Dieser Metzger hat sehr gute Wurst.
 
 - Id: mieten
   Level: B1
@@ -15080,7 +15085,8 @@
   Meaning: to rent
   WikiMeanings: to hire, to rent
   Examples:
-    - example1
+    - Wir haben die Wohnung für drei Jahre gemietet.
+    - Im Urlaub haben wir ein Auto gemietet.
 
 - Id: die Miete
   Level: A1
@@ -15088,23 +15094,30 @@
   Meaning: rent
   WikiMeanings: rent; clamp
   Examples:
-    - example1
+    - Unsere Miete ist sehr hoch.
+    - Wie viel Miete bezahlst du?
 
 - Id: der Mieter
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Mieterin
+    Form: -nen
   Meaning: tenant
   WikiMeanings: renter; tenant
   Examples:
-    - example1
+    - Sie hat heute neue Mieter für die Wohnung gefunden.
 
 - Id: der Migrant
   Level: B1
   Form: -en
+  Feminine:
+    Id: die Migrantin
+    Form: -nen
   Meaning: migrant
   WikiMeanings: migrant
   Examples:
-    - example1
+    - Viele Migranten kommen aus Osteuropa.
 
 - Id: die Migration
   Level: B1
@@ -15112,7 +15125,7 @@
   Meaning: migration
   WikiMeanings: migration; migration
   Examples:
-    - example1
+    - Gestern gab es im Fernsehen eine Diskussion zum Thema Migration.
 
 - Id: die Milch
   Level: A1
@@ -15128,7 +15141,8 @@
   Meaning: mild
   WikiMeanings: mild (in all of its common senses)
   Examples:
-    - example1
+    -  Möchten Sie die Soße scharf? – Nein, bitte ganz mild.
+    - Wie wird das Wetter? – Es soll etwas milder werden.
 
 - Id: die Minderheit
   Level: B1
@@ -15136,14 +15150,15 @@
   Meaning: minority
   WikiMeanings: minority
   Examples:
-    - example1
+    - Frauen sind in unserer Firma in der Minderheit.
 
 - Id: mindestens
   Level: B1
   Meaning: at least
   WikiMeanings: at least
   Examples:
-    - example1
+    -  Ein guter Fernsehapparat kostet mindestens 500 Euro.
+    - Bitte kommen Sie mindestens eine Stunde vor Abflug zum Flughafen.
 
 - Id: das Mineralwasser
   Level: A2
@@ -15159,7 +15174,7 @@
   Meaning: minimal
   WikiMeanings: minimal
   Examples:
-    - example1
+    - Da ist nur ein minimaler Unterschied.
 
 - Id: mischen
   Level: B1
@@ -15167,30 +15182,29 @@
   Meaning: to mix
   WikiMeanings: to mix; to shuffle
   Examples:
-    - example1
+    -  Ich möchte ein gemischtes Eis mit Sahne.
+    - Wie möchten Sie das Geld? – Bitte gemischt, große und kleine Scheine.
 
-- Id: misserfolg
+- Id: der Misserfolg
   Level: B1
-  Form: <misserfolg>
   Meaning: failure
-  WikiMeanings: failure
   Examples:
-    - example1
+    - Die Konferenz war ein Misserfolg.
 
-- Id: misstrauen
+- Id: das Misstrauen
   Level: B1
-  Form: misstraut, misstraute, hat misstraut
   Meaning: mistrust
-  WikiMeanings: to mistrust, to suspect, distrust, have doubts about
   Examples:
-    - example1
+    - Das Misstrauen zwischen den beiden Parteien ist weiterhin groß.
 
-- Id: missverstanden
+- Id: missverstehen
   Level: B1
-  Meaning: to misunderstand
-  WikiMeanings: ''
+  Form: missversteht, missverstand, hat missverstanden
+  Meaning: to misunderstand, to misapprehend
+  WikiMeanings: to misunderstand, to misapprehend
   Examples:
-    - example1
+    - Sie missversteht mich absichtlich.
+    -  Sie haben mich missverstanden.
 
 - Id: das Missverständnis
   Level: B1
@@ -15198,7 +15212,7 @@
   Meaning: misunderstanding
   WikiMeanings: misunderstanding, misinterpretation
   Examples:
-    - example1
+    - Das ist ein Missverständnis. Das habe ich nicht gesagt.
 
 - Id: mit
   Level: A1
@@ -28200,14 +28214,6 @@
   WikiMeanings: to rip, to tear; to rip up, to tear up; to disrupt, to break (silence, calm, etc.)
   Examples:
     - Es sieht aus, dein Hemd ist zerrissen.
-
-- Id: missverstehen
-  Level: K
-  Form: missversteht, missverstand, hat missverstanden
-  Meaning: to misunderstand, to misapprehend
-  WikiMeanings: to misunderstand, to misapprehend
-  Examples:
-    - Sie missversteht mich absichtlich.
 
 - Id: die Bestellung
   Level: K
