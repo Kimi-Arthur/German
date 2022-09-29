@@ -15310,7 +15310,9 @@
 
 - Id: der Mittagessen
   Level: A2
+  Form: '-'
   Meaning: lunch
+  WikiMeanings: lunch
   Examples:
     - Um zwölf Uhr gibt es Mittagessen.
 
@@ -15566,6 +15568,9 @@
 
 - Id: der Motorroller
   Level: A2
+  Form: '-'
+  Meaning: motor-scooter
+  WikiMeanings: scooter (motor-scooter)
   Examples:
     - Oskar fährt mit dem Motorroller zur Arbeit.
 
