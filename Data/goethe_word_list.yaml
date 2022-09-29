@@ -15298,7 +15298,7 @@
   Meaning: together, with one another
   WikiMeanings: together (with); with each other
   Examples:
-    - example1
+    - Sprechen Sie bitte miteinander.
 
 - Id: das Mitglied
   Level: B1
@@ -15306,15 +15306,7 @@
   Meaning: member
   WikiMeanings: member
   Examples:
-    - example1
-
-- Id: das Mittel
-  Level: B1
-  Form: '-'
-  Meaning: means
-  WikiMeanings: agent, appliance; means; medicament, remedy; (only plural) funds, capital; median; The middle of the 7 traditional sizes of German type, between Cicero and Tertia, standardized as 14 point and taken as roughly equivalent to "English" type.
-  Examples:
-    - example1
+    - Für Mitglieder ist der Eintritt zum Konzert gratis.
 
 - Id: die Mitte
   Level: A1
@@ -15322,7 +15314,10 @@
   Meaning: middle
   WikiMeanings: 'middle; center; '
   Examples:
-    - example1
+    -  Wo möchten Sie sitzen? - In der Mitte.
+    - Bis Mitte der Woche bin ich fertig.
+    - Ich habe Urlaub bis Mitte August.
+    - Den Schrank stellen wir ans Fenster, den Tisch in die Mitte.
 
 - Id: mitteilen
   Level: B1
@@ -15330,29 +15325,39 @@
   Meaning: to take part
   WikiMeanings: to inform about, to tell, to disclose, to impart, to report, to announce; to share with, to impart, to transfer a deal to
   Examples:
-    - example1
+    - Den Prüfungstermin teilen wir Ihnen noch mit.
+
+- Id: das Mittel
+  Level: B1
+  Form: '-'
+  Meaning: means
+  WikiMeanings: agent, appliance; means; medicament, remedy; (only plural) funds, capital; median; The middle of the 7 traditional sizes of German type, between Cicero and Tertia, standardized as 14 point and taken as roughly equivalent to "English" type.
+  Examples:
+    -  Haben Sie ein Mittel gegen Magenschmerzen?
+    - Der Arzt hat mir ein Mittel gegen Grippe verschrieben.
+    - Das neue Waschmittel ist sehr gut.
 
 - Id: mitten
   Level: B1
   Meaning: in the middle of
   WikiMeanings: In the middle.
   Examples:
-    - example1
+    - Wir haben eine Wohnung mitten in der Stadt.
+    - Das Flugzeug hatte Verspätung. Wir sind erst mitten in der Nacht angekommen.
 
-- Id: mittler-
+- Id: mittler
   Level: B1
-  Form: <mittler>
   Meaning: middle
   WikiMeanings: mediator
   Examples:
-    - example1
+    - In den mittleren Reihen sind noch Plätze frei.
 
 - Id: mittlerweile
   Level: B1
   Meaning: meanwhile
   WikiMeanings: meanwhile
   Examples:
-    - example1
+    - Am Anfang war die Arbeit schwer. Mittlerweile habe ich mich daran gewöhnt.
 
 - Id: das Möbel
   Level: A1
@@ -15360,14 +15365,14 @@
   Meaning: furniture
   WikiMeanings: furniture; piece of furniture
   Examples:
-    - example1
+    - Wir haben uns neue Möbel gekauft.
 
 - Id: möbliert
   Level: B1
   Meaning: furnished
   WikiMeanings: furnished
   Examples:
-    - example1
+    - Ich suche ein möbliertes Zimmer.
 
 - Id: möchten
   Level: A1
@@ -15384,7 +15389,7 @@
   Meaning: mobile
   WikiMeanings: mobile
   Examples:
-    - example1
+    - Mit dem Fahrrad bin ich in der Stadt sehr mobil.
 
 - Id: die Mobilbox
   Level: B1
@@ -15400,7 +15405,7 @@
   Meaning: mobility
   WikiMeanings: mobility
   Examples:
-    - example1
+    - Sprachen zu lernen fördert die Mobilität.
 
 - Id: das Mobiltelefon
   Level: B1
@@ -15408,7 +15413,7 @@
   Meaning: mobile telephone
   WikiMeanings: mobile phone
   Examples:
-    - example1
+    - Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon?
 
 - Id: die Mode
   Level: A2
@@ -15422,10 +15427,10 @@
 - Id: das Modell
   Level: B1
   Form: -e
-  Meaning: model
+  Meaning: model of an object, theoretical model
   WikiMeanings: A model of an object; A theoretical model
   Examples:
-    - example1
+    - Wie findest du dieses Auto? - Dieses Modell gefällt mir nicht.
 
 - Id: der Moderator
   Level: B1
@@ -15473,7 +15478,7 @@
   Meaning: possible
   WikiMeanings: possible; potential; likely; a whole bunch of; a great deal of; a lot of; many
   Examples:
-    - example1
+    - Kann ich bitte sofort einen Termin haben? - Das ist leider nicht möglich.
 
 - Id: die Möglichkeit
   Level: B1
@@ -15481,22 +15486,24 @@
   Meaning: possibility
   WikiMeanings: possibility, likelihood; option, choice
   Examples:
-    - example1
+    - Sie wollen ans Meer? Da gibt es mehrere Möglichkeiten.
 
 - Id: möglichst
   Level: B1
-  Meaning: as...as possible
+  Meaning: as much/soon ... as possible, preferably
   WikiMeanings: as much as possible; preferably
   Examples:
-    - example1
+    - Sagen Sie mir bitte möglichst bald, ob Ihnen der Termin passt.
+    - Wir suchen eine Wohnung, möglichst im Erdgeschoss.
 
 - Id: die Möhre
   Level: B1
   Form: -n
-  Meaning: carrot
+  Synonym: (D) = Karotte = (CH) Rüebli
+  Meaning: carrot (M-)
   WikiMeanings: carrot
   Examples:
-    - example1
+    - Hasen fressen gern Möhren.
 
 - Id: der Moment
   Level: A1
@@ -15514,7 +15521,7 @@
   Meaning: moon
   WikiMeanings: the Moon; Earth's only natural satellite, and also a luminary; moon; a month, especially a lunar month; moon (often used to describe a crescent)
   Examples:
-    - example1
+    - Bei Vollmond kann ich nicht schlafen.
 
 - Id: der Monitor
   Level: B1
@@ -15522,7 +15529,7 @@
   Meaning: monitor
   WikiMeanings: monitor (display)
   Examples:
-    - example1
+    - Ich habe mir einen größeren Monitor gekauft. Das ist besser für meine Augen.
 
 - Id: morgen
   Level: A1
@@ -15534,10 +15541,10 @@
 - Id: der Motor
   Level: B1
   Form: -en
-  Meaning: motor
+  Meaning: engine
   WikiMeanings: engine
   Examples:
-    - example1
+    - Der Motor ist kaputt. Das Auto fährt nicht mehr.
 
 - Id: das Motorrad
   Level: B1
@@ -15545,7 +15552,7 @@
   Meaning: motorbike
   WikiMeanings: motorcycle
   Examples:
-    - example1
+    - Oskar fährt jeden Tag mit dem Motorrad zur Arbeit.
 
 - Id: das Mountainbike
   Level: B1
@@ -15568,7 +15575,8 @@
   Meaning: effort
   WikiMeanings: effort, difficulty
   Examples:
-    - example1
+    - Vielen Dank für Ihre Mühe.
+    - Mit ein bisschen mehr Mühe können wir das schaffen.
 
 - Id: der Müll
   Level: B1
@@ -15576,23 +15584,24 @@
   Meaning: rubbish, trash
   WikiMeanings: trash, garbage, refuse, waste, junk; nonsense
   Examples:
-    - example1
+    - Bringst du bitte noch den Müllsack raus?
+    - Wir müssen den Müll trennen.
 
 - Id: die Müllabfuhr
   Level: B1
   Form: -en
-  Meaning: garbage/ rubbish collection, collectors
+  Meaning: garbage collection
   WikiMeanings: ''
   Examples:
-    - example1
+    - Die Müllabfuhr kommt zweimal pro Woche.
 
 - Id: die Mülltonne
   Level: B1
   Form: -n
-  Meaning: dustbin
+  Meaning: garbage can
   WikiMeanings: wheelie bin; garbage can
   Examples:
-    - example1
+    - Die Mülltonne ist voll.
 
 - Id: der Mund
   Level: A1
