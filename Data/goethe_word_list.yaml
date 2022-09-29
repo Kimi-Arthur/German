@@ -15308,6 +15308,12 @@
   Examples:
     - Für Mitglieder ist der Eintritt zum Konzert gratis.
 
+- Id: der Mittagessen
+  Level: A2
+  Meaning: lunch
+  Examples:
+    - Um zwölf Uhr gibt es Mittagessen.
+
 - Id: die Mitte
   Level: A1
   Form: -n
@@ -15318,6 +15324,7 @@
     - Bis Mitte der Woche bin ich fertig.
     - Ich habe Urlaub bis Mitte August.
     - Den Schrank stellen wir ans Fenster, den Tisch in die Mitte.
+    - Der Lehrer steht in der Mitte des Klassenzimmers.
 
 - Id: mitteilen
   Level: B1
@@ -15328,9 +15335,9 @@
     - Den Prüfungstermin teilen wir Ihnen noch mit.
 
 - Id: das Mittel
-  Level: B1
+  Level: A2
   Form: '-'
-  Meaning: means
+  Meaning: means, appliance, remedy
   WikiMeanings: agent, appliance; means; medicament, remedy; (only plural) funds, capital; median; The middle of the 7 traditional sizes of German type, between Cicero and Tertia, standardized as 14 point and taken as roughly equivalent to "English" type.
   Examples:
     - Haben Sie ein Mittel gegen Magenschmerzen?
@@ -15366,6 +15373,8 @@
   WikiMeanings: furniture; piece of furniture
   Examples:
     - Wir haben uns neue Möbel gekauft.
+    - Sind die Möbel neu?
+    - Eure Möbel sind sehr schön.
 
 - Id: möbliert
   Level: B1
@@ -15373,16 +15382,6 @@
   WikiMeanings: furnished
   Examples:
     - Ich suche ein möbliertes Zimmer.
-
-- Id: möchten
-  Level: A1
-  Form: möchte, mochte, hat gemocht
-  Meaning: to want (to have), like (to have)
-  WikiMeanings: ''
-  Examples:
-    - Was möchten Sie trinken?
-    - Möchtest du auch einen Kaffee?
-    - Im Sommer möchten wir gern ans Meer fahren.
 
 - Id: mobil
   Level: B1
@@ -15408,12 +15407,22 @@
     - Sprachen zu lernen fördert die Mobilität.
 
 - Id: das Mobiltelefon
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: mobile telephone
   WikiMeanings: mobile phone
   Examples:
     - Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon?
+
+- Id: möchten
+  Level: A1
+  Form: möchte, mochte, hat gemocht
+  Meaning: to want (to have), like (to have)
+  WikiMeanings: ''
+  Examples:
+    - Was möchten Sie trinken?
+    - Möchtest du auch einen Kaffee?
+    - Im Sommer möchten wir gern ans Meer fahren.
 
 - Id: die Mode
   Level: A2
@@ -15479,6 +15488,7 @@
   WikiMeanings: possible; potential; likely; a whole bunch of; a great deal of; a lot of; many
   Examples:
     - Kann ich bitte sofort einen Termin haben? - Das ist leider nicht möglich.
+    - Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
 
 - Id: die Möglichkeit
   Level: B1
@@ -15554,6 +15564,11 @@
   Examples:
     - Oskar fährt jeden Tag mit dem Motorrad zur Arbeit.
 
+- Id: der Motorroller
+  Level: A2
+  Examples:
+    - Oskar fährt mit dem Motorroller zur Arbeit.
+
 - Id: das Mountainbike
   Level: B1
   Form: -s
@@ -15579,13 +15594,14 @@
     - Mit ein bisschen mehr Mühe können wir das schaffen.
 
 - Id: der Müll
-  Level: B1
+  Level: A2
   Form: (Sg.)
   Meaning: rubbish, trash
   WikiMeanings: trash, garbage, refuse, waste, junk; nonsense
   Examples:
     - Bringst du bitte noch den Müllsack raus?
     - Wir müssen den Müll trennen.
+    - Kann ich die Zeitungen wegwerfen? - Ja, sie sind alt. Bring/Wirf sie bitte in den Müll!
 
 - Id: die Müllabfuhr
   Level: B1
