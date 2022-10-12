@@ -782,7 +782,7 @@
   Level: B1
   Form: gibt an, gab an, hat angegeben
   Meaning: to claim, declare, show off
-  WikiMeanings: to specify, to indicate, to state, to supply; to quote, to cite; to show off; to brag, to boast; to deal first
+  WikiMeanings: to indicate, specify; to brag, boast, show off; to initiate a game
   Examples:
     - Bitte geben Sie Ihre genaue Adresse an.
 
@@ -790,7 +790,7 @@
   Level: B1
   Form: -n
   Meaning: declaration, statement, information, representation
-  WikiMeanings: indication, information, giving or providing (of information); specification, declaration, statement; serve
+  WikiMeanings: details pl
   Examples:
     - 'Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.'
 
@@ -1467,7 +1467,7 @@
 - Id: auch
   Level: A1
   Meaning: also, too, as well
-  WikiMeanings: also; too; as well; even (); ever; ; “yes, and more”
+  WikiMeanings: also; too; as well; ; even (); ever; ; “yes, and more”
   Examples:
     - Ich bin auch Spanier.
     - Maria muss auch am Wochenende arbeiten.
@@ -3440,7 +3440,7 @@
   Level: A2
   Form: besteht, bestand, hat bestanden
   Meaning: to exist, last, pass, win
-  WikiMeanings: to succeed, to pass (an exam); to consist (); to exist; to insist ()
+  WikiMeanings: to succeed, to pass (an exam); to consist (); to exist; to insist ( with dative)
   Examples:
     - 'Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen.'
     - Ich habe die Prüfung bestanden!
@@ -3771,7 +3771,7 @@
 - Id: bio-
   Level: B1
   Meaning: organic
-  WikiMeanings: ; organic products
+  WikiMeanings: organic
   Examples:
     - Ich kaufe nur noch Biogemüse.
 
@@ -7713,7 +7713,7 @@
   Level: B1
   Form: -er
   Meaning: field
-  WikiMeanings: field; field, a domain of work, knowledge, study
+  WikiMeanings: 'field; ; field, a domain of work, knowledge, study; '
   Examples:
     - Auf diesem Feld wächst Gemüse.
 
@@ -9099,7 +9099,9 @@
 - Id: geehrt
   Level: A2
   Meaning: dear (Sir or Madam, in letters)
-  WikiMeanings: ''
+  WikiMeanings: >-
+    honoured [or 
+             Am -ored]
   Examples:
     - Sehr geehrte Damen und Herren,
 
@@ -9251,7 +9253,7 @@
 - Id: geheim
   Level: B1
   Meaning: done or kept in secret (g-)
-  WikiMeanings: secret
+  WikiMeanings: secret, clandestine; familiar, dear; homely, cozy; tame, domesticated
   Examples:
     - Das ist geheim. Du darfst es niemandem sagen.
 
@@ -9451,6 +9453,7 @@
 
 - Id: das Gepäck
   Level: A1
+  Form: -e
   Meaning: luggage, baggage
   WikiMeanings: luggage, baggage
   Examples:
@@ -9857,7 +9860,7 @@
 - Id: glatt
   Level: B1
   Meaning: smooth; slippery
-  WikiMeanings: 'without roughness or unevenness: smooth; sleek, slick; even; clean (of a shave or cut); straight (of hair); slippery (from e.g. ice, but not from grease); smooth; clear, unequivocal; smooth; smooth; smoothbore; funny'
+  WikiMeanings: 'without roughness or unevenness: smooth; sleek, slick; even; clean (of a shave or cut); straight (of hair); slippery (from e.g. ice, but not from grease); smooth; clear, unequivocal; smooth; smooth; smoothbore; funny; pretty'
   Examples:
     - Fahr vorsichtig! Es ist glatt.
 
@@ -11344,7 +11347,7 @@
   Level: B1
   Form: -n
   Meaning: hut
-  WikiMeanings: hut, cabin, shack, cottage; metalworks; ironworks
+  WikiMeanings: 'hut, cabin, shack, cottage; metalworks, ironworks; '
   Examples:
     - Wir übernachten in der Hütte auf dem Berg.
 
@@ -12815,7 +12818,7 @@
   Level: B1
   Form: -en
   Meaning: communication
-  WikiMeanings: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
+  WikiMeanings: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
   Examples:
     - Die Kommunikation zwischen den Abteilungen ist gut.
 
@@ -13287,6 +13290,7 @@
 
 - Id: die Kriminalpolizei
   Level: B1
+  Form: -en
   Meaning: crime investigation department
   WikiMeanings: The branch or department of a police force that investigates crime.; A specific unit of that branch.
   Examples:
@@ -14256,7 +14260,7 @@
   Form: -e
   Synonym: = (D, A) Aufzug
   Meaning: lift
-  WikiMeanings: lift; elevator
+  WikiMeanings: 'lift; elevator; '
   Examples:
     - Im Büro ist leider der Lift kaputt
 
@@ -15614,7 +15618,10 @@
   Level: B1
   Form: -en
   Meaning: garbage collection
-  WikiMeanings: ''
+  WikiMeanings: >-
+    refuse  form  
+                 [or 
+                   esp Am garbage]  collection
   Examples:
     - Die Müllabfuhr kommt zweimal pro Woche.
 
@@ -15662,7 +15669,7 @@
   Level: A2
   Form: -en / (Sg.)
   Meaning: music
-  WikiMeanings: music; a musical piece (e.g. in "Eine kleine Nachtmusik")
+  WikiMeanings: music; music as a school subject, musical instruction; a musical piece; a band, mostly one performing at some event
   Examples:
     - Wie findest du die Musik?
     - Spanische Musik gefällt mir gut.
@@ -15893,7 +15900,7 @@
   Level: B1
   Form: nähert, näherte, hat genähert
   Meaning: to approach, to get close
-  WikiMeanings: to approach, to come near
+  WikiMeanings: to approach, to come near; to approximate
   Examples:
     - example1
 
@@ -16284,7 +16291,7 @@
   Level: B1
   Form: notiert, notierte, hat notiert
   Meaning: to note
-  WikiMeanings: to note, to note down, to write down, to jot down
+  WikiMeanings: to note, to note down, to write down, to jot down; to be offered for purchase, to trade
   Examples:
     - example1
 
@@ -17030,7 +17037,7 @@
   Level: B1
   Form: -n
   Meaning: (frying) pan
-  WikiMeanings: 'frying pan; '
+  WikiMeanings: 'frying pan; ; '
   Examples:
     - example1
 
@@ -17078,7 +17085,7 @@
   Level: B1
   Form: pflegt, pflegte, hat gepflegt
   Meaning: to look after, nurse, foster
-  WikiMeanings: to look after; to care for; to nurse; to perform habitually; to be accustomed [to doing something]; to be in the habit [of doing something]
+  WikiMeanings: '; '
   Examples:
     - example1
 
@@ -17118,7 +17125,7 @@
   Level: B1
   Form: -n
   Meaning: pill
-  WikiMeanings: pill, tablet; (die Pille) the (contraceptive) pill
+  WikiMeanings: pill, tablet; ; ball
   Examples:
     - example1
 
@@ -17228,7 +17235,7 @@
 
 - Id: die Polizei
   Level: A1
-  Form: -en / (Sg.)
+  Form: -en
   Meaning: police
   WikiMeanings: police
   Examples:
@@ -19091,7 +19098,7 @@
   Level: A1
   Form: ¨-e
   Meaning: end
-  WikiMeanings: end, ending, conclusion, finish; logical conclusion
+  WikiMeanings: end, ending, conclusion, finish; logical conclusion
   Examples:
     - example1
 
@@ -20005,7 +20012,7 @@
 - Id: so
   Level: B1
   Meaning: so, like this
-  WikiMeanings: 'so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; that, which, who; '
+  WikiMeanings: 'so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; that, which, who; '
   Examples:
     - example1
 
@@ -20560,7 +20567,7 @@
   Level: B1
   Form: -en
   Meaning: track, trace
-  WikiMeanings: track, trace, trail, sign, scent; lead, clue; lane; trace, the sum of the diagonal elements of a square matrix.; track
+  WikiMeanings: trace; trail, track, spoor; lead, clue; lane (of a street, road); track; trace
   Examples:
     - example1
 
@@ -20851,7 +20858,7 @@
   Level: B1
   Form: -e
   Meaning: star
-  WikiMeanings: a star; a small luminous dot that can be seen on the night sky; a star; the actual celestial body; a star, a mullet, or anything that resembles such an object; a star; symbol used as a rating, e.g. for hotels, movies, etc.; an asterisk (*); a star, starlet, celebrity, something or somebody popular; a stellar crystal, a snow crystal possessing the shape of a star; .
+  WikiMeanings: a star; a small luminous dot that can be seen on the night sky; a star; the actual celestial body; a star, a mullet, or anything that resembles such an object; a star; symbol used as a rating, e.g. for hotels, movies, etc.; an asterisk (*); a star, starlet, celebrity, something or somebody popular; ; a stellar crystal, a snow crystal possessing the shape of a star; .
   Examples:
     - example1
 
@@ -21239,7 +21246,7 @@
   Level: B1
   Form: ¨-e
   Meaning: storm
-  WikiMeanings: A strong, blustery wind; gust; gale; squall; storm, tempest; storm, rush, attack
+  WikiMeanings: A strong, blustery wind; gust; gale; squall; storm, tempest; storm, rush, attack; must made from white or red grapes that has begun to ferment but that has not yet turned into wine
   Examples:
     - example1
 
@@ -22578,7 +22585,7 @@
   Level: B1
   Form: <übersetzen>
   Meaning: to translate
-  WikiMeanings: to translate, to interpret; to compile; to cross, cross over, traverse, pass over, ferry
+  WikiMeanings: to translate, to interpret; to compile; to cross, cross over, traverse, ferry
   Examples:
     - example1
 
@@ -23986,7 +23993,7 @@
   Level: B1
   Form: -en
   Meaning: representation, substitution
-  WikiMeanings: representation; agency; substitution; substitute
+  WikiMeanings: representation; agency; substitution, deputyship; substitute, deputy
   Examples:
     - Herr Dr. Meyer macht für mich die Vertretung.
 
@@ -25210,7 +25217,7 @@
   Level: B1
   Form: -en
   Meaning: science
-  WikiMeanings: science; academia, scholarship; academia, academic community; the state of being acquainted with a circumstance, cognizance; science, the sciences (in general), humanities taken as a whole
+  WikiMeanings: science; science, the sciences taken as a whole; academia, scholarship; academia, academic community; knowledge, cognizance
   Examples:
     - example1
 
@@ -26006,7 +26013,7 @@
 - Id: zurück
   Level: A1
   Meaning: back
-  WikiMeanings: back, backwards, to the rear.; stand back!
+  WikiMeanings: back, backward, backwards, to the rear.; stand back!; get back!
   Examples:
     - example1
 
@@ -26491,7 +26498,7 @@
   Level: M
   Form: (Sg.)
   Meaning: north
-  WikiMeanings: north (direction); north (region); .
+  WikiMeanings: north (direction); north (region)
   Examples:
     - example1
 
@@ -26693,7 +26700,7 @@
     Id: die Schweizerin
     Form: -nen
   Meaning: Swiss person
-  WikiMeanings: Swiss person; Swiss Guard; milker, person who milks cows; sacristan; doorman; .; of Switzerland
+  WikiMeanings: Swiss person; Swiss Guard; milker, person who milks cows; sacristan; doorman; of Switzerland
   Examples:
     - Viktor Giacobbo ist ein Schweizer.
 
@@ -26789,7 +26796,7 @@
   Level: M
   Form: ¨-e
   Meaning: union, confederacy
-  WikiMeanings: alliance; covenant; a fret (of a guitar); waistband; a bunch; confederation of German states; the German army, Bundeswehr
+  WikiMeanings: 'alliance, federation, league; covenant; fret (of a guitar); waistband; bunch; confederation of German states; '
   Examples:
     - example1
 
@@ -27017,7 +27024,7 @@
   Level: M
   Form: -n
   Meaning: hare
-  WikiMeanings: hare; the constellation Lepus; .
+  WikiMeanings: hare; the constellation Lepus
   Examples:
     - example1
 
@@ -27113,7 +27120,7 @@
   Level: M
   Form: ¨-
   Meaning: bird
-  WikiMeanings: a bird; an idiot, a clown; a kite
+  WikiMeanings: 'a bird; an idiot, a clown; a kite; '
   Examples:
     - example1
 
@@ -27648,7 +27655,7 @@
   Level: M
   Form: -e
   Meaning: autumn
-  WikiMeanings: autumn, fall; .
+  WikiMeanings: autumn, fall
   Examples:
     - Im Herbst sammeln die Kinder Kastanien.
 
@@ -28896,7 +28903,7 @@
   Level: K
   Form: '-'
   Meaning: pilsener, a particular style of lager beer
-  WikiMeanings: A particular style of lager beer, originally from the city of Plzeň (in German and English, Pilsen).
+  WikiMeanings: A particular style of lager beer, originally from the city of Pilsen.
   Examples:
     - example
 
