@@ -1134,7 +1134,7 @@
 
 - Id: anwesend
   Level: B1
-  Meaning: present
+  Meaning: present (appearing)
   WikiMeanings: present (in the immediate vicinity)
   Examples:
     - Bei dem Treffen waren alle Mitglieder anwesend.
@@ -9451,7 +9451,6 @@
 
 - Id: das Gepäck
   Level: A1
-  Form: (Sg.)
   Meaning: luggage, baggage
   WikiMeanings: luggage, baggage
   Examples:
@@ -11028,7 +11027,7 @@
 - Id: hinterlassen
   Level: B1
   Form: hinterlässt, hinterließ, hat hinterlassen
-  Meaning: to leave
+  Meaning: to leave behind
   WikiMeanings: to leave behind (after leaving a location); to bequeath
   Examples:
     - Möchten Sie eine Nachricht hinterlassen?
@@ -12184,7 +12183,7 @@
 - Id: die Kasse
   Level: A1
   Form: -n
-  Meaning: till, cash register
+  Meaning: cash register
   WikiMeanings: till, cash register, cash box; cash desk, checkout, box office; ; health insurance institution
   Examples:
     - Zahlen Sie bitte an der Kasse.
@@ -12822,7 +12821,7 @@
 
 - Id: komplett
   Level: B1
-  Meaning: completely
+  Meaning: complete; completely
   WikiMeanings: complete
   Examples:
     - Ich habe den Termin komplett vergessen.
@@ -13288,7 +13287,7 @@
 
 - Id: die Kriminalpolizei
   Level: B1
-  Meaning: Criminal Investigation Department
+  Meaning: crime investigation department
   WikiMeanings: The branch or department of a police force that investigates crime.; A specific unit of that branch.
   Examples:
     - Ein Nachbar von uns arbeitet bei der Kriminalpolizei.
@@ -13359,7 +13358,7 @@
 - Id: der Kugelschreiber
   Level: A1
   Form: '-'
-  Meaning: ballpoint pen
+  Meaning: ballpoint pen (long)
   WikiMeanings: ballpoint pen, biro; biro ink
   Examples:
     - Mein Kugelschreiber ist weg.
@@ -13368,7 +13367,7 @@
 - Id: der Kuli
   Level: B1
   Form: -s
-  Meaning: Biro
+  Meaning: ballpoint pen (short)
   WikiMeanings: coolie; slave; ; (ballpoint) pen
   Examples:
     - Hast du einen Kuli für mich?
@@ -13934,7 +13933,7 @@
 - Id: die Lehrstelle
   Level: B1
   Form: -n
-  Meaning: apprenticeship places
+  Meaning: apprenticeship position
   WikiMeanings: apprenticeship
   Examples:
     - Es sind noch viele Lehrstellen frei.
@@ -14002,7 +14001,7 @@
 - Id: leihen
   Level: A2
   Form: leiht, lieh, hat geliehen
-  Meaning: to lend, barrow
+  Meaning: to lend
   WikiMeanings: to borrow; to lend, loan
   Examples:
     - Ich habe mir von meinem Bruder 50 Euro geliehen.
@@ -14392,7 +14391,7 @@
 
 - Id: los
   Level: B1
-  Meaning: go on, the matter
+  Meaning: off; going on; go!
   WikiMeanings: ; off, rid of; going on; open; come on!, let's go!; Go!
   Examples:
     - Los! Beeilt euch!
@@ -14402,7 +14401,7 @@
 - Id: losfahren
   Level: B1
   Form: fährt los, fuhr los, ist losgefahren
-  Meaning: to leave
+  Meaning: to set off
   WikiMeanings: to set off, to hit the road
   Examples:
     - Wir fahren um 8 Uhr los. Sei bitte pünktlich.
@@ -14577,7 +14576,7 @@
 - Id: das Mal
   Level: A2
   Form: -e
-  Meaning: time
+  Meaning: time, occurrence
   WikiMeanings: time; occasion, case, occurrence; a mark on the body, e.g. a scar, mole, etc.; mark, sign in the landscape, e.g. a milestone; base
   Examples:
     - Das machen wir nächstes Mal.
@@ -14610,7 +14609,7 @@
 
 - Id: man
   Level: A1
-  Meaning: one
+  Meaning: one, someone
   WikiMeanings: one, you; they, people; someone, somebody; they; just; only
   Examples:
     - Wie schreibt man das?
@@ -14707,7 +14706,7 @@
 - Id: die Margarine
   Level: B1
   Form: -n
-  Meaning: margarine
+  Meaning: vegetable butter
   WikiMeanings: margarine
   Examples:
     - Meine Frau isst nur Margarine und keine Butter.
@@ -14794,7 +14793,7 @@
 
 - Id: maximal
   Level: B1
-  Meaning: maximum
+  Meaning: maximal
   WikiMeanings: maximal
   Examples:
     - Wie lange braucht ein Brief? - Maximal zwei Tage.
@@ -14803,7 +14802,10 @@
 - Id: der Mechaniker
   Level: B1
   Form: '-'
-  Meaning: mechanic
+  Feminine:
+    Id: die Mechanikerin
+    Form: -nen
+  Meaning: mechanician
   WikiMeanings: mechanic, repairman, fitter, mechanician, machinist; ; auto mechanic
   Examples:
     - Das kann nur ein Mechaniker reparieren.
@@ -15153,7 +15155,7 @@
 - Id: die Minderheit
   Level: B1
   Form: -en
-  Meaning: minority
+  Meaning: minority, small in number
   WikiMeanings: minority
   Examples:
     - Frauen sind in unserer Firma in der Minderheit.
@@ -23600,7 +23602,7 @@
 - Id: verlassen
   Level: B1
   Form: verlässt, verließ, hat verlassen
-  Meaning: to leave
+  Meaning: to abandon
   WikiMeanings: to leave, to abandon; to depart, to forsake; to trust; to rely on; lonely, forsaken; abandoned, deserted; forlornly
   Examples:
     - example1
