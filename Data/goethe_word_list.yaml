@@ -5258,7 +5258,7 @@
 - Id: donnern
   Level: B1
   Form: donnert, donnerte, hat gedonnert
-  Meaning: to thunder, crushed
+  Meaning: to thunder
   WikiMeanings: to thunder
   Examples:
     - Hörst du es donnern? Das Gewitter kommt näher.
@@ -5523,7 +5523,7 @@
 - Id: der Durchschnitt
   Level: B1
   Form: -e
-  Meaning: average, on average
+  Meaning: ordinary, average
   WikiMeanings: average; intersection
   Examples:
     - Der Durchschnitt der Ausgaben liegt bei 150 Euro im Monat.
@@ -5532,10 +5532,10 @@
 
 - Id: durchschnittlich
   Level: B1
-  Meaning: ordinary, average
+  Meaning: average, on average
   WikiMeanings: average, ordinary, mean, medium; on average
   Examples:
-    - Die Preise sind im letzten Jahr um durchschnittlich 6 % gestiegen.
+    - Die Preise sind im letzten Jahr um durchschnittlich 6% gestiegen.
 
 - Id: dürfen
   Level: A1
@@ -5696,7 +5696,7 @@
 
 - Id: eckig
   Level: B1
-  Meaning: square
+  Meaning: angular, square
   WikiMeanings: angular; square
   Examples:
     - Ich möchte einen eckigen Tisch, keinen runden.
@@ -5750,7 +5750,7 @@
 - Id: das Ehepaar
   Level: B1
   Form: -e
-  Meaning: (Ehemannmarried) couple
+  Meaning: married couple
   WikiMeanings: married couple
   Examples:
     - Das Ehepaar unter uns hat zwei Kinder.
