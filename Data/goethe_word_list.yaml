@@ -20747,7 +20747,7 @@
   Meaning: to prick, stab, bite, sting
   CambridgeMeanings: to sting; to bite; to prick; to take, to trump; to be trumps; to trump
   Examples:
-    - Stefan wird beim Zelten immer von den Mücken gestochen. 
+    - Stefan wird beim Zelten immer von den Mücken gestochen.
 
 - Id: stecken
   Level: B1
@@ -20765,7 +20765,7 @@
   Meaning: socket
   CambridgeMeanings: outlet
   Examples:
-    - Es gibt drei Steckdosen in diesem Zimmer. 
+    - Es gibt drei Steckdosen in diesem Zimmer.
 
 - Id: der Stecker
   Level: B1
@@ -20781,7 +20781,7 @@
   Meaning: to stand
   CambridgeMeanings: ''
   Examples:
-    -  In meinem Beruf muss ich viel stehen.
+    - In meinem Beruf muss ich viel stehen.
     - Als wir kamen, stand das Essen schon auf dem Tisch.
     - Der Bus steht schon an der Haltestelle.
     - Was steht heute in der Zeitung?
@@ -20810,7 +20810,7 @@
   Meaning: to rise, climb
   CambridgeMeanings: to climb; to lift, to rise; to get in/on/out/off; to rise, to increase; to stand; to put on, to take off; to happen
   Examples:
-    -  Die Preise für Milch und Gemüse sind schon wieder gestiegen.
+    - Die Preise für Milch und Gemüse sind schon wieder gestiegen.
     - Gegen Abend ist das Fieber wieder gestiegen.
 
 - Id: steil
@@ -20916,7 +20916,7 @@
   Meaning: style
   CambridgeMeanings: style
   Examples:
-    -  Ihr Stil ist sehr elegant.
+    - Ihr Stil ist sehr elegant.
     - Das Gebäude gefällt mir. Welcher Baustil ist das?
 
 - Id: stilistisch
@@ -20944,14 +20944,20 @@
 
 - Id: die Stiege
   Level: B1
+  Form: -n
   Synonym: (A) = (D, CH) Treppe
+  Meaning: stair (S-)
+  CambridgeMeanings: narrow wooden stairs; stairs, steps
   Examples:
     - Wo ist die Toilette? – Die Stiege hoch und dann links.
     - Meine Oma kann nicht gut Stiegen steigen.
 
 - Id: das Stiegenhaus
   Level: B1
+  Form: ä-er
   Synonym: (A) = (D, CH) Treppenhaus
+  Meaning: staircase (S-)
+  CambridgeMeanings: ''
   Examples:
     - Im Stiegenhaus ist kein Licht.
 
