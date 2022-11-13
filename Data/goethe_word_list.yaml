@@ -20996,6 +20996,11 @@
   Examples:
     - Was stinkt denn hier so? - Das ist der Fisch. Er ist nicht mehr frisch.
 
+- Id: das Stipendium
+  Level: A2
+  Examples:
+    - Wenn ich ein gutes Zeugnis habe, bekomme ich ein Stipendium.
+
 - Id: der Stock
   Level: A1
   Form: ö-e
@@ -21004,9 +21009,10 @@
   CambridgeMeanings: stick; story, floor; pot plant
   Examples:
     - Das Büro ist im 3. Stock, Zimmer 305.
+    - Unsere Wohnung liegt im ersten Stock.
 
 - Id: das Stockwerk
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: floor (S-)
   CambridgeMeanings: floor, story
@@ -21038,13 +21044,16 @@
     - Die Polizei hat mich gestoppt, weil ich bei Rot über die Ampel gefahren bin.
 
 - Id: stören
-  Level: B1
+  Level: A2
   Form: stört, störte, hat gestört
   Meaning: to disturb
   CambridgeMeanings: to disturb; to bother, to disturb; to disrupt
   Examples:
     - Darf ich Sie einen Augenblick stören?
     - Du kannst das Radio anlassen. Das stört mich nicht.
+    - Störe ich?
+    - Darf ich Sie kurz stören?
+    - Mach die Musik leiser! Sie stört mich.
 
 - Id: die Störung
   Level: B1
@@ -21086,7 +21095,7 @@
     - So ein Pech! Ich habe einmal falsch geparkt und sofort einen Strafzettel bekommen.
 
 - Id: der Strand
-  Level: B1
+  Level: A2
   Form: ä-e
   Meaning: beach
   CambridgeMeanings: beach
@@ -21101,6 +21110,7 @@
   Examples:
     - Wir wohnen in einer sehr kleinen Straße.
     - Unser Haus ist eine Straße weiter.
+    - In welcher Straße wohnen Sie?
 
 - Id: die Strecke
   Level: B1
@@ -21138,12 +21148,12 @@
     - Es gab einen Streik am Flughafen. Deshalb hatte unsere Maschine Verspätung.
 
 - Id: (sich) streiten
-  Level: B1
+  Level: A2
   Form: streitet, stritt, hat gestritten
   Meaning: to argue
   CambridgeMeanings: to argue, to quarrel
   Examples:
-    - Die Kinder streiten sich oft.
+    - Die Kinder streiten (sich) oft.
 
 - Id: der Streit
   Level: B1
@@ -21154,19 +21164,25 @@
     - Ich möchte keinen Streit mit den Nachbarn.
 
 - Id: streng
-  Level: B1
+  Level: A2
   Meaning: strict
   CambridgeMeanings: strict; harsh, severe; pungent, strong; severe; clear; severely; strictly; clearly
   Examples:
     - Unsere Tochter hat einen sehr strengen Lehrer.
+    - Der Lehrer von meiner Tochter ist sehr streng.
 
 - Id: der Stress
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: stress
   CambridgeMeanings: stress; hassle
   Examples:
     - Ich habe bei der Arbeit viel Stress.
+
+- Id: stressig
+  Level: A2
+  Examples:
+    - Meine Arbeit ist stressig.
 
 - Id: der Strom
   Level: B1
@@ -21185,7 +21201,7 @@
     - Wo sind meine roten Strümpfe?
 
 - Id: das Stück
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: piece
   CambridgeMeanings: piece, bit; lump, bar; piece, item; passage; part, stretch; play; piece
@@ -21357,19 +21373,20 @@
     - example1
 
 - Id: super
-  Level: B1
+  Level: A2
   Meaning: super
   CambridgeMeanings: great, super, awesome; fantastically (well)
   Examples:
-    - example1
+    - Der Film ist super.
+    - Er kann super tanzen.
 
 - Id: der Supermarkt
-  Level: B1
+  Level: A2
   Form: ä-e
   Meaning: supermarket
   CambridgeMeanings: supermarket
   Examples:
-    - example1
+    - Ich kaufe oft im Supermarkt ein.
 
 - Id: die Suppe
   Level: A2
@@ -21386,13 +21403,21 @@
   CambridgeMeanings: to windsurf; to surf
   Examples:
     - Auf Hawaii werde ich surfen.
+    - Ich möchte gern surfen lernen.
+    - Surfst du oft im Internet?
 
 - Id: süß
-  Level: B1
+  Level: A2
   Meaning: sweet
   CambridgeMeanings: sweet; sugary; sweetly; insincerely
   Examples:
-    - example1
+    - Ich finde die Torte zu süß.
+    - Ist das deine Tochter? Die ist ja süß!
+
+- Id: die Süßigkeiten
+  Level: A2
+  Examples:
+    - Welche Süßigkeiten isst du am liebsten? - Schokolade und Eis.
 
 - Id: der Swimmingpool
   Level: B1
@@ -21411,11 +21436,11 @@
     - example1
 
 - Id: sympathisch
-  Level: B1
+  Level: A2
   Meaning: likeable
   CambridgeMeanings: likable, nice
   Examples:
-    - example1
+    - Der neue Chef ist sehr sympathisch.
 
 - Id: das System
   Level: B1
