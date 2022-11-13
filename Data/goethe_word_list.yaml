@@ -20701,7 +20701,7 @@
     - Kann ich diese Woche statt Donnerstag am Freitag kommen?
 
 - Id: stattfinden
-  Level: B1
+  Level: A2
   Form: findet statt, fand statt, hat stattgefunden
   Meaning: to take place
   CambridgeMeanings: to take place
@@ -20835,7 +20835,7 @@
   CambridgeMeanings: place, spot; area, spot, patch; job, position; point; passage; place, position; office, department, authority; place
   Examples:
     - Wir treffen uns hier an dieser Stelle.
-    - Ich habe eine neue Stelle.
+    - Ich habe eine neue Stelle. Ich arbeite jetzt bei Mercedes.
     - Diese Stelle in seinem Brief ist mir nicht ganz klar.
     - An Ihrer Stelle würde ich den Vertrag nicht unterschreiben.
 
@@ -20902,6 +20902,34 @@
   Examples:
     - Die Stewardess bringt das Mittagessen.
 
+- Id: der Stiefel
+  Level: A2
+  Form: '-'
+  Meaning: boots
+  CambridgeMeanings: boot
+  Examples:
+    - Ich habe mir für den Winter ein Paar warme Stiefel gekauft.
+    - Wie viel kosten die roten Stiefel?
+
+- Id: die Stiege
+  Level: B1
+  Form: -n
+  Synonym: (A) = (D, CH) Treppe
+  Meaning: stair (S-)
+  CambridgeMeanings: narrow wooden stairs; stairs, steps
+  Examples:
+    - Wo ist die Toilette? – Die Stiege hoch und dann links.
+    - Meine Oma kann nicht gut Stiegen steigen.
+
+- Id: das Stiegenhaus
+  Level: B1
+  Form: ä-er
+  Synonym: (A) = (D, CH) Treppenhaus
+  Meaning: staircase (S-)
+  CambridgeMeanings: ''
+  Examples:
+    - Im Stiegenhaus ist kein Licht.
+
 - Id: der Stift
   Level: A2
   Form: -e
@@ -20933,33 +20961,6 @@
   Examples:
     - Sei doch mal einen Moment still!
     - Maria kann nicht still sitzen.
-
-- Id: der Stiefel
-  Level: B1
-  Form: '-'
-  Meaning: boots
-  CambridgeMeanings: boot
-  Examples:
-    - Ich habe mir für den Winter ein Paar warme Stiefel gekauft.
-
-- Id: die Stiege
-  Level: B1
-  Form: -n
-  Synonym: (A) = (D, CH) Treppe
-  Meaning: stair (S-)
-  CambridgeMeanings: narrow wooden stairs; stairs, steps
-  Examples:
-    - Wo ist die Toilette? – Die Stiege hoch und dann links.
-    - Meine Oma kann nicht gut Stiegen steigen.
-
-- Id: das Stiegenhaus
-  Level: B1
-  Form: ä-er
-  Synonym: (A) = (D, CH) Treppenhaus
-  Meaning: staircase (S-)
-  CambridgeMeanings: ''
-  Examples:
-    - Im Stiegenhaus ist kein Licht.
 
 - Id: die Stimme
   Level: B1
