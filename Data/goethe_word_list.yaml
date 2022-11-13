@@ -20659,7 +20659,7 @@
   Meaning: to start
   CambridgeMeanings: to start; to compete, to start; to take off, to launch, to lift off; to start (up)
   Examples:
-    - example1
+    - Das Flugzeug ist pünktlich gestartet.
 
 - Id: der Start
   Level: B1
@@ -20667,7 +20667,7 @@
   Meaning: start
   CambridgeMeanings: start; takeoff
   Examples:
-    - example1
+    - Bleiben Sie bitte während des Starts sitzen.
 
 - Id: die Station
   Level: B1
@@ -20675,7 +20675,8 @@
   Meaning: station
   CambridgeMeanings: station; stop; ward
   Examples:
-    - example1
+    - Sie müssen an der nächsten Station aussteigen.
+    - Meine Nachbarin liegt auf Station III.
 
 - Id: die Statistik
   Level: B1
@@ -20683,21 +20684,21 @@
   Meaning: statistic
   CambridgeMeanings: statistics
   Examples:
-    - example1
+    - Die Statistik zeigt, dass jeder zweite ein Fahrrad besitzt.
 
 - Id: statistisch
   Level: B1
   Meaning: statistical
   CambridgeMeanings: statistical; statistically
   Examples:
-    - example1
+    - Die statistischen Ergebnisse zeigen eine gute Entwicklung.
 
 - Id: statt
   Level: B1
   Meaning: instead of
   CambridgeMeanings: instead of
   Examples:
-    - example1
+    - Kann ich diese Woche statt Donnerstag am Freitag kommen?
 
 - Id: stattfinden
   Level: B1
@@ -20705,7 +20706,7 @@
   Meaning: to take place
   CambridgeMeanings: to take place
   Examples:
-    - example1
+    - Das Spiel findet auch bei Regen statt.
 
 - Id: der Stau
   Level: B1
@@ -20713,7 +20714,8 @@
   Meaning: traffic jam
   CambridgeMeanings: traffic jam; build-up
   Examples:
-    - example1
+    - Auf der A3 gibt es wegen eines Unfalls 5 km Stau.
+    - Wir standen eine Stunde im Stau.
 
 - Id: der Staub
   Level: B1
@@ -20745,7 +20747,7 @@
   Meaning: to prick, stab, bite, sting
   CambridgeMeanings: to sting; to bite; to prick; to take, to trump; to be trumps; to trump
   Examples:
-    - example1
+    - Stefan wird beim Zelten immer von den Mücken gestochen. 
 
 - Id: stecken
   Level: B1
@@ -20753,7 +20755,9 @@
   Meaning: to put, insert, stick
   CambridgeMeanings: to be; to put
   Examples:
-    - example1
+    - Wo ist denn mein Pass? Ich hatte ihn doch in die Handtasche gesteckt.
+    - Du kannst reingehen. Der Schlüssel steckt.
+    - Die Zeitung steckt im Briefkasten.
 
 - Id: die Steckdose
   Level: B1
@@ -20761,7 +20765,7 @@
   Meaning: socket
   CambridgeMeanings: outlet
   Examples:
-    - example1
+    - Es gibt drei Steckdosen in diesem Zimmer. 
 
 - Id: der Stecker
   Level: B1
@@ -20769,7 +20773,7 @@
   Meaning: plug
   CambridgeMeanings: plug
   Examples:
-    - example1
+    - Der Stecker passt nicht in diese Steckdose.
 
 - Id: stehen
   Level: A1
@@ -20777,14 +20781,20 @@
   Meaning: to stand
   CambridgeMeanings: ''
   Examples:
-    - example1
+    -  In meinem Beruf muss ich viel stehen.
+    - Als wir kamen, stand das Essen schon auf dem Tisch.
+    - Der Bus steht schon an der Haltestelle.
+    - Was steht heute in der Zeitung?
+    - Nach 20 Minuten stand das Spiel 1:1.
+    - Die neue Bluse steht dir gut.
 
 - Id: stehen bleiben
   Level: B1
   Meaning: to stay
   CambridgeMeanings: ''
   Examples:
-    - example1
+    - Bitte bleiben Sie stehen.
+    - Meine Uhr ist stehen geblieben.
 
 - Id: stehlen
   Level: B1
@@ -20792,7 +20802,7 @@
   Meaning: to steal
   CambridgeMeanings: to steal
   Examples:
-    - example1
+    - Gestern hat mir jemand im Zug meine Uhr gestohlen.
 
 - Id: steigen
   Level: B1
@@ -20800,14 +20810,15 @@
   Meaning: to rise, climb
   CambridgeMeanings: to climb; to lift, to rise; to get in/on/out/off; to rise, to increase; to stand; to put on, to take off; to happen
   Examples:
-    - example1
+    -  Die Preise für Milch und Gemüse sind schon wieder gestiegen.
+    - Gegen Abend ist das Fieber wieder gestiegen.
 
 - Id: steil
   Level: B1
   Meaning: steep
   CambridgeMeanings: steep; steeply
   Examples:
-    - example1
+    - Die Straße zu unserem Haus ist sehr steil.
 
 - Id: der Stein
   Level: B1
@@ -20815,7 +20826,7 @@
   Meaning: stone
   CambridgeMeanings: stone, rock; stone; piece
   Examples:
-    - example1
+    - Die Kinder werfen Steine ins Wasser.
 
 - Id: die Stelle
   Level: A1
@@ -20823,7 +20834,10 @@
   Meaning: place, post, job
   CambridgeMeanings: place, spot; area, spot, patch; job, position; point; passage; place, position; office, department, authority; place
   Examples:
-    - example1
+    - Wir treffen uns hier an dieser Stelle.
+    - Ich habe eine neue Stelle.
+    - Diese Stelle in seinem Brief ist mir nicht ganz klar.
+    - An Ihrer Stelle würde ich den Vertrag nicht unterschreiben.
 
 - Id: stellen
   Level: A1
@@ -20831,7 +20845,12 @@
   Meaning: to put, set
   CambridgeMeanings: to put, to place; to go and stand, to position yourself; to set, to turn; to set; to provide; to pose, to arrange; to catch, to corner; to make, to set, to put
   Examples:
-    - example1
+    - Stell das Bier in den Kühlschrank!
+    - Ich hole noch Milch. Stell dich bitte schon mal in die Schlange an der Kasse.
+    - Wo kann ich mein Auto hinstellen?
+    - Würden Sie das Radio bitte etwas leiser stellen.
+    - Haben Sie einen Moment Zeit? Wir möchten Ihnen ein paar Fragen stellen.
+    - Ich habe den Wecker auf 5 Uhr gestellt.
 
 - Id: der Stempel
   Level: B1
@@ -20839,7 +20858,7 @@
   Meaning: stamp, postmark
   CambridgeMeanings: stamp
   Examples:
-    - example1
+    - Der Poststempel trägt das Datum von letzter Woche. Das Paket war lange unterwegs.
 
 - Id: sterben
   Level: A2
@@ -20862,7 +20881,7 @@
   Meaning: star
   CambridgeMeanings: star
   Examples:
-    - example1
+    - Heute sieht man viele Sterne am Himmel.
 
 - Id: die Steuer
   Level: B1
@@ -20870,15 +20889,18 @@
   Meaning: tax
   CambridgeMeanings: steering wheel; tax(ation)
   Examples:
-    - example1
+    - Wir müssen immer mehr Steuern zahlen.
 
 - Id: der Steward
   Level: B1
   Form: -s
+  Feminine:
+    Id: die Stewardess
+    Form: -nen
   Meaning: steward
   CambridgeMeanings: (air) steward/stewardess; steward/stewardess
   Examples:
-    - example1
+    - Die Stewardess bringt das Mittagessen.
 
 - Id: der Stift
   Level: A2
@@ -20894,21 +20916,23 @@
   Meaning: style
   CambridgeMeanings: style
   Examples:
-    - example1
+    -  Ihr Stil ist sehr elegant.
+    - Das Gebäude gefällt mir. Welcher Baustil ist das?
 
 - Id: stilistisch
   Level: B1
   Meaning: stylistic
   CambridgeMeanings: stylistic; stylistically
   Examples:
-    - example1
+    - Der Text ist stilistisch sehr schön.
 
 - Id: still
   Level: B1
   Meaning: still, quiet
   CambridgeMeanings: quiet, silent; still, calm; quiet; silent; silent, secret; quietly, silently; still
   Examples:
-    - example1
+    - Sei doch mal einen Moment still!
+    - Maria kann nicht still sitzen.
 
 - Id: der Stiefel
   Level: B1
@@ -20916,7 +20940,20 @@
   Meaning: boots
   CambridgeMeanings: boot
   Examples:
-    - example1
+    - Ich habe mir für den Winter ein Paar warme Stiefel gekauft.
+
+- Id: die Stiege
+  Level: B1
+  Synonym: (A) = (D, CH) Treppe
+  Examples:
+    - Wo ist die Toilette? – Die Stiege hoch und dann links.
+    - Meine Oma kann nicht gut Stiegen steigen.
+
+- Id: das Stiegenhaus
+  Level: B1
+  Synonym: (A) = (D, CH) Treppenhaus
+  Examples:
+    - Im Stiegenhaus ist kein Licht.
 
 - Id: die Stimme
   Level: B1
