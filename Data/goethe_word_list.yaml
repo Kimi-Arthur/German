@@ -15600,6 +15600,7 @@
   CambridgeMeanings: mouth
   Examples:
     - Sie haben Halsschmerzen? Bitte machen Sie mal den Mund auf.
+    - Öffnen Sie bitte den Mund. Ich möchte in Ihren Hals sehen.
 
 - Id: mündlich
   Level: B1
@@ -15707,6 +15708,13 @@
     - Meine Mutter heißt Klara.
     - Dieser Raum ist für Mütter mit kleinen Kindern reserviert.
 
+- Id: die Mütze
+  Level: A2
+  Form: -n
+  Meaning: cap
+  Examples:
+    - Haben Sie rote Mütze
+
 - Id: nach
   Level: A1
   Meaning: after, towards
@@ -15773,7 +15781,7 @@
 - Id: die Nachricht
   Level: A2
   Form: -en
-  Meaning: news
+  Meaning: (piece of) news
   CambridgeMeanings: (piece of ) news; news
   Examples:
     - Ich sehe abends immer die Nachrichten im Fernsehen.
@@ -15802,7 +15810,7 @@
     - Nach dem Essen gab es noch eine leckere Nachspeise.
 
 - Id: nächste
-  Level: B1
+  Level: A1
   Meaning: next
   CambridgeMeanings: next; nearest; closest
   Examples:
@@ -15810,6 +15818,9 @@
     - Rufen Sie bitte nächste Woche noch einmal an.
     - Wann fährt der nächste Zug nach Frankfurt?
     - Wer ist der Nächste bitte?
+    - Sehen wir uns nächste Woche?
+    - Ihr nächster Termin ist in einem Monat.
+    - Bis nächstes Mal!
 
 - Id: der Nachteil
   Level: B1
@@ -15853,7 +15864,7 @@
     - Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier.
 
 - Id: die Nähe
-  Level: B1
+  Level: A2
   Form: (Sg.)
   Meaning: near, proximity, vicinity
   CambridgeMeanings: vicinity; closeness
