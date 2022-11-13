@@ -15906,6 +15906,8 @@
   Examples:
     - Wie ist Ihr Name?
     - An den Namen kann ich mich nicht mehr erinnern.
+    - Mein Name ist Thomas Schmidt.
+    - Mein Vorname ist Thomas; Schmidt ist der Familienname.
 
 - Id: der Vorname
   Level: A1
@@ -15914,6 +15916,7 @@
   CambridgeMeanings: first name
   Examples:
     - Mein Vorname ist Thomas.
+    - Ich heiße Müller, mein Vorname ist Eva.
 
 - Id: nämlich
   Level: B1
@@ -15931,12 +15934,13 @@
     - Haben Sie Nasentropfen? Ich bin stark erkältet.
 
 - Id: nass
-  Level: B1
+  Level: A2
   Meaning: wet
   CambridgeMeanings: wet; with water
   Examples:
     - Es hat schrecklich geregnet. Ich bin ganz nass geworden.
     - Geh nicht mit den nassen Schuhen ins Wohnzimmer.
+    - Du bist ja ganz nass. Hast du den Regenschirm vergessen?
 
 - Id: national
   Level: B1
@@ -15972,14 +15976,14 @@
     - Fahren Sie bei Nebel besonders vorsichtig!
 
 - Id: neblig
-  Level: B1
+  Level: A2
   Meaning: foggy
   CambridgeMeanings: foggy, misty
   Examples:
     - Fahr vorsichtig! Es ist neblig.
 
 - Id: neben
-  Level: B1
+  Level: A2
   Meaning: next to
   CambridgeMeanings: next to; apart from, besides; compared to/with
   Examples:
@@ -15988,7 +15992,7 @@
     - Die Apotheke ist gleich links neben der Post.
 
 - Id: nebenan
-  Level: B1
+  Level: A2
   Meaning: next door
   CambridgeMeanings: next door, next
   Examples:
@@ -16040,7 +16044,7 @@
     - Kommst du auch mit nach München? - Nein, ich habe keine Zeit.
 
 - Id: nennen
-  Level: B1
+  Level: A2
   Form: nennt, nannte, hat genannt
   Meaning: to name, call
   CambridgeMeanings: to call; to name, to give; to be called
@@ -16058,7 +16062,7 @@
     - Mach bitte das Radio aus. Die Musik geht mir auf die Nerven.
 
 - Id: nervös
-  Level: B1
+  Level: A2
   Meaning: nervous
   CambridgeMeanings: nervous; nervously
   Examples:
@@ -16066,8 +16070,8 @@
     - Bei Prüfungen bin ich immer sehr nervös.
 
 - Id: nett
-  Level: B1
-  Meaning: nice
+  Level: A2
+  Meaning: nice, kind, enjoyable
   CambridgeMeanings: nice, kind; enjoyable (enough); substantial, tidy; nicely, kindly; nicely; quite a lot
   Examples:
     - Die Leute sind hier sehr nett.
