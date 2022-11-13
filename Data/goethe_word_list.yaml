@@ -20998,6 +20998,9 @@
 
 - Id: das Stipendium
   Level: A2
+  Form: Stipendien
+  Meaning: scholarship
+  CambridgeMeanings: scholarship, grant
   Examples:
     - Wenn ich ein gutes Zeugnis habe, bekomme ich ein Stipendium.
 
@@ -21181,6 +21184,8 @@
 
 - Id: stressig
   Level: A2
+  Meaning: stressful
+  CambridgeMeanings: stressful
   Examples:
     - Meine Arbeit ist stressig.
 
@@ -21414,8 +21419,11 @@
     - Ich finde die Torte zu süß.
     - Ist das deine Tochter? Die ist ja süß!
 
-- Id: die Süßigkeiten
+- Id: die Süßigkeit
   Level: A2
+  Form: -en
+  Meaning: candy
+  CambridgeMeanings: candy
   Examples:
     - Welche Süßigkeiten isst du am liebsten? - Schokolade und Eis.
 
