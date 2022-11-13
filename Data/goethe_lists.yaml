@@ -443,6 +443,7 @@
     - müssen
     - die Mutter
     - nach
+    - nächste
     - der Name
     - der Vorname
     - nehmen
@@ -1389,15 +1390,25 @@
     - die Musik
     - müssen
     - die Mutter
+    - die Mütze
     - nach
     - der Nachbar
     - die Nachricht
+    - nächste
+    - die Nähe
     - der Name
     - der Vorname
+    - nass
     - die Natur
     - natürlich
+    - neblig
+    - neben
+    - nebenan
     - nehmen
     - nein
+    - nennen
+    - nervös
+    - nett
     - neu
     - nicht
     - nichts
@@ -1537,22 +1548,38 @@
     - sprechen
     - die Stadt
     - der Stadtplan
+    - stattfinden
     - stehen
     - die Stelle
     - stellen
     - sterben
     - gestorben
+    - der Stiefel
     - der Stift
+    - das Stipendium
     - der Stock
+    - das Stockwerk
+    - stören
+    - der Strand
     - die Straße
+    - (sich) streiten
+    - streng
+    - der Stress
+    - stressig
+    - das Stück
     - studieren
     - der Student
     - das Studium
     - der Stuhl
     - die Stunde
     - suchen
+    - super
+    - der Supermarkt
     - die Suppe
     - surfen
+    - süß
+    - die Süßigkeit
+    - sympathisch
     - tanzen
     - die Tasche
     - die Tasse
@@ -3428,11 +3455,12 @@
     - musikalisch
     - der Musiker
     - der Muskel
-    - das Müesli
+    - das Müsli
     - müssen
     - der Mut
     - mutig
     - die Mutter
+    - die Mütze
     - nach
     - der Nachbar
     - nachdem
@@ -3443,11 +3471,12 @@
     - die Nachricht
     - nachschlagen
     - die Nachspeise
+    - nächste
     - der Nachteil
     - der Nachwuchs
     - die Nadel
     - der Nagel
-    - nah(e)
+    - nah
     - die Nähe
     - nähen
     - sich nähern
@@ -4054,15 +4083,18 @@
     - der Stern
     - die Steuer
     - der Steward
+    - der Stiefel
+    - die Stiege
+    - das Stiegenhaus
     - der Stift
     - der Stil
     - stilistisch
     - still
-    - der Stiefel
     - die Stimme
     - stimmen
     - die Stimmung
     - stinken
+    - das Stipendium
     - der Stock
     - das Stockwerk
     - der Stoff
@@ -4084,6 +4116,7 @@
     - der Streit
     - streng
     - der Stress
+    - stressig
     - der Strom
     - der Strumpf
     - das Stück
@@ -4110,6 +4143,7 @@
     - die Suppe
     - surfen
     - süß
+    - die Süßigkeit
     - der Swimmingpool
     - das Symbol
     - sympathisch
