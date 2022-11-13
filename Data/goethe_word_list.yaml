@@ -15713,6 +15713,7 @@
   Level: A2
   Form: -n
   Meaning: cap
+  CambridgeMeanings: cap
   Examples:
     - Haben Sie rote Mütze
 
@@ -15942,7 +15943,7 @@
   Meaning: national
   CambridgeMeanings: national; nationally
   Examples:
-    -  Das ist ein nationaler Wettbewerb.
+    - Das ist ein nationaler Wettbewerb.
     - Die Nationalmannschaft ist ziemlich stark.
 
 - Id: die Natur
@@ -15982,7 +15983,7 @@
   Meaning: next to
   CambridgeMeanings: next to; apart from, besides; compared to/with
   Examples:
-    -  Neben mir ist noch ein Platz frei.
+    - Neben mir ist noch ein Platz frei.
     - Darf ich mich neben dich setzen?
     - Die Apotheke ist gleich links neben der Post.
 
@@ -16007,7 +16008,7 @@
   Meaning: nephew
   CambridgeMeanings: nephew
   Examples:
-    - Meine Schwester hat zwei Kinder. Meine Neffen sind drei und fünf Jahre alt. 
+    - Meine Schwester hat zwei Kinder. Meine Neffen sind drei und fünf Jahre alt.
 
 - Id: negativ
   Level: B1
@@ -16032,7 +16033,7 @@
 
 - Id: nein
   Level: A1
-  Meaning: 'no'
+  Meaning: no
   CambridgeMeanings: no; well; are/do you?, is it? / are they?
   Examples:
     - Noch ein Bier? - Nein, danke.
@@ -16053,7 +16054,7 @@
   Meaning: nerve
   CambridgeMeanings: nerve; nerves
   Examples:
-    -  Er leidet an einer Nervenkrankheit.
+    - Er leidet an einer Nervenkrankheit.
     - Mach bitte das Radio aus. Die Musik geht mir auf die Nerven.
 
 - Id: nervös
@@ -16061,7 +16062,7 @@
   Meaning: nervous
   CambridgeMeanings: nervous; nervously
   Examples:
-    -  Das Warten macht mich ganz nervös.
+    - Das Warten macht mich ganz nervös.
     - Bei Prüfungen bin ich immer sehr nervös.
 
 - Id: nett
@@ -16080,7 +16081,7 @@
   Meaning: net, network
   CambridgeMeanings: net; network; web; network, grid
   Examples:
-    -  Bitte bring ein Netz Orangen.
+    - Bitte bring ein Netz Orangen.
     - Der Ball berührte das Netz.
     - Seid ihr schon ans Netz angeschlossen?
 
@@ -16090,7 +16091,7 @@
   Meaning: network
   CambridgeMeanings: network
   Examples:
-    -  Soziale Netzwerke sind wichtig.
+    - Soziale Netzwerke sind wichtig.
     - Das Telefonnetzwerk wird ständig erweitert.
 
 - Id: neu
@@ -16158,7 +16159,7 @@
   Meaning: non-smoker
   CambridgeMeanings: nonsmoker
   Examples:
-    -  In unserer Familie sind alle Nichtraucher.
+    - In unserer Familie sind alle Nichtraucher.
     - Möchten Sie einen Tisch im Nichtraucherbereich?
 
 - Id: nichts
