@@ -2398,6 +2398,7 @@
 - Id: die Straßenbahn
   Level: A1
   Form: -en
+  Synonym: (D, A) = (CH) Tram
   Meaning: tram
   CambridgeMeanings: streetcar
   Examples:
@@ -7195,7 +7196,7 @@
   Level: B1
   Form: -n
   Synonym: (D, CH) = Stock
-  Meaning: floor, storey of building
+  Meaning: floor (E-)
   CambridgeMeanings: floor
   Examples:
     - Das Büro ist in der 3. Etage, Zimmer 305.
@@ -20968,7 +20969,7 @@
   Meaning: voice
   CambridgeMeanings: voice; part; vote
   Examples:
-    - example1
+    - Ich habe dich sofort an der Stimme erkannt.
 
 - Id: stimmen
   Level: B1
@@ -20985,7 +20986,7 @@
   Meaning: atmosphere, mood
   CambridgeMeanings: mood; atmosphere; good mood
   Examples:
-    - example1
+    - Es war eine tolle Party. Die Stimmung war sehr gut.
 
 - Id: stinken
   Level: B1
@@ -20993,23 +20994,24 @@
   Meaning: to stink
   CambridgeMeanings: to stink; to be fishy
   Examples:
-    - example1
+    - Was stinkt denn hier so? – Das ist der Fisch. Er ist nicht mehr frisch. 
 
 - Id: der Stock
   Level: A1
   Form: ö-e
-  Meaning: floor (of building)
+  Synonym: = (D, CH) Etage
+  Meaning: stick; floor
   CambridgeMeanings: stick; story, floor; pot plant
   Examples:
-    - example1
+    - Das Büro ist im 3. Stock, Zimmer 305.
 
 - Id: das Stockwerk
   Level: B1
   Form: -e
-  Meaning: storey
+  Meaning: floor (S-)
   CambridgeMeanings: floor, story
   Examples:
-    - example1
+    - Das Gebäude hat zwanzig Stockwerke.
 
 - Id: der Stoff
   Level: B1
@@ -21017,14 +21019,15 @@
   Meaning: material, cloth
   CambridgeMeanings: substance; material, fabric, cloth; subject matter, material; dope, booze
   Examples:
-    - example1
+    - Was für ein Stoff ist das? – Wolle.
+    - In manchen Farben sind giftige Stoffe.
 
 - Id: stolz
   Level: B1
   Meaning: proud
   CambridgeMeanings: proud; majestic; hefty, princely; proudly
   Examples:
-    - example1
+    - Ich bin stolz auf dich. Das hast du sehr gut gemacht.
 
 - Id: stoppen
   Level: B1
@@ -21032,7 +21035,7 @@
   Meaning: to stop
   CambridgeMeanings: to stop; to time
   Examples:
-    - example1
+    - Die Polizei hat mich gestoppt, weil ich bei Rot über die Ampel gefahren bin.
 
 - Id: stören
   Level: B1
@@ -21040,7 +21043,8 @@
   Meaning: to disturb
   CambridgeMeanings: to disturb; to bother, to disturb; to disrupt
   Examples:
-    - example1
+    - Darf ich Sie einen Augenblick stören?
+    - Du kannst das Radio anlassen. Das stört mich nicht.
 
 - Id: die Störung
   Level: B1
@@ -21048,7 +21052,7 @@
   Meaning: disturbance, interference
   CambridgeMeanings: disturbance, disruption; fault, disturbance
   Examples:
-    - example1
+    - Entschuldigen Sie bitte die Störung.
 
 - Id: (sich) stoßen
   Level: B1
@@ -21056,22 +21060,22 @@
   Meaning: to shove, push, knock, bump
   CambridgeMeanings: to push, to shove; to strike; to bump; to bang yourself; to be next to, to border on
   Examples:
-    - example1
+    - Wie haben Sie sich denn verletzt? – Ich habe mich an der Autotür gestoßen.
 
 - Id: die Strafe
   Level: B1
   Form: -n
-  Meaning: fine
+  Meaning: punishment; penalty
   CambridgeMeanings: punishment; fine; sentence; penalty
   Examples:
-    - example1
+    - Schwarzfahren kostet 60 Euro Strafe.
 
 - Id: strafbar
   Level: B1
   Meaning: punishable
   CambridgeMeanings: punishable
   Examples:
-    - example1
+    - Was du da machst, ist strafbar.
 
 - Id: der Strafzettel
   Level: B1
@@ -21079,7 +21083,7 @@
   Meaning: ticket (parking)
   CambridgeMeanings: ticket
   Examples:
-    - example1
+    - So ein Pech! Ich habe einmal falsch geparkt und sofort einen Strafzettel bekommen.
 
 - Id: der Strand
   Level: B1
@@ -21087,7 +21091,7 @@
   Meaning: beach
   CambridgeMeanings: beach
   Examples:
-    - example1
+    - Im Urlaub bin ich am liebsten am Strand.
 
 - Id: die Straße
   Level: A1
@@ -21095,7 +21099,8 @@
   Meaning: street
   CambridgeMeanings: road, street
   Examples:
-    - example1
+    - Wir wohnen in einer sehr kleinen Straße.
+    - Unser Haus ist eine Straße weiter.
 
 - Id: die Strecke
   Level: B1
@@ -21103,23 +21108,26 @@
   Meaning: stretch, distance
   CambridgeMeanings: distance; route; line
   Examples:
-    - example1
+    - Sind Sie die ganze Strecke zu Fuß gegangen?
+    - 'Auf der Strecke München – Salzburg: 8 km Stau.'
+    - Ich möchte nach Hamburg fahren. Können Sie mir sagen, welche Strecke am besten ist?
 
 - Id: das Streichholz
   Level: B1
   Form: ö-er
-  Meaning: matches
+  Synonym: = Zündholz = (D, A) Zünder
+  Meaning: match (device to make fire)
   CambridgeMeanings: match
   Examples:
-    - example1
+    - Ich hätte gern eine Schachtel Streichhölzer.
 
 - Id: streiken
   Level: B1
   Form: streikt, streikte, hat gestreikt
-  Meaning: to strike
+  Meaning: to go on strike
   CambridgeMeanings: to (go on) strike; to go on strike; to pack up
   Examples:
-    - example1
+    - Die Arbeiter streiken für höhere Löhne.
 
 - Id: der Streik
   Level: B1
@@ -21127,7 +21135,7 @@
   Meaning: strike
   CambridgeMeanings: strike
   Examples:
-    - example1
+    - Es gab einen Streik am Flughafen. Deshalb hatte unsere Maschine Verspätung.
 
 - Id: (sich) streiten
   Level: B1
@@ -21135,7 +21143,7 @@
   Meaning: to argue
   CambridgeMeanings: to argue, to quarrel
   Examples:
-    - example1
+    - Die Kinder streiten sich oft.
 
 - Id: der Streit
   Level: B1
@@ -21143,14 +21151,14 @@
   Meaning: argument
   CambridgeMeanings: argument, quarrel
   Examples:
-    - example1
+    - Ich möchte keinen Streit mit den Nachbarn.
 
 - Id: streng
   Level: B1
   Meaning: strict
   CambridgeMeanings: strict; harsh, severe; pungent, strong; severe; clear; severely; strictly; clearly
   Examples:
-    - example1
+    - Unsere Tochter hat einen sehr strengen Lehrer.
 
 - Id: der Stress
   Level: B1
@@ -21158,7 +21166,7 @@
   Meaning: stress
   CambridgeMeanings: stress; hassle
   Examples:
-    - example1
+    - Ich habe bei der Arbeit viel Stress.
 
 - Id: der Strom
   Level: B1
@@ -21174,7 +21182,7 @@
   Meaning: tights
   CambridgeMeanings: stocking, sock
   Examples:
-    - example1
+    - Wo sind meine roten Strümpfe?
 
 - Id: das Stück
   Level: B1
@@ -21195,7 +21203,8 @@
   Meaning: study
   CambridgeMeanings: study
   Examples:
-    - example1
+    - Wir führen eine Studie über Arbeitslosigkeit durch.
+    - Eine aktuelle Studie zeigt, dass die Umweltverschmutzung zunimmt.
 
 - Id: studieren
   Level: A1
@@ -21244,7 +21253,7 @@
   Meaning: studio
   CambridgeMeanings: studio
   Examples:
-    - example1
+    - Zu Gast im Studio sind heute ...
 
 - Id: die Stufe
   Level: B1
@@ -21252,7 +21261,8 @@
   Meaning: step, level
   CambridgeMeanings: step, stair; rung; terrace; stage, phase; level
   Examples:
-    - example1
+    - Vorsicht, Stufe!
+    - Die Volkshochschule bietet Sprachkurse auf verschiedenen Stufen an.
 
 - Id: der Stuhl
   Level: A2
@@ -21276,7 +21286,7 @@
   Meaning: silent, dumb
   CambridgeMeanings: dumb; silent; silently
   Examples:
-    - example1
+    - Stell bitte dein Handy leise oder auf stumm.
 
 - Id: die Stunde
   Level: A1
