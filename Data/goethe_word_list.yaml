@@ -15666,8 +15666,8 @@
 - Id: das Müsli
   Level: B1
   Form: '-'
-  Meaning: muesli, granola
-  CambridgeMeanings: ''
+  Meaning: cereal
+  CambridgeMeanings: muesli
   Examples:
     - Zum Frühstück gibt es Müsli mit Obst.
 
@@ -15803,6 +15803,8 @@
 
 - Id: nächste
   Level: B1
+  Meaning: next
+  CambridgeMeanings: next; nearest; closest
   Examples:
     - Wo ist hier die nächste Apotheke?
     - Rufen Sie bitte nächste Woche noch einmal an.
@@ -15840,7 +15842,7 @@
   Meaning: nail
   CambridgeMeanings: nail
   Examples:
-    -  Kannst du mir den Nagel in die Wand schlagen?
+    - Kannst du mir den Nagel in die Wand schlagen?
     - Ich muss mir die Fingernägel schneiden.
 
 - Id: nah
@@ -15864,7 +15866,7 @@
   Meaning: to sew
   CambridgeMeanings: to sew; to stitch
   Examples:
-    -  Meine Mutter näht ihre Kleider selbst.
+    - Meine Mutter näht ihre Kleider selbst.
     - Wir müssen die Wunde nähen.
 
 - Id: sich nähern
