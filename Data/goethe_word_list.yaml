@@ -7176,7 +7176,7 @@
 - Id: das Essen
   Level: A1
   Form: '-'
-  Meaning: food
+  Meaning: food, meal
   CambridgeMeanings: meal; food; dinner
   Examples:
     - Das Essen ist heute sehr gut.
@@ -7480,6 +7480,7 @@
   Examples:
     - Meine Familiennamen sind García González.
     - Mein Familienname ist González.
+    - Ludin ist mein Familienname.
 
 - Id: der Familienstand
   Level: A1
@@ -13855,7 +13856,7 @@
 - Id: die Lebensmittel
   Level: A1
   Form: '-'
-  Meaning: food
+  Meaning: food, grocery
   CambridgeMeanings: food
   Examples:
     - Lebensmittel bekommen Sie im Supermarkt.
@@ -15119,8 +15120,8 @@
   Meaning: mild
   CambridgeMeanings: mild, lenient; mild; charitable; mild, gentle
   Examples:
-    - Möchten Sie die Soße scharf? – Nein, bitte ganz mild.
-    - Wie wird das Wetter? – Es soll etwas milder werden.
+    - Möchten Sie die Soße scharf? - Nein, bitte ganz mild.
+    - Wie wird das Wetter? - Es soll etwas milder werden.
 
 - Id: die Minderheit
   Level: B1
@@ -15162,7 +15163,7 @@
   CambridgeMeanings: to mix; to shuffle
   Examples:
     - Ich möchte ein gemischtes Eis mit Sahne.
-    - Wie möchten Sie das Geld? – Bitte gemischt, große und kleine Scheine.
+    - Wie möchten Sie das Geld? - Bitte gemischt, große und kleine Scheine.
 
 - Id: der Misserfolg
   Level: B1
@@ -15781,7 +15782,7 @@
 - Id: die Nachricht
   Level: A2
   Form: -en
-  Meaning: (piece of) news
+  Meaning: (piece of) news, message
   CambridgeMeanings: (piece of ) news; news
   Examples:
     - Ich sehe abends immer die Nachrichten im Fernsehen.
@@ -15861,7 +15862,7 @@
   Meaning: near
   CambridgeMeanings: ''
   Examples:
-    - Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier.
+    - Wie weit ist es zum Bahnhof? - Das ist ganz nah, nur zwei Minuten von hier.
 
 - Id: die Nähe
   Level: A2
@@ -15891,10 +15892,10 @@
 - Id: das Nahrungsmittel
   Level: B1
   Form: '-'
-  Meaning: food
+  Meaning: (prepared) food
   CambridgeMeanings: food(stuff)
   Examples:
-    - example1
+    - In diesen Ländern fehlen vor allem Nahrungsmittel.
 
 - Id: der Name
   Level: A1
@@ -15902,7 +15903,8 @@
   Meaning: name
   CambridgeMeanings: name
   Examples:
-    - example1
+    - Wie ist Ihr Name?
+    - An den Namen kann ich mich nicht mehr erinnern.
 
 - Id: der Vorname
   Level: A1
@@ -15910,14 +15912,14 @@
   Meaning: first name
   CambridgeMeanings: first name
   Examples:
-    - example1
+    - Mein Vorname ist Thomas.
 
 - Id: nämlich
   Level: B1
   Meaning: namely
   CambridgeMeanings: as, since; to be precise/exact, (more) specifically
   Examples:
-    - example1
+    - Ich muss leider gehen. Ich habe nämlich noch einen Termin beim Zahnarzt.
 
 - Id: die Nase
   Level: B1
@@ -15925,21 +15927,23 @@
   Meaning: nose
   CambridgeMeanings: nose; nose, sense of smell
   Examples:
-    - example1
+    - Haben Sie Nasentropfen? Ich bin stark erkältet.
 
 - Id: nass
   Level: B1
   Meaning: wet
   CambridgeMeanings: wet; with water
   Examples:
-    - example1
+    - Es hat schrecklich geregnet. Ich bin ganz nass geworden.
+    - Geh nicht mit den nassen Schuhen ins Wohnzimmer.
 
 - Id: national
   Level: B1
   Meaning: national
   CambridgeMeanings: national; nationally
   Examples:
-    - example1
+    -  Das ist ein nationaler Wettbewerb.
+    - Die Nationalmannschaft ist ziemlich stark.
 
 - Id: die Natur
   Level: A2
@@ -15963,35 +15967,39 @@
   Meaning: fog
   CambridgeMeanings: fog, mist
   Examples:
-    - example1
+    - Wegen Nebels konnten wir gestern nicht in Frankfurt landen.
+    - Fahren Sie bei Nebel besonders vorsichtig!
 
 - Id: neblig
   Level: B1
   Meaning: foggy
   CambridgeMeanings: foggy, misty
   Examples:
-    - example1
+    - Fahr vorsichtig! Es ist neblig.
 
 - Id: neben
   Level: B1
   Meaning: next to
   CambridgeMeanings: next to; apart from, besides; compared to/with
   Examples:
-    - example1
+    -  Neben mir ist noch ein Platz frei.
+    - Darf ich mich neben dich setzen?
+    - Die Apotheke ist gleich links neben der Post.
 
 - Id: nebenan
   Level: B1
   Meaning: next door
   CambridgeMeanings: next door, next
   Examples:
-    - example1
+    - Das ist José, er wohnt nebenan.
 
 - Id: nebenbei
   Level: B1
   Meaning: on the side, in addition
   CambridgeMeanings: on the side; by the way, incidentally
   Examples:
-    - example1
+    - Mein Freund studiert Geschichte. Und nebenbei arbeitet er in einer Kneipe.
+    - Ich mache die Hausarbeit und nebenbei höre ich Radio.
 
 - Id: der Neffe
   Level: B1
@@ -15999,14 +16007,14 @@
   Meaning: nephew
   CambridgeMeanings: nephew
   Examples:
-    - example1
+    - Meine Schwester hat zwei Kinder. Meine Neffen sind drei und fünf Jahre alt. 
 
 - Id: negativ
   Level: B1
   Meaning: negative
   CambridgeMeanings: negative; negatively
   Examples:
-    - example1
+    - Du solltest nicht alles negativ sehen.
 
 - Id: nehmen
   Level: A1
@@ -16024,10 +16032,11 @@
 
 - Id: nein
   Level: A1
-  Meaning: no
+  Meaning: 'no'
   CambridgeMeanings: no; well; are/do you?, is it? / are they?
   Examples:
-    - example1
+    - Noch ein Bier? - Nein, danke.
+    - Kommst du auch mit nach München? - Nein, ich habe keine Zeit.
 
 - Id: nennen
   Level: B1
@@ -16035,7 +16044,8 @@
   Meaning: to name, call
   CambridgeMeanings: to call; to name, to give; to be called
   Examples:
-    - example1
+    - Mein Freund heißt Alexander, aber alle nennen ihn Alex.
+    - Wie nennt man dieses Gerät?
 
 - Id: der Nerv
   Level: B1
@@ -16043,21 +16053,26 @@
   Meaning: nerve
   CambridgeMeanings: nerve; nerves
   Examples:
-    - example1
+    -  Er leidet an einer Nervenkrankheit.
+    - Mach bitte das Radio aus. Die Musik geht mir auf die Nerven.
 
 - Id: nervös
   Level: B1
   Meaning: nervous
   CambridgeMeanings: nervous; nervously
   Examples:
-    - example1
+    -  Das Warten macht mich ganz nervös.
+    - Bei Prüfungen bin ich immer sehr nervös.
 
 - Id: nett
   Level: B1
   Meaning: nice
   CambridgeMeanings: nice, kind; enjoyable (enough); substantial, tidy; nicely, kindly; nicely; quite a lot
   Examples:
-    - example1
+    - Die Leute sind hier sehr nett.
+    - Ich habe viele nette Kollegen.
+    - Vielen Dank! Das ist sehr nett von Ihnen.
+    - Die Nachbarn waren sehr nett zu uns.
 
 - Id: das Netz
   Level: B1
@@ -16065,7 +16080,9 @@
   Meaning: net, network
   CambridgeMeanings: net; network; web; network, grid
   Examples:
-    - example1
+    -  Bitte bring ein Netz Orangen.
+    - Der Ball berührte das Netz.
+    - Seid ihr schon ans Netz angeschlossen?
 
 - Id: das Netzwerk
   Level: B1
@@ -16073,7 +16090,8 @@
   Meaning: network
   CambridgeMeanings: network
   Examples:
-    - example1
+    -  Soziale Netzwerke sind wichtig.
+    - Das Telefonnetzwerk wird ständig erweitert.
 
 - Id: neu
   Level: A1
@@ -16090,24 +16108,24 @@
 - Id: die Neuigkeit
   Level: B1
   Form: -en
-  Meaning: news
+  Meaning: (general) news
   CambridgeMeanings: (piece of) news
   Examples:
-    - example1
+    - In dieser Sache gibt es keine Neuigkeiten.
 
 - Id: neugierig
   Level: B1
   Meaning: curious
   CambridgeMeanings: inquisitive, curious; inquisitively, curiously
   Examples:
-    - example1
+    - Die Nachbarn sind ziemlich neugierig.
 
 - Id: neulich
   Level: B1
   Meaning: recently, the other day
   CambridgeMeanings: recently
   Examples:
-    - example1
+    - Ich war neulich bei der Bank und habe einen alten Freund getroffen.
 
 - Id: nicht
   Level: A1
@@ -16129,15 +16147,19 @@
   Meaning: niece
   CambridgeMeanings: niece
   Examples:
-    - example1
+    - Die Tasche ist ein Geschenk von meiner Nichte.
 
 - Id: der Nichtraucher
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Nichtraucherin
+    Form: -nen
   Meaning: non-smoker
   CambridgeMeanings: nonsmoker
   Examples:
-    - example1
+    -  In unserer Familie sind alle Nichtraucher.
+    - Möchten Sie einen Tisch im Nichtraucherbereich?
 
 - Id: nichts
   Level: A1
@@ -20306,7 +20328,7 @@
 - Id: Speise
   Level: B1
   Form: -n
-  Meaning: food
+  Meaning: food, dish
   CambridgeMeanings: dish
   Examples:
     - example1
