@@ -4899,6 +4899,7 @@
 
 - Id: die Daten
   Level: B1
+  Form: (Pl.)
   Meaning: data
   CambridgeMeanings: data
   Examples:
@@ -6330,6 +6331,7 @@
 
 - Id: die Eltern
   Level: A1
+  Form: (Pl.)
   Meaning: parents
   CambridgeMeanings: parents
   Examples:
@@ -7710,6 +7712,7 @@
 
 - Id: die Ferien
   Level: B1
+  Form: (Pl.)
   Synonym: (CH) = (D, A) Urlaub
   Meaning: holidays
   CambridgeMeanings: vacation; recess, break
@@ -13056,6 +13059,7 @@
 
 - Id: die Kosten
   Level: B1
+  Form: (Pl.)
   Meaning: costs
   CambridgeMeanings: costs, cost
   Examples:
@@ -14100,6 +14104,7 @@
 
 - Id: die Leute
   Level: A1
+  Form: (Pl.)
   Meaning: people
   CambridgeMeanings: people; people, staff; folks
   Examples:
