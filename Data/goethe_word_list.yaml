@@ -5666,7 +5666,7 @@
     - Wir stellen das Regal in die Ecke.
     - Das Regal stellen wir hier in die Ecke.
     - Das bekommen Sie im Kiosk an der Ecke.
-    - Wo ist die Apotheke? − Gleich um die Ecke.
+    - Wo ist die Apotheke? - Gleich um die Ecke.
 
 - Id: das Eck
   Level: B1
@@ -5677,7 +5677,7 @@
   Examples:
     - Das Regal stellen wir hier ins Eck.
     - Das bekommen Sie im Kiosk am Eck.
-    - Wo ist die Apotheke? − Gleich ums Eck.
+    - Wo ist die Apotheke? - Gleich ums Eck.
 
 - Id: eckig
   Level: B1
@@ -12454,7 +12454,7 @@
 
 - Id: klar
   Level: A1
-  Meaning: clear; understood
+  Meaning: clear, understood
   CambridgeMeanings: clear; straight; ready; clearly
   Examples:
     - Kommst du mit? - Klar!
@@ -12463,7 +12463,7 @@
 - Id: klären
   Level: B1
   Form: klärt, klärte, hat geklärt
-  Meaning: to resolve; to clarify
+  Meaning: to resolve, to clarify
   CambridgeMeanings: to resolve, to settle; to treat
   Examples:
     - Ich hoffe, wir können dieses Problem bald klären.
@@ -12799,7 +12799,7 @@
 
 - Id: komplett
   Level: B1
-  Meaning: complete; completely
+  Meaning: complete
   CambridgeMeanings: complete; complete, whole; total; completely
   Examples:
     - Ich habe den Termin komplett vergessen.
@@ -20911,7 +20911,7 @@
 - Id: der Stiefel
   Level: A2
   Form: '-'
-  Meaning: boots
+  Meaning: boot
   CambridgeMeanings: boot
   Examples:
     - Ich habe mir für den Winter ein Paar warme Stiefel gekauft.
@@ -21013,7 +21013,7 @@
   Level: A1
   Form: ö-e
   Synonym: = (D, CH) Etage
-  Meaning: stick; floor
+  Meaning: stick, floor
   CambridgeMeanings: stick; story, floor; pot plant
   Examples:
     - Das Büro ist im 3. Stock, Zimmer 305.
@@ -21082,7 +21082,7 @@
 - Id: die Strafe
   Level: B1
   Form: -n
-  Meaning: punishment; penalty
+  Meaning: punishment, penalty
   CambridgeMeanings: punishment; fine; sentence; penalty
   Examples:
     - Schwarzfahren kostet 60 Euro Strafe.
@@ -21097,7 +21097,7 @@
 - Id: der Strafzettel
   Level: B1
   Form: '-'
-  Meaning: ticket (parking)
+  Meaning: traffic ticket, parking ticket
   CambridgeMeanings: ticket
   Examples:
     - So ein Pech! Ich habe einmal falsch geparkt und sofort einen Strafzettel bekommen.
@@ -21490,23 +21490,25 @@
   Meaning: table
   CambridgeMeanings: table
   Examples:
-    - example1
+    - Tragen Sie die richtige Information in die Tabelle ein.
 
 - Id: die Tablette
   Level: B1
   Form: -n
-  Meaning: pill
+  Meaning: pill, tablet
   CambridgeMeanings: tablet
   Examples:
-    - example1
+    - Nehmen Sie dreimal täglich eine Tablette.
 
 - Id: die Tafel
   Level: B1
   Form: -n
-  Meaning: table, blackboard
+  Meaning: table, (black)board
   CambridgeMeanings: bar; (black)board; sign, board; plate; table; banquet; food bank
   Examples:
-    - example1
+    - Der Lehrer schreibt das neue Wort an die Tafel.
+    - Sie finden am Eingang eine Tafel mit Informationen.
+    - Ich hätte gern zwei Tafeln Schokolade.
 
 - Id: der Tagesablauf
   Level: B1
@@ -21514,7 +21516,7 @@
   Meaning: daily routine
   CambridgeMeanings: ''
   Examples:
-    - example1
+    - Wie ist Ihr Tagesablauf?
 
 - Id: das Tal
   Level: B1
@@ -21522,7 +21524,7 @@
   Meaning: valley
   CambridgeMeanings: valley
   Examples:
-    - example1
+    - Unser Dorf liegt in einem Tal.
 
 - Id: das Talent
   Level: B1
@@ -21530,23 +21532,24 @@
   Meaning: talent
   CambridgeMeanings: talent
   Examples:
-    - example1
+    - Sie hat großes Talent für Musik.
 
 - Id: tanken
   Level: B1
   Form: tankt, tankte, hat getankt
-  Meaning: to fill fuel/ gas
+  Meaning: to get gas (fuel)
   CambridgeMeanings: to get (some gas); to get
   Examples:
-    - example1
+    - Wir müssen unbedingt tanken. Wir haben fast kein Benzin mehr.
+    - Bitte einmal volltanken!
 
 - Id: die Tankstelle
   Level: B1
   Form: -n
-  Meaning: fuel station
+  Meaning: gas station
   CambridgeMeanings: gas station
   Examples:
-    - example1
+    - Wo ist die nächste Tankstelle?
 
 - Id: die Tante
   Level: B1
@@ -21586,10 +21589,10 @@
 - Id: das Taschengeld
   Level: B1
   Form: -er
-  Meaning: pocket money
+  Meaning: pocket money, allowance
   CambridgeMeanings: allowance
   Examples:
-    - example1
+    - Wie viel Taschengeld bekommst du im Monat?
 
 - Id: das Taschentuch
   Level: B1
@@ -21597,12 +21600,12 @@
   Meaning: handkerchief
   CambridgeMeanings: handkerchief
   Examples:
-    - example1
+    - Hast du ein Taschentuch für mich?
 
 - Id: die Tasse
   Level: A2
   Form: -n
-  Meaning: cup
+  Meaning: cup, bowl
   CambridgeMeanings: cup; bowl
   Examples:
     - Möchten Sie eine Tasse Kaffee?
@@ -21614,31 +21617,35 @@
   Meaning: keyboard
   CambridgeMeanings: keyboard
   Examples:
-    - example1
+    - Die Tastatur an meinem Computer ist ganz neu.
 
 - Id: die Taste
   Level: B1
   Form: -n
-  Meaning: key (on a keyboard)
+  Meaning: key, button
   CambridgeMeanings: key, button
   Examples:
-    - example1
+    - An der Fernbedienung ist eine Taste kaputt.
+    - Du musst jetzt die Stopp-Taste drücken.
 
 - Id: die Tat
   Level: B1
   Form: -en
-  Meaning: act, deed, action
+  Meaning: act, deed, action, crime
   CambridgeMeanings: act(ion), deed; crime, offense
   Examples:
-    - example1
+    - Dieser Mensch hat mit vielen guten Taten geholfen.
 
 - Id: der Täter
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Täterin
+    Form: -nen
   Meaning: perpetrator, culprit
   CambridgeMeanings: culprit, perpetrator
   Examples:
-    - example1
+    - Die Polizei hat den Täter endlich gefasst.
 
 - Id: die Tätigkeit
   Level: B1
@@ -21646,7 +21653,7 @@
   Meaning: activity, occupation
   CambridgeMeanings: job, occupation; activity
   Examples:
-    - example1
+    - Welche Tätigkeit würde Ihnen Spaß machen?
 
 - Id: die Tatsache
   Level: B1
@@ -21654,21 +21661,22 @@
   Meaning: fact
   CambridgeMeanings: fact
   Examples:
-    - example1
+    - Das widerspricht den Tatsachen.
 
 - Id: tatsächlich
   Level: B1
   Meaning: actual, really
   CambridgeMeanings: actual; real, actual; actually; really
   Examples:
-    - example1
+    - Die Hose ist tatsächlich zu klein, obwohl sie so groß aussieht.
 
 - Id: taub
   Level: B1
   Meaning: deaf
   CambridgeMeanings: deaf; numb
   Examples:
-    - example1
+    - Sie hört schlecht, sie ist schon fast taub.
+    - Bist du taub? Ich spreche mit dir!
 
 - Id: tauchen
   Level: B1
@@ -21676,15 +21684,16 @@
   Meaning: to dive
   CambridgeMeanings: to dive; to dive, to swim underwater; to stay underwater; to duck; to bathe, to shroud
   Examples:
-    - example1
+    - Ich möchte im Urlaub wieder tauchen gehen.
 
 - Id: tauschen
   Level: B1
   Form: tauscht, tauschte, hat getauscht
-  Meaning: to change, swap
+  Meaning: to exchange, swap
   CambridgeMeanings: to exchange, to swap
   Examples:
-    - example1
+    -  Ich würde meinen Kuchen gegen dein Brot tauschen.
+    - Wollen wir die Plätze tauschen?
 
 - Id: das Taxi
   Level: A1
@@ -21741,7 +21750,7 @@
 
 - Id: Tee ziehen lassen
   Level: B1
-  Meaning: to let tea infuse (!)
+  Meaning: to let tea infuse
   CambridgeMeanings: ''
   Examples:
     - Diesen Tee sollte man 10 Minuten ziehen lassen.
@@ -21752,7 +21761,9 @@
   Meaning: to share
   CambridgeMeanings: to divide, to split; to divide; to share
   Examples:
-    - example1
+    - Mein Mann und ich teilen uns die Arbeit.
+    - Wollen wir uns eine Pizza teilen?
+    - Was machst du mit dem Gewinn? – Ich teile ihn mit meiner Familie.
 
 - Id: das Teil
   Level: B1
@@ -21776,10 +21787,10 @@
 - Id: die Teilzeit
   Level: B1
   Form: -en
-  Meaning: part-time
+  Meaning: part time
   CambridgeMeanings: part-time work
   Examples:
-    - example1
+    - Ich arbeite im Moment nur Teilzeit.
 
 - Id: teilnehmen
   Level: A2
@@ -21845,7 +21856,7 @@
   Meaning: temperature
   CambridgeMeanings: temperature
   Examples:
-    - example1
+    - Die Temperaturen steigen heute um 10 Grad.
 
 - Id: das Tempo
   Level: B1
@@ -21853,7 +21864,8 @@
   Meaning: speed
   CambridgeMeanings: speed; Kleenex
   Examples:
-    - example1
+    - Hier darfst du nur Tempo 30 fahren.
+    - Achtung, hier ist eine Tempo-30-Zone!
 
 - Id: das Tennis
   Level: B1
@@ -21870,7 +21882,8 @@
   Meaning: carpet
   CambridgeMeanings: carpet
   Examples:
-    - example1
+    - Ich habe mir einen neuen Teppich gekauft.
+    - Habt ihr in eurer neuen Wohnung Teppich oder einen Holzfußboden?
 
 - Id: der Termin
   Level: A1
@@ -21904,7 +21917,7 @@
   Meaning: terrace
   CambridgeMeanings: terrace
   Examples:
-    - example1
+    - Setzen wir uns auf die Terrasse!
 
 - Id: testen
   Level: B1
@@ -21912,7 +21925,7 @@
   Meaning: to test
   CambridgeMeanings: to test
   Examples:
-    - example1
+    - Testen Sie unsere Angebote kostenlos.
 
 - Id: der Test
   Level: A1
@@ -21920,7 +21933,7 @@
   Meaning: test
   CambridgeMeanings: test
   Examples:
-    - example1
+    - 'Ich bin ganz sicher: Du wirst den Test schaffen.'
 
 - Id: teuer
   Level: A1
@@ -21936,7 +21949,7 @@
   Meaning: text
   CambridgeMeanings: text; words, lyrics; script, words; caption
   Examples:
-    - example1
+    - Lesen Sie den Text.
 
 - Id: der Textaufbau
   Level: B1
@@ -21948,10 +21961,10 @@
 - Id: das Theater
   Level: B1
   Form: '-'
-  Meaning: theatre
+  Meaning: theater
   CambridgeMeanings: theater; show; fuss, palaver
   Examples:
-    - example1
+    - Wir gehen nächste Woche ins Theater.
 
 - Id: das Thema
   Level: A1
@@ -21959,14 +21972,14 @@
   Meaning: subject, theme
   CambridgeMeanings: subject, topic, theme
   Examples:
-    - example1
+    - Wir haben im Kurs viel über das Thema Umwelt gesprochen.
 
 - Id: theoretisch
   Level: B1
   Meaning: theoretical
   CambridgeMeanings: theoretical; theoretically
   Examples:
-    - example1
+    - Ich habe die theoretische Prüfung bestanden. Nach der praktischen habe ich den Führerschein.
 
 - Id: die Theorie
   Level: B1
@@ -21974,7 +21987,7 @@
   Meaning: theory
   CambridgeMeanings: theory
   Examples:
-    - example1
+    - Das ist die Theorie. In der Praxis ist vieles ganz anders.
 
 - Id: die Therapie
   Level: B1
@@ -21982,7 +21995,7 @@
   Meaning: therapy
   CambridgeMeanings: therapy, treatment
   Examples:
-    - example1
+    - Die Therapie hat geholfen. Es geht mir schon viel besser.
 
 - Id: das Ticket
   Level: A1
@@ -21990,14 +22003,17 @@
   Meaning: ticket
   CambridgeMeanings: ticket
   Examples:
-    - example1
+    - Wir müssen die Tickets für unseren Flug ausdrucken.
+    - Ich kaufe heute Tickets für das Konzert. 
 
 - Id: tief
   Level: B1
   Meaning: deep
   CambridgeMeanings: deep; low; long, deep; late; deep, profound; deeply
   Examples:
-    - example1
+    - Vorsicht, Kinder! Das Wasser ist hier sehr tief.
+    - Der Schrank ist drei Meter breit und 60 Zentimeter tief.
+    - Bitte jetzt tief einatmen!
 
 - Id: das Tier
   Level: B1
@@ -22005,7 +22021,7 @@
   Meaning: animal
   CambridgeMeanings: animal
   Examples:
-    - example1
+    - Er mag Tiere sehr und geht darum oft in den Zoo.
 
 - Id: das Haustier
   Level: B1
@@ -22013,7 +22029,7 @@
   Meaning: pet
   CambridgeMeanings: pet, domestic animal
   Examples:
-    - example1
+    - Hat deine Familie ein Haustier? - Ja, wir haben einen Hund.
 
 - Id: der Tierpark
   Level: B1
@@ -22021,7 +22037,7 @@
   Meaning: zoo, animal park
   CambridgeMeanings: zoo
   Examples:
-    - example1
+    - Wollen wir am Samstag mit den Kindern in den Tierpark gehen?
 
 - Id: der Tipp
   Level: B1
@@ -25011,7 +25027,7 @@
     - Mein Sohn will Arzt werden.
     - Das Wetter am Wochenende wird gut. Das haben sie im Radio gesagt.
     - Es wird kalt.
-    - Ich habe morgen Geburtstag. − Wie alt wirst du denn?
+    - Ich habe morgen Geburtstag. - Wie alt wirst du denn?
     - Warum fährst du so schnell? Bist du verrückt geworden?!
     - Mein Sohn möchte Polizist werden.
     - Wohin fahren Sie in Urlaub? - Ich glaube, wir werden dieses Jahr zu Hause bleiben.
