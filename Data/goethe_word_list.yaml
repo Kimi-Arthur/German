@@ -21934,6 +21934,7 @@
   CambridgeMeanings: test
   Examples:
     - 'Ich bin ganz sicher: Du wirst den Test schaffen.'
+    - Der Test war einfach.
 
 - Id: teuer
   Level: A1
@@ -21973,6 +21974,7 @@
   CambridgeMeanings: subject, topic, theme
   Examples:
     - Wir haben im Kurs viel über das Thema Umwelt gesprochen.
+    - Wir sprechen heute über das Thema „Essen und Trinken“.
 
 - Id: theoretisch
   Level: B1
@@ -22005,6 +22007,7 @@
   Examples:
     - Wir müssen die Tickets für unseren Flug ausdrucken.
     - Ich kaufe heute Tickets für das Konzert.
+    - Wie viel kostet das Ticket?
 
 - Id: tief
   Level: B1
@@ -22101,7 +22104,7 @@
   Meaning: toilet
   CambridgeMeanings: toilet; bathroom
   Examples:
-    - example1
+    - Wo ist die Toilette, bitte?
 
 - Id: tolerant
   Level: B1
@@ -22125,7 +22128,7 @@
   Meaning: tomato
   CambridgeMeanings: tomato
   Examples:
-    - example1
+    - Die Tomate ist noch grün.
 
 - Id: der Topf
   Level: B1
@@ -22153,10 +22156,10 @@
 
 - Id: tot
   Level: B1
-  Meaning: dead (Adj.)
+  Meaning: dead
   CambridgeMeanings: dead; disused, dead, useless
   Examples:
-    - example1
+    - Sein Vater ist schon lange tot.
 
 - Id: die Tote
   Level: B1
@@ -22328,7 +22331,8 @@
   Meaning: to meet
   CambridgeMeanings: to hit; to meet; to hit on; to hurt; to make, to take
   Examples:
-    - example1
+    - Ich treffe in der Stadt einen Kollegen.
+    - Wir treffen uns immer freitags.
 
 - Id: der Treffpunkt
   Level: B1
@@ -22383,15 +22387,15 @@
 - Id: die Treppe
   Level: A1
   Form: -n
-  Meaning: stairs, steps
+  Meaning: stair (T-)
   CambridgeMeanings: staircase, stairs, steps
   Examples:
-    - example1
+    - Die Toilette? Die Treppe hoch und dann links.
 
 - Id: das Treppenhaus
   Level: B1
   Form: ä-er
-  Meaning: staircase
+  Meaning: stairwell
   CambridgeMeanings: stairwell
   Examples:
     - example1
@@ -22464,6 +22468,11 @@
   CambridgeMeanings: nevertheless; even though
   Examples:
     - example1
+
+- Id: tschüss
+  Level: A1
+  Examples:
+    - Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
 
 - Id: das T-Shirt
   Level: A2
