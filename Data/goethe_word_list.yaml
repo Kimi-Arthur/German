@@ -21330,7 +21330,7 @@
   Meaning: storm
   CambridgeMeanings: storm; assault; forward line, forwards
   Examples:
-    - example1
+    - Im Radio haben sie Regen und Sturm angesagt.
 
 - Id: stürzen
   Level: B1
@@ -21338,7 +21338,8 @@
   Meaning: to fall
   CambridgeMeanings: to fall; to fall, to drop; to rush; to throw, to fling; to bring down, to overthrow, to depose; to jump, to throw yourself
   Examples:
-    - example1
+    -  Ich bin auf der Straße gestürzt und habe mir den Fuß gebrochen.
+    - Bitte pass auf der Treppe auf, dass du nicht hinunterstürzt!
 
 - Id: suchen
   Level: A1
@@ -21357,14 +21358,17 @@
   Meaning: addiction
   CambridgeMeanings: addiction; obsession, craving
   Examples:
-    - example1
+    - Die Sucht nach Medikamenten nimmt zu.
+    - Er kämpft gegen seine Alkoholsucht.
+    - Das Internet kann zur Sucht werden.
 
 - Id: süchtig
   Level: B1
   Meaning: addictive
   CambridgeMeanings: addicted
   Examples:
-    - example1
+    -  Ich bin süchtig nach Schokolade.
+    - Fernsehen kann süchtig machen.
 
 - Id: das Suchtmittel
   Level: B1
@@ -21372,7 +21376,7 @@
   Meaning: addictive stuff
   CambridgeMeanings: ''
   Examples:
-    - example1
+    - Manche Medikamente sind auch Suchtmittel.
 
 - Id: die Summe
   Level: B1
@@ -21380,7 +21384,7 @@
   Meaning: sum
   CambridgeMeanings: sum
   Examples:
-    - example1
+    - Die Summe scheint mir zu hoch!
 
 - Id: super
   Level: A2
@@ -21389,6 +21393,8 @@
   Examples:
     - Der Film ist super.
     - Er kann super tanzen.
+    -  Das war ein super Film!
+    - Weißt du was? Ich komme mit. - Super!
 
 - Id: der Supermarkt
   Level: A2
@@ -21397,6 +21403,7 @@
   CambridgeMeanings: supermarket
   Examples:
     - Ich kaufe oft im Supermarkt ein.
+    - Donnerstags gehe ich immer in den Supermarkt.
 
 - Id: die Suppe
   Level: A2
@@ -21423,6 +21430,8 @@
   Examples:
     - Ich finde die Torte zu süß.
     - Ist das deine Tochter? Die ist ja süß!
+    -  Ich esse gern süße Sachen.
+    - Das ist aber ein süßes Baby!
 
 - Id: die Süßigkeit
   Level: A2
@@ -21446,7 +21455,8 @@
   Meaning: symbol
   CambridgeMeanings: symbol
   Examples:
-    - example1
+    - Das Herz ist ein Symbol für die Liebe.
+    - Auf dem Bildschirm finden Sie viele Symbole.
 
 - Id: sympathisch
   Level: A2
@@ -21461,7 +21471,8 @@
   Meaning: system
   CambridgeMeanings: system
   Examples:
-    - example1
+    - Welches Betriebssystem hast du?
+    - Ich kenne Ihr System nicht. Können Sie es mir erklären?
 
 - Id: die Szene
   Level: B1
@@ -21469,7 +21480,9 @@
   Meaning: scene
   CambridgeMeanings: scene
   Examples:
-    - example1
+    -  In dieser Szene des Films stirbt der Held.
+    - Ich kenne mich in der Szene nicht aus. Ich bin zu alt.
+    - Bitte mach keine Szene!
 
 - Id: die Tabelle
   Level: B1
