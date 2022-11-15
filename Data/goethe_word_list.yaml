@@ -21495,6 +21495,8 @@
 - Id: das Tablet
   Level: A2
   Form: -s
+  Meaning: tablet
+  CambridgeMeanings: tablet
   Examples:
     - Hast du ein Tablet? - Nein, ich habe einen Laptop und ein Handy.
 
@@ -21708,6 +21710,9 @@
 
 - Id: austauschen
   Level: A2
+  Form: tauscht aus, tauschte aus, hat ausgetauscht
+  Meaning: to exchange
+  CambridgeMeanings: to exchange; to replace; to substitute
   Examples:
     - Können wir unsere Adressen austauschen?
 
@@ -21772,7 +21777,7 @@
     - Diesen Tee sollte man 10 Minuten ziehen lassen.
 
 - Id: teilen
-  Level: B1
+  Level: A2
   Form: teilt, teilte, hat geteilt
   Meaning: to share
   CambridgeMeanings: to divide, to split; to divide; to share
@@ -21780,6 +21785,7 @@
     - Mein Mann und ich teilen uns die Arbeit.
     - Wollen wir uns eine Pizza teilen?
     - Was machst du mit dem Gewinn? – Ich teile ihn mit meiner Familie.
+    - Ich möchte an dem Tanzkurs teilnehmen.
 
 - Id: das Teil
   Level: B1
@@ -21976,12 +21982,13 @@
     - Achten Sie auf den Textaufbau.
 
 - Id: das Theater
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: theater
   CambridgeMeanings: theater; show; fuss, palaver
   Examples:
     - Wir gehen nächste Woche ins Theater.
+    - Ich gehe nicht gern ins Theater.
 
 - Id: das Thema
   Level: A1
@@ -22026,7 +22033,7 @@
     - Wie viel kostet das Ticket?
 
 - Id: tief
-  Level: B1
+  Level: A2
   Meaning: deep
   CambridgeMeanings: deep; low; long, deep; late; deep, profound; deeply
   Examples:
@@ -22035,7 +22042,7 @@
     - Bitte jetzt tief einatmen!
 
 - Id: das Tier
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: animal
   CambridgeMeanings: animal
