@@ -21492,16 +21492,23 @@
   Examples:
     - Tragen Sie die richtige Information in die Tabelle ein.
 
+- Id: das Tablet
+  Level: A2
+  Form: -s
+  Examples:
+    - Hast du ein Tablet? - Nein, ich habe einen Laptop und ein Handy.
+
 - Id: die Tablette
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: pill, tablet
   CambridgeMeanings: tablet
   Examples:
     - Nehmen Sie dreimal täglich eine Tablette.
+    - Du sollst am Abend zwei Tabletten nehmen.
 
 - Id: die Tafel
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: table, (black)board
   CambridgeMeanings: bar; (black)board; sign, board; plate; table; banquet; food bank
@@ -21509,6 +21516,8 @@
     - Der Lehrer schreibt das neue Wort an die Tafel.
     - Sie finden am Eingang eine Tafel mit Informationen.
     - Ich hätte gern zwei Tafeln Schokolade.
+    - Am Eingang gibt es Tafeln mit Informationen.
+    - Die Infotafel ist am Eingang.
 
 - Id: der Tagesablauf
   Level: B1
@@ -21587,12 +21596,13 @@
     - Meine Jacke hat keine Taschen.
 
 - Id: das Taschengeld
-  Level: B1
+  Level: A2
   Form: -er
   Meaning: pocket money, allowance
   CambridgeMeanings: allowance
   Examples:
     - Wie viel Taschengeld bekommst du im Monat?
+    - Wie viel Taschengeld bekommen deine Kinder?
 
 - Id: das Taschentuch
   Level: B1
@@ -21687,13 +21697,19 @@
     - Ich möchte im Urlaub wieder tauchen gehen.
 
 - Id: tauschen
-  Level: B1
+  Level: A2
   Form: tauscht, tauschte, hat getauscht
   Meaning: to exchange, swap
   CambridgeMeanings: to exchange, to swap
   Examples:
     - Ich würde meinen Kuchen gegen dein Brot tauschen.
     - Wollen wir die Plätze tauschen?
+    - Können wir bitte die Plätze tauschen?
+
+- Id: austauschen
+  Level: A2
+  Examples:
+    - Können wir unsere Adressen austauschen?
 
 - Id: das Taxi
   Level: A1
