@@ -19703,9 +19703,8 @@
 
 - Id: selbe
   Level: B1
-  From: selber, selbe, selbes
   Meaning: same
-  CambridgeMeanings: ''
+  CambridgeMeanings: same
   Examples:
     - Ich habe am selben Tag Geburtstag wie du.
 
@@ -24943,6 +24942,7 @@
 - Id: weg sein
   Level: A1
   Meaning: away, gone
+  CambridgeMeanings: gone; away, off
   Examples:
     - Herr Meier ist schon weg.
 
