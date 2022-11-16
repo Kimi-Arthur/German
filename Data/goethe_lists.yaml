@@ -534,13 +534,14 @@
     - schwimmen
     - das Schwimmbad
     - der See
-    - die See
     - sehen
     - die Sehenswürdigkeit
     - sehr
     - sein
     - seit
+    - selbstständig
     - sitzen
+    - so
     - das Sofa
     - sofort
     - der Sohn
@@ -624,6 +625,7 @@
     - was
     - (sich) waschen
     - das Wasser
+    - weg sein
     - weiblich
     - der Wein
     - weit
@@ -1527,9 +1529,11 @@
     - seit
     - die Seite
     - selbst
+    - selbstständig
     - sitzen
     - der Ski
     - das SMS
+    - so
     - das Sofa
     - sofort
     - der Sohn
@@ -1608,13 +1612,21 @@
     - das Ticket
     - tief
     - das Tier
+    - der Tipp
     - der Tisch
+    - der Titel
     - die Tochter
     - die Toilette
     - toll
     - die Tomate
+    - der Topf
+    - die Torte
+    - tot
     - die Tour
     - der Tourist
+    - tragen
+    - trainieren
+    - das Training
     - träumen
     - der Traum
     - treffen
@@ -1622,10 +1634,13 @@
     - getrennt leben
     - die Treppe
     - trinken
+    - trocken
+    - trocknen
     - tschüss
     - das T-Shirt
     - tun
     - die Tür
+    - typisch
     - über
     - überall
     - übernachten
@@ -1673,6 +1688,7 @@
     - die Wäsche
     - das Wasser
     - das Wasserklosett
+    - weg sein
     - wegen
     - weiblich
     - der Wein
@@ -3947,7 +3963,7 @@
     - seitdem
     - die Seite
     - der Sekretär
-    - selb-
+    - selbe
     - selbst
     - selber
     - selbstständig
@@ -4243,7 +4259,6 @@
     - das Tor
     - die Torte
     - tot
-    - die Tote
     - der Tote
     - total
     - die Tour
@@ -4257,8 +4272,8 @@
     - das Training
     - das Tram
     - die Träne
-    - der Transport
     - transportieren
+    - der Transport
     - träumen
     - der Traum
     - der Traumberuf
@@ -4278,7 +4293,8 @@
     - das Trinkgeld
     - trocken
     - trocknen
-    - die Tropfen
+    - der Tropfen
+    - das Trottoir
     - trotz
     - trotzdem
     - tschüss
@@ -4577,6 +4593,7 @@
     - weder...noch
     - der Weg
     - weg
+    - weg sein
     - wegen
     - wehtun
     - weiblich
