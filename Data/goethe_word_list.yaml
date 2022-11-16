@@ -20931,7 +20931,7 @@
   Level: B1
   Form: ä-er
   Synonym: (A) = (D, CH) Treppenhaus
-  Meaning: staircase (S-)
+  Meaning: stairwell (S-)
   CambridgeMeanings: ''
   Examples:
     - Im Stiegenhaus ist kein Licht.
@@ -22074,7 +22074,7 @@
   Meaning: tip
   CambridgeMeanings: tip
   Examples:
-    - Kannst du mir einen guten Tipp geben?
+    - Kannst du mir einen Tipp geben? Wo finde ich billige Möbel?
 
 - Id: tippen
   Level: B1
@@ -22082,7 +22082,7 @@
   Meaning: to type
   CambridgeMeanings: to type; to tap; to reckon; to choose, to play the lottery
   Examples:
-    - example1
+    - Wie schnell kannst du tippen?
 
 - Id: der Tisch
   Level: A1
@@ -22100,6 +22100,7 @@
   CambridgeMeanings: title
   Examples:
     - Wie heißt der Film? - Ich weiß den Titel nicht mehr.
+    - Haben Sie einen Titel? – Ja, Doktor.
 
 - Id: die Tochter
   Level: A1
@@ -22115,14 +22116,14 @@
   Meaning: death
   CambridgeMeanings: death
   Examples:
-    - example1
+    - Ich habe ihn vor seinem Tod noch einmal gesehen.
 
 - Id: tödlich
   Level: B1
-  Meaning: deathly
+  Meaning: deadly
   CambridgeMeanings: fatal, deadly, mortal; deadly; fatally; terribly
   Examples:
-    - example1
+    - Dieses Gift kann für den Menschen tödlich sein. 
 
 - Id: die Toilette
   Level: A1
@@ -22137,7 +22138,7 @@
   Meaning: tolerant
   CambridgeMeanings: tolerant
   Examples:
-    - example1
+    - Die Nachbarn hören oft laut Musik. Wir müssen sehr tolerant sein.
 
 - Id: toll
   Level: A2
@@ -22151,6 +22152,7 @@
 - Id: die Tomate
   Level: A1
   Form: -n
+  Synonym: = (A) Paradeiser
   Meaning: tomato
   CambridgeMeanings: tomato
   Examples:
@@ -22159,10 +22161,12 @@
 - Id: der Topf
   Level: A2
   Form: ö-e
+  Synonym: (D, A) = (CH) Pfanne
   Meaning: pot
   CambridgeMeanings: pot, (sauce)pan; pot; pot, jar; potty
   Examples:
     - Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen.
+    - Dieses Jahr haben wir keine Töpfe mit Blumen auf dem Balkon.
 
 - Id: das Tor
   Level: B1
@@ -22170,7 +22174,8 @@
   Meaning: gate, goal
   CambridgeMeanings: goal; gate, door; fool
   Examples:
-    - example1
+    - Hinter dem Tor geht es zur Fabrik.
+    - Die Mannschaft konnte vier Tore schießen.
 
 - Id: die Torte
   Level: A2
@@ -22188,28 +22193,23 @@
     - Sein Vater ist schon lange tot.
     - Meine Großeltern sind schon lange tot.
 
-- Id: die Tote
-  Level: B1
-  Form: -n
-  Meaning: the dead (pl.); dead woman (sing.)
-  CambridgeMeanings: dead person, dead man/woman
-  Examples:
-    - example1
-
 - Id: der Tote
   Level: B1
   Form: -n
-  Meaning: dead man
+  Feminine:
+    Id: die Tote
+    Form: -n
+  Meaning: dead person
   CambridgeMeanings: dead person, dead man/woman
   Examples:
-    - example1
+    - Bei dem Unfall gab es zwei Tote.
 
 - Id: total
   Level: B1
-  Meaning: totally, completely
+  Meaning: total, totally, completely
   CambridgeMeanings: total; totally, really
   Examples:
-    - example1
+    - Der Film war total langweilig.
 
 - Id: die Tour
   Level: A2
@@ -22246,14 +22246,17 @@
   Meaning: tradition
   CambridgeMeanings: tradition
   Examples:
-    - example1
+    - Eine große Hochzeit mit vielen Leuten ist bei uns Tradition.
 
 - Id: traditionell
   Level: B1
   Meaning: traditional
   CambridgeMeanings: traditional; traditionally
   Examples:
-    - example1
+    - Ich mag die traditionelle Küche.
+    - Lass mich den Koffer tragen. Der ist zu schwer für dich.
+    - Mein Bruder trägt eine Brille.
+    - Die Kosten trägt die Krankenkasse.
 
 - Id: tragen
   Level: A2
@@ -22275,27 +22278,33 @@
 - Id: der Trainer
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Trainerin
+    Form: -nen
   Meaning: trainer, coach
   CambridgeMeanings: coach
   Examples:
-    - example1
+    - Ich finde unseren Trainer sehr nett.
 
 - Id: das Training
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: training
   CambridgeMeanings: training (session)
   Examples:
     - Das Training ist immer dienstags.
     - Ich gehe jede Woche zum Training.
+    - Jeden Dienstag ist Training.
+    - Ich gehe jede Woche zum Training.
 
 - Id: das Tram
   Level: B1
   Form: -s
+  Synonym: = (D, A) Straßenbahn
   Meaning: tram
   CambridgeMeanings: streetcar
   Examples:
-    - example1
+    - Fahren wir mit dem Tram oder dem Bus?
 
 - Id: die Träne
   Level: B1
@@ -22303,15 +22312,7 @@
   Meaning: tear
   CambridgeMeanings: tear
   Examples:
-    - example1
-
-- Id: der Transport
-  Level: B1
-  Form: -e
-  Meaning: transport
-  CambridgeMeanings: transportation; consignment
-  Examples:
-    - example1
+    - Sie trocknet dem Kind die Tränen.
 
 - Id: transportieren
   Level: B1
@@ -22319,7 +22320,15 @@
   Meaning: to transport
   CambridgeMeanings: to transport
   Examples:
-    - example1
+    - Wie willst du die Möbel denn transportieren?
+
+- Id: der Transport
+  Level: B1
+  Form: -e
+  Meaning: transport
+  CambridgeMeanings: transportation; consignment
+  Examples:
+    - Was kostet der Transport?
 
 - Id: träumen
   Level: A2
@@ -22353,6 +22362,8 @@
   CambridgeMeanings: sad, unhappy; sad; sadly
   Examples:
     - Ich bin sehr traurig. Meine Katze ist weggelaufen.
+    -  Ich bin traurig. Ich darf nicht mitfahren.
+    - Das war ein sehr trauriger Film.
 
 - Id: treffen
   Level: A1
@@ -22362,6 +22373,7 @@
   Examples:
     - Ich treffe in der Stadt einen Kollegen.
     - Wir treffen uns immer freitags.
+    - Ich habe Petra zufällig in der Stadt getroffen.
 
 - Id: der Treffpunkt
   Level: B1
@@ -22369,7 +22381,7 @@
   Meaning: meeting point
   CambridgeMeanings: meeting place
   Examples:
-    - example1
+    - Unser Treffpunkt ist um 17 Uhr am Hauptbahnhof.
 
 - Id: treiben
   Level: A1
@@ -22416,20 +22428,23 @@
 - Id: die Treppe
   Level: A1
   Form: -n
+  Synonym: (D, CH) = (A) Stiege
   Meaning: stair (T-)
   CambridgeMeanings: staircase, stairs, steps
   Examples:
     - Die Toilette? Die Treppe hoch und dann links.
     - Ich nehme die Treppe, nicht den Aufzug.
     - Wo ist die Toilette? - Die Treppe hoch und dann links.
+    - Meine Oma kann nicht gut Treppen steigen.
 
 - Id: das Treppenhaus
   Level: B1
   Form: ä-er
-  Meaning: stairwell
+  Synonym: (D, CH) = (A) Stiegenhaus
+  Meaning: stairwell (T-)
   CambridgeMeanings: stairwell
   Examples:
-    - example1
+    - Im Treppenhaus ist kein Licht.
 
 - Id: treten
   Level: B1
@@ -22437,14 +22452,15 @@
   Meaning: to step, step on
   CambridgeMeanings: to step; to tread, to step; to kick; to press down (on); to begin, to enter
   Examples:
-    - example1
+    - Ich bin in ein Stück Glas getreten.
+    - Au! Du hast mich getreten!
 
 - Id: treu
   Level: B1
   Meaning: true
   CambridgeMeanings: faithful; faithful, loyal; loyal, staunch; faithfully, loyally
   Examples:
-    - example1
+    - Herr Maier ist ein treuer Kunde von uns.
 
 - Id: trinken
   Level: A1
@@ -22468,7 +22484,9 @@
   Meaning: dry
   CambridgeMeanings: dry; toilet-trained
   Examples:
-    - example1
+    -  Die Wäsche ist noch nicht trocken.
+    - Hoffentlich regnet es bald. Alles ist ganz trocken.
+    - Bitte einen trockenen Wein.
 
 - Id: trocknen
   Level: A2
@@ -22477,28 +22495,37 @@
   CambridgeMeanings: to dry
   Examples:
     - Die Wäsche ist bald trocken.
+    - Ich habe mir die Haare getrocknet.
+    - Die Farbe ist schnell getrocknet.
 
-- Id: die Tropfen
+- Id: der Tropfen
   Level: B1
   Form: '-'
-  Meaning: drops
+  Meaning: drop
   CambridgeMeanings: drop
   Examples:
-    - example1
+    -  Hast du die Tropfen schon genommen?
+    - Wegen der paar Regentropfen brauchst du doch keinen Schirm. 
+
+- Id: das Trottoir
+  Level: B1
+  Form: -s
+  Examples:
+    - Das Velofahren auf dem Trottoir ist nicht erlaubt.
 
 - Id: trotz
   Level: B1
   Meaning: despite, in spite of
   CambridgeMeanings: in spite of, despite
   Examples:
-    - example1
+    - Trotz Grippe bin ich zur Arbeit gegangen.
 
 - Id: trotzdem
   Level: B1
-  Meaning: nevertheless, although
+  Meaning: nevertheless, even though
   CambridgeMeanings: nevertheless; even though
   Examples:
-    - example1
+    - Es war ziemlich kalt. Trotzdem bin ich schwimmen gegangen.
 
 - Id: tschüss
   Level: A1
@@ -22522,7 +22549,9 @@
   Meaning: cloth, scarf, towel
   CambridgeMeanings: cloth; cloth, fabric
   Examples:
-    - example1
+    - Wo hast du dieses schöne Tuch gekauft?
+    - Die Handtücher sind im Schrank ganz oben.
+    - Hast du ein Taschentuch für mich?
 
 - Id: tun
   Level: A1
@@ -22555,7 +22584,7 @@
   Meaning: tower
   CambridgeMeanings: tower; castle, rook
   Examples:
-    - example1
+    - Kommen Sie auf den Turm, von hier sieht man die ganze Stadt.
 
 - Id: die Tüte
   Level: B1
@@ -22563,12 +22592,12 @@
   Meaning: bag
   CambridgeMeanings: bag
   Examples:
-    - example1
+    - Brauchen Sie eine Tüte für den Salat?
 
 - Id: das TV
   Level: B1
   Form: -s
-  Meaning: television
+  Meaning: television (2)
   CambridgeMeanings: ''
   Examples:
     - TV anstelle von Fernsehen oder anstelle von Fernsehapparat zu sagen, greift immer mehr um sich.
@@ -22587,15 +22616,20 @@
   Meaning: type
   CambridgeMeanings: type; model; guy
   Examples:
-    - example1
+    -  Mein Nachbar ist ein netter Typ.
+    - Was für ein Typ bist du? Was machst du gerne?
+    - Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?
 
 - Id: typisch
-  Level: B1
+  Level: A2
   Meaning: typical
   CambridgeMeanings: typical; typically
   Examples:
     - Diese Musik ist typisch für dieses Land.
     - Typisch Anna, sie kommt natürlich wieder zu spät.
+    -  Mein Nachbar ist ein netter Typ.
+    - Was für ein Typ bist du? Was machst du gerne?
+    - Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?
 
 - Id: üben
   Level: B1
