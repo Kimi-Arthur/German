@@ -1058,6 +1058,7 @@
   CambridgeMeanings: expresses proximity or touch from the side; expresses movement toward sth; expresses the point in time when sth happens; expresses the means with which sth happens; expresses the cause of sth; used as a preposition in certain phrases; on; arrive(s)
   Examples:
     - Heute Nacht war das Licht an.
+    - Das Licht ist noch an.
 
 - Id: ansprechen
   Level: B1
@@ -1519,6 +1520,7 @@
   CambridgeMeanings: on; on, onto; at, in; to, at; at, on; used to express a chronology; after; used to describe an action; used to give the reason for sth; used to express a relation or proportion; used as a preposition in fixed phrases; open; up; used in interjections to intensify suggestions
   Examples:
     - Du brauchst den Schlüssel nicht. Die Wohnung ist auf.
+    - Das Fenster ist noch auf.
 
 - Id: der Aufenthalt
   Level: B1
@@ -18670,7 +18672,7 @@
   Meaning: salt
   CambridgeMeanings: salt
   Examples:
-    - example1
+    - Herr Ober, kann ich bitte Salz haben?
 
 - Id: salzig
   Level: B1
@@ -18731,7 +18733,7 @@
   Meaning: sentence
   CambridgeMeanings: sentence, clause; rate; set; sediment; leap; theorem; movement; (type)setting
   Examples:
-    - example1
+    - Dieser Satz ist sehr einfach.
 
 - Id: sauber
   Level: B1
@@ -18808,7 +18810,7 @@
   Meaning: switch
   CambridgeMeanings: switch; counter, desk
   Examples:
-    - example1
+    - Gehen Sie bitte zum Schalter drei!
 
 - Id: scharf
   Level: B1
@@ -18903,7 +18905,7 @@
   Meaning: to shine, seem, appear
   CambridgeMeanings: to shine; to seem
   Examples:
-    - example1
+    - Die Sonne scheint.
 
 - Id: schenken
   Level: A2
@@ -18935,7 +18937,7 @@
   Meaning: to send
   CambridgeMeanings: to send; to be the done thing; to hurry up
   Examples:
-    - example1
+    - Bitte schicken Sie mir eine E-Mail.
 
 - Id: schieben
   Level: B1
@@ -18970,11 +18972,11 @@
 
 - Id: das Schild
   Level: A1
-  Form: -e
-  Meaning: sign
+  Form: -er
+  Meaning: sign, label
   CambridgeMeanings: sign; label, tag; shield
   Examples:
-    - example1
+    - Haben Sie nicht das Schild gesehen?
 
 - Id: schimpfen
   Level: B1
@@ -18990,7 +18992,7 @@
   Meaning: ham
   CambridgeMeanings: ham; massive tome, epic
   Examples:
-    - example1
+    - Ich möchte gern ein Schinkenbrot.
 
 - Id: der Schirm
   Level: B1
@@ -19059,6 +19061,7 @@
     - Die Bezahlung in dieser Firma ist schlecht.
     - Die Verbindung ist schlecht. Ich höre dich nicht gut.
     - Der Film war nicht schlecht. Er hat mir ganz gut gefallen.
+    - Wir haben schlechtes Wetter.
 
 - Id: schließen
   Level: A1
@@ -19111,7 +19114,8 @@
   Meaning: end
   CambridgeMeanings: end; ending; conclusion
   Examples:
-    - example1
+    - Ich muss jetzt Schluss machen.
+    - Zum Schluss gibt er uns allen die Hand.
 
 - Id: der Schlüssel
   Level: A1
@@ -19228,7 +19232,7 @@
   Meaning: fast
   CambridgeMeanings: quick, fast; fast; quickly, fast; quickly
   Examples:
-    - example1
+    - Er fährt schnell.
 
 - Id: das Schnitzel
   Level: B1
@@ -19293,7 +19297,7 @@
   Meaning: cupboard
   CambridgeMeanings: cupboard, closet
   Examples:
-    - example1
+    - Die Gläser stehen im Schrank.
 
 - Id: der Schreck
   Level: B1
@@ -19382,7 +19386,7 @@
   Meaning: shoe
   CambridgeMeanings: shoe
   Examples:
-    - example1
+    - Zieh die Schuhe aus!
 
 - Id: die Schuld
   Level: B1
@@ -19520,7 +19524,8 @@
   Meaning: heavy
   CambridgeMeanings: heavy; in weight; hard; difficult, hard; serious, bad, severe; seriously; with difficulty
   Examples:
-    - example1
+    - Ist Ihr Gepäck sehr schwer?
+    - Das ist eine schwere Arbeit.
 
 - Id: die Schwester
   Level: A1
@@ -19560,7 +19565,7 @@
   Meaning: to swim
   CambridgeMeanings: to swim; to float; to be flooded
   Examples:
-    - example1
+    - Ich schwimme jeden Tag einen Kilometer.
 
 - Id: das Schwimmbad
   Level: A1
@@ -19568,7 +19573,7 @@
   Meaning: swimming pool
   CambridgeMeanings: swimming pool
   Examples:
-    - example1
+    - Kommst du mit ins Schwimmbad?
 
 - Id: schwitzen
   Level: B1
@@ -19584,12 +19589,12 @@
   Meaning: lake
   CambridgeMeanings: lake; sea; huge wave
   Examples:
-    - example1
+    - Komm, wir fahren zum Starnberger See.
 
 - Id: die See
-  Level: A1
+  Level: A2
   Form: -n
-  Meaning: ocean
+  Meaning: sea
   CambridgeMeanings: lake; sea; huge wave
   Examples:
     - example1
@@ -19616,17 +19621,18 @@
 - Id: die Sehenswürdigkeit
   Level: A1
   Form: -en
-  Meaning: sight
+  Meaning: tourist attraction
   CambridgeMeanings: tourist attraction
   Examples:
-    - example1
+    - Welche Sehenswürdigkeiten gibt es in Frankfurt?
 
 - Id: sehr
   Level: A1
   Meaning: very
   CambridgeMeanings: very
   Examples:
-    - example1
+    - Danke sehr!
+    - Das ist sehr schwer.
 
 - Id: die Seife
   Level: B1
@@ -19695,8 +19701,9 @@
   Examples:
     - example1
 
-- Id: selb-
+- Id: selbe
   Level: B1
+  From: selber, selbe, selbes
   Meaning: same
   CambridgeMeanings: ''
   Examples:
@@ -19718,11 +19725,11 @@
     - Sie will das selber machen.
 
 - Id: selbstständig
-  Level: B1
+  Level: A1
   Meaning: self employed, independent
   CambridgeMeanings: independent; independent, autonomous; self-employed, freelance; independently, on your own; on a freelance basis
   Examples:
-    - example1
+    - Er ist selbstständig.
 
 - Id: selbstverständlich
   Level: B1
@@ -20019,11 +20026,14 @@
     - Die Snacks sind in der Pause genau richtig gewesen.
 
 - Id: so
-  Level: B1
+  Level: A1
   Meaning: so, like this
   CambridgeMeanings: like this/that; as; so; without; about, around; according to; as, however; oh; oh, really
   Examples:
-    - example1
+    - Sie müssen das so machen!
+    - Fahren Sie bitte nicht so schnell!
+    - Meine Frau ist so groß wie ich.
+    - So, das war‘s/wär‘s!
 
 - Id: sobald
   Level: B1
@@ -20053,14 +20063,14 @@
   Meaning: sofa
   CambridgeMeanings: sofa
   Examples:
-    - example1
+    - Das Sofa ist neu.
 
 - Id: sofort
   Level: A1
   Meaning: immediately
   CambridgeMeanings: immediately, instantly, at once; in a moment
   Examples:
-    - example1
+    - Bitte antworten Sie sofort.
 
 - Id: die Software
   Level: B1
@@ -20350,7 +20360,7 @@
   Meaning: menu
   CambridgeMeanings: menu
   Examples:
-    - example1
+    - Bringen Sie mir die Speisekarte, bitte.
 
 - Id: der Speisewagen
   Level: B1
@@ -24930,6 +24940,12 @@
   Examples:
     - example1
 
+- Id: weg sein
+  Level: A1
+  Meaning: away, gone
+  Examples:
+    - Herr Meier ist schon weg.
+
 - Id: wegen
   Level: A2
   Meaning: because of
@@ -26291,7 +26307,7 @@
   Meaning: to be closed
   CambridgeMeanings: to; in, at; at; by, at, in; in a group of; at, for; for; into; too; closed; on
   Examples:
-    - example1
+    - Die Tür ist zu.
 
 - Id: der Zustand
   Level: B1
