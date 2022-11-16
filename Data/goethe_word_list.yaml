@@ -21998,6 +21998,7 @@
   Examples:
     - Wir haben im Kurs viel über das Thema Umwelt gesprochen.
     - Wir sprechen heute über das Thema „Essen und Trinken“.
+    - 'Heute heißt unser Thema: „Essen und Trinken“.'
 
 - Id: theoretisch
   Level: B1
@@ -22048,6 +22049,8 @@
   CambridgeMeanings: animal
   Examples:
     - Er mag Tiere sehr und geht darum oft in den Zoo.
+    - Wir dürfen keine Tiere in der Wohnung haben.
+    - Meine Lieblingstiere sind Katzen.
 
 - Id: das Haustier
   Level: B1
@@ -22066,12 +22069,12 @@
     - Wollen wir am Samstag mit den Kindern in den Tierpark gehen?
 
 - Id: der Tipp
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: tip
   CambridgeMeanings: tip
   Examples:
-    - example1
+    - Kannst du mir einen guten Tipp geben?
 
 - Id: tippen
   Level: B1
@@ -22091,12 +22094,12 @@
     - Das Essen steht schon auf dem Tisch.
 
 - Id: der Titel
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: title
   CambridgeMeanings: title
   Examples:
-    - example1
+    - Wie heißt der Film? - Ich weiß den Titel nicht mehr.
 
 - Id: die Tochter
   Level: A1
@@ -22154,12 +22157,12 @@
     - Die Tomate ist noch grün.
 
 - Id: der Topf
-  Level: B1
+  Level: A2
   Form: ö-e
   Meaning: pot
   CambridgeMeanings: pot, (sauce)pan; pot; pot, jar; potty
   Examples:
-    - example1
+    - Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen.
 
 - Id: das Tor
   Level: B1
@@ -22170,19 +22173,20 @@
     - example1
 
 - Id: die Torte
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: cake, flan, tart
   CambridgeMeanings: gateau, (fruit) flan
   Examples:
-    - example1
+    - Zum Geburtstag backe ich dir eine Torte.
 
 - Id: tot
-  Level: B1
+  Level: A2
   Meaning: dead
   CambridgeMeanings: dead; disused, dead, useless
   Examples:
     - Sein Vater ist schon lange tot.
+    - Meine Großeltern sind schon lange tot.
 
 - Id: die Tote
   Level: B1
@@ -22252,20 +22256,21 @@
     - example1
 
 - Id: tragen
-  Level: B1
+  Level: A2
   Form: trägt, trug, hat getragen
   Meaning: to carry, wear
   CambridgeMeanings: to carry, to take; to wear; to hold; to have; to support; to take the weight (of); to bear (fruit); to bear, to have; to bear, to pay; to bear; to bear, to endure
   Examples:
-    - example1
+    - Ich kann den Koffer nicht tragen, er ist zu schwer.
+    - Er trägt heute einen blauen Anzug.
 
 - Id: trainieren
-  Level: B1
+  Level: A2
   Form: trainiert, trainierte, hat trainiert
   Meaning: to train
   CambridgeMeanings: to train; to coach
   Examples:
-    - example1
+    - Wir trainieren einmal pro Woche im Sportverein.
 
 - Id: der Trainer
   Level: B1
@@ -22281,7 +22286,8 @@
   Meaning: training
   CambridgeMeanings: training (session)
   Examples:
-    - example1
+    - Das Training ist immer dienstags.
+    - Ich gehe jede Woche zum Training.
 
 - Id: das Tram
   Level: B1
@@ -22346,7 +22352,7 @@
   Meaning: sad
   CambridgeMeanings: sad, unhappy; sad; sadly
   Examples:
-    - example1
+    - Ich bin sehr traurig. Meine Katze ist weggelaufen.
 
 - Id: treffen
   Level: A1
@@ -22414,6 +22420,8 @@
   CambridgeMeanings: staircase, stairs, steps
   Examples:
     - Die Toilette? Die Treppe hoch und dann links.
+    - Ich nehme die Treppe, nicht den Aufzug.
+    - Wo ist die Toilette? - Die Treppe hoch und dann links.
 
 - Id: das Treppenhaus
   Level: B1
@@ -22463,12 +22471,12 @@
     - example1
 
 - Id: trocknen
-  Level: B1
+  Level: A2
   Form: trocknet, trocknete, hat getrocknet
   Meaning: to dry
   CambridgeMeanings: to dry
   Examples:
-    - example1
+    - Die Wäsche ist bald trocken.
 
 - Id: die Tropfen
   Level: B1
@@ -22498,6 +22506,7 @@
   CambridgeMeanings: ''
   Examples:
     - Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
+    - Tschüs, bis morgen!
 
 - Id: das T-Shirt
   Level: A2
@@ -22585,7 +22594,8 @@
   Meaning: typical
   CambridgeMeanings: typical; typically
   Examples:
-    - example1
+    - Diese Musik ist typisch für dieses Land.
+    - Typisch Anna, sie kommt natürlich wieder zu spät.
 
 - Id: üben
   Level: B1
