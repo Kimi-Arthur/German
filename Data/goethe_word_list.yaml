@@ -1536,7 +1536,7 @@
 
 - Id: arm
   Level: A2
-  Meaning: poor
+  Meaning: poor, low
   Cambridge: poor; low
   Wiki: poor; poor; low
   Examples:
@@ -5332,7 +5332,7 @@
 - Id: der Dank
   Level: A1
   Form: (Sg.)
-  Meaning: thanks (sing. noun)
+  Meaning: thank
   Cambridge: thanks, gratitude
   Wiki: thanks, gratitude, appreciation
   Examples:
@@ -5351,7 +5351,7 @@
 
 - Id: danke
   Level: A1
-  Meaning: thanks
+  Meaning: thanks, thank you
   Cambridge: thanks; no, thanks
   Wiki: thanks, thank you
   Examples:
@@ -15549,7 +15549,7 @@
 
 - Id: die Leiter
   Level: B1
-  Form: '-'
+  Form: '-n'
   Meaning: ladder
   Cambridge: head, manager, leader; ladder; conductor
   Wiki: ladder; leader, director, manager, head, chief; conductor, lead, wire, line
@@ -16972,7 +16972,7 @@
 
 - Id: mitten
   Level: B1
-  Meaning: in the middle of
+  Meaning: in the middle
   Cambridge: (right) in the middle
   Wiki: In the middle.
   Examples:
@@ -17949,20 +17949,22 @@
     - example1
 
 - Id: nirgends
-  Level: B1
-  Meaning: nowhere
+  Level: A2
+  Meaning: nowhere (-s)
   Cambridge: nowhere
   Wiki: nowhere (in no place); never (at no time)
   Examples:
-    - example1
+    -  Ich kann die Quittung nirgends finden.
+    - Hier kann man nirgends parken.
+    - Wo ist Stefan? Ich kann ihn nirgends sehen.
 
 - Id: nirgendwo
   Level: B1
-  Meaning: nowhere
+  Meaning: nowhere (-o)
   Cambridge: ''
   Wiki: nowhere (in no place)
   Examples:
-    - example1
+    - Die Schlüssel kann ich nirgendwo finden.
 
 - Id: noch
   Level: A1
@@ -17984,12 +17986,17 @@
     - Ist das Essen schon fertig. - Nein, es dauert noch ein paar Minuten.
     - Ist Amadeo schon da? - Vielleicht kommt er noch.
 
-- Id: nochmal(s); noch mal
+- Id: noch mal
   Level: B1
   Meaning: again
-  Cambridge: ''
   Examples:
-    - example1
+    - Vielen Dank nochmal.
+    - Bitte sagen Sie das nochmal.
+
+- Id: nochmals
+  Level: B1
+  Examples:
+    - Nochmals vielen Dank!
 
 - Id: normal
   Level: A1
