@@ -1261,7 +1261,7 @@
 
 - Id: der Antwortbogen
   Level: A2
-  Meaning: answer sheet/ paper
+  Meaning: answer sheet
   Cambridge: ''
   Examples:
     - Bitte übertragen Sie Ihre Lösungen auf den Antwortbogen.
@@ -1753,7 +1753,7 @@
 - Id: aufhalten
   Level: B1
   Form: hält auf, hielt auf, ist aufgehalten
-  Meaning: to detain, check, hold/ keep open
+  Meaning: to detain, to stop, to check, to keep open
   Cambridge: to hold up; to stop; to keep open; to stay, to spend time
   Wiki: to halt, to stop; to hold (someone) up; to stay (in a place); to stay on
   Examples:
@@ -6612,7 +6612,7 @@
 
 - Id: einheitlich
   Level: B1
-  Meaning: uniform
+  Meaning: uniform, unified
   Cambridge: uniform, consistent; uniform; consistent; uniformly, consistently
   Wiki: uniform, unified
   Examples:
@@ -11264,7 +11264,7 @@
 - Id: der Gruß
   Level: A1
   Form: ü-e
-  Meaning: greetings
+  Meaning: greeting, salute
   Cambridge: greeting; regards, wishes
   Wiki: greeting; compliment; salute
   Examples:
@@ -13090,7 +13090,7 @@
 
 - Id: jeweils
   Level: B1
-  Meaning: each time
+  Meaning: in each case, always
   Cambridge: at a time, in each case; always
   Wiki: in each case; each
   Examples:
@@ -13622,7 +13622,7 @@
 - Id: kennenlernen
   Level: A1
   Form: lernt kennen, lernte kennen, hat kennengelernt
-  Meaning: to get to know, meet
+  Meaning: to get to know, to meet
   Cambridge: to meet, to get to know; to get to know, to become acquainted with
   Examples:
     - Wir sind neu hier. Wir möchten Sie kennenlernen.
@@ -13807,7 +13807,7 @@
 
 - Id: klasse
   Level: B1
-  Meaning: class, great
+  Meaning: great, awesome
   Cambridge: awesome; fantastically
   Wiki: great, awesome
   Examples:
@@ -16577,7 +16577,7 @@
 
 - Id: menschlich
   Level: B1
-  Meaning: mankind, humane
+  Meaning: humane, manlike
   Cambridge: human; humane; understanding; humanely
   Wiki: human, manlike; humane, kind
   Examples:
@@ -17014,7 +17014,7 @@
 
 - Id: mobil
   Level: B1
-  Meaning: mobile
+  Meaning: mobile (can move)
   Cambridge: mobile
   Wiki: mobile
   Examples:
@@ -17440,7 +17440,7 @@
 
 - Id: nachdem
   Level: B1
-  Meaning: after
+  Meaning: after, since
   Cambridge: after; since
   Wiki: after (that)
   Examples:
@@ -17499,7 +17499,7 @@
 - Id: nachschlagen
   Level: B1
   Form: schlägt nach, schlug nach, hat nachgeschlagen
-  Meaning: to look up
+  Meaning: to look up (check), to look like
   Cambridge: to look (up)
   Wiki: to look up
   Examples:
@@ -18792,7 +18792,7 @@
 - Id: pensioniert
   Level: B1
   Synonym: (D, CH) = (D, A) in Pension, (D) in Rente
-  Meaning: to become / to be pensioned off (p-)
+  Meaning: in pension (p-)
   Cambridge: ''
   Examples:
     - Ich werde Ende des Jahres pensioniert.
@@ -23264,7 +23264,7 @@
 - Id: stimmen
   Level: B1
   Form: stimmt, stimmte, hat gestimmt
-  Meaning: to be right, vote
+  Meaning: to be right, to vote
   Cambridge: to be correct/right; to be true; to vote; to tune
   Wiki: to be right, to be correct, to be proper, to be true; to vote; to tune; to make (someone happy, sad, etc.)
   Examples:
@@ -32065,7 +32065,7 @@
 
 - Id: darum
   Level: K
-  Meaning: around it; therefore; because!
+  Meaning: that’s why
   Cambridge: that’s why, for that reason; around it/them; used with verbs but not usually translated
   Wiki: around it, around that; therefore, for that reason; because! (non-answer to questions one does not wish to answer)
   Examples:
