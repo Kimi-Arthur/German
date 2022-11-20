@@ -88,10 +88,9 @@
   Examples:
     - Wirf das bitte in den Abfalleimer!
 
-- Id: Abgase
+- Id: das Abgas
   Level: B1
-  Meaning: exhaust, waste gases (Pl.)
-  CambridgeMeanings: ''
+  Meaning: exhaust, waste gases
   Examples:
     - Abgase aus Industrie und Haushalten verschmutzen die Luft.
 
@@ -7380,7 +7379,7 @@
 - Id: der Fahrplan
   Level: B1
   Form: ä-e
-  Meaning: timetable
+  Meaning: transport timetable
   CambridgeMeanings: schedule, timetable; timetable, schedule
   Examples:
     - Ist das der neue Fahrplan?
@@ -16268,10 +16267,10 @@
 - Id: die Notaufnahme
   Level: B1
   Form: -n
-  Meaning: Emergency department
+  Meaning: emergency department
   CambridgeMeanings: emergency department/room
   Examples:
-    - example1
+    - Die Notaufnahme ist gleich hier links.
 
 - Id: der Notausgang
   Level: B1
@@ -21788,13 +21787,12 @@
 - Id: teilen
   Level: A2
   Form: teilt, teilte, hat geteilt
-  Meaning: to share
+  Meaning: to divide, to split, to share
   CambridgeMeanings: to divide, to split; to divide; to share
   Examples:
     - Mein Mann und ich teilen uns die Arbeit.
     - Wollen wir uns eine Pizza teilen?
     - Was machst du mit dem Gewinn? – Ich teile ihn mit meiner Familie.
-    - Ich möchte an dem Tanzkurs teilnehmen.
 
 - Id: das Teil
   Level: B1
@@ -21937,7 +21935,7 @@
 - Id: der Terminal
   Level: B1
   Form: -s
-  Meaning: terminal (airport, etc))
+  Meaning: airport terminal
   CambridgeMeanings: terminal
   Examples:
     - Im Süden des Frankfurter Flughafens entsteht das modernste Terminal Europas.
