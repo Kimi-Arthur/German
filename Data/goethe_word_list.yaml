@@ -90,7 +90,9 @@
 
 - Id: das Abgas
   Level: B1
-  Meaning: exhaust, waste gases
+  Form: -e
+  Meaning: exhaust, waste gas
+  CambridgeMeanings: exhaust fumes, waste gas
   Examples:
     - Abgase aus Industrie und Haushalten verschmutzen die Luft.
 
