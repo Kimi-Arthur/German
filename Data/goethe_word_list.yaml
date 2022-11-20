@@ -15549,7 +15549,7 @@
 
 - Id: die Leiter
   Level: B1
-  Form: '-n'
+  Form: -n
   Meaning: ladder
   Cambridge: head, manager, leader; ladder; conductor
   Wiki: ladder; leader, director, manager, head, chief; conductor, lead, wire, line
@@ -17954,7 +17954,7 @@
   Cambridge: nowhere
   Wiki: nowhere (in no place); never (at no time)
   Examples:
-    -  Ich kann die Quittung nirgends finden.
+    - Ich kann die Quittung nirgends finden.
     - Hier kann man nirgends parken.
     - Wo ist Stefan? Ich kann ihn nirgends sehen.
 
@@ -17988,13 +17988,17 @@
 
 - Id: noch mal
   Level: B1
-  Meaning: again
+  Meaning: again (2w)
+  Cambridge: ''
   Examples:
     - Vielen Dank nochmal.
     - Bitte sagen Sie das nochmal.
 
 - Id: nochmals
   Level: B1
+  Meaning: again (1w)
+  Cambridge: again
+  Wiki: again, once more
   Examples:
     - Nochmals vielen Dank!
 
