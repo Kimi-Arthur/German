@@ -20604,18 +20604,20 @@
     - example1
 
 - Id: die Sache
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: thing, affair
   Cambridge: thing; thing, matter, business; things; things, stuff; kph
   Wiki: 'matter, affair, case, question, issue; thing, object; thing: corporeal object; cause, action; subject, matter, business; kilometers per hour'
   Examples:
-    - example1
+    - Ihr könnt eure Sachen im Hotel lassen.
+    - Nimm deine Sachen und komm!
+    - Das ist meine Sache.
 
 - Id: der Sack
   Level: B1
   Form: ä-e
-  Meaning: sack
+  Meaning: sack, bag
   Cambridge: sack, bag; bastard; balls
   Wiki: sack; the sack;; prick; sod; pocket
   Examples:
@@ -20697,6 +20699,7 @@
   Wiki: salt, table salt, sal; salt
   Examples:
     - Herr Ober, kann ich bitte Salz haben?
+    - Den letzten Satz verstehe ich nicht.
 
 - Id: salzig
   Level: B1
@@ -20767,12 +20770,12 @@
     - Dieser Satz ist sehr einfach.
 
 - Id: sauber
-  Level: B1
+  Level: A2
   Meaning: clean
   Cambridge: clean; potty-trained; house-trained; neat; above board, clean, honest; nice; neatly; really
   Wiki: clean; neat, tidy; good, all right; pretty, cute
   Examples:
-    - example1
+    - Bringen Sie mir bitte ein sauberes Glas!
 
 - Id: sauer
   Level: B1
@@ -20780,7 +20783,8 @@
   Cambridge: sour; pickled; acid(ic); irritated, angry; in vinegar; angrily; hard
   Wiki: sour; acid; acidic; upset; annoyed; angry; unpleasant
   Examples:
-    - example1
+    - Zitronen sind mir zu sauer.
+    - Was ist los? - Ich bin sauer. Ich muss am Wochen- ende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen.
 
 - Id: die Schachtel
   Level: B1
@@ -20827,12 +20831,13 @@
     - Rauchen ist schädlich für die Gesundheit.
 
 - Id: schaffen
-  Level: B1
+  Level: A2
   Form: schafft, schuf, hat geschaffen
   Meaning: to make, manage, do, finish
   Cambridge: to do, to manage, to finish; to take, to put; to catch, to make; to take it out of you, to exhaust; to work; to create
   Examples:
-    - example1
+    - Kannst du mir bitte helfen? Ich schaffe das nicht alleine.
+    - Geschafft! Das Projekt ist endlich fertig.
 
 - Id: schalten
   Level: B1
@@ -20851,14 +20856,16 @@
   Wiki: switch; information window, ticket window, box office; a counter in a train station, bank, state office, or similar place where a cabin as above would normally be found (even if it happens not to be one)
   Examples:
     - Gehen Sie bitte zum Schalter drei!
+    - Der Lichtschalter ist neben der Tür.
 
 - Id: scharf
-  Level: B1
+  Level: A2
   Meaning: spicy, hot
   Cambridge: sharp; sharp, tight; hot, spicy; pungent, caustic; sharp, biting; sharp, keen; sharply focused; sharp, clear; fierce, sharp; strict, harsh, tough; live; loaded; trained to attack; powerful; hot; awesome; sharply, keenly; fiercely, sharply; harshly, severely; with live ammunition; powerfully; sharply; at a high temperature
   Wiki: sharp; able to cut (knife, edge); sharp (criticism, perception, intellect); sharp; in focus (picture, script); hot; spicy; pungent (taste); hot; sexy; attractive; hot; aroused; horny; live (bomb or ammunition)
   Examples:
-    - example1
+    - Die Suppe ist mir zu scharf.
+    - Pass auf! Das Messer ist sehr scharf.
 
 - Id: der Schatten
   Level: B1
@@ -20970,13 +20977,13 @@
     - Wir wollen dir zum Geburtstag etwas schenken.
 
 - Id: die Schere
-  Level: B1
+  Level: A2
   Form: -n
-  Meaning: scissors
+  Meaning: (a pair of) scissors
   Cambridge: scissors, shears; pincer; gap
   Wiki: a pair of scissors, shears; a pair of pincers (on a crab); a gap, especially a widening one
   Examples:
-    - example1
+    - Die Schere schneidet nicht gut. Hast du eine andere?
 
 - Id: schick
   Level: B1
@@ -20989,10 +20996,11 @@
 - Id: schicken
   Level: A1
   Form: schickt, schickte, hat geschickt
-  Meaning: to send
+  Meaning: to send (8)
   Cambridge: to send; to be the done thing; to hurry up
   Examples:
     - Bitte schicken Sie mir eine E-Mail.
+    - Ich schicke dir den Brief nach Hause.
 
 - Id: schieben
   Level: B1
@@ -21021,13 +21029,13 @@
     - example1
 
 - Id: das Schiff
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: ship
   Cambridge: ship; nave, aisle, transept
   Wiki: ship; nave; vessel; boiler; galley
   Examples:
-    - example1
+    - Wir fahren mit dem Schiff von Basel nach Köln.
 
 - Id: das Schild
   Level: A1
@@ -21039,13 +21047,14 @@
     - Haben Sie nicht das Schild gesehen?
 
 - Id: schimpfen
-  Level: B1
+  Level: A2
   Form: schimpft, schimpfte, hat geschimpft
-  Meaning: to grumble, complain, tell off
+  Meaning: to grumble, to complain, to tell off
   Cambridge: to moan/complain (about), to tell off
   Wiki: to tell off, to scold, to yell at; to complain, to grouse
   Examples:
-    - example1
+    - Warum schimpfst du denn so laut? - Ich ärgere mich über mein Auto.
+    - Alle schimpfen über/auf das Wetter.
 
 - Id: der Schinken
   Level: A1
@@ -21057,13 +21066,13 @@
     - Ich möchte gern ein Schinkenbrot.
 
 - Id: der Schirm
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: umbrella
   Cambridge: umbrella, sunshade; shade; screen; chute; peak
   Wiki: screen (); umbrella
   Examples:
-    - example1
+    - Nimm den Schirm mit, es regnet.
 
 - Id: der Schlaf
   Level: B1
@@ -21085,6 +21094,11 @@
     - Haben Sie gut geschlafen?
     - Gute Nacht! Schlaf gut und träum süß!
     - Wenn Sie mal nach München kommen, können Sie bei uns schlafen.
+
+- Id: das Schlafzimmer
+  Level: A2
+  Examples:
+    - Hier ist das Schlafzimmer.
 
 - Id: schlagen
   Level: B1
@@ -21914,7 +21928,7 @@
 - Id: senden
   Level: B1
   Form: sendet, sendete, hat gesendet
-  Meaning: to send
+  Meaning: to send (6)
   Cambridge: to broadcast; to broadcast, to transmit; to send
   Wiki: to broadcast; to transmit; to send
   Examples:
@@ -24161,7 +24175,7 @@
   Examples:
     - Mein Mann und ich teilen uns die Arbeit.
     - Wollen wir uns eine Pizza teilen?
-    - Was machst du mit dem Gewinn? – Ich teile ihn mit meiner Familie.
+    - Was machst du mit dem Gewinn? - Ich teile ihn mit meiner Familie.
 
 - Id: das Teil
   Level: B1
@@ -24511,7 +24525,7 @@
   Wiki: title
   Examples:
     - Wie heißt der Film? - Ich weiß den Titel nicht mehr.
-    - Haben Sie einen Titel? – Ja, Doktor.
+    - Haben Sie einen Titel? - Ja, Doktor.
 
 - Id: die Tochter
   Level: A1
