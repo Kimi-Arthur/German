@@ -92,7 +92,6 @@
   Level: B1
   Form: '-'
   Meaning: garbage can
-  Cambridge: ''
   Wiki: rubbish bin; dustbin; trash can
   Examples:
     - Wirf das bitte in den Abfalleimer!
@@ -333,7 +332,6 @@
     Id: die Abwartin
     Form: -nen
   Meaning: caretaker, janitor
-  Cambridge: ''
   Wiki: caretaker, janitor
   Examples:
     - Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.
@@ -421,7 +419,6 @@
     Id: der Akku
     Form: -s
   Meaning: battery (A-)
-  Cambridge: ''
   Wiki: accumulator (battery)
   Examples:
     - Bringst du bitte Akkumulatoren für die Kamera mit?
@@ -588,7 +585,6 @@
 - Id: als ob
   Level: B1
   Meaning: as if, as though
-  Cambridge: ''
   Wiki: as if, as though
   Examples:
     - Er tut so, als ob wir nie darüber gesprochen hätten.
@@ -635,7 +631,6 @@
   Form: -e
   Synonym: Altersheim
   Meaning: old people's home (no s)
-  Cambridge: ''
   Wiki: retirement home, old folks' home
   Examples:
     - Die Großeltern unserer Nachbarn sind im Altenheim.
@@ -761,7 +756,6 @@
 - Id: anderer
   Level: A1
   Meaning: other, different
-  Cambridge: ''
   Wiki: other, different; second
   Examples:
     - WiIlst du diese Jacke? - Nein, ich möchte die andere.
@@ -898,7 +892,6 @@
   Level: B1
   Form: Anglizismen
   Meaning: word from English language
-  Cambridge: ''
   Wiki: anglicism
   Examples:
     - Es treten heute immer mehr Anglizismen wie Action, cool, Job, Song und sorry in der deutschen Sprache auf.
@@ -1262,7 +1255,6 @@
 - Id: der Antwortbogen
   Level: A2
   Meaning: answer sheet
-  Cambridge: ''
   Examples:
     - Bitte übertragen Sie Ihre Lösungen auf den Antwortbogen.
 
@@ -1352,7 +1344,6 @@
   Level: A1
   Form: -s
   Meaning: apartment
-  Cambridge: ''
   Wiki: apartment
   Examples:
     - Wir haben ein Apartment gemietet.
@@ -1662,14 +1653,12 @@
 - Id: auf jeden Fall
   Level: A2
   Meaning: by all means
-  Cambridge: ''
   Examples:
     - Ich möchte auf jeden Fall den neuen James-Bond Film sehen.
 
 - Id: auf keinen Fall
   Level: A2
   Meaning: by no means
-  Cambridge: ''
   Examples:
     - Wirklich? Ich finde James-Bond-Filme langweilig. Ich sehe ihn auf keinen Fall an!
 
@@ -1696,7 +1685,6 @@
   Level: B1
   Form: fällt auf, fiel auf, ist aufgefallen
   Meaning: to stand out, notice
-  Cambridge: ''
   Wiki: to stand out, to be noticeable; to catch someone's eye; to notice
   Examples:
     - Mir ist aufgefallen, dass Harriett ganz blass ist.
@@ -2009,7 +1997,6 @@
 - Id: ausgebildet
   Level: B1
   Meaning: trained, qualified, skilled
-  Cambridge: ''
   Examples:
     - Für diesen Beruf müssen Sie gut ausgebildet sein.
 
@@ -2549,7 +2536,6 @@
       Id: die Azubi
       Form: -s
   Meaning: apprentice, trainee
-  Cambridge: ''
   Wiki: apprentice; trainee
   Examples:
     - Er ist ab März Auszubildender der Firma xy.
@@ -2786,7 +2772,6 @@
   Level: B1
   Synonym: (A, CH) = (D) Geldautomat
   Meaning: ATM
-  Cambridge: ''
   Wiki: (especially, Austria, Switzerland, Liechtenstein, South Tyrol)
   Examples:
     - Ich hole noch schnell Geld vom Bankomaten.
@@ -2795,7 +2780,6 @@
   Level: B1
   Synonym: = (A) ec-Karte / EC-Karte
   Meaning: ATM card
-  Cambridge: ''
   Examples:
     - Sie können auch mit Bankomat-Karte zahlen.
 
@@ -2971,7 +2955,6 @@
   Level: A2
   Form: bedankt sich, bedankte sich, hat sich bedankt
   Meaning: to thank
-  Cambridge: ''
   Wiki: to be thankful, to express thanks.
   Examples:
     - Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.
@@ -3065,7 +3048,6 @@
 - Id: befreit
   Level: B1
   Meaning: freed from
-  Cambridge: ''
   Wiki: freed from something, liberated
   Examples:
     - Studenten und Studentinnen sind von den Rundfunk-Gebühren befreit.
@@ -3277,7 +3259,6 @@
   Abbreviation:
     Id: z. B.
   Meaning: for example
-  Cambridge: ''
   Wiki: for example, for instance
   Examples:
     - Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.
@@ -3319,7 +3300,6 @@
     Id: die Bekannte
     Form: -n
   Meaning: acquaintance
-  Cambridge: ''
   Wiki: acquaintance, friend
   Examples:
     - Ein Bekannter von mir heißt Klaus.
@@ -3617,6 +3597,7 @@
   Level: A2
   Form: sagt Bescheid, sagte Bescheid, hat Bescheid gesagt
   Meaning: to let somebody know (tell someone)
+  Wiki: to let somebody know
   Examples:
     - Ich frage Herrn Maier und sage Ihnen dann Bescheid.
     - Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid.
@@ -3624,6 +3605,7 @@
 - Id: Bescheid geben
   Level: A2
   Meaning: to let somebody know (give someone information)
+  Wiki: to let somebody know
   Examples:
     - Kannst du mir bis morgen Bescheid geben?
     - Kannst du mir bis morgen Bescheid geben?
@@ -3860,7 +3842,6 @@
   Level: B1
   Form: beteiligt, beteiligte, hat beteiligt
   Meaning: to take part, participate
-  Cambridge: ''
   Wiki: to let someone take part in something; participate
   Examples:
     - Wir wollen unserer Lehrerin ein Geschenk kaufen. Wer möchte sich beteiligen?
@@ -4137,7 +4118,6 @@
   Form: -s
   Synonym: (CH) = (D, A) Fahrkarte
   Meaning: ticket (B-)
-  Cambridge: ''
   Wiki: ticket (for a train, plane or other means of transportation); ticket (for a concert, show, etc.); driving licence; a brief piece of writing; a short informal letter; billet; correspondance card, greeting card
   Examples:
     - Ein Billett können Sie am Schalter kaufen.
@@ -4212,7 +4192,6 @@
 - Id: ein bisschen
   Level: A1
   Meaning: a bit
-  Cambridge: ''
   Examples:
     - Ich spreche Englisch, Französisch und ein bisschen Deutsch.
     - Können Sie bitte ein bisschen lauter sprechen?
@@ -4719,7 +4698,6 @@
   Level: B1
   Synonym: (CH) = (D) Brötchen = (A) Semmel
   Meaning: bread roll (-i)
-  Cambridge: ''
   Examples:
     - Ich hole schnell ein paar Brötli zum Frühstück.
 
@@ -4967,7 +4945,6 @@
   Level: B1
   Form: -s
   Meaning: talent show
-  Cambridge: ''
   Wiki: talent show
   Examples:
     - Die Castingshow wurde live im Fernsehen ausgestrahlt.
@@ -5011,7 +4988,6 @@
   Level: B1
   Form: -s
   Meaning: chat room
-  Cambridge: ''
   Wiki: chat room (computer site online where visitors can exchange messages)
   Examples:
     - Ich welchen Chatrooms bist du gerade?
@@ -5086,7 +5062,6 @@
   Level: A2
   Form: -s
   Meaning: club (C-)
-  Cambridge: ''
   Wiki: club (association of members); club (nightclub, discotheque)
   Examples:
     - Gibt es hier einen Tennis-Club?
@@ -5100,7 +5075,6 @@
     Id: die Coiffeuse
     Form: -n
   Meaning: hairdresser (C-)
-  Cambridge: ''
   Wiki: hairdresser; barber; friseur
   Examples:
     - Du siehst toll aus! Wer ist dein Coiffeur?
@@ -5179,7 +5153,6 @@
   Form: -s
   Synonym: (CH) = Briefumschlag = (A) Kuvert
   Meaning: envelope (C-)
-  Cambridge: ''
   Examples:
     - Ich hätte gern 50 Couverts und Briefmarken dazu.
 
@@ -5656,7 +5629,6 @@
 - Id: dies
   Level: A1
   Meaning: this
-  Cambridge: ''
   Examples:
     - Ich nehme lieber diesen Kuchen.
     - Wohin fährst du dieses Jahr in Urlaub?
@@ -6214,7 +6186,6 @@
   Level: B1
   Form: -s
   Meaning: electric bike
-  Cambridge: ''
   Examples:
     - Letztens bin ich doch tatsächlich mit dem E-Bike von Leipzig nach Dresden gefahren.
 
@@ -6222,7 +6193,6 @@
   Level: A2
   Form: -s
   Meaning: e book
-  Cambridge: ''
   Wiki: e-book; e-reader
   Examples:
     - Liest du lieber E-Books oder Bücher aus Papier?
@@ -6338,7 +6308,6 @@
     Id: die Ehepartnerin
     Form: -nen
   Meaning: spouse
-  Cambridge: ''
   Wiki: spouse
   Examples:
     - Die beiden sind nicht nur miteinander befreundet, sie sind Ehepartner.
@@ -6508,7 +6477,6 @@
 - Id: einerseits
   Level: B1
   Meaning: on the one hand
-  Cambridge: ''
   Wiki: on the one hand
   Examples:
     - Einerseits möchte ich die Reise gern machen, andererseits ist sie zu teuer.
@@ -6708,7 +6676,6 @@
 - Id: einmal
   Level: A1
   Meaning: once
-  Cambridge: ''
   Wiki: once, one time; once; sometime; first of all, for starters, firstly
   Examples:
     - Diese Prüfung mache ich nicht noch einmal.
@@ -6869,7 +6836,6 @@
 - Id: einverstanden
   Level: A2
   Meaning: agreed
-  Cambridge: ''
   Wiki: in agreement, agreeing; okay, agreed
   Examples:
     - Als Termin schlage ich den 3. Mai vor. - Gut, einverstanden!
@@ -7146,7 +7112,6 @@
   Level: B1
   Form: -nen
   Meaning: granddaughter
-  Cambridge: ''
   Wiki: granddaughter
   Examples:
     - Alle meine Enkelinnen gehen schon zur Schule.
@@ -7258,7 +7223,6 @@
   Level: B1
   Form: entschließt, entschloss, hat entschlossen
   Meaning: to decide
-  Cambridge: ''
   Wiki: to decide
   Examples:
     - Mein Nachbar hat sich nun doch entschlossen, sein Auto zu verkaufen.
@@ -7304,7 +7268,6 @@
 - Id: entspannend
   Level: B1
   Meaning: relaxing
-  Cambridge: ''
   Examples:
     - Der Urlaub war sehr entspannend.
 
@@ -7332,7 +7295,6 @@
 - Id: enttäuscht
   Level: B1
   Meaning: disappointed (defeated of hope or expectation)
-  Cambridge: ''
   Wiki: disappointed (defeated of hope or expectation)
   Examples:
     - Er machte ein sehr enttäuschtes Gesicht.
@@ -7349,7 +7311,6 @@
 - Id: entweder
   Level: B1
   Meaning: either
-  Cambridge: ''
   Wiki: either
   Examples:
     - Nur einer kann gewinnen, entweder du oder ich.
@@ -7389,7 +7350,6 @@
   Form: ä-
   Synonym: (A) = Kartoffel
   Meaning: potato (A)
-  Cambridge: ''
   Wiki: potato
   Examples:
     - Kann ich bitte noch Erdäpfel bekommen?
@@ -8099,7 +8059,6 @@
 - Id: die Fachleute
   Level: B1
   Meaning: experts
-  Cambridge: ''
   Examples:
     - Die suchen Fachleute für dieses Computerprogramm.
 
@@ -8224,7 +8183,6 @@
   Level: B1
   Form: ä-e
   Meaning: case
-  Cambridge: ''
   Wiki: fall, drop; fall, capture; fall; the loss of one's innocence, honour, reputation, fortune, etc.; case; case; case; case; case; case; halyard
   Examples:
     - Was würden Sie in diesem Fall tun?
@@ -8366,7 +8324,6 @@
   Level: B1
   Synonym: (A) = (D, CH) Hackfleisch
   Meaning: minced meat (F-)
-  Cambridge: ''
   Examples:
     - Geben Sie mir bitte 500 g Faschiertes.
 
@@ -8385,7 +8342,6 @@
   Form: (Sg.)
   Synonym: (CH) = (D, A) Fasching = (D) Karneval
   Meaning: carnival (F-t)
-  Cambridge: ''
   Examples:
     - Dort hängt mein Kostüm für den Fasnachtsumzug.
 
@@ -8432,7 +8388,6 @@
   Form: -s
   Synonym: (A, CH) = (D, CH) Sessel
   Meaning: armchair (F-)
-  Cambridge: ''
   Wiki: armchair
   Examples:
     - Ich hätte gern einen bequemen Fauteuil.
@@ -8557,7 +8512,6 @@
   Level: B1
   Form: -en
   Meaning: holiday home
-  Cambridge: ''
   Examples:
     - Ich suche eine günstige Ferienwohnung.
 
@@ -8924,7 +8878,6 @@
     Id: die Fleischhauerin
     Form: -nen
   Meaning: butcher
-  Cambridge: ''
   Examples:
     - Dieser Fleischhauer macht sehr gute Wurst.
 
@@ -9117,7 +9070,6 @@
 - Id: folgend
   Level: B1
   Meaning: following, next
-  Cambridge: ''
   Wiki: following, subsequent
   Examples:
     - Mehr Informationen auf den folgenden Seiten.
@@ -9264,7 +9216,6 @@
   Level: A2
   Form: -e
   Meaning: camera
-  Cambridge: ''
   Wiki: camera
   Examples:
     - Ich möchte mir einen Fotoapparat kaufen.
@@ -9353,7 +9304,6 @@
 - Id: im Freien
   Level: B1
   Meaning: outdoors
-  Cambridge: ''
   Examples:
     - Wir wollen heute im Freien übernachten.
 
@@ -9462,7 +9412,6 @@
   Level: B1
   Form: '-'
   Meaning: peace
-  Cambridge: ''
   Wiki: peace
   Examples:
     - Endlich ist hier Frieden!
@@ -9622,7 +9571,6 @@
   Form: -e
   Synonym: (CH) = (D, A) Führerschein
   Meaning: driving id
-  Cambridge: ''
   Examples:
     - Hast du einen Führerausweis?
 
@@ -9662,7 +9610,6 @@
   Level: A2
   Form: -n
   Meaning: found object
-  Cambridge: ''
   Examples:
     - Haben Sie meinen Schirm gefunden? - Sie können dort bei den Fundsachen schauen.
 
@@ -9967,7 +9914,6 @@
   Level: A1
   Form: wird geboren, wurde geboren, ist geboren worden
   Meaning: to be born
-  Cambridge: ''
   Wiki: to be born
   Examples:
     - Ich bin in Zagreb geboren.
@@ -9988,7 +9934,6 @@
   Level: B1
   Form: -en
   Meaning: instruction manual
-  Cambridge: ''
   Wiki: instruction sheet, directions for use, operating manual
   Examples:
     - Lesen Sie bitte zuerst die Gebrauchsanweisung.
@@ -10015,7 +9960,6 @@
   Level: A1
   Form: -e
   Meaning: year of birth
-  Cambridge: ''
   Wiki: year of birth
   Examples:
     - Das Geburtsjahr Ihres Sohnes, bitte?
@@ -10105,7 +10049,6 @@
 - Id: sich etwas gefallen lassen
   Level: B1
   Meaning: to put up something
-  Cambridge: ''
   Examples:
     - Das würde ich mir nicht gefallen lassen.
 
@@ -10306,7 +10249,6 @@
   Form: -n
   Synonym: (A) = Brieftasche = (D, CH) Portemonnaie/Portmonee
   Meaning: wallet, purse (G-)
-  Cambridge: ''
   Wiki: wallet, purse
   Examples:
     - Sie hat ihre Geldbörse verloren.
@@ -10528,6 +10470,7 @@
 - Id: gesamt
   Level: B1
   Meaning: whole
+  Wiki: total, whole, entire, overall, big
   Examples:
     - Ich habe meine gesamten Bücher verschenkt.
     - Gesamtgewicht, Gesamtsumme
@@ -10793,7 +10736,6 @@
   Level: B1
   Form: gewöhnt, gewöhnte, hat gewöhnt
   Meaning: to accustom, get used to
-  Cambridge: ''
   Wiki: to get used to; to accustom oneself to; to adapt to
   Examples:
     - Wir haben uns an das Leben hier gewöhnt.
@@ -10875,7 +10817,6 @@
   Form: -n
   Synonym: (CH) = (D, A) Eis
   Meaning: ice cream (G-)
-  Cambridge: ''
   Wiki: ice cream
   Examples:
     - Zum Dessert gibt es Schokoladenglace.
@@ -11126,7 +11067,6 @@
   Level: B1
   Form: grilliert, grillierte, hat grilliert
   Meaning: to grill (CH)
-  Cambridge: ''
   Wiki: to grill
   Examples:
     - Heute wollen wir im Garten grillieren.
@@ -11383,7 +11323,6 @@
   Level: B1
   Form: es hagelt, es hagelte, es hat gehagelt
   Meaning: to hail (weather)
-  Cambridge: ''
   Wiki: to hail
   Examples:
     - Bei Gewitter kann es auch hageln.
@@ -11460,7 +11399,6 @@
   Level: B1
   Form: ä-er
   Meaning: indoor swimming pool
-  Cambridge: ''
   Wiki: indoor public swimming pool
   Examples:
     - Sie geht jeden Tag zum Schwimmen ins Hallenbad.
@@ -11701,7 +11639,6 @@
   Level: A1
   Form: ä-er
   Meaning: house
-  Cambridge: ''
   Wiki: house; home; theatre
   Examples:
     - In welchem Haus wohnst du?
@@ -11794,6 +11731,7 @@
 - Id: heim
   Level: B1
   Meaning: (to) home
+  Wiki: home;
   Examples:
     - Ich will jetzt heim.
 
@@ -11875,7 +11813,6 @@
   Abbreviation:
     Id: d. h.
   Meaning: that means
-  Cambridge: ''
   Examples:
     - Link, d. h. Verbindung.
 
@@ -12079,7 +12016,6 @@
   Level: B1
   Form: fährt herunter, fuhr herunter, hat heruntergefahren
   Meaning: to come down, drive down, shot down
-  Cambridge: ''
   Wiki: to drive down; to shut down
   Examples:
     - Zum Schluss musst du den Computer herunterfahren.
@@ -12118,7 +12054,6 @@
 - Id: heutig
   Level: B1
   Meaning: today's
-  Cambridge: ''
   Wiki: today's; contemporary; present-day
   Examples:
     - Die heutigen Computer können viel mehr als noch vor ein paar Jahren.
@@ -12161,7 +12096,6 @@
   Form: wirft hinunter, warf hinunter, hat hinuntergeworfen
   Synonym: = runterwerfen
   Meaning: to throw down sth  sep  [to sb]
-  Cambridge: ''
   Examples:
     - Kannst du mir bitte den Schlüssel Kannst du mir bitte den Schlüssel vergessen.
 
@@ -12206,7 +12140,6 @@
   Level: B1
   Form: weist hin, wies hin, hat hingewiesen
   Meaning: to point to, to refer to
-  Cambridge: ''
   Wiki: to portend (to signify); to point out
   Examples:
     - Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.
@@ -12550,7 +12483,6 @@
 - Id: der ICE
   Level: A2
   Meaning: Intercity-Express
-  Cambridge: ''
   Examples:
     - Der ICE nach Berlin hält heute an Gleis 12.
 
@@ -12723,6 +12655,7 @@
 - Id: inner
   Level: B1
   Meaning: internal, inner
+  Wiki: inner; within; in the
   Examples:
     - Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben.
 
@@ -12846,7 +12779,6 @@
   Level: A2
   Form: interessiert, interessierte, hat interessiert
   Meaning: to have interest
-  Cambridge: ''
   Wiki: to interest; to be interested in
   Examples:
     - Ich interessiere mich sehr für Fußball.
@@ -12883,7 +12815,6 @@
 - Id: interkulturell
   Level: B1
   Meaning: intercultural
-  Cambridge: ''
   Wiki: intercultural
   Examples:
     - Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.
@@ -12928,14 +12859,12 @@
 - Id: irgendein
   Level: B1
   Meaning: some, any
-  Cambridge: ''
   Examples:
     - Was für einen Saft möchten Sie? - Ganz egal, irgendeinen.
 
 - Id: irgendwann
   Level: B1
   Meaning: sometime
-  Cambridge: ''
   Wiki: sometime, somewhen, anytime; at some point, someday
   Examples:
     - Ich habe Sie irgendwann schon mal gesehen.
@@ -12980,7 +12909,6 @@
   Form: -n
   Synonym: (A) = (D) Imbiss = (CH) Znüni/Zvieri
   Meaning: snack (J-)
-  Cambridge: ''
   Wiki: snack
   Examples:
     - Es ist Zeit für eine kleine Jause.
@@ -13006,7 +12934,6 @@
 - Id: je... desto...
   Level: B1
   Meaning: the... the... (e.g. the more, the better)
-  Cambridge: ''
   Examples:
     - Je mehr, desto besser!
     - Je länger ich Deutsch lerne, desto besser kann ich es verstehen.
@@ -13044,7 +12971,6 @@
 - Id: jedes Mal
   Level: B1
   Meaning: every time, always
-  Cambridge: ''
   Examples:
     - Inge erzählt die Geschichte jedes Mal anders.
 
@@ -13231,7 +13157,6 @@
   Level: B1
   Form: ä-er
   Meaning: coffeehouse
-  Cambridge: ''
   Wiki: coffeehouse
   Examples:
     - Hier in der Nähe ist ein Kaffeehaus. Lass uns einen Kaffee trinken.
@@ -13379,7 +13304,6 @@
   Level: B1
   Form: macht kaputt, machte kaputt, hat kaputtgemacht
   Meaning: to break
-  Cambridge: ''
   Wiki: to break; to spoil, ruin, damage, destroy
   Examples:
     - Wer hat die Lampe kaputtgemacht?
@@ -13850,7 +13774,6 @@
   Level: B1
   Form: klebt, klebte, hat geklebt
   Meaning: to glue, to stick
-  Cambridge: ''
   Wiki: to glue; to stick; to be sticky
   Examples:
     - Die Briefmarke klebt nicht mehr.
@@ -14678,7 +14601,6 @@
   Level: A1
   Form: kriegt, kriegte, hat gekriegt
   Meaning: to get, receive
-  Cambridge: ''
   Wiki: to get; to catch, to come down with; to war
   Examples:
     - Haben Sie meinen Brief gekriegt?
@@ -14691,7 +14613,6 @@
   Level: B1
   Form: (Sg.)
   Meaning: crime investigation department
-  Cambridge: ''
   Wiki: The branch or department of a police force that investigates crime.; A specific unit of that branch.
   Examples:
     - Ein Nachbar von uns arbeitet bei der Kriminalpolizei.
@@ -14827,7 +14748,6 @@
   Level: A1
   Form: kümmert, kümmerte, hat gekümmert
   Meaning: to look after
-  Cambridge: ''
   Wiki: to take care, to look after; to grieve, to afflict, to trouble, to concern
   Examples:
     - Ich habe keine Zeit. Ich muss mich um das Essen kümmern.
@@ -14926,7 +14846,6 @@
     Id: die Kursleiter
     Form: -nen
   Meaning: course director
-  Cambridge: ''
   Examples:
     - Die Kursleiterin ist mit unserer Kursgruppe manchmal in den Computerraum gegangen.
 
@@ -15448,7 +15367,6 @@
 - Id: leid tun
   Level: A2
   Meaning: to be sorry
-  Cambridge: ''
   Examples:
     - Es tut mir leid, dass ich nicht kommen kann.
     - Die Frau tut mir leid.
@@ -15479,7 +15397,6 @@
   Level: A2
   Form: leiht, lieh, hat geliehen
   Meaning: to lend
-  Cambridge: ''
   Wiki: to borrow; to lend, loan
   Examples:
     - Ich habe mir von meinem Bruder 50 Euro geliehen.
@@ -15684,7 +15601,6 @@
   Level: A1
   Form: -n
   Meaning: favourite color
-  Cambridge: ''
   Wiki: favorite color
   Examples:
     - Meine Lieblingsfarbe ist Blau.
@@ -15693,7 +15609,6 @@
   Level: A1
   Form: -e
   Meaning: favorite film
-  Cambridge: ''
   Wiki: favorite film
   Examples:
     - Mein Lieblingsfilm ist „Schwarze Augen“.
@@ -15702,7 +15617,6 @@
   Level: A1
   Form: '-'
   Meaning: favorite food
-  Cambridge: ''
   Wiki: favourite food
   Examples:
     - Mein Lieblingsessen ist Pizza.
@@ -15921,7 +15835,6 @@
   Level: B1
   Form: fährt los, fuhr los, ist losgefahren
   Meaning: to set off
-  Cambridge: ''
   Wiki: to set off, to hit the road
   Examples:
     - Wir fahren um 8 Uhr los. Sei bitte pünktlich.
@@ -16268,7 +16181,6 @@
   Form: -n
   Synonym: (A) = (D, CH) Aprikose
   Meaning: apricot (M-)
-  Cambridge: ''
   Wiki: apricot
   Examples:
     - Schmecken dir die Marillen?
@@ -16338,7 +16250,6 @@
   Form: Maturen
   Synonym: (A, CH) = (D) Abitur
   Meaning: school graduation exam (M-)
-  Cambridge: ''
   Wiki: matura
   Examples:
     - Meine Tocher hat gerade die Matura gemacht.
@@ -16729,7 +16640,6 @@
   Level: B1
   Form: -en
   Meaning: migration
-  Cambridge: ''
   Wiki: migration; migration
   Examples:
     - Gestern gab es im Fernsehen eine Diskussion zum Thema Migration.
@@ -16822,7 +16732,6 @@
   Level: B1
   Form: missversteht, missverstand, hat missverstanden
   Meaning: to misunderstand, to misapprehend
-  Cambridge: ''
   Wiki: to misunderstand, to misapprehend
   Examples:
     - Sie missversteht mich absichtlich.
@@ -16932,7 +16841,6 @@
   Level: A2
   Form: '-'
   Meaning: lunch
-  Cambridge: ''
   Wiki: lunch
   Examples:
     - Um zwölf Uhr gibt es Mittagessen.
@@ -16954,7 +16862,6 @@
   Level: B1
   Form: teilt mit, teilte mit, hat mitgeteilt
   Meaning: to take part
-  Cambridge: ''
   Wiki: to inform about, to tell, to disclose, to impart, to report, to announce; to share with, to impart, to transfer a deal to
   Examples:
     - Den Prüfungstermin teilen wir Ihnen noch mit.
@@ -17023,7 +16930,6 @@
 - Id: die Mobilbox
   Level: B1
   Meaning: mobile (answering) box
-  Cambridge: ''
   Examples:
     - Die Mobilbox ist gut.
 
@@ -17040,7 +16946,6 @@
   Level: A2
   Form: -e
   Meaning: mobile telephone
-  Cambridge: ''
   Wiki: mobile phone
   Examples:
     - Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon?
@@ -17048,7 +16953,6 @@
 - Id: möchten
   Level: A1
   Meaning: to want (to have), like (to have)
-  Cambridge: ''
   Examples:
     - Was möchten Sie trinken?
     - Möchtest du auch einen Kaffee?
@@ -17214,7 +17118,6 @@
   Level: A2
   Form: '-'
   Meaning: motor-scooter
-  Cambridge: ''
   Wiki: scooter (motor-scooter)
   Examples:
     - Oskar fährt mit dem Motorroller zur Arbeit.
@@ -17223,7 +17126,6 @@
   Level: B1
   Form: -s
   Meaning: mountain bike
-  Cambridge: ''
   Wiki: mountain bike
   Examples:
     - An sonnigen Tagen fährt er mit seinem Mountainbike durch die Berge.
@@ -17569,6 +17471,7 @@
 - Id: nah
   Level: B1
   Meaning: near
+  Wiki: near (in space or time or in an abstract sense), close, nearby; near (in space or time or in an abstract sense)
   Examples:
     - Wie weit ist es zum Bahnhof? - Das ist ganz nah, nur zwei Minuten von hier.
 
@@ -17961,7 +17864,6 @@
 - Id: nirgendwo
   Level: B1
   Meaning: nowhere (-o)
-  Cambridge: ''
   Wiki: nowhere (in no place)
   Examples:
     - Die Schlüssel kann ich nirgendwo finden.
@@ -17989,7 +17891,6 @@
 - Id: noch mal
   Level: B1
   Meaning: again (2w)
-  Cambridge: ''
   Examples:
     - Vielen Dank nochmal.
     - Bitte sagen Sie das nochmal.
@@ -18031,7 +17932,6 @@
   Level: B1
   Form: ä-e
   Meaning: emergency exit
-  Cambridge: ''
   Wiki: emergency exit, fire escape
   Examples:
     - example1
@@ -18311,7 +18211,6 @@
 - Id: geöffnet
   Level: A1
   Meaning: open
-  Cambridge: ''
   Wiki: open
   Examples:
     - Der Laden ist samstags bis 16.00 Uhr geöffnet.
@@ -18784,7 +18683,6 @@
   Level: B1
   Synonym: (D, A) = (D) in Rente, (D, CH) pensioniert
   Meaning: to retire / to be retired (i-P)
-  Cambridge: ''
   Examples:
     - Ich gehe Ende des Jahres in Pension.
     - Mein Nachbar ist seit zehn Jahren in Pension.
@@ -18793,7 +18691,6 @@
   Level: B1
   Synonym: (D, CH) = (D, A) in Pension, (D) in Rente
   Meaning: in pension (p-)
-  Cambridge: ''
   Examples:
     - Ich werde Ende des Jahres pensioniert.
     - Mein Nachbar ist seit zehn Jahren pensioniert.
@@ -18801,7 +18698,6 @@
 - Id: der Pensionist
   Level: B1
   Meaning: pensioner
-  Cambridge: ''
   Examples:
     - example1
 
@@ -18836,7 +18732,6 @@
     Id: der PC
     Form: -s
   Meaning: personal computer
-  Cambridge: ''
   Examples:
     - Mein neuer Personalcomputer eignet sich sowohl zum Spielen als auch für das Internet sehr gut.
 
@@ -18870,7 +18765,6 @@
 - Id: der Personenstand
   Level: B1
   Meaning: marital status
-  Cambridge: ''
   Examples:
     - example1
 
@@ -18968,7 +18862,6 @@
   Level: B1
   Form: -n
   Meaning: fantasy (P-)
-  Cambridge: ''
   Examples:
     - Mein Sohn malt sehr gut. Er hat viel Phantasie.
 
@@ -19199,7 +19092,6 @@
     Id: die Pöstlerin
     Form: -nen
   Meaning: postman (P-)
-  Cambridge: ''
   Wiki: postman
   Examples:
     - War die Pöstlerin schon da?
@@ -19217,7 +19109,6 @@
   Level: B1
   Synonym: (CH) = (D) Hähnchen/Hühnchen = (A) Hend(e)l
   Meaning: chicken meat (P-)
-  Cambridge: ''
   Wiki: chicken
   Examples:
     - Zum Mittagessen gibt es Poulet mit Reis.
@@ -19401,7 +19292,6 @@
   Level: B1
   Form: '-'
   Meaning: professional sportsman
-  Cambridge: ''
   Examples:
     - example1
 
@@ -19665,7 +19555,6 @@
   Level: B1
   Form: rasiert, rasierte, hat rasiert
   Meaning: to shave
-  Cambridge: ''
   Wiki: to shave; to discontinue in order to reduce spending etc., to cut back; to raze, demolish, utterly destroy; to be manifestly successful (against), to duppy, to kick (someone's) ass.
   Examples:
     - example1
@@ -19765,6 +19654,7 @@
 - Id: raus
   Level: B1
   Meaning: out
+  Wiki: out, out of there, outta there; out, out of here, outta here; get out!
   Examples:
     - example1
 
@@ -19980,7 +19870,6 @@
   Level: A1
   Form: regnet, regnete, hat geregnet
   Meaning: to rain
-  Cambridge: ''
   Wiki: to rain
   Examples:
     - Heute regnet es.
@@ -20140,7 +20029,6 @@
   Level: A1
   Form: '-'
   Meaning: tourist guide
-  Cambridge: ''
   Wiki: tourist guide, tour guide; travel guide
   Examples:
     - Ich kaufe mir einen Reiseführer von Berlin.
@@ -20150,7 +20038,6 @@
   Level: B1
   Form: reitet, ritt, ist geritten
   Meaning: to ride
-  Cambridge: ''
   Wiki: to ride; to do horseriding; to ride (someone or something), to ride on the back of
   Examples:
     - example1
@@ -20476,7 +20363,6 @@
   Level: B1
   Form: -en
   Meaning: return journey
-  Cambridge: ''
   Wiki: return trip
   Examples:
     - example1
@@ -20581,7 +20467,6 @@
   Level: B1
   Form: -en
   Meaning: round trip
-  Cambridge: ''
   Wiki: tour; round trip
   Examples:
     - example1
@@ -20721,7 +20606,6 @@
 - Id: sämtliche
   Level: B1
   Meaning: all, complete
-  Cambridge: ''
   Examples:
     - example1
 
@@ -20933,7 +20817,6 @@
 - Id: geschieden
   Level: A2
   Meaning: divorced
-  Cambridge: ''
   Wiki: divorced
   Examples:
     - Ich bin seit drei Jahren geschieden.
@@ -21097,6 +20980,10 @@
 
 - Id: das Schlafzimmer
   Level: A2
+  Form: '-'
+  Meaning: bedroom (bed-room), bedchamber (bed-chamber)
+  Cambridge: bedroom
+  Wiki: bedroom (bed-room), bedchamber (bed-chamber)
   Examples:
     - Hier ist das Schlafzimmer.
 
@@ -21253,7 +21140,6 @@
   Level: B1
   Form: '-'
   Meaning: painkiller
-  Cambridge: ''
   Wiki: painkiller
   Examples:
     - Sie haben Zahnschmerzen? Ich verschreibe Ihnen ein Schmerzmittel.
@@ -21315,7 +21201,6 @@
   Level: B1
   Form: schneit, schneite, hat geschneit
   Meaning: to snow
-  Cambridge: ''
   Wiki: to snow; to fall in large quantities like snow; to show up or turn up unannounced
   Examples:
     - example1
@@ -21520,7 +21405,6 @@
 - Id: schuld sein
   Level: B1
   Meaning: be to blame
-  Cambridge: ''
   Examples:
     - example1
 
@@ -21536,6 +21420,7 @@
   Level: B1
   Form: (Pl.)
   Meaning: debt (pl)
+  Wiki: debt
   Examples:
     - example1
 
@@ -21675,6 +21560,7 @@
 - Id: Schwieger-
   Level: B1
   Meaning: in law
+  Wiki: mother-in-law
   Examples:
     - example1
 
@@ -21870,7 +21756,6 @@
 - Id: selber
   Level: B1
   Meaning: by oneself
-  Cambridge: ''
   Wiki: self, oneself, myself, himself, herself, itself, ourselves, yourselves, themselves; alone, on one's own, by oneself; the same
   Examples:
     - Sie will das selber machen.
@@ -22179,7 +22064,6 @@
   Level: B1
   Form: '-'
   Meaning: ski (-c-)
-  Cambridge: ''
   Examples:
     - Gehen wir am Wochenende Schi laufen?
     - Das sind aber schöne Schier!
@@ -22276,7 +22160,6 @@
 - Id: sogenannt-
   Level: B1
   Meaning: so-called
-  Cambridge: ''
   Wiki: so-called
   Examples:
     - example1
@@ -22333,6 +22216,7 @@
 - Id: sonder-
   Level: B1
   Meaning: special
+  Wiki: without; except; not including
   Examples:
     - example1
 
@@ -22340,7 +22224,6 @@
   Level: B1
   Form: -e
   Meaning: special offer
-  Cambridge: ''
   Wiki: (special) bargain
   Examples:
     - example1
@@ -22357,7 +22240,6 @@
   Level: B1
   Form: -s
   Meaning: song
-  Cambridge: ''
   Wiki: a song of modern popular music
   Examples:
     - Der Song „Yesterday“ der Beatles war weltberühmt.
@@ -22396,7 +22278,6 @@
   Level: B1
   Form: sorgt, sorgte, hat gesorgt
   Meaning: to worry
-  Cambridge: ''
   Wiki: to care for, to take care of; to worry
   Examples:
     - example1
@@ -22439,7 +22320,6 @@
 - Id: so viel (wie)
   Level: B1
   Meaning: so much
-  Cambridge: ''
   Examples:
     - Ich habe so viel gegessen. Jetzt ist mir schlecht.
     - Ich verdiene nur halb so viel wie er.
@@ -22704,7 +22584,6 @@
   Level: B1
   Form: -en
   Meaning: type of sport
-  Cambridge: ''
   Wiki: sport, type of sport
   Examples:
     - Welche Sportart findest du am besten?
@@ -22772,7 +22651,6 @@
   Level: B1
   Form: -n
   Meaning: second language
-  Cambridge: ''
   Wiki: A learned second language
   Examples:
     - Deutsch ist seine Zweitsprache.
@@ -23066,7 +22944,6 @@
   Level: A1
   Form: steht, stand, hat gestanden
   Meaning: to stand
-  Cambridge: ''
   Wiki: to stand; to be, to appear, to stand; to stay; to be still; to stay, to stand, to be (in a certain state, position or circumstance); to suit, to become; to put, place; to fancy
   Examples:
     - In meinem Beruf muss ich viel stehen.
@@ -23166,7 +23043,6 @@
 - Id: gestorben
   Level: A1
   Meaning: deceased (no longer alive)
-  Cambridge: ''
   Wiki: deceased (no longer alive)
   Examples:
     - Meine Frau ist gestern gestorben.
@@ -23226,7 +23102,6 @@
   Form: ä-er
   Synonym: (A) = (D, CH) Treppenhaus
   Meaning: stairwell (S-)
-  Cambridge: ''
   Examples:
     - Im Stiegenhaus ist kein Licht.
 
@@ -23591,7 +23466,6 @@
     Id: die Studierende
     Form: '-'
   Meaning: student (-ie-)
-  Cambridge: ''
   Wiki: student, scholar; student at a Ingenieurschule / Fachhochschule
   Examples:
     - Zehn Studierende besuchen das Seminar.
@@ -23718,7 +23592,6 @@
   Level: B1
   Form: '-'
   Meaning: addictive stuff
-  Cambridge: ''
   Wiki: addictive substance
   Examples:
     - Manche Medikamente sind auch Suchtmittel.
@@ -23886,7 +23759,6 @@
   Level: B1
   Form: ä-e
   Meaning: daily routine
-  Cambridge: ''
   Wiki: daily routine
   Examples:
     - Wie ist Ihr Tagesablauf?
@@ -24162,7 +24034,6 @@
 - Id: Tee ziehen lassen
   Level: B1
   Meaning: to let tea infuse
-  Cambridge: ''
   Examples:
     - Diesen Tee sollte man 10 Minuten ziehen lassen.
 
@@ -24388,7 +24259,6 @@
 - Id: der Textaufbau
   Level: B1
   Meaning: text structure
-  Cambridge: ''
   Examples:
     - Achten Sie auf den Textaufbau.
 
@@ -24805,7 +24675,6 @@
   Level: B1
   Form: -e
   Meaning: dream job
-  Cambridge: ''
   Examples:
     - Jetzt sind wir beim Traumberuf.
 
@@ -24979,7 +24848,6 @@
   Level: B1
   Form: -s
   Meaning: sidewalk, pavement
-  Cambridge: ''
   Wiki: sidewalk, pavement
   Examples:
     - Das Velofahren auf dem Trottoir ist nicht erlaubt.
@@ -25003,7 +24871,6 @@
 - Id: tschüss
   Level: A1
   Meaning: bye
-  Cambridge: ''
   Wiki: bye, cheers, ciao
   Examples:
     - Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
@@ -25086,7 +24953,6 @@
   Level: B1
   Form: twittert, twitterte, hat getwittert
   Meaning: to tweet
-  Cambridge: ''
   Wiki: to tweet
   Examples:
     - Wer will, kann via Facebook ein Fan von ihr werden, oder twitternd mit ihr in Kontakt treten.
@@ -25383,7 +25249,6 @@
 - Id: übrig
   Level: B1
   Meaning: left over, remaining
-  Cambridge: ''
   Wiki: rest of, remaining; left, left over; spare
   Examples:
     - example1
@@ -25438,7 +25303,6 @@
 - Id: um...zu
   Level: B1
   Meaning: (in order) to
-  Cambridge: ''
   Examples:
     - example1
 
@@ -25618,7 +25482,6 @@
   Abbreviation:
     Id: usw.
   Meaning: etc.
-  Cambridge: ''
   Wiki: et cetera, and so on, and so forth
   Examples:
     - Wir brauchten noch Fleisch, Obst, Gemüse und so weiter.
@@ -25762,7 +25625,6 @@
 - Id: die Unterlagen
   Level: B1
   Meaning: documents
-  Cambridge: ''
   Examples:
     - example1
 
@@ -25815,7 +25677,6 @@
 - Id: untersagt
   Level: B1
   Meaning: forbidden
-  Cambridge: ''
   Examples:
     - example1
 
@@ -26024,7 +25885,6 @@
 - Id: verabredet
   Level: B1
   Meaning: already manage to meet so
-  Cambridge: ''
   Examples:
     - example1
 
@@ -26613,7 +26473,6 @@
 - Id: verpflichtet
   Level: B1
   Meaning: obliged, required
-  Cambridge: ''
   Wiki: committed, bound, obliged, indebted, beholden
   Examples:
     - example1
@@ -26932,7 +26791,6 @@
   Level: B1
   Form: (Sg.)
   Meaning: forgiveness, pardon
-  Cambridge: ''
   Wiki: forgiveness; excuse me, pardon me
   Examples:
     - example1
@@ -27104,7 +26962,6 @@
 - Id: vor allem
   Level: B1
   Meaning: more than anyone else...
-  Cambridge: ''
   Wiki: above all (of prime importance), especially
   Examples:
     - example1
@@ -27246,6 +27103,7 @@
 - Id: vorne
   Level: B1
   Meaning: at the front (not "vorn")
+  Wiki: at the front; in front; ahead
   Examples:
     - example1
 
@@ -27626,7 +27484,6 @@
     Id: das WC
     Form: -s
   Meaning: toilet
-  Cambridge: ''
   Wiki: water closet
   Examples:
     - Das erste Wasserklosett hält feierlich Einzug.
@@ -27661,7 +27518,6 @@
 - Id: weder...noch
   Level: B1
   Meaning: neither...nor
-  Cambridge: ''
   Examples:
     - example1
 
@@ -27704,7 +27560,6 @@
   Level: B1
   Form: tut weh, tat weh, hat wehgetan
   Meaning: to hurt
-  Cambridge: ''
   Wiki: to hurt; to hurt
   Examples:
     - example1
@@ -27763,6 +27618,7 @@
 - Id: -weise
   Level: B1
   Meaning: -wise (word ending)
+  Wiki: (Used to form adverbs from nouns.); (Used to form adverbs from adjectives or participles together with the interfix .)
   Examples:
     - example1
 
@@ -27930,7 +27786,6 @@
 - Id: wert
   Level: B1
   Meaning: worth
-  Cambridge: ''
   Wiki: worth something, worthy of something; worthy of someone; dear
   Examples:
     - example1
@@ -28113,6 +27968,7 @@
 - Id: wie viel
   Level: A1
   Meaning: how long
+  Wiki: how much; how often
   Examples:
     - example1
 
@@ -28253,7 +28109,6 @@
 - Id: wo
   Level: A1
   Meaning: where
-  Cambridge: ''
   Wiki: where; where; when, that; somewhere; when; who, whom, which, that
   Examples:
     - Wo waren Sie im Urlaub? - In Frankreich.
@@ -28572,7 +28427,6 @@
   Level: B1
   Form: Zahnpasten
   Meaning: toothpaste
-  Cambridge: ''
   Wiki: toothpaste
   Examples:
     - Die neue Zahnpasta riecht sehr gut.
@@ -28831,14 +28685,12 @@
 - Id: die Zinsen
   Level: B1
   Meaning: interest (bank)
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: zirka
   Level: A1
   Meaning: approximately (z-)
-  Cambridge: ''
   Examples:
     - Von Mainz nach Frankfurt sind es zirka fünfzig Kilometer.
 
@@ -29097,7 +28949,6 @@
   Level: B1
   Form: ordnet zu, ordnete zu, hat zugeordnet
   Meaning: to assign (to)
-  Cambridge: ''
   Wiki: 'to determine the place of (someone or something) in an order: to assign or classify; to assign or allocate (someone or something) to a group, organization, etc'
   Examples:
     - Ordnen Sie die Aussagen zu.
@@ -29334,7 +29185,6 @@
 - Id: die Bildungseinrichtung
   Level: M
   Meaning: Educational institution
-  Cambridge: ''
   Wiki: education institution, educational establishment, educational institute, training facility
   Examples:
     - example1
@@ -29370,7 +29220,6 @@
   Level: M
   Form: -n
   Meaning: middle school
-  Cambridge: ''
   Wiki: middle school, junior high school
   Examples:
     - example1
@@ -29442,7 +29291,6 @@
   Level: M
   Form: ä-er
   Meaning: school subject
-  Cambridge: ''
   Examples:
     - example1
 
@@ -29495,7 +29343,6 @@
   Level: M
   Form: -n
   Meaning: school marks
-  Cambridge: ''
   Wiki: mark, grade (score obtained at school)
   Examples:
     - example1
@@ -29503,7 +29350,6 @@
 - Id: sehr gut (1)
   Level: M
   Meaning: very good (1)
-  Cambridge: ''
   Examples:
     - example1
 
@@ -29791,7 +29637,6 @@
   Level: M
   Form: (Sg.)
   Meaning: Greece
-  Cambridge: ''
   Examples:
     - example1
 
@@ -29799,7 +29644,6 @@
   Level: M
   Form: -n
   Meaning: Greek (man)
-  Cambridge: ''
   Wiki: a Greek (person); a Greek restaurant
   Examples:
     - example1
@@ -29808,7 +29652,6 @@
   Level: M
   Form: -nen
   Meaning: Greek (woman)
-  Cambridge: ''
   Wiki: Greek (female inhabitant, etc., of Greece)
   Examples:
     - example1
@@ -29816,7 +29659,6 @@
 - Id: griechisch
   Level: M
   Meaning: Greek (adj.)
-  Cambridge: ''
   Wiki: Grecian, Greek; from or related to Greece
   Examples:
     - example1
@@ -29824,7 +29666,6 @@
 - Id: das Griechisch
   Level: M
   Meaning: Greek (language)
-  Cambridge: ''
   Wiki: Greek language; Greek alphabet
   Examples:
     - example1
@@ -29832,8 +29673,6 @@
 - Id: Österreich
   Level: M
   Meaning: Austria
-  Cambridge: ''
-  Wiki: ''
   Examples:
     - example1
 
@@ -29841,7 +29680,6 @@
   Level: M
   Form: '-'
   Meaning: Austrian (man)
-  Cambridge: ''
   Wiki: Austrian (person)
   Examples:
     - example1
@@ -29850,7 +29688,6 @@
   Level: M
   Form: -nen
   Meaning: Austrian (woman)
-  Cambridge: ''
   Wiki: a female Austrian
   Examples:
     - example1
@@ -29858,7 +29695,6 @@
 - Id: österreichisch
   Level: M
   Meaning: Austrian (adj.)
-  Cambridge: ''
   Wiki: Austrian
   Examples:
     - example1
@@ -29867,7 +29703,6 @@
   Level: M
   Form: -en
   Meaning: Switzerland
-  Cambridge: ''
   Examples:
     - Die Hauptstadt der Schweiz ist de facto die Bundesstadt Bern.
 
@@ -29878,7 +29713,6 @@
     Id: die Schweizerin
     Form: -nen
   Meaning: Swiss person
-  Cambridge: ''
   Wiki: Swiss person; Swiss Guard; milker, person who milks cows; sacristan; doorman; of Switzerland
   Examples:
     - Viktor Giacobbo ist ein Schweizer.
@@ -29887,7 +29721,6 @@
   Level: M
   Synonym: Schweizer
   Meaning: Swiss (adj)
-  Cambridge: ''
   Wiki: Swiss
   Examples:
     - Die bekanntesten schweizerischen Produkte sind Käse, Schokolade und Uhren.
@@ -29895,8 +29728,6 @@
 - Id: die Türkei
   Level: M
   Meaning: Turkey
-  Cambridge: ''
-  Wiki: ''
   Examples:
     - Ankara ist die Hauptstadt der Türkei.
 
@@ -29907,7 +29738,6 @@
     Id: die Türkin
     Form: -nen
   Meaning: Turk person
-  Cambridge: ''
   Wiki: a Turk; a Turk; an Ottoman; a Muslim, sometimes as an adversary of Christians
   Examples:
     - Mein Kollege ist Türke.
@@ -29915,7 +29745,6 @@
 - Id: türkisch
   Level: M
   Meaning: Turkish (adj)
-  Cambridge: ''
   Wiki: Turkish, Turkic
   Examples:
     - Er brachte seine türkische Ehefrau mit.
@@ -29923,7 +29752,6 @@
 - Id: das Türkisch
   Level: M
   Meaning: Turkish (language)
-  Cambridge: ''
   Wiki: Turkish; Turkic
   Examples:
     - Ich spreche Türkisch.
@@ -29932,7 +29760,6 @@
   Level: M
   Form: (Sg.)
   Meaning: Ukraine
-  Cambridge: ''
   Examples:
     - example1
 
@@ -29940,7 +29767,6 @@
   Level: M
   Form: '-'
   Meaning: Ukrainian (man)
-  Cambridge: ''
   Wiki: Ukrainian (ethnic Ukrainian or citizen of Ukraine)
   Examples:
     - example1
@@ -29949,7 +29775,6 @@
   Level: M
   Form: -nen
   Meaning: Ukrainian (woman)
-  Cambridge: ''
   Wiki: Ukrainian (female) (ethnic Ukrainian or citizen of Ukraine)
   Examples:
     - example1
@@ -29957,7 +29782,6 @@
 - Id: ukrainisch
   Level: M
   Meaning: Ukrainian (adj.)
-  Cambridge: ''
   Wiki: of Ukraine; Ukrainian
   Examples:
     - example1
@@ -29965,7 +29789,6 @@
 - Id: das Ukrainisch
   Level: M
   Meaning: Ukrainian (language)
-  Cambridge: ''
   Wiki: Ukrainian (language)
   Examples:
     - example1
@@ -29973,7 +29796,6 @@
 - Id: politische Begriffe
   Level: M
   Meaning: political terms (no article)
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30019,7 +29841,6 @@
 - Id: Bundesrepublik Deutschland
   Level: M
   Meaning: German Federal Republic
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30061,7 +29882,6 @@
 - Id: die Europäische Union
   Level: M
   Meaning: European Union
-  Cambridge: ''
   Wiki: European Union
   Examples:
     - example1
@@ -30069,7 +29889,6 @@
 - Id: das Europäische Parlament
   Level: M
   Meaning: european parliament
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30163,6 +29982,7 @@
 - Id: das Tiere
   Level: M
   Meaning: animal
+  Wiki: (archaic)
   Examples:
     - example1
 
@@ -30375,77 +30195,66 @@
 - Id: ein Meter
   Level: M
   Meaning: 1 metre
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Zentimeter
   Level: M
   Meaning: 1 centimeter
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Meter fünfzehn
   Level: M
   Meaning: 1,15 m
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: zweihundert Kilometer
   Level: M
   Meaning: 200 km
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Quadratmeter
   Level: M
   Meaning: 1 square meter
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Grad unter Null
   Level: M
   Meaning: minus one degree (u-)
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: minus ein Grad
   Level: M
   Meaning: minus one degree (m-)
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: vier Grad über Null
   Level: M
   Meaning: four degrees centigrade (ü-)
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: plus vier Grad
   Level: M
   Meaning: four degrees centigrade (p-)
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Prozent
   Level: M
   Meaning: one percent
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Liter
   Level: M
   Meaning: one litre
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30461,28 +30270,24 @@
 - Id: ein Gramm
   Level: M
   Meaning: one gramme
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein halbes Kilo
   Level: M
   Meaning: a half kilo
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Pfund
   Level: M
   Meaning: a pound
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Kilogramm
   Level: M
   Meaning: one kilogram
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30593,7 +30398,6 @@
 - Id: einundzwanzig
   Level: M
   Meaning: 21
-  Cambridge: ''
   Wiki: twenty-one
   Examples:
     - example1
@@ -30617,7 +30421,6 @@
 - Id: einhundertundeins
   Level: M
   Meaning: 101
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30640,14 +30443,12 @@
 - Id: eine Million
   Level: M
   Meaning: 1 000 000
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: eine Milliarde
   Level: M
   Meaning: 1 000 000 000
-  Cambridge: ''
   Examples:
     - example1
 
@@ -30686,7 +30487,6 @@
 - Id: erstens
   Level: M
   Meaning: firstly
-  Cambridge: ''
   Wiki: first, firstly, in the first place
   Examples:
     - 'Erstens: Beruhigen Sie sich bitte.'
@@ -30694,7 +30494,6 @@
 - Id: zweitens
   Level: M
   Meaning: secondly
-  Cambridge: ''
   Wiki: secondly
   Examples:
     - Zweitens weise ich Sie darauf hin, dass das Rauchen ausschließlich an diesem Ort gestattet ist.
@@ -30702,7 +30501,6 @@
 - Id: drittens
   Level: M
   Meaning: thirdly
-  Cambridge: ''
   Wiki: thirdly
   Examples:
     - example1
@@ -30710,7 +30508,6 @@
 - Id: viertens
   Level: M
   Meaning: fourthly
-  Cambridge: ''
   Wiki: fourthly
   Examples:
     - example1
@@ -30726,7 +30523,6 @@
 - Id: dreimal
   Level: M
   Meaning: three times
-  Cambridge: ''
   Wiki: thrice, three times
   Examples:
     - example1
@@ -30766,56 +30562,48 @@
 - Id: Bruchzahlen
   Level: M
   Meaning: fractions
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein halb
   Level: M
   Meaning: a half
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Drittel
   Level: M
   Meaning: a third
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Viertel
   Level: M
   Meaning: a quarter
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: neunzehnhundertneunundneunzig
   Level: M
   Meaning: 1999
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: zweitausendundvier
   Level: M
   Meaning: 2004
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: heute ist der erste März
   Level: M
   Meaning: today is the first of March
-  Cambridge: ''
   Examples:
     - der erste März = der erste Dritte
 
 - Id: Berlin, zehnter April zweitausendundzwölf
   Level: M
   Meaning: Berlin, 10th April 2012
-  Cambridge: ''
   Examples:
     - zehnter April = zehnter Vierter
     - zweitausendundzwölf = zweitausendzwölf
@@ -30875,7 +30663,6 @@
   Level: M
   Form: -e
   Meaning: national holiday
-  Cambridge: ''
   Wiki: national day
   Examples:
     - example1
@@ -30937,7 +30724,6 @@
 - Id: die Monatsnamen
   Level: M
   Meaning: names of the months
-  Cambridge: ''
   Examples:
     - example1
 
@@ -31172,7 +30958,6 @@
 - Id: um Mitternacht
   Level: M
   Meaning: midnight
-  Cambridge: ''
   Examples:
     - example1
 
@@ -31188,70 +30973,60 @@
 - Id: null Uhr drei
   Level: M
   Meaning: 00:03
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: sieben Uhr fünfzehn
   Level: M
   Meaning: 07:15
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: dreizehn Uhr siebzehn
   Level: M
   Meaning: 13:17
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: vierundzwanzig Uhr
   Level: M
   Meaning: 24:00
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: ein Uhr
   Level: M
   Meaning: one o'clock
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: fünf Minuten vor eins
   Level: M
   Meaning: five to one
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: fünf Minuten nach eins
   Level: M
   Meaning: five past one
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: viertel vor zwei
   Level: M
   Meaning: quarter to two
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: viertel nach zwei
   Level: M
   Meaning: quarter past two
-  Cambridge: ''
   Examples:
     - example1
 
 - Id: halb drei
   Level: M
   Meaning: half past two
-  Cambridge: ''
   Examples:
     - example1
 
@@ -31291,7 +31066,6 @@
 - Id: am Wochenende
   Level: M
   Meaning: at the weekend
-  Cambridge: ''
   Examples:
     - Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.
 
@@ -31361,7 +31135,6 @@
 - Id: am Montag
   Level: M
   Meaning: on Monday
-  Cambridge: ''
   Examples:
     - example1
 
@@ -31420,7 +31193,6 @@
 - Id: Zeitangaben
   Level: M
   Meaning: units of time
-  Cambridge: ''
   Examples:
     - example1
 
@@ -31557,7 +31329,6 @@
 - Id: trennbar
   Level: K
   Meaning: separable
-  Cambridge: ''
   Wiki: separable
   Examples:
     - Bei den Champignons sind Hut und Stiel leicht voneinander trennbar.
@@ -31611,7 +31382,6 @@
   Level: K
   Form: '-'
   Meaning: chocolate cake
-  Cambridge: ''
   Wiki: chocolate cake
   Examples:
     - Zu deinem Geburtstag backe ich dir einen leckeren Schokoladenkuchen.
@@ -31628,7 +31398,6 @@
 - Id: die Kopiermaschine
   Level: K
   Meaning: copy machine
-  Cambridge: ''
   Examples:
     - Ich habe eine Kopiermaschine.
 
@@ -31636,7 +31405,6 @@
   Level: K
   Form: -s
   Meaning: mobile phone (CH)
-  Cambridge: ''
   Wiki: mobile phone, cellphone
   Examples:
     - Hast du das Natel dabei?
@@ -31645,7 +31413,6 @@
   Level: K
   Form: ö-e
   Meaning: flowerpot
-  Cambridge: ''
   Wiki: flowerpot
   Examples:
     - Wenn Pflanzen zu groß werden, muss man sie in einen größeren Blumentopf umpflanzen.
@@ -31654,7 +31421,6 @@
   Level: K
   Form: -n
   Meaning: business trip
-  Cambridge: ''
   Wiki: A business trip or other journey in an official or similar non-private capacity
   Examples:
     - Seine Dienstreise ging diesmal nach München.
@@ -31754,7 +31520,6 @@
   Level: K
   Form: ä-e
   Meaning: cupboard, kitchen cabinet
-  Cambridge: ''
   Wiki: cupboard, kitchen cabinet
   Examples:
     - Es gibt doch noch einen Küchenschrank.
@@ -31798,7 +31563,6 @@
 - Id: die Gleiche
   Level: K
   Meaning: equality
-  Cambridge: ''
   Wiki: 'equality; evenness; topping out; : : female equal (female who is equal to another person)'
   Examples:
     - Ich bringe etwas in die Gleiche.
@@ -31807,7 +31571,6 @@
   Level: K
   Form: '-'
   Meaning: trademark
-  Cambridge: ''
   Wiki: trademark
   Examples:
     - Herrn Gleismann-Kubitzki war nicht bekannt, dass das Wort Regionalexpress ein Markenzeichen ist.
@@ -31917,7 +31680,6 @@
   Level: K
   Form: ä-e
   Meaning: hometown
-  Cambridge: ''
   Wiki: hometown
   Examples:
     - Meine Heimatstadt Duisburg hat Geschichte geschrieben.
@@ -32009,7 +31771,6 @@
 - Id: das Solarauto
   Level: K
   Meaning: solar car
-  Cambridge: ''
   Examples:
     - Nach 37 Stunden reiner Fahrzeit erreichte das niederländische Solarauto "Nuna 9" als erstes das Ziel.
 
@@ -32053,7 +31814,6 @@
   Level: K
   Form: (Sg.)
   Meaning: journalism
-  Cambridge: ''
   Examples:
     - Im Frühjahr 1959 haben erstmalig über 150 Studierende das Hochschulfernstudium der Journalistik beendet.
 
@@ -32090,7 +31850,6 @@
   Level: K
   Form: gestaltet, gestaltete, hat gestaltet
   Meaning: to design
-  Cambridge: ''
   Wiki: to form, to shape, to create; to organise, to structure, to arrange
   Examples:
     - Wie sollen wir unser Fest gestalten?
@@ -32099,7 +31858,6 @@
   Level: K
   Form: -e
   Meaning: umbrella
-  Cambridge: ''
   Wiki: umbrella
   Examples:
     - Einen Regenschirm hat man im Herbst gerne dabei.
@@ -32108,7 +31866,6 @@
   Level: K
   Form: ü-er
   Meaning: textbook
-  Cambridge: ''
   Wiki: textbook
   Examples:
     - Lehrbücher sind die Schulbücher und die Einführungen in Wissenschaften.
@@ -32117,7 +31874,6 @@
   Level: K
   Form: -n
   Meaning: coffee machine
-  Cambridge: ''
   Wiki: coffeemaker
   Examples:
     - Aus den Millionen von Büroküchen auf der ganzen Welt ist die Kaffeemaschine nicht mehr wegzudenken.
@@ -32126,7 +31882,6 @@
   Level: K
   Form: '-'
   Meaning: room key
-  Cambridge: ''
   Wiki: room key
   Examples:
     - Ob er mit dem neuen Zimmer zufrieden sei, fragte Signora Morelli, als sie ihm den Zimmerschlüssel und die erste Post von Frau Hartwig gab.
@@ -32135,7 +31890,6 @@
   Level: K
   Form: '-'
   Meaning: car key
-  Cambridge: ''
   Wiki: car key, ignition key
   Examples:
     - Vergiss die Autoschlüssel nicht!
@@ -32144,7 +31898,6 @@
   Level: K
   Form: -e
   Meaning: sun umbrella
-  Cambridge: ''
   Wiki: A parasol, type of umbrella used for protection against the sun
   Examples:
     - Sie saßen im Garten unter einem bunten Sonnenschirm.
@@ -32180,7 +31933,6 @@
   Level: K
   Form: verheiratet, verheiratete, hat verheiratet
   Meaning: to wed
-  Cambridge: ''
   Wiki: to wed; to marry; to marry off; to find a spouse for; to marry; to get married
   Examples:
     - Der Kapitän verheiratete die beiden miteinander.
@@ -32198,7 +31950,6 @@
   Level: K
   Form: '-'
   Meaning: car number plate
-  Cambridge: ''
   Wiki: license plate, number plate
   Examples:
     - Die beiden Männer waren in einem Polo mit gestohlenen Autokennzeichen unterwegs.
@@ -32207,7 +31958,6 @@
   Level: K
   Form: -e
   Meaning: romance novel
-  Cambridge: ''
   Wiki: romance novel
   Examples:
     - Dieses Theaterstück basiert auf einem Liebesroman.
@@ -32234,7 +31984,6 @@
   Level: K
   Form: ä-e
   Meaning: orange juice
-  Cambridge: ''
   Wiki: orange juice
   Examples:
     - Orangensaft ist nicht gut für mich.
@@ -32270,7 +32019,6 @@
   Level: K
   Form: -s
   Meaning: iced tea
-  Cambridge: ''
   Wiki: iced tea, ice tea
   Examples:
     - Herr Ober, bringen Sie mir bitte einen Eistee.
@@ -32279,7 +32027,6 @@
   Level: K
   Form: '-'
   Meaning: pilsener, a particular style of lager beer
-  Cambridge: ''
   Wiki: A particular style of lager beer, originally from the city of Pilsen.
   Examples:
     - example
@@ -32308,7 +32055,6 @@
   Level: 20
   Form: -en
   Meaning: aggressor
-  Cambridge: ''
   Wiki: aggressor
   Examples:
     - Zwei von drei würden gegen einen Aggressor kämpfen.
@@ -32327,7 +32073,6 @@
   Level: 20
   Form: -n
   Meaning: no-fly zone
-  Cambridge: ''
   Wiki: no-fly zone
   Examples:
     - Deshalb fordert Selenski vehement Flugverbotszone.
