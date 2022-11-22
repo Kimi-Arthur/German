@@ -1966,7 +1966,7 @@
 
 - Id: aus
   Level: A1
-  Meaning: out, out of, from
+  Meaning: out of, from
   Cambridge: used to express the starting point of a movement, out of, from; used to express the origin of sth/sb, from; used to express the material sth is made of, made of; used to express a development, from; used to express the reason for sth, for, out of; used to express the chronological beginning of sth, from; off; out; finished; out (of play)
   Wiki: out; over; finished; done; up; off; out of; from; from; of; made of; out of; for; out of
   Examples:
@@ -1982,6 +1982,12 @@
     - Wir haben aus Liebe geheiratet.
     - Wann ist der Kurs aus?
     - Ich seh‘ nichts! Das Licht ist aus!
+
+- Id: aus sein
+  Level: A2
+  Meaning: off, out
+  Examples:
+    - Das Licht ist schon aus.
 
 - Id: die Ausbildung
   Level: A2
@@ -20981,7 +20987,7 @@
 - Id: das Schlafzimmer
   Level: A2
   Form: '-'
-  Meaning: bedroom (bed-room), bedchamber (bed-chamber)
+  Meaning: bedroom
   Cambridge: bedroom
   Wiki: bedroom (bed-room), bedchamber (bed-chamber)
   Examples:
@@ -21015,7 +21021,7 @@
 
 - Id: schlecht
   Level: A1
-  Meaning: bad
+  Meaning: bad (8)
   Cambridge: bad, poor; bad; no good; bad, wicked; badly, poorly; badly; with difficulty; hardly
   Wiki: bad, evil, wicked; bad; bad; bad; bad, off; dirty; badly, poorly, not well; with difficulty, not easily
   Examples:
@@ -21067,21 +21073,22 @@
     - example1
 
 - Id: schlimm
-  Level: B1
-  Meaning: bad
+  Level: A2
+  Meaning: bad (7)
   Cambridge: bad, nasty; bad, naughty; terrible, awful; bad, sore
   Wiki: bad, terrible, serious , dire, horrible, awful; hurting, ill, infected; badly, severely
   Examples:
-    - example1
+    - Kein Problem, das ist nicht so schlimm.
 
 - Id: das Schloss
-  Level: B1
+  Level: A2
   Form: ö-er
   Meaning: lock, padlock, castle
   Cambridge: lock; castle, palace
   Wiki: lock; castle
   Examples:
-    - example1
+    - Am Wochenende besichtigen wir Schloss Neuschwanstein.
+    - An unserer Tür ist das Schloss kaputt.
 
 - Id: der Schluss
   Level: A1
@@ -21090,8 +21097,9 @@
   Cambridge: end; ending; conclusion
   Wiki: end, ending, conclusion, finish; logical conclusion
   Examples:
-    - Ich muss jetzt Schluss machen.
+    - Ich muss jetzt Schluss machen. Bis bald!
     - Zum Schluss gibt er uns allen die Hand.
+    - Zum Schluss nochmals herzlichen Dank.
 
 - Id: der Schlüssel
   Level: A1
@@ -21172,12 +21180,12 @@
     - example1
 
 - Id: schmutzig
-  Level: B1
+  Level: A2
   Meaning: dirty
   Cambridge: dirty; shady, dirty
   Wiki: dirty, filthy, grimy; shameless, obscene; fatty, fat
   Examples:
-    - example1
+    - Das Handtuch ist schmutzig.
 
 - Id: verschmutzen
   Level: B1
@@ -21189,30 +21197,32 @@
     - example1
 
 - Id: der Schnee
-  Level: B1
+  Level: A2
   Form: (Sg.)
   Meaning: snow
   Cambridge: snow; stiffly beaten egg white
   Wiki: snow; snow (static on TV set etc.); cocaine
   Examples:
-    - example1
+    - In den Bergen liegt viel Schnee.
 
 - Id: schneien
-  Level: B1
+  Level: A2
   Form: schneit, schneite, hat geschneit
   Meaning: to snow
   Wiki: to snow; to fall in large quantities like snow; to show up or turn up unannounced
   Examples:
-    - example1
+    - Morgen schneit es.
 
 - Id: (sich) schneiden
-  Level: B1
+  Level: A2
   Form: schneidet, schnitt, hat geschnitten
   Meaning: to cut
   Cambridge: to cut, to chop, to slice; to cut, to trim; to cut; to intersect with, to cross; to edit; to be biting
   Wiki: to cut; to carve; to slice; to pare; to clip; to mow; to prune; to trim; to cut (someone) off; to cut in on (someone); to edit; to intersect; to cut (oneself); to delude (oneself); to become mistaken; to avoid somebody (to cut someone)
   Examples:
-    - example1
+    - Das Messer schneidet nicht gut.
+    - Wer schneidet dir die Haare?
+    - Aua! Ich habe mich geschnitten!
 
 - Id: schnell
   Level: A1
@@ -21221,6 +21231,7 @@
   Wiki: quick, fast; quickly; again; quick;
   Examples:
     - Er fährt schnell.
+    - Warum fährst du so schnell?
 
 - Id: das Schnitzel
   Level: B1
@@ -21292,6 +21303,7 @@
   Wiki: cabinet , or :; cupboard; wardrobe, closet; bookcase; locker
   Examples:
     - Die Gläser stehen im Schrank.
+    - Legst du bitte die Handtücher in den Schrank?
 
 - Id: der Schreck
   Level: B1
@@ -21303,12 +21315,13 @@
     - example1
 
 - Id: schrecklich
-  Level: B1
+  Level: A2
   Meaning: terrible, dreadful
   Cambridge: terrible; terrible, dreadful; terribly
   Wiki: awful, terrible, horrible; awfully, terribly
   Examples:
-    - example1
+    - Ich finde ihren Rock schrecklich. Er sieht furchtbar aus!
+    - Ich finde den Film schrecklick. Er macht mir Angst.
 
 - Id: schreiben
   Level: A1
@@ -21359,12 +21372,13 @@
     - example1
 
 - Id: schriftlich
-  Level: B1
+  Level: A2
   Meaning: written
   Cambridge: written; in writing
   Wiki: written
   Examples:
-    - example1
+    - Sie müssen sich schriftlich anmelden.
+    - Die schriftliche Prüfung dauert 70 Minuten.
 
 - Id: der Schriftsteller
   Level: B1
@@ -21392,6 +21406,7 @@
   Wiki: shoe
   Examples:
     - Zieh die Schuhe aus!
+    - Die neuen Schuhe sind mir zu eng. Sie drücken.
 
 - Id: die Schuld
   Level: B1
@@ -21504,20 +21519,22 @@
     - example1
 
 - Id: schwach
-  Level: B1
+  Level: A2
   Meaning: weak
   Cambridge: weak; weak, poor; weak(-willed); poor; faint, weak, light; low, weak; weakly; poorly
   Wiki: weak, lacking in strength; weak
   Examples:
-    - example1
+    - Er ist krank und schwach.
+    - Ich fühle mich sehr schwach.
+    - Die Tabletten sind zu schwach. Sie helfen nicht.
 
 - Id: schwanger
-  Level: B1
+  Level: A2
   Meaning: pregnant
   Cambridge: pregnant; full
   Wiki: pregnant (of humans); pregnant, gravid (of animals); full of, laden with
   Examples:
-    - example1
+    - Lena ist schwanger. Sie bekommt im Juli ein Kind.
 
 - Id: die Schwangerschaft
   Level: B1
@@ -21537,6 +21554,16 @@
   Examples:
     - example1
 
+- Id: das Schwein
+  Level: A2
+  Form: -e
+  Meaning: pig
+  Cambridge: pig; pork; luck; pig, swine
+  Wiki: swine, pig.; A dirty, or contemptible person.; luck, good fortune
+  Examples:
+    - Hast du die Schweine schon gefüttert?
+    - Ich esse kein Schweinefleisch.
+
 - Id: schwer
   Level: A1
   Meaning: heavy
@@ -21545,6 +21572,7 @@
   Examples:
     - Ist Ihr Gepäck sehr schwer?
     - Das ist eine schwere Arbeit.
+    - Wie schwer ist das Paket?
 
 - Id: die Schwester
   Level: A1
@@ -21616,6 +21644,8 @@
   Wiki: lake; sea, ocean; sea, sea condition, swell
   Examples:
     - Komm, wir fahren zum Starnberger See.
+    - Morgen fahren wir mal an einen See schwimmen.
+    - Komm, wir fahren an den Bodensee.
 
 - Id: die See
   Level: A2
@@ -21624,7 +21654,8 @@
   Cambridge: lake; sea; huge wave
   Wiki: lake; sea, ocean; sea, sea condition, swell
   Examples:
-    - example1
+    - Die See ist heute ruhig.
+    - Wir machen Urlaub an der Nordsee.
 
 - Id: sehen
   Level: A1
@@ -21663,15 +21694,16 @@
   Examples:
     - Danke sehr!
     - Das ist sehr schwer.
+    - Das Wetter ist heute sehr schön.
 
 - Id: die Seife
-  Level: B1
+  Level: A2
   Form: -n
   Meaning: soap
   Cambridge: soap
   Wiki: soap; a piece of soap; a particular sort of soap
   Examples:
-    - example1
+    - Hier gibt es keine Seife.
 
 - Id: sein
   Level: A1
@@ -21829,13 +21861,14 @@
     - example1
 
 - Id: die Sendung
-  Level: B1
+  Level: A2
   Form: -en
-  Meaning: consignment, programme, transmission
+  Meaning: consignment, program, transmission
   Cambridge: program; letter, parcel; sending; mission
   Wiki: delivery; program; transmission, broadcasting; motivation; mission
   Examples:
-    - example1
+    - Welche Sendungen schaust du gern an? – Ich mag Sportsendungen.
+    - Diese Sendung ist nicht für Jugendliche unter 18 Jahren.
 
 - Id: die Senioren
   Level: B1
@@ -21861,13 +21894,14 @@
     - example1
 
 - Id: der Service
-  Level: B1
+  Level: A2
   Form: -s
   Meaning: service
   Cambridge: dinner/coffee/tea service; service; (customer) service
   Wiki: service (e.g. in a restaurant); service; service, set
   Examples:
-    - example1
+    - Ich bin mit dem Service in der Werkstatt sehr zufrieden.
+    - Rufst du beim Pizza-Service an?
 
 - Id: der Sessel
   Level: B1
@@ -21889,13 +21923,13 @@
     - example1
 
 - Id: (sich) setzen
-  Level: B1
+  Level: A2
   Form: setzt, setzte, hat gesetzt
   Meaning: to sit down
   Cambridge: to sit (down); to put, to sit; to put, to place; to write, to put; to plant; to bet; to settle; to set; to (type)set; to switch on; to put, to set; to jump; to go; to take
   Wiki: to set; to put; to sit down; to settle
   Examples:
-    - example1
+    - Setz dich doch!
 
 - Id: die Show
   Level: B1
@@ -21907,12 +21941,14 @@
     - Die Show von Disney on Ice war wirklich wunderschön.
 
 - Id: sicher
-  Level: B1
-  Meaning: sure
+  Level: A2
+  Meaning: certain, secure
   Cambridge: safe, secure; reliable; certain; certain, sure; (self-)assured, (self-)confident; safely, securely; certainly, for sure; surely; of course; (self-)assuredly, (self-)confidently
   Wiki: safe, secure; sure, certain; safely; surely, certainly
   Examples:
-    - example1
+    - Dieses Auto ist besonders sicher.
+    - Ich bin ganz sicher, dass er kommt.
+    - Er ist sicher gleich da.
 
 - Id: die Sicherheit
   Level: B1
@@ -21977,13 +22013,13 @@
     - example1
 
 - Id: singen
-  Level: B1
+  Level: A2
   Form: singt, sang, hat gesungen
   Meaning: to sing
   Cambridge: to sing
   Wiki: to sing
   Examples:
-    - example1
+    - Er singt gern.
 
 - Id: sinken
   Level: B1
@@ -22020,13 +22056,14 @@
     - Es funktioniert einfach nicht. Es ist sinnvoll, es noch einmal zu versuchen.
 
 - Id: die Situation
-  Level: B1
+  Level: A2
   Form: -en
   Meaning: situation
   Cambridge: situation
   Wiki: situation, circumstances; setting (background, atmosphere)
   Examples:
-    - example1
+    - Ich bin in einer schwierigen Situation. Ich weiß nicht, was ich tun soll.
+    - Lesen Sie die Anzeigen und die Aufgaben 11-15. Welche Anzeige passt zu welcher Situation?
 
 - Id: sitzen
   Level: A1
@@ -22147,6 +22184,7 @@
   Wiki: immediately, at once
   Examples:
     - Bitte antworten Sie sofort.
+    - Sie können sich ab sofort für den Kurs anmelden.
 
 - Id: die Software
   Level: B1
@@ -22165,12 +22203,13 @@
     - example1
 
 - Id: sogar
-  Level: B1
+  Level: A2
   Meaning: even
   Cambridge: no less; even
   Wiki: (usable with nouns, verbs or modifiers) even, actually, in fact
   Examples:
-    - example1
+    - Heute ist es sehr kalt. In den Bergen schneit es sogar.
+    - Zu meiner Hochzeit kommen viele Gäste. Sogar meine Tante aus Kanada kommt.
 
 - Id: der Sohn
   Level: A1
@@ -22255,7 +22294,7 @@
     - Ich habe zu lange in der Sonne gelegen.
 
 - Id: sonnig
-  Level: B1
+  Level: A2
   Meaning: sunny
   Cambridge: sunny
   Wiki: sunny
@@ -22365,13 +22404,13 @@
     - Das Spiel war spannend bis zur letzten Minute.
 
 - Id: sparen
-  Level: B1
+  Level: A2
   Form: spart, sparte, hat gespart
   Meaning: to save
   Cambridge: to save
   Wiki: to save up; to accumulate, to put aside (for a specific purpose); to save, to conserve (for example energy); to save, be able to save (as unnecessary or useless), keep something to oneself; to save, to spare (from effort, an unpleasant or unnecessary task)
   Examples:
-    - example1
+    - Ein neues Auto ist sehr teuer. Ich muss sparen.
 
 - Id: sparsam
   Level: B1
@@ -22382,13 +22421,15 @@
     - example1
 
 - Id: der Spaß
-  Level: B1
+  Level: A2
   Form: ä-e
   Meaning: fun
   Cambridge: joke; fun
   Wiki: fun; joke
   Examples:
-    - example1
+    - Meine Arbeit macht mir Spaß.
+    - Ich will nicht aufräumen. Das macht mir keinen Spaß.
+    - Viel Spaß!
 
 - Id: spät
   Level: A1
@@ -22430,22 +22471,22 @@
     - Wir gehen sonntags immer spazieren.
 
 - Id: der Spaziergang
-  Level: B1
+  Level: A2
   Form: ä-e
   Meaning: stroll
   Cambridge: walk, stroll
   Wiki: walk; walk in the park
   Examples:
-    - example1
+    - Abends mache ich immer einen Spaziergang.
 
 - Id: speichern
-  Level: B1
+  Level: A2
   Form: speichert, speicherte, hat gespeichert
   Meaning: to save, store (data)
   Cambridge: to store; to save
   Wiki: to store, save; to save
   Examples:
-    - example1
+    - Sie müssen die Datei speichern.
 
 - Id: Speise
   Level: B1
@@ -22609,6 +22650,11 @@
     - Tom ist sehr sportlich.
     - Ich bin nicht sehr sportlich.
     - Ich mag bequeme und sportliche Kleidung.
+
+- Id: der Sportplatz
+  Level: A2
+  Examples:
+    - Das Fußballtraining ist um 17 Uhr auf dem Sportplatz.
 
 - Id: der Spot
   Level: B1
@@ -30147,15 +30193,6 @@
   Wiki: turtle, tortoise
   Examples:
     - example1
-
-- Id: das Schwein
-  Level: M
-  Form: -e
-  Meaning: pig
-  Cambridge: pig; pork; luck; pig, swine
-  Wiki: swine, pig.; A dirty, or contemptible person.; luck, good fortune
-  Examples:
-    - Hast du die Schweine schon gefüttert?
 
 - Id: der Vogel
   Level: M
