@@ -22721,13 +22721,13 @@
     - Die Bundeskanzlerin spricht heute Abend im Fernsehen.
 
 - Id: die Sprechstunde
-  Level: B1
+  Level: A2
   Form: -n
-  Meaning: consultation (hour), surgery
+  Meaning: consultation (hour)
   Cambridge: consultation; consultation hours
   Wiki: office hours; consultation-hour, surgery
   Examples:
-    - example1
+    - Frau Doktor Weiß hat von 9:00 bis 12:30 Uhr Sprechstunde.
 
 - Id: springen
   Level: B1
@@ -22840,20 +22840,22 @@
     - example1
 
 - Id: der Star
-  Level: B1
-  Form: -e
+  Level: A2
+  Form: -e / -s
   Meaning: actor
   Cambridge: star; starling; cataract
   Wiki: starling; cataract; celebrity, star
   Examples:
-    - example1
+    - Diese Sängerin ist ein Star in Deutschland.
 
 - Id: stark
-  Level: B1
+  Level: A2
   Meaning: strong
   Cambridge: strong, powerful; strong; thick, stout; well-built; powerful; intense, strong; big, sizeable; thick; heavy, hearty; awesome; strong, irregular; very, greatly
   Examples:
-    - example1
+    - Ich habe starke Kopfschmerzen.
+    - Es regnet stark.
+    - Der Kaffee ist sehr stark.
 
 - Id: starten
   Level: B1
