@@ -20966,6 +20966,8 @@
   Wiki: shield, buckler; shield; sign, plate
   Examples:
     - Haben Sie nicht das Schild gesehen?
+    -  Kannst du lesen, was dort auf dem Schild steht?
+    - Machen Sie bitte das Schild ab? Der Pullover ist ein Geschenk.
 
 - Id: schimpfen
   Level: A2
@@ -20976,6 +20978,7 @@
   Examples:
     - Warum schimpfst du denn so laut? - Ich ärgere mich über mein Auto.
     - Alle schimpfen über/auf das Wetter.
+    - Der Arzt hat mit mir geschimpft, weil ich zu wenig Sport mache.
 
 - Id: der Schinken
   Level: A1
@@ -20985,6 +20988,7 @@
   Wiki: ham, pork from the hindquarter; hams, buttocks; old tome or painting
   Examples:
     - Ich möchte gern ein Schinkenbrot.
+    - Bitte, ein Brötchen mit Schinken.
 
 - Id: der Schirm
   Level: A2
@@ -20994,15 +20998,7 @@
   Wiki: screen (); umbrella
   Examples:
     - Nimm den Schirm mit, es regnet.
-
-- Id: der Schlaf
-  Level: B1
-  Form: (Sg.)
-  Meaning: sleep
-  Cambridge: sleep
-  Wiki: sleep; temple
-  Examples:
-    - example1
+    - Es regnet. Hast du einen Schirm dabei?
 
 - Id: schlafen
   Level: A1
@@ -21015,6 +21011,16 @@
     - Haben Sie gut geschlafen?
     - Gute Nacht! Schlaf gut und träum süß!
     - Wenn Sie mal nach München kommen, können Sie bei uns schlafen.
+
+- Id: der Schlaf
+  Level: B1
+  Form: (Sg.)
+  Meaning: sleep
+  Cambridge: sleep
+  Wiki: sleep; temple
+  Examples:
+    - Das Kind macht jeden Tag nach dem Mittagessen einen kurzen Schlaf.
+    - Genügend Schlaf ist wichtig für die Gesundheit.
 
 - Id: das Schlafzimmer
   Level: A2
@@ -21032,7 +21038,16 @@
   Cambridge: to hit, to strike, to beat; to hit; to flap; to hit, to bang; to beat, to whip; to beat; to do; to take, to capture; to fell; to strike
   Wiki: to beat; to hit; to knock; to strike; to punch; to hammer; to pound; to beat; to win against; to defeat; to beat; to strike repeatedly; to pound; to beat; to whip; to mix food in a rapid aerating fashion; to chime; to fight
   Examples:
-    - example1
+    - Wer hat den Weltmeister geschlagen?
+    - Ich muss einen Nagel in die Wand schlagen. Wo ist der Hammer?
+    - Das Herz schlug mir bis zum Hals.
+
+- Id: das Schlagobers
+  Level: B1
+  Synonym: (A) = (D) Sahne = (A) Rahm
+  Meaning: cream (-o-)
+  Examples:
+    - Ich hätte gern ein Stück Torte mit Schlagobers.
 
 - Id: die Schlange
   Level: B1
@@ -21041,7 +21056,7 @@
   Cambridge: snake; line; viper
   Wiki: snake; line (of people waiting), queue; penis; a treacherous woman
   Examples:
-    - example1
+    - Auf der Post gibt es immer eine lange (Warte-)Schlange.
 
 - Id: schlank
   Level: B1
@@ -21049,7 +21064,7 @@
   Cambridge: slim, slender
   Wiki: slim, svelte
   Examples:
-    - example1
+    - In diesem Kleid siehst du sehr schlank aus.
 
 - Id: schlecht
   Level: A1
