@@ -20966,7 +20966,7 @@
   Wiki: shield, buckler; shield; sign, plate
   Examples:
     - Haben Sie nicht das Schild gesehen?
-    -  Kannst du lesen, was dort auf dem Schild steht?
+    - Kannst du lesen, was dort auf dem Schild steht?
     - Machen Sie bitte das Schild ab? Der Pullover ist ein Geschenk.
 
 - Id: schimpfen
@@ -21044,8 +21044,10 @@
 
 - Id: das Schlagobers
   Level: B1
+  Form: (Sg.)
   Synonym: (A) = (D) Sahne = (A) Rahm
   Meaning: cream (-o-)
+  Wiki: whipped cream
   Examples:
     - Ich hätte gern ein Stück Torte mit Schlagobers.
 
