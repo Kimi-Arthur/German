@@ -21603,13 +21603,15 @@
   Examples:
     - Er ist krank und schwach.
     - Ich fühle mich sehr schwach.
-    -  Ich bin noch nicht gesund. Ich fühle mich noch sehr schwach.
+    - Ich bin noch nicht gesund. Ich fühle mich noch sehr schwach.
     - Die Tabletten sind zu schwach. Sie helfen nicht.
 
 - Id: das Schwammerl
   Level: B1
   Form: -n
   Synonym: (A) = Pilz
+  Meaning: mushroom
+  Wiki: mushroom; mushroom
   Examples:
     - Haben Sie frische Schwammerln?
 
@@ -21676,19 +21678,28 @@
 
 - Id: die Schwiegereltern
   Level: B1
-  Meaning: parents in law
+  Form: (Pl.)
+  Meaning: parents-in-law
+  Wiki: parents-in-law
   Examples:
     - Wir besuchen morgen meine Schwiegereltern.
 
 - Id: der Schwiegervater
   Level: B1
+  Form: ä-
+  Meaning: father-in-law
+  Wiki: father-in-law
   Examples:
     - Mein Schwiegervater ist Lehrer.
 
 - Id: die Schwiegertochter
   Level: B1
+  Form: ö-
+  Meaning: daughter-in-law
+  Cambridge: daughter-in-law
+  Wiki: daughter-in-law
   Examples:
-    -  Ich verstehe mich gut mit meiner Schwiegertochter.
+    - Ich verstehe mich gut mit meiner Schwiegertochter.
 
 - Id: schwierig
   Level: A2
