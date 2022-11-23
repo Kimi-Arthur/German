@@ -10596,7 +10596,7 @@
   Form: -e
   Meaning: law
   Cambridge: law; law, rule
-  Wiki: law, legal act, bill, statute; a bill by the parliamentary legislator according to the procedures devised in the state’s constitution; any formally published legal norm, a regulation affecting anyone in an unlimited number of cases; a principle governing the phenomena in a particular field of science, a law of nature
+  Wiki: law, legal act, bill, statute; a bill by the parliamentary legislator according to the procedures devised in the state’s constitution; any formally published legal norm, a regulation affecting anyone in an unlimited number of cases; a principle governing the phenomena in a particular field of science, a law of nature
   Examples:
     - Das Parlament hat ein neues Gesetz beschlossen.
 
@@ -14095,7 +14095,7 @@
   Form: -en
   Meaning: communication
   Cambridge: communication
-  Wiki: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
+  Wiki: communication, exchange of signs; the imparting or sharing between of anything, communication; Holy Communion or the incarnation of Christ believed to take place therein, communication; connecting street, communication
   Examples:
     - Die Kommunikation zwischen den Abteilungen ist gut.
 
@@ -19492,7 +19492,7 @@
   Form: -en
   Meaning: receipt
   Cambridge: receipt
-  Wiki: an undersigned document issued to someone to enable him with evidence that his party has performed upon an obligation, receipt
+  Wiki: an undersigned document issued to someone to enable him with evidence that his party has performed upon an obligation, receipt
   Examples:
     - example1
 
@@ -19563,7 +19563,7 @@
   Level: B1
   Form: rasiert, rasierte, hat rasiert
   Meaning: to shave
-  Wiki: to shave; to discontinue in order to reduce spending etc., to cut back; to raze, demolish, utterly destroy; to be manifestly successful (against), to duppy, to kick (someone's) ass.
+  Wiki: to shave; to discontinue in order to reduce spending etc., to cut back; to raze, demolish, utterly destroy; to be manifestly successful (against), to duppy, to kick (someone's) ass.
   Examples:
     - example1
 
@@ -21070,7 +21070,7 @@
 
 - Id: schlecht
   Level: A1
-  Meaning: bad (8)
+  Meaning: bad (-t)
   Cambridge: bad, poor; bad; no good; bad, wicked; badly, poorly; badly; with difficulty; hardly
   Wiki: bad, evil, wicked; bad; bad; bad; bad, off; dirty; badly, poorly, not well; with difficulty, not easily
   Examples:
@@ -21119,15 +21119,18 @@
   Cambridge: finally, at last; in the end; after all
   Wiki: in the end, finally, eventually; after all (because of, for the reason)
   Examples:
-    - example1
+    - Ich musste lange warten. Aber schließlich habe ich den Job doch noch bekommen.
+    - Ich helfe dir natürlich. Du bist schließlich mein Freund.
 
 - Id: schlimm
   Level: A2
-  Meaning: bad (7)
+  Meaning: bad (-m)
   Cambridge: bad, nasty; bad, naughty; terrible, awful; bad, sore
   Wiki: bad, terrible, serious , dire, horrible, awful; hurting, ill, infected; badly, severely
   Examples:
     - Kein Problem, das ist nicht so schlimm.
+    - Die Wunde sieht schlimm aus.
+    - Keine Angst. Das ist nicht so schlimm.
 
 - Id: das Schloss
   Level: A2
@@ -21138,13 +21141,15 @@
   Examples:
     - Am Wochenende besichtigen wir Schloss Neuschwanstein.
     - An unserer Tür ist das Schloss kaputt.
+    - An unserer Wohnungstür ist das Schloss kaputt.
+    - Wir haben am Wochenende ein Schloss besichtigt
 
 - Id: der Schluss
   Level: A1
   Form: ü-e
   Meaning: end
   Cambridge: end; ending; conclusion
-  Wiki: end, ending, conclusion, finish; logical conclusion
+  Wiki: end, ending, conclusion, finish; logical conclusion
   Examples:
     - Ich muss jetzt Schluss machen. Bis bald!
     - Zum Schluss gibt er uns allen die Hand.
@@ -21167,7 +21172,7 @@
   Cambridge: narrow; thin; meager
   Wiki: narrow, slender; meagre, scarce
   Examples:
-    - example1
+    - Hier kannst du nicht parken. Die Straße ist zu schmal.
 
 - Id: schmecken
   Level: A1
@@ -21208,7 +21213,7 @@
   Cambridge: to make up
   Wiki: to put on (make-up, lipstick, etc.), to make one's face; to paint one's face
   Examples:
-    - example1
+    - Du bist heute sehr schön geschminkt.
 
 - Id: der Schmuck
   Level: B1
@@ -21217,7 +21222,7 @@
   Cambridge: jewelry; decoration, adornment
   Wiki: jewelry; ornament, decoration
   Examples:
-    - example1
+    - Dieser Schmuck ist von meiner Großmutter.
 
 - Id: der Schmutz
   Level: B1
@@ -21226,7 +21231,7 @@
   Cambridge: dirt
   Wiki: dirt; fat
   Examples:
-    - example1
+    - Du hast Schmutz an deinen Schuhen.
 
 - Id: schmutzig
   Level: A2
@@ -21235,15 +21240,16 @@
   Wiki: dirty, filthy, grimy; shameless, obscene; fatty, fat
   Examples:
     - Das Handtuch ist schmutzig.
+    - Leg bitte die schmutzige Wäsche in die Waschmaschine.
 
 - Id: verschmutzen
   Level: B1
   Form: verschmutzt, verschmutzte, hat verschmutzt
-  Meaning: to soil, pollute
+  Meaning: to soil, to pollute
   Cambridge: to get dirty; to pollute
   Wiki: to soil; to pollute
   Examples:
-    - example1
+    - Die Fabrik verschmutzt den Fluss.
 
 - Id: der Schnee
   Level: A2
@@ -21253,6 +21259,7 @@
   Wiki: snow; snow (static on TV set etc.); cocaine
   Examples:
     - In den Bergen liegt viel Schnee.
+    - Im Februar gibt es oft viel Schnee.
 
 - Id: schneien
   Level: A2
@@ -21261,6 +21268,7 @@
   Wiki: to snow; to fall in large quantities like snow; to show up or turn up unannounced
   Examples:
     - Morgen schneit es.
+    - Heute Nacht hat es geschneit.
 
 - Id: (sich) schneiden
   Level: A2
@@ -21272,6 +21280,8 @@
     - Das Messer schneidet nicht gut.
     - Wer schneidet dir die Haare?
     - Aua! Ich habe mich geschnitten!
+    - Hast du ein Pflaster? Ich habe mich geschnitten.
+    - Wann lässt du deine Haare schneiden?
 
 - Id: schnell
   Level: A1
@@ -21281,6 +21291,9 @@
   Examples:
     - Er fährt schnell.
     - Warum fährst du so schnell?
+    - Warum fährst du so schnell?
+    - Bitte sagen Sie mir so schnell wie möglich Bescheid.
+    - Ich bin gleich fertig, ich muss nur noch schnell telefonieren.
 
 - Id: das Schnitzel
   Level: B1
@@ -21298,7 +21311,7 @@
   Cambridge: (head) cold
   Wiki: nasal congestion; cold (illness)
   Examples:
-    - example1
+    - Ich habe Schnupfen. Welches Medikament empfehlen Sie?
 
 - Id: die Schokolade
   Level: A2
@@ -21361,7 +21374,7 @@
   Cambridge: fright, scare; bogey
   Wiki: fright
   Examples:
-    - example1
+    - Ich habe einen großen Schreck bekommen.
 
 - Id: schrecklich
   Level: A2
@@ -21371,6 +21384,10 @@
   Examples:
     - Ich finde ihren Rock schrecklich. Er sieht furchtbar aus!
     - Ich finde den Film schrecklick. Er macht mir Angst.
+    - Heute ist eine schreckliche Hitze.
+    - Das Restaurant war schrecklich voll.
+    - Ich finde dieses Kleid schrecklich.
+    - Auf der Autobahn ist ein schrecklicher Unfall passiert.
 
 - Id: schreiben
   Level: A1
@@ -21409,7 +21426,8 @@
   Cambridge: to scream; to shout, to yell
   Wiki: to shout; to yell; to cry; to scream; to howl
   Examples:
-    - example1
+    - Kinder, hört bitte auf, so laut zu schreien. – Ich muss arbeiten.
+    - Unser Baby hat heute Nacht viel geschrien.
 
 - Id: die Schrift
   Level: B1
@@ -21418,7 +21436,7 @@
   Cambridge: script, alphabet; writing; handwriting; font, typeface; text
   Wiki: font; writing; hand, handwriting; script (system of writing)
   Examples:
-    - example1
+    - Ich kann leider deine Schrift nicht lesen.
 
 - Id: schriftlich
   Level: A2
@@ -21428,15 +21446,20 @@
   Examples:
     - Sie müssen sich schriftlich anmelden.
     - Die schriftliche Prüfung dauert 70 Minuten.
+    - Wir brauchen von Ihnen eine schriftliche Bestätigung.
+    - Sie müssen sich schriftlich anmelden.
 
 - Id: der Schriftsteller
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Schriftstellerin
+    Form: -nen
   Meaning: author
   Cambridge: writer, author
   Wiki: author, writer
   Examples:
-    - example1
+    - Kennst du diese Schriftstellerin? Ich liebe ihre Bücher.
 
 - Id: der Schritt
   Level: B1
@@ -21445,7 +21468,8 @@
   Cambridge: step; gait, pace; walking pace; crotch
   Wiki: 'step, footstep; walk; crotch; a pace; any imaginary measure that is likened in its partitioning to the distance traveled by a leg moving forward in its single footsteps; step, move, stage; '
   Examples:
-    - example1
+    - Die Sprachschule ist nur ein paar Schritte von hier.
+    - Du musst der Anleitung Schritt für Schritt folgen.
 
 - Id: der Schuh
   Level: A1
@@ -21460,17 +21484,25 @@
 - Id: die Schuld
   Level: B1
   Form: -en
-  Meaning: fault (noun)
+  Meaning: fault
   Cambridge: guilt; fault; debt
   Wiki: debt; fault; guilt; blame, responsibility
   Examples:
-    - example1
+    - Es ist nicht meine Schuld, dass das nicht geklappt hat.
 
-- Id: schuld sein
+- Id: schuld
   Level: B1
-  Meaning: be to blame
+  Meaning: to be blame
   Examples:
-    - example1
+    - Ich hatte einen Unfall. Aber ich war nicht schuld.
+
+- Id: die Schulden
+  Level: B1
+  Form: (Pl.)
+  Meaning: debts
+  Wiki: debt
+  Examples:
+    - Jetzt habe ich alle meine Schulden bezahlt.
 
 - Id: schuldig
   Level: B1
@@ -21478,15 +21510,7 @@
   Cambridge: guilty
   Wiki: guilty (of), culpable; owing, indebted to
   Examples:
-    - example1
-
-- Id: die Schulden
-  Level: B1
-  Form: (Pl.)
-  Meaning: debt (pl)
-  Wiki: debt
-  Examples:
-    - example1
+    - Was bin ich Ihnen schuldig? – 50 Euro, bitte.
 
 - Id: die Schule
   Level: A1
@@ -21529,7 +21553,7 @@
   Cambridge: shoulder
   Wiki: shoulder
   Examples:
-    - example1
+    - Ich habe Schmerzen in der rechten Schulter.
 
 - Id: die Schüssel
   Level: B1
@@ -21538,7 +21562,7 @@
   Cambridge: bowl
   Wiki: bowl, platter; basin; (satellite) dish
   Examples:
-    - example1
+    - Gibst du mir bitte eine Schüssel für den Salat?
 
 - Id: schütteln
   Level: B1
@@ -21547,7 +21571,7 @@
   Cambridge: to shake
   Wiki: to shake
   Examples:
-    - example1
+    - Die Flasche muss man vor dem Öffnen schütteln.
 
 - Id: schützen
   Level: B1
@@ -21556,7 +21580,7 @@
   Cambridge: to protect
   Wiki: to defend; to protect; to shelter; to guard; to cover; to protect oneself
   Examples:
-    - example1
+    - Diese Impfung schützt vor Grippe.
 
 - Id: der Schutz
   Level: B1
@@ -22185,7 +22209,7 @@
   Level: A1
   Meaning: so, like this
   Cambridge: like this/that; as; so; without; about, around; according to; as, however; oh; oh, really
-  Wiki: so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; (colloquial) (quotative particle, somewhat similar to but also combinable with other verbs); that, which, who; (a discourse marker in the beginning of a sentence indicating a topic having been dealt with and another being tackled)
+  Wiki: so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; (colloquial) (quotative particle, somewhat similar to but also combinable with other verbs); that, which, who; (a discourse marker in the beginning of a sentence indicating a topic having been dealt with and another being tackled)
   Examples:
     - Sie müssen das so machen!
     - Fahren Sie bitte nicht so schnell!
