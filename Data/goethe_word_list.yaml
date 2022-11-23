@@ -21592,17 +21592,26 @@
   Cambridge: protection, shelter
   Wiki: protection; protective installation
   Examples:
-    - example1
+    - Das ist ein guter Schutz gegen Kälte.
+    - Alle reden heute über den Schutz der Umwelt.
 
 - Id: schwach
   Level: A2
-  Meaning: weak
+  Meaning: weak, light
   Cambridge: weak; weak, poor; weak(-willed); poor; faint, weak, light; low, weak; weakly; poorly
   Wiki: weak, lacking in strength; weak
   Examples:
     - Er ist krank und schwach.
     - Ich fühle mich sehr schwach.
+    -  Ich bin noch nicht gesund. Ich fühle mich noch sehr schwach.
     - Die Tabletten sind zu schwach. Sie helfen nicht.
+
+- Id: das Schwammerl
+  Level: B1
+  Form: -n
+  Synonym: (A) = Pilz
+  Examples:
+    - Haben Sie frische Schwammerln?
 
 - Id: schwanger
   Level: A2
@@ -21611,6 +21620,7 @@
   Wiki: pregnant (of humans); pregnant, gravid (of animals); full of, laden with
   Examples:
     - Lena ist schwanger. Sie bekommt im Juli ein Kind.
+    - Meine Frau ist im dritten Monat schwanger.
 
 - Id: die Schwangerschaft
   Level: B1
@@ -21619,7 +21629,7 @@
   Cambridge: pregnancy
   Wiki: pregnancy
   Examples:
-    - example1
+    - Sie dürfen während der Schwangerschaft nicht rauchen.
 
 - Id: schweigen
   Level: B1
@@ -21628,7 +21638,7 @@
   Cambridge: to be/remain silent; to say nothing; to stop
   Wiki: to be silent; to keep quiet; to stop talking; to shut up
   Examples:
-    - example1
+    - Sie sprach viel, aber ihr Mann schwieg den ganzen Abend lang.
 
 - Id: das Schwein
   Level: A2
@@ -21649,6 +21659,9 @@
     - Ist Ihr Gepäck sehr schwer?
     - Das ist eine schwere Arbeit.
     - Wie schwer ist das Paket?
+    - Der Koffer ist viel zu schwer.
+    - Die Prüfung war schwer.
+    - Dieses Wort ist schwer zu erklären.
 
 - Id: die Schwester
   Level: A1
@@ -21661,12 +21674,21 @@
     - Ich habe eine ältere Schwester und einen jüngeren Bruder.
     - Schwester Anna hat mir eine Schmerztablette gegeben.
 
-- Id: Schwieger-
+- Id: die Schwiegereltern
   Level: B1
-  Meaning: in law
-  Wiki: mother-in-law
+  Meaning: parents in law
   Examples:
-    - example1
+    - Wir besuchen morgen meine Schwiegereltern.
+
+- Id: der Schwiegervater
+  Level: B1
+  Examples:
+    - Mein Schwiegervater ist Lehrer.
+
+- Id: die Schwiegertochter
+  Level: B1
+  Examples:
+    -  Ich verstehe mich gut mit meiner Schwiegertochter.
 
 - Id: schwierig
   Level: A2
