@@ -25157,13 +25157,13 @@
     - Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?
 
 - Id: üben
-  Level: B1
+  Level: A2
   Form: übt, übte, hat geübt
   Meaning: to practise
   Cambridge: to practice, to rehearse; to exercise
   Wiki: to practise, to drill, to train; to exercise, to put into practice; to practise (doing something)
   Examples:
-    - example1
+    - Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden.
 
 - Id: die Übung
   Level: B1
@@ -25235,17 +25235,17 @@
     - example1
 
 - Id: übermorgen
-  Level: B1
+  Level: A2
   Meaning: the day after tomorrow
   Cambridge: the day after tomorrow
   Wiki: overmorrow, the day after tomorrow
   Examples:
-    - example1
+    - Morgen habe ich frei. Ich komme übermorgen wieder ins Büro.
 
 - Id: übernachten
   Level: A1
   Form: übernachtet, übernachtete, hat übernachtet
-  Meaning: to sleep / stay overnight
+  Meaning: to sleep, to stay overnight
   Cambridge: to spend the night, to sleep
   Wiki: to stay overnight, to sleep over, spend the night
   Examples:
@@ -25325,22 +25325,22 @@
     - example1
 
 - Id: übersetzen
-  Level: B1
-  Form: <übersetzen>
+  Level: A2
+  Form: übersetzt, übersetzte, hat übersetzt
   Meaning: to translate
   Cambridge: to translate; to cross (over); to ferry over
   Wiki: to translate, to interpret; to compile; to cross, cross over, traverse, ferry
   Examples:
-    - example1
+    - Können Sie mir den Brief bitte übersetzen?
 
 - Id: der Übersetzer
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: translator
   Cambridge: translator
   Wiki: translator; translator
   Examples:
-    - example1
+    - Ich brauche eine Übersetzung von meinem Zeugnis.
 
 - Id: die Übersetzung
   Level: B1
@@ -25386,6 +25386,7 @@
   Wiki: to transfer
   Examples:
     - Sie können das Geld auch überweisen.
+    - Ich überweise dir das Geld.
 
 - Id: die Überweisung
   Level: B1
@@ -25468,6 +25469,7 @@
   Examples:
     - Er kommt um sieben Uhr.
     - Da kommt er gerade um die Ecke.
+    - Die Apotheke ist gleich um die Ecke.
 
 - Id: umarmen
   Level: B1
@@ -25554,13 +25556,13 @@
     - example1
 
 - Id: umsteigen
-  Level: B1
+  Level: A2
   Form: steigt um, stieg um, ist umgestiegen
-  Meaning: to change (train, etc)
+  Meaning: to interchange (train)
   Cambridge: to change
   Wiki: to change, to interchange, to switch (from one means of transport to another)
   Examples:
-    - example1
+    - Sie müssen in Mannheim umsteigen.
 
 - Id: umtauschen
   Level: B1
@@ -25608,26 +25610,26 @@
 
 - Id: umziehen
   Level: A1
-  Form: zieht um, zog um, hat umgezogen
-  Meaning: to move (house), to get change
+  Form: zieht um, zog um, ist umgezogen
+  Meaning: to move (house)
   Cambridge: to move; to change, to get changed
   Wiki: to move; to change clothes, to get changed; to parade
   Examples:
     - Nächsten Monat ziehen wir um.
 
 - Id: der Umzug
-  Level: B1
+  Level: A2
   Form: ü-e
   Meaning: move, parade
   Cambridge: move; procession
   Wiki: move, removal, relocation; parade
   Examples:
-    - example1
+    - Der Umzug ist nächste Woche.
 
 - Id: sich umziehen
-  Level: B1
-  Form: zieht um, zog um, hat umgezogen
-  Meaning: to change (clothes)
+  Level: A2
+  Form: zieht sich um, zog sich um, hat sich umgezogen
+  Meaning: to get changed
   Cambridge: to move; to change, to get changed
   Wiki: to move; to change clothes, to get changed; to parade
   Examples:
@@ -25640,12 +25642,12 @@
     - example1
 
 - Id: unbedingt
-  Level: B1
+  Level: A2
   Meaning: absolutely
   Cambridge: really, absolutely; at all costs
   Wiki: absolute; unconditional, without probation; absolutely, definitely; unconditionally
   Examples:
-    - example1
+    - Ich muss unbedingt mit dir sprechen.
 
 - Id: und
   Level: A1
@@ -25654,6 +25656,8 @@
   Wiki: and; (colloquial) (links two nouns, often a person and an activity, in rhetoric questions to express an opposition between them); so?, now?, and?
   Examples:
     - Peter und Helmut sind meine Söhne.
+    - Ich habe heute und morgen frei.
+    - Ich kaufe ein und mein Mann kocht.
 
 - Id: und so weiter
   Level: A1
@@ -25665,13 +25669,14 @@
     - Wir brauchten noch Fleisch, Obst, Gemüse und so weiter.
 
 - Id: der Unfall
-  Level: B1
+  Level: A2
   Form: ä-e
   Meaning: accident
   Cambridge: accident
   Wiki: accident
   Examples:
-    - example1
+    - Ich hatte gestern einen Unfall.
+    - Wie ist der Unfall passiert?
 
 - Id: ungefähr
   Level: B1
@@ -25774,13 +25779,14 @@
     - Ein vorgezogenes, vorgebautes Untergeschoss.
 
 - Id: (sich) unterhalten
-  Level: B1
+  Level: A2
   Form: unterhält, unterhielt, hat unterhalten
   Meaning: to amuse oneself, chat
   Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
   Wiki: to maintain; to entertain; to converse
   Examples:
-    - example1
+    - Andreas und Nessrin unterhalten sich.
+    - Wir haben uns über das Fußballspiel unterhalten.
 
 - Id: die Unterhaltung
   Level: B1
@@ -25792,13 +25798,13 @@
     - example1
 
 - Id: die Unterkunft
-  Level: B1
+  Level: A2
   Form: ü-e
   Meaning: accommodation
   Cambridge: accommodation(s)
   Wiki: accommodation (lodging)
   Examples:
-    - example1
+    - Ich suche noch eine Unterkunft in Basel. Kennst du ein günstiges Hotel?
 
 - Id: die Unterlagen
   Level: B1
@@ -25816,13 +25822,13 @@
     - example1
 
 - Id: unternehmen
-  Level: B1
+  Level: A2
   Form: unternimmt, unternahm, hat unternommen
   Meaning: to do, go on, take steps
   Cambridge: to do, to go on; to (under)take, to make
   Wiki: to undertake
   Examples:
-    - example1
+    - Wollen wir heute Abend etwas unternehmen?
 
 - Id: der Unternehmer
   Level: B1
@@ -25845,7 +25851,7 @@
 - Id: der Unterricht
   Level: A1
   Form: -e
-  Meaning: lesson
+  Meaning: lesson, class
   Cambridge: instruction, teaching, classes
   Wiki: lesson, class, instruction, education
   Examples:
@@ -25868,13 +25874,13 @@
     - example1
 
 - Id: der Unterschied
-  Level: B1
+  Level: A2
   Form: -e
   Meaning: difference
   Cambridge: difference
   Wiki: difference
   Examples:
-    - example1
+    - Was ist der Unterschied zwischen den beiden Kursen? - Die Kurse sind gleich. Es gibt keinen Unterschied.
 
 - Id: unterschiedlich
   Level: B1
@@ -25950,12 +25956,12 @@
     - Ich habe morgen eine Untersuchung im Krankenhaus.
 
 - Id: unterwegs
-  Level: B1
+  Level: A2
   Meaning: on the way
   Cambridge: on the/your/its way; away, out; on a trip
   Wiki: on one’s way, underway, en route, in transit, going, travelling; on one’s way (to a goal etc.); out, not there; (slang) (Used with some adverb, describing a general state.)
   Examples:
-    - example1
+    - Warte bitte auf mich. Ich bin unterwegs und komme gleich.
 
 - Id: die Urkunde
   Level: B1
