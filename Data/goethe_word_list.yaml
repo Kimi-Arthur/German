@@ -25381,11 +25381,11 @@
 - Id: überweisen
   Level: A1
   Form: überweist, überwies, hat überwiesen
-  Meaning: to transfer, refer
+  Meaning: to transfer, to refer
   Cambridge: to transfer; to refer
   Wiki: to transfer
   Examples:
-    - example1
+    - Sie können das Geld auch überweisen.
 
 - Id: die Überweisung
   Level: B1
@@ -25461,12 +25461,13 @@
     - Meine Uhr ist stehen geblieben.
 
 - Id: um
-  Level: B1
+  Level: A1
   Meaning: at, around
   Cambridge: around; at (around); by; about; for; of
   Wiki: about; around; at, by; by; in order to, so as to; up, in the sense of finished; around, about; turned over, changed, from one state to another
   Examples:
-    - example1
+    - Er kommt um sieben Uhr.
+    - Da kommt er gerade um die Ecke.
 
 - Id: umarmen
   Level: B1
@@ -25608,11 +25609,11 @@
 - Id: umziehen
   Level: A1
   Form: zieht um, zog um, hat umgezogen
-  Meaning: to move (house)
+  Meaning: to move (house), to get change
   Cambridge: to move; to change, to get changed
   Wiki: to move; to change clothes, to get changed; to parade
   Examples:
-    - example1
+    - Nächsten Monat ziehen wir um.
 
 - Id: der Umzug
   Level: B1
@@ -25652,7 +25653,7 @@
   Cambridge: and
   Wiki: and; (colloquial) (links two nouns, often a person and an activity, in rhetoric questions to express an opposition between them); so?, now?, and?
   Examples:
-    - example1
+    - Peter und Helmut sind meine Söhne.
 
 - Id: und so weiter
   Level: A1
@@ -25737,11 +25738,11 @@
 
 - Id: unten
   Level: A1
-  Meaning: down
+  Meaning: down, at the bottom
   Cambridge: down, at the bottom; underneath; below; at the bottom, low down
   Wiki: below; south; at a later point in a text
   Examples:
-    - example1
+    - Er wohnt ganz unten im Haus.
 
 - Id: unter
   Level: A1
@@ -25749,7 +25750,7 @@
   Cambridge: under; under(neath); among; on; amid; with
   Wiki: under; below; among, between; with; along with; accompanied by an action (often concessive); during
   Examples:
-    - example1
+    - Unter uns wohnt eine Familie mit drei Kindern.
 
 - Id: unterbrechen
   Level: B1
@@ -25890,7 +25891,7 @@
   Cambridge: to sign
   Wiki: to sign; to sign; to write under or below something
   Examples:
-    - example1
+    - Wo muss ich unterschreiben?
 
 - Id: die Unterschrift
   Level: A1
@@ -25899,7 +25900,7 @@
   Cambridge: signature
   Wiki: signature; caption
   Examples:
-    - example1
+    - Hier fehlt noch Ihre Unterschrift.
 
 - Id: unterstreichen
   Level: B1
