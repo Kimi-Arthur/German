@@ -21726,6 +21726,8 @@
   Wiki: to swim; to swim; to swim (a certain distance); to transport by floating; to float, to be floating; to float (somewhere), to move (somewhere) by floating; to be doused or covered in liquid; to be swimming in (money, etc.); to be moving in a blurry or indistinct fashion, to swim (in someone's vision); to lose control (of a situation)
   Examples:
     - Ich schwimme jeden Tag einen Kilometer.
+    - Ich gehe regelmäßig schwimmen.
+    - Kannst du schwimmen?
 
 - Id: das Schwimmbad
   Level: A1
@@ -21743,7 +21745,7 @@
   Cambridge: to sweat
   Wiki: to sweat; to perspire (of living beings); to give off water (of things); to think hard; to work hard (on a mental task); to be in fear; to worry
   Examples:
-    - example1
+    - Es war sehr heiß. Wir haben alle sehr geschwitzt.
 
 - Id: der See
   Level: A1
@@ -21755,6 +21757,7 @@
     - Komm, wir fahren zum Starnberger See.
     - Morgen fahren wir mal an einen See schwimmen.
     - Komm, wir fahren an den Bodensee.
+    - Unser Hotel war direkt am See.
 
 - Id: die See
   Level: A2
@@ -21765,6 +21768,9 @@
   Examples:
     - Die See ist heute ruhig.
     - Wir machen Urlaub an der Nordsee.
+    - Im Sommer fahren wir immer an die See.
+    - die Nordsee, die Ostsee
+    - Warst du schon mal an der Nord/Ostsee?
 
 - Id: sehen
   Level: A1
@@ -21803,6 +21809,9 @@
   Examples:
     - Danke sehr!
     - Das ist sehr schwer.
+    - Das Wetter ist heute sehr schön.
+    - Ich habe mich sehr über Ihren Besuch gefreut.
+    - Hier ist Ihr Essen. - Danke sehr.
     - Das Wetter ist heute sehr schön.
 
 - Id: die Seife
@@ -21872,11 +21881,14 @@
 - Id: der Sekretär
   Level: B1
   Form: -e
+  Feminine:
+    Id: die Sekretärin
+    Form: -nen
   Meaning: secretary
   Cambridge: secretary; secretary, writing desk
   Wiki: secretary (male or unspecified sex); bureau, secretary
   Examples:
-    - example1
+    - Der neue Sekretär hat sich gestern vorgestellt.
 
 - Id: selbe
   Level: B1
@@ -21908,14 +21920,16 @@
   Wiki: independent; self-employed; independently; on one's own, without help
   Examples:
     - Er ist selbstständig.
+    - Jetzt bin ich angestellt. Früher war ich selbstständig.
+    - Wir suchen eine Sekretärin, die selbstständig arbeiten kann.
 
 - Id: selbstverständlich
   Level: B1
-  Meaning: of course, obviously
+  Meaning: obvious; of course, obviously
   Cambridge: obvious, natural; naturally, of course
   Wiki: natural, self-evident; granted; naturally
   Examples:
-    - example1
+    - Selbstverständlich sagen wir Ihnen sofort Bescheid.
 
 - Id: selten
   Level: B1
