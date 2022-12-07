@@ -21968,7 +21968,11 @@
 
 - Id: die Semmel
   Level: B1
+  Form: -n
   Synonym: (A) = (D) Brötchen = (CH) Brötli
+  Meaning: bread roll
+  Cambridge: roll
+  Wiki: bread roll
   Examples:
     - Ich hole schnell ein paar Semmeln zum Frühstück.
 
@@ -21989,7 +21993,7 @@
   Cambridge: station, channel; transmitter
   Wiki: sender; broadcaster; transmitter
   Examples:
-    -  Welchen Sender siehst du am liebsten?
+    - Welchen Sender siehst du am liebsten?
     - Ich höre im Radio am liebsten Sender mit moderner Musik.
 
 - Id: die Sendung
@@ -22008,7 +22012,7 @@
   Level: B1
   Meaning: seniors, old people
   Examples:
-    - Dieser Computerkurs ist für Senioren. 
+    - Dieser Computerkurs ist für Senioren.
 
 - Id: senkrecht
   Level: B1
@@ -22036,12 +22040,6 @@
   Examples:
     - Ich bin mit dem Service in der Werkstatt sehr zufrieden.
     - Rufst du beim Pizza-Service an?
-
-- Id: der Serviceangestellte
-  Level: B1
-  Synonym: (CH) = Kellner = (D, A) Ober
-  Examples:
-    - Ich bin Serviceangestellte von Beruf. 
 
 - Id: der Sessel
   Level: B1
