@@ -10705,7 +10705,7 @@
 - Id: gewinnen
   Level: A1
   Form: gewinnt, gewann, hat gewonnen
-  Meaning: to win
+  Meaning: to win (g-)
   Cambridge: to win; to obtain, to get; to mine
   Wiki: to win; to be victorious; to win something; to gain; to win over; to persuade; to win or extract a resource
   Examples:
@@ -22108,16 +22108,16 @@
   Cambridge: visible; obvious, evident
   Wiki: visible
   Examples:
-    - example1
+    - Es gibt keine sichtbaren Verletzungen. Aber wir müssen das Bein trotzdem untersuchen.
 
 - Id: siegen
   Level: B1
   Form: siegt, siegte, hat gesiegt
-  Meaning: to win
+  Meaning: to win (s-)
   Cambridge: to win, to be victorious
   Wiki: to be victorious, to win
   Examples:
-    - example1
+    - Die Mannschaft siegte mit 2:0.
 
 - Id: der Sieg
   Level: B1
@@ -22126,16 +22126,19 @@
   Cambridge: victory, win
   Wiki: victory; a river through the Siegerland, Sauerland, and Oberbergisches Land regions, 155 km long, flowing into the Rhine at Bonn
   Examples:
-    - example1
+    - Unsere Mannschaft hat gewonnen. Wir freuen uns über den Sieg.
 
 - Id: der Sieger
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Siegerin
+    Form: -nen
   Meaning: winner
   Cambridge: winner, victor
   Wiki: ; winner, victor, champion
   Examples:
-    - example1
+    - Wer hat gewonnen? Wie heißt die Siegerin?
 
 - Id: (sich) siezen
   Level: B1
@@ -22144,7 +22147,7 @@
   Cambridge: to address in the polite form / as “Sie”
   Wiki: to you .
   Examples:
-    - example1
+    - Obwohl sie sich schon lange kennen, siezen sie sich.
 
 - Id: singen
   Level: A2
@@ -22154,6 +22157,7 @@
   Wiki: to sing
   Examples:
     - Er singt gern.
+    -  Ich kann heute nicht singen, ich bin erkältet.
 
 - Id: sinken
   Level: B1
@@ -22162,7 +22166,8 @@
   Cambridge: to sink; to fall
   Wiki: to sink; to submerge; to set; to fall from the sky; to fall; to drop; to decline
   Examples:
-    - example1
+    - Das Schiff ist vor der Küste gesunken.
+    - Der Preis ist um 3 % gesunken.
 
 - Id: der Sinn
   Level: B1
@@ -22272,10 +22277,18 @@
   Cambridge: like this/that; as; so; without; about, around; according to; as, however; oh; oh, really
   Wiki: so, such, that; as (followed by an adjective or adverb plus in a statement of equality); thus, like this/that, in this/that way, in this/that manner; then (in that case); expletive; sometimes intensifying, sometimes with no noticeable meaning; thus, so, pursuant to the aforementioned premises; an, if; (colloquial) (quotative particle, somewhat similar to but also combinable with other verbs); that, which, who; (a discourse marker in the beginning of a sentence indicating a topic having been dealt with and another being tackled)
   Examples:
-    - Sie müssen das so machen!
+    - So, das war‘s/wär‘s!
+    - Wie macht man das? – So!
+    - Sie müssen das so machen. Nicht so!
+    - Sie sind auch hier! So ein Zufall!
+    - Ich melde mich, so schnell ich kann.
+    - Wann treffen wir uns? – So gegen 10 Uhr. Ist dir das recht?
+    - Dauert es lange? – Eine Stunde oder so kann es schon dauern.
+    - Ich hatte kein Geld dabei. Da haben sie mich so hineingelassen.
+    - So, jetzt bin ich fertig. Was machen wir jetzt?
     - Fahren Sie bitte nicht so schnell!
     - Meine Frau ist so groß wie ich.
-    - So, das war‘s/wär‘s!
+    - Was macht ihr denn so?
 
 - Id: sobald
   Level: B1
@@ -22283,7 +22296,7 @@
   Cambridge: as soon as
   Wiki: as soon as, by the time
   Examples:
-    - example1
+    - Sobald ich den Termin weiß, gebe ich Ihnen Bescheid.
 
 - Id: die Socke
   Level: B1
