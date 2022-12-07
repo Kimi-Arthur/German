@@ -21933,11 +21933,11 @@
 
 - Id: selten
   Level: B1
-  Meaning: seldom
+  Meaning: seldom, rare
   Cambridge: rare; rarely, seldom; exceptionally
   Wiki: rare, infrequent, uncommon, scarce; unusual, curious; seldom; rarely; unusually; extremely
   Examples:
-    - example1
+    - Ich gehe ganz selten ins Kino.
 
 - Id: seltsam
   Level: B1
@@ -21945,7 +21945,8 @@
   Cambridge: strange, odd; strangely, oddly
   Wiki: strange, weird, odd, funny, curious; strangely, weirdly, oddly, curiously
   Examples:
-    - example1
+    - Es ist seltsam, dass mein Bruder noch nicht hier ist.
+    - Sie hörte ein seltsames Geräusch.
 
 - Id: das Semester
   Level: B1
@@ -21965,6 +21966,12 @@
   Examples:
     - Ich möchte dieses Seminar unbedingt besuchen.
 
+- Id: die Semmel
+  Level: B1
+  Synonym: (A) = (D) Brötchen = (CH) Brötli
+  Examples:
+    - Ich hole schnell ein paar Semmeln zum Frühstück.
+
 - Id: senden
   Level: B1
   Form: sendet, sendete, hat gesendet
@@ -21972,16 +21979,18 @@
   Cambridge: to broadcast; to broadcast, to transmit; to send
   Wiki: to broadcast; to transmit; to send
   Examples:
-    - example1
+    - Bitte senden Sie uns die Unterlagen per E-Mail.
+    - Können Sie uns die Post bitte nachsenden?
 
 - Id: der Sender
   Level: B1
   Form: '-'
-  Meaning: (radio) Station
+  Meaning: station, broadcaster
   Cambridge: station, channel; transmitter
   Wiki: sender; broadcaster; transmitter
   Examples:
-    - example1
+    -  Welchen Sender siehst du am liebsten?
+    - Ich höre im Radio am liebsten Sender mit moderner Musik.
 
 - Id: die Sendung
   Level: A2
@@ -21992,12 +22001,14 @@
   Examples:
     - Welche Sendungen schaust du gern an? – Ich mag Sportsendungen.
     - Diese Sendung ist nicht für Jugendliche unter 18 Jahren.
+    - Wir wiederholen die Sendung am 11. Mai.
+    - Ich warte auf eine Postsendung.
 
 - Id: die Senioren
   Level: B1
   Meaning: seniors, old people
   Examples:
-    - example1
+    - Dieser Computerkurs ist für Senioren. 
 
 - Id: senkrecht
   Level: B1
@@ -22005,7 +22016,7 @@
   Cambridge: vertically
   Wiki: vertical
   Examples:
-    - example1
+    - Ziehen Sie bitte eine senkrechte Linie.
 
 - Id: die Serie
   Level: B1
@@ -22014,7 +22025,7 @@
   Cambridge: series; series, serial
   Wiki: series (a number of things that follow on one after the other)
   Examples:
-    - example1
+    - Meine Tochter liebt es, im Fernsehen Serien zu schauen.
 
 - Id: der Service
   Level: A2
@@ -22026,6 +22037,12 @@
     - Ich bin mit dem Service in der Werkstatt sehr zufrieden.
     - Rufst du beim Pizza-Service an?
 
+- Id: der Serviceangestellte
+  Level: B1
+  Synonym: (CH) = Kellner = (D, A) Ober
+  Examples:
+    - Ich bin Serviceangestellte von Beruf. 
+
 - Id: der Sessel
   Level: B1
   Form: '-'
@@ -22036,23 +22053,16 @@
   Examples:
     - Ich hätte gern einen bequemen Sessel.
 
-- Id: setzen
-  Level: B1
-  Form: setzt, setzte, hat gesetzt
-  Meaning: to place
-  Cambridge: to sit (down); to put, to sit; to put, to place; to write, to put; to plant; to bet; to settle; to set; to (type)set; to switch on; to put, to set; to jump; to go; to take
-  Wiki: to set; to put; to sit down; to settle
-  Examples:
-    - example1
-
 - Id: (sich) setzen
   Level: A2
   Form: setzt, setzte, hat gesetzt
-  Meaning: to sit down
+  Meaning: to place, to sit (oneslef) down
   Cambridge: to sit (down); to put, to sit; to put, to place; to write, to put; to plant; to bet; to settle; to set; to (type)set; to switch on; to put, to set; to jump; to go; to take
   Wiki: to set; to put; to sit down; to settle
   Examples:
     - Setz dich doch!
+    - Darf ich mich zu Ihnen setzen?
+    - Bitte setzen Sie sich, wohin Sie wollen!
 
 - Id: die Show
   Level: B1
@@ -22072,6 +22082,9 @@
     - Dieses Auto ist besonders sicher.
     - Ich bin ganz sicher, dass er kommt.
     - Er ist sicher gleich da.
+    - Bist du sicher, dass die Bank heute geöffnet ist?
+    - Das weiß ich ganz sicher.
+    - Du bist jetzt sicher müde.
 
 - Id: die Sicherheit
   Level: B1
@@ -22080,7 +22093,7 @@
   Cambridge: safety, security; reliability; certainty; (self-)assuredness, (self-)confidence; security
   Wiki: certainty; security; safety
   Examples:
-    - example1
+    - Sicherheit ist für mich sehr wichtig.
 
 - Id: sichern
   Level: B1
@@ -22089,7 +22102,7 @@
   Cambridge: to protect; to secure, to safeguard; to safe, to back up; to put the safety catch on
   Wiki: to secure
   Examples:
-    - example1
+    - Du musst immer alle Daten im Computer sichern.
 
 - Id: sichtbar
   Level: B1
