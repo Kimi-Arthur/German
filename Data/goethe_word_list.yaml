@@ -22157,7 +22157,7 @@
   Wiki: to sing
   Examples:
     - Er singt gern.
-    -  Ich kann heute nicht singen, ich bin erkältet.
+    - Ich kann heute nicht singen, ich bin erkältet.
 
 - Id: sinken
   Level: B1
@@ -22305,7 +22305,7 @@
   Cambridge: sock
   Wiki: sock
   Examples:
-    - example1
+    - Im Winter brauche ich warme Socken.
 
 - Id: sodass
   Level: B1
@@ -22313,7 +22313,7 @@
   Cambridge: so that
   Wiki: so that; such that
   Examples:
-    - example1
+    - Der Zug hatte zwei Stunden Verspätung, sodass ich erst um 23 Uhr nach Hause kam.
 
 - Id: das Sofa
   Level: A1
@@ -22323,6 +22323,7 @@
   Wiki: sofa, couch
   Examples:
     - Das Sofa ist neu.
+    - Wir hätten gern ein modernes Sofa.
 
 - Id: sofort
   Level: A1
@@ -22332,6 +22333,8 @@
   Examples:
     - Bitte antworten Sie sofort.
     - Sie können sich ab sofort für den Kurs anmelden.
+    - Warum sind Sie nicht sofort zum Arzt gegangen?
+    - Karten für das Konzert bekommen Sie ab sofort im Kartenbüro.
 
 - Id: die Software
   Level: B1
@@ -22342,12 +22345,13 @@
   Examples:
     - Mein Computer benötigt spezielle Software, um Webseiten darstellen zu können.
 
-- Id: sogenannt-
+- Id: sogenannt
   Level: B1
   Meaning: so-called
   Wiki: so-called
   Examples:
-    - example1
+    - Studenten, die lange studieren, sind sogenannte Langzeitstudierende.
+    - Wo bleiben denn deine sogenannten Freunde?
 
 - Id: sogar
   Level: A2
@@ -22357,6 +22361,7 @@
   Examples:
     - Heute ist es sehr kalt. In den Bergen schneit es sogar.
     - Zu meiner Hochzeit kommen viele Gäste. Sogar meine Tante aus Kanada kommt.
+    - Auf dem Berg war es so kalt. Es hat sogar geschneit.
 
 - Id: der Sohn
   Level: A1
@@ -22370,19 +22375,19 @@
 
 - Id: solange
   Level: B1
-  Meaning: as long as
+  Meaning: as long as, in the meantime
   Cambridge: as long as; in the meantime
   Wiki: meanwhile; as long as, while
   Examples:
-    - example1
+    - Solange Sie Fieber haben, dürfen Sie auf keinen Fall arbeiten gehen.
 
-- Id: solch-
+- Id: solch
   Level: B1
   Meaning: such
   Cambridge: such
   Wiki: such
   Examples:
-    - example1
+    - Solche Schuhe finde ich toll.
 
 - Id: sollen
   Level: A1
@@ -22399,20 +22404,13 @@
     - Ich habe im Radio gehört, es soll morgen regnen.
     - Sollten Sie mit dem Vorschlag nicht einverstanden sein, rufen Sie mich an.
 
-- Id: sonder-
-  Level: B1
-  Meaning: special
-  Wiki: without; except; not including
-  Examples:
-    - example1
-
 - Id: das Sonderangebot
   Level: B1
   Form: -e
   Meaning: special offer
   Wiki: (special) bargain
   Examples:
-    - example1
+    - 'Das ist ein Sonderangebot: 25 % reduziert.'
 
 - Id: sondern
   Level: B1
@@ -22420,7 +22418,7 @@
   Cambridge: but
   Wiki: rather, but (instead).; so?, then what?, so you tell me!; to separate, to sunder
   Examples:
-    - example1
+    - Unser Besuch kommt nicht heute, sondern morgen.
 
 - Id: der Song
   Level: B1
@@ -22463,10 +22461,11 @@
 - Id: sorgen
   Level: B1
   Form: sorgt, sorgte, hat gesorgt
-  Meaning: to worry
+  Meaning: to worry, to care for
   Wiki: to care for, to take care of; to worry
   Examples:
-    - example1
+    - Wer sorgt denn für die Kinder?
+    - Können Sie bitte dafür sorgen, dass die Heizung funktioniert?
 
 - Id: die Sorge
   Level: B1
@@ -22475,7 +22474,7 @@
   Cambridge: worry; care
   Wiki: concern, worry, apprehension, trouble, uneasiness, anxiety; care, aid
   Examples:
-    - example1
+    - Um Ihre Zukunft brauchen Sie sich keine Sorgen zu machen.
 
 - Id: die Soße
   Level: B1
@@ -22493,15 +22492,15 @@
   Cambridge: souvenir
   Wiki: souvenir
   Examples:
-    - example1
+    - Ich habe ein paar Souvenirs aus dem Urlaub mitgebracht.
 
 - Id: soviel
   Level: B1
-  Meaning: as far as
+  Meaning: as far as, however much
   Cambridge: as/so far as; however much
   Wiki: as far as, so far as; so much, so many, as much, as many
   Examples:
-    - example1
+    - Soviel ich weiß, hat dieses Restaurant heute Ruhetag.
 
 - Id: so viel (wie)
   Level: B1
@@ -22516,13 +22515,13 @@
   Cambridge: anyway, anyhow
   Wiki: anyway, anyhow, in any case; something;; of course; sure; that’s a given;
   Examples:
-    - example1
+    - Willst du mir den Brief mitgeben? Ich gehe sowieso zur Post.
 
-- Id: sowohl...als auch
+- Id: sowohl ... als auch
   Level: B1
-  Meaning: '...both..and...'
+  Meaning: both ... and
   Examples:
-    - example1
+    - Sowohl Sie als auch Ihre Frau müssen unterschreiben.
 
 - Id: sozial
   Level: B1
@@ -22530,16 +22529,20 @@
   Cambridge: social; socially
   Wiki: social
   Examples:
-    - example1
+    - Das System ist nicht sozial.
+    - Es gibt viele soziale Probleme. 
 
 - Id: der Sozialarbeiter
   Level: B1
   Form: '-'
+  Feminine:
+    Id: die Sozialarbeiterin
+    Form: -nen
   Meaning: social worker
   Cambridge: social worker
   Wiki: social worker
   Examples:
-    - example1
+    - Die Sozialarbeiterin kommt einmal in der Woche.
 
 - Id: spannend
   Level: A2
@@ -22558,6 +22561,7 @@
   Wiki: to save up; to accumulate, to put aside (for a specific purpose); to save, to conserve (for example energy); to save, be able to save (as unnecessary or useless), keep something to oneself; to save, to spare (from effort, an unpleasant or unnecessary task)
   Examples:
     - Ein neues Auto ist sehr teuer. Ich muss sparen.
+    - Um Strom zu sparen, schalten wir die Heizung nachts aus.
 
 - Id: sparsam
   Level: B1
@@ -22565,7 +22569,8 @@
   Cambridge: thrifty; economical; economical, sparse; sparingly
   Wiki: economical, thrifty, frugal; sparingly
   Examples:
-    - example1
+    -  Wir haben fünf Kinder. Wir müssen sehr sparsam sein.
+    - Mein Auto ist sehr sparsam. Es verbraucht nur 5 Liter auf 100 km.
 
 - Id: der Spaß
   Level: A2
@@ -22576,7 +22581,7 @@
   Examples:
     - Meine Arbeit macht mir Spaß.
     - Ich will nicht aufräumen. Das macht mir keinen Spaß.
-    - Viel Spaß!
+    -  Viel Spaß bei der Party!
 
 - Id: spät
   Level: A1
@@ -22610,7 +22615,7 @@
 
 - Id: spazieren gehen
   Level: A2
-  Form: spaziert, spazierte, ist spaziert
+  Form: geht spazieren, ging spazieren, ist spazieren gegangen
   Meaning: to go for a walk, stroll
   Cambridge: to stroll, to walk
   Wiki: to take a stroll, to stroll, to take a walk, to walk leisurely
