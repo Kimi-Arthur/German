@@ -22640,14 +22640,14 @@
   Examples:
     - Sie müssen die Datei speichern.
 
-- Id: Speise
+- Id: die Speise
   Level: B1
   Form: -n
   Meaning: food, dish
   Cambridge: dish
   Wiki: meal, fare (food)
   Examples:
-    - example1
+    - Als Vorspeise nehme ich eine Suppe, aber dafür nehme ich keine Nachspeise
 
 - Id: die Speisekarte
   Level: A1
@@ -22657,6 +22657,7 @@
   Wiki: menu
   Examples:
     - Bringen Sie mir die Speisekarte, bitte.
+    - Bitte, die Speisekarte.
 
 - Id: der Speisewagen
   Level: B1
@@ -22665,7 +22666,7 @@
   Cambridge: diner, dining car
   Wiki: dining car
   Examples:
-    - example1
+    - Wo ist der Speisewagen?
 
 - Id: Spezial-
   Level: B1
