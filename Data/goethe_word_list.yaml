@@ -22670,6 +22670,9 @@
 
 - Id: die Spezialklinik
   Level: B1
+  Form: -en
+  Meaning: special clinic
+  Wiki: special clinic
 
 - Id: der Spezialist
   Level: B1
