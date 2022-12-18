@@ -22668,20 +22668,20 @@
   Examples:
     - Wo ist der Speisewagen?
 
-- Id: Spezial-
+- Id: die Spezialklinik
   Level: B1
-  Meaning: special
-  Examples:
-    - example1
 
 - Id: der Spezialist
   Level: B1
   Form: -en
+  Feminine:
+    Id: die Spezialistin
+    Form: -nen
   Meaning: specialist
   Cambridge: specialist
   Wiki: specialist
   Examples:
-    - example1
+    - Mein Arzt hat mich zur Spezialistin geschickt.
 
 - Id: speziell
   Level: B1
@@ -22689,7 +22689,7 @@
   Cambridge: special; (e)specially
   Wiki: special; particular, specific
   Examples:
-    - example1
+    - Ich suche einen ganz speziellen Ring für meine Freundin.
 
 - Id: der Spiegel
   Level: B1
@@ -22698,7 +22698,7 @@
   Cambridge: mirror; level
   Wiki: mirror; level (of a liquid); surface; schematic overview, table; white or light-coloured mark (on an animal); (on the forehead of horses and cattle); (on the wing of a goose, capercaillie, or black cock); (on the hindquarters of deer)
   Examples:
-    - example1
+    - Ich möchte gerne sehen, wie mein Kleid sitzt. Hast du einen Spiegel?
 
 - Id: spielen
   Level: A1
@@ -22762,7 +22762,7 @@
   Cambridge: pointed, sharp; acute; cutting, barbed; piercing; horny; to a point
   Wiki: pointed, pointy; sharp; spiky; horny; (colloquial)
   Examples:
-    - example1
+    - Der Bleistift ist nicht spitz.
 
 - Id: der Sport
   Level: A1
@@ -22874,6 +22874,7 @@
 - Id: die Sprechstunde
   Level: A2
   Form: -n
+  Synonym: = (A) Ordination
   Meaning: consultation (hour)
   Cambridge: consultation; consultation hours
   Wiki: office hours; consultation-hour, surgery
@@ -22887,7 +22888,8 @@
   Cambridge: to jump; to bound; to pop; to bounce; to come off; to jump, to change; to crack
   Wiki: to spring; to leap; to bounce; to dive; to jump; to vault; to break; to burst; to pop
   Examples:
-    - example1
+    - Wir waren im Schwimmbad. Mein Sohn ist immer wieder ins Wasser gesprungen.
+    - Wie weit bist du heute gesprungen? -3,40 m.
 
 - Id: die Spritze
   Level: B1
@@ -22896,7 +22898,7 @@
   Cambridge: syringe; injection, shot; hose; spray; pastry bag; cash injection
   Wiki: syringe; injection
   Examples:
-    - example1
+    - Ich habe heute vom Arzt eine Spritze gegen die Schmerzen bekommen.
 
 - Id: spülen
   Level: B1
@@ -22915,7 +22917,7 @@
   Cambridge: track; trace; sign; lane
   Wiki: trace; trail, track, spoor; lead, clue; lane (of a street, road); track; trace
   Examples:
-    - example1
+    - Fahren Sie bitte auf der linken Spur, wenn Sie schneller fahren.
 
 - Id: spüren
   Level: B1
@@ -22924,7 +22926,7 @@
   Cambridge: to feel; to feel, to notice
   Wiki: to sense, to detect, to perceive
   Examples:
-    - example1
+    - Wo tut es weh? Spüren Sie das hier?
 
 - Id: das Stadion
   Level: B1
@@ -22962,7 +22964,6 @@
   Wiki: street map, city map
   Examples:
     - Haben Sie einen Stadtplan von Salzburg?
-    - Haben Sie einen Stadtplan?
 
 - Id: stammen
   Level: B1
@@ -22971,7 +22972,7 @@
   Cambridge: to come, to originate; to come, to derive; to date; to come
   Wiki: to descend, to originate, to be derived
   Examples:
-    - example1
+    - Ich stamme aus einer kleinen Stadt an der Donau.
 
 - Id: ständig
   Level: B1
@@ -22979,7 +22980,7 @@
   Cambridge: permanent; constant, continual; constantly, all the time, continually
   Wiki: permanent, constant; persistent, incessant, constant; permanently; incessantly
   Examples:
-    - example1
+    - Ich habe schon ein paar Mal bei meiner Freundin angerufen. Es ist ständig besetzt.
 
 - Id: der Standpunkt
   Level: B1
@@ -22988,7 +22989,7 @@
   Cambridge: point of view, standpoint
   Wiki: standpoint; stance, point of view
   Examples:
-    - example1
+    - Von seinem Standpunkt aus hat er recht.
 
 - Id: der Star
   Level: A2
@@ -23007,6 +23008,9 @@
     - Ich habe starke Kopfschmerzen.
     - Es regnet stark.
     - Der Kaffee ist sehr stark.
+    - Am späten Nachmittag ist der Verkehr besonders stark.
+    - Können Sie mir kein stärkeres Mittel verschreiben?
+    - Es hat stark geregnet.
 
 - Id: starten
   Level: B1
