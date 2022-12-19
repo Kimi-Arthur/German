@@ -647,7 +647,7 @@
 
 - Id: alternativ
   Level: B1
-  Meaning: alternative
+  Meaning: alternative, alternatively
   Cambridge: alternative; alternatively
   Wiki: alternative
   Examples:
@@ -656,7 +656,7 @@
 - Id: die Alternative
   Level: B1
   Form: -n
-  Meaning: alternative
+  Meaning: alternative, option
   Cambridge: alternative
   Wiki: alternative; option, choice
   Examples:
@@ -2842,7 +2842,7 @@
 - Id: basteln
   Level: A2
   Form: bastelt, bastelte, hat gebastelt
-  Meaning: to do handicrafts
+  Meaning: to do handicrafts, to do DIY
   Cambridge: to do handicrafts, to make with your hands
   Wiki: to do DIY, to perform handicrafts without much expertise; to build something from paper, fabric, and related materials, by cutting, folding, gluing, etc., e.g. such objects as kites, lanterns, calendars, greeting cards; to tinker
   Examples:
