@@ -13,11 +13,11 @@ Telling you what to do / give an order.
 
 ## Deklination
 
-| Audience | Usage                                                        | Example (schreiben) | Example (arbeiten) | Example (nehmen) |
-| -------- | ------------------------------------------------------------ | ------------------- | ------------------ | ---------------- |
+| Audience | Usage                                                                      | Example (schreiben) | Example (arbeiten) | Example (nehmen) |
+| -------- | -------------------------------------------------------------------------- | ------------------- | ------------------ | ---------------- |
 | du       | <ruby>`stem` (+e)<rt>du-form without suffix and umlaut change</rt></ruby>! | schreib!            | arbeite!           | nimm!            |
-| ihr      | <ruby>`stem` +(e)t<rt>ihr-form</rt></ruby>!                  | schreibt!           | arbeitet!          | nehmt!           |
-| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                | schreiben Sie!      | arbeiten Sie!      | nehmen Sie!      |
+| ihr      | <ruby>`stem` +(e)t<rt>ihr-form</rt></ruby>!                                | schreibt!           | arbeitet!          | nehmt!           |
+| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                              | schreiben Sie!      | arbeiten Sie!      | nehmen Sie!      |
 
 ## Speical Examples
 
@@ -39,8 +39,6 @@ Telling you what to do / give an order.
 | Beeilt euch etwas!             | Hurry up!                |
 | Rufen Sie im Konsulat an!      | Call the consulate!      |
 | Pack bald den Koffer!          | Pack your suitcase soon! |
-
-
 
 ## Sources
 
