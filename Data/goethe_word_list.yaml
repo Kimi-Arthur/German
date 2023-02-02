@@ -23271,7 +23271,7 @@
 
 - Id: die Steuer
   Level: B1
-  Form: '-'
+  Form: -n
   Meaning: tax
   Cambridge: steering wheel; tax(ation)
   Wiki: tax; helm, rudder; steering wheel, the wheel
