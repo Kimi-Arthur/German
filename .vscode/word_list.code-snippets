@@ -65,8 +65,8 @@
 		"prefix": "f",
 		"body": [
 			"Feminine:",
-			"    Id: die ${1:Frau}",
-			"    Form: ${2:-nen}$0"
+			"  Id: die ${1:Frau}",
+			"  Form: ${2:-nen}$0"
 		]
 	},
 	"Abbreviation": {

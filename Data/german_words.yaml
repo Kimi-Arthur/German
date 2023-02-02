@@ -1,0 +1,257 @@
+# languages/german/words
+
+- Id: -al
+  Type: Suffix
+  Meaning: (n. -> adj.) pertaining to, using it
+
+- Id: -ei
+  Type: Suffix
+  Meaning: '(n. -> nf.) -y: site; country; condition of it'
+
+- Id: -eur
+  Type: Suffix
+  Meaning: (v. -> nm.) person or thing that carries it out, mostly for French words
+
+- Id: -graph
+  Type: Suffix
+  Meaning: (-> nm.) -graph
+
+- Id: -ieren
+  Type: Suffix
+  Meaning: (adj./n. -> v.) brought into a certain state; made into it
+
+- Id: -isch
+  Type: Suffix
+  Meaning: (n. -> adj.) -ic, -ical; -ish, -ian for nationality
+
+- Id: -li
+  Type: Suffix
+  Meaning: (n. -> nn.) diminutive
+
+- Id: -nis
+  Type: Suffix
+  Meaning: '(v./adj. -> nn./nf.) -ness: process or product of it'
+
+- Id: -thek
+  Type: Suffix
+  Meaning: (n. -> nf.) compilation, collection (for lending) or the premise
+
+- Id: -ant
+  Type: Suffix
+  Meaning: (v. -> nm.) person or thing that carries it out
+
+- Id: -en
+  Type: Suffix
+  Meaning: (n. -> adj.) of material
+
+- Id: -euse
+  Type: Unknown
+  Meaning: (v. -> nf.) person or thing that carries it out, mostly for French words
+
+- Id: -haft
+  Type: Suffix
+  Meaning: (n. -> adj.) like it
+
+- Id: -ig
+  Type: Suffix
+  Meaning: '(-> adj.) -y: like it'
+
+- Id: -ismus
+  Type: Suffix
+  Meaning: '(n./adj. -> nm.) -ism: state of mind, political direction, mental attitude, individual phenomenon'
+
+- Id: -lich
+  Type: Suffix
+  Meaning: (-> adj.) affiliation; can be done; does it; weaker of (adj.); repetition
+
+- Id: -reich
+  Type: Suffix
+  Meaning: '(n. -> adj.) -rich, -ful: rich in, full of'
+
+- Id: -ung
+  Type: Suffix
+  Meaning: (v. -> nf.) action or result
+
+- Id: -ation
+  Type: Suffix
+  Meaning: (v. -> n.) outcome
+
+- Id: -end
+  Type: Suffix
+  Meaning: '(v. -> adj.) -ing: present participle'
+
+- Id: -fach
+  Type: Suffix
+  Meaning: '(num. -> adj.) -fold: times'
+
+- Id: -halb
+  Type: Suffix
+  Meaning: (-> prep.)
+
+- Id: -igkeit
+  Type: Suffix
+  Meaning: (adj. -> nf.) usually abstract
+
+- Id: -ist
+  Type: Suffix
+  Meaning: '(n. -> nm.) -ist: person who practices it; person who adheres to doctrine'
+
+- Id: -ling
+  Type: Suffix
+  Meaning: (n. -> nm.) possession of or connection with it
+
+- Id: -sam
+  Type: Suffix
+  Meaning: (-> adj.) similarity or the possession of a quality.
+
+- Id: -voll
+  Type: Suffix
+  Meaning: '(n. -> adj.) -ful: full of'
+
+- Id: -bar
+  Type: Suffix
+  Meaning: '(v. -> adj.) -able, -ible: can be done; can do; suitable'
+
+- Id: -ent
+  Type: Suffix
+  Meaning: (v. -> nm./nn.) person or thing that carries it out, mostly for Latin/Romance words
+
+- Id: -fon
+  Type: Noun
+  Meaning: (-> nn.) phone
+
+- Id: -heit
+  Type: Suffix
+  Meaning: '(adj. -> nf.) -ness, -th, -ty: condition, quality, property; (n. -> nf.) from concrete to abstract'
+
+- Id: -ik
+  Type: Suffix
+  Meaning: (-> nf.) field of study; property, quality, characteristics
+
+- Id: -keit
+  Type: Suffix
+  Meaning: '(adj. -> nf.) -ness, -th, -ty: condition, quality, property; (n. -> nf.) from concrete to abstract'
+
+- Id: -logie
+  Type: Suffix
+  Meaning: '(-> nf.) -logy: branch of learning, study of particular subject; speech, way of speaking'
+
+- Id: -schaft
+  Type: Suffix
+  Meaning: '(n./adj. -> nf.) -ship, -hood: group of people; result of action; condition'
+
+- Id: -weise
+  Type: Suffix
+  Meaning: '(n./adj. -> adv.) -wise: in certain way; in certain quantity'
+
+- Id: -chen
+  Type: Suffix
+  Meaning: (n. -> nn.) diminutive
+
+- Id: -er
+  Type: Suffix
+  Meaning: '(-> nm.) -er: person who does it; inhabitant;'
+
+- Id: -grafie
+  Type: Suffix
+  Meaning: '(-> nf.) -graphy: field of study'
+
+- Id: -iell
+  Type: Suffix
+  Meaning: (n. -> adj.) affliation to
+
+- Id: -in
+  Type: Suffix
+  Meaning: (n. -> nf.) female
+
+- Id: -ler
+  Type: Suffix
+  Meaning: '(-> nm.) -er: person who does it'
+
+- Id: -los
+  Type: Suffix
+  Meaning: '(n. -> adj.) -less: lacking, without'
+
+- Id: -seits
+  Type: Suffix
+  Meaning: (-> adj.) on the side of, from the side of
+
+- Id: -wärts
+  Type: Suffix
+  Meaning: '(n./prep. -> adv.) -wards: course or direction to, motion or tendency toward'
+
+- Id: auf-
+  Type: Prefix
+  Meaning: '(v.; sep.) up-: upwards, open'
+
+- Id: bio-
+  Type: Prefix
+  Meaning: organic
+
+- Id: sonder-
+  Type: Prefix
+  Meaning: special
+
+- Id: un-
+  Type: Prefix
+  Meaning: '-un: absence, lack of, contrary to'
+
+- Id: öko-
+  Type: Prefix
+  Meaning: 'eco-: ecology, environmental'
+
+- Id: aus-
+  Type: Prefix
+  Meaning: '(sep.) out-: outward, outside, end, undo'
+
+- Id: ver-
+  Type: Prefix
+  Meaning: '(ins.) for-: away, out, up; transition into; faulty action'
+
+- Id: ab-
+  Type: Prefix
+  Meaning: '(sep.) off-: removal, quitting; down; from, of; different'
+
+- Id: ein-
+  Type: Prefix
+  Meaning: (sep.) into
+
+- Id: techno-
+  Type: Noun
+  Meaning: techno
+
+- Id: weiter-
+  Type: Prefix
+  Meaning: '(sep.) further-: continuation'
+
+- Id: be-
+  Type: Prefix
+  Meaning: (vi. -> vt.; ins.) working on something or change of state; touching the object; mentioning the object
+
+- Id: ent-
+  Type: Prefix
+  Meaning: (ins.) from, off; to the opposite; beginning
+
+- Id: tele-
+  Type: Prefix
+  Meaning: far
+
+- Id: an-
+  Type: Prefix
+  Meaning: (sep.) on, up
+
+- Id: biblio-
+  Type: Prefix
+  Meaning: book
+
+- Id: foto-
+  Type: Prefix
+  Meaning: photo-
+
+- Id: miss-
+  Type: Prefix
+  Meaning: '(ins.) mis-: opposite of'
+
+- Id: zer-
+  Type: Prefix
+  Meaning: (ins.) to pieces

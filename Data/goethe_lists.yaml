@@ -10,7 +10,7 @@
     - der Absender
     - Achtung
     - die Adresse
-    - all-
+    - all
     - allein
     - also
     - alt
@@ -18,7 +18,7 @@
     - an
     - anbieten
     - das Angebot
-    - ander-
+    - anderer
     - anfangen
     - der Anfang
     - anklicken
@@ -154,7 +154,7 @@
     - das Datum
     - dauern
     - denn
-    - dies-
+    - dies
     - die Diskothek
     - der Doktor
     - das Doppelzimmer
@@ -178,7 +178,7 @@
     - der Ehemann
     - das Ei
     - eilig
-    - ein-
+    - ein
     - einfach
     - der Eingang
     - einkaufen
@@ -257,21 +257,53 @@
     - das Geburtsjahr
     - der Geburtsort
     - der Geburtstag
+    - gefallen
     - gegen
     - gehen
+    - gehören
     - das Geld
+    - das Gemüse
+    - das Gepäck
+    - gerade
+    - geradeaus
     - gern
+    - das Geschäft
+    - das Geschenk
     - das Geschwister
     - das Gespräch
     - gestern
+    - das Getränk
+    - das Gewicht
+    - gewinnen
     - das Glas
+    - glauben
+    - gleich
+    - das Gleis
     - das Glück
     - glücklich
     - der Glückwunsch
+    - der Grad
+    - gratulieren
+    - grillen
     - groß
+    - die Großeltern
+    - die Großmutter
+    - der Großvater
+    - die Größe
+    - die Gruppe
+    - der Gruß
+    - gültig
     - günstig
+    - gut
+    - das Haar
     - haben
     - das Hähnchen
+    - die Halbpension
+    - die Halle
+    - hallo
+    - halten
+    - die Haltestelle
+    - die Hand
     - das Handy
     - das Haus
     - die Hausaufgabe
@@ -284,92 +316,180 @@
     - helfen
     - die Hilfe
     - hell
+    - der Herd
     - der Herr
     - herzlich
     - heute
     - hier
+    - hinten
     - das Hobby
+    - hoch
     - die Hochzeit
+    - holen
     - hören
+    - das Hotel
+    - der Hund
     - der Hunger
+    - immer
+    - in
     - die Information
+    - international
     - das Internet
+    - ja
+    - die Jacke
+    - jeder
     - jetzt
     - der Job
+    - der Jugendliche
+    - jung
+    - der Junge
     - der Kaffee
     - kaputt
     - die Karte
+    - die Kartoffel
+    - die Kasse
+    - kaufen
+    - kein
     - kennen
+    - kennenlernen
     - das Kind
     - der Kindergarten
+    - das Kino
+    - der Kiosk
     - klar
+    - die Klasse
+    - die Kleidung
     - klein
     - kochen
+    - der Koffer
     - der Kollege
     - kommen
     - können
+    - das Konto
+    - der Kopf
     - kosten
     - krank
+    - die Kreditkarte
+    - kriegen
+    - die Küche
     - der Kuchen
+    - der Kugelschreiber
     - der Kühlschrank
+    - kulturell
+    - sich kümmern
     - der Kunde
+    - der Kurs
     - kurz
     - lachen
+    - der Laden
+    - das Land
     - lang
     - lange
+    - langsam
     - laufen
+    - laut
     - leben
     - das Leben
     - die Lebensmittel
     - ledig
+    - legen
     - der Lehrer
+    - leicht
     - leider
+    - leise
     - lernen
     - lesen
-    - letzt-
+    - letzte
+    - die Leute
+    - das Licht
     - lieben
     - lieb
     - die Lieblingsfarbe
     - der Lieblingsfilm
     - das Lieblingsessen
+    - das Lied
+    - liegen
+    - links
+    - das Lokal
     - die Lösung
+    - lustig
     - machen
+    - das Mädchen
+    - man
+    - der Mann
+    - männlich
+    - die Maschine
+    - das Meer
     - mehr
+    - meist
     - der Mensch
+    - mieten
+    - die Miete
     - die Milch
     - mit
     - mitbringen
     - mitkommen
     - mitmachen
     - mitnehmen
+    - die Mitte
+    - das Möbel
     - möchten
     - mögen
+    - möglich
     - der Moment
     - morgen
     - müde
+    - der Mund
     - müssen
     - die Mutter
     - nach
+    - nächste
+    - der Name
+    - der Vorname
     - nehmen
+    - nein
     - neu
     - nicht
     - nichts
     - nie
     - noch
+    - normal
     - die Nummer
     - nur
+    - oben
+    - das Obst
     - oder
     - öffnen
     - geöffnet
     - oft
     - ohne
+    - das Öl
+    - die Oma
+    - der Opa
+    - die Ordnung
+    - der Ort
+    - das Papier
+    - der Partner
     - die Party
+    - der Pass
+    - die Pause
+    - der Plan
+    - der Platz
     - die Polizei
+    - die Pommes frites
+    - die Post
+    - die Postleitzahl
+    - das Praktikum
+    - die Praxis
+    - der Preis
     - das Problem
+    - der Prospekt
     - die Prüfung
+    - pünktlich
     - rauchen
     - der Raum
     - die Rechnung
+    - rechts
     - regnen
     - der Regen
     - der Reis
@@ -381,35 +501,66 @@
     - die Reparatur
     - das Restaurant
     - die Rezeption
+    - richtig
+    - riechen
+    - ruhig
     - der Saft
     - sagen
     - der Salat
+    - das Salz
+    - der Satz
+    - der Schalter
+    - scheinen
+    - schicken
+    - das Schild
+    - der Schinken
     - schlafen
     - schlecht
     - schließen
     - geschlossen
+    - der Schluss
     - der Schlüssel
     - schmecken
+    - schnell
     - schon
     - schön
+    - der Schrank
     - schreiben
+    - der Schuh
     - die Schule
     - der Schüler
+    - schwer
     - die Schwester
+    - schwimmen
+    - das Schwimmbad
+    - der See
     - sehen
+    - die Sehenswürdigkeit
+    - sehr
     - sein
     - seit
+    - selbstständig
     - sitzen
+    - so
+    - das Sofa
+    - sofort
     - der Sohn
     - sollen
     - die Sonne
     - spät
     - später
+    - die Speisekarte
     - spielen
     - der Sport
     - die Sprache
     - sprechen
     - die Stadt
+    - stehen
+    - die Stelle
+    - stellen
+    - gestorben
+    - der Stock
+    - die Straße
     - studieren
     - der Student
     - das Studium
@@ -423,53 +574,99 @@
     - telefonieren
     - das Telefon
     - der Termin
+    - der Test
     - teuer
+    - der Text
+    - das Thema
+    - das Ticket
     - der Tisch
     - die Tochter
+    - die Toilette
+    - die Tomate
+    - treffen
     - treiben
+    - die Treppe
     - trinken
+    - tschüss
     - tun
     - über
     - übernachten
+    - überweisen
     - die Uhr
+    - um
+    - umziehen
+    - und
     - und so weiter
+    - unten
+    - unter
     - der Unterricht
+    - unterschreiben
+    - die Unterschrift
     - der Urlaub
     - der Vater
+    - verboten
+    - verdienen
+    - der Verein
     - verheiratet
     - verkaufen
     - der Verkäufer
+    - vermieten
+    - der Vermieter
     - (sich) verstehen
     - der Verwandte
     - viel
     - vielleicht
+    - vor
+    - die Vorsicht
+    - die Vorwahl
     - wandern
     - wann
+    - warten
     - warum
     - was
     - (sich) waschen
     - das Wasser
+    - weg sein
+    - weiblich
+    - der Wein
+    - weit
+    - weiter
     - welch-
     - die Welt
+    - wenig
     - wer
     - werden
     - das Wetter
+    - wichtig
     - wie
     - wiederholen
+    - wie viel
+    - willkommen
+    - der Wind
+    - wissen
     - wo
     - woher
     - wohin
     - wohnen
     - die Wohnung
     - wollen
+    - das Wort
+    - wunderbar
     - zahlen
     - die Zeit
     - zurzeit
     - die Zeitung
     - das Zimmer
+    - die Zigarette
     - zirka
+    - der Zoll
     - zu
+    - zufrieden
+    - der Zug
+    - zurück
     - zusammen
+    - zu sein
+    - zwischen
 
 - Id: A2
   Words:
@@ -487,7 +684,7 @@
     - die Ahnung
     - aktiv
     - aktuell
-    - all-
+    - all
     - allein
     - als
     - also
@@ -497,7 +694,7 @@
     - an
     - anbieten
     - das Angebot
-    - ander-
+    - anderer
     - ändern
     - anders
     - anfangen
@@ -555,6 +752,7 @@
     - der Aufzug
     - das Auge
     - aus
+    - aus sein
     - die Ausbildung
     - der Ausflug
     - ausfüllen
@@ -723,7 +921,7 @@
     - deshalb
     - deutlich
     - dick
-    - dies-
+    - dies
     - das Ding
     - direkt
     - die Diskothek
@@ -763,10 +961,10 @@
     - eigen
     - eigentlich
     - eilig
-    - ein-
+    - ein
     - einfach
     - der Eingang
-    - einig-
+    - einig
     - einkaufen
     - das Einkaufszentrum
     - einladen
@@ -799,6 +997,7 @@
     - erlauben
     - die Ermäßigung
     - erreichen
+    - erst
     - der Erwachsene
     - erzählen
     - essen
@@ -889,129 +1088,285 @@
     - das Geburtsjahr
     - der Geburtsort
     - der Geburtstag
+    - geehrt
+    - gefährlich
+    - gefallen
     - gegen
+    - das Gehalt
     - gehen
+    - gehören
     - das Geld
+    - die Geldbörse
+    - das Gemüse
     - genau
     - genug
+    - das Gepäck
+    - gerade
+    - geradeaus
     - das Gerät
+    - das Gericht
     - gern
+    - das Geschäft
+    - das Geschenk
+    - die Geschichte
     - das Geschirr
     - das Geschwister
+    - das Gesicht
     - das Gespräch
     - gestern
+    - gesund
     - die Gesundheit
+    - das Getränk
+    - das Gewicht
+    - gewinnen
+    - das Gewitter
     - die Gitarre
     - das Glas
+    - glauben
+    - gleich
+    - das Gleis
     - das Glück
     - glücklich
     - der Glückwunsch
+    - der Grad
+    - gratulieren
+    - grillen
+    - die Grippe
     - groß
+    - die Großeltern
+    - die Großmutter
+    - der Großvater
+    - die Größe
+    - die Gruppe
+    - der Gruß
+    - gültig
     - günstig
+    - gut
+    - das Haar
     - haben
     - das Hähnchen
+    - die Halbpension
+    - die Halle
+    - hallo
+    - der Hals
+    - halten
+    - die Haltestelle
     - der Hamburger
+    - die Hand
+    - das Handtuch
     - das Handy
+    - hängen
+    - hart
+    - hässlich
+    - die Hauptstadt
     - das Haus
     - die Hausaufgabe
     - die Hausfrau
     - der Hausmann
     - der Haushalt
+    - das Heft
     - die Heimat
     - heiraten
+    - heiß
     - heißen
     - das heißt
+    - die Heizung
     - helfen
     - die Hilfe
     - hell
+    - das Hemd
+    - her
+    - heraus
+    - der Herd
     - der Herr
+    - herstellen
     - herunterladen
     - herzlich
     - heute
     - hier
+    - der Himmel
+    - hinten
+    - hinter
     - das Hobby
+    - hoch
     - die Hochzeit
+    - hoffen
+    - holen
     - die Homepage
     - hören
+    - die Hose
+    - das Hotel
+    - der Hund
     - der Hunger
+    - husten
     - der ICE
     - die Idee
+    - immer
+    - in
+    - informieren
     - die Information
-    - das Internet
+    - die Insel
+    - das Instrument
+    - intelligent
     - interessieren
     - interessant
     - das Interesse
+    - international
+    - das Internet
+    - ja
+    - die Jacke
+    - die Jeans
+    - jeder
+    - jemand
     - jetzt
     - der Job
     - joggen
     - der Journalist
+    - der Jugendliche
+    - die Jugendherberge
+    - jung
+    - der Junge
     - der Kaffee
     - der Kalender
     - kalt
+    - die Kamera
     - kaputt
     - die Karte
+    - die Kartoffel
+    - die Kasse
+    - die Katze
+    - kaufen
+    - das Kaufhaus
+    - kein
+    - der Keller
     - der Kellner
     - kennen
+    - kennenlernen
+    - die Kenntnis
     - das Kind
     - der Kindergarten
+    - das Kino
+    - der Kiosk
+    - die Kirche
     - klar
+    - die Klasse
+    - das Klavier
+    - das Kleid
+    - die Kleidung
     - klein
     - der Klub
+    - klug
     - kochen
+    - der Koffer
     - der Kollege
+    - komisch
     - kommen
     - können
+    - der Kontakt
+    - das Konto
     - kontrollieren
+    - das Konzert
+    - der Kopf
+    - der Körper
+    - die Kosmetik
     - kosten
     - kostenlos
     - krank
     - das Krankenhaus
     - die Krankenkasse
     - die Krankheit
+    - der Kredit
+    - die Kreditkarte
+    - die Kreuzung
+    - kriegen
+    - der Krimi
+    - die Küche
     - der Kuchen
+    - der Kugelschreiber
     - kühl
     - der Kühlschrank
+    - die Kultur
+    - kulturell
+    - sich kümmern
     - der Kunde
     - die Kunst
+    - der Kurs
     - kurz
     - lachen
+    - der Laden
     - die Lampe
+    - das Land
     - lang
     - lange
+    - langsam
     - langweilig
     - der Laptop
+    - lassen
     - der Lastkraftwagen
     - laufen
+    - laut
     - leben
     - das Leben
     - die Lebensmittel
     - ledig
+    - leer
+    - legen
     - der Lehrer
+    - leicht
     - leid tun
     - leider
+    - leihen
+    - leise
     - lernen
     - lesen
-    - letzt-
+    - letzte
+    - die Leute
+    - das Licht
     - lieben
     - lieb
     - die Lieblingsfarbe
     - der Lieblingsfilm
     - das Lieblingsessen
+    - das Lied
+    - liefern
+    - liegen
     - der Link
+    - links
+    - der Löffel
+    - das Lokal
     - die Lösung
     - lügen
     - die Lüge
+    - lustig
     - machen
+    - das Mädchen
     - die Mailbox
+    - das Mal
     - malen
+    - man
+    - manch
+    - manchmal
+    - der Mann
+    - männlich
     - die Mannschaft
     - der Markt
+    - die Maschine
     - das Medikament
+    - das Meer
     - mehr
     - meinen
     - die Meinung
+    - meist
+    - meistens
+    - die Menge
     - der Mensch
+    - merken
+    - die Messe
+    - das Messer
+    - mieten
+    - die Miete
     - die Milch
+    - mindestens
     - das Mineralwasser
     - mit
     - mitbringen
@@ -1020,55 +1375,101 @@
     - mitnehmen
     - mitspielen
     - der Mitarbeiter
+    - der Mittagessen
+    - die Mitte
+    - das Mittel
+    - das Möbel
+    - das Mobiltelefon
     - möchten
     - die Mode
     - modern
     - mögen
+    - möglich
     - der Moment
     - morgen
+    - der Motorroller
     - müde
+    - der Müll
+    - der Mund
     - das Museum
     - die Musik
     - müssen
     - die Mutter
+    - die Mütze
     - nach
     - der Nachbar
     - die Nachricht
+    - nächste
+    - die Nähe
+    - der Name
+    - der Vorname
+    - nass
     - die Natur
     - natürlich
+    - neblig
+    - neben
+    - nebenan
     - nehmen
+    - nein
+    - nennen
+    - nervös
+    - nett
     - neu
     - nicht
     - nichts
     - nie
+    - nirgends
     - noch
+    - normal
     - die Notiz
     - die Nummer
     - nur
+    - oben
+    - das Obst
     - oder
     - öffnen
     - geöffnet
     - oft
     - ohne
+    - das Öl
+    - die Oma
     - online
+    - der Opa
     - die Orange
+    - die Ordnung
+    - der Ort
     - das Paket
+    - das Papier
+    - der Partner
     - die Party
+    - der Pass
+    - die Pause
     - der Personalcomputer
+    - der Plan
+    - der Platz
     - die Polizei
+    - die Pommes frites
+    - die Post
+    - die Postleitzahl
     - das Poster
+    - das Praktikum
+    - die Praxis
+    - der Preis
     - probieren
     - das Problem
     - das Programm
     - das Projekt
+    - der Prospekt
     - prüfen
     - die Prüfung
     - der Punkt
+    - pünktlich
     - das Rathaus
     - rauchen
     - der Raum
     - rechnen
     - die Rechnung
+    - rechts
     - reden
     - regnen
     - der Regen
@@ -1083,127 +1484,286 @@
     - das Restaurant
     - das Rezept
     - die Rezeption
+    - richtig
+    - riechen
+    - ruhig
+    - die Sache
     - der Saft
     - sagen
     - der Salat
+    - das Salz
+    - der Satz
+    - sauber
     - schade
     - schädlich
+    - schaffen
+    - der Schalter
+    - scharf
+    - geschieden
+    - scheinen
     - schenken
+    - die Schere
+    - schicken
+    - das Schiff
+    - das Schild
+    - schimpfen
+    - der Schinken
+    - der Schirm
     - schlafen
+    - das Schlafzimmer
     - schlecht
     - schließen
     - geschlossen
+    - schlimm
+    - das Schloss
+    - der Schluss
     - der Schlüssel
     - schmecken
     - der Schmerz
+    - schmutzig
+    - der Schnee
+    - schneien
+    - (sich) schneiden
+    - schnell
     - die Schokolade
     - schon
     - schön
+    - der Schrank
+    - schrecklich
     - schreiben
+    - schriftlich
+    - der Schuh
     - die Schule
     - der Schüler
+    - schwach
+    - schwanger
+    - das Schwein
+    - schwer
     - die Schwester
     - schwierig
+    - schwimmen
+    - das Schwimmbad
+    - der See
+    - die See
     - sehen
+    - die Sehenswürdigkeit
+    - sehr
+    - die Seife
     - sein
     - seit
     - die Seite
     - selbst
+    - selbstständig
+    - die Sendung
+    - der Service
+    - (sich) setzen
+    - sicher
+    - singen
+    - die Situation
     - sitzen
     - der Ski
     - das SMS
+    - so
+    - das Sofa
+    - sofort
+    - sogar
     - der Sohn
     - sollen
     - die Sonne
+    - sonnig
     - sonst
     - spannend
+    - sparen
+    - der Spaß
     - spät
     - später
     - spazieren gehen
+    - der Spaziergang
+    - speichern
+    - die Speisekarte
     - spielen
     - das Spiel
     - der Sport
     - sportlich
+    - der Sportplatz
     - die Sprache
     - sprechen
+    - die Sprechstunde
     - die Stadt
     - der Stadtplan
+    - der Star
+    - stark
+    - stattfinden
+    - stehen
+    - die Stelle
+    - stellen
+    - sterben
+    - gestorben
+    - der Stiefel
     - der Stift
+    - das Stipendium
+    - der Stock
+    - das Stockwerk
+    - stören
+    - der Strand
+    - die Straße
+    - (sich) streiten
+    - streng
+    - der Stress
+    - stressig
+    - das Stück
     - studieren
     - der Student
     - das Studium
     - der Stuhl
     - die Stunde
     - suchen
+    - super
+    - der Supermarkt
     - die Suppe
     - surfen
+    - süß
+    - die Süßigkeit
+    - sympathisch
+    - das Tablet
+    - die Tablette
+    - die Tafel
     - tanzen
     - die Tasche
+    - das Taschengeld
     - die Tasse
+    - tauschen
+    - austauschen
     - das Taxi
     - das Team
     - der Tee
+    - teilen
     - der Teil
     - teilnehmen
     - telefonieren
     - das Telefon
     - der Teller
     - der Termin
+    - der Test
     - teuer
+    - der Text
+    - das Theater
+    - das Thema
+    - das Ticket
+    - tief
+    - das Tier
+    - der Tipp
     - der Tisch
+    - der Titel
     - die Tochter
+    - die Toilette
     - toll
+    - die Tomate
+    - der Topf
+    - die Torte
+    - tot
     - die Tour
     - der Tourist
+    - tragen
+    - trainieren
+    - das Training
     - träumen
     - der Traum
+    - treffen
     - treiben
     - getrennt leben
+    - die Treppe
     - trinken
+    - trocken
+    - trocknen
+    - tschüss
     - das T-Shirt
     - tun
     - die Tür
+    - typisch
+    - üben
     - über
     - überall
+    - übermorgen
     - übernachten
+    - übersetzen
+    - der Übersetzer
+    - überweisen
     - die Uhr
+    - um
+    - umsteigen
+    - umziehen
+    - der Umzug
+    - sich umziehen
+    - unbedingt
+    - und
     - und so weiter
+    - der Unfall
     - die Universität
+    - unten
+    - unter
+    - (sich) unterhalten
+    - die Unterkunft
+    - unternehmen
     - der Unterricht
+    - der Unterschied
+    - unterschreiben
+    - die Unterschrift
     - untersuchen
+    - unterwegs
     - der Urlaub
     - der Vater
     - die Veranstaltung
+    - verboten
+    - verdienen
+    - der Verein
     - vereinbaren
     - vergleichen
     - vgl.
     - verheiratet
     - verkaufen
     - der Verkäufer
+    - vermieten
+    - der Vermieter
     - (sich) verstehen
     - der Verwandte
     - viel
     - vielleicht
+    - vor
     - vorher
+    - die Vorsicht
+    - die Vorwahl
     - wahr
     - wandern
     - wann
+    - warten
     - warum
     - was
     - (sich) waschen
     - die Wäsche
     - das Wasser
     - das Wasserklosett
+    - weg sein
     - wegen
+    - weiblich
+    - der Wein
+    - weit
+    - weiter
     - welch-
     - die Welt
+    - wenig
     - wenn
     - wer
     - werden
     - das Wetter
+    - wichtig
     - wie
     - wiederholen
+    - wie viel
+    - willkommen
+    - der Wind
     - wirklich
+    - wissen
     - wo
     - woher
     - wohin
@@ -1213,6 +1773,8 @@
     - die Wolke
     - bewölkt
     - wollen
+    - das Wort
+    - wunderbar
     - die Wurst
     - zahlen
     - die Zeit
@@ -1220,10 +1782,18 @@
     - die Zeitschrift
     - die Zeitung
     - das Zimmer
+    - die Zigarette
     - zirka
+    - der Zoll
     - zu
     - der Zucker
+    - zufrieden
+    - der Zug
+    - zuhören
+    - zurück
     - zusammen
+    - zu sein
+    - zwischen
 
 - Id: B1
   Words:
@@ -1236,7 +1806,7 @@
     - die Abfahrt
     - der Abfall
     - der Abfalleimer
-    - Abgase
+    - das Abgas
     - abgeben
     - abhängen (von)
     - abhängig
@@ -1277,7 +1847,7 @@
     - akzeptieren
     - der Alarm
     - der Alkohol
-    - all-
+    - all
     - allein
     - aller-
     - allerdings
@@ -1302,7 +1872,7 @@
     - anbieten
     - der Anbieter
     - das Angebot
-    - ander-
+    - anderer
     - andererseits
     - ändern
     - die Änderung
@@ -1422,6 +1992,7 @@
     - das Auge
     - der Augenblick
     - aus
+    - aus sein
     - die Ausbildung
     - ausgebildet
     - ausdrucken
@@ -1500,7 +2071,7 @@
     - die Bank (-en)
     - die Bankleitzahl
     - der Bankomat
-    - die Bankomatkarte
+    - die Bankomat-Karte
     - die Bar
     - bar
     - das Bargeld
@@ -1596,7 +2167,7 @@
     - besetzt
     - besichtigen
     - besitzen
-    - besonder-
+    - besondere
     - besonders
     - besorgen
     - besprechen
@@ -1641,7 +2212,7 @@
     - das Billett
     - billig
     - die Biologie
-    - Bio-
+    - bio-
     - biologisch
     - die Birne
     - bis
@@ -1791,7 +2362,7 @@
     - der Dieb
     - dienen
     - der Dienst
-    - dies-
+    - dies
     - diesmal
     - digital
     - das Ding
@@ -1850,7 +2421,7 @@
     - das E-Book
     - die E-Mail
     - echt
-    - die EC-Karte
+    - die ec-Karte
     - die Ecke
     - das Eck
     - eckig
@@ -1869,7 +2440,7 @@
     - eilen
     - die Eile
     - eilig
-    - ein-
+    - ein
     - die Einbahnstraße
     - einbrechen
     - der Einbrecher
@@ -1888,7 +2459,7 @@
     - die Einführung
     - der Eingang
     - einheitlich
-    - einig-
+    - einig
     - sich einigen
     - einkaufen
     - der Einkauf
@@ -2016,7 +2587,6 @@
     - ersetzen
     - der Ersatz
     - erst
-    - erst-
     - erstellen
     - erwachsen
     - der Erwachsene
@@ -2237,120 +2807,456 @@
     - der Geburtstag
     - das Gedicht
     - die Geduld
+    - geehrt
+    - geeignet
+    - die Gefahr
+    - gefährlich
+    - gefallen
+    - sich etwas gefallen lassen
+    - das Gefängnis
+    - das Gefühl
     - gegen
+    - der Gegner
+    - die Gegend
+    - der Gegensatz
+    - der Gegenstand
+    - das Gegenteil
+    - gegenüber
+    - das Gehalt
+    - das Geheimnis
+    - geheim
     - gehen
+    - gehören
+    - der Gehsteig
     - das Geld
+    - der Geldautomat
+    - die Geldbörse
+    - die Gelegenheit
+    - gelingen
+    - gelten
+    - gemeinsam
+    - die Gemeinschaft
+    - das Gemüse
+    - gemütlich
     - genau
     - genauso
+    - genehmigen
+    - die Generation
+    - genießen
     - genug
+    - genügen
+    - das Gepäck
+    - gerade
+    - geradeaus
     - das Gerät
+    - gerecht
+    - das Gericht
+    - gering
     - gern
-    - geschieden
+    - gesamt
+    - das Geschäft
+    - geschehen
+    - das Geschenk
+    - die Geschichte
     - das Geschirr
+    - das Geschlecht
+    - der Geschmack
+    - die Geschwindigkeit
+    - die Geschwindigkeitsbeschränkung
     - das Geschwister
+    - die Gesellschaft
+    - das Gesetz
+    - das Gesicht
+    - gespannt
     - das Gespräch
     - gestern
+    - gesund
     - die Gesundheit
+    - das Getränk
+    - die Gewalt
+    - die Gewerkschaft
+    - das Gewicht
+    - gewinnen
+    - der Gewinn
+    - das Gewissen
+    - das Gewitter
+    - gewöhnen
+    - die Gewohnheit
+    - gewohnt
+    - gewöhnlich
+    - das Gewürz
+    - gießen
+    - das Gift
+    - giftig
     - die Gitarre
+    - die Glace
     - das Glas
+    - glatt
+    - glauben
+    - gleich
+    - gleichfalls
+    - gleichberechtigt
+    - gleichzeitig
+    - das Gleis
     - global
     - das Glück
     - glücklich
     - der Glückwunsch
+    - das Gold
+    - der Golf
     - googeln
+    - der Gott
+    - der Grad
+    - die Grafik
+    - das Gras
+    - gratulieren
+    - die Gratulation
+    - gratis
+    - greifen
+    - die Grenze
+    - grillen
+    - grillieren
+    - der Grill
+    - die Grippe
     - groß
+    - die Großeltern
+    - die Großmutter
+    - der Großvater
+    - die Größe
+    - gründen
+    - der Grund
+    - gründlich
+    - das Grundstück
+    - die Gruppe
+    - grüßen
+    - der Gruß
+    - gucken
+    - gültig
     - günstig
+    - gut
+    - die Gymnastik
+    - das Haar
     - haben
     - das Hackfleisch
+    - der Hafen
+    - hageln
     - das Hähnchen
     - das Hühnchen
+    - halb
+    - die Halbpension
+    - halbtags
+    - die Hälfte
+    - die Halle
+    - das Hallenbad
+    - hallo
+    - der Hals
+    - halt
+    - haltbar
+    - halten
+    - der Halt
+    - die Haltestelle
     - der Hamburger
+    - der Hammer
+    - die Hand
+    - der Handwerker
+    - handeln
+    - der Handel
+    - der Händler
+    - das Handtuch
     - das Handy
+    - hängen
+    - hart
+    - hassen
+    - hässlich
+    - häufig
+    - die Hauptstadt
+    - der Hauptbahnhof
     - das Haus
     - die Hausaufgabe
     - die Hausfrau
     - der Hausmann
     - der Haushalt
     - der Hausmeister
+    - die Haut
+    - heben
+    - das Heft
+    - heim
+    - das Heim
     - die Heimat
+    - heimlich
+    - das Heimweh
     - heiraten
+    - heiß
     - heißen
     - das heißt
+    - heizen
+    - die Heizung
+    - der Held
     - helfen
     - die Hilfe
+    - das Hilfsmittel
     - hell
+    - das Hemd
+    - her
+    - heraus
+    - herausfinden
+    - die Herausforderung
+    - der Herd
+    - herein
+    - die Herkunft
     - der Herr
+    - herstellen
+    - der Hersteller
     - herunterladen
     - herunterfahren
     - das Herz
     - herzlich
     - heute
+    - heutig
     - hier
-    - das Hilfsmittel
+    - hierher
+    - der Himmel
+    - hinunterwerfen
+    - hinten
+    - hinter
+    - hinterlassen
+    - hinterher
+    - hinweisen
+    - der Hinweis
+    - historisch
     - der Hit
+    - die Hitze
     - das Hobby
+    - hoch
+    - die Höhe
     - hochladen
+    - höchstens
     - die Hochzeit
+    - der Hof
+    - der Bauernhof
+    - hoffen
+    - hoffentlich
+    - die Hoffnung
+    - höflich
+    - holen
+    - das Holz
     - die Homepage
+    - der Honig
     - hören
+    - der Hörer
+    - die Hose
+    - das Hotel
+    - hübsch
+    - der Hügel
+    - der Humor
+    - der Hund
     - der Hunger
     - hungrig
+    - hupen
+    - husten
+    - der Husten
+    - der Hut
+    - die Hütte
     - der ICE
+    - ideal
     - die Idee
+    - illegal
+    - der Imbiss
+    - immer
+    - der Import
+    - in
+    - indem
+    - individuell
+    - die Industrie
+    - die Infektion
+    - informieren
     - die Information
     - der Ingenieur
-    - das Internet
+    - der Inhalt
+    - inklusive
+    - innen
+    - inner
+    - innerhalb
+    - die Insel
+    - das Inserat
+    - insgesamt
+    - installieren
+    - das Institut
+    - das Instrument
+    - integrieren
+    - die Integration
+    - intelligent
+    - die Intelligenz
+    - intensiv
+    - der Intensivkurs
     - interessieren
     - interessant
     - das Interesse
     - interessiert
+    - interkulturell
+    - international
+    - das Internet
+    - das Interview
+    - inzwischen
+    - irgendein
+    - irgendwann
+    - sich irren
+    - ja
+    - die Jacke
+    - die Jause
     - der Jazz
+    - je
+    - je... desto...
+    - die Jeans
+    - jeder
+    - jederzeit
+    - jedes Mal
+    - jedoch
+    - jemals
+    - jemand
     - jetzt
+    - jeweils
     - der Job
     - jobben
     - joggen
     - der Journalist
+    - die Jugend
+    - der Jugendliche
+    - die Jugendherberge
+    - jung
+    - der Junge
+    - das Kabel
+    - die Kabine
     - der Kaffee
+    - das Kaffeehaus
+    - der Kakao
     - der Kalender
     - kalt
     - die Kälte
+    - die Kamera
     - kämpfen
+    - der Kampf
+    - der Kanal
+    - der Kandidat
+    - die Kanne
+    - die Kantine
     - das Kapitel
     - kaputt
     - kaputtgehen
     - kaputtmachen
     - der Karneval
+    - die Karotte
+    - die Karriere
     - die Karte
+    - die Chipkarte
+    - die Kartoffel
     - der Käse
+    - die Kasse
+    - die Kassette
+    - der Kasten
+    - der Katalog
+    - die Katastrophe
+    - die Katze
+    - kaufen
+    - der Kauf
+    - der Käufer
+    - das Kaufhaus
+    - kaum
     - kein
+    - der Keller
     - der Kellner
     - kennen
+    - kennenlernen
+    - die Kenntnis
     - das Kennzeichen
+    - die Kerze
     - der Ketchup
+    - die Kette
     - der Killer
     - das Kind
     - der Kindergarten
     - die Kindheit
+    - das Kino
+    - der Kiosk
+    - die Kirche
+    - die Kiste
+    - das Kissen
+    - klagen
+    - klappen
     - klar
+    - klären
+    - klasse
+    - die Klasse
+    - die Klassenarbeit
     - das Klavier
+    - kleben
+    - das Kleid
+    - die Kleidung
     - klein
+    - klettern
+    - klicken
+    - der Klick
+    - das Klima
+    - die Klimaanlage
+    - klingeln
+    - die Klingel
+    - klingen
+    - die Klinik
+    - klopfen
+    - der Kloß
     - der Klub
+    - klug
+    - knapp
     - die Kneipe
+    - das Knie
+    - der Knochen
+    - der Knödel
+    - der Knopf
     - kochen
     - der Koch
+    - der Koffer
     - der Kollege
+    - komisch
     - kommen
     - der Kommentar
+    - die Kommunikation
+    - komplett
+    - kompliziert
+    - der Kompromiss
     - die Konferenz
+    - die Konfitüre
+    - der Konflikt
+    - der König
+    - die Konkurrenz
     - können
+    - das Konsulat
+    - konsumieren
+    - der Konsum
+    - der Kontakt
+    - das Konto
+    - das Girokonto
     - kontrollieren
+    - die Kontrolle
+    - sich konzentrieren
+    - das Konzert
+    - der Kopf
     - kopieren
     - die Kopie
     - der Kopierer
+    - der Körper
+    - körperlich
+    - korrekt
+    - der Korridor
+    - korrigieren
+    - die Kosmetik
     - kosten
     - die Kosten
     - kostenlos
+    - das Kostüm
+    - die Kraft
+    - kräftig
     - das Kraftfahrzeug
+    - das Kraftwerk
     - krank
     - der Kranke
     - das Krankenhaus
@@ -2359,71 +3265,226 @@
     - die Krankenschwester
     - der Krankenwagen
     - die Krankheit
+    - kreativ
+    - der Kredit
+    - die Kreditkarte
+    - der Kreis
+    - das Kreuz
+    - die Kreuzung
+    - der Krieg
+    - kriegen
+    - die Kriminalpolizei
+    - der Krimi
+    - die Krise
+    - kritisieren
+    - die Kritik
+    - kritisch
+    - die Küche
     - der Kuchen
+    - der Kugelschreiber
+    - der Kuli
     - kühl
     - der Kühlschrank
+    - die Kultur
+    - kulturell
+    - sich kümmern
     - der Kunde
+    - kündigen
+    - die Kündigung
     - die Kunst
     - der Künstler
+    - künstlich
+    - der Kunststoff
+    - der Kurs
+    - der Kursleiter
+    - die Kurve
     - kurz
+    - kürzlich
+    - küssen
+    - der Kuss
+    - die Küste
+    - das Kuvert
+    - lächeln
     - lachen
+    - der Laden
+    - die Lage
+    - das Lager
     - die Lampe
+    - das Land
+    - die Landwirtschaft
+    - die Landschaft
+    - landen
+    - die Landung
     - lang
     - die Länge
     - lange
+    - langsam
+    - längst
     - langweilig
     - sich langweilen
     - die Langeweile
     - der Laptop
+    - der Lärm
+    - lassen
     - der Lastkraftwagen
+    - der Laster
     - laufen
+    - das Laufwerk
+    - die Laune
+    - laut
+    - der Lautsprecher
+    - lecker
     - leben
     - das Leben
     - der Lebenslauf
     - die Lebensmittel
+    - das Leder
     - ledig
+    - leer
+    - legen
+    - die Lehre
+    - die Lehrstelle
     - der Lehrer
+    - der Lehrling
+    - leicht
     - leid tun
     - leiden
     - leider
+    - leihen
+    - leise
+    - leisten
+    - die Leistung
+    - leiten
+    - der Leiter
+    - die Leitung
+    - die Leiter
     - lernen
+    - der Lerner
     - lesen
     - der Leser
-    - letzt-
+    - letzte
+    - die Leute
+    - das Lexikon
+    - das Licht
     - lieben
     - lieb
     - die Liebe
     - die Lieblingsfarbe
     - der Lieblingsfilm
     - das Lieblingsessen
+    - das Lied
+    - liefern
+    - die Lieferung
+    - liegen
+    - der Lift
     - die Limonade
+    - die Linie
     - der Link
+    - links
+    - link
+    - die Lippe
+    - die Liste
     - die Literatur
     - live
+    - loben
+    - das Loch
+    - locker
+    - der Löffel
+    - der Lohn
+    - sich lohnen
+    - das Lokal
+    - los
+    - losfahren
+    - löschen
     - lösen
     - die Lösung
+    - die Luft
     - lügen
     - die Lüge
+    - die Lust
+    - lustig
     - machen
+    - das Mädchen
+    - das Magazin
+    - der Magen
+    - mager
+    - die Mahlzeit
+    - die Mahnung
     - die Mailbox
     - mailen
+    - das Mal
     - malen
     - der Maler
+    - man
     - der Manager
+    - manch
+    - manchmal
+    - der Mangel
+    - der Mann
+    - männlich
     - die Mannschaft
+    - der Mantel
+    - die Mappe
+    - das Märchen
+    - die Margarine
+    - die Marille
+    - die Marke
+    - markieren
     - der Markt
+    - die Marmelade
+    - die Maschine
+    - das Material
+    - die Matura
+    - die Mauer
+    - maximal
+    - der Mechaniker
+    - das Medium
     - das Medikament
+    - die Medizin
+    - das Meer
+    - das Mehl
     - mehr
     - mehrere
     - die Mehrheit
+    - die Mehrwertsteuer
     - meinen
     - meinetwegen
     - die Meinung
+    - meist
+    - meistens
+    - der Meister
+    - melden
+    - die Meldung
+    - die Menge
     - die Mensa
     - der Mensch
     - menschlich
+    - das Menü
+    - merken
+    - merkwürdig
+    - die Messe
+    - messen
+    - das Messer
+    - das Metall
+    - die Methode
+    - die Metropole
+    - der Metzger
+    - mieten
+    - die Miete
+    - der Mieter
+    - der Migrant
+    - die Migration
     - die Milch
+    - mild
+    - die Minderheit
+    - mindestens
     - das Mineralwasser
+    - minimal
+    - mischen
+    - der Misserfolg
+    - das Misstrauen
+    - missverstehen
+    - das Missverständnis
     - mit
     - mitbringen
     - mitkommen
@@ -2431,155 +3492,574 @@
     - mitnehmen
     - mitspielen
     - der Mitarbeiter
-    - möchten
+    - miteinander
+    - das Mitglied
+    - der Mittagessen
+    - die Mitte
+    - mitteilen
+    - das Mittel
+    - mitten
+    - mittler
+    - mittlerweile
+    - das Möbel
+    - möbliert
+    - mobil
     - die Mobilbox
+    - die Mobilität
+    - das Mobiltelefon
+    - möchten
     - die Mode
+    - das Modell
     - der Moderator
     - modern
     - das Modul
     - mögen
+    - möglich
+    - die Möglichkeit
+    - möglichst
+    - die Möhre
     - der Moment
+    - der Mond
+    - der Monitor
     - morgen
+    - der Motor
+    - das Motorrad
+    - der Motorroller
     - das Mountainbike
     - müde
+    - die Mühe
+    - der Müll
+    - die Müllabfuhr
+    - die Mülltonne
+    - der Mund
+    - mündlich
+    - die Münze
     - das Museum
     - die Musik
     - musikalisch
     - der Musiker
+    - der Muskel
+    - das Müsli
     - müssen
+    - der Mut
+    - mutig
     - die Mutter
+    - die Mütze
     - nach
     - der Nachbar
+    - nachdem
+    - nachdenken
+    - die Nachfrage
+    - nachher
+    - die Nachhilfe
     - die Nachricht
+    - nachschlagen
+    - die Nachspeise
+    - nächste
+    - der Nachteil
+    - der Nachwuchs
+    - die Nadel
+    - der Nagel
+    - nah
+    - die Nähe
+    - nähen
+    - sich nähern
+    - das Nahrungsmittel
+    - der Name
+    - der Vorname
+    - nämlich
+    - die Nase
+    - nass
+    - national
     - die Natur
     - natürlich
+    - der Nebel
+    - neblig
+    - neben
+    - nebenan
+    - nebenbei
+    - der Neffe
+    - negativ
     - nehmen
+    - nein
+    - nennen
+    - der Nerv
+    - nervös
+    - nett
+    - das Netz
+    - das Netzwerk
     - neu
+    - die Neuigkeit
+    - neugierig
+    - neulich
     - nicht
+    - die Nichte
+    - der Nichtraucher
     - nichts
     - nie
+    - niedrig
+    - niemand
+    - nirgends
+    - nirgendwo
     - noch
+    - noch mal
+    - nochmals
+    - normal
+    - normalerweise
+    - die Notaufnahme
+    - der Notausgang
+    - der Notfall
+    - der Notruf
     - die Note
+    - notieren
+    - nötig
     - die Notiz
+    - notwendig
+    - die Nudel
     - die Nummer
+    - nun
     - nur
+    - nutzen
+    - nützen
+    - nützlich
+    - ob
+    - oben
+    - der Ober
     - das Obergeschoss
+    - das Obst
+    - obwohl
     - oder
+    - der Ofen
+    - offen
+    - öffentlich
+    - die Öffentlichkeit
+    - veröffentlichen
+    - offenbar
+    - offiziell
     - öffnen
     - geöffnet
     - oft
     - öfter
     - ohne
+    - das Ohr
     - O.K.
+    - Öko-
+    - das Öl
+    - die Oma
     - der Onkel
     - online
+    - der Opa
+    - die Oper
+    - operieren
+    - die Operation
+    - das Opfer
+    - optimistisch
     - die Orange
+    - das Orchester
+    - ordentlich
+    - ordnen
+    - der Ordner
+    - die Ordnung
+    - organisieren
+    - die Organisation
+    - das Original
+    - original
+    - der Ort
+    - der Vorort
+    - der Ozean
+    - paar
+    - das Paar
+    - packen
     - das Paket
+    - die Panne
+    - das Papier
+    - parallel
+    - das Parfüm
+    - der Park
+    - parken
+    - der Partner
     - die Party
+    - der Pass
+    - der Passagier
+    - passen
+    - passieren
+    - passiv
     - der Patient
+    - pauschal
+    - die Pause
+    - das Pech
+    - peinlich
+    - die Pension
     - in Pension
     - pensioniert
+    - der Pensionist
+    - per
     - perfekt
+    - die Person
     - der Personalcomputer
     - der Personenkraftwagen
+    - persönlich
+    - die Personalien
+    - der Personenstand
+    - das Personal
+    - die Pfanne
+    - der Pfeffer
+    - pflanzen
+    - die Pflanze
+    - das Pflaster
+    - die Pflaume
+    - pflegen
+    - der Pfleger
+    - die Pflicht
     - die Phantasie
+    - das Picknick
+    - die Pille
+    - der Pilz
     - die Pizza
+    - das Plakat
+    - planen
+    - der Plan
+    - die Planung
+    - das Plastik
     - die Plattform
+    - der Platz
+    - plötzlich
+    - die Politik
+    - der Politiker
+    - politisch
     - die Polizei
     - der Polizist
+    - die Pommes frites
+    - populär
     - das Portemonnaie
+    - die Portion
+    - positiv
+    - die Post
+    - die Postleitzahl
     - der Pöstler
     - das Poster
     - das Poulet
+    - das Praktikum
+    - der Praktikant
+    - praktisch
     - präsentieren
     - die Präsentation
+    - die Praxis
+    - der Preis
+    - preiswert
+    - die Presse
+    - prima
+    - privat
+    - pro
     - probieren
     - das Problem
     - produzieren
     - das Produkt
     - die Produktion
+    - der Professor
+    - der Profi
+    - der Profisportler
     - das Programm
     - das Projekt
+    - der Prospekt
+    - Prost
+    - protestieren
+    - der Protest
+    - der Prozess
     - prüfen
     - die Prüfung
+    - das Publikum
+    - der Pullover
     - der Punkt
+    - pünktlich
+    - die Puppe
+    - putzen
     - das Puzzle
+    - die Qualifikation
+    - die Qualität
+    - das Quartier
+    - quer
+    - die Quittung
+    - das Quiz
+    - der Rabatt
+    - das Rad
+    - der Radfahrer
+    - das Radio
+    - der Rand
+    - der Rasen
+    - (sich) rasieren
+    - raten
+    - der Rat
+    - der Ratschlag
+    - das Rätsel
     - das Rathaus
     - rauchen
     - der Raucher
     - der Raum
+    - rauf
+    - raus
+    - reagieren
+    - die Reaktion
+    - realisieren
+    - die Realität
+    - realistisch
+    - die Recherche
     - rechnen
     - der Rechner
     - die Rechnung
+    - das Recht
+    - recht
+    - rechts
+    - rechtzeitig
+    - rechtlich
     - reden
     - die Rede
+    - reduzieren
+    - das Referat
+    - die Reform
+    - das Regal
+    - die Regel
+    - regelmäßig
+    - regeln
     - regnen
     - der Regen
+    - die Region
+    - regional
     - reich
+    - reichen
+    - reif
+    - der Reifen
+    - die Reihe
+    - die Reihenfolge
+    - rein
+    - reinigen
+    - die Reinigung
     - der Reis
     - reisen
     - die Reise
     - das Reisebüro
     - der Reiseführer
+    - reiten
+    - die Reklame
+    - der Rekord
+    - relativ
+    - die Religion
+    - rennen
+    - die Rente
     - in Rente
+    - der Rentner
     - reparieren
     - die Reparatur
+    - die Reportage
+    - der Reporter
+    - reservieren
+    - die Reservierung
+    - der Respekt
+    - der Rest
     - das Restaurant
+    - retten
     - das Rezept
     - die Rezeption
+    - der Richter
+    - richtig
+    - die Richtung
+    - riechen
+    - riesig
+    - das Rind
+    - der Ring
+    - das Risiko
+    - der Rock
+    - roh
+    - das Rohr
+    - die Rolle
     - der Roman
+    - die Rose
+    - der Rucksack
+    - die Rückfahrt
+    - die Rückkehr
+    - rückwärts
+    - der Rücken
     - die Rückmeldung
+    - die Rücksicht
+    - rufen
+    - die Rufnummer
+    - die Ruhe
+    - ruhig
+    - rund
+    - die Runde
+    - die Rundfahrt
+    - runter
+    - der Saal
+    - die Sache
+    - der Sack
     - der Saft
     - sagen
+    - die Sahne
     - die Saison
     - der Salat
+    - die Salbe
+    - der Salon
+    - das Salz
+    - salzig
+    - sammeln
+    - sämtliche
+    - der Sand
     - das Sandwich
+    - der Sänger
+    - satt
+    - der Satz
+    - sauber
+    - sauer
+    - die Schachtel
     - schade
     - schaden
     - der Schaden
     - schädlich
+    - schaffen
+    - schalten
+    - der Schalter
+    - scharf
+    - der Schatten
+    - schätzen
     - schauen
-    - scheiden
+    - das Schaufenster
+    - der Schauspieler
+    - die Scheibe
+    - sich scheiden lassen
     - geschieden
     - die Scheidung
+    - der Schein
+    - scheinen
     - schenken
+    - die Schere
     - schick
+    - schicken
+    - schieben
+    - schief
+    - schießen
+    - das Schiff
+    - das Schild
+    - schimpfen
+    - der Schinken
+    - der Schirm
     - schlafen
+    - der Schlaf
+    - das Schlafzimmer
+    - schlagen
+    - das Schlagobers
+    - die Schlange
+    - schlank
     - schlecht
     - schließen
     - geschlossen
+    - schließlich
+    - schlimm
+    - das Schloss
+    - der Schluss
     - der Schlüssel
+    - schmal
     - schmecken
     - der Schmerz
     - das Schmerzmittel
+    - schminken
+    - der Schmuck
+    - der Schmutz
+    - schmutzig
+    - verschmutzen
+    - der Schnee
+    - schneien
+    - (sich) schneiden
+    - schnell
     - das Schnitzel
+    - der Schnupfen
     - die Schokolade
     - schon
     - schön
+    - der Schrank
+    - der Schreck
+    - schrecklich
     - schreiben
     - aufschreiben
     - das Schreiben
+    - schreien
+    - die Schrift
+    - schriftlich
+    - der Schriftsteller
+    - der Schritt
+    - der Schuh
+    - die Schuld
+    - schuld
+    - die Schulden
+    - schuldig
     - die Schule
     - die Schularbeit
     - der Schüler
+    - die Schulter
+    - die Schüssel
+    - schütteln
+    - schützen
+    - der Schutz
+    - schwach
+    - das Schwammerl
+    - schwanger
+    - die Schwangerschaft
+    - schweigen
+    - das Schwein
+    - schwer
     - die Schwester
+    - die Schwiegereltern
+    - der Schwiegervater
+    - die Schwiegertochter
     - schwierig
     - die Schwierigkeit
+    - schwimmen
+    - das Schwimmbad
+    - schwitzen
+    - der See
+    - die See
     - sehen
+    - die Sehenswürdigkeit
+    - sehr
+    - die Seife
     - sein
     - seit
     - seitdem
     - die Seite
-    - selb-
+    - der Sekretär
+    - selbe
     - selbst
     - selber
+    - selbstständig
+    - selbstverständlich
+    - selten
+    - seltsam
     - das Semester
     - das Seminar
+    - die Semmel
+    - senden
+    - der Sender
+    - die Sendung
+    - die Senioren
+    - senkrecht
+    - die Serie
+    - der Service
     - der Sessel
+    - (sich) setzen
     - die Show
+    - sicher
+    - die Sicherheit
+    - sichern
+    - sichtbar
+    - siegen
+    - der Sieg
+    - der Sieger
+    - (sich) siezen
+    - singen
+    - sinken
     - der Sinn
     - sinnlos
     - sinnvoll
+    - die Situation
     - sitzen
     - der Sitz
     - der Ski
@@ -2587,63 +4067,206 @@
     - das Smartphone
     - das SMS
     - der Snack
+    - so
+    - sobald
+    - die Socke
+    - sodass
+    - das Sofa
+    - sofort
     - die Software
+    - sogenannt
+    - sogar
     - der Sohn
+    - solange
+    - solch
     - sollen
+    - das Sonderangebot
+    - sondern
     - der Song
     - die Sonne
     - sonnig
     - sonst
+    - sorgen
+    - die Sorge
     - die Soße
+    - das Souvenir
+    - soviel
     - so viel (wie)
+    - sowieso
+    - sowohl ... als auch
+    - sozial
+    - der Sozialarbeiter
     - spannend
+    - sparen
+    - sparsam
+    - der Spaß
     - spät
     - später
     - spätestens
     - spazieren gehen
+    - der Spaziergang
+    - speichern
+    - die Speise
+    - die Speisekarte
+    - der Speisewagen
+    - Spezial-
+    - der Spezialist
+    - speziell
+    - der Spiegel
     - spielen
     - das Spiel
     - der Spieler
     - der Spielplatz
     - das Spielzeug
+    - spitz
     - der Sport
     - die Sportart
     - der Sportler
     - sportlich
+    - der Sportplatz
     - der Spot
     - die Sprache
     - die Fremdsprache
     - die Muttersprache
     - die Zweitsprache
     - sprechen
+    - die Sprechstunde
+    - springen
+    - die Spritze
     - spülen
+    - die Spur
+    - spüren
     - das Stadion
     - die Stadt
     - städtisch
     - der Stadtplan
+    - stammen
+    - ständig
+    - der Standpunkt
+    - der Star
+    - stark
+    - starten
+    - der Start
+    - die Station
+    - die Statistik
+    - statistisch
+    - statt
+    - stattfinden
+    - der Stau
     - der Staub
     - staubsaugen
     - das Steak
+    - stechen
+    - stecken
+    - die Steckdose
+    - der Stecker
+    - stehen
+    - stehen bleiben
+    - stehlen
+    - steigen
+    - steil
+    - der Stein
+    - die Stelle
+    - stellen
+    - der Stempel
+    - sterben
+    - gestorben
+    - der Stern
+    - die Steuer
+    - der Steward
+    - der Stiefel
+    - die Stiege
+    - das Stiegenhaus
     - der Stift
+    - der Stil
+    - stilistisch
+    - still
+    - die Stimme
     - stimmen
+    - die Stimmung
+    - stinken
+    - das Stipendium
+    - der Stock
+    - das Stockwerk
+    - der Stoff
+    - stolz
+    - stoppen
+    - stören
+    - die Störung
+    - (sich) stoßen
+    - die Strafe
+    - strafbar
+    - der Strafzettel
+    - der Strand
+    - die Straße
+    - die Strecke
+    - das Streichholz
+    - streiken
+    - der Streik
+    - (sich) streiten
+    - der Streit
+    - streng
+    - der Stress
+    - stressig
     - der Strom
+    - der Strumpf
     - das Stück
+    - die Studie
     - studieren
     - der Student
     - der Studierender
     - das Studium
+    - das Studio
+    - die Stufe
     - der Stuhl
     - die Struktur
+    - stumm
     - die Stunde
+    - der Sturm
+    - stürzen
     - suchen
+    - die Sucht
+    - süchtig
+    - das Suchtmittel
+    - die Summe
+    - super
+    - der Supermarkt
     - die Suppe
     - surfen
+    - süß
+    - die Süßigkeit
     - der Swimmingpool
+    - das Symbol
+    - sympathisch
+    - das System
+    - die Szene
+    - die Tabelle
+    - das Tablet
+    - die Tablette
+    - die Tafel
+    - der Tagesablauf
+    - das Tal
+    - das Talent
+    - tanken
+    - die Tankstelle
     - die Tante
     - tanzen
     - der Tanz
     - die Tasche
+    - das Taschengeld
+    - das Taschentuch
     - die Tasse
+    - die Tastatur
+    - die Taste
+    - die Tat
+    - der Täter
+    - die Tätigkeit
+    - die Tatsache
+    - tatsächlich
+    - taub
+    - tauchen
+    - tauschen
+    - austauschen
     - das Taxi
     - das Team
     - die Technik
@@ -2651,104 +4274,455 @@
     - die Technologie
     - der Tee
     - Tee ziehen lassen
+    - teilen
     - das Teil
     - der Teil
+    - die Teilzeit
     - teilnehmen
     - die Teilnahme
     - der Teilnehmer
     - telefonieren
     - das Telefon
     - der Teller
+    - die Temperatur
+    - das Tempo
     - das Tennis
+    - der Teppich
     - der Termin
     - der Terminkalender
     - der Terminal
+    - die Terrasse
+    - testen
+    - der Test
     - teuer
+    - der Text
     - der Textaufbau
+    - das Theater
+    - das Thema
+    - theoretisch
+    - die Theorie
+    - die Therapie
+    - das Ticket
+    - tief
+    - das Tier
+    - das Haustier
+    - der Tierpark
+    - der Tipp
+    - tippen
     - der Tisch
+    - der Titel
     - die Tochter
+    - der Tod
+    - tödlich
+    - die Toilette
+    - tolerant
     - toll
+    - die Tomate
+    - der Topf
+    - das Tor
+    - die Torte
+    - tot
+    - der Tote
+    - total
     - die Tour
     - der Tourismus
     - der Tourist
+    - die Tradition
+    - traditionell
+    - tragen
+    - trainieren
+    - der Trainer
+    - das Training
+    - das Tram
+    - die Träne
+    - transportieren
+    - der Transport
     - träumen
     - der Traum
     - der Traumberuf
+    - traurig
+    - treffen
+    - der Treffpunkt
     - treiben
     - der Trend
     - (sich) trennen
     - die Trennung
     - getrennt leben
+    - die Treppe
+    - das Treppenhaus
+    - treten
+    - treu
     - trinken
     - das Trinkgeld
+    - trocken
+    - trocknen
+    - der Tropfen
+    - das Trottoir
+    - trotz
+    - trotzdem
+    - tschüss
     - das T-Shirt
+    - das Tuch
     - tun
     - die Tür
+    - der Turm
+    - die Tüte
     - das TV
     - twittern
+    - der Typ
+    - typisch
+    - üben
+    - die Übung
     - über
     - überall
+    - überfahren
+    - überhaupt
+    - überholen
+    - überlegen
+    - übermorgen
     - übernachten
     - die Übernachtung
+    - übernehmen
+    - überprüfen
+    - überqueren
+    - überraschen
+    - die Überraschung
+    - überreden
+    - die Überschrift
+    - übersetzen
+    - der Übersetzer
+    - die Übersetzung
+    - die Überstunde
     - übertragen
+    - übertreiben
+    - überweisen
+    - die Überweisung
+    - (sich) überzeugen
+    - die Überzeugung
+    - üblich
+    - übrig
+    - übrigens
+    - das Ufer
     - die Uhr
+    - um
+    - umarmen
+    - um...zu
+    - (sich) umdrehen
+    - die Umfrage
+    - die Umgebung
+    - umgehen
+    - umgekehrt
+    - die Umleitung
+    - umso
+    - umsonst
+    - umsteigen
+    - umtauschen
+    - der Umtausch
+    - die Umwelt
+    - der Umweltschutz
+    - die Umweltverschmutzung
+    - umziehen
+    - der Umzug
+    - sich umziehen
+    - un-
+    - unbedingt
+    - und
     - und so weiter
+    - der Unfall
+    - ungefähr
+    - ungewöhnlich
+    - unglaublich
+    - das Unglück
+    - unheimlich
+    - die Uniform
     - die Universität
+    - unten
+    - unter
+    - unterbrechen
     - das Untergeschoss
+    - (sich) unterhalten
+    - die Unterhaltung
+    - die Unterkunft
+    - die Unterlagen
+    - unterlassen
+    - unternehmen
+    - der Unternehmer
     - unterrichten
     - der Unterricht
+    - untersagt
+    - unterscheiden
+    - der Unterschied
+    - unterschiedlich
+    - unterschreiben
+    - die Unterschrift
+    - unterstreichen
+    - unterstützen
+    - die Unterstützung
     - untersuchen
     - die Untersuchung
+    - unterwegs
+    - die Urkunde
     - der Urlaub
+    - die Ursache
+    - verursachen
+    - ursprünglich
+    - das Urteil
     - der User
+    - die Vase
     - der Vater
+    - vegetarisch
+    - (sich) verabreden
+    - verabredet
+    - die Verabredung
+    - (sich) verabschieden
+    - (sich) verändern
     - die Veranstaltung
+    - verantwortlich
+    - die Verantwortung
+    - (sich) verbessern
+    - verbieten
+    - das Verbot
+    - verboten
+    - verbinden
+    - die Verbindung
+    - verbrauchen
+    - der Verbrecher
+    - (sich) verbrennen
+    - verbringen
+    - der Verdacht
+    - verdächtig
+    - verdienen
+    - der Verein
     - vereinbaren
+    - die Vergangenheit
+    - vergeblich
+    - vergessen
     - vergleichen
     - vgl.
+    - der Vergleich
+    - sich vergnügen
+    - das Vergnügen
+    - vergnügt
+    - vergrößern
+    - verhaften
+    - sich verhalten
+    - das Verhalten
+    - das Verhältnis
     - verheiratet
     - verhindern
     - verkaufen
     - der Verkäufer
+    - der Verkehr
+    - das Verkehrsmittel
+    - der Verlag
+    - verlangen
+    - verlängern
+    - verlassen
+    - sich verlaufen
+    - (sich) verletzen
+    - die Verletzung
+    - sich verlieben
+    - verliebt
+    - verlieren
+    - der Verlierer
+    - der Verlust
+    - vermeiden
+    - vermieten
+    - der Vermieter
+    - die Vermietung
+    - vermissen
+    - die Vermittlung
+    - vermuten
+    - vermutlich
+    - vernünftig
+    - verpacken
+    - verpassen
+    - verpflegen
+    - verpflichtet
+    - verraten
+    - verreisen
     - verrückt
+    - die Versammlung
+    - versäumen
+    - verschieben
+    - verschieden
+    - verschreiben
+    - verschwinden
+    - versichern
+    - die Versichertenkarte
+    - die Versicherung
+    - die Verspätung
+    - versprechen
+    - verständlich
+    - das Verständnis
+    - (sich) verstecken
     - (sich) verstehen
+    - versuchen
+    - der Versuch
+    - verteilen
+    - der Vertrag
+    - vertrauen
+    - das Vertrauen
+    - vertreten
+    - der Vertreter
     - die Vertretung
+    - verurteilen
     - die Verwaltung
     - verwandt
     - der Verwandte
+    - verwechseln
+    - verwenden
+    - verzeihen
+    - Verzeihung
+    - verzichten
+    - das Video
     - viel
     - vielleicht
+    - das Viertel
+    - virtuell
+    - der Virus
+    - die Visitenkarte
+    - das Visum
+    - das Vitamin
+    - voll
+    - die Vollzeit
+    - der Volleyball
+    - völlig
     - von
+    - voneinander
+    - vor
+    - vor allem
+    - voraus
+    - die Voraussetzung
+    - voraussichtlich
+    - vorbei
+    - (sich) vorbereiten
+    - die Vorbereitung
+    - vordere
+    - die Vorfahrt
+    - vorgestern
+    - vorhaben
     - vorher
     - vorhin
+    - vorkommen
+    - vorläufig
     - vorlesen
+    - vorn
+    - vorne
+    - vorschlagen
+    - der Vorschlag
+    - die Vorschrift
+    - die Vorsicht
+    - vorsichtig
+    - (sich) vorstellen
+    - die Vorstellung
+    - das Vorstellungsgespräch
+    - der Vorteil
     - der Vortrag
+    - die Vorwahl
+    - vorwärts
+    - der Vorwurf
+    - waagerecht
+    - wach
+    - wachsen
+    - der Wagen
+    - wählen
+    - die Wahl
+    - wahnsinnig
     - wahr
     - die Wahrheit
+    - während
+    - wahrscheinlich
+    - der Wald
+    - die Wand
     - wandern
     - die Wanderung
     - wann
+    - die Ware
+    - warm
+    - die Wärme
+    - warnen
+    - warten
     - warum
     - was
     - (sich) waschen
     - die Wäsche
+    - das Waschmittel
     - das Wasser
     - das Wasserklosett
+    - wechseln
+    - wecken
+    - der Wecker
+    - weder...noch
+    - der Weg
+    - weg
+    - weg sein
     - wegen
+    - wehtun
+    - weiblich
+    - weich
+    - sich weigern
+    - weil
+    - der Wein
+    - weinen
+    - -weise
+    - weit
+    - weiter
+    - die Weiterbildung
     - welch-
     - die Welt
     - weltweit
+    - wenden
+    - wenig
+    - wenigstens
     - wenn
     - wer
+    - die Werbung
     - werden
+    - werfen
+    - das Werk
+    - die Werkstatt
+    - das Werkzeug
+    - wert
+    - der Wert
+    - wertlos
+    - wertvoll
+    - weshalb
+    - der Wettbewerb
+    - wetten
     - das Wetter
+    - der Wetterbericht
+    - die Wettervorhersage
+    - wichtig
+    - widersprechen
     - wie
+    - wieder
     - wiederholen
+    - die Wiederholung
+    - wiegen
+    - wild
+    - die Wiese
+    - wieso
+    - wie viel
+    - willkommen
+    - der Wind
+    - windig
+    - winken
+    - wirken
+    - die Wirkung
     - wirklich
     - die Wirklichkeit
+    - der Wirt
+    - die Wirtschaft
+    - wissen
+    - das Wissen
+    - die Wissenschaft
+    - der Wissenschaftler
+    - der Witz
     - wo
     - woher
     - wohin
+    - wohl
     - wohnen
     - die Wohngemeinschaft
     - der Wohnort
@@ -2757,23 +4731,108 @@
     - das Wohnzimmer
     - die Wolke
     - bewölkt
+    - die Wolle
     - wollen
+    - worüber
+    - worum
+    - das Wort
     - das Wörterbuch
+    - die Wunde
+    - das Wunder
+    - wunderbar
+    - wunderschön
+    - sich wundern
+    - (sich) wünschen
+    - der Wunsch
     - die Wurst
+    - wütend
+    - die Zahl
+    - die Anzahl
+    - zahlreich
     - zahlen
+    - die Zahlung
+    - zählen
+    - der Zahn
     - die Zahnpasta
+    - die Zange
+    - das Zeichen
+    - das Verkehrszeichen
+    - zeichnen
+    - die Zeichnung
+    - zeigen
+    - die Zeile
     - die Zeit
     - der Zeitpunkt
     - zurzeit
     - die Zeitschrift
     - die Zeitung
+    - das Zelt
+    - zelten
+    - zentral
+    - das Zentrum
+    - zerstören
+    - das Zertifikat
+    - der Zettel
+    - das Zeug
+    - der Zeuge
+    - das Zeugnis
+    - ziehen
+    - das Ziel
+    - ziemlich
     - das Zimmer
+    - die Zigarette
+    - die Zinsen
     - zirka
+    - der Zirkus
+    - die Zitrone
+    - der Zoll
+    - die Zone
+    - der Zoo
     - zu
     - zubereiten
     - der Zucker
+    - zuerst
+    - der Zufall
+    - zufällig
+    - zufrieden
+    - der Zugang
+    - zugänglich
+    - der Zug
+    - zugehen
     - das Zuhause
+    - zuhören
+    - der Zuhörer
+    - die Zukunft
+    - zukünftig
+    - zuletzt
+    - zumachen
+    - zumindest
+    - zunächst
+    - das Zündholz
+    - zunehmen
     - zuordnen
+    - zurechtkommen
+    - zurück
+    - zusagen
     - zusammen
     - die Zusammenarbeit
     - zusammenfassen
+    - der Zusammenhang
+    - zusätzlich
+    - zuschauen
+    - der Zuschauer
+    - der Zuschlag
+    - zu sein
+    - der Zustand
+    - zuständig
+    - zustimmen
+    - die Zustimmung
+    - die Zutaten
+    - zuverlässig
+    - zwar
+    - der Zweck
+    - zweifeln
+    - der Zweifel
+    - die Zwiebel
+    - (sich) zwingen
+    - zwischen
