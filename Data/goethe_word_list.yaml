@@ -23301,7 +23301,7 @@
   Form: -s
   Feminine:
     Id: die Stewardess
-    Form: -nen
+    Form: -en
   Meaning: steward
   Cambridge: (air) steward/stewardess; steward/stewardess
   Examples:
@@ -29346,11 +29346,11 @@
   Examples:
     - example1
 
-- Id: die Zutaten
+- Id: die Zutat
   Level: B1
-  Meaning: ingredients
+  Meaning: ingredient
   Examples:
-    - example1
+    - Welche Zutaten braucht man für diesen Kuchen?
 
 - Id: zuverlässig
   Level: B1
