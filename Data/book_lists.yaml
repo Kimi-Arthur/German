@@ -6,6 +6,7 @@
     - glauben
     - heißen
     - hören
+    - kochen
     - kommen
     - lernen
     - machen
@@ -23,13 +24,91 @@
     - nicht
     - und
     - oder
+    - gut
+    - der Morgen
+    - der Tag
+    - hallo
+    - der Abend
+    - die Nacht
+    - das Wiedersehen
+    - tschüss
+    - bitte
+    - danke
+    - der Appetit
+
+- Id: A1+
+  Words:
+    - jetzt
+    - auch
+    - interessant
+    - wirklich
+    - die Muttersprache
+    - hier
+    - toll
+    - noch
+    - ein bisschen
+    - lieber
+    - die Gymnastik
+    - fehlend
+    - neue
+    - die Studie
+    - das Institut
+    - beliebt
+    - der Gruß
+    - das Prozent
+    - die Begrüßung
+    - der Gott
+    - servus
+    - die Verabschiedung
+    - informell
+    - formell
+    - viel
+    - der Mann
+    - die Frau
+    - allgemein
+    - die Gittare
+    - das Klavier
+    - das Tennis
+    - die Sprache
+    - der Fußball
+    - der Volleyball
     - wiederholen
     - lesen
     - schreiben
     - berichten
     - fragen
     - der Kursteilnehmer
-    - spielen
     - der Dialog
     - arbeiten
+    - zu zweit
+    - die Gruppe
     - suchen
+    - die Information
+    - zuordnen
+    - ergänzen
+    - markieren
+    - unterstreichen
+    - buchstabieren
+    - formulieren
+    - bilden
+    - der Satz
+    - achten
+    - das Verb
+    - unformen
+    - tauschen
+    - die Rolle
+    - ankreuzen
+    - notieren
+    - das Interview
+    - verstehen
+    - leider
+    - der Name
+    - super
+
+- Id: Eigennamen
+  Words:
+    - Tschenchien
+    - Tschechisch
+    - Athen
+    - Schweden
+    - Österreich
