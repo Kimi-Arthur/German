@@ -47,35 +47,37 @@ Some prepositions want one case or another depending on whether the verb indicat
 
 Note that **zu** and **bei** always want Dativ as mentioned above.
 
-## <ruby>Artikeldeklinationen<rt>Article Transformations</rt></ruby>
+## Artikeldeklinationen
+
+Article Transformations
 
 ### Nominativ
 
-| Artikel     | Maskulin | Feminin | Nuetral | Plural |
+| Artikel     | Maskulin | Nuetral | Feminin | Plural |
 | ----------- | -------- | ------- | ------- | ------ |
-| bestimmte   | der      | die     | das     | die    |
-| unbestimmte | ein      | eine    | ein     | -      |
-| negativer   | kein     | keine   | kein    | keine  |
-| possessiv   | mein     | meine   | mein    | meine  |
+| bestimmte   | der      | das     | die     | die    |
+| unbestimmte | ein      | ein     | eine    | -      |
+| negativer   | kein     | kein    | keine   | keine  |
+| possessiv   | mein     | mein    | meine   | meine  |
 
 
 ### Akkusativ
 
-| Artikel     | Maskulin (+en) | Feminin | Nuetral | Plural |
+| Artikel     | Maskulin (+en) | Nuetral | Feminin | Plural |
 | ----------- | -------------- | ------- | ------- | ------ |
-| bestimmte   | **den**        | die     | das     | die    |
-| unbestimmte | ein**en**      | eine    | ein     | -      |
-| negativer   | kein**en**     | keine   | kein    | keine  |
-| possessiv   | mein**en**     | meine   | mein    | meine  |
+| bestimmte   | **den**        | das     | die     | die    |
+| unbestimmte | ein**en**      | ein     | eine    | -      |
+| negativer   | kein**en**     | kein    | keine   | keine  |
+| possessiv   | mein**en**     | mein    | meine   | meine  |
 
 ### Dativ
 
-| Artikel     | Maskulin (+em) | Feminin (+er) | Nuetral (+em) | Plural (+en) |
+| Artikel     | Maskulin (+em) | Nuetral (+em) | Feminin (+er) | Plural (+en) |
 | ----------- | -------------- | ------------- | ------------- | ------------ |
-| bestimmte   | **dem**        | **der**       | **dem**       | **den**      |
-| unbestimmte | ein**em**      | ein**er**     | ein**em**     | -            |
-| negativer   | kein**em**     | kein**er**    | kein**em**    | kein**en**   |
-| possessiv   | mein**em**     | mein**er**    | mein**em**    | mein**en**   |
+| bestimmte   | **dem**        | **dem**       | **der**       | **den**      |
+| unbestimmte | ein**em**      | ein**em**     | ein**er**     | -            |
+| negativer   | kein**em**     | kein**em**    | kein**er**    | kein**en**   |
+| possessiv   | mein**em**     | mein**em**    | mein**er**    | mein**en**   |
 
 > If the noun's plural ends with **-r** or **-e**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**.
 

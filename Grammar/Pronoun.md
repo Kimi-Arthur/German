@@ -1,15 +1,19 @@
 # Pronoun
 
-## Possession Pronoun
+## Possessivpronomen
+Possession Pronoun
 
-| Personal | Choice     | Example                                              |
-| -------- | ---------- | ---------------------------------------------------- |
-| ich      | mein(e)    | **mein** Stift / Mann, **meine** Frau, **mein** Kind |
-| du       | dein(e)    | **dein** Stift / Mann, **deine** Frau, **dein** Kind |
-| er       | sein(e)    |                                                      |
-| sie      | **i**hr(e) |                                                      |
-| es       | sein(e)    |                                                      |
-| wir      | unser(e)   |                                                      |
-| ihr      | euer(e)    |                                                      |
-| sie      | **i**hr(e) |                                                      |
-| Sie      | **I**hr(e) | **Ihr** Stift / Mann, **Ihre** Frau, **Ihr** Kind    |
+### Nominativ
+
+| Person | Maskulin / Nuetral | Feminin / Plural |
+| ------ | ------------------ | ---------------- |
+| ich    | mein               | mein**e**        |
+| du     | dein               | dein**e**        |
+| er     | sein               | sein**e**        |
+| sie    | **i**hr            | ihr**e**         |
+| es     | sein               | sein**e**        |
+| wir    | **unser**          | unser**e**       |
+| ihr    | **euer**           | euer**e**        |
+| sie    | **i**hr            | ihr**e**         |
+| Sie    | **I**hr            | Ihr**e**         |
+

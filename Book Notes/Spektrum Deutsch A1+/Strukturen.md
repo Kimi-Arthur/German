@@ -11,3 +11,8 @@
 |                           |                             | Woher **kommen** Sie?             |
 | Fragesatz: Ja-Nein-Fragen | Question: yes-no questions  | **Wohnen** Sie in Berlin?         |
 |                           |                             | **Sprechen** Sie Deutsch?         |
+
+## Kapitel 2
+
+P31 10, P33 12 [Artikeldeklinationen](../../Grammar/Kasus.md#Artikeldeklinationen)
+
