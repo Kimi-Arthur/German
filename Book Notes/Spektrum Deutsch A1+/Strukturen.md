@@ -16,3 +16,4 @@
 
 P31 10, P33 12 [Artikeldeklinationen](../../Grammar/Kasus.md#Artikeldeklinationen)
 
+P36 15 [Plural](../../Grammar/Substantiv.md)
