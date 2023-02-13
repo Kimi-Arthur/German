@@ -16,6 +16,7 @@
 | Monate, Jahreszeiten, Tage             | **der**   |        | der Januar, der Dienstag, der Sommer        |                                                              |
 | Infinitiv as Noun in the original form | **das**   |        | das Essen, das Spielen                      |                                                              |
 | Many foreign Noun                      | **das**   | -s     | das Handy, -s                               |                                                              |
+| Foreign noun                           | der       | -s     | der Laptop, -s                              |                                                              |
 | Alcohol                                | ~ **der** |        | der Wein, der Sekt, der Prosecco, der Gin   | das Bier                                                     |
 | Buch, Tuch                             | das       | ¨-er   |                                             |                                                              |
 | Stuhl                                  | der       | ¨-e    |                                             |                                                              |
