@@ -17,3 +17,5 @@
 P31 10, P33 12 [Artikeldeklinationen](../../Grammar/Kasus.md#Artikeldeklinationen)
 
 P36 15 [Plural](../../Grammar/Substantiv.md)
+
+P39 22 [Possessivpronomen](../../Grammar/Pronoun.md#Possessivpronomen)

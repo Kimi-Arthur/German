@@ -1,5 +1,7 @@
 # Nummer
 
+## Grundzahlwort
+
 | Word                                | Pronunciation                                                |        Number |
 | ----------------------------------- | ------------------------------------------------------------ | ------------: |
 | null                                | [[nʊl]](https://cdn.duden.de/_media_/audio/ID4173911_195019401.mp3) |             0 |
@@ -50,3 +52,7 @@
 | zehntausendfünfhunderteinunddreißig | [[...]](https://soundoftext.nyc3.digitaloceanspaces.com/1e6c56f0-5f15-11ea-a916-9d0df1ae6773.mp3) |        10,531 |
 
 https://de.wiktionary.org/wiki/Verzeichnis:Deutsch/Zahlen
+
+## Komma
+
+8,4 => acht Komma vier
