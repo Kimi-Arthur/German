@@ -15293,7 +15293,7 @@
   Examples:
     - Hast du den Lebenslauf für die Bewerbung schon geschrieben?
 
-- Id: die Lebensmittel
+- Id: das Lebensmittel
   Level: A1
   Form: '-'
   Meaning: food, grocery
@@ -17026,7 +17026,6 @@
 
 - Id: modern
   Level: A2
-  Form: modert, moderte, hat gemodert
   Meaning: modern
   Cambridge: modern, fashionable; modern; modern, up-to-date; in a modern style; to rot
   Wiki: to rot, to molder; modern; state-of-the-art
