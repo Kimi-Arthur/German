@@ -5,7 +5,7 @@
 | Type                                                | Choice                                  | Examples                                      |
 | --------------------------------------------------- | --------------------------------------- | --------------------------------------------- |
 | Usually                                             | +er                                     | klein**er**, schön**er**, preiswert**er**     |
-| Ending with **-er**                                 | prefix~~er~~ +rer                       | teuer ⇨ teu**rer**                            |
+| (?) With ending **-uer**                            | -er +rer                                | teuer ⇨ teu**rer**                            |
 | Vowel in last syllabus is **-a-**, **-o-**, **-u-** | umlaut +er ⇨  **-ä-**, **-ö-**, **-ü-** | **ä**lt**er**, gr**ö**ß**er,** k**ü**rz**er** |
 | Special cases: **gut**, **gern**, **viel**          |                                         | **besser**, **lieber**, **mehr**              |
 
