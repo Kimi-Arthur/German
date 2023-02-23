@@ -79,5 +79,7 @@ Article Transformations
 | negativer   | kein**em**     | kein**em**    | kein**er**    | kein**en**   |
 | possessiv   | mein**em**     | mein**em**    | mein**er**    | mein**en**   |
 
-> If the noun's plural ends with **-r** or **-e**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**.
+> If the noun's plural ends with **-r**, **-e**, or **-l**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**, den Zweifel**n**.
+>
+> Or, only **-a** and **-s** noun plurals don't need to add an extra **+n**.
 

@@ -13,19 +13,11 @@ Telling you what to do / give an order.
 
 ## Deklination
 
-| Audience | Usage                                                                      | Example (schreiben) | Example (arbeiten) | Example (nehmen) |
-| -------- | -------------------------------------------------------------------------- | ------------------- | ------------------ | ---------------- |
-| du       | <ruby>`stem` (+e)<rt>du-form without suffix and umlaut change</rt></ruby>! | schreib!            | arbeite!           | nimm!            |
-| ihr      | <ruby>`stem` +(e)t<rt>ihr-form</rt></ruby>!                                | schreibt!           | arbeitet!          | nehmt!           |
-| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                              | schreiben Sie!      | arbeiten Sie!      | nehmen Sie!      |
-
-## Speical Examples
-
-| Verb   | du        | ihr    | Sie         |
-| ------ | --------- | ------ | ----------- |
-| essen  | **iss!**  | esst!  | essen Sie!  |
-| fahren | **fahr!** | fahrt! | fahren Sie! |
-| lesen  | **lies!** | liest! | lesen Sie!  |
+| Audience | Usage                                                        | schreiben      | arbeiten      | nehmen      | hören      | essen      | fahren      | lesen      |
+| -------- | ------------------------------------------------------------ | -------------- | ------------- | ----------- | ---------- | ---------- | ----------- | ---------- |
+| du       | <ruby>`stem` (+e)<rt>du-form without suffix and umlaut change</rt></ruby>! | schreib!       | arbeite!      | nimm!       | h**ö**r!   | **iss!**   | ***fahr!*** | **lies!**  |
+| ihr      | <ruby>`stem` +(e)t<rt>ihr-form</rt></ruby>!                  | schreibt!      | arbeitet!     | nehmt!      | h**ö**rt!  | esst!      | fahrt!      | liest!     |
+| Sie      | <ruby>`stem` +en<rt>Sie-form</rt></ruby> Sie!                | schreiben Sie! | arbeiten Sie! | nehmen Sie! | hören Sie! | essen Sie! | fahren Sie! | lesen Sie! |
 
 ## Examples
 
