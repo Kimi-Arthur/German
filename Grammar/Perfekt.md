@@ -17,35 +17,34 @@ Structure: Subjekt + <ruby><i>present form of sein/haben</i><rt>Hilfsverb</rt></
 
 ### Hilfsverb
 
-| Condition          | Choice | Example                           |
-| ------------------ | ------ | --------------------------------- |
-| Change of location | sein   | Ich **bin** nach Berlin gefahren. |
-| Change of status   | sein   | Ich **bin** aufgewacht.           |
-| All others         | haben  | Ich **habe** getanzt.             |
+| Condition               | Choice | Example                           |
+| ----------------------- | ------ | --------------------------------- |
+| Change of location      | sein   | Ich **bin** nach Berlin gefahren. |
+| Change of status        | sein   | Ich **bin** aufgewacht.           |
+| Specials: sein, bleiben | sein   | Ich bin gewesen/geblieben         |
+| All others              | haben  | Ich **habe** getanzt.             |
 
 #### Forms
 
 ##### sein
 
-| Person    | Form |
-| --------- | ---- |
-| ich       | bin  |
-| du        | bist |
-| er/sie/es | ist  |
-| wir       | sind |
-| ihr       | seid |
-| sie/Sie   | sind |
+| Person      | Form |
+| ----------- | ---- |
+| ich         | bin  |
+| du          | bist |
+| er/sie/es   | ist  |
+| wir/sie/Sie | sind |
+| ihr         | seid |
 
 ##### haben
 
-| Person    | Form  |
-| --------- | ----- |
-| ich       | habe  |
-| du        | hast  |
-| er/sie/es | hat   |
-| wir       | haben |
-| ihr       | habt  |
-| sie/Sie   | haben |
+| Person      | Form  |
+| ----------- | ----- |
+| ich         | habe  |
+| du          | hast  |
+| er/sie/es   | hat   |
+| wir/sie/Sie | haben |
+| ihr         | habt  |
 
 ### Partizip II
 

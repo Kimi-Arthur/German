@@ -1,6 +1,6 @@
 # Vergangenheit (Präteritum) = past tense (imperfect)
 
-Past tense. Normally **only** used in writing, except **sein** / **haben** / **Modalverben**.
+Past tense. Normally **only** used in writing, except **sein** / **haben** / **Modalverben** (+ geben, wissen, brauchen).
 
 Structure: Subjekt + <ruby><i>past form</i><rt>Präteritum</rt></ruby> + Objekt.
 
