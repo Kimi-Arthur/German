@@ -28,7 +28,7 @@ To express <ruby>Subjekt<rt>subject</rt></ruby>, <ruby>Direktes Objekt<rt>direct
 
 3. <ruby>Präpositionen<rt>preposition</rt></ruby>
 
-Some prepositions always one case or another
+Some prepositions are always with one case
 
 | Type                                             | Choice    | Examples                      |
 | ------------------------------------------------ | --------- | ----------------------------- |

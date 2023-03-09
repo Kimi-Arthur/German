@@ -1,4 +1,6 @@
-# Superlativ [#](# "A1P215")
+# Superlativ
+
+(Spek A1 P215)
 
 ## Rules
 

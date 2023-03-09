@@ -28,7 +28,9 @@ Subjekt + **Modelverb (Präteritum form)** + Objekt + Verb (original form)
 | Ich sollte das Dokument noch fertigstellen.                 | I should finish the document.                  |
 | Du mochtest den Hausmeister sehr.                           | You liked the caretaker a lot.                 |
 
-## sollen = should [#](# "A1P202")
+## sollen
+
+= should (Spek A1 P202)
 
 ### Examples
 
@@ -37,7 +39,9 @@ Subjekt + **Modelverb (Präteritum form)** + Objekt + Verb (original form)
 | Er soll sofort den Manager anrufen. | He should call the manager immediately. |
 | Du sollst früher ins Bett gehen.    | You should go to bed earlier.           |
 
-## möchten = would like
+## möchten
+
+= would like
 
 ### Examples
 
@@ -52,7 +56,9 @@ Subjekt + **Modelverb (Präteritum form)** + Objekt + Verb (original form)
 | Er möchte keine Milch.                   | He would like no Milk.                       |
 | Ich möchte gerne einen Kaffee trinken.   | I would like to drink a coffee.              |
 
-## mögen = to like
+## mögen
+
+= to like
 
 Normally not `mögen Objekt Verb`, but can be `mögen es, Objekt Verb`.
 
@@ -64,7 +70,9 @@ Normally not `mögen Objekt Verb`, but can be `mögen es, Objekt Verb`.
 | *Ich mag es, Milch zu trinken.*         | *I like to drink milk.*            |
 | *Magst du es, zu wandern?*              | *Do you like hiking?*              |
 
-## können = to be able to
+## können
+
+= to be able to
 
 ### Examples
 
@@ -74,7 +82,9 @@ Normally not `mögen Objekt Verb`, but can be `mögen es, Objekt Verb`.
 | Nein, leider kann ich nicht gut kochen. | No, unfortunately I can't cook well. |
 | Nein, leider nicht.                     | No, unfortunately not.               |
 
-## müssen = have to
+## müssen
+
+= have to
 
 ### Examples
 

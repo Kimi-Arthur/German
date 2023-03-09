@@ -39,6 +39,4 @@ Structure: Subjekt + <ruby><i>past form</i><rt>Präteritum</rt></ruby> + Objekt.
 | ihr       | hattet  |
 | sie/Sie   | hatten  |
 
-### Modalverben
-
-See [Modalverben](./Modalverben.md).
+### [Modalverben](./Modalverben.md#Präteritum)
