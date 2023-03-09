@@ -18,8 +18,6 @@ For dass, when to have "es" in main sentence.
 
 For the clause, order of other parts.
 
-Als vs wenn.
-
 ## dass
 
 Used when referring to "was".
@@ -43,7 +41,7 @@ Ich bin mir sicher, **dass** du besser **schreiben kannst**.
 
 ## weil
 
-Used when referring to "warum", like
+Used when referring to "warum", to answer:
 
 **Warum/Wieso/Weshalb/Weswegen/Aus welchem Grund** lernst du Deutsch?
 
@@ -55,7 +53,7 @@ Used when referring to "warum", like
 
 Ich lerne Deutsch, **weil** ich in Deutschland studieren **will**.
 
-### Reversed
+### Seldom Reversed
 
 Clauses with "weil" are seldom placed in front.
 
@@ -148,3 +146,42 @@ Obwohl ich krank bin, kann ich gut arbeiten.
 | Er macht die Aufgabe. Er versteht nichts. | Er macht die Aufgabe, obwohl er nichts versteht. |
 |                                           | Obwohl er nichts versteht, macht er die Aufgabe. |
 
+## als in Temporalsätzen
+
+To indicate sth happened (once) in the past (=when). To answer:
+
+**Wann** *war* sie schon verheiratet?
+
+Use Präteritum or Perfekt
+
+### Examples
+
+Als ich ein kleiner Junge war, habe ich viele Süßigkeiten gegessen.
+
+Es gab keine Computer, als meine Großeltern jung waren.
+
+Ich habe viel gelernt, als ich noch Kind war.
+
+### Compare to wenn
+
+For time in the past, if something happened once, use `als`. If it happens often, use `wenn`.
+
+## als in Modalsätzen
+
+When compared with sth else, indicating better/more (Komparatv) or different (anders / auf andere Weise) (=than).
+
+### Examples
+
+Dieser Laden ist billiger, als du es gesagt hast.
+
+Die Alpen sind schöner, als wir es gehört haben.
+
+Du hast alles anders gemacht, als ich es gemeint habe.
+
+Du darfst nicht länger bleiben, als wir es dir erlaubt haben.
+
+Der Mathematiker hat die Aufgabe auf andere Weise gelöst, als wir es uns vorgestellt haben.
+
+### Never Reversed!
+
+You cannot start with the clause in this case.
