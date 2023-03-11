@@ -30278,7 +30278,7 @@
   Cambridge: monkey, ape; jerk
   Wiki: monkey or ape (male or female or of unspecified sex); , a kind of furry military knapsack; drunkenness, alcohol intoxication
   Examples:
-    - example1
+    - Affen sind in der Regel Pflanzenfresser.
 
 - Id: der Bär
   Level: M
@@ -30287,7 +30287,7 @@
   Cambridge: bear
   Wiki: bear; bear; large block or hammer for machining things or pile-driving; boar
   Examples:
-    - example1
+    - Der Bär gilt als blutrünstiges Raubtier, ist aber ein Allesfresser.
 
 - Id: die Biene
   Level: M
@@ -30332,7 +30332,7 @@
   Cambridge: giraffe
   Wiki: giraffe; The constellation Camelopardalis
   Examples:
-    - example1
+    - Die Giraffe ist ein afrikanisches Huftier.
 
 - Id: der Hase
   Level: M
@@ -30368,7 +30368,7 @@
   Cambridge: cow; cow, hind; bitch
   Wiki: cow
   Examples:
-    - example1
+    - Kühe geben Milch.
 
 - Id: der Löwe
   Level: M
@@ -30377,7 +30377,7 @@
   Cambridge: lion; Leo
   Wiki: lion; lion, as used on a coat of arms; Leo
   Examples:
-    - example1
+    - Die männlichen Löwen sind gut an ihrer Mähne zu erkennen.
 
 - Id: die Maus
   Level: M
@@ -30386,7 +30386,7 @@
   Cambridge: mouse; sweetie; dough
   Wiki: mouse (animal); mouse (computer input device); babe; dough
   Examples:
-    - example1
+    - Der Elefant hat Angst vor der kleinen weißen Maus.
 
 - Id: die Mücke
   Level: M
@@ -30395,7 +30395,7 @@
   Cambridge: gnat, mosquito, midge
   Wiki: insect of the order Nematocera, that is a mosquito, crane fly, gnat, or midge; mosquito; fly
   Examples:
-    - example1
+    - We were bitten by mosquitos by the river.
 
 - Id: das Pferd
   Level: M
@@ -30404,7 +30404,7 @@
   Cambridge: horse
   Wiki: horse; knight; pommel horse; a woman
   Examples:
-    - example1
+    - Mein Pferd ist zu schnell.
 
 - Id: der Pinguin
   Level: M
@@ -30422,7 +30422,7 @@
   Cambridge: sheep
   Wiki: sheep
   Examples:
-    - example1
+    - Der Hirte hütet seine Schafe.
 
 - Id: die Schildkröte
   Level: M
@@ -30431,7 +30431,7 @@
   Cambridge: tortoise, turtle
   Wiki: turtle, tortoise
   Examples:
-    - example1
+    - Schildkröten und Schlangen sind Reptilien.
 
 - Id: der Vogel
   Level: M
@@ -30440,7 +30440,8 @@
   Cambridge: bird; character
   Wiki: a bird; an idiot, a clown; a kite; (originating as a nickname, or as an occupational name for a catcher of birds)
   Examples:
-    - example1
+    - Ein Seeadler ist ein großer Vogel.
+    - Die Vögel zwitschern im Wald.
 
 - Id: die Währung
   Level: M
