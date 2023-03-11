@@ -265,7 +265,31 @@
     - aber
     - lange
 
-- Id: SpekA1Eigennamen
+- Id: SpekA2
+  Words:
+    - das Schloss
+    - der Vogel
+    - die Katze
+    - der Hund
+    - die Schlange
+    - das Huhn
+    - das Schwein
+    - die Ameise
+    - der Affe
+    - der Löwe
+    - die Kuh
+    - das Schaf
+    - die Mücke
+    - die Spinne
+    - die Giraffe
+    - die Schildkröte
+    - der Fisch
+    - das Pferd
+    - die Maus
+    - der Bär
+    - der Wal
+
+- Id: Eigennamen
   Words:
     - Tschenchien
     - Tschechisch
