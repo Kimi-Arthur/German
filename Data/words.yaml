@@ -347,7 +347,7 @@
 - Id: abwaschen
   Level: B1
   Form: wäscht ab, wusch ab, hat abgewaschen
-  Meaning: wash up, to do the dishes
+  Meaning: to wash up, to do the dishes
   Cambridge: to wash up; to wash off
   Wiki: to wash up (clean utensils, dishes, etc.)
   Examples:
@@ -5066,7 +5066,7 @@
 - Id: die City
   Level: B1
   Form: -s
-  Meaning: city
+  Meaning: city (C-)
   Cambridge: downtown
   Wiki: city center, downtown, central business district
   Examples:
@@ -17026,7 +17026,7 @@
 
 - Id: modern
   Level: A2
-  Meaning: modern
+  Meaning: modern, fashionable
   Cambridge: modern, fashionable; modern; modern, up-to-date; in a modern style; to rot
   Wiki: to rot, to molder; modern; state-of-the-art
   Examples:
@@ -19363,11 +19363,11 @@
   Examples:
     - example1
 
-- Id: Prost
+- Id: prost
   Level: B1
   Meaning: cheers
   Examples:
-    - example1
+    - Wir trinken auf Ihre Gesundheit! Prost!
 
 - Id: protestieren
   Level: B1
@@ -19784,19 +19784,35 @@
 - Id: das Recht
   Level: B1
   Form: -e
-  Meaning: right
+  Meaning: right, claim, law
   Cambridge: law; right
   Wiki: a right, privilege; a title, claim; the law
   Examples:
-    - example1
+    - Nach deutschem Recht kann er dafür
+      nicht bestraft werden.
+    - Ich hatte Vorfahrt. Ich war im Recht.
+    - Die Rechnung stimmt nicht? Dann
+      haben Sie das Recht, das Geld
+      zurückzubekommen.
+
+- Id: rechtlich
+  Level: B1
+  Examples:
+    - Wir beraten Sie in rechtlichen Fragen.
 
 - Id: recht
-  Level: B1
-  Meaning: right
+  Level: A2
+  Meaning: right (direction); proper, real; exactly
   Cambridge: right, proper; real; right, correctly; pretty, quite; real, very
   Wiki: right (direction); proper, correct; true, real; just, lawful; very, quite, rather, pretty, fairly; well, right; exactly
   Examples:
-    - example1
+    - Ich habe mir den rechten Arm
+      gebrochen.
+    - Ist es Ihnen recht, wenn ich morgen
+      vorbeikomme?
+    - Da haben Sie recht.
+    - Da muss ich Ihnen recht geben.
+    - Du hast (nicht) recht.
 
 - Id: rechts
   Level: A1
@@ -19804,7 +19820,11 @@
   Cambridge: (on/to the) right; right-wing; on/to the right of
   Wiki: on the right; to the right; the right-hand side; pars pro toto for right-wing; pertaining to the political right
   Examples:
-    - example1
+    - An der nächsten Kreuzung müssen Sie
+      rechts abbiegen.
+    - Der Bahnhof ist da vorne rechts.
+    - Die Schillerstraße ist hier rechts.
+    - Der Bahnhof ist hier rechts.
 
 - Id: rechtzeitig
   Level: B1
@@ -22977,7 +22997,7 @@
 - Id: die Stadt
   Level: A1
   Form: ä-e
-  Meaning: city
+  Meaning: city (S-)
   Cambridge: town, city; downtown area; city hall
   Wiki: city; town; city center; city, town, town council, city council
   Examples:
@@ -23966,7 +23986,7 @@
 - Id: die Tabelle
   Level: B1
   Form: -n
-  Meaning: table
+  Meaning: table (grid of data in rows and columns)
   Cambridge: table
   Wiki: table (grid of data in rows and columns)
   Examples:
@@ -24630,7 +24650,7 @@
 - Id: der Tisch
   Level: A1
   Form: -e
-  Meaning: table
+  Meaning: table, dining table
   Cambridge: table
   Wiki: table ;; dining table, dinner table; desk; bench, workbench; meal
   Examples:
@@ -25883,9 +25903,10 @@
 
 - Id: die Unterlagen
   Level: B1
+  Form: (Pl.)
   Meaning: documents
   Examples:
-    - example1
+    - Ich schicke Ihnen alle Unterlagen mit der Post zu.
 
 - Id: unterlassen
   Level: B1
@@ -26690,11 +26711,11 @@
 
 - Id: vermutlich
   Level: B1
-  Meaning: probably, supposed, presume
+  Meaning: probably, supposed, presumably
   Cambridge: presumed, probable
   Wiki: suspected, presumable, assumed; presumably
   Examples:
-    - example1
+    - Vermutlich sagt er die Wahrheit.
 
 - Id: vernünftig
   Level: B1
@@ -27289,11 +27310,11 @@
 - Id: die Vorfahrt
   Level: B1
   Form: -en
-  Meaning: right of way
+  Meaning: priority, right of way
   Cambridge: priority
   Wiki: priority, right of way
   Examples:
-    - example1
+    - Achtung! Das Auto rechts hat Vorfahrt!
 
 - Id: vorgestern
   Level: B1
@@ -27600,7 +27621,7 @@
 
 - Id: wandern
   Level: A1
-  Form: wandert, wanderte, hat gewandert
+  Form: wandert, wanderte, ist gewandert
   Meaning: to go for a walk
   Cambridge: to hike; to wander, to roam, to migrate; to wander
   Wiki: to hike; to wander, to migrate, to move spontaneously, to end up (somewhere)
