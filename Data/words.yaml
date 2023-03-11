@@ -19366,6 +19366,8 @@
 - Id: prost
   Level: B1
   Meaning: cheers
+  Cambridge: cheers
+  Wiki: cheers
   Examples:
     - Wir trinken auf Ihre Gesundheit! Prost!
 
@@ -19788,15 +19790,15 @@
   Cambridge: law; right
   Wiki: a right, privilege; a title, claim; the law
   Examples:
-    - Nach deutschem Recht kann er dafür
-      nicht bestraft werden.
+    - Nach deutschem Recht kann er dafür nicht bestraft werden.
     - Ich hatte Vorfahrt. Ich war im Recht.
-    - Die Rechnung stimmt nicht? Dann
-      haben Sie das Recht, das Geld
-      zurückzubekommen.
+    - Die Rechnung stimmt nicht? Dann haben Sie das Recht, das Geld zurückzubekommen.
 
 - Id: rechtlich
   Level: B1
+  Meaning: legal, lawful, legitimate
+  Cambridge: legal; legally
+  Wiki: legal; lawful
   Examples:
     - Wir beraten Sie in rechtlichen Fragen.
 
@@ -19806,10 +19808,8 @@
   Cambridge: right, proper; real; right, correctly; pretty, quite; real, very
   Wiki: right (direction); proper, correct; true, real; just, lawful; very, quite, rather, pretty, fairly; well, right; exactly
   Examples:
-    - Ich habe mir den rechten Arm
-      gebrochen.
-    - Ist es Ihnen recht, wenn ich morgen
-      vorbeikomme?
+    - Ich habe mir den rechten Arm gebrochen.
+    - Ist es Ihnen recht, wenn ich morgen vorbeikomme?
     - Da haben Sie recht.
     - Da muss ich Ihnen recht geben.
     - Du hast (nicht) recht.
@@ -19820,8 +19820,7 @@
   Cambridge: (on/to the) right; right-wing; on/to the right of
   Wiki: on the right; to the right; the right-hand side; pars pro toto for right-wing; pertaining to the political right
   Examples:
-    - An der nächsten Kreuzung müssen Sie
-      rechts abbiegen.
+    - An der nächsten Kreuzung müssen Sie rechts abbiegen.
     - Der Bahnhof ist da vorne rechts.
     - Die Schillerstraße ist hier rechts.
     - Der Bahnhof ist hier rechts.
@@ -19831,14 +19830,6 @@
   Meaning: on time
   Cambridge: timely, punctual; in/on time
   Wiki: punctual; in time; on time
-  Examples:
-    - example1
-
-- Id: rechtlich
-  Level: B1
-  Meaning: legal, lawful, legitimate
-  Cambridge: legal; legally
-  Wiki: legal; lawful
   Examples:
     - example1
 
