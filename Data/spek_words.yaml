@@ -1,0 +1,194 @@
+# goethe/words
+
+- Id: das Schloss
+  Level: A2
+  Form: ö-er
+  Meaning: lock, padlock, castle
+  Cambridge: lock; castle, palace
+  Wiki: lock; castle
+  Examples:
+    - Am Wochenende besichtigen wir Schloss Neuschwanstein.
+    - An unserer Tür ist das Schloss kaputt.
+    - An unserer Wohnungstür ist das Schloss kaputt.
+    - Wir haben am Wochenende ein Schloss besichtigt
+
+- Id: der Vogel
+  Level: M
+  Form: ö-
+  Meaning: bird
+  Cambridge: bird; character
+  Wiki: a bird; an idiot, a clown; a kite; (originating as a nickname, or as an occupational name for a catcher of birds)
+  Examples:
+    - Ein Seeadler ist ein großer Vogel.
+    - Die Vögel zwitschern im Wald.
+
+- Id: die Katze
+  Level: A2
+  Form: -n
+  Meaning: cat
+  Cambridge: cat
+  Wiki: house cat,; female house cat; cat; the obsolete constellation Felis
+  Examples:
+    - Meine Tochter wünscht sich eine Katze.
+
+- Id: der Hund
+  Level: A1
+  Form: -e
+  Meaning: dog
+  Cambridge: dog; guy, dude, fellow
+  Wiki: dog, hound; scoundrel; dog (mean or morally reprehensible person); A board with casters used to transport heavy objects.
+  Examples:
+    - Der Hund ist noch jung.
+    - Magst du Hunde?
+    - Meine Tochter hat Angst vor Hunden.
+
+- Id: die Schlange
+  Level: B1
+  Form: -n
+  Meaning: snake, line, queue
+  Cambridge: snake; line; viper
+  Wiki: snake; line (of people waiting), queue; penis; a treacherous woman
+  Examples:
+    - Auf der Post gibt es immer eine lange (Warte-)Schlange.
+
+- Id: das Huhn
+  Form: ü-er
+  Meaning: hen
+  Cambridge: chicken, hen; hen; chicken
+  Wiki: hen; chicken
+  Examples:
+    - Wir züchten hier Hühner.
+
+- Id: das Schwein
+  Level: A2
+  Form: -e
+  Meaning: pig
+  Cambridge: pig; pork; luck; pig, swine
+  Wiki: swine, pig.; A dirty, or contemptible person.; luck, good fortune
+  Examples:
+    - Hast du die Schweine schon gefüttert?
+    - Ich esse kein Schweinefleisch.
+
+- Id: die Ameise
+  Form: -n
+  Meaning: ant
+  Cambridge: ant
+  Wiki: ant
+  Examples:
+    - Die Ameisen bildeten eine Straße mitten durch die Küche.
+
+- Id: der Affe
+  Level: M
+  Form: -n
+  Meaning: monkey
+  Cambridge: monkey, ape; jerk
+  Wiki: monkey or ape (male or female or of unspecified sex); , a kind of furry military knapsack; drunkenness, alcohol intoxication
+  Examples:
+    - Affen sind in der Regel Pflanzenfresser.
+
+- Id: der Löwe
+  Level: M
+  Form: -n
+  Meaning: lion
+  Cambridge: lion; Leo
+  Wiki: lion; lion, as used on a coat of arms; Leo
+  Examples:
+    - Die männlichen Löwen sind gut an ihrer Mähne zu erkennen.
+
+- Id: die Kuh
+  Level: M
+  Form: ü-e
+  Meaning: cow
+  Cambridge: cow; cow, hind; bitch
+  Wiki: cow
+  Examples:
+    - Kühe geben Milch.
+
+- Id: das Schaf
+  Level: M
+  Form: -e
+  Meaning: sheep
+  Cambridge: sheep
+  Wiki: sheep
+  Examples:
+    - Der Hirte hütet seine Schafe.
+
+- Id: die Mücke
+  Level: M
+  Form: -n
+  Meaning: mosquito
+  Cambridge: gnat, mosquito, midge
+  Wiki: insect of the order Nematocera, that is a mosquito, crane fly, gnat, or midge; mosquito; fly
+  Examples:
+    - We were bitten by mosquitos by the river.
+
+- Id: die Spinne
+  Form: -n
+  Meaning: spider
+  Cambridge: spider
+  Wiki: spider
+  Examples:
+    - Eine Spinne fängt viele Insekten.
+
+- Id: die Giraffe
+  Level: M
+  Form: -n
+  Meaning: giraffe
+  Cambridge: giraffe
+  Wiki: giraffe; The constellation Camelopardalis
+  Examples:
+    - Die Giraffe ist ein afrikanisches Huftier.
+
+- Id: die Schildkröte
+  Level: M
+  Form: -n
+  Meaning: tortoise
+  Cambridge: tortoise, turtle
+  Wiki: turtle, tortoise
+  Examples:
+    - Schildkröten und Schlangen sind Reptilien.
+
+- Id: der Fisch
+  Level: A1
+  Form: -e
+  Meaning: fish
+  Cambridge: fish; Pisces
+  Wiki: fish; fish; fish
+  Examples:
+    - Ich esse gern Fisch. Fleisch mag ich nicht.
+    - Fisch mag ich lieber als Fleisch.
+
+- Id: das Pferd
+  Level: M
+  Form: -e
+  Meaning: horse
+  Cambridge: horse
+  Wiki: horse; knight; pommel horse; a woman
+  Examples:
+    - Mein Pferd ist zu schnell.
+
+- Id: die Maus
+  Level: M
+  Form: ä-e
+  Meaning: mouse
+  Cambridge: mouse; sweetie; dough
+  Wiki: mouse (animal); mouse (computer input device); babe; dough
+  Examples:
+    - Der Elefant hat Angst vor der kleinen weißen Maus.
+
+- Id: der Bär
+  Level: M
+  Form: -en
+  Meaning: bear
+  Cambridge: bear
+  Wiki: bear; bear; large block or hammer for machining things or pile-driving; boar
+  Examples:
+    - Der Bär gilt als blutrünstiges Raubtier, ist aber ein Allesfresser.
+
+- Id: der Wal
+  Form: -e
+  Meaning: whale
+  Cambridge: whale
+  Wiki: whale
+  Examples:
+    - Wale sind die größten Säugetiere.
