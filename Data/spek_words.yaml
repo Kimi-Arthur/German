@@ -191,3 +191,373 @@
   Wiki: whale
   Examples:
     - Wale sind die größten Säugetiere.
+
+- Id: besichtigen
+  Level: A1
+  Form: besichtigt, besichtigte, hat besichtigt
+  Meaning: to visit, to view something
+  Cambridge: to visit, to go to see; to inspect, to survey
+  Wiki: to visit (a city, tourist site, monument etc.); to have a look around; to view (a property)
+  Examples:
+    - Ich möchte gern den Dom besichtigen.
+    - Ich möchte gern das Schloss besichtigen.
+    - Sie können die Wohnung am Mittwochabend besichtigen.
+    - Im Urlaub haben wir Schloss Schönbrunn besichtigt.
+
+- Id: kennenlernen
+  Level: A1
+  Form: lernt kennen, lernte kennen, hat kennengelernt
+  Meaning: to get to know, to meet
+  Cambridge: to meet, to get to know; to get to know, to become acquainted with
+  Examples:
+    - Wir sind neu hier. Wir möchten Sie kennenlernen.
+    - Wo habt ihr euch kennengelernt? - Wir haben uns in München kennengelernt.
+    - Ich möchte gern reisen und andere Länder kennenlernen.
+
+- Id: probieren
+  Level: A2
+  Form: probiert, probierte, hat probiert
+  Meaning: to try, to taste
+  Cambridge: to try; to test; to try on
+  Wiki: to try; to taste; to sample
+  Examples:
+    - Möchten Sie den Käse probieren?
+    - Die Tür geht schwer auf. Probier mal!
+    - Haben Sie dieses Waschmittel schon einmal probiert?
+    - Ich habe probiert, die Zeitung zu lesen, aber es war zu schwer.
+    - Darf ich die Schuhe anprobieren?
+    - Möchten Sie den Käse mal probieren?
+
+- Id: stammen
+  Level: B1
+  Form: stammt, stammte, hat gestammt
+  Meaning: to come from
+  Cambridge: to come, to originate; to come, to derive; to date; to come
+  Wiki: to descend, to originate, to be derived
+  Examples:
+    - Ich stamme aus einer kleinen Stadt an der Donau.
+
+- Id: zählen
+  Level: B1
+  Form: zählt, zählte, hat gezählt
+  Meaning: to count
+  Cambridge: to count
+  Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
+  Examples:
+    - example1
+
+- Id: ausgeben
+  Level: A2
+  Form: gibt aus, gab aus, hat ausgegeben
+  Meaning: to spend
+  Cambridge: to spend; to give out; to issue
+  Wiki: to spend, to expend; to pay out; to issue; to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
+  Examples:
+    - Agata gibt viel Geld für Bücher aus.
+    - Ich möchte nicht so viel Geld ausgeben.
+    - Carola gibt viel Geld für ihr Hobby aus.
+
+- Id: betragen
+  Form: beträgt, betrug, hat betragen
+  Meaning: to amount to, to be
+  Cambridge: to be, to amount to; to behave
+  Wiki: to amount to, to be; to behave
+
+- Id: bieten
+  Level: B1
+  Form: bietet, bot, hat geboten
+  Meaning: to offer
+  Cambridge: to bid; to offer; to offer, to provide; to present itself; to show, to perform
+  Wiki: to offer; to present; to bid; to offer to pay a certain price; to arise; to occur
+  Examples:
+    - Er hat mir für den alten Wagen noch 800 Euro geboten.
+    - Die Firma bietet ihren Mitarbeitern die Möglichkeit, Sprachkurse zu besuchen.
+
+- Id: geben
+  Level: A1
+  Form: gibt, gab, hat gegeben
+  Meaning: to give
+  Cambridge: to give, to pass; to give, to make; to give, to lend; to give, to hold; to put; to put, to leave, to take; to give, to put through; to deal
+  Wiki: to give (changing ownership); to hand, to pass, to put within reach; (impersonal, transitive) (Used to indicate that something exists (often with a certain property and/or in a certain location). Usually translated as or); to communicate (helpful information such as a hint or advice), to signal (in a certain way such as a sign); to present; to put; to result in
+  Examples:
+    - Kannst du mir bitte deinen Kugelschreiber geben?
+    - Es gibt keine Karten mehr für das Konzert.
+    - Kannst du mir mal deinen Stift geben?
+    - Geben Sie mir bitte eine Quittung!
+    - Können Sie mir etwas zum Schreiben geben?
+    - Der Arzt hat mir eine Spritze gegeben.
+    - Was gibt es im Fernsehen?
+    - Es gibt bald Regen.
+
+- Id: gefallen
+  Level: A1
+  Form: gefällt, gefiel, hat gefallen
+  Meaning: to like (pp. fallen)
+  Cambridge: to please
+  Wiki: to please; to appeal to; fallen, dropped
+  Examples:
+    - Das Bild gefällt mir.
+    - Wie gefällt es Ihnen in Berlin?
+    - Wie gefällt es Ihnen hier?
+    - Der Pullover gefällt mir gut.
+
+- Id: gelten
+  Level: B1
+  Form: gilt, galt, hat gegolten
+  Meaning: to be valid
+  Cambridge: to be valid; to be allowed
+  Wiki: to be valid; to count; to hold true; to be effective; to be in force; to be worth; to be for/of (+ dative); to be regarded (as something); to pass (for something); to be necessary; to pass; to go; (Often translated with as a unit into , , , , etc.)
+  Examples:
+    - Mein Pass gilt noch ein Jahr.
+    - 'Bitte diesen Zettel gut aufheben: Er gilt als Garantie.'
+
+- Id: genießen
+  Level: B1
+  Form: genießt, genoss, hat genossen
+  Meaning: to taste, enjoy
+  Cambridge: to enjoy, to savor; to enjoy, to have; to have, to receive
+  Wiki: to enjoy (an experience); to relish; to savor; to have (food or beverage), to eat, to drink; to receive; to have
+  Examples:
+    - Er kann das Essen leider nicht genießen, weil es zu scharf ist.
+    - Sie hat eine gute Ausbildung genossen.
+
+- Id: klingen
+  Level: B1
+  Form: klingt, klang, hat geklungen
+  Meaning: to sound
+  Cambridge: to ring
+  Wiki: to ring; to clink; to sound
+  Examples:
+    - Wollen wir einkaufen gehen und danach zusammen kochen? - Ja, das klingt gut.
+
+- Id: liegen
+  Level: A1
+  Form: liegt, lag, hat gelegen
+  Meaning: to lie (place/ location)
+  Cambridge: to lie; to lie, to be
+  Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
+  Examples:
+    - Englisch liegt auf Platz 1.
+    - Der Brief liegt schon auf Ihrem Schreibtisch.
+    - Judith liegt noch im Bett.
+    - Er liegt schon seit drei Wochen im Krankenhaus.
+    - Frankfurt liegt am Main.
+    - In den Bergen liegt schon Schnee.
+    - Um neun Uhr liegt Judith noch im Bett.
+    - Die Zeitung liegt auf dem Tisch. Judith liegt noch im Bett.
+
+- Id: sehen
+  Level: A1
+  Form: sieht, sah, hat gesehen
+  Meaning: to see
+  Cambridge: to see; to look; to see, to watch
+  Wiki: to see; to have sight; to see (something); to perceive by vision; to realize; to notice; to see; to find out; to meet (somebody); to meet up; to see;; to look at; to watch;; to check on; to look after; to see to; to decide spontaneously and/or by personal preference; to wait and see
+  Examples:
+    - Ich kann dich nicht sehen.
+    - Ich habe diesen Jungen schon einmal gesehen.
+    - Möchtest du einen Film sehen?
+    - Ich habe Lisa lange nicht gesehen. Ist sie im Urlaub?
+    - Darf ich mal Ihren Ausweis sehen?
+    - Ich sehe nicht gut. Ich brauche eine Brille.
+    - Ich habe einen schönen Film gesehen.
+    - Wir haben uns lange nicht gesehen.
+    - Sieh mal! Es schneit.
+    - Ich komme gleich wieder, ich muss mal schnell nach dem Essen sehen.
+    - Was machst du im Urlaub? - Ich weiß noch nicht. Mal sehen.
+    - Du siehst deiner Mutter sehr ähnlich.
+
+- Id: aussehen
+  Level: A1
+  Form: sieht aus, sah aus, hat ausgesehen
+  Meaning: to seem, appear, look
+  Cambridge: to look
+  Wiki: to look, seem (/ like); to look good or bad;; to look for; to watch out for; to look for and find; to pick; to select
+  Examples:
+    - Das sieht schön aus.
+    - Wie sieht er aus? - Groß und blond.
+    - Sie sieht wie ihre Mutter aus.
+    - Das Kleid sieht hübsch aus.
+    - Sie sehen wieder besser aus. Sind Sie wieder gesund?
+    - Er sieht genauso aus wie sein Vater.
+    - Es sieht so aus, als ob es bald regnen würde.
+
+- Id: tragen
+  Level: A2
+  Form: trägt, trug, hat getragen
+  Meaning: to carry, wear
+  Cambridge: to carry, to take; to wear; to hold; to have; to support; to take the weight (of); to bear (fruit); to bear, to have; to bear, to pay; to bear; to bear, to endure
+  Wiki: to carry, to bear (something on one's person); to wear (clothing); to bear, to carry (responsibility, blame, a name, a title, etc.); to bear, to (have to) pay (for) (costs, expenses, losses, etc.); to produce, to bear, to yield; to wear (clothing, jewelry); to support, to maintain; to pay for itself
+  Examples:
+    - Ich kann den Koffer nicht tragen, er ist zu schwer.
+    - Er trägt heute einen blauen Anzug.
+
+- Id: vorlesen
+  Level: B1
+  Form: liest vor, las vor, hat vorgelesen
+  Meaning: to read (aloud)
+  Cambridge: to read (out/aloud)
+  Wiki: to read (aloud)
+  Examples:
+    - Ich lese meinen Kindern oft etwas vor.
+
+- Id: billig
+  Level: A1
+  Meaning: cheap
+  Cambridge: cheap; cheap, tacky
+  Wiki: appropriate, meet, fair; cheap; cheap
+  Examples:
+    - Die Jacke kostet nur 10 Euro! Die ist aber billig!
+    - Das Wörterbuch kostet nur fünf Euro. - Fünf Euro? Das ist aber billig!
+    - Dieses Buch ist nicht ganz billig.
+
+- Id: schlecht
+  Level: A1
+  Meaning: bad (-t)
+  Cambridge: bad, poor; bad; no good; bad, wicked; badly, poorly; badly; with difficulty; hardly
+  Wiki: bad, evil, wicked; bad; bad; bad; bad, off; dirty; badly, poorly, not well; with difficulty, not easily
+  Examples:
+    - Mir ist schlecht!
+    - Sie sehen schlecht aus.
+    - Das Wetter ist schlecht. Wir haben schon seit einer Woche schlechtes Wetter.
+    - Mir geht es schlecht. Ich habe Fieber.
+    - Du siehst aber schlecht aus. Bist du krank?
+    - Es geht mir schlecht. Ich habe Fieber.
+    - Ich habe zu viel gegessen. Jetzt ist mir schlecht.
+    - Hier ist schlechte Luft. Mach bitte das Fenster auf.
+    - Stell die Milch in den Kühlschrank. Sonst wird sie schlecht.
+    - Die Bezahlung in dieser Firma ist schlecht.
+    - Die Verbindung ist schlecht. Ich höre dich nicht gut.
+    - Der Film war nicht schlecht. Er hat mir ganz gut gefallen.
+    - Wir haben schlechtes Wetter.
+
+- Id: frisch
+  Level: A2
+  Meaning: fresh
+  Cambridge: fresh; fresh, clean; fresh, crisp; freshly
+  Wiki: fresh; recent
+  Examples:
+    - Das Brot ist noch ganz frisch. Ich habe es gerade gekauft.
+    - Die Handtücher sind frisch gewaschen.
+    - Ich muss mal an die frische Luft.
+
+- Id: teuer
+  Level: A1
+  Meaning: expensive
+  Cambridge: expensive; dear; expensively
+  Wiki: dear; expensive
+  Examples:
+    - Das ist mir zu teuer.
+    - Ich finde das Geschäft nicht teuer.
+
+- Id: dunkel
+  Level: A2
+  Meaning: dark
+  Cambridge: dark; deep; vague; shady; vaguely
+  Wiki: dark; deep; vague, faint
+  Examples:
+    - Um sechs Uhr ist es schon dunkel.
+    - Meine Schwester hat dunkle Haare.
+    - Ich will eine dunkelblaue Bluse kaufen.
+
+- Id: warm
+  Level: B1
+  Meaning: warm
+  Cambridge: warm; warmly; including heating
+  Wiki: warm; mildly hot; warm; keeping the wearer warm; including heating costs, water, and fees (electricity may or may not be included); gay, homosexual (mostly male)
+  Examples:
+    - example1
+
+- Id: groß
+  Level: A1
+  Meaning: big
+  Cambridge: big, large; big, tall, in size; large, big; great; long; grown up; big; capital, upper-case; large; particularly
+  Wiki: big, large, large-scale; great, grand; tall; pertaining to defecation
+  Examples:
+    - Mein Bruder und ich sind gleich groß.
+    - Frankfurt ist eine große Stadt.
+    - Unsere Wohnung ist 80 m² groß.
+    - Wir haben einen großen Garten.
+    - Wie groß sind Sie?
+    - Die Jacke ist mir zu groß.
+    - Wenn die Kinder groß sind, haben wir wieder mehr Zeit.
+    - Ich habe keinen großen Hunger.
+
+- Id: jung
+  Level: A1
+  Meaning: young
+  Cambridge: young
+  Wiki: young
+  Examples:
+    - Claudia ist 21. - Was? Noch so jung?
+    - Bei uns im Haus wohnen viele junge Leute.
+    - Mein Bruder ist fünf Jahre jünger als ich.
+    - Für diesen Film bist du noch zu jung.
+    - Meine Mutter ist jung geblieben.
+    - Ich habe sehr jung geheiratet.
+    - Ich bin in unserer Familie die Jüngste.
+
+- Id: gut
+  Level: A1
+  Meaning: good
+  Cambridge: good; good, reasonable; good, kind; B; well; well, quite; (a) good
+  Wiki: good; good; good; good; all right, fair, proper; good; well; a little more than; easily, likely; okay, all right, now then
+  Examples:
+    - Das finde ich gut.
+    - Ich komme um 13 Uhr. - Gut!
+    - Guten Morgen!
+    - Ein gutes neues Jahr!
+    - Guten Appetit!
+    - Welches Bild gefällt dir besser?
+    - Dieses Kleid finde ich am besten.
+    - Ich kenne ein gutes Lokal.
+    - Maria kann gut tanzen.
+    - Ich glaube, die Wurst ist nicht mehr gut.
+    - Mir ist heute gar nicht gut.
+    - Wir hatten im Urlaub gutes Wetter.
+    - Heute ist das Wetter wieder besser.
+    - Christine ist meine beste Freundin.
+
+- Id: viel
+  Level: A1
+  Meaning: a lot
+  Cambridge: a lot / lots of, much; a lot / lots of, many; many, all kinds/sorts of; a lot, much, lots; a lot, many, lots; a lot of / lots of / many (people); a lot; much, widely; much
+  Wiki: much, a lot; much, a lot
+  Examples:
+    - Hier regnet es viel.
+    - Ich habe leider nicht viel Zeit.
+    - Viel Spaß!
+    - Im Winter sind viele Leute erkältet.
+    - Ich habe schon viel gelernt.
+    - Ich wünsche Ihnen viel Spaß.
+    - Das ist mir viel zu teuer.
+
+- Id: gern
+  Level: A1
+  Meaning: gladly
+  Cambridge: with pleasure; gladly; used with verbs to express that the speaker would like to do something; often
+  Wiki: willingly; gladly; with pleasure;; much; a lot; easily; often; (Used to indicate a preference.)
+  Examples:
+    - Ich spiele gern Fußball.
+    - Ich gehe gerne einkaufen.
+    - Ich helfe Ihnen gern.
+    - Kaffee oder Tee? - Ich trinke lieber einen Tee.
+    - Am liebsten trinke ich Kaffee.
+
+- Id: hoch
+  Level: A1
+  Meaning: high
+  Cambridge: high, tall; high; high, top; high, deep; highly; to the power of
+  Wiki: high, tall; high, great, immense; grand, important; up, upwards; northwards; to the power of
+  Examples:
+    - Der Mount Everest ist 8.880 Meter hoch.
+    - Die Preise in diesem Laden sind sehr hoch.
+    - Der Berg ist fast 3000 m hoch.
+    - Das Hotel liegt hoch über dem See.
+    - Die Benzinpreise sind sehr hoch.
+
+- Id: nah
+  Level: B1
+  Meaning: near
+  Wiki: near (in space or time or in an abstract sense), close, nearby; near (in space or time or in an abstract sense)
+  Examples:
+    - Wie weit ist es zum Bahnhof? - Das ist ganz nah, nur zwei Minuten von hier.
