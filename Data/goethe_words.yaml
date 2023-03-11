@@ -27653,12 +27653,17 @@
     - example1
 
 - Id: warm
-  Level: B1
+  Level: A2
   Meaning: warm
   Cambridge: warm; warmly; including heating
   Wiki: warm; mildly hot; warm; keeping the wearer warm; including heating costs, water, and fees (electricity may or may not be included); gay, homosexual (mostly male)
   Examples:
-    - example1
+    - Hier ist es sehr warm.
+    - Abends essen wir oft warm.
+    - Du musst dich warm anziehen.
+    - Mittags möchte ich gern ein warmes Essen.
+    - Für den Winter brauche ich einen warmen Pullover.
+    - Ich brauche einen warmen Pullover.
 
 - Id: die Wärme
   Level: B1
@@ -27667,7 +27672,7 @@
   Cambridge: warmth
   Wiki: warmth; heat
   Examples:
-    - example1
+    - Wärme ist gut gegen meine Schmerzen.
 
 - Id: warnen
   Level: B1
@@ -28689,7 +28694,9 @@
   Cambridge: to count
   Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
   Examples:
-    - example1
+    - Bitte zählen Sie das Wechselgeld sofort nach.
+    - Mein Sohn kann schon bis 100 zählen.
+    - Ich zähle auf dich!
 
 - Id: der Zahn
   Level: B1
