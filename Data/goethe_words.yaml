@@ -127,6 +127,7 @@
 
 - Id: abhängig
   Level: B1
+  Form: abhängiger, am abhängigsten
   Meaning: dependent on
   Cambridge: dependent on; addicted
   Wiki: dependent (on); addicted (to)
@@ -395,6 +396,7 @@
 
 - Id: ähnlich
   Level: B1
+  Form: ähnlicher, am ähnlichsten
   Meaning: similar
   Cambridge: similar; similarly
   Wiki: similar (to), alike, resembling
@@ -434,6 +436,7 @@
 
 - Id: aktiv
   Level: A2
+  Form: aktiver, am aktivsten
   Meaning: active
   Cambridge: active; expresses that sth has a special effect; actively
   Wiki: active; active
@@ -452,6 +455,7 @@
 
 - Id: aktuell
   Level: A2
+  Form: aktueller, am aktuellsten
   Meaning: current (now)
   Cambridge: topical, up-to-date; relevant; up-to-date
   Wiki: current, currently in action, live (in the sense of broadcasting); recent; up-to-date
@@ -534,6 +538,7 @@
 
 - Id: allgemein
   Level: B1
+  Form: allgemeiner, am allgemeinsten
   Meaning: general
   Cambridge: general; universal, across-the-board; generally; broadly
   Wiki: general (common, basic, usual), universal
@@ -553,6 +558,7 @@
 
 - Id: alltäglich
   Level: B1
+  Form: alltäglicher, am alltäglichsten
   Meaning: daily, usual
   Cambridge: common, everyday
   Wiki: everyday; quotidian; usual, common; trivial
@@ -604,6 +610,7 @@
 
 - Id: alt
   Level: A1
+  Form: älter, am ältesten
   Meaning: old
   Cambridge: old; previous; ancient
   Wiki: old; ancient; elderly
@@ -648,6 +655,7 @@
 
 - Id: alternativ
   Level: B1
+  Form: alternativer, am alternativsten
   Meaning: alternative, alternatively
   Cambridge: alternative; alternatively
   Wiki: alternative
@@ -883,6 +891,7 @@
 
 - Id: angenehm
   Level: B1
+  Form: angenehmer, am angenehmsten
   Meaning: pleasant
   Cambridge: pleasant; pleasantly
   Wiki: pleasant; short for 'pleased to meet you'
@@ -911,6 +920,7 @@
 
 - Id: ängstlich
   Level: B1
+  Form: ängstlicher, am ängstlichsten
   Meaning: nervous, worried, timid
   Cambridge: timid; scared; fearfully, nervously, apprehensively
   Wiki: fearful, anxious
@@ -1121,7 +1131,7 @@
   Form: schließt an, schloss an, hat angeschlossen
   Meaning: to connect
   Cambridge: to connect; to lock; to follow; to be attached to, to adjoin; to join
-  Wiki: to connect; to join (a cause, a side, etc.)
+  Wiki: to connect, to attach; to join (a cause, a side, etc.)
   Examples:
     - Wo kann ich den Computer anschließen?
 
@@ -1152,7 +1162,7 @@
   Form: sieht an, sah an, hat angesehen
   Meaning: to look at, watch
   Cambridge: to look at; to watch
-  Wiki: to look at, to have a look; to look at (with a certain expression or emotion); to regard, to consider, to look on (something in a certain way or having a certain quality); to watch (a movie, a television program, storts, etc); appearing, to look at
+  Wiki: to look at, to have a look; to look at (with a certain expression or emotion); to regard, to consider, to look on (something in a certain way or having a certain quality); to watch (a movie, a television program, sports, etc); appearing, to look at
   Examples:
     - Darf ich eure Urlaubsfotos ansehen?
     - Ich sehe (mir) diese Sendung jeden Tag an.
@@ -1221,6 +1231,7 @@
 
 - Id: anstrengend
   Level: B1
+  Form: anstrengender, am anstrengendsten
   Meaning: exhausting, tiring
   Cambridge: strenuous
   Wiki: strenuous (requiring great exertion); exhausting
@@ -1336,7 +1347,7 @@
   Form: ü-e
   Meaning: suit
   Cambridge: suit
-  Wiki: suit (of clothes), outfit
+  Wiki: suit (of clothes), outfit; approach, gathering; approaching, advancing; bedcover; a motion in parliament; acceleration
   Examples:
     - Mein Mann muss sich einen neuen Anzug kaufen.
     - Mein Mann hat sich einen neuen Anzug gekauft.
@@ -1436,7 +1447,7 @@
     Form: -nen
   Meaning: worker
   Cambridge: worker, blue-collar worker; worker
-  Wiki: worker
+  Wiki: ; worker
   Examples:
     - Maria ist seit zwei Jahren Arbeiterin bei Siemens.
 
@@ -1521,6 +1532,7 @@
 
 - Id: ärgerlich
   Level: B1
+  Form: ärgerlicher, am ärgerlichsten
   Meaning: annoying
   Cambridge: angry; annoying; angrily
   Wiki: annoying; annoyed; crossly, angrily
@@ -1529,6 +1541,7 @@
 
 - Id: arm
   Level: A2
+  Form: ärmer, am ärmsten
   Meaning: poor, low
   Cambridge: poor; low
   Wiki: poor; poor; low
@@ -1716,7 +1729,7 @@
   Form: führt auf, führte auf, hat aufgeführt
   Meaning: to perform
   Cambridge: to perform; to list; to act, to behave
-  Wiki: to perform (a play, a piece of music, etc.); to conduct oneself; to behave, to act (in a certain way)
+  Wiki: to perform (a play, a piece of music, etc.); to list; to conduct oneself; to behave, to act (in a certain way)
   Examples:
     - Die Kinder führen zu Weihnachten ein Theaterstück auf.
 
@@ -1805,6 +1818,7 @@
 
 - Id: aufmerksam
   Level: B1
+  Form: aufmerksamer, am aufmerksamsten
   Meaning: attentive
   Cambridge: attentive, alert, vigilant; attentive, thoughtful; attentively, vigilantly
   Wiki: attentive, alert, observant; thoughtful, considerate, mindful
@@ -1912,7 +1926,7 @@
   Form: -e
   Meaning: entrance, appearance (on stage)
   Cambridge: appearance, performance
-  Wiki: appearance, look, comportment, behavior; short for Webauftritt, Internetauftritt; entry, entrance; gig, appearance, performance; scene; step or something similar
+  Wiki: appearance, look, comportment, behavior; entry, entrance; gig, appearance, performance; scene; step or something similar
   Examples:
     - Nach dem Auftritt feiern die Musiker.
 
@@ -1940,7 +1954,7 @@
   Synonym: (D, A) = (CH) Lift
   Meaning: lift
   Cambridge: elevator; get-up
-  Wiki: lift, elevator; winding
+  Wiki: () lift, elevator; winding; act; getup, outfit; approach, gathering; deployment, marching-up; procession; ( or ) upward circle, circle-up
   Examples:
     - In diesem Haus gibt es keinen Aufzug. Der Aufzug ist leider kaputt.
     - Im Büro ist leider der Aufzug kaputt.
@@ -2035,7 +2049,7 @@
   Form: drückt aus, drückte aus, hat ausgedrückt
   Meaning: to express
   Cambridge: to express; to reveal, to show; to squeeze; to stub out; to express yourself; to be revealed
-  Wiki: to squeeze, to squeeze out; to express; to express (oneself)
+  Wiki: to squeeze, to squeeze out; to stub out; to express; to express (oneself)
   Examples:
     - Ich weiß nicht, wie ich das ausdrücken soll. (wiki)
 
@@ -2120,7 +2134,7 @@
   Form: gibt aus, gab aus, hat ausgegeben
   Meaning: to spend
   Cambridge: to spend; to give out; to issue
-  Wiki: to spend, to expend; to pay out; to issue; to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
+  Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
   Examples:
     - Agata gibt viel Geld für Bücher aus.
     - Ich möchte nicht so viel Geld ausgeben.
@@ -2131,7 +2145,7 @@
   Form: geht aus, ging aus, ist ausgegangen
   Meaning: to go out, assume
   Cambridge: to go out; to finish; to run out; to go off; to fall out
-  Wiki: to go out; to go out; to run out; to fall out; to start, begin (); to come, stem, lead off, radiate (); to start (from), to take as one's starting point; to end, turn out; to leave, get away, come away; to work out; to be sufficient, be enough
+  Wiki: to go out; to go out; to run out; to fall out; to start, begin (); to come, stem, lead off, radiate (); to start (from), to take as one's starting point; to end, turn out; to leave, get away, come away; to work, work out, be possible
   Examples:
     - Gehen wir am Freitag zusammen aus?
     - Plötzlich ist das Licht ausgegangen.
@@ -2243,6 +2257,7 @@
 
 - Id: ausreichend
   Level: B1
+  Form: ausreichender, am ausreichendsten
   Meaning: sufficient, enough
   Cambridge: sufficient; D; enough
   Wiki: sufficient, enough, adequate; satisfactory; sufficiently, enough
@@ -2394,7 +2409,7 @@
   Form: steigt aus, stieg aus, ist ausgestiegen
   Meaning: to exit, to get off
   Cambridge: to get out, to disembark; to drop out
-  Wiki: to exit, get off; to phase out, to back out; to drop out
+  Wiki: to exit, get off; to phase out, to back out, to bail out; to drop out
   Examples:
     - Wo muss ich aussteigen? - An der nächsten Haltestelle.
 
@@ -2643,7 +2658,7 @@
   Form: -en
   Meaning: city train
   Cambridge: commuter railroad
-  Wiki: A hybrid suburban-urban metro railway system (generally overground) serving a metropolitan area, mostly in German-speaking countries (but also in Denmark's capital city Copenhagen) or A train in such systems (S-train)
+  Wiki: A commuter rail/metro system (generally overground) serving a metropolitan area or A train in such systems (S-train)
   Examples:
     - Ich nehme lieber die S-Bahn.
     - Die S-Bahn ist schneller als die Straßenbahn.
@@ -2654,7 +2669,7 @@
   Synonym: (D, A) = (CH) Tram
   Meaning: tram
   Cambridge: streetcar
-  Wiki: a streetcar, a tramway
+  Wiki: streetcar, tramway
   Examples:
     - Wo fährt die Straßenbahn ab?
     - Fahren wir mit der Straßenbahn oder mit der U-Bahn?
@@ -2665,7 +2680,7 @@
   Form: -en
   Meaning: subway, underground, metro
   Cambridge: subway
-  Wiki: underground railway, subway
+  Wiki: An underground railway; A subway
   Examples:
     - Die letzte U-Bahn geht um 23.15 Uhr.
 
@@ -2695,7 +2710,6 @@
   Level: A1
   Meaning: soon
   Cambridge: soon; almost
-  Wiki: soon, near in time; almost
   Examples:
     - Ich komme bald.
     - Auf Wiedersehen! Bis bald!
@@ -2746,7 +2760,7 @@
   Form: ä-er
   Meaning: band
   Cambridge: ribbon; ligament; tape; conveyor belt; volume; book; band
-  Wiki: tape, ribbon; A ligament; band or tie holding items together; belt (conveyor belt, fan belt, etc.); band of the spectrum; intimate bond to a person; dependence, social bond; shackle; volume; a modern music band
+  Wiki: tape, ribbon; A ligament; band or tie holding items together; belt (conveyor belt, fan belt, etc.); band of the spectrum; intimate bond to a person; dependence, social bond; shackle; volume; modern music band
   Examples:
     - Was ist deine Lieblingsband? Anton spielt in einer Band.
 
@@ -2898,7 +2912,7 @@
   Form: -n
   Meaning: construction site
   Cambridge: construction site
-  Wiki: building site, construction site
+  Wiki: building site, construction site; matter; unfinished work, area that needs to be addressed
   Examples:
     - Vor unserem Haus ist eine große Baustelle.
     - Wir müssen die Baustelle umfahren.
@@ -2908,7 +2922,7 @@
   Form: -n
   Meaning: farmer
   Cambridge: farmer; pawn; maker
-  Wiki: farmer; peasant; boor, yoken, bumpkin; pawn; jack, knave; birdcage; builder
+  Wiki: farmer; peasant; boor, yokel, bumpkin; pawn; jack, knave; birdcage; builder
   Examples:
     - Wir kaufen unser Gemüse beim Bauern.
 
@@ -3067,6 +3081,7 @@
 
 - Id: befriedigend
   Level: B1
+  Form: befriedigender, am befriedigendsten
   Meaning: satisfied
   Cambridge: satisfactory; C
   Wiki: satisfying; the number grade 3 (on a scale from 1 to 6)
@@ -3084,9 +3099,10 @@
 
 - Id: begeistert
   Level: B1
+  Form: begeisterter, am begeistertsten
   Meaning: inspired
   Cambridge: enthusiastic, excited; enthusiastically, excitedly
-  Wiki: enthusiastic; delighted
+  Wiki: enthusiastic, thrilled; delighted
   Examples:
     - Es war ein tolles Konzert. Ich bin begeistert.
 
@@ -3120,6 +3136,7 @@
 
 - Id: begrenzt
   Level: B1
+  Form: begrenzter, am begrenztesten
   Meaning: limited, restricted
   Cambridge: limited; to a limited extent
   Wiki: confined, limited, restricted; narrow
@@ -3193,6 +3210,7 @@
 
 - Id: behindert
   Level: B1
+  Form: behinderter, am behindertsten
   Meaning: disabled
   Cambridge: disabled
   Wiki: disabled; handicapped; retarded; bad; messed up
@@ -3297,9 +3315,10 @@
 
 - Id: bekannt
   Level: A1
+  Form: bekannter, am bekanntesten
   Meaning: well-known
   Cambridge: well-known; familiar
-  Wiki: known, familiar
+  Wiki: known, familiar ( + accusative)
   Examples:
     - Picasso ist sehr bekannt.
     - Er ist ein bekannter Maler.
@@ -3329,7 +3348,7 @@
   Form: bekommt, bekam, hat bekommen
   Meaning: to get, receive
   Cambridge: to get, to receive; to get; to have; to get, to be given; to catch
-  Wiki: to receive; to get; to catch; to agree with (someone); to sit well with (someone)
+  Wiki: to receive; to get; to catch; to agree with (someone); to sit well with (someone); to get
   Examples:
     - Haben Sie meinen Brief bekommen?
     - Was bekommen Sie?
@@ -3362,6 +3381,7 @@
 
 - Id: beliebt
   Level: A2
+  Form: beliebter, am beliebtesten
   Meaning: popular
   Cambridge: popular
   Wiki: popular; admired
@@ -3427,6 +3447,7 @@
 
 - Id: bequem
   Level: A2
+  Form: bequemer, am bequemsten
   Meaning: comfortable
   Cambridge: comfortable; easy, convenient; lazy; comfortably; conveniently
   Wiki: comfortable, convenient; relaxed, easy; suitable, fit
@@ -3476,6 +3497,7 @@
 
 - Id: bereit
   Level: B1
+  Form: bereiter, am bereitesten
   Meaning: ready
   Cambridge: ready; prepared, willing
   Wiki: ready (for, on, to)
@@ -3561,6 +3583,7 @@
 
 - Id: berühmt
   Level: A2
+  Form: berühmter, am berühmtesten
   Meaning: famous
   Cambridge: famous
   Wiki: famous, well-known, renowned, celebrated, noted
@@ -3637,7 +3660,7 @@
   Form: beschränkt, beschränkte, hat beschränkt
   Meaning: to restrict
   Cambridge: to limit
-  Wiki: to limit; to restrict
+  Wiki: to limit; to restrict; to limit oneself (to)
   Examples:
     - Die Teilnehmerzahl für den Kurs ist beschränkt.
 
@@ -3813,6 +3836,7 @@
 
 - Id: bestimmt
   Level: B1
+  Form: bestimmter, am bestimmtesten
   Meaning: certain, definite
   Cambridge: certain; firm, decisive; definitely, certainly; certainly; firmly
   Wiki: certain; determined; definite; certainly, definitely
@@ -3933,6 +3957,7 @@
 
 - Id: betrunken
   Level: B1
+  Form: betrunkener, am betrunkensten
   Meaning: drunk
   Cambridge: drunk
   Wiki: drunk, inebriated
@@ -4044,7 +4069,7 @@
   Form: bezahlt, bezahlte, hat bezahlt
   Meaning: to pay
   Cambridge: to pay (for); to pay; to pay for
-  Wiki: to pay for; to pay; to pay
+  Wiki: to pay for; to pay; to pay ( + accusative)
   Examples:
     - Wo kann ich bezahlen?
     - Hast du die Rechnung schon bezahlt?
@@ -4137,6 +4162,7 @@
 
 - Id: billig
   Level: A1
+  Form: billiger, am billigsten
   Meaning: cheap
   Cambridge: cheap; cheap, tacky
   Wiki: appropriate, meet, fair; cheap; cheap
@@ -4249,6 +4275,7 @@
 
 - Id: bitter
   Level: A1
+  Form: bitterer, am bittersten
   Meaning: bitter
   Cambridge: bitter; bitterly
   Wiki: bitter; bitterly
@@ -4259,6 +4286,7 @@
 
 - Id: blass
   Level: B1
+  Form: blasser, am blassesten
   Meaning: pale
   Cambridge: pale; faint
   Wiki: pale
@@ -4315,6 +4343,7 @@
 
 - Id: blind
   Level: B1
+  Form: blinder, am blindesten
   Meaning: blind
   Cambridge: blind; clouded; blindly
   Wiki: blind; cloudy
@@ -4343,6 +4372,7 @@
 
 - Id: blöd
   Level: A2
+  Form: blöder, am blödesten
   Meaning: stupid
   Cambridge: stupid, dumb
   Wiki: stupid, dim-witted
@@ -4360,6 +4390,7 @@
 
 - Id: bloggen
   Level: B1
+  Form: bloggt, bloggte, hat gebloggt
   Meaning: to blog
   Cambridge: to blog
   Wiki: to blog (contribute to a blog)
@@ -4368,6 +4399,7 @@
 
 - Id: blond
   Level: A2
+  Form: blonder, am blondesten
   Meaning: blond
   Cambridge: blond(e); blonde
   Wiki: blond; fair;; bright; not brown or yeasty; stupid; naive
@@ -4378,6 +4410,7 @@
 
 - Id: bloß
   Level: B1
+  Form: bloßer, am bloßesten
   Meaning: only, merely
   Cambridge: bare; mere; merely, just; only
   Wiki: mere, sole; bare, uncovered, nude; merely, only; (colloquial, modal particle) (Used to add emphasis or to respond to a request.)
@@ -4483,6 +4516,7 @@
 
 - Id: böse
   Level: A1
+  Form: böser, am bösesten
   Meaning: bad, evil, angry
   Cambridge: wicked, evil, nasty; naughty, bad; angry; nasty, bad; bad, nasty; angrily; bad
   Wiki: evil; malicious; wicked; bad; naughty; angry; nastily, evilly
@@ -4541,6 +4575,7 @@
 
 - Id: breit
   Level: A1
+  Form: breiter, am breitesten
   Meaning: wide
   Cambridge: wide, broad; wide; broad, wide; broad; broadly, widely
   Wiki: broad, wide; wide; drunk or high on marijuana; stoned
@@ -4666,7 +4701,7 @@
   Form: bringt, brachte, hat gebracht
   Meaning: to bring
   Cambridge: to take, to bring; to take, to see; to broadcast, to feature; to bring; to make, to yield; to bring about
-  Wiki: to bring, to fetch, to take, to convey, to bear; to bring, to lead, to guide, to accompany; to cause to have, to cause to exist, to cause to be a part of; to get, to cause (someone to do something); (transitive, with certain phrases) (To cause the action implied by a phrase to take place, possibly making the sentence more passive or indirect.); to acquire; to take possession of; to accomplish; to yield; to be of use; to be helpful; to deliver; to perform well; to get over with
+  Wiki: to bring, to fetch, to take, to convey, to bear; to bring, to lead, to guide, to accompany; to cause (someone) to have (something); to cause (something) to exist for the benefit, or to the detriment, of (someone); to cause (something) to be a part of (something); to get, to cause (someone to do something); (transitive, with certain phrases) (To cause the action implied by a phrase to take place, possibly making the sentence more passive or indirect.); to acquire; to take possession of; to accomplish; to yield; to be of use; to be helpful; to deliver; to perform well; to get over with
   Examples:
     - Bringen Sie mir bitte noch einen Kaffee!
     - Wir müssen ihn zum Arzt bringen.
@@ -4703,7 +4738,7 @@
   Synonym: (D) = (A) Semmel = (CH) Brötli
   Meaning: bread roll (-n)
   Cambridge: bread/dinner roll
-  Wiki: a bun, bread roll
+  Wiki: a bun, bread roll; a small open sandwich
   Examples:
     - Möchtest du Brot oder Brötchen zum Frühstück?
     - Ich hole schnell ein paar Brötchen zum Frühstück.
@@ -4712,6 +4747,7 @@
   Level: B1
   Synonym: (CH) = (D) Brötchen = (A) Semmel
   Meaning: bread roll (-i)
+  Wiki: bread roll, bun, roll
   Examples:
     - Ich hole schnell ein paar Brötli zum Frühstück.
 
@@ -4740,7 +4776,7 @@
   Form: ü-e
   Meaning: breast, chest
   Cambridge: chest; breast; breaststroke
-  Wiki: chest; breast (of a woman); side of the chest (of a man)
+  Wiki: chest; breast ; side of the chest
   Examples:
     - Ich habe Schmerzen in der Brust.
 
@@ -4777,6 +4813,7 @@
 
 - Id: buchen
   Level: A2
+  Form: bucht, buchte, hat gebucht
   Meaning: to book
   Cambridge: to book; to enter, to post
   Wiki: beech; to book
@@ -4835,6 +4872,7 @@
 
 - Id: bunt
   Level: A2
+  Form: bunter, am buntesten
   Meaning: colourful
   Cambridge: colorful, colored; varied; colorfully, in bright colors
   Wiki: spotted, speckled; multi-colored; colorful; variegated; mixed, varied, heterogeneous
@@ -5020,7 +5058,7 @@
   Form: checkt, checkte, hat gecheckt
   Meaning: to check
   Cambridge: to check; to get
-  Wiki: to check (up), to inspect, examine; to grasp, understand
+  Wiki: to check (up), to inspect, examine; to grasp, understand; to procure, to obtain, to gain
   Examples:
     - Bitte, check mir auch sowas.
 
@@ -5089,7 +5127,7 @@
     Id: die Coiffeuse
     Form: -n
   Meaning: hairdresser (C-)
-  Wiki: hairdresser; barber; friseur
+  Wiki: hairdresser; barber
   Examples:
     - Du siehst toll aus! Wer ist dein Coiffeur?
     - Meine Tochter will Coiffeuse werden.
@@ -5123,6 +5161,7 @@
 
 - Id: cool
   Level: B1
+  Form: cooler, am coolsten
   Meaning: cool
   Cambridge: cool
   Wiki: cool (in its informal senses); cool, calm, easy-going
@@ -5174,7 +5213,7 @@
   Level: A1
   Meaning: there
   Cambridge: there; here; then; as, since
-  Wiki: there; here; then; so; at that moment; (colloquial) (replaces any pronominal adverb when the context is clear); since; as; because; given that; when
+  Wiki: there; here; then; so; at that moment; (colloquial); since; as; because; given that; when
   Examples:
     - Da hinten ist er ja.
     - Wir sprechen gerade über Paul. Da kommt er ja gerade.
@@ -5330,9 +5369,10 @@
 
 - Id: dankbar
   Level: B1
+  Form: dankbarer, am dankbarsten
   Meaning: thankful, grateful
   Cambridge: grateful; rewarding, gratifying; gratefully, appreciatively
-  Wiki: grateful, thankful
+  Wiki: grateful, thankful ( + accusative)
   Examples:
     - Ich bin Ihnen sehr dankbar für Ihre Hilfe.
 
@@ -5558,6 +5598,7 @@
 
 - Id: deutlich
   Level: A2
+  Form: deutlicher, am deutlichsten
   Meaning: clear, distinct
   Cambridge: clear; frank, plain, forthright; clearly
   Wiki: articulate, clear; distinct; considerable; distinctly, clearly
@@ -5595,6 +5636,7 @@
 
 - Id: dicht
   Level: B1
+  Form: dichter, am dichtesten
   Meaning: thick, dense
   Cambridge: thick; dense; watertight, airtight, sealed; densely
   Wiki: thick, tight, dense; impermeable, sealed, shut, locked; close to; intoxicated; closely; (colloquial)
@@ -5603,6 +5645,7 @@
 
 - Id: dick
   Level: A2
+  Form: dicker, am dicksten
   Meaning: thick, fat
   Cambridge: thick; fat; swollen; dense, thick; big fat; thickly
   Wiki: thick; fat
@@ -5685,6 +5728,7 @@
 
 - Id: direkt
   Level: A2
+  Form: direkter, am direktesten
   Meaning: direct
   Cambridge: direct; direct, forthright; directly, straight
   Wiki: direct, straight, without deviation or interruption; direct, candid, forthright (of a person, conversation)
@@ -5704,7 +5748,7 @@
     Form: -nen
   Meaning: director
   Cambridge: principal; director, manager; director
-  Wiki: principal; director
+  Wiki: principal; director; title of a Beamter ("Public servant") in the senior service after second promotion
   Examples:
     - Ich möchte gern mit dem Direktor sprechen.
 
@@ -5923,6 +5967,7 @@
 
 - Id: dringend
   Level: A2
+  Form: dringender, am dringendsten
   Meaning: urgent
   Cambridge: urgent; urgently
   Wiki: urgent
@@ -6018,6 +6063,7 @@
 
 - Id: dumm
   Level: A2
+  Form: dümmer, am dümmsten
   Meaning: stupid
   Cambridge: stupid, dumb; stupid; silly, pesky; silly; stupidly
   Wiki: dumb, stupid
@@ -6030,6 +6076,7 @@
 
 - Id: dunkel
   Level: A2
+  Form: dunkler, am dunkelsten
   Meaning: dark
   Cambridge: dark; deep; vague; shady; vaguely
   Wiki: dark; deep; vague, faint
@@ -6040,6 +6087,7 @@
 
 - Id: dünn
   Level: A2
+  Form: dünner, am dünnsten
   Meaning: thin
   Cambridge: thin; thin, skinny; weak, watery; thinly
   Wiki: thin, slender, slim; weak, watery; flimsy, insufficient
@@ -6093,6 +6141,7 @@
 
 - Id: durchschnittlich
   Level: B1
+  Form: durchschnittlicher, am durchschnittlichsten
   Meaning: average, on average
   Cambridge: average; on average
   Wiki: average, ordinary, mean, medium; on average
@@ -6126,6 +6175,7 @@
 
 - Id: durstig
   Level: B1
+  Form: durstiger, am durstigsten
   Meaning: thirsty
   Cambridge: thirsty; hungry/thirsty for
   Wiki: thirsty
@@ -6173,6 +6223,7 @@
 
 - Id: eben
   Level: B1
+  Form: ebener, am ebensten
   Meaning: exactly, just, level, smooth
   Cambridge: flat; level; just; exactly
   Wiki: flat, smooth, even (of a surface); so, just, simply,; just, quickly,; just; a moment ago; exactly, very
@@ -6225,6 +6276,7 @@
 
 - Id: echt
   Level: A2
+  Form: echter, am echtesten
   Meaning: real, really
   Cambridge: genuine; genuine, real; real; -proof, -true; genuinely, really; typically
   Wiki: authentic, genuine, true; real; factual; proper; really; indeed
@@ -6270,6 +6322,7 @@
 
 - Id: eckig
   Level: B1
+  Form: eckiger, am eckigsten
   Meaning: angular, square
   Cambridge: rectangular, square; awkward
   Wiki: angular; square
@@ -6278,6 +6331,7 @@
 
 - Id: egal
   Level: A2
+  Form: egaler, am egalsten
   Meaning: all the same
   Cambridge: irrelevant, whatever
   Wiki: all the same, unimportant; the same, identical, alike, matching; no matter
@@ -6346,6 +6400,7 @@
 
 - Id: ehrlich
   Level: B1
+  Form: ehrlicher, am ehrlichsten
   Meaning: honest
   Cambridge: honest; genuine, real; honestly
   Wiki: honest
@@ -6365,6 +6420,7 @@
 
 - Id: eigen
   Level: A2
+  Form: eigener, am eigensten
   Meaning: own
   Cambridge: own; own, distinctive
   Wiki: own, peculiar or private to someone, idiosyncratic, proper or proprietary
@@ -6414,6 +6470,7 @@
 
 - Id: eilig
   Level: A1
+  Form: eiliger, am eiligsten
   Meaning: hasty, hurry
   Cambridge: urgent; hurried; hurriedly, in a hurry, hastily
   Wiki: speedy, hasty; urgent
@@ -6471,6 +6528,7 @@
 
 - Id: eindeutig
   Level: B1
+  Form: eindeutiger, am eindeutigsten
   Meaning: unambiguous, clear
   Cambridge: clear; clear, unequivocal; clearly; unequivocally, conclusively
   Wiki: unambiguous, unequivocal, explicit, unique; clear, definite; unambiguously; clearly, obviously
@@ -6497,6 +6555,7 @@
 
 - Id: einfach
   Level: A1
+  Form: einfacher, am einfachsten
   Meaning: simple, simply, single
   Cambridge: easy; simple, plain; one-way; easily, simply; simply, plainly; simply, just
   Wiki: easy; simple, plain, straightforward; single; one-way; easy-to-use; easily; just, simply
@@ -6594,6 +6653,7 @@
 
 - Id: einheitlich
   Level: B1
+  Form: einheitlicher, am einheitlichsten
   Meaning: uniform, unified
   Cambridge: uniform, consistent; uniform; consistent; uniformly, consistently
   Wiki: uniform, unified
@@ -6602,6 +6662,7 @@
 
 - Id: einig
   Level: A2
+  Form: einiger, am einigsten
   Meaning: several
   Cambridge: agreed
   Wiki: some, a few, plenty; united; agreed, in agreement
@@ -6753,6 +6814,7 @@
 
 - Id: einsam
   Level: B1
+  Form: einsamer, am einsamsten
   Meaning: lonely, solitary
   Cambridge: lonely, lonesome; solitary, secluded, remote
   Wiki: lonely, lone
@@ -6790,7 +6852,7 @@
   Form: setzt ein, setzte ein, hat eingesetzt
   Meaning: to put, set, install
   Cambridge: to use, to deploy; to appoint, to set up; to put in, to install; to come in, to begin
-  Wiki: to put in; set in; insert; to use; employ; to appoint; to risk; to stake; to speak up for
+  Wiki: to put in; set in; insert; to implant; to use; employ; to appoint; to risk; to stake; to start; begin; to speak up for
   Examples:
     - Ich glaube, wir müssen jemanden einsetzen, der sich um die Organisation kümmert.
     - Peter hat sich dafür eingesetzt, dass ich den Job bekomme.
@@ -6968,6 +7030,7 @@
 
 - Id: elegant
   Level: B1
+  Form: eleganter, am elegantesten
   Meaning: elegant
   Cambridge: elegant; elegant, graceful; smart; elegantly
   Wiki: elegant
@@ -7026,7 +7089,7 @@
   Form: '-'
   Meaning: receiver, recipient
   Cambridge: addressee, receiver; receiver
-  Wiki: receiver; receiver; addressee; receptor
+  Wiki: receiver; receiver; recipient; addressee; receptor
   Examples:
     - Auf dem Brief steht dein Name, also bist du der Empfänger.
     - Es fehlt die genaue Adresse des Empfängers.
@@ -7036,7 +7099,7 @@
   Form: empfiehlt, empfahl, hat empfohlen
   Meaning: to recommend
   Cambridge: to recommend
-  Wiki: to recommend; to advocate; to commend; to offer one's services; to take one's leave
+  Wiki: to propose, to advise in favor of; to recommend; to advocate; to demonstrate one’s merits, to approve oneself; to demonstrate one’s merits to (someone or something), to approve oneself to (someone or something); to offer oneself or one’s services; to commend; to entrust (someone or something) to (something); to take one's leave
   Examples:
     - Welchen Wein können Sie mir empfehlen?
     - Was können Sie mir denn empfehlen?
@@ -7106,6 +7169,7 @@
 
 - Id: eng
   Level: A2
+  Form: enger, am engsten
   Meaning: tight, narrow, close
   Cambridge: narrow; tight; close; narrowly, tightly, closely
   Wiki: narrow, tight
@@ -7119,7 +7183,7 @@
   Form: '-'
   Meaning: grandson, grandchild
   Cambridge: grandchild/grandson/granddaughter
-  Wiki: grandchild; grandson
+  Wiki: ankle; grandchild; grandson
   Examples:
     - Alle meine Enkel gehen schon zur Schule.
 
@@ -7211,7 +7275,7 @@
   Form: entscheidet, entschied, hat entschieden
   Meaning: to decide
   Cambridge: to decide
-  Wiki: to decide, to make a decision; to choose; to decide, to determine the outcome of
+  Wiki: to decide, to make a decision; to choose ( + accusative); to decide, to determine the outcome of
   Examples:
     - Das kann ich nicht allein entscheiden, da muss ich erst fragen.
     - Für welchen Anzug haben Sie sich entschieden?
@@ -7244,6 +7308,7 @@
 
 - Id: entschlossen
   Level: B1
+  Form: entschlossener, am entschlossensten
   Meaning: determined, resolute
   Cambridge: determined, resolute; resolutely
   Wiki: determined, set, resolute
@@ -7309,6 +7374,7 @@
 
 - Id: enttäuscht
   Level: B1
+  Form: enttäuschter, am enttäuschtesten
   Meaning: disappointed (defeated of hope or expectation)
   Wiki: disappointed (defeated of hope or expectation)
   Examples:
@@ -7451,6 +7517,7 @@
 
 - Id: erfolgreich
   Level: B1
+  Form: erfolgreicher, am erfolgreichsten
   Meaning: successful
   Cambridge: successful; successfully
   Wiki: successful
@@ -7459,6 +7526,7 @@
 
 - Id: erforderlich
   Level: B1
+  Form: erforderlicher, am erforderlichsten
   Meaning: required, necessary
   Cambridge: necessary, required
   Wiki: necessary, required, essential
@@ -7728,6 +7796,7 @@
 
 - Id: ernst
   Level: B1
+  Form: ernster, am ernstesten
   Meaning: serious
   Cambridge: serious; serious, grave; seriously
   Wiki: serious, severe, grave
@@ -7736,9 +7805,10 @@
 
 - Id: ernsthaft
   Level: B1
+  Form: ernsthafter, am ernsthaftesten
   Meaning: seriously
   Cambridge: serious; genuine, serious; serious, grave; seriously
-  Wiki: serious
+  Wiki: serious; seriously
   Examples:
     - Ich überlege ernsthaft, ob ich in eine andere Stadt ziehen soll.
 
@@ -7784,6 +7854,7 @@
 
 - Id: erschöpft
   Level: B1
+  Form: erschöpfter, am erschöpftesten
   Meaning: exhausted
   Cambridge: exhausted; depleted, used up; exhausted, worn out
   Wiki: exhausted; weary
@@ -7999,6 +8070,7 @@
 
 - Id: ewig
   Level: B1
+  Form: ewiger, am ewigsten
   Meaning: eternally
   Cambridge: eternal; perpetual; forever; really
   Wiki: eternal, everlasting; constant, frequent; eternally, for ever; always
@@ -8035,6 +8107,7 @@
 
 - Id: extrem
   Level: B1
+  Form: extremer, am extremsten
   Meaning: extreme
   Cambridge: extreme; extremely
   Wiki: extreme; extremely
@@ -8180,6 +8253,7 @@
 
 - Id: fair
   Level: B1
+  Form: fairer, am fairsten
   Meaning: fair
   Cambridge: fair; fairly
   Wiki: fair
@@ -8200,7 +8274,7 @@
   Form: ä-e
   Meaning: case
   Cambridge: case; case, instance; fall
-  Wiki: fall, drop; fall, capture; fall; the loss of one's innocence, honour, reputation, fortune, etc.; case; case; case; case; case; case; halyard
+  Wiki: fall, drop; fall, capture; fall; the loss of one's innocence, honour, reputation, fortune, etc.; case; case; case; case; case; halyard
   Examples:
     - Was würden Sie in diesem Fall tun?
     - Rufen Sie auf jeden Fall vorher noch einmal an.
@@ -8309,6 +8383,7 @@
 
 - Id: fantastisch
   Level: A2
+  Form: fantastischer, am fantastischsten
   Meaning: fantastic
   Cambridge: fanciful; fantastic, terrific; fantastically, tremendously
   Wiki: fantastic
@@ -8322,7 +8397,7 @@
   Form: -n
   Meaning: colour
   Cambridge: color; paint; suit
-  Wiki: colour; color; paint; dye, colourant for hair; suit (playing cards); tincture
+  Wiki: colour; paint; dye, colourant for hair; suit (playing cards); tincture
   Examples:
     - Die Farbe gefällt mir gut.
     - Was ist deine Lieblingsfarbe?
@@ -8331,6 +8406,7 @@
 
 - Id: farbig
   Level: B1
+  Form: farbiger, am farbigsten
   Meaning: colored
   Cambridge: colored; color(ed); colorful; of color, non-white; in color
   Wiki: colored; colored; chromatic
@@ -8376,13 +8452,14 @@
   Level: A2
   Meaning: nearly, almost
   Cambridge: almost; almost, nearly
-  Wiki: almost; nearly; hardly
+  Wiki: almost; nearly; hardly; extremely, very much
   Examples:
     - Das Konzent ist fast zu Ende.
     - Ich habe fast alles verstanden.
 
 - Id: faul
   Level: A2
+  Form: fauler, am faulsten
   Meaning: lazy, rotten
   Cambridge: lazy; rotten, bad; flimsy, feeble, uneasy; lazily
   Wiki: foul, rotten, rancid; lazy
@@ -8572,6 +8649,7 @@
 
 - Id: fertig
   Level: A1
+  Form: fertiger, am fertigsten
   Meaning: ready for use, done, finished
   Cambridge: ready; finished, ready; whacked, done in
   Wiki: ready for use; done; fully prepared; done; finished; complete; finished; over; ready to start; fully prepared; done; having finished; exhausted; beat; bushed
@@ -8585,6 +8663,7 @@
 
 - Id: fest
   Level: B1
+  Form: fester, am festesten
   Meaning: fixed, firm, solid, strong
   Cambridge: solid, firm; tough, sturdy, hard-wearing; firm, tight; firm; fixed; steady, regular; firmly; tightly
   Wiki: firm; compact; hard; firm; fixed; rigid; firm; steadfast
@@ -8680,9 +8759,10 @@
 
 - Id: fett
   Level: A2
+  Form: fetter, am fettesten
   Meaning: fat, containing a lot of fat
   Cambridge: fatty; fat; (big) fat, rich; bold; greasy
-  Wiki: fat; rich, containing a lot of fat; bold; awesome, phat
+  Wiki: fat; rich, containing a lot of fat; bold; awesome, phat; drunk
   Examples:
     - Die Wurst ist mir zu fett.
     - Das ist aber eine fette Katze!
@@ -8698,6 +8778,7 @@
 
 - Id: feucht
   Level: B1
+  Form: feuchter, am feuchtesten
   Meaning: damp
   Cambridge: damp; humid, moist
   Wiki: wet, humid, moist, soggy, dank; sexually aroused and thus having the vulva moistened with vaginal secretions
@@ -8826,6 +8907,7 @@
 
 - Id: fit
   Level: A2
+  Form: fitter, am fittesten
   Meaning: fit
   Cambridge: fit
   Wiki: fit
@@ -8843,6 +8925,7 @@
 
 - Id: flach
   Level: B1
+  Form: flacher, am flachsten
   Meaning: flat, low, shallow
   Cambridge: flat; shallow; low; shallowly
   Wiki: shallow; flat; not steep; having little slope; comparatively plane and level; vapid; shallow
@@ -8874,7 +8957,7 @@
   Form: -e
   Meaning: stain, patch
   Cambridge: mark, stain; spot, marking; place
-  Wiki: stain, spot, blot, fleck, smear; corner, spot; shred, flap, flake, fleck
+  Wiki: stain, spot, blot, fleck, smear; corner, spot; shred, flap, flake, fleck; tripe
   Examples:
     - Du hast einen Fleck auf der Bluse.
 
@@ -8900,6 +8983,7 @@
 
 - Id: fleißig
   Level: A2
+  Form: fleißiger, am fleißigsten
   Meaning: diligent, industrious, hardworking
   Cambridge: hardworking, diligent; diligent, assiduous; diligently, assiduously, hard; hard, a lot
   Wiki: diligent, hard-working, industrious, busy, assiduous, sedulous; studious; diligently, industriously, assiduously, sedulously; studiously
@@ -8909,6 +8993,7 @@
 
 - Id: flexibel
   Level: B1
+  Form: flexibler, am flexibelsten
   Meaning: flexible
   Cambridge: flexible; flexibly
   Wiki: flexible (easily bent without breaking)
@@ -9070,7 +9155,7 @@
   Form: folgt, folgte, hat gefolgt
   Meaning: to follow
   Cambridge: to follow; follow; to obey, to do what you’re told
-  Wiki: to follow (on the same path or in a sequence); to understand, to be attentive to; to follow (as a consequence), to come of, to result from; to obey (rules, the law), to follow (instructions, advice)
+  Wiki: to follow (on the same path or in a sequence); to understand, to be attentive to; to follow (as a consequence), to come of, to result from; to obey (rules, the law), to follow (instructions, advice); to follow
   Examples:
     - Es folgen die Nachrichten.
     - Folgen Sie der Reiseleiterin.
@@ -9299,6 +9384,7 @@
 
 - Id: frech
   Level: B1
+  Form: frecher, am frechsten
   Meaning: cheeky, rude
   Cambridge: fresh, cheeky, impudent; impudently
   Wiki: cheeky, barefaced, rude, saucy; naughty
@@ -9307,6 +9393,7 @@
 
 - Id: frei
   Level: A1
+  Form: freier, am freiesten
   Meaning: free
   Cambridge: free; clear; uncovered; unoccupied, empty; blank; off; free, available; freelance; unrestricted, clear; open; freely; alone; empty, unoccupied; freely, openly; freely, roughly, loosely
   Wiki: 'free; unenslaved; unimprisoned; free; unrestricted; more negative also: unrestrained; licentious; unblocked; free for passage; independent; unaffiliated; free of; liberal; free of charge, gratis'
@@ -9346,6 +9433,7 @@
 
 - Id: freiwillig
   Level: A2
+  Form: freiwilliger, am freiwilligsten
   Meaning: voluntary
   Cambridge: voluntary; voluntarily
   Wiki: voluntary
@@ -9354,6 +9442,7 @@
 
 - Id: fremd
   Level: A1
+  Form: fremder, am fremdesten
   Meaning: foreign
   Cambridge: foreign; someone else’s, outside; foreign, strange, alien
   Wiki: strange; foreign; external
@@ -9409,6 +9498,7 @@
 
 - Id: freundlich
   Level: A2
+  Form: freundlicher, am freundlichsten
   Meaning: friendly
   Cambridge: friendly; pleasant, nice; -friendly; in a friendly way/manner, friendly, nicely
   Wiki: friendly, benign; nice, pleasant
@@ -9446,6 +9536,7 @@
 
 - Id: frisch
   Level: A2
+  Form: frischer, am frischesten
   Meaning: fresh
   Cambridge: fresh; fresh, clean; fresh, crisp; freshly
   Wiki: fresh; recent
@@ -9463,7 +9554,7 @@
     Form: -nen
   Meaning: hairdresser (F-)
   Cambridge: hairdresser
-  Wiki: hairdresser, barber, friseur
+  Wiki: hairdresser, barber
   Examples:
     - Du siehst toll aus! Wer ist dein Friseur?
     - Meine Tochter will Friseurin werden.
@@ -9488,6 +9579,7 @@
 
 - Id: froh
   Level: A2
+  Form: froher, am frohsten
   Meaning: happy, glad (4)
   Cambridge: glad, happy; good
   Wiki: glad; (momentarily) happy; (momentarily) cheerful; merry; merry; hearty; energetic
@@ -9498,6 +9590,7 @@
 
 - Id: fröhlich
   Level: B1
+  Form: fröhlicher, am fröhlichsten
   Meaning: happy (8)
   Cambridge: cheerful, happy; cheerfully, happily, merrily
   Wiki: merry; cheerful;
@@ -9516,6 +9609,7 @@
 
 - Id: früh
   Level: A2
+  Form: früher, am frühesten
   Meaning: early
   Cambridge: early; early, premature; morning
   Wiki: early
@@ -9662,6 +9756,7 @@
 
 - Id: furchtbar
   Level: A2
+  Form: furchtbarer, am furchtbarsten
   Meaning: terrible
   Cambridge: awful, dreadful, terrible; terrible; terribly, awfully, frightfully; terribly
   Wiki: terrible; terribly, awfully
@@ -9674,7 +9769,7 @@
   Form: fürchtet, fürchtete, hat gefürchtet
   Meaning: to be afraid
   Cambridge: to fear, to be afraid of
-  Wiki: to fear; to be afraid
+  Wiki: to fear; to be afraid (of)
   Examples:
     - Sie fürchtet sich vor Schlangen.
 
@@ -9780,6 +9875,7 @@
 
 - Id: gar
   Level: B1
+  Form: garer, am garsten
   Meaning: quite, at all
   Cambridge: done, cooked; at all, whatsoever; used for emphasis in rhetorical questions; even
   Wiki: cooked, done; refined; at all; even; even;; all; very; quite; really
@@ -10029,6 +10125,7 @@
 
 - Id: geeignet
   Level: B1
+  Form: geeigneter, am geeignetsten
   Meaning: suitable
   Cambridge: suitable
   Wiki: suitable, appropriate; convenient
@@ -10046,6 +10143,7 @@
 
 - Id: gefährlich
   Level: A2
+  Form: gefährlicher, am gefährlichsten
   Meaning: dangerous
   Cambridge: dangerous; dangerously
   Wiki: dangerous
@@ -10187,6 +10285,7 @@
 
 - Id: geheim
   Level: B1
+  Form: geheimer, am geheimsten
   Meaning: done or kept in secret (g-)
   Cambridge: secret, confidential; mysterious, occult; secretly
   Wiki: secret, clandestine; familiar, dear; homely, cozy; tame, domesticated
@@ -10237,7 +10336,7 @@
   Synonym: (D, A) = (CH) Trottoir
   Meaning: pavement, sidewalk
   Cambridge: sidewalk
-  Wiki: pavement; sidewalk
+  Wiki: pavement , sidewalk
   Examples:
     - Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt.
 
@@ -10287,7 +10386,7 @@
   Form: gelingt, gelang, ist gelungen
   Meaning: to succeed
   Cambridge: to succeed, to be successful
-  Wiki: to succeed, to manage to
+  Wiki: to turn out well, to work out, to go smoothly, to succeed, to come off
   Examples:
     - Es ist mir gelungen, meinen Chef zu überzeugen.
 
@@ -10332,6 +10431,7 @@
 
 - Id: gemütlich
   Level: B1
+  Form: gemütlicher, am gemütlichsten
   Meaning: cosy
   Cambridge: comfortable, cozy, gemütlich; relaxing, pleasant; leisurely; easy-going; comfortably, cozily
   Wiki: cosy, gemütlich
@@ -10341,6 +10441,7 @@
 
 - Id: genau
   Level: A2
+  Form: genauer, am genauesten
   Meaning: exactly
   Cambridge: exact, precise; precise, detailed; exactly; precisely; carefully, strictly, precisely; for sure, beyond doubt
   Wiki: exact; just, exactly
@@ -10419,6 +10520,7 @@
 
 - Id: gerade
   Level: A1
+  Form: gerader, am geradesten
   Meaning: straight
   Cambridge: straight; even; straight, even; at the moment, right now; just; (only just); especially, particularly; of all + APPRPRIATE NOUN
   Wiki: even; now, at the moment; just, a short while ago; just, only, not more than; exactly; expresses the continuous aspect; straight
@@ -10450,6 +10552,7 @@
 
 - Id: gerecht
   Level: B1
+  Form: gerechter, am gerechtesten
   Meaning: just, fair
   Cambridge: fair; fair, just; appropriate; fairly; appropriately
   Wiki: just, fair
@@ -10468,6 +10571,7 @@
 
 - Id: gering
   Level: B1
+  Form: geringer, am geringsten
   Meaning: slight, small, low, short
   Cambridge: low, small; minor, slight; low
   Wiki: little, low
@@ -10597,7 +10701,7 @@
   Form: -en
   Meaning: society
   Cambridge: society; company; party, social event; organization
-  Wiki: society, community; circle (of friends, people with common interests); company
+  Wiki: company; company; society, the public; society; company, corporation
   Examples:
     - Er will die Gesellschaft verändern.
     - Meine Frau arbeitet bei einer Versicherungsgesellschaft.
@@ -10624,6 +10728,7 @@
 
 - Id: gespannt
   Level: B1
+  Form: gespannter, am gespanntesten
   Meaning: tense, strained, curious, eager
   Cambridge: curious, eager; tense, taut; intently, expectantly
   Wiki: curious, excited; tense
@@ -10654,6 +10759,7 @@
 
 - Id: gesund
   Level: A2
+  Form: gesünder, am gesündesten
   Meaning: healthy
   Cambridge: healthy; sound, healthy; healthily
   Wiki: healthy; healthy
@@ -10781,6 +10887,7 @@
 
 - Id: gewöhnlich
   Level: B1
+  Form: gewöhnlicher, am gewöhnlichsten
   Meaning: usually
   Cambridge: normal, usual, ordinary; usual, normal; usually
   Wiki: usual, normal, ordinary; usually
@@ -10816,6 +10923,7 @@
 
 - Id: giftig
   Level: B1
+  Form: giftiger, am giftigsten
   Meaning: poisonous
   Cambridge: toxic, poisonous, venomous; hateful, venomous, waspish; bright, garish; venomously, waspishly
   Wiki: poisonous; venomously
@@ -10856,6 +10964,7 @@
 
 - Id: glatt
   Level: B1
+  Form: glatter, am glattesten
   Meaning: smooth; slippery
   Cambridge: smooth; slippery, icy; straight; downright, complete; evenly; actually
   Wiki: 'without roughness or unevenness: smooth; sleek, slick; even; clean (of a shave or cut); straight (of hair); slippery (from e.g. ice, but not from grease); smooth; clear, unequivocal; smooth; smooth; smoothbore; funny; pretty'
@@ -10925,6 +11034,7 @@
 
 - Id: global
   Level: B1
+  Form: globaler, am globalsten
   Meaning: global
   Cambridge: global; comprehensive; globally; as a whole
   Wiki: global
@@ -10945,6 +11055,7 @@
 
 - Id: glücklich
   Level: A1
+  Form: glücklicher, am glücklichsten
   Meaning: happy, happily
   Cambridge: happy; lucky; fortunate, lucky; happily; fortunately, thankfully
   Wiki: happy;; lucky; fortunate
@@ -11112,6 +11223,7 @@
 
 - Id: groß
   Level: A1
+  Form: größer, am größten
   Meaning: big
   Cambridge: big, large; big, tall, in size; large, big; great; long; grown up; big; capital, upper-case; large; particularly
   Wiki: big, large, large-scale; great, grand; tall; pertaining to defecation
@@ -11179,13 +11291,14 @@
   Form: ü-e
   Meaning: ground
   Cambridge: reason; ground; land, property; bottom
-  Wiki: ground, land (usually as someone's property); bottom (of a container or a body of water); reason; motive, cause
+  Wiki: ground, land (usually as someone's property); bottom (of a container or a body of water); reason; motive, cause ( + accusative)
   Examples:
     - Sie haben Ihre Stelle gekündigt. Aus welchem Grund?
     - Sie haben keinen Grund, sich zu beschweren.
 
 - Id: gründlich
   Level: B1
+  Form: gründlicher, am gründlichsten
   Meaning: thorough
   Cambridge: thorough, careful; thoroughly, carefully, painstakingly; thoroughly, completely
   Wiki: thorough, in-depth; thoroughly, completely
@@ -11255,6 +11368,7 @@
 
 - Id: günstig
   Level: A1
+  Form: günstiger, am günstigsten
   Meaning: good value
   Cambridge: favorable, convenient; reasonable; favorably, beneficially, advantageously; at/for a reasonable price
   Wiki: favourable, propitious, opportune; convenient, expedient; good value, cheap, inexpensive
@@ -11266,6 +11380,7 @@
 
 - Id: gut
   Level: A1
+  Form: besser, am besten
   Meaning: good
   Cambridge: good; good, reasonable; good, kind; B; well; well, quite; (a) good
   Wiki: good; good; good; good; all right, fair, proper; good; well; a little more than; easily, likely; okay, all right, now then
@@ -11454,6 +11569,7 @@
 
 - Id: haltbar
   Level: B1
+  Form: haltbarer, am haltbarsten
   Meaning: durable, non-perishable
   Cambridge: non-perishable; hard-wearing, durable; tenable
   Wiki: durable, lasting; tenable
@@ -11496,6 +11612,7 @@
 
 - Id: der Hamburger
   Level: A2
+  Form: '-'
   Meaning: hamburger
   Cambridge: hamburger
   Wiki: of Hamburg; Hamburger; hamburger
@@ -11602,6 +11719,7 @@
 
 - Id: hart
   Level: A2
+  Form: härter, am härtesten
   Meaning: hard; harsh
   Cambridge: hard; harsh; tough; strong, stark, sharp; hard, severe, heavy; severely, harshly
   Wiki: hard; severe, harsh; unmoved, cold, cruel; hard (with force or effort); sharply, roughly, severely; close ( to)
@@ -11624,6 +11742,7 @@
 
 - Id: hässlich
   Level: A2
+  Form: hässlicher, am hässlichsten
   Meaning: ugly
   Cambridge: ugly; mean, nasty
   Wiki: ugly
@@ -11633,6 +11752,7 @@
 
 - Id: häufig
   Level: B1
+  Form: häufiger, am häufigsten
   Meaning: frequent, frequently
   Cambridge: frequent, common; often, frequently
   Wiki: frequent; common; frequently, often; in common, at once, together
@@ -11781,6 +11901,7 @@
 
 - Id: heimlich
   Level: B1
+  Form: heimlicher, am heimlichsten
   Meaning: done or kept in secret (h-)
   Cambridge: secret; secretly
   Wiki: secret, clandestine
@@ -11810,6 +11931,7 @@
 
 - Id: heiß
   Level: A2
+  Form: heißer, am heißesten
   Meaning: hot
   Cambridge: hot; fervent, burning; heated; hot, sizzling, fiery; passionately; hotly
   Wiki: hot; hot; horny
@@ -11909,6 +12031,7 @@
 
 - Id: hell
   Level: A1
+  Form: heller, am hellsten
   Meaning: light, bright
   Cambridge: bright; light; high(-pitched); great; brightly
   Wiki: clear, bright, light
@@ -12021,7 +12144,7 @@
   Form: '-'
   Meaning: manufacturer
   Cambridge: manufacturer, maker, producer
-  Wiki: manufacturer
+  Wiki: ; manufacturer
   Examples:
     - Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren.
 
@@ -12056,6 +12179,7 @@
 
 - Id: herzlich
   Level: A1
+  Form: herzlicher, am herzlichsten
   Meaning: friendly, hearty, cordial
   Cambridge: warm, cordial; sincere; sincerely; very much
   Wiki: warm, warmhearted, friendly, affectionate, cordial; hearty
@@ -12179,6 +12303,7 @@
 
 - Id: historisch
   Level: B1
+  Form: historischer, am historischsten
   Meaning: historical
   Cambridge: historical; historic; historically
   Wiki: historical, historic; historically
@@ -12215,6 +12340,7 @@
 
 - Id: hoch
   Level: A1
+  Form: höher, am höchsten
   Meaning: high
   Cambridge: high, tall; high; high, top; high, deep; highly; to the power of
   Wiki: high, tall; high, great, immense; grand, important; up, upwards; northwards; to the power of
@@ -12310,6 +12436,7 @@
 
 - Id: höflich
   Level: B1
+  Form: höflicher, am höflichsten
   Meaning: polite
   Cambridge: polite; politely
   Wiki: polite (well-mannered)
@@ -12403,6 +12530,7 @@
 
 - Id: hübsch
   Level: B1
+  Form: hübscher, am hübschesten
   Meaning: pretty, nice
   Cambridge: pretty; nice; tidy, pretty; nicely
   Wiki: pretty, handsome
@@ -12453,6 +12581,7 @@
 
 - Id: hungrig
   Level: B1
+  Form: hungriger, am hungrigsten
   Meaning: hungry
   Cambridge: hungry
   Wiki: hungry (desirous of food)
@@ -12513,6 +12642,7 @@
 
 - Id: ideal
   Level: B1
+  Form: idealer, am idealsten
   Meaning: ideal
   Cambridge: ideal; ideally
   Wiki: ideal
@@ -12531,6 +12661,7 @@
 
 - Id: illegal
   Level: B1
+  Form: illegaler, am illegalsten
   Meaning: illegal
   Cambridge: illegal; illegally
   Wiki: illegal
@@ -12595,6 +12726,7 @@
 
 - Id: individuell
   Level: B1
+  Form: individueller, am individuellsten
   Meaning: individual
   Cambridge: individual, personal; individually
   Wiki: individual; personalized
@@ -12624,7 +12756,7 @@
   Form: informiert, informierte, hat informiert
   Meaning: to inform
   Cambridge: to inform
-  Wiki: to inform, to update; to be informed, to be updated
+  Wiki: to inform, to update; to read up on, to find out, to research, to look into, to inform oneself
   Examples:
     - Ich möchte mich vor der Reise über das Land informieren.
     - Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.
@@ -12770,6 +12902,7 @@
 
 - Id: intelligent
   Level: A2
+  Form: intelligenter, am intelligentesten
   Meaning: intelligent
   Cambridge: intelligent; intelligently
   Wiki: intelligent
@@ -12788,6 +12921,7 @@
 
 - Id: intensiv
   Level: B1
+  Form: intensiver, am intensivsten
   Meaning: intensive
   Cambridge: intense; intense, very close; -intensive; intensely; strongly
   Wiki: intense; acute; intensive
@@ -12813,6 +12947,7 @@
 
 - Id: interessant
   Level: A2
+  Form: interessanter, am interessantesten
   Meaning: interesting
   Cambridge: interesting; interesting, attractive
   Wiki: interesting; interestingly
@@ -12832,6 +12967,7 @@
 
 - Id: interessiert
   Level: B1
+  Form: interessierter, am interessiertesten
   Meaning: interested
   Cambridge: interested
   Wiki: interested
@@ -12878,7 +13014,7 @@
   Level: B1
   Meaning: meanwhile
   Cambridge: in the meantime, meanwhile; in the meantime, since then, by now; in the meantime, till then
-  Wiki: in the meantime
+  Wiki: meanwhile, in the meantime, now, by now, since; in the meantime; in the meantime
   Examples:
     - Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.
 
@@ -13093,7 +13229,7 @@
   Form: (Sg.)
   Meaning: youth
   Cambridge: youth; young people
-  Wiki: youth; the group of all young people
+  Wiki: youth; youth
   Examples:
     - In meiner Jugend habe ich mich sehr für Musik interessiert.
 
@@ -13125,6 +13261,7 @@
 
 - Id: jung
   Level: A1
+  Form: jünger, am jüngsten
   Meaning: young
   Cambridge: young
   Wiki: young
@@ -13210,6 +13347,7 @@
 
 - Id: kalt
   Level: A2
+  Form: kälter, am kältesten
   Meaning: cold
   Cambridge: cold; cold, unresponsive, aloof; unheated; coldly
   Wiki: cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature; calm, restrained, passionless; cold, frigid (especially when referring to emotions); as base rent; excluding utilities
@@ -13283,7 +13421,7 @@
   Form: -n
   Meaning: can, pot
   Cambridge: pot, jug
-  Wiki: can, jug, pot
+  Wiki: jug, pitcher, pot, can (as in teapot and watering can); a bottle, typically of beer
   Examples:
     - Das ist aber eine schöne Teekanne. - Ja, die ist aus China.
     - Bitte einen Kaffee! - Eine Tasse oder ein Kännchen?
@@ -13308,6 +13446,7 @@
 
 - Id: kaputt
   Level: A1
+  Form: kaputter, am kaputtesten
   Meaning: broken out of order
   Cambridge: broken, busted; finished, on the rocks; exhausted, done in; sketchy
   Wiki: destroyed, broken, out of order; tired, exhausted
@@ -13367,7 +13506,7 @@
   Form: -n
   Meaning: card, menu, ticket, map
   Cambridge: card; postcard; ticket; map; menu; credit/bank card
-  Wiki: card; map, chart; ticket; coordinate chart
+  Wiki: 'card; map, chart; : menu; ticket; coordinate chart'
   Examples:
     - Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.
     - Wollen wir Karten spielen?
@@ -13685,7 +13824,7 @@
   Form: -e
   Meaning: kiosk, convenience store
   Cambridge: kiosk
-  Wiki: kiosk; convenience store
+  Wiki: kiosk; convenience store; a free-standing interactive digital display panel
   Examples:
     - Zeitungen bekommst du am Kiosk.
     - Zeitungen kannst du am Kiosk kaufen.
@@ -13724,7 +13863,7 @@
   Form: klagt, klagte, hat geklagt
   Meaning: to complain
   Cambridge: to complain (about); to take legal action
-  Wiki: to complain (to express feelings of pain, dissatisfaction, or resentment); to wail, lament; to sue
+  Wiki: to complain (to express feelings of pain, dissatisfaction, or resentment); to wail, lament; to sue; to sue someone
   Examples:
     - Sie klagt über Kopfschmerzen.
 
@@ -13739,6 +13878,7 @@
 
 - Id: klar
   Level: A1
+  Form: klarer, am klarsten
   Meaning: clear, understood
   Cambridge: clear; straight; ready; clearly
   Wiki: clear; transparent; bright; clear; unambiguous; understood; obviously, surely; okay!; sure!; all right!; yeah, right!
@@ -13751,7 +13891,7 @@
   Form: klärt, klärte, hat geklärt
   Meaning: to resolve, to clarify
   Cambridge: to resolve, to settle; to treat
-  Wiki: to clarify, to clear up (an issue or misunderstanding), to fill in unknown details, to resolve, to sort out (a problem or a question); to clarify, to remove (visible contaminants); to become clear; to seduce, to wrap around one's little finger as a sex object
+  Wiki: to clarify, to clear up (an issue or misunderstanding), to fill in unknown details, to resolve, to sort out (a problem or a question); to clarify, to remove (visible contaminants); to clear (kicking a ball away from the goal one is defend); to become clear; to seduce, to wrap around one's little finger as a sex object
   Examples:
     - Ich hoffe, wir können dieses Problem bald klären.
 
@@ -13827,6 +13967,7 @@
 
 - Id: klein
   Level: A1
+  Form: kleiner, am kleinsten
   Meaning: small
   Cambridge: small, little; small; short; lowly; little
   Wiki: small, little, tiny, wee, small-scale; little, young; insignificant
@@ -13950,6 +14091,7 @@
 
 - Id: klug
   Level: A2
+  Form: klüger, am klügsten
   Meaning: clever
   Cambridge: clever; sensible; cleverly
   Wiki: intelligent, prudent, wise, smart
@@ -13963,6 +14105,7 @@
 
 - Id: knapp
   Level: B1
+  Form: knapper, am knappsten
   Meaning: tight, scarce, short, just
   Cambridge: meagre, scarce; tight; brief, concise; almost; close; barely; shortly; tightly; briefly; closely
   Wiki: scarce; lean; somewhat less (than); short or tight; a close call, a narrow escape; narrowly, just, barely; somewhat less than, almost
@@ -14007,7 +14150,7 @@
   Synonym: (D, A) = (D) Kloß
   Meaning: dumpling (6)
   Cambridge: dumpling
-  Wiki: dumpling
+  Wiki: dumpling; bucks, dosh, dough, moola
   Examples:
     - Möchten Sie zum Fleisch Erdäpfel oder Knödel? - Knödel bitte.
 
@@ -14016,7 +14159,7 @@
   Form: ö-e
   Meaning: button
   Cambridge: button
-  Wiki: button; button; stud, knob, e.g. a doorknob
+  Wiki: button; button; stud, knob, e.g. a doorknob; a simple knot
   Examples:
     - An meiner Jacke fehlt ein Knopf.
     - Der Fahrstuhl kommt nicht. - Sie müssen auf den Knopf drücken.
@@ -14042,7 +14185,7 @@
     Form: -nen
   Meaning: cook
   Cambridge: chef, cook; cook
-  Wiki: cook, a cooker; mush, porridge
+  Wiki: cook; mush, porridge
   Examples:
     - Ein Freund von mir ist Koch in einem teuren Restaurant.
 
@@ -14073,6 +14216,7 @@
 
 - Id: komisch
   Level: A2
+  Form: komischer, am komischsten
   Meaning: strange, funny, odd
   Cambridge: funny; funny, strange
   Wiki: comedic, comic, pertaining to comedy; funny, comical; peculiar, weird, strange, funny
@@ -14130,6 +14274,7 @@
 
 - Id: kompliziert
   Level: B1
+  Form: komplizierter, am kompliziertesten
   Meaning: complicated
   Cambridge: complicated; in a complicated way
   Wiki: complicated, complex; sophisticated
@@ -14355,6 +14500,7 @@
 
 - Id: körperlich
   Level: B1
+  Form: körperlicher, am körperlichsten
   Meaning: bodily, physical
   Cambridge: physical; physically
   Wiki: bodily, physical
@@ -14363,6 +14509,7 @@
 
 - Id: korrekt
   Level: B1
+  Form: korrekter, am korrektesten
   Meaning: correct
   Cambridge: correct; correctly
   Wiki: correct; accurate; proper; decent; great; cool
@@ -14440,12 +14587,12 @@
   Form: ä-e
   Meaning: strength
   Cambridge: strength; power; force; employee
-  Wiki: strength, force, power; force; employee
   Examples:
     - Für diese Arbeit braucht man viel Kraft.
 
 - Id: kräftig
   Level: B1
+  Form: kräftiger, am kräftigsten
   Meaning: strong
   Cambridge: powerful; strong, healthy; strong; -able; strongly, powerfully
   Wiki: strong, sturdy, vigorous, powerful, bold
@@ -14476,6 +14623,7 @@
 
 - Id: krank
   Level: A1
+  Form: kränker, am kränksten
   Meaning: ill, sick
   Cambridge: sick, ill; bad, sick; sick
   Wiki: ill, sick; sick, morally or mentally degenerate; very interesting or unusual (in the positive or negative); sick
@@ -14558,6 +14706,7 @@
 
 - Id: kreativ
   Level: B1
+  Form: kreativer, am kreativsten
   Meaning: creative
   Cambridge: creative; creatively
   Wiki: creative
@@ -14686,6 +14835,7 @@
 
 - Id: kritisch
   Level: B1
+  Form: kritischer, am kritischsten
   Meaning: critical
   Cambridge: critical; critically
   Wiki: critical
@@ -14736,6 +14886,7 @@
 
 - Id: kühl
   Level: A2
+  Form: kühler, am kühlsten
   Meaning: cool
   Cambridge: cool; coolly
   Wiki: cool (of temperature); calm, restrained, passionless; cool, frigid (especially of the emotions)
@@ -14765,6 +14916,7 @@
 
 - Id: kulturell
   Level: A1
+  Form: kultureller, am kulturellsten
   Meaning: cultural
   Cambridge: cultural; culturally
   Wiki: cultural
@@ -14841,6 +14993,7 @@
 
 - Id: künstlich
   Level: B1
+  Form: künstlicher, am künstlichsten
   Meaning: artificial
   Cambridge: artificial; artificially; unnecessarily
   Wiki: artificial
@@ -14861,7 +15014,7 @@
   Form: -e
   Meaning: course
   Cambridge: course; price, rate
-  Wiki: course (direction); course (learning); exchange rate, market price
+  Wiki: course; course; exchange rate, market price
   Examples:
     - Ich besuche regelmäßig einen Deutschkurs.
     - Der Deutschkurs geht bis zum Sommer.
@@ -14889,6 +15042,7 @@
 
 - Id: kurz
   Level: A1
+  Form: kürzer, am kürzesten
   Meaning: short
   Cambridge: short; for a short time, briefly; briefly
   Wiki: short, brief; concise; briefly, in short
@@ -15061,6 +15215,7 @@
 
 - Id: lang
   Level: A1
+  Form: länger, am längsten
   Meaning: long
   Cambridge: long; for a long time
   Wiki: long; lengthy; tall; many; (chiefly, colloquial, but also found in formal style); long, sprawled, stretched; for; (chiefly, colloquial, but also found in formal style)
@@ -15082,6 +15237,7 @@
 
 - Id: lange
   Level: A1
+  Form: länger, am längsten
   Meaning: for a long time
   Cambridge: (for) a long time
   Wiki: long, for a long time; in a long time
@@ -15097,6 +15253,7 @@
 
 - Id: langsam
   Level: A1
+  Form: langsamer, am langsamsten
   Meaning: slow
   Cambridge: slow; slowly
   Wiki: slow; slowly , gradually, carefully
@@ -15114,6 +15271,7 @@
 
 - Id: langweilig
   Level: A2
+  Form: langweiliger, am langweiligsten
   Meaning: boring
   Cambridge: boring; boringly
   Wiki: boring, dull, tedious; bored
@@ -15231,6 +15389,7 @@
 
 - Id: laut
   Level: A1
+  Form: lauter, am lautesten
   Meaning: loud
   Cambridge: loud; noisy; loudly; noisily; according to
   Wiki: loud, noisy; according to; ;
@@ -15251,6 +15410,7 @@
 
 - Id: lecker
   Level: B1
+  Form: leckerer, am leckersten
   Meaning: delicious
   Cambridge: delicious, tasty
   Wiki: yummy, tasty; attractive (woman or man); well, with pleasure
@@ -15314,15 +15474,17 @@
 
 - Id: ledig
   Level: A1
+  Form: lediger, am ledigsten
   Meaning: single
   Cambridge: single
-  Wiki: unmarried; free; rid (of); born out of wedlock; empty
+  Wiki: unmarried; free (of); rid (of); born out of wedlock; empty
   Examples:
     - Sind Sie verheiratet? - Nein. Ledig.
     - Wie ist Ihr Familienstand? - Ledig.
 
 - Id: leer
   Level: A2
+  Form: leerer, am leersten
   Meaning: empty
   Cambridge: empty; empty, blank; empty, vacant; vacant, empty
   Wiki: empty; (colloquial)
@@ -15383,6 +15545,7 @@
 
 - Id: leicht
   Level: A1
+  Form: leichter, am leichtesten
   Meaning: light, easy
   Cambridge: light; easy; light, minor; easily; slightly; lightly, scantily; easily, very
   Wiki: light; easy; light, lite, diet; slight; slightly
@@ -15435,6 +15598,7 @@
 
 - Id: leise
   Level: A1
+  Form: leiser, am leisesten
   Meaning: quiet
   Cambridge: quiet; faint; quietly
   Wiki: quiet, soft, low; slight, faint, light
@@ -15607,6 +15771,7 @@
 
 - Id: lieb
   Level: A1
+  Form: lieber, am liebsten
   Meaning: dear, sweet, nice
   Cambridge: nice, kind; dear, welcome; dear
   Wiki: lovable; dear; darling; sweet; good-hearted; kind; good; well-behaved; dear; (colloquial)
@@ -15747,6 +15912,7 @@
 
 - Id: link
   Level: B1
+  Form: linker, am linksten
   Meaning: left
   Cambridge: left; left-wing; underhand, low-down
   Wiki: left; untrustworthy; dubious, wrong, disreputable, questionable; sly, cunning
@@ -15810,6 +15976,7 @@
 
 - Id: locker
   Level: B1
+  Form: lockerer, am lockersten
   Meaning: loose, relaxed
   Cambridge: loose; light; slack; open, loose; laid-back; loosely; slackly, loosely; in a relaxed manner; easily
   Wiki: loose; relaxed; loosely; relaxedly, casually; easily (expressing confidence in the value)
@@ -15950,6 +16117,7 @@
 
 - Id: lustig
   Level: A1
+  Form: lustiger, am lustigsten
   Meaning: funny
   Cambridge: funny; fun, enjoyable; keen on; amusingly; merrily, happily; eagerly
   Wiki: funny, humorous; enjoyable, amusing, fun
@@ -16013,6 +16181,7 @@
 
 - Id: mager
   Level: B1
+  Form: magerer, am magersten
   Meaning: lean, without fat, skinny
   Cambridge: thin, skinny; lean; poor, meager
   Wiki: lean, without fat; meager, skinny
@@ -16024,7 +16193,7 @@
   Form: -en
   Meaning: meal
   Cambridge: meal
-  Wiki: meal; mealtime; ; enjoy your meal!; good afternoon
+  Wiki: meal; mealtime; ; enjoy your meal!; good day, good afternoon;
   Examples:
     - Die Tropfen bitte immer nach den Mahlzeiten einnehmen.
     - In Deutschland gibt es meist nur einmal am Tag eine warme Mahlzeit.
@@ -16158,6 +16327,7 @@
 
 - Id: männlich
   Level: A1
+  Form: männlicher, am männlichsten
   Meaning: male, manly
   Cambridge: male; masculine, manly; masculine
   Wiki: male; manly; masculine
@@ -16265,7 +16435,6 @@
   Form: -n
   Meaning: machine
   Cambridge: machine; plane
-  Wiki: machine; engine; airplane; motorcycle
   Examples:
     - Ich habe eine neue Kaffeemaschine.
     - Unsere Maschine soll um 7 Uhr 10 starten.
@@ -16375,7 +16544,7 @@
   Level: A1
   Meaning: more
   Cambridge: more; no more, no longer, not any more
-  Wiki: ; more; more; no longer, never again, nothing more, not anymore
+  Wiki: something more; more; no longer, never again, nothing more, not anymore
   Examples:
     - Dieses Auto kostet 1.000 Euro mehr als das andere.
     - Mehr kann ich nicht essen!
@@ -16523,6 +16692,7 @@
 
 - Id: menschlich
   Level: B1
+  Form: menschlicher, am menschlichsten
   Meaning: humane, manlike
   Cambridge: human; humane; understanding; humanely
   Wiki: human, manlike; humane, kind
@@ -16550,6 +16720,7 @@
 
 - Id: merkwürdig
   Level: B1
+  Form: merkwürdiger, am merkwürdigsten
   Meaning: odd, strange
   Cambridge: strange, odd; strangely, oddly
   Wiki: strange, odd; remarkable, noteworthy; worthy to remember
@@ -16691,6 +16862,7 @@
 
 - Id: mild
   Level: B1
+  Form: milder, am mildesten
   Meaning: mild
   Cambridge: mild, lenient; mild; charitable; mild, gentle
   Wiki: mild (in all of its common senses)
@@ -16729,6 +16901,7 @@
 
 - Id: minimal
   Level: B1
+  Form: minimaler, am minimalsten
   Meaning: minimal
   Cambridge: minimal; minimally
   Wiki: minimal
@@ -16829,7 +17002,7 @@
   Form: nimmt mit, nahm mit, hat mitgenommen
   Meaning: to carry along
   Cambridge: to take (with you); to hit hard; to learn
-  Wiki: to carry along; to pick up; to take away
+  Wiki: to take with; to carry along; to pick up; to keep; to take away; to damage something; to drain or hurt someone (physically or emotionally)
   Examples:
     - Nehmen wir meine Schwester ins Kino mit?
     - Wir fahren am Wochenende in die Berge. Ich muss mein Zelt mitnehmen.
@@ -16931,7 +17104,7 @@
   Level: B1
   Meaning: meanwhile
   Cambridge: meanwhile, in the meantime, since then
-  Wiki: meanwhile
+  Wiki: meanwhile, in the meantime
   Examples:
     - Am Anfang war die Arbeit schwer. Mittlerweile habe ich mich daran gewöhnt.
 
@@ -16956,6 +17129,7 @@
 
 - Id: mobil
   Level: B1
+  Form: mobiler, am mobilsten
   Meaning: mobile (can move)
   Cambridge: mobile
   Wiki: mobile
@@ -17008,7 +17182,7 @@
   Form: -e
   Meaning: model of an object, theoretical model
   Cambridge: model; (design) model
-  Wiki: A model of an object; A theoretical model
+  Wiki: A model of an object; A theoretical model; model; model
   Examples:
     - Wie findest du dieses Auto? - Dieses Modell gefällt mir nicht.
 
@@ -17058,6 +17232,7 @@
 
 - Id: möglich
   Level: A1
+  Form: möglicher, am möglichsten
   Meaning: possible
   Cambridge: possible
   Wiki: possible; potential; likely; a whole bunch of; a great deal of; a lot of; many
@@ -17107,6 +17282,7 @@
 
 - Id: der Mond
   Level: B1
+  Form: -e
   Meaning: moon
   Cambridge: moon; crescent (moon)
   Wiki: the Moon; Earth's only natural satellite, and also a luminary; moon; a month, especially a lunar month; moon (often used to describe a crescent)
@@ -17166,6 +17342,7 @@
 
 - Id: müde
   Level: A1
+  Form: müder, am müdesten
   Meaning: tired
   Cambridge: tired, weary; wearily, tiredly
   Wiki: tired; tired of it, tired of (infinitive phrase); tired or sick of (something, someone)
@@ -17261,6 +17438,7 @@
 
 - Id: musikalisch
   Level: B1
+  Form: musikalischer, am musikalischsten
   Meaning: musical
   Cambridge: musical; musically
   Wiki: musical
@@ -17321,6 +17499,7 @@
 
 - Id: mutig
   Level: B1
+  Form: mutiger, am mutigsten
   Meaning: brave
   Cambridge: courageous, brave; courageously, bravely
   Wiki: courageous
@@ -17504,6 +17683,7 @@
 
 - Id: nah
   Level: B1
+  Form: näher, am nächsten
   Meaning: near
   Wiki: near (in space or time or in an abstract sense), close, nearby; near (in space or time or in an abstract sense)
   Examples:
@@ -17587,6 +17767,7 @@
 
 - Id: nass
   Level: A2
+  Form: nasser, am nassesten
   Meaning: wet
   Cambridge: wet; with water
   Wiki: wet; wet, moist
@@ -17597,6 +17778,7 @@
 
 - Id: national
   Level: B1
+  Form: nationaler, am nationalsten
   Meaning: national
   Cambridge: national; nationally
   Wiki: national; national; nationwide, national; (moderately) nationalist
@@ -17615,6 +17797,7 @@
 
 - Id: natürlich
   Level: A2
+  Form: natürlicher, am natürlichsten
   Meaning: naturally, of course
   Cambridge: natural; natural, normal; naturally, of course
   Wiki: natural, normal; naturally; of course
@@ -17634,6 +17817,7 @@
 
 - Id: neblig
   Level: A2
+  Form: nebliger, am nebligsten
   Meaning: foggy
   Cambridge: foggy, misty
   Wiki: foggy
@@ -17654,7 +17838,7 @@
   Level: A2
   Meaning: next door
   Cambridge: next door, next
-  Wiki: next-door
+  Wiki: next door
   Examples:
     - Das ist José, er wohnt nebenan.
 
@@ -17678,6 +17862,7 @@
 
 - Id: negativ
   Level: B1
+  Form: negativer, am negativsten
   Meaning: negative
   Cambridge: negative; negatively
   Wiki: negative; negative, negatory; negative; negative; negative, pessimistic, not fun-loving
@@ -17730,6 +17915,7 @@
 
 - Id: nervös
   Level: A2
+  Form: nervöser, am nervösesten
   Meaning: nervous
   Cambridge: nervous; nervously
   Wiki: nervous; jumpy
@@ -17739,6 +17925,7 @@
 
 - Id: nett
   Level: A2
+  Form: netter, am nettesten
   Meaning: nice, kind, enjoyable
   Cambridge: nice, kind; enjoyable (enough); substantial, tidy; nicely, kindly; nicely; quite a lot
   Wiki: nice; friendly; likable; kind; sweet; helpful; nice; okay; decent;
@@ -17771,6 +17958,7 @@
 
 - Id: neu
   Level: A1
+  Form: neuer, am neusten
   Meaning: new
   Cambridge: new; clean; fresh; recent; newly, recently; differently; again
   Wiki: new; modern, recent, latest
@@ -17793,6 +17981,7 @@
 
 - Id: neugierig
   Level: B1
+  Form: neugieriger, am neugierigsten
   Meaning: curious
   Cambridge: inquisitive, curious; inquisitively, curiously
   Wiki: nosy, curious, inquisitive, prying; inquisitively, full of curiosity
@@ -17872,6 +18061,7 @@
 
 - Id: niedrig
   Level: B1
+  Form: niedriger, am niedrigsten
   Meaning: low
   Cambridge: low; lowly; base
   Wiki: low
@@ -17940,6 +18130,7 @@
 
 - Id: normal
   Level: A1
+  Form: normaler, am normalsten
   Meaning: normal
   Cambridge: normal
   Wiki: 'ordinary, normal; ordinarily, normally, in a normal fashion; : usually, normally, in general; sure, of course, obviously;'
@@ -18010,6 +18201,7 @@
 
 - Id: nötig
   Level: B1
+  Form: nötiger, am nötigsten
   Meaning: necessary
   Cambridge: necessary
   Wiki: necessary; urgently
@@ -18030,9 +18222,10 @@
 
 - Id: notwendig
   Level: B1
+  Form: notwendiger, am notwendigsten
   Meaning: important
   Cambridge: necessary; inevitable; urgently, badly
-  Wiki: necessary; essential; indispensable
+  Wiki: necessary; essential; indispensable ( + accusative)
   Examples:
     - example1
 
@@ -18050,7 +18243,7 @@
   Form: -n
   Meaning: number
   Cambridge: number; size; routine; issue
-  Wiki: number;; issue (of a magazine, etc.); size (of shoes or clothes); song; composition (chiefly of easy listening); act; stunt; shtick; character; sex; an instance of sexual intercourse
+  Wiki: number;; issue (of a magazine, etc.); size (of shoes or clothes); song; composition; act; stunt; shtick; character; sex; an instance of sexual intercourse
   Examples:
     - Sie haben Zimmer Nummer zwölf.
     - Welche Hausnummer haben Sie?
@@ -18100,6 +18293,7 @@
 
 - Id: nützlich
   Level: B1
+  Form: nützlicher, am nützlichsten
   Meaning: useful
   Cambridge: useful
   Wiki: useful; helpful
@@ -18148,7 +18342,7 @@
   Form: (Sg.)
   Meaning: fruit
   Cambridge: fruit
-  Wiki: Edible plant parts, other than nuts, which are mainly eaten with sweet dishes, primarily fruit and berries. Edible parts of plants which do not count as vegetables.; cocaine
+  Wiki: fruit; cocaine
   Examples:
     - example1
 
@@ -18182,6 +18376,7 @@
 
 - Id: offen
   Level: B1
+  Form: offener, am offensten
   Meaning: open
   Cambridge: open; outstanding; vacant; frank, open; open(-minded); loose; openly
   Wiki: open; frank, candid; honest, sincere; openly
@@ -18190,6 +18385,7 @@
 
 - Id: öffentlich
   Level: B1
+  Form: öffentlicher, am öffentlichsten
   Meaning: public
   Cambridge: public; public, state; publicly
   Wiki: public
@@ -18216,6 +18412,7 @@
 
 - Id: offenbar
   Level: B1
+  Form: offenbarer, am offenbarsten
   Meaning: obvious, apparently
   Cambridge: obvious; obviously, evidently
   Wiki: apparent (evident); apparently, evidently; obviously
@@ -18224,6 +18421,7 @@
 
 - Id: offiziell
   Level: B1
+  Form: offizieller, am offiziellsten
   Meaning: official
   Cambridge: official; official, formal; officially; officially, formally
   Wiki: official
@@ -18253,6 +18451,7 @@
 
 - Id: oft
   Level: A1
+  Form: öfter, am öftesten
   Meaning: often
   Cambridge: often
   Wiki: often
@@ -18274,7 +18473,7 @@
   Level: A1
   Meaning: without
   Cambridge: without
-  Wiki: without; without
+  Wiki: without; without; without
   Examples:
     - Ohne Geld kann er nichts kaufen.
     - Bitte einen Kaffee ohne Milch und Zucker.
@@ -18390,6 +18589,7 @@
 
 - Id: optimistisch
   Level: B1
+  Form: optimistischer, am optimistischsten
   Meaning: optimistic
   Cambridge: optimistic; optimistically
   Wiki: optimistic
@@ -18416,9 +18616,10 @@
 
 - Id: ordentlich
   Level: B1
+  Form: ordentlicher, am ordentlichsten
   Meaning: decent, respectable, tidy, neat
   Cambridge: tidy, neat; respectable, decent; ordinary, regular; proper, real; real; tidily, neatly; respectably, decently; well; really
-  Wiki: tidy, orderly
+  Wiki: tidy, orderly; honest, decent; good, proper
   Examples:
     - example1
 
@@ -18478,6 +18679,7 @@
 
 - Id: original
   Level: B1
+  Form: originaler, am originalsten
   Meaning: original
   Cambridge: original; in its/their original condition; live
   Wiki: original; really, actually
@@ -18655,6 +18857,7 @@
 
 - Id: passiv
   Level: B1
+  Form: passiver, am passivsten
   Meaning: passive
   Cambridge: passive; non-active; passively
   Wiki: passive; being a bottom; passively
@@ -18675,6 +18878,7 @@
 
 - Id: pauschal
   Level: B1
+  Form: pauschaler, am pauschalsten
   Meaning: all inclusive, flat-rate
   Cambridge: flat-rate, all-inclusive; sweeping, indiscriminate; at a flat rate, indiscriminately
   Wiki: in total, in a lump sum, all-inclusive, flat; general, undifferentiated
@@ -18701,6 +18905,7 @@
 
 - Id: peinlich
   Level: B1
+  Form: peinlicher, am peinlichsten
   Meaning: embarrassing
   Cambridge: embarrassing, awkward; meticulous, scrupulous; unpleasantly, awkwardly; meticulously, scrupulously
   Wiki: woeful, hurtful; penal, applying criminal law, having to do with jurisprudence competent for capital punishment; pertaining to or containing torture; embarrassing, cringeworthy, or otherwise awkward, perverse, adverse, untoward; crotchety, truculent; meticulous
@@ -18734,7 +18939,9 @@
 
 - Id: der Pensionist
   Level: B1
+  Form: -en
   Meaning: pensioner
+  Wiki: pensioner
   Examples:
     - example1
 
@@ -18748,6 +18955,7 @@
 
 - Id: perfekt
   Level: B1
+  Form: perfekter, am perfektesten
   Meaning: perfect
   Cambridge: perfect; sealed; perfectly
   Wiki: perfect
@@ -18786,6 +18994,7 @@
 
 - Id: persönlich
   Level: B1
+  Form: persönlicher, am persönlichsten
   Meaning: personal, personal data
   Cambridge: personal; personal, direct; personally
   Wiki: personal; friendly (atmosphere etc.); personally, in person
@@ -18882,7 +19091,7 @@
   Form: '-'
   Meaning: carer, nurse, orderly
   Cambridge: nurse
-  Wiki: guardian; an elementary school administrator; organizer, supervisor; second
+  Wiki: guardian; governor, bailiff; an elementary school administrator; organizer, supervisor; second
   Examples:
     - example1
 
@@ -19031,6 +19240,7 @@
 
 - Id: politisch
   Level: B1
+  Form: politischer, am politischsten
   Meaning: political
   Cambridge: political; politic, judicious; politically
   Wiki: political
@@ -19071,6 +19281,7 @@
 
 - Id: populär
   Level: B1
+  Form: populärer, am populärsten
   Meaning: popular
   Cambridge: popular
   Wiki: popular
@@ -19098,6 +19309,7 @@
 
 - Id: positiv
   Level: B1
+  Form: positiver, am positivsten
   Meaning: positive
   Cambridge: positive; positively
   Wiki: positive
@@ -19170,6 +19382,7 @@
 
 - Id: praktisch
   Level: B1
+  Form: praktischer, am praktischsten
   Meaning: practical
   Cambridge: practical; in practice; practically
   Wiki: practical; applied; convenient; virtually
@@ -19201,7 +19414,7 @@
   Form: Praxen
   Meaning: practice
   Cambridge: practice; (practical) experience; office
-  Wiki: practice, praxis; surgery (UK), doctor's office (US), practice (South Africa)
+  Wiki: practice, praxis; surgery (UK), doctor's office (US), practice (UK, South Africa)
   Examples:
     - example1
 
@@ -19216,6 +19429,7 @@
 
 - Id: preiswert
   Level: B1
+  Form: preiswerter, am preiswertesten
   Meaning: reasonable price
   Cambridge: inexpensive, good value
   Wiki: worth its price; inexpensive, cheap
@@ -19241,6 +19455,7 @@
 
 - Id: privat
   Level: B1
+  Form: privater, am privatesten
   Meaning: private
   Cambridge: private, personal; private; privately, in private
   Wiki: private
@@ -19451,6 +19666,7 @@
 
 - Id: pünktlich
   Level: A1
+  Form: pünktlicher, am pünktlichsten
   Meaning: on time, punctual
   Cambridge: punctual, on time; punctually, on time
   Wiki: punctual, on time
@@ -19613,7 +19829,7 @@
   Form: ä-e
   Meaning: advice
   Cambridge: (piece of) advice; council; councillor
-  Wiki: advice, counsel; council; councilor, councillor
+  Wiki: advice, counsel; council; councilor, councillor; title of a Beamter ("Public servant") at the beginning of the senior service; title of a Beamter ("Public servant") in the senior service after first promotion
   Examples:
     - example1
 
@@ -19736,6 +19952,7 @@
 
 - Id: realistisch
   Level: B1
+  Form: realistischer, am realistischsten
   Meaning: realistic
   Cambridge: realistic
   Wiki: realistic
@@ -19796,6 +20013,7 @@
 
 - Id: rechtlich
   Level: B1
+  Form: rechtlicher, am rechtlichsten
   Meaning: legal, lawful, legitimate
   Cambridge: legal; legally
   Wiki: legal; lawful
@@ -19804,6 +20022,7 @@
 
 - Id: recht
   Level: A2
+  Form: rechter, am rechtesten
   Meaning: right (direction); proper, real; exactly
   Cambridge: right, proper; real; right, correctly; pretty, quite; real, very
   Wiki: right (direction); proper, correct; true, real; just, lawful; very, quite, rather, pretty, fairly; well, right; exactly
@@ -19900,6 +20119,7 @@
 
 - Id: regelmäßig
   Level: B1
+  Form: regelmäßiger, am regelmäßigsten
   Meaning: regularly
   Cambridge: regular; regularly
   Wiki: regular; according to the rule; expected; not forming an exception; regular; steady; even; with its components in proportion; regular; periodic; happening at constant intervals; frequent; regularly, periodically, on a regular basis, routinely in regelmäßigen Abständen
@@ -19955,6 +20175,7 @@
 
 - Id: reich
   Level: A2
+  Form: reicher, am reichsten
   Meaning: rich
   Cambridge: rich, wealthy; abundant, rich; wide, large, rich; richly, lavishly
   Wiki: rich
@@ -19973,6 +20194,7 @@
 
 - Id: reif
   Level: B1
+  Form: reifer, am reifsten
   Meaning: ripe
   Cambridge: ripe; mature, fully developed; mature; mature, solid
   Wiki: ripe; mature
@@ -20008,6 +20230,7 @@
 
 - Id: rein
   Level: B1
+  Form: reiner, am reinsten
   Meaning: pure, clear
   Cambridge: pure; purely, all; sheer, pure, plain; absolute, total; pure, clean; purely; absolutely; in
   Wiki: pure, clear, plain; purely; inside, in here; inside, in there
@@ -20111,6 +20334,7 @@
 
 - Id: relativ
   Level: B1
+  Form: relativer, am relativsten
   Meaning: relative
   Cambridge: relative; relatively
   Wiki: relative
@@ -20287,6 +20511,7 @@
 
 - Id: richtig
   Level: A1
+  Form: richtiger, am richtigsten
   Meaning: right
   Cambridge: right, correct; proper, real; right, correctly; really
   Wiki: correct, accurate, right; really
@@ -20313,6 +20538,7 @@
 
 - Id: riesig
   Level: B1
+  Form: riesiger, am riesigsten
   Meaning: enormous
   Cambridge: huge, gigantic, enormous; incredibly, enormously; awesome, fantastic
   Wiki: gigantic, huge
@@ -20357,6 +20583,7 @@
 
 - Id: roh
   Level: B1
+  Form: roher, am rohsten
   Meaning: raw
   Cambridge: raw; rough, untreated, coarse; crude, brute, rough; roughly, coarsely; roughly
   Wiki: raw; unprocessed, crude, raw; unrefined, rude, brutal
@@ -20489,6 +20716,7 @@
 
 - Id: ruhig
   Level: A1
+  Form: ruhiger, am ruhigsten
   Meaning: quiet
   Cambridge: quiet; calm; calm, still; quietly; calmly
   Wiki: quiet; calm; quietly; calmly; (used to indicate that the speaker does not object to the actions of others); (used to soften a request, as if to say “I don’t mind if...” to mean “I would like it if...”)
@@ -20497,9 +20725,10 @@
 
 - Id: rund
   Level: B1
+  Form: runder, am rundesten
   Meaning: round, around
   Cambridge: round, circular; (well-)rounded, rotund; rounded; with a zero, round; around
-  Wiki: round, rounded, similar as in English, especially:; circular; spherical, globular, ball-shaped; corpulent, thick; regular; around; roughly, approximately, about
+  Wiki: round, rounded, similar as in English, especially:; circular; spherical, globular; corpulent, thick; regular; around; roughly, approximately, about
   Examples:
     - example1
 
@@ -20566,6 +20795,7 @@
   Form: ä-e
   Meaning: juice
   Cambridge: juice; sap, juice
+  Wiki: juice; sap; fluid; gravy, meat juice; power; electricity; agility; vitality; power; any bodily fluid, especially sweat and semen or vaginal fluid
   Examples:
     - Möchtest du einen Apfelsaft?
     - Ich trinke gern Apfelsaft.
@@ -20644,6 +20874,7 @@
 
 - Id: salzig
   Level: B1
+  Form: salziger, am salzigsten
   Meaning: salty
   Cambridge: salty
   Wiki: briny, salty
@@ -20671,7 +20902,7 @@
   Form: -e
   Meaning: sand
   Cambridge: sand
-  Wiki: sand (particles of rock)
+  Wiki: sand
   Examples:
     - Die Kinder spielen gern im Sand.
 
@@ -20698,6 +20929,7 @@
 
 - Id: satt
   Level: B1
+  Form: satter, am sattesten
   Meaning: full, rich
   Cambridge: full (up); rich; lush; substantial
   Wiki: not hungry, satiated, full, done; fed up, sick of; full, ample
@@ -20709,12 +20941,13 @@
   Form: ä-e
   Meaning: sentence
   Cambridge: sentence, clause; rate; set; sediment; leap; theorem; movement; (type)setting
-  Wiki: sentence; proposition, theorem; set; movement; set; jump, leap; sediment, grounds; typeset
+  Wiki: sentence; proposition, theorem; set; movement; set; jump, leap; sediment, grounds; typesetting
   Examples:
     - Dieser Satz ist sehr einfach.
 
 - Id: sauber
   Level: A2
+  Form: sauberer, am saubersten
   Meaning: clean
   Cambridge: clean; potty-trained; house-trained; neat; above board, clean, honest; nice; neatly; really
   Wiki: clean; neat, tidy; good, all right; pretty, cute
@@ -20724,6 +20957,7 @@
 
 - Id: sauer
   Level: B1
+  Form: saurer, am sauersten
   Meaning: sour
   Cambridge: sour; pickled; acid(ic); irritated, angry; in vinegar; angrily; hard
   Wiki: sour; acid; acidic; upset; annoyed; angry; unpleasant
@@ -20773,6 +21007,7 @@
 
 - Id: schädlich
   Level: A2
+  Form: schädlicher, am schädlichsten
   Meaning: damaging
   Cambridge: damaging, harmful
   Wiki: harmful
@@ -20811,6 +21046,7 @@
 
 - Id: scharf
   Level: A2
+  Form: schärfer, am schärfsten
   Meaning: sharp, spicy, hot
   Cambridge: sharp; sharp, tight; hot, spicy; pungent, caustic; sharp, biting; sharp, keen; sharply focused; sharp, clear; fierce, sharp; strict, harsh, tough; live; loaded; trained to attack; powerful; hot; awesome; sharply, keenly; fiercely, sharply; harshly, severely; with live ammunition; powerfully; sharply; at a high temperature
   Wiki: sharp; able to cut (knife, edge); sharp (criticism, perception, intellect); sharp; in focus (picture, script); hot; spicy; pungent (taste); hot; sexy; attractive; hot; aroused; horny; live (bomb or ammunition)
@@ -20945,6 +21181,7 @@
 
 - Id: schick
   Level: B1
+  Form: schicker, am schicksten
   Meaning: stylish (s-)
   Cambridge: stylish; fashionable; stylishly
   Wiki: elegant, dressy
@@ -20956,6 +21193,7 @@
   Form: schickt, schickte, hat geschickt
   Meaning: to send (8)
   Cambridge: to send; to be the done thing; to hurry up
+  Wiki: to send; to hurry (rare); to be decent, to be appropriate; to chew tobacco
   Examples:
     - Bitte schicken Sie mir eine E-Mail.
     - Ich schicke dir den Brief nach Hause.
@@ -20975,6 +21213,7 @@
 
 - Id: schief
   Level: B1
+  Form: schiefer, am schiefsten
   Meaning: crooked, leaning, sloping
   Cambridge: not straight, tilted, at an angle; crooked; distorted; disapproving; askance
   Wiki: skew, oblique, askew, leaning, slanting, aslant, inclined; slopy, sloping; crooked, awry; lopsided; wry; distorted; worn; inappropriate; crookedly, at an angle; lopsidedly; askance; badly, wrong
@@ -21005,7 +21244,7 @@
   Form: -er
   Meaning: sign, label
   Cambridge: sign; label, tag; shield
-  Wiki: shield, buckler; shield; sign, plate
+  Wiki: sign, plate; label, tag; (nonstandard, or, informal, northern and central Germany); shield, buckler; protection, protector; shield
   Examples:
     - Haben Sie nicht das Schild gesehen?
     - Kannst du lesen, was dort auf dem Schild steht?
@@ -21037,7 +21276,6 @@
   Form: -e
   Meaning: umbrella
   Cambridge: umbrella, sunshade; shade; screen; chute; peak
-  Wiki: screen (); umbrella
   Examples:
     - Nimm den Schirm mit, es regnet.
     - Es regnet. Hast du einen Schirm dabei?
@@ -21059,7 +21297,7 @@
   Form: (Sg.)
   Meaning: sleep
   Cambridge: sleep
-  Wiki: sleep; temple
+  Wiki: sleep; temple (anatomy)
   Examples:
     - Das Kind macht jeden Tag nach dem Mittagessen einen kurzen Schlaf.
     - Genügend Schlaf ist wichtig für die Gesundheit.
@@ -21104,6 +21342,7 @@
 
 - Id: schlank
   Level: B1
+  Form: schlanker, am schlanksten
   Meaning: slim
   Cambridge: slim, slender
   Wiki: slim, svelte
@@ -21112,6 +21351,7 @@
 
 - Id: schlecht
   Level: A1
+  Form: schlechter, am schlechtesten
   Meaning: bad (-t)
   Cambridge: bad, poor; bad; no good; bad, wicked; badly, poorly; badly; with difficulty; hardly
   Wiki: bad, evil, wicked; bad; bad; bad; bad, off; dirty; badly, poorly, not well; with difficulty, not easily
@@ -21148,6 +21388,7 @@
 
 - Id: geschlossen
   Level: A1
+  Form: geschlossener, am geschlossensten
   Meaning: closed
   Cambridge: closed, secure; built-up; united, unified; private; en bloc, as one, unanimously
   Wiki: shut; closed; locked; private, non-public; cohesive; solidary
@@ -21166,6 +21407,7 @@
 
 - Id: schlimm
   Level: A2
+  Form: schlimmer, am schlimmsten
   Meaning: bad (-m)
   Cambridge: bad, nasty; bad, naughty; terrible, awful; bad, sore
   Wiki: bad, terrible, serious , dire, horrible, awful; hurting, ill, infected; badly, severely
@@ -21210,6 +21452,7 @@
 
 - Id: schmal
   Level: B1
+  Form: schmaler, am schmalsten
   Meaning: narrow
   Cambridge: narrow; thin; meager
   Wiki: narrow, slender; meagre, scarce
@@ -21277,6 +21520,7 @@
 
 - Id: schmutzig
   Level: A2
+  Form: schmutziger, am schmutzigsten
   Meaning: dirty
   Cambridge: dirty; shady, dirty
   Wiki: dirty, filthy, grimy; shameless, obscene; fatty, fat
@@ -21327,6 +21571,7 @@
 
 - Id: schnell
   Level: A1
+  Form: schneller, am schnellsten
   Meaning: fast
   Cambridge: quick, fast; fast; quickly, fast; quickly
   Wiki: quick, fast; quickly; again; quick;
@@ -21383,6 +21628,7 @@
 
 - Id: schön
   Level: A1
+  Form: schöner, am schönsten
   Meaning: beautiful
   Cambridge: beautiful, lovely, handsome; nice, fine, good; good, great; nice; fine; considerable; beautifully; nice and; well
   Wiki: beautiful, lovely, pretty, handsome; good, great, splendid; nice, pleasant; well, beautifully; really; nicely
@@ -21420,6 +21666,7 @@
 
 - Id: schrecklich
   Level: A2
+  Form: schrecklicher, am schrecklichsten
   Meaning: terrible, dreadful
   Cambridge: terrible; terrible, dreadful; terribly
   Wiki: awful, terrible, horrible; awfully, terribly
@@ -21549,6 +21796,7 @@
 
 - Id: schuldig
   Level: B1
+  Form: schuldiger, am schuldigsten
   Meaning: guilty
   Cambridge: guilty
   Wiki: guilty (of), culpable; owing, indebted to
@@ -21603,7 +21851,7 @@
   Form: -n
   Meaning: bowl
   Cambridge: bowl
-  Wiki: bowl, platter; basin; (satellite) dish
+  Wiki: bowl, platter; basin; car; (satellite) dish
   Examples:
     - Gibst du mir bitte eine Schüssel für den Salat?
 
@@ -21637,6 +21885,7 @@
 
 - Id: schwach
   Level: A2
+  Form: schwächer, am schwächsten
   Meaning: weak, light
   Cambridge: weak; weak, poor; weak(-willed); poor; faint, weak, light; low, weak; weakly; poorly
   Wiki: weak, lacking in strength; weak
@@ -21694,6 +21943,7 @@
 
 - Id: schwer
   Level: A1
+  Form: schwerer, am schwersten
   Meaning: heavy
   Cambridge: heavy; in weight; hard; difficult, hard; serious, bad, severe; seriously; with difficulty
   Wiki: heavy, weighty; difficult, hard; serious; indigestible
@@ -21743,6 +21993,7 @@
 
 - Id: schwierig
   Level: A2
+  Form: schwieriger, am schwierigsten
   Meaning: difficult
   Cambridge: difficult
   Wiki: difficult, hard, challenging, tough; difficult, prickly
@@ -21869,7 +22120,7 @@
   Form: ist, war, ist gewesen
   Meaning: to be
   Cambridge: to be; to be, to come; to be, to happen, to exist; to have; his, its, her; his, its, hers
-  Wiki: to be; to feel,; to feel like, to be in the mood for; (auxiliary) (forms the present perfect and past perfect tense of certain intransitive verbs); to exist; there to be; to be alive; to have the next turn (in a game, in a queue, etc.); to be "it"; to be the tagger in a game of tag; (dated); (dated)
+  Wiki: to be; to feel,; to feel like, to be in the mood for; (auxiliary) (forms the present perfect and past perfect tenses of certain intransitive verbs); to exist; there to be; to be alive; to have the next turn (in a game, in a queue, etc.); to be "it"; to be the tagger in a game of tag; (archaic); (archaic)
   Examples:
     - Ich bin Peter.
     - Herr Müller ist in seinem Zimmer.
@@ -21928,7 +22179,7 @@
     Form: -nen
   Meaning: secretary
   Cambridge: secretary; secretary, writing desk
-  Wiki: secretary (male or unspecified sex); bureau, secretary
+  Wiki: secretary (male or unspecified sex); official of an organization; high-ranking member in the Central committee of the Socialist Unity Party of Germany; title of a Beamter ("Public servant") at the beginning of the middle service; bureau, secretary
   Examples:
     - Der neue Sekretär hat sich gestern vorgestellt.
 
@@ -21957,6 +22208,7 @@
 
 - Id: selbstständig
   Level: A1
+  Form: selbstständiger, am selbstständigsten
   Meaning: self employed, independent
   Cambridge: independent; independent, autonomous; self-employed, freelance; independently, on your own; on a freelance basis
   Wiki: independent; self-employed; independently; on one's own, without help
@@ -21967,6 +22219,7 @@
 
 - Id: selbstverständlich
   Level: B1
+  Form: selbstverständlicher, am selbstverständlichsten
   Meaning: obvious; of course, obviously
   Cambridge: obvious, natural; naturally, of course
   Wiki: natural, self-evident; granted; naturally
@@ -21975,6 +22228,7 @@
 
 - Id: selten
   Level: B1
+  Form: seltener, am seltensten
   Meaning: seldom, rare
   Cambridge: rare; rarely, seldom; exceptionally
   Wiki: rare, infrequent, uncommon, scarce; unusual, curious; seldom; rarely; unusually; extremely
@@ -21983,6 +22237,7 @@
 
 - Id: seltsam
   Level: B1
+  Form: seltsamer, am seltsamsten
   Meaning: strange
   Cambridge: strange, odd; strangely, oddly
   Wiki: strange, weird, odd, funny, curious; strangely, weirdly, oddly, curiously
@@ -22058,6 +22313,7 @@
 
 - Id: senkrecht
   Level: B1
+  Form: senkrechter, am senkrechtesten
   Meaning: vertical
   Cambridge: vertically
   Wiki: vertical
@@ -22115,6 +22371,7 @@
 
 - Id: sicher
   Level: A2
+  Form: sicherer, am sichersten
   Meaning: certain, secure
   Cambridge: safe, secure; reliable; certain; certain, sure; (self-)assured, (self-)confident; safely, securely; certainly, for sure; surely; of course; (self-)assuredly, (self-)confidently
   Wiki: safe, secure; sure, certain; safely; surely, certainly
@@ -22146,6 +22403,7 @@
 
 - Id: sichtbar
   Level: B1
+  Form: sichtbarer, am sichtbarsten
   Meaning: visible
   Cambridge: visible; obvious, evident
   Wiki: visible
@@ -22223,6 +22481,7 @@
 
 - Id: sinnlos
   Level: B1
+  Form: sinnloser, am sinnlosesten
   Meaning: meaningless, senseless
   Cambridge: pointless, meaningless; unfounded, groundless; senseless, absurd; senselessly; for no reason; like crazy
   Wiki: meaningless, pointless, senseless; excessive, disproportionate
@@ -22231,6 +22490,7 @@
 
 - Id: sinnvoll
   Level: B1
+  Form: sinnvoller, am sinnvollsten
   Meaning: meaningful
   Cambridge: sensible; useful, constructive; meaningful; sensibly; usefully, constructively
   Wiki: meaningful; sensible
@@ -22384,7 +22644,7 @@
   Form: -s
   Meaning: software
   Cambridge: software
-  Wiki: software; "a software" (cf. usage notes in the entry), a programme/program
+  Wiki: software; piece of software, a program
   Examples:
     - Mein Computer benötigt spezielle Software, um Webseiten darstellen zu können.
 
@@ -22457,6 +22717,7 @@
 
 - Id: sondern
   Level: B1
+  Form: sondert, sonderte, hat gesondert
   Meaning: but (rather)
   Cambridge: but
   Wiki: rather, but (instead).; so?, then what?, so you tell me!; to separate, to sunder
@@ -22473,6 +22734,7 @@
 
 - Id: die Sonne
   Level: A1
+  Form: -n
   Meaning: sun
   Cambridge: sun
   Wiki: the Sun; a sun; sunshine, sunlight
@@ -22483,6 +22745,7 @@
 
 - Id: sonnig
   Level: A2
+  Form: sonniger, am sonnigsten
   Meaning: sunny
   Cambridge: sunny
   Wiki: sunny
@@ -22505,7 +22768,7 @@
   Level: B1
   Form: sorgt, sorgte, hat gesorgt
   Meaning: to worry, to care for
-  Wiki: to care for, to take care of; to worry
+  Wiki: to take care of, to care for, to look after; to bring, ensure, make for; to worry, be worried
   Examples:
     - Wer sorgt denn für die Kinder?
     - Können Sie bitte dafür sorgen, dass die Heizung funktioniert?
@@ -22515,7 +22778,7 @@
   Form: -n
   Meaning: worry
   Cambridge: worry; care
-  Wiki: concern, worry, apprehension, trouble, uneasiness, anxiety; care, aid
+  Wiki: concern, care, responsibility, aid; concern, worry, apprehension, trouble, distress
   Examples:
     - Um Ihre Zukunft brauchen Sie sich keine Sorgen zu machen.
 
@@ -22568,6 +22831,7 @@
 
 - Id: sozial
   Level: B1
+  Form: sozialer, am sozialsten
   Meaning: social
   Cambridge: social; socially
   Wiki: social
@@ -22589,6 +22853,7 @@
 
 - Id: spannend
   Level: A2
+  Form: spannender, am spannendsten
   Meaning: exciting
   Cambridge: exciting; excitingly
   Wiki: thrilling, exciting, gripping, enthralling, spellbinding; interesting
@@ -22608,6 +22873,7 @@
 
 - Id: sparsam
   Level: B1
+  Form: sparsamer, am sparsamsten
   Meaning: economical, thrifty
   Cambridge: thrifty; economical; economical, sparse; sparingly
   Wiki: economical, thrifty, frugal; sparingly
@@ -22628,6 +22894,7 @@
 
 - Id: spät
   Level: A1
+  Form: später, am spätesten
   Meaning: late
   Cambridge: late
   Wiki: late
@@ -22679,7 +22946,7 @@
   Form: speichert, speicherte, hat gespeichert
   Meaning: to store
   Cambridge: to store; to save
-  Wiki: to store, save; to save
+  Wiki: to store, save; to save; to memorize, remember
   Examples:
     - Sie müssen die Datei speichern.
 
@@ -22731,6 +22998,7 @@
 
 - Id: speziell
   Level: B1
+  Form: spezieller, am speziellsten
   Meaning: special
   Cambridge: special; (e)specially
   Wiki: special; particular, specific
@@ -22805,6 +23073,7 @@
 
 - Id: spitz
   Level: B1
+  Form: spitzer, am spitzesten
   Meaning: sharp, pointed
   Cambridge: pointed, sharp; acute; cutting, barbed; piercing; horny; to a point
   Wiki: pointed, pointy; sharp; spiky; horny; (colloquial)
@@ -22843,6 +23112,7 @@
 
 - Id: sportlich
   Level: A2
+  Form: sportlicher, am sportlichsten
   Meaning: sporting, sporty, athletic
   Cambridge: sporting; sporty, athletic; sporting, sportsmanlike; sporty, smart casual; as far as sport is concerned; sportingly, in a sportsmanlike manner
   Wiki: sport; sporting, athletic; athletic, fit, sporty; sporting, sportsmanlike; ambitious, requiring great effort; casual
@@ -22934,7 +23204,7 @@
   Form: springt, sprang, ist gesprungen
   Meaning: to jump
   Cambridge: to jump; to bound; to pop; to bounce; to come off; to jump, to change; to crack
-  Wiki: to spring; to leap; to bounce; to dive; to jump; to vault; to break; to burst; to pop
+  Wiki: to spring; to leap; to bounce; to dive; to jump; to vault; to break; to burst; to pop; to run; to dash
   Examples:
     - Wir waren im Schwimmbad. Mein Sohn ist immer wieder ins Wasser gesprungen.
     - Wie weit bist du heute gesprungen? -3,40 m.
@@ -22990,7 +23260,7 @@
   Form: ä-e
   Meaning: city (S-)
   Cambridge: town, city; downtown area; city hall
-  Wiki: city; town; city center; city, town, town council, city council
+  Wiki: city; town; city centre; city, town, town council, city council
   Examples:
     - Heidelberg ist eine alte Stadt.
     - Ich wohne lieber auf dem Land als in der Stadt.
@@ -23109,7 +23379,7 @@
   Level: B1
   Meaning: instead of
   Cambridge: instead of
-  Wiki: instead of, in one's stead
+  Wiki: instead of; instead of, in one's stead
   Examples:
     - Kann ich diese Woche statt Donnerstag am Freitag kommen?
 
@@ -23239,6 +23509,7 @@
 
 - Id: steil
   Level: B1
+  Form: steiler, am steilsten
   Meaning: steep
   Cambridge: steep; steeply
   Wiki: steep
@@ -23350,7 +23621,7 @@
   Synonym: (A) = (D, CH) Treppe
   Meaning: stair (S-)
   Cambridge: narrow wooden stairs; stairs, steps
-  Wiki: narrow, often steep stairs (e.g. to a loft); stairs in general; wooden crate; a set of twenty, e.g. of sheaves, livestock, eggs
+  Wiki: narrow, often steep stairs (e.g. to a loft); stairs in general, staircase; separate entry, doorway and/or staircase to or inside an apartment building, apartment complex or a housing complex; wooden crate; a set of twenty, e.g. of sheaves, livestock, eggs
   Examples:
     - Wo ist die Toilette? - Die Stiege hoch und dann links.
     - Meine Oma kann nicht gut Stiegen steigen.
@@ -23384,6 +23655,7 @@
 
 - Id: stilistisch
   Level: B1
+  Form: stilistischer, am stilistischsten
   Meaning: stylistic
   Cambridge: stylistic; stylistically
   Wiki: stylistic
@@ -23392,6 +23664,7 @@
 
 - Id: still
   Level: B1
+  Form: stiller, am stillsten
   Meaning: still, quiet
   Cambridge: quiet, silent; still, calm; quiet; silent; silent, secret; quietly, silently; still
   Wiki: quiet, silent; quietly, silently
@@ -23413,7 +23686,7 @@
   Form: stimmt, stimmte, hat gestimmt
   Meaning: to be right, to vote
   Cambridge: to be correct/right; to be true; to vote; to tune
-  Wiki: to be right, to be correct, to be proper, to be true; to vote; to tune; to make (someone happy, sad, etc.)
+  Wiki: to be right, to be correct, to be proper, to be true; to vote ( + accusative); to tune; to make (someone happy, sad, etc.)
   Examples:
     - Meine Adresse stimmt nicht mehr.
     - Das Wetter in Deutschland könnte besser sein. - Das stimmt.
@@ -23423,7 +23696,6 @@
   Form: -en
   Meaning: atmosphere, mood
   Cambridge: mood; atmosphere; good mood
-  Wiki: mood; mood; lively atmosphere; vibe; exuberance; general mood; prevalent attitude; trend; public opinion; tuning
   Examples:
     - Es war eine tolle Party. Die Stimmung war sehr gut.
 
@@ -23477,6 +23749,7 @@
 
 - Id: stolz
   Level: B1
+  Form: stolzer, am stolzesten
   Meaning: proud
   Cambridge: proud; majestic; hefty, princely; proudly
   Wiki: proud; haughty
@@ -23534,6 +23807,7 @@
 
 - Id: strafbar
   Level: B1
+  Form: strafbarer, am strafbarsten
   Meaning: punishable
   Cambridge: punishable
   Wiki: liable to criminal prosecution; criminal; criminally punishable
@@ -23628,6 +23902,7 @@
 
 - Id: streng
   Level: A2
+  Form: strenger, am strengsten
   Meaning: strict
   Cambridge: strict; harsh, severe; pungent, strong; severe; clear; severely; strictly; clearly
   Wiki: severe, rigid, strict; very much, strictly
@@ -23646,6 +23921,7 @@
 
 - Id: stressig
   Level: A2
+  Form: stressiger, am stressigsten
   Meaning: stressful
   Cambridge: stressful
   Wiki: stressful
@@ -23779,6 +24055,7 @@
 
 - Id: stumm
   Level: B1
+  Form: stummer, am stummsten
   Meaning: silent, dumb
   Cambridge: dumb; silent; silently
   Wiki: mute; dumb; silent ;; non-verbal, not explicitly expressed; silent; mute; silent
@@ -23841,6 +24118,7 @@
 
 - Id: süchtig
   Level: B1
+  Form: süchtiger, am süchtigsten
   Meaning: addictive
   Cambridge: addicted
   Wiki: addicted
@@ -23908,6 +24186,7 @@
 
 - Id: süß
   Level: A2
+  Form: süßer, am süßesten
   Meaning: sweet
   Cambridge: sweet; sugary; sweetly; insincerely
   Wiki: sweet; cute
@@ -23947,6 +24226,7 @@
 
 - Id: sympathisch
   Level: A2
+  Form: sympathischer, am sympathischsten
   Meaning: likeable
   Cambridge: likable, nice
   Wiki: congenial, likable; sympathetic
@@ -24165,7 +24445,7 @@
     Form: -nen
   Meaning: perpetrator, culprit
   Cambridge: culprit, perpetrator
-  Wiki: doer; evildoer; delinquent, offender
+  Wiki: perpetrator, delinquent; doer, one who does
   Examples:
     - Die Polizei hat den Täter endlich gefasst.
 
@@ -24197,6 +24477,7 @@
 
 - Id: taub
   Level: B1
+  Form: tauber, am taubsten
   Meaning: deaf
   Cambridge: deaf; numb
   Wiki: deaf (not hearing); numb; empty (used for nuts which lack the seed within their shell)
@@ -24501,6 +24782,7 @@
 
 - Id: teuer
   Level: A1
+  Form: teurer, am teuersten
   Meaning: expensive
   Cambridge: expensive; dear; expensively
   Wiki: dear; expensive
@@ -24546,6 +24828,7 @@
 
 - Id: theoretisch
   Level: B1
+  Form: theoretischer, am theoretischsten
   Meaning: theoretical
   Cambridge: theoretical; theoretically
   Wiki: theoretical
@@ -24583,6 +24866,7 @@
 
 - Id: tief
   Level: A2
+  Form: tiefer, am tiefsten
   Meaning: deep
   Cambridge: deep; low; long, deep; late; deep, profound; deeply
   Wiki: deep; low; low; deeply, profoundly; thoroughly, in depth
@@ -24678,6 +24962,7 @@
 
 - Id: tödlich
   Level: B1
+  Form: tödlicher, am tödlichsten
   Meaning: deadly
   Cambridge: fatal, deadly, mortal; deadly; fatally; terribly
   Wiki: deadly, mortal, lethal, fatal
@@ -24695,6 +24980,7 @@
 
 - Id: tolerant
   Level: B1
+  Form: toleranter, am tolerantesten
   Meaning: tolerant
   Cambridge: tolerant
   Wiki: tolerant
@@ -24703,6 +24989,7 @@
 
 - Id: toll
   Level: A2
+  Form: toller, am tollsten
   Meaning: great
   Cambridge: great; amazing; brilliantly
   Wiki: great, nice, wonderful; crazy, mad
@@ -24753,6 +25040,7 @@
 
 - Id: tot
   Level: A2
+  Form: toter, am totesten
   Meaning: dead
   Cambridge: dead; disused, dead, useless
   Wiki: dead, deceased
@@ -24823,6 +25111,7 @@
 
 - Id: traditionell
   Level: B1
+  Form: traditioneller, am traditionellsten
   Meaning: traditional
   Cambridge: traditional; traditionally
   Wiki: traditional
@@ -24941,6 +25230,7 @@
 
 - Id: traurig
   Level: B1
+  Form: trauriger, am traurigsten
   Meaning: sad
   Cambridge: sad, unhappy; sad; sadly
   Wiki: sad; sadly
@@ -24974,7 +25264,7 @@
   Form: treibt, trieb, hat getrieben
   Meaning: to play sport
   Cambridge: to drive; to make, to drive; to do; to carry; to drift; to sprout
-  Wiki: to drive (e.g. livestock); to propel; to force; to put forth; to produce; to sprout; to urge; to fuck; to drift; to float about; to sprout; to do, to get up to
+  Wiki: to drive (e.g. livestock); to propel; to force; to put forth; to produce; to sprout; to urge; to fuck; to do, to get up to; to drift; to float about; to sprout
   Examples:
     - Welchen Sport treibst du?
 
@@ -25049,6 +25339,7 @@
 
 - Id: treu
   Level: B1
+  Form: treuer, am treusten
   Meaning: true
   Cambridge: faithful; faithful, loyal; loyal, staunch; faithfully, loyally
   Wiki: loyal; faithful; true
@@ -25076,6 +25367,7 @@
 
 - Id: trocken
   Level: A2
+  Form: trockener, am trockensten
   Meaning: dry
   Cambridge: dry; toilet-trained
   Wiki: dry; dry; dry; dry; dry
@@ -25231,6 +25523,7 @@
 
 - Id: typisch
   Level: A2
+  Form: typischer, am typischsten
   Meaning: typical
   Cambridge: typical; typically
   Wiki: typical
@@ -25298,7 +25591,7 @@
   Level: B1
   Meaning: at all, generally
   Cambridge: in general, of all; anyhow, anyway; at all; actually; really
-  Wiki: at all; anyway; actually; even
+  Wiki: overall, in general; at all; anyway; actually; even
   Examples:
     - example1
 
@@ -25313,6 +25606,7 @@
 
 - Id: überlegen
   Level: B1
+  Form: überlegner, am überlegensten
   Meaning: to consider
   Cambridge: to think; superior; in a superior manner
   Wiki: superior; to think about, to think over
@@ -25468,7 +25762,7 @@
   Form: überweist, überwies, hat überwiesen
   Meaning: to transfer, to refer
   Cambridge: to transfer; to refer
-  Wiki: to transfer
+  Wiki: to transfer, to wire (money)
   Examples:
     - Sie können das Geld auch überweisen.
     - Ich überweise dir das Geld.
@@ -25502,6 +25796,7 @@
 
 - Id: üblich
   Level: B1
+  Form: üblicher, am üblichsten
   Meaning: usual, common
   Cambridge: usual, normal; usual
   Wiki: usual
@@ -25550,7 +25845,7 @@
   Level: A1
   Meaning: at, around
   Cambridge: around; at (around); by; about; for; of
-  Wiki: about; around; at, by; by; in order to, so as to; up, in the sense of finished; around, about; turned over, changed, from one state to another
+  Wiki: about; around; at, by; by; for; in order to, so as to; up, in the sense of finished; around, about; turned over, changed, from one state to another
   Examples:
     - Er kommt um sieben Uhr.
     - Da kommt er gerade um die Ecke.
@@ -25774,6 +26069,7 @@
 
 - Id: ungewöhnlich
   Level: B1
+  Form: ungewöhnlicher, am ungewöhnlichsten
   Meaning: unusual
   Cambridge: unusual; exceptional; exceptionally
   Wiki: uncommon, unusual, unordinary; unusually
@@ -25782,6 +26078,7 @@
 
 - Id: unglaublich
   Level: B1
+  Form: unglaublicher, am unglaublichsten
   Meaning: incredible
   Cambridge: incredible, unbelievable; outrageous, incredible; incredible; incredibly
   Wiki: unbelievable, incredible
@@ -25799,6 +26096,7 @@
 
 - Id: unheimlich
   Level: B1
+  Form: unheimlicher, am unheimlichsten
   Meaning: eerie, scary, incredible
   Cambridge: eerie, sinister; incredible; incredibly
   Wiki: uncanny; creepy, eerie; incredible; large; very
@@ -25972,6 +26270,7 @@
 
 - Id: unterschiedlich
   Level: B1
+  Form: unterschiedlicher, am unterschiedlichsten
   Meaning: different
   Cambridge: different; differently
   Wiki: different; differing, varying; differently, in varying ways
@@ -26092,6 +26391,7 @@
 
 - Id: ursprünglich
   Level: B1
+  Form: ursprünglicher, am ursprünglichsten
   Meaning: original, originally
   Cambridge: original, initial; natural, unspoiled; originally, initially
   Wiki: original, initial; originally, initially
@@ -26199,6 +26499,7 @@
 
 - Id: verantwortlich
   Level: B1
+  Form: verantwortlicher, am verantwortlichsten
   Meaning: responsible
   Cambridge: responsible
   Wiki: responsible; answerable
@@ -26314,6 +26615,7 @@
 
 - Id: verdächtig
   Level: B1
+  Form: verdächtiger, am verdächtigsten
   Meaning: suspicious
   Cambridge: suspicious; likely to be; suspiciously
   Wiki: suspicious, suspect
@@ -26419,6 +26721,7 @@
 
 - Id: vergnügt
   Level: B1
+  Form: vergnügter, am vergnügtesten
   Meaning: cheerful
   Cambridge: cheerful, happy; cheerfully, happily
   Wiki: cheerful, delighted
@@ -26439,7 +26742,7 @@
   Form: verhaftet, verhaftete, hat verhaftet
   Meaning: to arrest
   Cambridge: to arrest
-  Wiki: to imprison, to put into confinement after judicial writ (the state of which is called Haft)
+  Wiki: to stop moving and instead stick, or make or become bound; to imprison, to put into confinement after judicial writ (the state of which is called Haft); to legally subject to eventual foreclosure
   Examples:
     - example1
 
@@ -26448,7 +26751,7 @@
   Form: verhält, verhielt, hat verhalten
   Meaning: to behave
   Cambridge: to act, to behave; to be; to be (in relation); restrained, cautious, suppressed
-  Wiki: to behave; to be; to repress; to go more slowly; to parry; to have a good attitude towards oneself; to undertake; to close with the hand; restrained
+  Wiki: to behave; to be contradistinguished, to be characterized in relation to its environment; to be; to take a stand, to express an assessment of; to repress, to make more slow; to parry; to have a good attitude towards oneself; to undertake; to close with the hand; restrained
   Examples:
     - example1
 
@@ -26466,7 +26769,7 @@
   Form: -se
   Meaning: relationship
   Cambridge: proportion, ratio; relationship; affair, relationship; conditions; circumstances
-  Wiki: relation, ratio; relationship; affair (adulterous relationship)
+  Wiki: relation, ratio; relationship; affair (adulterous relationship); circumstances, means
   Examples:
     - example1
 
@@ -26604,6 +26907,7 @@
 
 - Id: verliebt
   Level: B1
+  Form: verliebter, am verliebtesten
   Meaning: in love
   Cambridge: in love; amorous
   Wiki: in love, enamored
@@ -26710,6 +27014,7 @@
 
 - Id: vernünftig
   Level: B1
+  Form: vernünftiger, am vernünftigsten
   Meaning: sensible, reasonable
   Cambridge: sensible; decent; sensibly; properly
   Wiki: reasonable, sensible
@@ -26770,6 +27075,7 @@
 
 - Id: verrückt
   Level: B1
+  Form: verrückter, am verrücktesten
   Meaning: crazy
   Cambridge: crazy, mad; crazy
   Wiki: crazy, mad
@@ -26806,6 +27112,7 @@
 
 - Id: verschieden
   Level: B1
+  Form: verschiedner, am verschiedensten
   Meaning: different
   Cambridge: different; various, several
   Wiki: 'deceased; different (: from); several, various; differently'
@@ -26835,7 +27142,7 @@
   Form: versichert, versicherte, ist versichert
   Meaning: to insure, assure
   Cambridge: to insure; to affirm, to assure
-  Wiki: to insure; to reassure, assure
+  Wiki: to insure; to reassure, assure; (ditransitive, dative + accusative); (ditransitive, accusative + genitive, higher register); (reflexive, + genitive)
   Examples:
     - example1
 
@@ -26875,6 +27182,7 @@
 
 - Id: verständlich
   Level: B1
+  Form: verständlicher, am verständlichsten
   Meaning: understandable
   Cambridge: audible; comprehensible, intelligible; understandable; audibly; comprehensibly, intelligibly
   Wiki: understandable, comprehensible
@@ -26904,7 +27212,7 @@
   Form: versteht, verstand, hat verstanden
   Meaning: to understand
   Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
-  Wiki: to understand, comprehend, make sense of; to know, know how to, be good (with); to understand, take, see; to get along well (with=mit), to like; to understand each other, hear each other; to go without saying, to be obvious; to think of oneself (as something); to be an expert (at something)
+  Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
   Examples:
     - Können Sie mich verstehen?
     - Ich verstehe diese Aufgabe nicht.
@@ -27088,6 +27396,7 @@
 
 - Id: viel
   Level: A1
+  Form: mehr, am meisten
   Meaning: a lot
   Cambridge: a lot / lots of, much; a lot / lots of, many; many, all kinds/sorts of; a lot, much, lots; a lot, many, lots; a lot of / lots of / many (people); a lot; much, widely; much
   Wiki: much, a lot; much, a lot
@@ -27119,7 +27428,7 @@
   Form: '-'
   Meaning: quarter
   Cambridge: quarter; quarter, district; district; quarter note
-  Wiki: quarter, fourth; ; quarter, neighbourhood
+  Wiki: quarter, fourth; ; quarter, neighbourhood; one-quarter liter (250 milliliter) of a specified liquid, often used in recipes.; one-quarter liter (250 milliliter) of wine.
   Examples:
     - example1
 
@@ -27169,6 +27478,7 @@
 
 - Id: voll
   Level: B1
+  Form: voller, am vollsten
   Meaning: full, complete
   Cambridge: full; full of, covered with; full, whole; total; full of; thick; rich; fully; fully, completely; full-time; totally
   Wiki: full; filled; full; drunk; fully; very; quite; really
@@ -27195,6 +27505,7 @@
 
 - Id: völlig
   Level: B1
+  Form: völliger, am völligsten
   Meaning: complete, completely
   Cambridge: completely, totally; complete, total
   Wiki: complete, total, utter
@@ -27419,6 +27730,7 @@
 
 - Id: vorsichtig
   Level: B1
+  Form: vorsichtiger, am vorsichtigsten
   Meaning: carefully
   Cambridge: careful, cautious; carefully, cautiously
   Wiki: deliberate (not hasty or sudden); careful, cautious, wary, circumspect; carefully
@@ -27506,6 +27818,7 @@
 
 - Id: wach
   Level: B1
+  Form: wacher, am wachsten
   Meaning: awake
   Cambridge: awake; alert, sharp
   Wiki: awake
@@ -27535,7 +27848,7 @@
   Form: wählt, wählte, hat gewählt
   Meaning: to choose, vote
   Cambridge: to choose; to vote (for), to elect; to dial
-  Wiki: to choose, to select; to dial; to vote
+  Wiki: to choose, to select; to dial; to vote; to vote for
   Examples:
     - example1
 
@@ -27550,6 +27863,7 @@
 
 - Id: wahnsinnig
   Level: B1
+  Form: wahnsinniger, am wahnsinnigsten
   Meaning: insane, mad, incredibly
   Cambridge: mad, crazy; terrible; awesome, incredible; incredibly
   Wiki: mad, insane; incredible, unbelievable; incredibly, awfully
@@ -27558,6 +27872,7 @@
 
 - Id: wahr
   Level: A2
+  Form: wahrer, am wahrsten
   Meaning: true
   Cambridge: true; true, real
   Wiki: true, real; true, truthful
@@ -27586,6 +27901,7 @@
 
 - Id: wahrscheinlich
   Level: B1
+  Form: wahrscheinlicher, am wahrscheinlichsten
   Meaning: probably
   Cambridge: probable, likely; probably
   Wiki: likely, probable, plausible; probably, likely
@@ -27654,6 +27970,7 @@
 
 - Id: warm
   Level: A2
+  Form: wärmer, am wärmsten
   Meaning: warm
   Cambridge: warm; warmly; including heating
   Wiki: warm; mildly hot; warm; keeping the wearer warm; including heating costs, water, and fees (electricity may or may not be included); gay, homosexual (mostly male)
@@ -27845,6 +28162,7 @@
 
 - Id: weiblich
   Level: A1
+  Form: weiblicher, am weiblichsten
   Meaning: female
   Cambridge: female; feminine
   Wiki: female; feminine; feminine, womanly
@@ -27853,6 +28171,7 @@
 
 - Id: weich
   Level: B1
+  Form: weicher, am weichsten
   Meaning: soft
   Cambridge: soft; soft-boiled; soft-hearted; soft, gentle; smooth
   Wiki: soft
@@ -27903,6 +28222,7 @@
 
 - Id: weit
   Level: A1
+  Form: weiter, am weitesten
   Meaning: far
   Cambridge: long; far; extensive, vast; big; broad; away; far, long
   Wiki: wide; large; far, distant (of the past or future); (Denotes a certain point in time or in some process or schedule, or a certain stage of development.); far
@@ -27970,6 +28290,7 @@
 
 - Id: wenig
   Level: A1
+  Form: weniger, am wenigsten
   Meaning: little, a little
   Cambridge: little; a few
   Wiki: little, few
@@ -28016,7 +28337,7 @@
   Form: wird, wurde, ist geworden
   Meaning: to become
   Cambridge: to become, to get; to become; to turn, to be; to come, to be; will; to be; would; to hope; it’s time
-  Wiki: will; to be going (to do something);; to be done;; to become; to get; to grow; to turn; to begin or come to feel or experience (a condition); to be, to happen, to occur (in the future); to be going to work
+  Wiki: will; to be going (to do something);; would;; to be done;; to become; to get; to grow; to turn; to begin or come to feel or experience (a condition); to be, to happen, to occur (in the future); to be going to work
   Examples:
     - Mein Sohn will Arzt werden.
     - Das Wetter am Wochenende wird gut. Das haben sie im Radio gesagt.
@@ -28064,6 +28385,7 @@
 
 - Id: wert
   Level: B1
+  Form: werter, am wertesten
   Meaning: worth
   Wiki: worth something, worthy of something; worthy of someone; dear
   Examples:
@@ -28074,12 +28396,13 @@
   Form: -e
   Meaning: value
   Cambridge: value; asset; worth; quality
-  Wiki: worth; value
+  Wiki: value; worth, value; value
   Examples:
     - example1
 
 - Id: wertlos
   Level: B1
+  Form: wertloser, am wertlosesten
   Meaning: worthless
   Cambridge: worthless
   Wiki: worthless
@@ -28088,6 +28411,7 @@
 
 - Id: wertvoll
   Level: B1
+  Form: wertvoller, am wertvollsten
   Meaning: valuable
   Cambridge: valuable
   Wiki: valuable
@@ -28152,6 +28476,7 @@
 
 - Id: wichtig
   Level: A1
+  Form: wichtiger, am wichtigsten
   Meaning: important
   Cambridge: important
   Wiki: important, relevant, significant, weighty
@@ -28222,6 +28547,7 @@
 
 - Id: wild
   Level: B1
+  Form: wilder, am wildesten
   Meaning: wild
   Cambridge: wild; savage; wild, boisterous, furious; illegal, unauthorized, wildcat; unruly, wild; wildly
   Wiki: wild; strange
@@ -28254,6 +28580,7 @@
 
 - Id: willkommen
   Level: A1
+  Form: willkommener, am willkommensten
   Meaning: welcome
   Cambridge: welcome
   Wiki: welcome; welcome
@@ -28271,6 +28598,7 @@
 
 - Id: windig
   Level: B1
+  Form: windiger, am windigsten
   Meaning: windy
   Cambridge: windy; shady
   Wiki: windy; dodgy; dubious
@@ -28306,6 +28634,7 @@
 
 - Id: wirklich
   Level: A2
+  Form: wirklicher, am wirklichsten
   Meaning: really
   Cambridge: real; real, genuine, true; really
   Wiki: real; really, actually
@@ -28420,9 +28749,10 @@
 
 - Id: wohl
   Level: B1
+  Form: wohler, am wohlsten
   Meaning: well
   Cambridge: well; probably; used for emphasis and usually not translated
-  Wiki: possibly, probably; as I was told; of course, indeed; actually, somehow, quite; well, very well
+  Wiki: possibly, probably; as I was told; of course, indeed; actually, somehow, quite; well, very well; in response to a negative question or statement}} yes; surely; really; on the contrary
   Examples:
     - example1
 
@@ -28499,6 +28829,7 @@
 
 - Id: bewölkt
   Level: A2
+  Form: bewölkter, am bewölktesten
   Meaning: cloudy
   Cambridge: cloudy
   Wiki: cloudy (covered with or characterised by clouds)
@@ -28516,6 +28847,7 @@
 
 - Id: wollen
   Level: A1
+  Form: will, wollte, hat gewollt
   Meaning: to want
   Cambridge: to want; to want, would; would; to claim; to mean
   Wiki: wool; woolen, woollen; to want; to wish; to desire; to demand; to want (to do something); to intend, to mean
@@ -28581,6 +28913,7 @@
 
 - Id: wunderbar
   Level: A1
+  Form: wunderbarer, am wunderbarsten
   Meaning: wonderful, marvellous
   Cambridge: wonderful, marvelous; amazing; wonderfully, marvelously
   Wiki: wonderful
@@ -28589,6 +28922,7 @@
 
 - Id: wunderschön
   Level: B1
+  Form: wunderschöner, am wunderschönsten
   Meaning: beautiful
   Cambridge: absolutely beautiful; absolutely wonderful; absolutely beautifully
   Wiki: gorgeous, very beautiful
@@ -28634,6 +28968,7 @@
 
 - Id: wütend
   Level: B1
+  Form: wütender, am wütendsten
   Meaning: angry
   Cambridge: furious
   Wiki: furious; angry; angrily, furiously
@@ -28660,6 +28995,7 @@
 
 - Id: zahlreich
   Level: B1
+  Form: zahlreicher, am zahlreichsten
   Meaning: numerous
   Cambridge: numerous
   Wiki: numerous
@@ -28765,7 +29101,7 @@
   Form: zeigt, zeigte, hat gezeigt
   Meaning: to show, to point, to appear
   Cambridge: to show; to point; to appear
-  Wiki: to point at; to demonstrate, show, to go to show; to appear, become apparent, come out, turn out, show up, to be manifested
+  Wiki: to show, make see; to point at; to exhibit, allow to see; to display, manifest; to demonstrate, explain by doing; to go to show, demonstrate, prove; to appear, become apparent, come out, turn out, show up, to be manifested
   Examples:
     - 'Eine neue Studie zeigt: ...'
     - Können Sie mir bitte den Weg zum Bahnhof zeigen?
@@ -28851,6 +29187,7 @@
 
 - Id: zentral
   Level: B1
+  Form: zentraler, am zentralsten
   Meaning: central
   Cambridge: central; central, key
   Wiki: central; centrally
@@ -28940,6 +29277,7 @@
 
 - Id: ziemlich
   Level: B1
+  Form: ziemlicher, am ziemlichsten
   Meaning: fairly, rather
   Cambridge: quite, rather, fairly
   Wiki: pretty, quite, rather, fairly, kind of; pretty much, quite a bit
@@ -29094,6 +29432,7 @@
 
 - Id: zufrieden
   Level: A1
+  Form: zufriedener, am zufriedensten
   Meaning: satisfied
   Cambridge: satisfied, happy, pleased; contentedly, happily
   Wiki: content, satisfied
@@ -29111,6 +29450,7 @@
 
 - Id: zugänglich
   Level: B1
+  Form: zugänglicher, am zugänglichsten
   Meaning: accessible
   Cambridge: accessible; available; approachable
   Wiki: accessible, open, able to be factually or legally reached or accessed; amenable, open
@@ -29140,7 +29480,7 @@
   Form: (Sg.)
   Meaning: home, living premise
   Cambridge: home
-  Wiki: One’s living premises, home
+  Wiki: one’s living premises, home
   Examples:
     - Ich fühle mich hier wohl. Das ist mein Zuhause.
 
@@ -29398,6 +29738,7 @@
 
 - Id: zuverlässig
   Level: B1
+  Form: zuverlässiger, am zuverlässigsten
   Meaning: reliable
   Cambridge: reliable; reliably
   Wiki: reliable, dependable, trustworthy; steadily, staunchly
@@ -29426,7 +29767,7 @@
   Form: zweifelt, zweifelte, hat gezweifelt
   Meaning: to doubt
   Cambridge: to doubt, to have doubts
-  Wiki: to doubt, to be doubtful (an etwas = of something)
+  Wiki: to doubt, to be doubtful
   Examples:
     - example1
 
@@ -29647,6 +29988,7 @@
 
 - Id: gut (2)
   Level: M
+  Form: besser, am besten
   Meaning: good (2)
   Cambridge: good; good, reasonable; good, kind; B; well; well, quite; (a) good
   Wiki: good; good; good; good; all right, fair, proper; good; well; a little more than; easily, likely; okay, all right, now then
@@ -29655,6 +29997,7 @@
 
 - Id: befriedigend (3)
   Level: M
+  Form: befriedigender, am befriedigendsten
   Meaning: satisfactory (3)
   Cambridge: satisfactory; C
   Wiki: satisfying; the number grade 3 (on a scale from 1 to 6)
@@ -29663,6 +30006,7 @@
 
 - Id: ausreichend (4)
   Level: M
+  Form: ausreichender, am ausreichendsten
   Meaning: adequate (4)
   Cambridge: sufficient; D; enough
   Wiki: sufficient, enough, adequate; satisfactory; sufficiently, enough
@@ -29671,6 +30015,7 @@
 
 - Id: mangelhaft (5)
   Level: M
+  Form: mangelhafter, am mangelhaftesten
   Meaning: deficient (5)
   Cambridge: defective, faulty, poor; poor; poorly
   Wiki: defective
@@ -29679,6 +30024,7 @@
 
 - Id: ungenügend (6)
   Level: M
+  Form: ungenügender, am ungenügendsten
   Meaning: insufficient (6)
   Cambridge: inadequate; F; inadequately
   Wiki: insufficient, inadequate
@@ -29687,6 +30033,7 @@
 
 - Id: blau
   Level: M
+  Form: blauer, am blausten
   Meaning: blue
   Cambridge: blue; drunk
   Wiki: blue; drunk; bruised
@@ -29695,6 +30042,7 @@
 
 - Id: braun
   Level: M
+  Form: brauner, am braunsten
   Meaning: brown
   Cambridge: brown; fascist, Nazi
   Wiki: brown; tan (skin, due to sun exposure); of the Nazi party and organisations (due to the brown SA uniform); of the political right, especially the far right
@@ -29703,6 +30051,7 @@
 
 - Id: gelb
   Level: M
+  Form: gelber, am gelbsten
   Meaning: yellow
   Cambridge: yellow
   Wiki: yellow; of the FDP; blond
@@ -29711,6 +30060,7 @@
 
 - Id: grau
   Level: M
+  Form: grauer, am grausten
   Meaning: grey
   Cambridge: gray; dull, drab
   Wiki: grey, gray
@@ -29743,6 +30093,7 @@
 
 - Id: rot
   Level: M
+  Form: röter, am rötesten
   Meaning: red
   Cambridge: red; left-wing, socialist
   Wiki: red; red ; social democratic; socialist; communist; of the social democratic SPD or the more rigidly socialist Linke; red-haired; redskin; Native American; Indian
@@ -29751,6 +30102,7 @@
 
 - Id: schwarz
   Level: M
+  Form: schwärzer, am schwärzesten
   Meaning: black
   Cambridge: black; filthy; conservative, right-wing; illicit, illegal; black, dark; black, evil; illicitly, illegally
   Wiki: black, reflecting little or no light; illegal; black, having a high amount of melanin in an organ, e.g. the skin; of the CDU or CSU; without milk; not having won any trick (or only tricks with zero points); Goth
@@ -29767,6 +30119,7 @@
 
 - Id: weiß
   Level: M
+  Form: weißer, am weißesten
   Meaning: white
   Cambridge: white
   Wiki: 'white; ; '
@@ -29775,6 +30128,7 @@
 
 - Id: grün
   Level: M
+  Form: grüner, am grünsten
   Meaning: green
   Cambridge: green; unripe; green/Green
   Wiki: green (in colour); unripe; inexperienced, young; ecological, environment-friendly; of a green party, such as Bündnis 90/Die Grünen in Germany
@@ -29795,12 +30149,13 @@
   Form: (Sg.)
   Meaning: north
   Cambridge: north
-  Wiki: north (direction); north (region)
+  Wiki: 'north (direction); north (region); '
   Examples:
     - example1
 
 - Id: nördlich
   Level: M
+  Form: nördlicher, am nördlichsten
   Meaning: northern
   Cambridge: northern; northerly; northbound; north; (to the) north of
   Wiki: north, northern
@@ -29818,6 +30173,7 @@
 
 - Id: östlich
   Level: M
+  Form: östlicher, am östlichsten
   Meaning: eastern
   Cambridge: eastern; easterly; eastbound; east; (to the) east of
   Wiki: east, eastern
@@ -29835,6 +30191,7 @@
 
 - Id: südlich
   Level: M
+  Form: südlicher, am südlichsten
   Meaning: southern
   Cambridge: southern; southerly; southbound; south; (to the) south of
   Wiki: south, southern
@@ -29852,6 +30209,7 @@
 
 - Id: westlich
   Level: M
+  Form: westlicher, am westlichsten
   Meaning: western
   Cambridge: southern; westerly; westbound; Western; west; (to the) west of
   Wiki: west, western
@@ -29886,6 +30244,7 @@
 
 - Id: deutsch
   Level: M
+  Form: deutscher, am deutschesten
   Meaning: German (adj.)
   Cambridge: German; (in) German
   Wiki: German; German; German
@@ -29919,6 +30278,7 @@
 
 - Id: europäisch
   Level: M
+  Form: europäischer, am europäischsten
   Meaning: European (adj.)
   Cambridge: European
   Wiki: European
@@ -29950,6 +30310,7 @@
 
 - Id: griechisch
   Level: M
+  Form: griechischer, am griechischsten
   Meaning: Greek (adj.)
   Wiki: Grecian, Greek; from or related to Greece
   Examples:
@@ -29972,7 +30333,6 @@
   Level: M
   Form: '-'
   Meaning: Austrian (man)
-  Wiki: Austrian (person)
   Examples:
     - example1
 
@@ -29986,6 +30346,7 @@
 
 - Id: österreichisch
   Level: M
+  Form: österreichischer, am österreichischsten
   Meaning: Austrian (adj.)
   Wiki: Austrian
   Examples:
@@ -30011,6 +30372,7 @@
 
 - Id: schweizerisch
   Level: M
+  Form: schweizerischer, am schweizerischsten
   Synonym: Schweizer
   Meaning: Swiss (adj)
   Wiki: Swiss
@@ -30036,6 +30398,7 @@
 
 - Id: türkisch
   Level: M
+  Form: türkischer, am türkischsten
   Meaning: Turkish (adj)
   Wiki: Turkish, Turkic
   Examples:
@@ -30073,6 +30436,7 @@
 
 - Id: ukrainisch
   Level: M
+  Form: ukrainischer, am ukrainischsten
   Meaning: Ukrainian (adj.)
   Wiki: of Ukraine; Ukrainian
   Examples:
@@ -30165,6 +30529,7 @@
 
 - Id: demokratisch
   Level: M
+  Form: demokratischer, am demokratischsten
   Meaning: democratic
   Cambridge: democratic; democratically
   Wiki: democratic
@@ -30204,6 +30569,7 @@
 
 - Id: konservativ
   Level: M
+  Form: konservativer, am konservativsten
   Meaning: conservative
   Cambridge: conservative; conservatively
   Wiki: conservative
@@ -30212,6 +30578,7 @@
 
 - Id: liberal
   Level: M
+  Form: liberaler, am liberalsten
   Meaning: liberal
   Cambridge: liberal; Liberal; liberally
   Wiki: liberal; permissive; allowing personal freedoms; libertarian; liberal in the traditional sense
@@ -30470,6 +30837,7 @@
 
 - Id: der Franken
   Level: M
+  Form: (Sg.)
   Meaning: Swiss franc
   Cambridge: Swiss franc
   Wiki: Francia; franc (Swiss currency)
@@ -30625,6 +30993,7 @@
 
 - Id: sieben
   Level: M
+  Form: siebt, siebte, hat gesiebt
   Meaning: 7
   Cambridge: to sieve, to strain, to sift; to sift through; seven
   Wiki: seven; to sift; to sieve
@@ -31658,7 +32027,7 @@
   Form: (Sg.)
   Meaning: shit
   Cambridge: shit, crap
-  Wiki: feces, shit; something worthless, shit; nothing, jack shit, fuck all
+  Wiki: faeces, shit; something worthless, shit; nothing, jack shit, fuck all
   Examples:
     - Wo ich hintrete nur Scheiße!
 
@@ -31795,7 +32164,7 @@
   Form: räumt ein, räumte ein, hat eingeräumt
   Meaning: to store things; to grant, concede, admit
   Cambridge: to put (away); to fill; to admit, to concede; to grant
-  Wiki: to grant, concede, admit
+  Wiki: to grant, concede, admit; to put, to place
   Examples:
     - Räumst du die Teller in den Küchenschrank ein?
     - Wir wollen zu zweit das Zimmer einräumen.
@@ -31904,7 +32273,7 @@
   Form: saugt, saugte, hat gesaugt
   Meaning: to suck
   Cambridge: to suck; to suck up, to absorb; to vacuum
-  Wiki: to suck; to create underpressure with a tube-like object such as one's mouth; to suck (something); to download something; to vacuum
+  Wiki: to suck; to suck (something); (colloquial); to download something, especially illegally; to suck
   Examples:
     - Das Kalb sog heftig am Euter.
 
@@ -31946,6 +32315,7 @@
 
 - Id: gebrochen
   Level: K
+  Form: gebrochener, am gebrochensten
   Meaning: broken (physically)
   Cambridge: broken; crushed, broken
   Wiki: broken; fractional; blackletter
@@ -32252,7 +32622,7 @@
   Form: -e
   Meaning: commissioner
   Cambridge: police officer corresponding to lieutenant
-  Wiki: commissioner
+  Wiki: commissioner; title of a police officer at the beginning of the upper service
   Examples:
     - Ein Kommissar verwaltete vorübergehend das Gebiet.
 
@@ -32347,6 +32717,7 @@
 
 - Id: vehement
   Level: 20
+  Form: vehementer, am vehementesten
   Meaning: showing strong feelings; passionate; forceful or intense
   Cambridge: vehement; vehemently
   Wiki: vehement
