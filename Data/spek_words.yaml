@@ -20,7 +20,7 @@
   Cambridge: century
   Wiki: a century
   Examples:
-    - example1
+    - Das letzte Jahrhundert hat viele Kriege gesehen.
 
 - Id: aussehen
   Level: A1
@@ -51,6 +51,8 @@
   Meaning: Middle Ages
   Cambridge: Middle Ages
   Wiki: Middle Ages; middle age; Middle-aged person or persons.
+  Examples:
+    - Das Schloss Neuschwanstein sieht aus wie ein Schloss aus dem Mittelalter.
 
 - Id: der Auftrag
   Level: A1
@@ -138,24 +140,33 @@
   Meaning: distant
   Cambridge: away; distant, remote; distant; vague; distantly
   Wiki: distant; (with a spatial or temporal measure) away
+  Examples:
+    - Das Haus ist von hier ungefähr 3 Stunden entfernt.
 
 - Id: das Wahrzeichen
   Form: '-'
   Meaning: landmark
   Cambridge: symbol, most famous landmark
   Wiki: landmark; emblem, symbol
+  Examples:
+    - Der Dom ist das Wahrzeichen von Köln.
 
 - Id: die Festung
   Form: -en
-  Meaning: fortress, fortification
+  Meaning: fortress
   Cambridge: fortress, stronghold
   Wiki: fortress, fortification
+  Examples:
+    - Die Festung war uneinnehmbar.
+    - Die Festung Hohensalzburg ist alt.
 
 - Id: mittelalterlich
   Form: mittelalterlicher, am mittelalterlichsten
   Meaning: medieval
   Cambridge: medieval
   Wiki: medieval
+  Examples:
+    - Auf diesem Bild sehen wir ein mittelalterliches Dorffest.
 
 - Id: die Burg
   Level: B1
@@ -183,27 +194,37 @@
   Cambridge: absolutely beautiful; absolutely wonderful; absolutely beautifully
   Wiki: gorgeous, very beautiful
   Examples:
-    - example1
+    - Wir haben einen Ausflug gemacht. Es
+      war wunderschön.
+    - Ich habe mir ein wunderschönes Kleid
+      gekauft.
 
 - Id: die Altstadt
   Form: ä-e
-  Meaning: historic city center, old town
+  Meaning: old town
   Cambridge: old town, historic city center
   Wiki: historic city center, old town
+  Examples:
+    - In der Altstadt von Prag gibt es Gebäude aus dem 14. Jahrhundert.
 
 - Id: sowie
   Meaning: as well as
   Cambridge: and, as well as; as soon as
   Wiki: as well as; as soon as
+  Examples:
+    - Im Gepäck waren Zelte, Schlafsäcke sowie Proviant.
 
 - Id: verschieden
-  Level: B1
+  Level: A2
   Form: verschiedner, am verschiedensten
   Meaning: different
   Cambridge: different; various, several
   Wiki: 'deceased; different (: from); several, various; differently'
   Examples:
-    - example1
+    - Unsere beiden Kinder sind sehr
+      verschieden.
+    - Wir haben dieses Kleid in verschiedenen Farben.
+    -  Ich habe diese Schuhe in verschiedenen Farben.
 
 - Id: der Bürger
   Level: B1
@@ -219,9 +240,14 @@
 
 - Id: der Komponist
   Form: -en
+  Feminine:
+    Id: die Komponistin
+    Form: -nen
   Meaning: composer
   Cambridge: composer
   Wiki: composer
+  Examples:
+    - Mozart und Beethoven waren bekannte Komponisten.
 
 - Id: das Geschäft
   Level: A1
@@ -248,11 +274,13 @@
   Meaning: ball
   Cambridge: ball; sphere; bullet, cannonball; shot
   Wiki: ball; bullet, projectile; round, cartridge, bullet; orb, globe, celestial body; sphere, orb; roundel; scoop
+  Examples:
+    - Die Sonne ist eine feurig rote Kugel.
 
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
-  Meaning: to lie (place/ location)
+  Meaning: to lie (place, location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
   Examples:
@@ -272,7 +300,7 @@
   Cambridge: southern; southerly; southbound; south; (to the) south of
   Wiki: south, southern
   Examples:
-    - example1
+    - Der Berg liegt südlich von München.
 
 - Id: die Grenze
   Level: B1
@@ -289,19 +317,23 @@
   Cambridge: annual, yearly; annually, a/per year
   Wiki: annual, yearly; annually
   Examples:
-    - example1
+    - Er freute sich auf das jährlich stattfindende Volksfest.
 
 - Id: die Seilbahn
   Form: -en
   Meaning: cable car, aerial tramway, gondola lift, ropeway conveyor
   Cambridge: cableway, aerial tramway
   Wiki: cable car, aerial tramway, gondola lift, ropeway conveyor
+  Examples:
+    - Man kann mit Seilbahnen auf den Gipfel fahren.
 
 - Id: der Gipfel
   Form: '-'
   Meaning: peak, pinnacle
   Cambridge: summit, peak; peak; summit
   Wiki: peak, pinnacle; summit
+  Examples:
+    - Man kann mit Seilbahnen auf den Gipfel fahren.
 
 - Id: die Aussicht
   Level: B1
@@ -336,11 +368,13 @@
   Meaning: meteorological
   Cambridge: meteorological
   Wiki: meteorological
+  Examples:
+    - Es gibt eine meteorologische Station auf dem Gipfel.
 
 - Id: die Anlage
   Level: B1
   Form: -n
-  Meaning: attachment
+  Meaning: device; attachment; facility; garden 
   Cambridge: facility; plant, works; equipment; investment; laying out, construction; layout; enclosure
   Wiki: public green area, site, park, garden; (area or building) plant, facility, installation; device, system, rig; music centre; annex, appendix; asset; disposition
   Examples:
@@ -352,6 +386,9 @@
   Meaning: broadcasting
   Cambridge: radio, broadcasting
   Wiki: broadcasting; radio
+  Examples:
+    - Der Rundfunk wurde vor rund 100 Jahren zu technischer Reife gebracht.
+    - Beim analogen Rundfunk werden Bild‑ und Tonsignale elektromagnetisch aufgezeichnet und übertragen.
 
 - Id: durchschnittlich
   Level: B1
