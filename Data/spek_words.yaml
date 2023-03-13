@@ -1,4 +1,6 @@
 # goethe/words
+- Id: der Ausflugsziel
+
 - Id: das Schloss
   Level: A2
   Form: ö-er
@@ -10,6 +12,451 @@
     - An unserer Tür ist das Schloss kaputt.
     - An unserer Wohnungstür ist das Schloss kaputt.
     - Wir haben am Wochenende ein Schloss besichtigt
+
+- Id: das Jahrhundert
+  Level: M
+  Form: -e
+  Meaning: century
+  Cambridge: century
+  Wiki: a century
+  Examples:
+    - example1
+
+- Id: aussehen
+  Level: A1
+  Form: sieht aus, sah aus, hat ausgesehen
+  Meaning: to seem, appear, look
+  Cambridge: to look
+  Wiki: to look, seem (/ like); to look good or bad;; to look for; to watch out for; to look for and find; to pick; to select
+  Examples:
+    - Das sieht schön aus.
+    - Wie sieht er aus? - Groß und blond.
+    - Sie sieht wie ihre Mutter aus.
+    - Das Kleid sieht hübsch aus.
+    - Sie sehen wieder besser aus. Sind Sie wieder gesund?
+    - Er sieht genauso aus wie sein Vater.
+    - Es sieht so aus, als ob es bald regnen würde.
+
+- Id: das Märchen
+  Level: B1
+  Form: '-'
+  Meaning: fairytale
+  Cambridge: fairy tale; story
+  Wiki: fairy tale; fairy tale
+  Examples:
+    - Meine Großmutter hat uns viele Märchen erzählt.
+
+- Id: das Mittelalter
+  Form: (Sg.)
+  Meaning: Middle Ages
+  Cambridge: Middle Ages
+  Wiki: Middle Ages; middle age; Middle-aged person or persons.
+
+- Id: der Auftrag
+  Level: A1
+  Form: ä-e
+  Meaning: order, commission, mission
+  Cambridge: task, job; order, contract
+  Wiki: assignment, job, mission; order, instructions
+  Examples:
+    - Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.
+    - Im Moment hat die Firma besonders viele Aufträge.
+
+- Id: die Kosten
+  Level: B1
+  Form: (Pl.)
+  Meaning: costs
+  Cambridge: costs, cost
+  Wiki: costs
+  Examples:
+    - Die Kosten für die Reise bekomme ich von der Firma.
+
+- Id: der Bau
+  Level: B1
+  Form: -ten
+  Meaning: construction, building
+  Cambridge: building, construction; construction; building, structure; pen, can, joint; den, burrow
+  Wiki: building, construction; building site, construction site; building, construction, edifice; burrow; prison, jail
+  Examples:
+    - Ich wohne in einer Neubauwohnung.
+    - Unser Haus ist ein Altbau.
+
+- Id: extrem
+  Level: B1
+  Form: extremer, am extremsten
+  Meaning: extreme
+  Cambridge: extreme; extremely
+  Wiki: extreme; extremely
+  Examples:
+    - Die Prüfung war extrem schwer.
+
+- Id: selbst
+  Level: A2
+  Meaning: self
+  Cambridge: myself/yourself/himself etc.; itself; home-; even
+  Wiki: personally, by oneself; even
+  Examples:
+    - Du musst mir nicht helfen, ich mache das selbst.
+    - Den Kuchen habe ich selbst gebacken.
+
+- Id: der Tod
+  Level: B1
+  Form: -e
+  Meaning: death
+  Cambridge: death
+  Wiki: death
+  Examples:
+    - Ich habe ihn vor seinem Tod noch einmal gesehen.
+
+- Id: die Schulden
+  Level: B1
+  Form: (Pl.)
+  Meaning: debts
+  Wiki: debt
+  Examples:
+    - Jetzt habe ich alle meine Schulden bezahlt.
+
+- Id: das Hauptwerk
+
+- Id: der Historizismus
+
+- Id: knapp
+  Level: B1
+  Form: knapper, am knappsten
+  Meaning: tight, scarce, short, just
+  Cambridge: meagre, scarce; tight; brief, concise; almost; close; barely; shortly; tightly; briefly; closely
+  Wiki: scarce; lean; somewhat less (than); short or tight; a close call, a narrow escape; narrowly, just, barely; somewhat less than, almost
+  Examples:
+    - Mach schnell. Die Zeit ist knapp.
+    - Unser Geld wird knapp. Wir müssen sparen.
+    - Die Fahrt war kurz. Nur knapp eine Stunde.
+    - Die Wohnung hat nur knapp 30 m².
+    - Der Tisch hat nur knapp 50 Euro gekostet.
+
+- Id: entfernt
+  Form: entfernter, am entferntesten
+  Meaning: distant
+  Cambridge: away; distant, remote; distant; vague; distantly
+  Wiki: distant; (with a spatial or temporal measure) away
+
+- Id: das Wahrzeichen
+  Form: '-'
+  Meaning: landmark
+  Cambridge: symbol, most famous landmark
+  Wiki: landmark; emblem, symbol
+
+- Id: die Festung
+  Form: -en
+  Meaning: fortress, fortification
+  Cambridge: fortress, stronghold
+  Wiki: fortress, fortification
+
+- Id: mittelalterlich
+  Form: mittelalterlicher, am mittelalterlichsten
+  Meaning: medieval
+  Cambridge: medieval
+  Wiki: medieval
+
+- Id: die Burg
+  Level: B1
+  Form: -en
+  Meaning: castle
+  Cambridge: castle
+  Wiki: castle, fortification; beaver lodge; sandcastle
+  Examples:
+    - Von der Burg hat man eine schöne Aussicht.
+
+- Id: außerdem
+  Level: A2
+  Meaning: besides, in addition
+  Cambridge: besides
+  Wiki: in addition; furthermore, besides
+  Examples:
+    - Vier Brötchen, möchten Sie außerdem noch etwas?
+    - Möchten Sie außerdem noch etwas?
+    - Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt.
+
+- Id: wunderschön
+  Level: B1
+  Form: wunderschöner, am wunderschönsten
+  Meaning: beautiful
+  Cambridge: absolutely beautiful; absolutely wonderful; absolutely beautifully
+  Wiki: gorgeous, very beautiful
+  Examples:
+    - example1
+
+- Id: die Altstadt
+  Form: ä-e
+  Meaning: historic city center, old town
+  Cambridge: old town, historic city center
+  Wiki: historic city center, old town
+
+- Id: sowie
+  Meaning: as well as
+  Cambridge: and, as well as; as soon as
+  Wiki: as well as; as soon as
+
+- Id: verschieden
+  Level: B1
+  Form: verschiedner, am verschiedensten
+  Meaning: different
+  Cambridge: different; various, several
+  Wiki: 'deceased; different (: from); several, various; differently'
+  Examples:
+    - example1
+
+- Id: der Bürger
+  Level: B1
+  Form: '-'
+  Feminine:
+    Id: die Bürgerin
+    Form: -nen
+  Meaning: citizen
+  Cambridge: citizen; commoner, middle class
+  Wiki: citizen, inhabitant, resident; legally recognized inhabitant of a city or state; bourgeois, burgher, member of the middle class; burgher, freeman, usually richer and/or more influential than a peasant/worker but poorer and/or less influential than a nobleman
+  Examples:
+    - EU-Bürgerinnen und Bürger können überall in Europa arbeiten.
+
+- Id: der Komponist
+  Form: -en
+  Meaning: composer
+  Cambridge: composer
+  Wiki: composer
+
+- Id: das Geschäft
+  Level: A1
+  Form: -e
+  Meaning: business, shop
+  Cambridge: store; business; deal, trade
+  Wiki: shop; store; business; business activity; transaction
+  Examples:
+    - Die Geschäfte schließen um 18.30 Uhr.
+    - Wissen Sie, wo hier ein Schuhgeschäft ist?
+
+- Id: berühmt
+  Level: A2
+  Form: berühmter, am berühmtesten
+  Meaning: famous
+  Cambridge: famous
+  Wiki: famous, well-known, renowned, celebrated, noted
+  Examples:
+    - Thomas Müller ist ein berühmter Fußballspieler.
+    - Michael Schumacher ist ein berühmter Rennfahrer.
+
+- Id: die Kugel
+  Form: -n
+  Meaning: ball
+  Cambridge: ball; sphere; bullet, cannonball; shot
+  Wiki: ball; bullet, projectile; round, cartridge, bullet; orb, globe, celestial body; sphere, orb; roundel; scoop
+
+- Id: liegen
+  Level: A1
+  Form: liegt, lag, hat gelegen
+  Meaning: to lie (place/ location)
+  Cambridge: to lie; to lie, to be
+  Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
+  Examples:
+    - Englisch liegt auf Platz 1.
+    - Der Brief liegt schon auf Ihrem Schreibtisch.
+    - Judith liegt noch im Bett.
+    - Er liegt schon seit drei Wochen im Krankenhaus.
+    - Frankfurt liegt am Main.
+    - In den Bergen liegt schon Schnee.
+    - Um neun Uhr liegt Judith noch im Bett.
+    - Die Zeitung liegt auf dem Tisch. Judith liegt noch im Bett.
+
+- Id: südlich
+  Level: M
+  Form: südlicher, am südlichsten
+  Meaning: southern
+  Cambridge: southern; southerly; southbound; south; (to the) south of
+  Wiki: south, southern
+  Examples:
+    - example1
+
+- Id: die Grenze
+  Level: B1
+  Form: -n
+  Meaning: border
+  Cambridge: border; frontier, edge; mark, threshold
+  Wiki: border; limit; frontier; boundary
+  Examples:
+    - An der Grenze musst du deinen Ausweis zeigen.
+
+- Id: jährlich
+  Level: M
+  Meaning: yearly
+  Cambridge: annual, yearly; annually, a/per year
+  Wiki: annual, yearly; annually
+  Examples:
+    - example1
+
+- Id: die Seilbahn
+  Form: -en
+  Meaning: cable car, aerial tramway, gondola lift, ropeway conveyor
+  Cambridge: cableway, aerial tramway
+  Wiki: cable car, aerial tramway, gondola lift, ropeway conveyor
+
+- Id: der Gipfel
+  Form: '-'
+  Meaning: peak, pinnacle
+  Cambridge: summit, peak; peak; summit
+  Wiki: peak, pinnacle; summit
+
+- Id: die Aussicht
+  Level: B1
+  Form: -en
+  Meaning: view, perspective
+  Cambridge: view; prospect
+  Wiki: scenery, view, outlook
+  Examples:
+    - Von diesem Turm hat man eine tolle Aussicht.
+    - Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf.
+
+- Id: das Tal
+  Level: B1
+  Form: ä-er
+  Meaning: valley
+  Cambridge: valley
+  Wiki: valley
+  Examples:
+    - Unser Dorf liegt in einem Tal.
+
+- Id: genießen
+  Level: B1
+  Form: genießt, genoss, hat genossen
+  Meaning: to taste, enjoy
+  Cambridge: to enjoy, to savor; to enjoy, to have; to have, to receive
+  Wiki: to enjoy (an experience); to relish; to savor; to have (food or beverage), to eat, to drink; to receive; to have
+  Examples:
+    - Er kann das Essen leider nicht genießen, weil es zu scharf ist.
+    - Sie hat eine gute Ausbildung genossen.
+
+- Id: meteorologisch
+  Meaning: meteorological
+  Cambridge: meteorological
+  Wiki: meteorological
+
+- Id: die Anlage
+  Level: B1
+  Form: -n
+  Meaning: attachment
+  Cambridge: facility; plant, works; equipment; investment; laying out, construction; layout; enclosure
+  Wiki: public green area, site, park, garden; (area or building) plant, facility, installation; device, system, rig; music centre; annex, appendix; asset; disposition
+  Examples:
+    - Meine Musikanlage ist kaputt.
+    - In der Anlage der E-Mail finden Sie meinen Lebenslauf.
+
+- Id: der Rundfunk
+  Form: (Sg.)
+  Meaning: broadcasting
+  Cambridge: radio, broadcasting
+  Wiki: broadcasting; radio
+
+- Id: durchschnittlich
+  Level: B1
+  Form: durchschnittlicher, am durchschnittlichsten
+  Meaning: average, on average
+  Cambridge: average; on average
+  Wiki: average, ordinary, mean, medium; on average
+  Examples:
+    - Die Preise sind im letzten Jahr um durchschnittlich 6% gestiegen.
+
+- Id: die Temperatur
+  Level: B1
+  Form: -en
+  Meaning: temperature
+  Cambridge: temperature
+  Wiki: temperature
+  Examples:
+    - Die Temperaturen steigen heute um 10 Grad.
+
+- Id: betragen
+  Form: beträgt, betrug, hat betragen
+  Meaning: to amount to; to behave (oneself)
+  Cambridge: to be, to amount to; to behave
+  Wiki: to amount to, to be; to behave
+  Examples:
+    - Der Preis beträgt nicht einmal 100 Euro, sondern nur 99 Euro und 95 Cent.
+    - In diesem Hause betrage er sich.
+
+- Id: tragen
+  Level: A2
+  Form: trägt, trug, hat getragen
+  Meaning: to carry, wear
+  Cambridge: to carry, to take; to wear; to hold; to have; to support; to take the weight (of); to bear (fruit); to bear, to have; to bear, to pay; to bear; to bear, to endure
+  Wiki: to carry, to bear (something on one's person); to wear (clothing); to bear, to carry (responsibility, blame, a name, a title, etc.); to bear, to (have to) pay (for) (costs, expenses, losses, etc.); to produce, to bear, to yield; to wear (clothing, jewelry); to support, to maintain; to pay for itself
+  Examples:
+    - Ich kann den Koffer nicht tragen, er ist zu schwer.
+    - Er trägt heute einen blauen Anzug.
+
+- Id: beliebt
+  Level: A2
+  Form: beliebter, am beliebtesten
+  Meaning: popular
+  Cambridge: popular
+  Wiki: popular; admired
+  Examples:
+    - Fußball ist bei vielen Menschen beliebt.
+    - Dieses Spiel ist bei Jugendlichen sehr beliebt.
+
+- Id: die Hütte
+  Level: B1
+  Form: -n
+  Meaning: hut
+  Cambridge: hut, shack; cabin, lodge; foundry, steelworks
+  Wiki: hut, cabin, shack, cottage; metalworks, ironworks; (informal)
+  Examples:
+    - Wir übernachten in der Hütte auf dem Berg.
+
+- Id: bieten
+  Level: B1
+  Form: bietet, bot, hat geboten
+  Meaning: to offer
+  Cambridge: to bid; to offer; to offer, to provide; to present itself; to show, to perform
+  Wiki: to offer; to present; to bid; to offer to pay a certain price; to arise; to occur
+  Examples:
+    - Er hat mir für den alten Wagen noch 800 Euro geboten.
+    - Die Firma bietet ihren Mitarbeitern die Möglichkeit, Sprachkurse zu besuchen.
+
+- Id: die Möglichkeit
+  Level: B1
+  Form: -en
+  Meaning: possibility
+  Cambridge: opportunity, chance; possibility; option, way; means
+  Wiki: possibility, likelihood; option, choice
+  Examples:
+    - Sie wollen ans Meer? Da gibt es mehrere Möglichkeiten.
+
+- Id: die Übernachtung
+  Level: B1
+  Form: -en
+  Meaning: sleep over, stay
+  Cambridge: overnight stay
+  Wiki: overnight stay (at a hotel etc.); sleepover
+  Examples:
+    - In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro.
+
+- Id: der Berg
+  Level: A2
+  Form: -e
+  Meaning: mountain
+  Cambridge: mountain; mountains; mountain, huge pile
+  Wiki: a mountain, hill; , as of the composer Alban Berg
+  Examples:
+    - Die Zugspitze ist der höchste Berg in Deutschland.
+    - Wir fahren am Wochenende in die Berge.
+    - Wir fahren jeden Sonntag in die Berge.
+    - Auf dem Berg haben wir ein Picknick gemacht.
+
+- Id: das Gebirge
+  Level: B1
+  Form: '-'
+  Meaning: a group of mountains
+  Cambridge: mountains
+  Wiki: a group of mountains, mountain range, mountains; geographical area containing mountains
+  Examples:
+    - Wir haben unseren Urlaub im Gebirge verbracht.
 
 - Id: der Vogel
   Level: M
@@ -253,7 +700,7 @@
   Form: gibt aus, gab aus, hat ausgegeben
   Meaning: to spend
   Cambridge: to spend; to give out; to issue
-  Wiki: to spend, to expend; to pay out; to issue; to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
+  Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
   Examples:
     - Agata gibt viel Geld für Bücher aus.
     - Ich möchte nicht so viel Geld ausgeben.
@@ -407,6 +854,7 @@
 
 - Id: billig
   Level: A1
+  Form: billiger, am billigsten
   Meaning: cheap
   Cambridge: cheap; cheap, tacky
   Wiki: appropriate, meet, fair; cheap; cheap
@@ -417,6 +865,7 @@
 
 - Id: schlecht
   Level: A1
+  Form: schlechter, am schlechtesten
   Meaning: bad (-t)
   Cambridge: bad, poor; bad; no good; bad, wicked; badly, poorly; badly; with difficulty; hardly
   Wiki: bad, evil, wicked; bad; bad; bad; bad, off; dirty; badly, poorly, not well; with difficulty, not easily
@@ -437,6 +886,7 @@
 
 - Id: frisch
   Level: A2
+  Form: frischer, am frischesten
   Meaning: fresh
   Cambridge: fresh; fresh, clean; fresh, crisp; freshly
   Wiki: fresh; recent
@@ -447,6 +897,7 @@
 
 - Id: teuer
   Level: A1
+  Form: teurer, am teuersten
   Meaning: expensive
   Cambridge: expensive; dear; expensively
   Wiki: dear; expensive
@@ -456,6 +907,7 @@
 
 - Id: dunkel
   Level: A2
+  Form: dunkler, am dunkelsten
   Meaning: dark
   Cambridge: dark; deep; vague; shady; vaguely
   Wiki: dark; deep; vague, faint
@@ -466,6 +918,7 @@
 
 - Id: warm
   Level: A2
+  Form: wärmer, am wärmsten
   Meaning: warm
   Cambridge: warm; warmly; including heating
   Wiki: warm; mildly hot; warm; keeping the wearer warm; including heating costs, water, and fees (electricity may or may not be included); gay, homosexual (mostly male)
@@ -479,6 +932,7 @@
 
 - Id: groß
   Level: A1
+  Form: größer, am größten
   Meaning: big
   Cambridge: big, large; big, tall, in size; large, big; great; long; grown up; big; capital, upper-case; large; particularly
   Wiki: big, large, large-scale; great, grand; tall; pertaining to defecation
@@ -494,6 +948,7 @@
 
 - Id: jung
   Level: A1
+  Form: jünger, am jüngsten
   Meaning: young
   Cambridge: young
   Wiki: young
@@ -508,6 +963,7 @@
 
 - Id: gut
   Level: A1
+  Form: besser, am besten
   Meaning: good
   Cambridge: good; good, reasonable; good, kind; B; well; well, quite; (a) good
   Wiki: good; good; good; good; all right, fair, proper; good; well; a little more than; easily, likely; okay, all right, now then
@@ -529,6 +985,7 @@
 
 - Id: viel
   Level: A1
+  Form: mehr, am meisten
   Meaning: a lot
   Cambridge: a lot / lots of, much; a lot / lots of, many; many, all kinds/sorts of; a lot, much, lots; a lot, many, lots; a lot of / lots of / many (people); a lot; much, widely; much
   Wiki: much, a lot; much, a lot
@@ -543,6 +1000,7 @@
 
 - Id: gern
   Level: A1
+  Form: lieber, am liebsten
   Meaning: gladly
   Cambridge: with pleasure; gladly; used with verbs to express that the speaker would like to do something; often
   Wiki: willingly; gladly; with pleasure;; much; a lot; easily; often; (Used to indicate a preference.)
@@ -555,6 +1013,7 @@
 
 - Id: hoch
   Level: A1
+  Form: höher, am höchsten
   Meaning: high
   Cambridge: high, tall; high; high, top; high, deep; highly; to the power of
   Wiki: high, tall; high, great, immense; grand, important; up, upwards; northwards; to the power of
@@ -567,7 +1026,17 @@
 
 - Id: nah
   Level: B1
+  Form: näher, am nächsten
   Meaning: near
   Wiki: near (in space or time or in an abstract sense), close, nearby; near (in space or time or in an abstract sense)
   Examples:
     - Wie weit ist es zum Bahnhof? - Das ist ganz nah, nur zwei Minuten von hier.
+
+- Id: gemeinsam
+  Level: B1
+  Meaning: together
+  Cambridge: common; joint, mutual, group; together
+  Wiki: common, mutual, shared; together, jointly
+  Examples:
+    - Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.
+    - Wir benutzen die Garage gemeinsam mit dem Nachbarn.
