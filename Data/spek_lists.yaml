@@ -266,7 +266,63 @@
 
 - Id: SpekA2
   Words:
+    # P31
+    - der Ausflugsziel
     - das Schloss
+    - das Jahrhundert
+    - aussehen
+    - das Märchen
+    - das Mittelalter
+    - der Auftrag
+    - die Kosten
+    - der Bau
+    - extrem
+    - selbst
+    - der Tod
+    - die Schulden
+    - das Hauptwerk
+    - der Historizismus
+    - knapp
+    - entfernt
+    - das Wahrzeichen
+    - die Festung
+    - mittelalterlich
+    - die Burg
+    - außerdem
+    - wunderschön
+    - die Altstadt
+    - sowie
+    - verschieden
+    - der Bürger
+    - der Komponist
+    - das Geschäft
+    - berühmt
+    - die Kugel
+    - liegen
+    - südlich
+    - die Grenze
+    - jährlich
+    - die Seilbahn
+    - der Gipfel
+    - die Aussicht
+    - das Tal
+    - genießen
+    - meteorologisch
+    - die Anlage
+    - der Rundfunk
+    - durchschnittlich
+    - die Temperatur
+    - betragen
+    - tragen
+    - beliebt
+    - die Hütte
+    - bieten
+    - die Möglichkeit
+    - die Übernachtung
+    # P32
+    - der Berg
+    - das Gebirge
+    # P41
     - der Vogel
     - die Katze
     - der Hund
@@ -287,6 +343,7 @@
     - die Maus
     - der Bär
     - der Wal
+    # P48-49
     - besichtigen
     - kennenlernen
     - probieren
@@ -319,6 +376,11 @@
     - hoch
     - nah
 
+- Id: SpekA2+
+  Words:
+    # P31
+    - gemeinsam
+
 - Id: Eigennamen
   Words:
     - Tschenchien
@@ -326,3 +388,5 @@
     - Athen
     - Schweden
     - Österreich
+    - die Zugspitze
+    - der Alp
