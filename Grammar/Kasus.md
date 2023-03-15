@@ -49,8 +49,6 @@ Note that **zu** and **bei** always want Dativ as mentioned above.
 
 ## Artikeldeklinationen
 
-Article Transformations
-
 ### Nominativ
 
 | Artikel     | Maskulin | Nuetral | Feminin | Plural |
@@ -60,8 +58,9 @@ Article Transformations
 | negativer   | kein     | kein    | keine   | keine  |
 | possessiv   | mein     | mein    | meine   | meine  |
 
-
 ### Akkusativ
+
+End with `-en` for Maskulin, no change for others.
 
 | Artikel     | Maskulin (+en) | Nuetral | Feminin | Plural |
 | ----------- | -------------- | ------- | ------- | ------ |
@@ -72,14 +71,14 @@ Article Transformations
 
 ### Dativ
 
+End with `-em` for Maskulin and Neutral, `-er` for Feminin, `-en` for Plural.
+
+If the noun's plural ends with **-r**, **-e**, or **-l**, add **+n** for Dativ. (den Fahrräder**n**, den Bilder**n**, den Leute**n**, den Zweifel**n**). Or, only **-a** and **-s** noun plurals don't need to add an extra **+n**.
+
 | Artikel     | Maskulin (+em) | Nuetral (+em) | Feminin (+er) | Plural (+en) |
 | ----------- | -------------- | ------------- | ------------- | ------------ |
 | bestimmte   | **dem**        | **dem**       | **der**       | **den**      |
 | unbestimmte | ein**em**      | ein**em**     | ein**er**     | -            |
 | negativer   | kein**em**     | kein**em**    | kein**er**    | kein**en**   |
 | possessiv   | mein**em**     | mein**em**    | mein**er**    | mein**en**   |
-
-> If the noun's plural ends with **-r**, **-e**, or **-l**, add **+n** for Dativ. Example: den Fahrräder**n**, den Bilder**n**, den Leute**n**, den Zweifel**n**.
->
-> Or, only **-a** and **-s** noun plurals don't need to add an extra **+n**.
 
