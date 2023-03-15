@@ -1,5 +1,6 @@
 # goethe/words
 - Id: der Ausflugsziel
+  Form: -e
 
 - Id: das Schloss
   Level: A2
@@ -119,8 +120,10 @@
     - Jetzt habe ich alle meine Schulden bezahlt.
 
 - Id: das Hauptwerk
+  Form: -e
 
 - Id: der Historizismus
+  Form: Historizismen
 
 - Id: knapp
   Level: B1
