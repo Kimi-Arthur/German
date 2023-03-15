@@ -989,7 +989,7 @@
 - Id: die Anlage
   Level: B1
   Form: -n
-  Meaning: attachment
+  Meaning: device; attachment; facility; garden
   Cambridge: facility; plant, works; equipment; investment; laying out, construction; layout; enclosure
   Wiki: public green area, site, park, garden; (area or building) plant, facility, installation; device, system, rig; music centre; annex, appendix; asset; disposition
   Examples:
@@ -3339,6 +3339,7 @@
 
 - Id: bekannt geben
   Level: B1
+  Form: gibt bekannt, gab bekannt, hat bekannt gegeben
   Meaning: to announce
   Examples:
     - Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt.
@@ -5077,6 +5078,7 @@
 
 - Id: chic
   Level: B1
+  Form: chicer, am chicsten
   Meaning: stylish (c-)
   Cambridge: chic, smart; smartly
   Examples:
@@ -18974,6 +18976,7 @@
 
 - Id: der Personalcomputer
   Level: A2
+  Form: '-'
   Abbreviation:
     Id: der PC
     Form: -s
@@ -19011,6 +19014,7 @@
 
 - Id: der Personenstand
   Level: B1
+  Form: (Sg.)
   Meaning: marital status
   Examples:
     - example1
@@ -23321,6 +23325,7 @@
 
 - Id: stark
   Level: A2
+  Form: stärker, am stärksten
   Meaning: strong
   Cambridge: strong, powerful; strong; thick, stout; well-built; powerful; intense, strong; big, sizeable; thick; heavy, hearty; awesome; strong, irregular; very, greatly
   Examples:
@@ -23484,6 +23489,7 @@
 
 - Id: stehen bleiben
   Level: B1
+  Form: bleibt stehen, blieb stehen, ist stehen geblieben
   Meaning: to stay
   Examples:
     - Bitte bleiben Sie stehen.
@@ -27112,13 +27118,15 @@
     - example1
 
 - Id: verschieden
-  Level: B1
+  Level: A2
   Form: verschiedner, am verschiedensten
   Meaning: different
   Cambridge: different; various, several
   Wiki: 'deceased; different (: from); several, various; differently'
   Examples:
-    - example1
+    - Unsere beiden Kinder sind sehr verschieden.
+    - Wir haben dieses Kleid in verschiedenen Farben.
+    - Ich habe diese Schuhe in verschiedenen Farben.
 
 - Id: verschreiben
   Level: B1
@@ -28928,7 +28936,8 @@
   Cambridge: absolutely beautiful; absolutely wonderful; absolutely beautifully
   Wiki: gorgeous, very beautiful
   Examples:
-    - example1
+    - Wir haben einen Ausflug gemacht. Es war wunderschön.
+    - Ich habe mir ein wunderschönes Kleid gekauft.
 
 - Id: sich wundern
   Level: B1
@@ -30197,7 +30206,7 @@
   Cambridge: southern; southerly; southbound; south; (to the) south of
   Wiki: south, southern
   Examples:
-    - example1
+    - Der Berg liegt südlich von München.
 
 - Id: der Westen
   Level: M
@@ -30326,6 +30335,7 @@
 
 - Id: Österreich
   Level: M
+  Form: (Sg.)
   Meaning: Austria
   Examples:
     - example1
@@ -30382,6 +30392,7 @@
 
 - Id: die Türkei
   Level: M
+  Form: (Sg.)
   Meaning: Turkey
   Examples:
     - Ankara ist die Hauptstadt der Türkei.
@@ -30497,6 +30508,7 @@
 
 - Id: Bundesrepublik Deutschland
   Level: M
+  Form: (Sg.)
   Meaning: German Federal Republic
   Examples:
     - example1
@@ -31909,7 +31921,7 @@
   Cambridge: annual, yearly; annually, a/per year
   Wiki: annual, yearly; annually
   Examples:
-    - example1
+    - Er freute sich auf das jährlich stattfindende Volksfest.
 
 - Id: das Jahrzehnt
   Level: M
@@ -31927,7 +31939,7 @@
   Cambridge: century
   Wiki: a century
   Examples:
-    - example1
+    - Das letzte Jahrhundert hat viele Kriege gesehen.
 
 - Id: das Jahrtausend
   Level: M
@@ -32051,6 +32063,7 @@
 
 - Id: die Kopiermaschine
   Level: K
+  Form: -n
   Meaning: copy machine
   Examples:
     - Ich habe eine Kopiermaschine.
@@ -32426,6 +32439,7 @@
 
 - Id: das Solarauto
   Level: K
+  Form: -s
   Meaning: solar car
   Examples:
     - Nach 37 Stunden reiner Fahrzeit erreichte das niederländische Solarauto "Nuna 9" als erstes das Ziel.
