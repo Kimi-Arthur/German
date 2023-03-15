@@ -1,6 +1,9 @@
 # goethe/words
 - Id: der Ausflugsziel
   Form: -e
+  Meaning: short trip destination
+  Examples:
+    - Der Zürichsee ist ein gutes Ausflugsziel.
 
 - Id: das Schloss
   Level: A2
@@ -121,9 +124,15 @@
 
 - Id: das Hauptwerk
   Form: -e
+  Meaning: main work
+  Examples:
+    - Neuschwanstein ist ein Hauptwerk des Historizismus.
 
 - Id: der Historizismus
   Form: Historizismen
+  Meaning: use of historical styles in contemporary art
+  Examples:
+    - Neuschwanstein ist ein Hauptwerk des Historizismus.
 
 - Id: knapp
   Level: B1
