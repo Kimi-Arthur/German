@@ -1,4 +1,1559 @@
 # goethe/words
+- Id: fotografieren
+  Level: A2
+  Form: fotografiert, fotografierte, hat fotografiert
+  Meaning: to photograph
+  Cambridge: to photograph, to take a photo / photos
+  Wiki: to photograph
+  Examples:
+    - Viktor fotografiert gern.
+    - Ich fotografiere gern.
+
+- Id: glauben
+  Level: A1
+  Form: glaubt, glaubte, hat geglaubt
+  Meaning: to believe
+  Cambridge: to believe; to think
+  Wiki: to believe something; to believe in; to believe someone; to think, to believe
+  Examples:
+    - Ich glaube, Rom ist in Italien.
+    - Sie können mir glauben, es ist so.
+    - Ich glaube, er kommt gleich.
+    - Ich glaube, der Chef ist heute nicht im Büro.
+    - Er glaubt mir nicht, dass ich schon um 8 Uhr hier war.
+    - Glaubst du an Zufälle?
+
+- Id: heißen
+  Level: A1
+  Form: heißt, hieß, hat geheißen
+  Meaning: to be called
+  Cambridge: to be called; to mean; they say (that), it’s rumored (that); it says; it’s time to …, it’s important …, the watchword is …
+  Wiki: to have a name; to be named; to be called;; to mean, to signify; to have a meaning; to say, to be said; to go, run (like); to call (someone something); to order, to direct, to call to do something
+  Examples:
+    - Wie heißt du?
+    - Ich heiße Charlotte Meier.
+    - Wie heißen Sie?
+    - Wie heißt das auf Deutsch?
+    - Die Erklärung verstehe ich nicht. Was heißt das?
+
+- Id: hören
+  Level: A1
+  Form: hört, hörte, hat gehört
+  Meaning: to hear
+  Cambridge: to hear; to listen to; to listen
+  Wiki: to hear; to listen to, pay attention to; to attend, to go to, to sit in on; to get, to receive; to listen; to hear; to hear
+  Examples:
+    - Ich höre gern Musik.
+    - Hör mal! Was ist das?
+    - Ich habe das Lied schon mal gehört.
+    - Ich kann nicht mehr so gut hören.
+    - Ich höre jeden Tag die Nachrichten.
+    - Dieses Wort habe ich noch nie gehört.
+    - Ich habe gehört, dass Herr Müller im Krankenhaus liegt.
+
+- Id: kochen
+  Level: A1
+  Form: kocht, kochte, hat gekocht
+  Meaning: to cook
+  Cambridge: to cook; to boil; to make
+  Wiki: to cook, to prepare food (chiefly hot food for lunch or supper); to boil; (intransitive, of a liquid) (to reach the boiling point); (transitive) (to heat a liquid until it boils); (transitive) (to prepare something in such a liquid); to be stirred up or agitated, especially with anger
+  Examples:
+    - Tiago kocht gern.
+    - Herr Georgi kann gut kochen.
+    - Ich koche gern.
+    - Das Wasser kocht.
+    - Der Reis muss etwa 20 Minuten kochen.
+
+- Id: kommen
+  Level: A1
+  Form: kommt, kam, ist gekommen
+  Meaning: to come
+  Cambridge: to come; to get; to come about; to come, to be; to go; to leave; to be on
+  Wiki: to come; to arrive; to come to; to come over; to get; to make it; to go to; to be put in; to come on (Used to encourage someone to do something.); to occur; to happen; to come to be; to be played (of a song or film); to be due to; to be the result of; to come from; to orgasm; to cum; to be statistically equivalent to; to be there for; to obtain (a solution or result); to get an idea; to think of; to remember; to imagine; to lose; to forfeit; not to get; to touch inadvertently; to manage to reach (something high up etc.); to turn out (well)
+  Examples:
+    - Wir kommen aus Schweden.
+    - Woher kommen Sie? - Aus Frankreich.
+    - Kommst du mit ins Schwimmbad?
+    - Er wird bald kommen.
+    - Wir gehen heute Abend ins Konzert. Kommen Sie auch?
+    - Kommen Sie doch mal wieder zu uns.
+    - Wenn Sie mal nach Köln kommen, besuchen Sie uns.
+    - Steffi kommt im Herbst in die Schule.
+    - Die Straßenbahn muss gleich kommen.
+    - Wer kommt als Nächster dran?
+    - Die Handtücher kommen in den Schrank.
+    - Wie sind Sie denn auf diese Idee gekommen?
+
+- Id: lernen
+  Level: A1
+  Form: lernt, lernte, hat gelernt
+  Meaning: to learn
+  Cambridge: to learn; to study, to learn
+  Wiki: to learn; to study; to train to become something; to teach
+  Examples:
+    - Martina lernt gern Sprachen.
+    - Wie lange lernen Sie schon Deutsch?
+
+- Id: machen
+  Level: A1
+  Form: macht, machte, hat gemacht
+  Meaning: to make, do
+  Cambridge: to do; to make; to make, to create; to do, to make, to carry out; to be, to make
+  Wiki: to make, produce, create (an object, arrangement, situation, etc.); to make, prepare; to do, perform, carry out; to do;; to go; to make; to cause; to make; to make; to make; to come to, total, cost; to make, be; to make; to be, play; to matter; to make, make oneself out to be, act, play; to do one's business, do number two or number one, go; to do; to look; to get cracking ( (“on,” “with”)), get a move on (it), to get down ( (“to”)) (something); come on, let's go
+  Examples:
+    - Was machst du gern?
+    - Was machst du heute Abend?
+    - Ich muss jetzt das Essen machen.
+    - Das macht 5 Euro 95.
+    - Das macht nichts.
+    - Was machst du am Wochenende?
+    - Ich habe die Betten noch nicht gemacht.
+    - Soll ich dir die Suppe noch einmal warm machen?
+    - Meine Arbeit macht mir viel Spaß.
+    - Mach dir bitte keine Sorgen.
+    - Was würden Sie an meiner Stelle machen?
+    - Tut mir leid. Die Küche hat schon geschlossen. - Da kann man nichts machen.
+    - Entschuldigung! - Das macht doch nichts.
+    - Das macht zusammen 20 Euro.
+
+- Id: sagen
+  Level: A1
+  Form: sagt, sagte, hat gesagt
+  Meaning: to say
+  Cambridge: to say; to tell; to call
+  Wiki: to say; to tell; to mean; to speak up
+  Examples:
+    - Die Österreicher sagen Servus.
+    - Sag mal, wie geht es dir denn?
+    - Entschuldigung, was haben Sie gesagt?
+    - Wie sagt man „sorry“ auf Deutsch?
+    - Sag mal, wie geht es dir denn?
+    - Können Sie mir bitte sagen, wo hier ein Geldautomat ist?
+
+- Id: schwimmen
+  Level: A1
+  Form: schwimmt, schwamm, hat geschwommen
+  Meaning: to swim
+  Cambridge: to swim; to float; to be flooded
+  Wiki: to swim; to swim; to swim (a certain distance); to transport by floating; to float, to be floating; to float (somewhere), to move (somewhere) by floating; to be doused or covered in liquid; to be swimming in (money, etc.); to be moving in a blurry or indistinct fashion, to swim (in someone's vision); to lose control (of a situation)
+  Examples:
+    - Lara und Anna schwimmen gern.
+    - Ich schwimme jeden Tag einen Kilometer.
+    - Ich gehe regelmäßig schwimmen.
+    - Kannst du schwimmen?
+
+- Id: sein
+  Level: A1
+  Form: ist, war, ist gewesen
+  Meaning: to be
+  Cambridge: to be; to be, to come; to be, to happen, to exist; to have; his, its, her; his, its, hers
+  Wiki: to be; to feel,; to feel like, to be in the mood for; (auxiliary) (forms the present perfect and past perfect tenses of certain intransitive verbs); to exist; there to be; to be alive; to have the next turn (in a game, in a queue, etc.); to be "it"; to be the tagger in a game of tag; (archaic); (archaic)
+  Examples:
+    - Ich bin Peter.
+    - Herr Müller ist in seinem Zimmer.
+    - Mir ist kalt.
+    - Ich bin dreiundzwanzig.
+    - Das sind meine Kollegen.
+    - Ich bin Mechaniker.
+    - Die Cola ist kalt.
+    - Um halb elf ist Pause.
+    - Frau Berger ist im Urlaub.
+    - Ich bin müde.
+    - Das Auto ist jetzt fünfzehn Jahre alt.
+    - Heute ist Montag.
+    - Der Termin beim Zahnarzt ist erst übermorgen.
+    - Um 11 Uhr ist Pause.
+    - Herr Müller ist in seinem Zimmer.
+    - Das Auto ist mir zu teuer.
+    - Das ist schwer zu verstehen.
+    - 'Mit Präposition wie: Das Licht ist an/aus.'
+
+- Id: spielen
+  Level: A1
+  Form: spielt, spielte, hat gespielt
+  Meaning: to play
+  Cambridge: to play; to gamble; to play, to act; to perform; to be set; to be on/playing
+  Wiki: to play; to play, to engage in (a game, a sport, etc.); to play, to perform (a piece of music, a role in theater or a movie); to play, to listen to (a radio, a recording, etc.); to play, to perform on (a musical instrument); to act like, to behave like; to take place , to be set (in a particular time or place; of fiction)
+  Examples:
+    - Spielst du gern Fußball?
+    - Die Kinder spielen draußen.
+    - Spielen Sie Karten?
+    - Jakob spielt Klavier.
+    - Wir haben einen großen Garten, da können die Kinder spielen.
+    - Am Sonntag spielen wir gegen die Fußballmannschaft der Nachbarschule.
+    - Spielen Sie ein Instrument?
+
+- Id: sprechen
+  Level: A1
+  Form: spricht, sprach, hat gesprochen
+  Meaning: to speak, talk
+  Cambridge: to speak; to talk; to say, to pronounce; to point (to)
+  Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
+  Examples:
+    - Ich spreche Spanisch.
+    - Kann ich (mit) Herrn Klein sprechen?
+    - Können Sie bitte etwas lauter sprechen?
+    - Jean spricht sehr gut Deutsch.
+    - Ich möchte nicht darüber sprechen.
+    - Die Bundeskanzlerin spricht heute Abend im Fernsehen.
+
+- Id: tanzen
+  Level: A1
+  Form: tanzt, tanzte, hat getanzt
+  Meaning: to dance
+  Cambridge: to dance
+  Wiki: to dance
+  Examples:
+    - Dora und Lili tanzen gern.
+    - Tanzen Sie gern?
+    - Auf der Hochzeit haben wir viel getanzt.
+
+- Id: wohnen
+  Level: A1
+  Form: wohnt, wohnte, hat gewohnt
+  Meaning: to live
+  Cambridge: to live; to stay
+  Wiki: to live, reside, dwell; to stay
+  Examples:
+    - Max wohnt in Graz.
+    - Ich wohne in München.
+    - Wir wohnen in einem alten Haus
+    - Wohnst du noch bei deinen Eltern?
+
+- Id: zeigen
+  Level: A2
+  Form: zeigt, zeigte, hat gezeigt
+  Meaning: to show, to point, to appear
+  Cambridge: to show; to point; to appear
+  Wiki: to show, make see; to point at; to exhibit, allow to see; to display, manifest; to demonstrate, explain by doing; to go to show, demonstrate, prove; to appear, become apparent, come out, turn out, show up, to be manifested
+  Examples:
+    - 'Eine neue Studie zeigt: ...'
+    - Können Sie mir bitte den Weg zum Bahnhof zeigen?
+    - Zeig mir bitte deine Hausaufgaben.
+    - Der Bahnhof ist nicht weit entfernt. Ich zeige Ihnen den Weg.
+    - Komm her! Ich zeige dir etwas.
+
+- Id: aus
+  Level: A1
+  Meaning: out of, from
+  Cambridge: used to express the starting point of a movement, out of, from; used to express the origin of sth/sb, from; used to express the material sth is made of, made of; used to express a development, from; used to express the reason for sth, for, out of; used to express the chronological beginning of sth, from; off; out; finished; out (of play)
+  Wiki: out; over; finished; done; up; off; out of; from; from; of; made of; out of; for; out of
+  Examples:
+    - Ich komme aus Schweden.
+    - Er kommt aus Brasilien.
+    - Michele kommt aus Brasilien.
+    - Frau Müller geht immer um acht Uhr aus dem Haus.
+    - Der Tisch ist aus Glas.
+    - Ich sehe nichts. Das Licht ist aus.
+    - Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.
+    - Frau Özgen kommt aus der Türkei.
+    - Die Möbel sind noch aus der Zeit um 1900.
+    - Ich trage nur Pullover aus reiner Wolle.
+    - Wir haben aus Liebe geheiratet.
+    - Wann ist der Kurs aus?
+    - Ich seh' nichts! Das Licht ist aus!
+
+- Id: in
+  Level: A1
+  Meaning: in, into
+  Cambridge: in; into, to; into; used to describe how something is done; used in set phrases with nouns and translated by the appropriate preposition
+  Wiki: in, inside, within, at (inside a building); in; in, at, by (at the end of or during a period of time); into, to (going inside (of)); (dated); in, popular (in fashion)
+  Examples:
+    - Ich wohne in Kóln.
+    - Ich wohne in Wiesbaden.
+    - Der Zug kommt in fünf Minuten.
+    - Frau Rausch arbeitet in einem Geschäft.
+    - Komm, wir gehen ins Kino.
+    - Meine Wohnung ist im dritten Stock.
+    - Wollen wir heute ins Einkaufszentrum gehen?
+    - Rufen Sie bitte in fünf Minuten noch einmal an.
+    - Im Mai war ich in Urlaub.
+    - Wir sind in einer schwierigen Lage.
+    - Meine Tochter kommt nächstes Jahr ins Gymnasium.
+
+- Id: gern
+  Level: A1
+  Form: lieber, am liebsten
+  Meaning: gladly
+  Cambridge: with pleasure; gladly; used with verbs to express that the speaker would like to do something; often
+  Wiki: willingly; gladly; with pleasure;; much; a lot; easily; often; (Used to indicate a preference.)
+  Examples:
+    - Ich spiele gern Fußball.
+    - Ich gehe gerne einkaufen.
+    - Ich helfe Ihnen gern.
+    - Kaffee oder Tee? - Ich trinke lieber einen Tee.
+    - Am liebsten trinke ich Kaffee.
+
+- Id: nicht
+  Level: A1
+  Meaning: not, don't
+  Cambridge: not; don’t you think?; the things
+  Wiki: not, non-; right?; is it?; is it not?
+  Examples:
+    - Ich koche nicht so gern.
+    - Das stimmt nicht.
+    - Das ist doch schön, nicht?
+    - Ich kann morgen leider nicht kommen.
+    - Lisa wohnt nicht in Hamburg, sie wohnt in Bremen.
+    - Zigarette? - Danke, ich rauche nicht.
+    - Wie geht es dir? - Nicht so gut.
+    - Das Essen in der Kantine ist gar nicht schlecht.
+    - Du kommst immer zu spät! - Das stimmt nicht.
+
+- Id: und
+  Level: A1
+  Meaning: and
+  Cambridge: and
+  Wiki: and; (colloquial) (links two nouns, often a person and an activity, in rhetoric questions to express an opposition between them); so?, now?, and?
+  Examples:
+    - Ich spreche Englisch und Französisch.
+    - Peter und Helmut sind meine Söhne.
+    - Ich habe heute und morgen frei.
+    - Ich kaufe ein und mein Mann kocht.
+
+- Id: oder
+  Level: A1
+  Meaning: or
+  Cambridge: or; didn’t you/he/she/we/they?, isn’t it?, aren’t they?
+  Wiki: or; right?; is it?; is it not?
+  Examples:
+    - Man sagt in Ósterreich Servus oder Tschüss.
+    - Wann können Sie kommen - Heute oder morgen?
+    - Entweder fahren wir mit dem Bus oder wir gehen zu Fuß.
+    - Möchten Sie Kaffee oder Tee?
+
+- Id: gut
+  Level: A1
+  Form: besser, am besten
+  Meaning: good
+  Cambridge: good; good, reasonable; good, kind; B; well; well, quite; (a) good
+  Wiki: good; good; good; good; all right, fair, proper; good; well; a little more than; easily, likely; okay, all right, now then
+  Examples:
+    - Das finde ich gut.
+    - Ich komme um 13 Uhr. - Gut!
+    - Guten Morgen!
+    - Ein gutes neues Jahr!
+    - Guten Appetit!
+    - Welches Bild gefällt dir besser?
+    - Dieses Kleid finde ich am besten.
+    - Ich kenne ein gutes Lokal.
+    - Maria kann gut tanzen.
+    - Ich glaube, die Wurst ist nicht mehr gut.
+    - Mir ist heute gar nicht gut.
+    - Wir hatten im Urlaub gutes Wetter.
+    - Heute ist das Wetter wieder besser.
+    - Christine ist meine beste Freundin.
+
+- Id: der Morgen
+  Level: M
+  Form: '-'
+  Meaning: morning
+  Cambridge: morning
+  Wiki: morning; morgen ; acre , a quarter of a hectare; east; tomorrow; the future
+  Examples:
+    - Es wird schon Morgen.
+
+- Id: der Tag
+  Level: M
+  Form: -e
+  Meaning: day
+  Cambridge: day; days; period
+  Wiki: day; day; day; day, daylight; day, daylight, light; light; day; day; convention, congress; see Tage for plural-only senses; hello; (good) day
+  Examples:
+    - Wir müssen fertig werden, solange es noch Tag ist.
+
+- Id: hallo
+  Level: A1
+  Meaning: hello
+  Cambridge: hello, hi; hello
+  Wiki: hello (a general greeting used when meeting somebody)
+  Examples:
+    - Hallo Inge! Wie geht's?
+    - Hallo, wie geht's? - Danke, gut, und dir?
+
+- Id: der Abend
+  Level: M
+  Form: -e
+  Meaning: evening
+  Cambridge: evening; evening, soirée
+  Wiki: evening; the time from dusk onwards (unlike in English, now generally including the first hours of the night, until midnight); The west
+  Examples:
+    - Gegen Abend werden wir uns sehen.
+
+- Id: die Nacht
+  Level: M
+  Form: ä-e
+  Meaning: night
+  Cambridge: night
+  Wiki: night; darkness
+  Examples:
+    - Ich habe die ganze Nacht kein Auge zugetan.
+
+- Id: das Wiedersehen
+  Form: '-'
+  Meaning: reunion; seeing again; instance of seeing someone or each other again
+  Cambridge: reunion
+  Wiki: reunion; seeing again; instance of seeing someone or each other again
+  Examples:
+    - Ich freue mich auf unser Wiedersehen.
+
+- Id: tschüss
+  Level: A1
+  Meaning: bye
+  Wiki: bye, cheers, ciao
+  Examples:
+    - Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
+    - Tschüs, bis morgen!
+
+- Id: bitte
+  Level: A1
+  Meaning: please
+  Cambridge: please; you’re welcome, sure; there you are/go; okay
+  Wiki: please, if you please; you're welcome; excuse me, sorry; here you are; OK then, well then, all right
+  Examples:
+    - Eine Tasse Kaffee, bitte!
+    - Sprechen Sie bitte leise!
+    - Bitte schön!
+    - Wie bitte? Was haben Sie gesagt?
+    - Sprechen Sie bitte ein bisschen lauter!
+    - Sprechen Sie bitte langsam.
+
+- Id: danke
+  Level: A1
+  Meaning: thanks, thank you
+  Cambridge: thanks; no, thanks
+  Wiki: thanks, thank you
+  Examples:
+    - Soll ich Ihnen helfen? - Sehr freundlich, ja danke!
+    - Soll ich Ihnen helfen? Nein, danke, nicht nötig.
+    - Guten Appetit! - Danke gleichfalls.
+
+- Id: der Appetit
+  Level: A1
+  Form: (Sg.)
+  Meaning: appetite
+  Cambridge: appetite
+  Wiki: appetite
+  Examples:
+    - Guten Appetit!
+    - Ich habe heute keinen Appetit. Ich mag nichts essen.
+    - Auf was hast du Appetit? Vielleicht auf einen Salat?
+
+- Id: der Künstler
+  Level: B1
+  Form: '-'
+  Feminine:
+    Id: die Künstlerin
+    Form: -nen
+  Meaning: artist
+  Cambridge: artist; master
+  Wiki: artist
+  Examples:
+    - In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin.
+
+- Id: malen
+  Level: A2
+  Form: malt, malte, hat gemalt
+  Meaning: to draw
+  Cambridge: to paint; to draw; to write carefully
+  Wiki: to paint; to paint; to draw, depict (with a pencil, computer program, etc.)
+  Examples:
+    - Ein Künstler malt Bilder.
+    - Mein Sohn kann gut malen.
+    - Das Bild hat mein Vater gemalt.
+
+- Id: das Bild
+  Level: A1
+  Form: -er
+  Meaning: picture
+  Cambridge: picture, drawing; picture, photo; picture; sight, scene; metaphor
+  Wiki: image; picture; painting; photo; image; image
+  Examples:
+    - Hast du ein Bild von deinem Sohn?
+    - Ein Bild von meinen Kindern hängt über meinem Schreibtisch.
+
+- Id: der Kellner
+  Level: A2
+  Form: '-'
+  Synonym: = (D, A) Ober = (CH) Serviceangestellter
+  Feminine:
+    Id: die Kellnerin
+    Form: -nen
+  Meaning: waiter
+  Cambridge: waiter, waitress
+  Wiki: waiter
+  Examples:
+    - Ich bin Kellnerin von Beruf.
+
+- Id: bedienen
+  Level: B1
+  Form: bedient, bediente, hat bedient
+  Meaning: to serve, operate (b-)
+  Cambridge: to serve, to wait tables; to serve; to wait on; to operate; to help yourself
+  Wiki: to serve; to operate; to play a card according to the grouping of the first card of a trick; to follow suit; to help oneself (to); to use
+  Examples:
+    - Sabine bedient Gäste.
+    - Werden Sie schon bedient?
+    - Die Kaffeemaschine ist ganz leicht zu bedienen.
+
+- Id: der Gast
+  Level: A1
+  Form: ä-e
+  Meaning: guest
+  Cambridge: guest; visitor; visitors, visiting team
+  Wiki: guest
+  Examples:
+    - Am Wochenende haben wir mehrere Gäste.
+    - Heute Abend haben wir Gäste.
+    - Der Gast hat sich über das Essen beschwert.
+
+- Id: der Arzt
+  Level: A1
+  Form: Ä-e
+  Feminine:
+    Id: die Ärztin
+    Form: -nen
+  Meaning: doctor (A-)
+  Cambridge: doctor
+  Wiki: doctor, physician
+  Examples:
+    - Morgen habe ich einen Termin bei meiner Ärztin.
+    - Ich muss heute zum Arzt.
+    - Wann warst du beim Zahnarzt?
+
+- Id: untersuchen
+  Level: A2
+  Form: untersucht, untersuchte, hat untersucht
+  Meaning: to examine, investigate
+  Cambridge: to examine; to test; to investigate; to investigate, to examine
+  Wiki: to examine, investigate
+  Examples:
+    - Dr. Klein untersucht Patienten.
+    - Der Arzt hat mich untersucht.
+    - Der Arzt muss dein Bein untersuchen.
+    - Sie sollten sich vom Arzt untersuchen lassen.
+
+- Id: der Patient
+  Level: B1
+  Form: -en
+  Feminine:
+    Id: die Patientin
+    Form: -nen
+  Meaning: patient
+  Cambridge: patient
+  Wiki: patient (male or of unspecified sex or female)
+  Examples:
+    - Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.
+
+- Id: der Informatiker
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Informatikerin
+    Form: -nen
+  Meaning: computer scientist, information technician
+  Cambridge: computer scientist
+  Wiki: computer scientist, person who has studied computer science; information technician, person specialized in information technology / information science
+  Examples:
+    - Die Suchmaschine Google wurde von zwei Informatikern entwickelt.
+
+- Id: entwickeln
+  Level: B1
+  Form: entwickelt, entwickelte, hat entwickelt
+  Meaning: to develop
+  Cambridge: to develop; to develop, to unfold, to pan out
+  Wiki: to develop, to gain (strength, a skill, a talent, an ability, etc.; slowly, often by natural growth or practice); to develop; to shape up
+  Examples:
+    - Paul entwickelt Computerspiele.
+    - Unser Sohn entwickelt sich gut in der Schule.
+    - Die Firma hat ein neues Produkt entwickelt.
+
+- Id: das Computerspiel
+  Form: -e
+  Meaning: computer game
+  Wiki: computer game
+  Examples:
+    - Computerspiele werden immer wieder zu Unrecht wegen ihrer Gewaltdarstellung kritisiert.
+
+- Id: der Lehrer
+  Level: A1
+  Form: '-'
+  Feminine:
+    Id: die Lehrerin
+    Form: -nen
+  Meaning: teacher
+  Cambridge: teacher
+  Wiki: ': one who teaches, teacher, instructor, especially a school teacher'
+  Examples:
+    - Unsere Deutschlehrerin heißt Frau Müller.
+    - Die Lehrerin hat heute viele Hausaufgaben gegeben.
+
+- Id: unterrichten
+  Level: B1
+  Form: unterrichtet, unterrichtete, hat unterrichtet
+  Meaning: to teach
+  Cambridge: to teach; to inform
+  Wiki: to teach, to school; to inform
+  Examples:
+    - Frau Keller unterrichtet Kinder.
+    - Meine Frau unterrichtet Spanisch.
+
+- Id: das Kind
+  Level: A1
+  Form: -er
+  Meaning: child
+  Cambridge: child; child, baby
+  Wiki: kid; child; child; offspring
+  Examples:
+    - Wie viele Kinder haben Sie?
+    - Mein Bruder hat zwei Kinder.
+    - Wir haben ein Kind bekommen.
+    - Die Kinder spielen Fußball.
+
+- Id: arbeiten
+  Level: A1
+  Form: arbeitet, arbeitete, hat gearbeitet
+  Meaning: to work
+  Cambridge: to work
+  Wiki: to work; to work, function, run, operate; to ferment; to work, execute; to make, produce; to do, perform; to work oneself (to); to work one's way; to work (translated by rephrasing to use a general “you” or with the gerund, “working”)
+  Examples:
+    - Ben arbeitet als Kommissar bei der Polizei.
+    - Wo arbeiten Sie?
+    - Ich arbeite als Krankenschwester in einem Krankenhaus.
+    - Er arbeitet heute bis 16 Uhr.
+    - Arzu arbeitet als Krankenschwester im Krankenhaus.
+
+- Id: als
+  Level: A2
+  Meaning: when, as, than
+  Cambridge: when; than; as if; as (a)
+  Wiki: at (approximately) the same moment; when; while; as; than; as; like; in the function of; in the form of; as if; but, other than
+  Examples:
+    - Peter arbeitet als Manager.
+    - Hector ist jünger als seine Schwester
+    - Sie arbeitet als Krankenschwester.
+    - Als mein Mann kam, war die Party schon zu Ende.
+    - Sie können sich sowohl persönlich als auch im Internet anmelden.
+    - Meine Schwester ist älter als ich.
+    - Es ist später, als ich dachte.
+
+- Id: der Assistent
+  Level: K
+  Form: -en
+  Feminine:
+    Id: die Assistentin
+    Form: -nen
+  Meaning: assistant
+  Cambridge: assistant
+  Wiki: assistant
+  Examples:
+    - Dem Hochschulprofessor wurden zwei Assistenten zur Seite gestellt.
+
+- Id: schreiben
+  Level: A1
+  Form: schreibt, schrieb, hat geschrieben
+  Meaning: to write
+  Cambridge: to write; to write (to); to get; to be spelled
+  Wiki: to write, to write out; to spell; to write; to write; to be some year or date; to write, to text; to write to each other; to be spelled/spelt;
+  Examples:
+    - Die Assistentin schreibt viele E-Mails.
+    - Er schreibt jeden Tag fünfzig E-Mails.
+    - Ich schreibe dir eine E-Mail.
+    - Ich habe dir einen Brief geschrieben.
+    - Mein Kugelschreiber schreibt nicht mehr.
+
+- Id: der Student
+  Level: A1
+  Form: -en
+  Feminine:
+    Id: die Studentin
+    Form: -nen
+  Meaning: student
+  Cambridge: student
+  Wiki: student
+  Examples:
+    - Ich bin Studentin.
+    - Schüler und Studenten zahlen die Hälfte.
+
+- Id: lesen
+  Level: A1
+  Form: liest, las, hat gelesen
+  Meaning: to read
+  Cambridge: to read; to read (aloud); to harvest; to gather (up)
+  Wiki: to read (look at and understand symbols, words, or data); to select and gather or harvest (things like grapes)
+  Examples:
+    - Knut liest viele Bücher.
+    - Ich lese ein Buch von García Márquez.
+    - In der Schule lesen wir ein Buch von Goethe.
+    - Ich habe gelesen, dass es ab heute Sonderangebote gibt.
+    - Deine Schrift kann ich nicht gut lesen.
+    - In der Schule lesen wir ein Buch von Goethe.
+
+- Id: das Buch
+  Level: A1
+  Form: ü-er
+  Meaning: book
+  Cambridge: book; books
+  Wiki: book; books; omasum, the third compartment of the stomach of a ruminant; either of two municipalities in the Rhineland-Palatinate, Germany
+  Examples:
+    - Gute Bücher sind oft sehr teuer.
+    - In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
+    - Was kostet das Buch, bitte?
+    - Haben Sie ein Buch über die Geschichte von Berlin?
+
+- Id: der Herr
+  Level: A1
+  Form: -en
+  Meaning: man, gentleman
+  Cambridge: gentleman; Mr.; lord, master; Lord
+  Wiki: man, gentleman (polite term); sir (title of respect); Mr., mister, sir; gentleman; master, lord; the lowest title of German nobility; Lord, God
+  Examples:
+    - Guten Tag, Herr Sommer!
+    - Da ist ein Herr, der möchte Sie sprechen.
+
+- Id: der Architekt
+  Level: B1
+  Form: -en
+  Feminine:
+    Id: die Architektin
+    Form: -nen
+  Meaning: architect
+  Cambridge: architect
+  Wiki: architect
+  Examples:
+    - Dieses Haus hat eine berühmte Architektin gebaut.
+
+- Id: präsentieren
+  Level: B1
+  Form: präsentiert, präsentierte, hat präsentiert
+  Meaning: to present
+  Cambridge: to present; to present with
+  Wiki: to present, to showcase; to introduce; present arms
+  Examples:
+    - Herr Faber präsentiert oft Projekte.
+    - Präsentieren Sie Ihre Ergebnisse bitte im Kurs.
+
+- Id: oft
+  Level: A1
+  Form: öfter, am öftesten
+  Meaning: often
+  Cambridge: often
+  Wiki: often
+  Examples:
+    - Ich bin beruflich oft in Polen.
+    - Petra treffe ich oft.
+    - Ich gehe nicht oft ins Kino.
+    - Ich treffe mich oft mit meiner Freundin.
+
+- Id: das Projekt
+  Level: A2
+  Form: -e
+  Meaning: project
+  Cambridge: project
+  Wiki: project
+  Examples:
+    - Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt.
+    - Der Staat fördert Projekte für Kinder und Jugendliche.
+
+- Id: der Ingenieur
+  Level: B1
+  Form: -e
+  Feminine:
+    Id: die Ingenieurin
+    Form: -nen
+  Meaning: engineer
+  Cambridge: engineer
+  Wiki: engineer
+  Examples:
+    - Hans will Bauingenieur werden.
+
+- Id: konstruieren
+  Level: K
+  Form: konstruiert, konstruierte, hat konstruiert
+  Meaning: to design, to construct
+  Cambridge: to design (and construct); to construct; to fabricate, to contrive
+  Wiki: to construct, construe, fabricate, design
+  Examples:
+    - Eva konstruiert Autos.
+    - Viele Entwicklungsingenieure haben gemeinsam die neue Werkzeugmaschine konstruiert.
+
+- Id: das Solarauto
+  Level: K
+  Form: -s
+  Meaning: solar car
+  Examples:
+    - Nach 37 Stunden reiner Fahrzeit erreichte das niederländische Solarauto "Nuna 9" als erstes das Ziel.
+
+- Id: haben
+  Level: A1
+  Form: hat, hatte, hat gehabt
+  Meaning: to have
+  Cambridge: to have; to have, to get; to feel, to be; used to express measures; used to express times; used elliptically to express that sth has been or will be done; used as an auxiliary verb to form the perfect and pluperfect tenses
+  Wiki: to have (); to have; to own; to have; to hold; to have, get; to get; to have; to have; to contain, be composed of, equal; there be, there is, there are; to make a fuss; to be occupied with, to like, to be into; to talk about
+  Examples:
+    - Die Schweiz hat 8,4 Millionen Einwohner.
+    - Ich habe ein neues Auto.
+    - Hast du kurz Zeit?
+    - Wir haben Hunger.
+    - Heute habe ich keine Zeit.
+    - Kann ich bitte eine Suppe haben?
+    - Unsere Wohnung hat vier Zimmer.
+    - Ich habe heute viel zu tun.
+    - Du hast es gut. Du kannst in Urlaub fahren.
+
+- Id: die Besprechung
+  Level: B1
+  Form: -en
+  Meaning: meeting, discussion
+  Cambridge: meeting
+  Wiki: meeting, discussion, (gathering among business people to discuss their business); Review
+  Examples:
+    - Tut mir leid, Herr Schmidt ist noch in einer Besprechung.
+
+- Id: leben
+  Level: A1
+  Form: lebt, lebte, hat gelebt
+  Meaning: to live
+  Cambridge: to live, to be alive; to live
+  Wiki: to live, to be alive; to dwell, to reside; to live, to exist, to occupy a place; to cope with, to live with, to deal with
+  Examples:
+    - Ben lebt jetzt allein in Köln.
+    - Sie lebt bei ihrer Schwester.
+    - Ihre Großeltern leben nicht mehr.
+    - Leben Ihre Großeltern noch?
+    - Herr Müller hat lange im Ausland gelebt.
+    - Von der Rente allein kann meine Tante nicht leben.
+    - Ich lebe noch bei meinen Eltern.
+
+- Id: lieben
+  Level: A1
+  Form: liebt, liebte, hat geliebt
+  Meaning: to love
+  Cambridge: to love; to make love to
+  Wiki: to love, to have a strong affection for (someone or something); to love one another; to make love, to have sex
+  Examples:
+    - Peter liebt seine Frau Lucie sehr.
+    - Ich liebe dich!
+    - Ich liebe meine Familie.
+    - Meine Frau liebt ihren Beruf.
+    - Wir sind schon lange verheiratet, aber wir lieben uns immer noch.
+
+- Id: liegen
+  Level: A1
+  Form: liegt, lag, hat gelegen
+  Meaning: to lie (place/ location)
+  Cambridge: to lie; to lie, to be
+  Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
+  Examples:
+    - Englisch liegt auf Platz 1.
+    - Der Brief liegt schon auf Ihrem Schreibtisch.
+    - Judith liegt noch im Bett.
+    - Er liegt schon seit drei Wochen im Krankenhaus.
+    - Frankfurt liegt am Main.
+    - In den Bergen liegt schon Schnee.
+    - Um neun Uhr liegt Judith noch im Bett.
+    - Die Zeitung liegt auf dem Tisch. Judith liegt noch im Bett.
+
+- Id: singen
+  Level: A2
+  Form: singt, sang, hat gesungen
+  Meaning: to sing
+  Cambridge: to sing
+  Wiki: to sing
+  Examples:
+    - Annett Louisan singt deutsche Lieder.
+    - Er singt gern.
+    - Ich kann heute nicht singen, ich bin erkältet.
+
+- Id: studieren
+  Level: A1
+  Form: studiert, studierte, hat studiert
+  Meaning: to study
+  Cambridge: to study
+  Wiki: to study at university or college level; to be a student (of); to study scientifically; to research; to perform a study on; to look at minutely; to study; to peruse; to analyse
+  Examples:
+    - Georg studiert Journalistik.
+    - Ich studiere in Mainz.
+    - Mein Sohn will Medizin studieren.
+
+- Id: suchen
+  Level: A1
+  Form: sucht, suchte, hat gesucht
+  Meaning: to search for, look for
+  Cambridge: to look/search (for); to look for, to want; to look/search for; to seek, to try
+  Wiki: to search, to look for; to seek, strive, intend, try
+  Examples:
+    - Suchen Sie nach Informationen im Internet.
+    - Suchst du etwas?
+    - Ich suche meine Brille.
+    - Wir suchen eine größere Wohnung.
+    - Wen suchen Sie?
+
+- Id: die Jura
+  Form: (Pl.)
+  Meaning: law
+  Cambridge: law
+  Wiki: the Jurassic; ; law
+  Examples:
+    - Ich habe Jura studiert.
+
+- Id: der Jurist
+  Level: K
+  Form: -en
+  Feminine:
+    Id: die Juristin
+    Form: -nen
+  Meaning: jurist
+  Cambridge: lawyer
+  Wiki: jurist
+  Examples:
+    - Unter den Studenten bilden die Juristen eine besondere Spezies.
+
+- Id: die Musik
+  Level: A2
+  Form: -en
+  Meaning: music
+  Cambridge: music
+  Wiki: music; music as a school subject, musical instruction; a musical piece; a band, mostly one performing at some event
+  Examples:
+    - Wie findest du die Musik?
+    - Spanische Musik gefällt mir gut.
+    - Spanische Musik mag ich sehr.
+    - Was für Musik hörst du gern?
+
+- Id: der Musiker
+  Level: B1
+  Form: '-'
+  Feminine:
+    Id: die Musikerin
+    Form: -nen
+  Meaning: musician
+  Cambridge: musician
+  Wiki: musician
+  Examples:
+    - Mein Bruder möchte Musiker werden.
+
+- Id: die Physik
+  Level: M
+  Form: (Sg.)
+  Meaning: physics
+  Cambridge: physics
+  Wiki: physics
+  Examples:
+    - Wir schreiben morgen eine Arbeit in Physik.
+
+- Id: der Physiker
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Physikerin
+    Form: -nen
+  Meaning: physicist
+  Cambridge: physicist
+  Wiki: physicist
+  Examples:
+    - Newton, Maxwell, Einstein und Feynman waren bedeutende Physiker.
+
+- Id: der Koch
+  Level: B1
+  Form: ö-e
+  Feminine:
+    Id: die Köchin
+    Form: -nen
+  Meaning: cook
+  Cambridge: chef, cook; cook
+  Wiki: cook; mush, porridge
+  Examples:
+    - Ein Freund von mir ist Koch in einem teuren Restaurant.
+
+- Id: die Mathematik
+  Level: M
+  Form: (Sg.)
+  Meaning: mathematics
+  Cambridge: mathematics
+  Wiki: mathematics (study)
+  Examples:
+    - Wichtige Teilgebiete der Mathematik sind die Geometrie, die Arithmetik, die Algebra und die Stochastik.
+
+- Id: der Mathematiker
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Mathematikerin
+    Form: -nen
+  Meaning: mathematician
+  Cambridge: mathematician
+  Wiki: mathematician
+  Examples:
+    - Ein Mathematiker befasst sich mit Mathematik.
+
+- Id: die Journalistik
+  Level: K
+  Form: (Sg.)
+  Meaning: journalism
+  Examples:
+    - Im Frühjahr 1959 haben erstmalig über 150 Studierende das Hochschulfernstudium der Journalistik beendet.
+
+- Id: der Journalist
+  Level: A2
+  Form: -en
+  Feminine:
+    Id: die Journalistin
+    Form: -nen
+  Meaning: journalist
+  Cambridge: journalist
+  Wiki: journalist
+  Examples:
+    - Meine Tochter möchte Journalistin werden.
+
+- Id: das Design
+  Level: K
+  Form: -s
+  Meaning: design
+  Cambridge: design
+  Wiki: design (creative profession or art)
+  Examples:
+    - Das Design der Autos wird immer ähnlicher.
+
+- Id: der Designer
+  Level: K
+  Form: '-'
+  Feminine:
+    Id: die Designerin
+    Form: -nen
+  Meaning: designer
+  Cambridge: designer
+  Examples:
+    - Ein neues Kochbuch offenbart die Lieblingsrezepte von renommierten Designern.
+
+- Id: der Tisch
+  Level: A1
+  Form: -e
+  Meaning: table, dining table
+  Cambridge: table
+  Wiki: table ;; dining table, dinner table; desk; bench, workbench; meal
+  Examples:
+    - Die Fotos liegen auf dem Tisch.
+    - Das Essen steht schon auf dem Tisch.
+
+- Id: die Brille
+  Level: A2
+  Form: -n
+  Meaning: glasses
+  Cambridge: (eye)glasses, spectacles
+  Wiki: (pair of) glasses, spectacles; (pair of) goggles; (toilet) seat; (medical) nasal canulla for oxygen
+  Examples:
+    - Wo ist meine Brille?
+    - Mit dieser Brille kann ich nicht mehr gut sehen.
+    - Ich brauche eine neue Brille.
+
+- Id: das Handy
+  Level: A1
+  Form: -s
+  Meaning: cell phone
+  Cambridge: cell (phone)
+  Wiki: mobile phone, mobile, cell phone, phone
+  Examples:
+    - In der Schule bitte die Handys ausmachen!
+    - Kannst du mir bitte deine Handynummer geben?
+    - Ich habe kein Festnetztelefon, aber ein Handy.
+    - Soll ich Ihnen meine Handynummer geben?
+
+- Id: die Zeitung
+  Level: A1
+  Form: -en
+  Meaning: newspaper
+  Cambridge: (news)paper; newspaper
+  Wiki: newspaper; tidings, news
+  Examples:
+    - Ich lese gern Zeitung.
+    - Ich lese manchmal Zeitung.
+    - Wo ist die Zeitung von heute?
+
+- Id: der Stuhl
+  Level: A2
+  Form: ü-e
+  Meaning: chair
+  Cambridge: chair; stool(s)
+  Wiki: a chair (to sit on); a chair (professorship); feces, stool
+  Examples:
+    - Ist der Stuhl frei?
+    - Da hinten ist noch ein Stuhl frei.
+
+- Id: die Uhr
+  Level: A1
+  Form: -en
+  Meaning: hour, time, watch
+  Cambridge: clock, watch; time
+  Wiki: hours, o'clock; clock, watch; meter; gauge; clockwise direction
+  Examples:
+    - Es ist vier Uhr.
+    - Geht deine Uhr richtig?
+    - Wie viel Uhr ist es?
+    - Um wie viel Uhr müssen wir gehen?
+    - Meine Uhr ist stehen geblieben.
+
+- Id: die Tasche
+  Level: A1
+  Form: -n
+  Meaning: pocket, handbag
+  Cambridge: pocket; bag
+  Wiki: bag; pocket
+  Examples:
+    - Ich habe die Schlüssel in der Tasche.
+    - Ich habe nicht viel Gepäck. Nur eine Tasche.
+    - Meine Jacke hat keine Taschen.
+
+- Id: das Medikament
+  Level: A2
+  Form: -e
+  Meaning: medicine
+  Cambridge: medication, drug, medicine
+  Wiki: drug, medicine
+  Examples:
+    - Nehmen Sie dieses Medikament dreimal pro Tag!
+    - Dieses Medikament gibt es nur auf Rezept.
+    - Der Arzt hat mir ein Medikament verschrieben.
+    - Für dieses Medikament müssen Sie fünf Euro dazu zahlen.
+    - Dieses Medikament hat mir sehr gut geholfen.
+
+- Id: die Lampe
+  Level: A2
+  Form: -n
+  Meaning: lamp
+  Cambridge: lamp; lightbulb
+  Wiki: lamp, light; bulb, light bulb (); scut
+  Examples:
+    - Mach bitte die Lampe an. Es ist so dunkel.
+    - Ich habe mir eine neue Lampe gekauft.
+    - Mach doch bitte die Lampe an. Es ist so dunkel hier.
+
+- Id: der Regenschirm
+  Level: K
+  Form: -e
+  Meaning: umbrella
+  Wiki: umbrella
+  Examples:
+    - Einen Regenschirm hat man im Herbst gerne dabei.
+
+- Id: die Seite
+  Level: A2
+  Form: -n
+  Meaning: page
+  Cambridge: side; page
+  Wiki: side; face, side, surface of any three-dimensional object; page; side; one side or half of something or someone; a certain aspect of a concept; side, faction or group of competitors in a war, game, conflict or any other competitive situation in opposite to their opponents; face of a coin or dice; website
+  Examples:
+    - Öffnen Sie das Kursbuch auf Seite 20.
+    - Das ist die Bachstraße. Mein Haus ist auf der linken Seite.
+    - Das hier ist die Goethestraße. Ich wohne auf der linken Seite.
+    - Der Text steht auf Seite 20.
+
+- Id: die Tasse
+  Level: A2
+  Form: -n
+  Meaning: cup, bowl
+  Cambridge: cup; bowl
+  Wiki: cup with a handle
+  Examples:
+    - Möchten Sie eine Tasse Kaffee?
+    - Die Tassen sind von meiner Großmutter.
+
+- Id: die Tür
+  Level: A2
+  Form: -en
+  Meaning: door
+  Cambridge: door, gate
+  Wiki: door; door; doorway
+  Examples:
+    - Mach bitte die Tür zu!
+    - Machen Sie bitte die Tür zu! Es zieht.
+
+- Id: der Computer
+  Level: A1
+  Form: '-'
+  Meaning: computer
+  Cambridge: computer
+  Wiki: computer
+  Examples:
+    - Wann bekommst du deinen neuen Computer?
+
+- Id: das Auto
+  Level: A1
+  Form: -s
+  Meaning: car, automobile
+  Cambridge: car
+  Wiki: car
+  Examples:
+    - Er kommt mit dem Auto.
+    - Er fährt mit dem Auto.
+    - Mario fährt mit dem Auto zur Arbeit.
+
+- Id: das Lehrbuch
+  Level: K
+  Form: ü-er
+  Meaning: textbook
+  Wiki: textbook
+  Examples:
+    - Lehrbücher sind die Schulbücher und die Einführungen in Wissenschaften.
+
+- Id: die Zeitschrift
+  Level: A2
+  Form: -en
+  Meaning: magazine
+  Cambridge: magazine
+  Wiki: magazine (published in regular intervals); periodical
+  Examples:
+    - Diese Zeitschrift kauft Andrea jede Woche.
+
+- Id: der Schlüssel
+  Level: A1
+  Form: '-'
+  Meaning: key
+  Cambridge: key; clef
+  Wiki: a key; a bunch of keys;; Short for certain compounds, such as or .
+  Examples:
+    - Ich gebe Ihnen noch den Zimmerschlüssel.
+    - Ich finde meinen Schlüssel nicht.
+    - Ich kann meine Schlüssel nicht finden.
+
+- Id: die Flasche
+  Level: A1
+  Form: -n
+  Meaning: bottle
+  Cambridge: bottle; loser
+  Wiki: bottle; flask; flagon; loser; wimp; someone lacking skill or vigour
+  Examples:
+    - Eine Flasche Bier, bitte.
+    - Wo kann man die leeren Flaschen zurückgeben?
+
+- Id: der Stift
+  Level: A2
+  Form: -e
+  Meaning: pen
+  Cambridge: pen(cil); peg, tack; apprentice
+  Wiki: pin; pencil, pen, stylus;; a boy, especially an apprentice; endowed monastery; secular convent
+  Examples:
+    - Kannst du mir bitte einen Stift geben? - Was brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?
+
+- Id: die Kaffeemaschine
+  Level: K
+  Form: -n
+  Meaning: coffee machine
+  Wiki: coffeemaker
+  Examples:
+    - Aus den Millionen von Büroküchen auf der ganzen Welt ist die Kaffeemaschine nicht mehr wegzudenken.
+
+- Id: der Kalender
+  Level: A2
+  Form: '-'
+  Meaning: calendar
+  Cambridge: calendar, diary; calendar
+  Wiki: calendar; agenda, scheduler, planner; omasum
+  Examples:
+    - Haben Sie am Montag Zeit? - Einen Moment, ich schaue in meinem Kalender.
+    - Ich schreibe alle Termine in meinen Kalender.
+    - Ich habe den Termin in meinem Kalender notiert.
+    - Haben Sie am Montag Zeit? - Moment. Ich muss erst in meinem Terminkalender nachschauen.
+
+- Id: der Drucker
+  Level: A1
+  Form: '-'
+  Meaning: printer
+  Cambridge: printer
+  Wiki: ; printer; printer
+  Examples:
+    - Mein Drucker ist kaputt.
+    - Ich brauche einen neuen Drucker für meinen Computer.
+
+- Id: das Telefon
+  Level: A1
+  Form: -e
+  Meaning: telephone
+  Cambridge: (tele)phone
+  Wiki: telephone
+  Examples:
+    - Haben Sie Telefon?
+    - Darf ich bitte Ihr Telefon benutzen?
+
+- Id: der Laptop
+  Level: A2
+  Form: -s
+  Meaning: laptop
+  Cambridge: laptop
+  Wiki: laptop computer
+  Examples:
+    - Ohne einen Laptop geht heute fast kein Student mehr in die Bibliothek.
+
+- Id: der Bildschirm
+  Level: B1
+  Form: -e
+  Meaning: screen
+  Cambridge: screen, monitor
+  Wiki: screen; monitor; display
+  Examples:
+    - Ich brauche einen größeren Bildschirm für meinen Computer.
+    - Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.
+
+- Id: der Schreibtisch
+  Level: K
+  Form: -e
+  Meaning: writing desk
+  Cambridge: desk
+  Wiki: desk, cabinet
+  Examples:
+    - Meine Werkbank ist der Schreibtisch.
+
+- Id: der Vater
+  Level: A1
+  Form: ä-
+  Meaning: father
+  Cambridge: father
+  Wiki: father
+  Examples:
+    - Mein Vater ist Arbeiter.
+    - Mein Vater arbeitet in einem Restaurant.
+    - Herr Müller ist Vater geworden.
+
+- Id: die Mutter
+  Level: A1
+  Form: ü-
+  Meaning: mother
+  Cambridge: mother; nut
+  Wiki: "mother; Mother; Mum; Mom: one's mother; nut"
+  Examples:
+    - Frau Berghäuser ist die Mutter von Michaela.
+    - Meine Mutter heißt Klara.
+    - Dieser Raum ist für Mütter mit kleinen Kindern reserviert.
+
+- Id: die Tochter
+  Level: A1
+  Form: ö-
+  Meaning: daughter
+  Cambridge: daughter
+  Wiki: daughter; subsidiary (company)
+  Examples:
+    - Das ist meine Tochter Katharina.
+
+- Id: der Sohn
+  Level: A1
+  Form: ö-e
+  Meaning: son
+  Cambridge: son
+  Wiki: son
+  Examples:
+    - Das ist Hans, mein Sohn.
+    - Mein jüngster Sohn ist vier.
+
+- Id: die Schwester
+  Level: A1
+  Form: -n
+  Meaning: sister
+  Cambridge: sister; nurse; nun
+  Wiki: sister; nurse;; nurse;; sister; nun;
+  Examples:
+    - Meine Schwester kommt am Dienstag.
+    - Ich habe eine ältere Schwester und einen jüngeren Bruder.
+    - Schwester Anna hat mir eine Schmerztablette gegeben.
+
+- Id: der Bruder
+  Level: A1
+  Form: ü-
+  Meaning: brother
+  Cambridge: brother
+  Wiki: brother; Brother
+  Examples:
+    - Sein Bruder arbeitet auch hier.
+    - Mein jüngster Bruder geht noch zur Schule.
+
+- Id: das Geschwister
+  Level: A1
+  Form: '-'
+  Meaning: sibling
+  Cambridge: sibling(s), brothers and/or sisters
+  Wiki: sibling
+  Examples:
+    - Ich habe leider keine Geschwister.
+    - Die Geschwister sehen sich nur selten.
+
+- Id: der Onkel
+  Level: B1
+  Form: '-'
+  Meaning: uncle
+  Cambridge: uncle; nice man
+  Wiki: uncle
+  Examples:
+    - Nächste Woche fahre ich zu meinem Onkel nach Berlin.
+
+- Id: die Tante
+  Level: B1
+  Form: -n
+  Meaning: aunt
+  Cambridge: aunt
+  Wiki: aunt; woman, broad
+  Examples:
+    - Die Familie meiner Mutter ist sehr groß, daher habe ich viele Tanten.
+
+- Id: die Eltern
+  Level: A1
+  Form: (Pl.)
+  Meaning: parents
+  Cambridge: parents
+  Wiki: parents; When a singular is required, the term is used in everyday language. In certain fields such as psychology and genetics, however, the back-formed singular is also used.; When the word numeral “two” was still declined by gender (, , ), the masculine form was predominantly used, less often the neuter one.
+  Examples:
+    - Meine Eltern leben in Spanien.
+    - Ich wohne noch bei meinen Eltern.
+
+- Id: der Gegenstand
+  Level: B1
+  Form: ä-e
+  Meaning: object, item, thing, article
+  Cambridge: object; subject
+  Wiki: object, item, thing, article; (in the technical language of civil law statutes, either a corporeal object or a subjective right)
+  Examples:
+    - Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.
+    - 'Eine Durchsage der Polizei: Auf der A8 liegen Gegenstände auf der Fahrbahn.'
+
+- Id: der Freund
+  Level: A1
+  Form: -e
+  Feminine:
+    Id: die Freundin
+    Form: -nen
+  Meaning: friend
+  Cambridge: friend; boyfriend/girlfriend
+  Wiki: friend; boyfriend; blood relative (in the sense of a person that is or should be one’s friend by nature)
+  Examples:
+    - Das ist ein Freund von mir.
+    - Das ist meine Freundin Susanne.
+    - Ich sehe meine Freunde nur am Wochenende.
+
+- Id: der Apfel
+  Level: A1
+  Form: Ä-
+  Meaning: apple
+  Cambridge: apple
+  Wiki: apple (fruit)
+  Examples:
+    - Ein Pfund Äpfel bitte.
+    - Ein Kilo Äpfel, bitte.
+    - Zum Frühstück esse ich jeden Tag einen Apfel.
+
+- Id: auf
+  Level: A1
+  Meaning: on, at, in
+  Cambridge: on; on, onto; at, in; to, at; at, on; used to express a chronology; after; used to describe an action; used to give the reason for sth; used to express a relation or proportion; used as a preposition in fixed phrases; open; up; used in interjections to intensify suggestions
+  Wiki: on, upon; on, onto, up; on; in, at;; to;; in (see usage note below); in; on (a day; usually of the week); for; to, for; by; open; finished; gone; up; awake; out of bed; carry on; have a go
+  Examples:
+    - Tereza liest Bücher auf Deutsch.
+    - Die Kinder spielen auf der Straße.
+    - Auf Wiedersehen.
+    - Wie heißt das auf Deutsch?
+    - Das Wörterbuch liegt auf dem Tisch.
+    - Die Kinder spielen auf der Straße.
+    - Am Samstag gehen wir auf eine Party.
+    - Meine Eltern wohnen auf dem Land.
+    - Auf dem Foto ist auch meine Schwester.
+    - Die Tür ist auf, kommen Sie rein!
+    - Hat das Geschäft noch auf?
+    - Auf Wiedersehen.
+    - Wie heißt das auf Deutsch?
+    - Deine Brille liegt auf dem Schreibtisch.
+    - Die Kinder spielen unten auf der Straße.
+    - Meine Eltern leben auf dem Land.
+    - Gestern waren wir auf einer Party.
+    - Auf unsere Anzeige in der Abendzeitung hat sich noch niemand gemeldet.
+    - Wie heißt das auf Deutsch?
+    - Meine Tochter kommt nächstes Jahr aufs Gymnasium. (D) = (A, CH) ins
+    - Im Mai war ich auf Urlaub. (A) = (D) in
+    - Ich bin schon seit zwei Stunden auf.
+    - Komm herein, die Tür ist auf. (D) = (A, CH) offen
+
+- Id: für
+  Level: A1
+  Meaning: for
+  Cambridge: for; for, in favor of; used with a verb to indicate a characteristic
+  Wiki: for; in favor of, in support of; by the standards of; on behalf of; kind / type of; instead of; in order to (with and infinitive)
+  Examples:
+    - Die Vorwahl für Deutschland ist 0049.
+    - Das ist der Schlüssel für die Haustür.
+    - Das ist das Brot für morgen.
+    - Das Paket ist für Sie.
+    - Gibt es hier einen Sportverein für Jugendliche?
+    - Ist Post für mich da?
+    - Ich habe die Schlüssel für meine Wohnung verloren.
+    - Diese alten Möbel haben wir für 100 Euro bekommen.
+    - Für einen Anfänger spielt er schon sehr gut Klavier.
+    - Du kannst nicht einkaufen gehen? Ich kann es für dich machen.
+    - Für mich ist das ein schwerer Fehler.
+    - Wir haben die Wohnung für ein Jahr gemietet.
+
+- Id: von
+  Level: B1
+  Meaning: from, by, of, about
+  Cambridge: from; off; of; by; of, with
+  Wiki: from; of, belonging to (often replacing genitive; see usage note below); by (with passive voice); about, of (a topic); on, with (a resource)
+  Examples:
+    - Das ist die Tasche von Gabi.
+    - Das Auto von Felix ist kaputt.
+    - Er kommt gerade von Köln/von zu Hause.
+    - Die Brötchen sind leider von gestern.
+    - Ich komme gerade vom Zahnarzt.
+    - Emil ist ein Freund von mir.
+    - Haben Sie noch eine Zeitung von heute?
+    - Von jetzt an müssen wir sparen.
+    - Das Büro ist von 13 bis 15 Uhr geschlossen.
+
+- Id: ein bisschen
+  Level: A1
+  Meaning: a bit
+  Examples:
+    - Ich spreche ein bisschen Deutsch.
+    - Ich spreche Englisch, Französisch und ein bisschen Deutsch.
+    - Können Sie bitte ein bisschen lauter sprechen?
+    - Ich spreche ein bisschen Französisch.
+    - Möchten Sie noch ein bisschen Salat?
+    - Wenn Sie ein bisschen warten, können wir zusammen gehen.
+    - Sprechen Sie Englisch? - Ein bisschen.
+
+- Id: sehr
+  Level: A1
+  Meaning: very
+  Cambridge: very
+  Wiki: very; a lot, much
+  Examples:
+    - Danke sehr!
+    - Das ist sehr schwer.
+    - Das Wetter ist heute sehr schön.
+    - Ich habe mich sehr über Ihren Besuch gefreut.
+    - Hier ist Ihr Essen. - Danke sehr.
+    - Das Wetter ist heute sehr schön.
+
+- Id: perfekt
+  Level: B1
+  Form: perfekter, am perfektesten
+  Meaning: perfect
+  Cambridge: perfect; sealed; perfectly
+  Wiki: perfect
+  Examples:
+    - Die Reiseorganisation war perfekt.
+
+- Id: wie
+  Level: A1
+  Meaning: how; as, than
+  Cambridge: how; that; as; like, such as; both … and, alike
+  Wiki: how; like; as; than; when
+  Examples:
+    - Die Schweiz ist so groß wie die Niederlande.
+    - Wie heißt du?
+    - Er schreibt wie ein Kind.
+    - Meine Frau ist so groß/alt wie ich.
+    - Wie soll ich das machen?
+    - Wie groß ist die Wohnung?
+    - Wie bitte? Können Sie das bitte wiederholen?
+    - Wie lange bist du schon hier?
+    - Wie schreibt man das?
+    - Wie gefällt dir unsere Wohnung?
+
 - Id: der Ausflugsziel
   Form: -e
   Meaning: short trip destination
