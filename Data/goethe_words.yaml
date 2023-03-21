@@ -733,7 +733,7 @@
   Form: bietet an, bot an, hat angeboten
   Meaning: to offer
   Cambridge: to offer
-  Wiki: to offer, to provide; to offer for sale or rent
+  Wiki: to offer, to provide; to offer for sale or rent; to lend oneself to, to be suitable for
   Examples:
     - Was darf ich dir anbieten?
     - Darf ich Ihnen/dir ein Stück Kuchen anbieten?
@@ -6281,7 +6281,7 @@
   Form: echter, am echtesten
   Meaning: real, really
   Cambridge: genuine; genuine, real; real; -proof, -true; genuinely, really; typically
-  Wiki: authentic, genuine, true; real; factual; proper; really; indeed
+  Wiki: authentic, genuine, true; real; factual; proper; really; indeed; (expresses disbelief or shock at new information)
   Examples:
     - Ist das Bild ein echter Picasso?
     - Der Film ist echt gut.
@@ -7733,7 +7733,7 @@
 - Id: erleben
   Level: B1
   Form: erlebt, erlebte, hat erlebt
-  Meaning: to experience, live through
+  Meaning: to experience, to witness
   Cambridge: to experience; to witness
   Wiki: to experience; to see, live to see, witness; to undergo
   Examples:
@@ -15062,7 +15062,7 @@
   Level: B1
   Meaning: lately, recently
   Cambridge: recently
-  Wiki: recently, lately (in the recent past); recent
+  Wiki: recently, lately (in the recent past); shortly, soon (in the near future); recent
   Examples:
     - Wir haben doch kürzlich darüber gesprochen, dass wir am Wochenende wegfahren wollen.
 
@@ -16645,7 +16645,7 @@
 - Id: melden
   Level: B1
   Form: meldet, meldete, hat gemeldet
-  Meaning: to report, register, to get in touch
+  Meaning: to report, register, put one's hand up, volunteer
   Cambridge: to report; to sign up, to enter; to get in touch; to put your hand up
   Wiki: to report; to tell on (someone); to put one's hand up (in school); to get in touch (with someone), touch base; to stay in touch; to follow up, get back to
   Examples:
@@ -17288,7 +17288,6 @@
   Form: -e
   Meaning: moon
   Cambridge: moon; crescent (moon)
-  Wiki: the Moon; Earth's only natural satellite, and also a luminary; moon; a month, especially a lunar month; moon (often used to describe a crescent)
   Examples:
     - Bei Vollmond kann ich nicht schlafen.
 
@@ -17367,7 +17366,7 @@
   Form: (Sg.)
   Meaning: rubbish, trash
   Cambridge: garbage, trash
-  Wiki: trash, garbage, refuse, waste, junk; nonsense
+  Wiki: rubbish, refuse, waste, junk, trash(US), garbage(US); nonsense
   Examples:
     - Bringst du bitte noch den Müllsack raus?
     - Wir müssen den Müll trennen.
@@ -18072,12 +18071,15 @@
     - example1
 
 - Id: niemand
-  Level: B1
+  Level: A2
   Meaning: no one, nobody
   Cambridge: nobody, no one
   Wiki: nobody, no one
   Examples:
-    - example1
+    - Ich habe geklingelt. Aber es war niemand zu Hause.
+    - Hier ist niemand.
+    - Hier ist der Anrufbeantworter von Familie Klein.
+    - Leider ist im Moment niemand zu Hause.
 
 - Id: nirgends
   Level: A2
@@ -25902,7 +25904,7 @@
   Cambridge: surrounding area, surroundings; surroundings, environment
   Wiki: environment (area around something), vicinity, surroundings
   Examples:
-    - example1
+    - In der Umgebung von Berlin kann man schöne Ausflüge machen.
 
 - Id: umgehen
   Level: B1
@@ -27753,7 +27755,7 @@
 - Id: (sich) vorstellen
   Level: B1
   Form: stellt vor, stellte vor, hat vorgestellt
-  Meaning: to put forward, introduce, represent; to imagine (mir) something
+  Meaning: to put forward, introduce, represent, imagine something
   Cambridge: to imagine; to introduce; to come/go for an interview; to present; to put forward(s)
   Wiki: to move (something) forward; to put (the clocks) forward; to represent; to mean; to introduce (someone), to present; to move forward; to introduce oneself; to imagine
   Examples:
