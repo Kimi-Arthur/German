@@ -2853,3 +2853,117 @@
   Examples:
     - Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.
     - Wir benutzen die Garage gemeinsam mit dem Nachbarn.
+
+- Id: unbekannt
+  Form: unbekannter, am unbekanntesten
+  Meaning: unknown, unfamiliar
+  Cambridge: unfamiliar; unknown
+  Wiki: unknown, unbeknownst; unfamiliar
+  Examples:
+    - Der Autor ist unverdientermaßen immer noch ganz unbekannt.
+
+- Id: das Lotto
+  Form: -s
+  Meaning: lotto
+  Cambridge: lottery
+  Wiki: lotto
+  Examples:
+    - Ich spiele jede Woche Lotto.
+
+- Id: der Millionär
+  Form: -e
+  Meaning: millionaire
+  Cambridge: millionaire
+  Wiki: millionaire
+  Examples:
+    - Ich bin doch kein Millionär.
+
+- Id: in Saus und Braus leben
+  Meaning: to live in clover, to live like a king
+  Wiki: to live in clover, to live on the fat of the land
+  Examples:
+    - Clara mag glauben, ich lebe hier in Saus und Braus.
+
+- Id: erleben
+  Level: B1
+  Form: erlebt, erlebte, hat erlebt
+  Meaning: to experience, to witness
+  Cambridge: to experience; to witness
+  Wiki: to experience; to see, live to see, witness; to undergo
+  Examples:
+    - In unserem Urlaub haben wir viel Schönes erlebt.
+
+- Id: der Angestellte
+  Level: B1
+  Form: -n
+  Feminine:
+    Id: die Angestellte
+    Form: -n
+  Meaning: employee
+  Cambridge: (salaried) employee; white-collar worker
+  Wiki: ': female employee/worker/clerk/servant/staffer/staff member'
+  Examples:
+    - Björn ist Angestellter in einem Reisebüro.
+
+- Id: ganz
+  Level: A2
+  Meaning: complete, completely
+  Cambridge: whole, entire, complete; intact; all of, no more than; fully, completely; very; quite
+  Wiki: entire, whole, complete; all; whole, intact; true; real; integer (of a number); quite, rather; very; wholly, entirely, all
+  Examples:
+    - Oh nein! Was ist passiert? Ist deine Brille jetzt kaputt? - Nein, zum Glück ist sie noch ganz!
+    - Morgen haben wir den ganzen Tag Schule.
+    - Ich bin ganz sicher, dass dein Termin am Montag ist.
+    - Ich finde Lara ganz nett.
+    - Oh, ich habe meinen Zahnarzttermin ganz vergessen.
+    - Ich habe den ganzen Tag noch nichts gegessen.
+    - Den Zahnarzttermin habe ich ganz vergessen.
+    - Ich finde Janis ganz nett.
+    - Am Montag ist hier Ruhetag. Das weiß ich ganz sicher.
+    - Gott sei Dank ist meine Brille noch ganz.
+
+- Id: niemand
+  Level: A2
+  Meaning: no one, nobody
+  Cambridge: nobody, no one
+  Wiki: nobody, no one
+  Examples:
+    - Ich habe geklingelt. Aber es war
+      niemand zu Hause.
+    - Hier ist niemand.
+    - Hier ist der Anrufbeantworter von Familie Klein.
+    - Leider ist im Moment niemand zu Hause.
+
+- Id: spenden
+  Form: spendet, spendete, hat gespendet
+  Meaning: to donate, to give as charity
+  Cambridge: to donate; to donate, to give; to provide, to give off; to give
+  Wiki: to donate, to give as charity; (transitive, ditransitive, figurative, with certain nouns, otherwise, _, poetic) (To cause the action implied by a noun to take place.); to provide; to administer (a sacrament); to spend generously; to treat to
+  Examples:
+    - Kathrin hat Blut gespendet.
+
+- Id: unauffällig
+  Form: unauffälliger, am unauffälligsten
+  Meaning: inconspicuous, not prominent or easily noticeable, discreet
+  Cambridge: inconspicuous, unobtrusive; discreet; inconspicuously, unobtrusively, discreetly
+  Wiki: inconspicuous, unobtrusive (not prominent or easily noticeable); inconspicuously
+  Examples:
+    - Folgen Sie mir unauffällig.
+
+- Id: vertraut
+  Form: vertrauter, am vertrautesten
+  Meaning: close, intimate
+  Cambridge: intimate, close; familiar
+  Wiki: close, intimate; familiar
+  Examples:
+    - Ich bin mit der Funktionsweise dieser Waschmaschine vertraut.
+
+- Id: die Umgebung
+  Level: B1
+  Form: -en
+  Meaning: surrounding
+  Cambridge: surrounding area, surroundings; surroundings, environment
+  Wiki: environment (area around something), vicinity, surroundings
+  Examples:
+    - In der Umgebung von Berlin kann man
+      schöne Ausflüge machen.
