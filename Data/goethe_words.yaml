@@ -2683,6 +2683,7 @@
   Wiki: An underground railway; A subway
   Examples:
     - Die letzte U-Bahn geht um 23.15 Uhr.
+    - Ich fahre mit der U-Bahn.
 
 - Id: der Bahnhof
   Level: A1
@@ -25565,7 +25566,9 @@
   Cambridge: practice; skill; exercise; drill, exercise
   Wiki: practice; practice; exercise; training; workout; drill; maneuver; a kind of university class where skills taught in lectures or seminars are exercised (similar to a , but more likely to be obligatory and taught by proper staff)
   Examples:
-    - example1
+    - Diese Übung war sehr schwer.
+    - Ich fahre nicht oft Auto. Mir fehlt die
+      Übung.
 
 - Id: über
   Level: A1
@@ -25600,7 +25603,8 @@
   Cambridge: to run over; to go through; to railroad, to catch unawares
   Wiki: to run over, to run down; to go through, to overshoot; to pass over, to cross; to take across, to ferry over
   Examples:
-    - example1
+    - Gestern hat ein Autofahrer einen Hund
+      überfahren.
 
 - Id: überhaupt
   Level: B1
@@ -25609,6 +25613,12 @@
   Wiki: overall, in general; at all; anyway; actually; even
   Examples:
     - Du bist nicht nur heute nicht willkommen, du bist hier überhaupt nicht willkommen!
+    - Die Suppe schmeckt mir überhaupt
+      nicht.
+    - Tut mir leid. Ich habe überhaupt keine
+      Zeit.
+    - Du willst mit meinem Auto fahren?
+      Hast du überhaupt einen Führerschein?
 
 - Id: überholen
   Level: B1
@@ -25617,7 +25627,7 @@
   Cambridge: to overtake; to overhaul
   Wiki: to overtake; to pass (e.g. a vehicle, a runner); to excel; to become more or better than; to overhaul; to recondition, to refit
   Examples:
-    - example1
+    - Hier dürfen Lkws nicht überholen.
 
 - Id: überlegen
   Level: B1
@@ -25626,7 +25636,10 @@
   Cambridge: to think; superior; in a superior manner
   Wiki: superior; to think about, to think over
   Examples:
-    - example1
+    - Ich kann mich nicht entscheiden. Ich
+      muss mir das noch überlegen.
+    - Ich habe mir überlegt, ein Auto zu
+      kaufen.
 
 - Id: übermorgen
   Level: A2
