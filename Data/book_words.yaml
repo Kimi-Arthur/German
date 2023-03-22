@@ -2981,3 +2981,196 @@
   Wiki: commercial, business
   Examples:
     - Er macht eine kaufmännische Ausbildung.
+
+- Id: die Regel
+  Level: B1
+  Form: -n
+  Meaning: rule
+  Cambridge: rule; period
+  Wiki: rule; menstruation
+  Examples:
+    - Im Straßenverkehr sind viele Regeln zu
+      beachten.
+    - Wie geht dieses Spiel? Kennst du die
+      Regeln?
+    - In der Regel geht sie um sieben Uhr
+      aus dem Haus.
+
+- Id: die Doktorarbeit
+  Form: -en
+  Meaning: PhD thesis
+  Cambridge: doctoral/PhD thesis
+  Wiki: doctoral dissertation
+  Examples:
+    - Es gibt shcon viele Doktorarbeiten über das Thema.
+
+- Id: das Thema
+  Level: A1
+  Form: Themen
+  Meaning: subject, theme
+  Cambridge: subject, topic, theme
+  Wiki: topic, subject, issue; theme
+  Examples:
+    - Wir haben im Kurs viel über das Thema Umwelt gesprochen.
+    - Wir sprechen heute über das Thema „Essen und Trinken“.
+    - 'Heute heißt unser Thema: „Essen und Trinken“.'
+
+- Id: das Trinkgeld
+  Level: B1
+  Form: -er
+  Meaning: tip
+  Cambridge: tip
+  Wiki: tip (A small amount of money left for a bartender, waiter, taxi driver or other servant as a token of appreciation.)
+  Examples:
+    - Ich habe dem Kellner zwei Euro Trinkgeld gegeben.
+
+- Id: die Branche
+  Form: -n
+  Meaning: sector, a specific trade or industry
+  Cambridge: sector, industry, business
+  Wiki: sector, a specific trade or industry; sector, domain (in other contexts)
+  Examples:
+    - Jede Branche hat ihre eigenen Gesetze.
+
+- Id: eigen
+  Level: A2
+  Form: eigener, am eigensten
+  Meaning: own
+  Cambridge: own; own, distinctive
+  Wiki: own, peculiar or private to someone, idiosyncratic, proper or proprietary
+  Examples:
+    - Nicht alle Kinder haben ein eigenes Zimmer.
+    - Fast jedes Kind hat ein eigenes Zimmer.
+    - Manche Leute haben keine eigene Meinung.
+
+- Id: das Gesetz
+  Level: B1
+  Form: -e
+  Meaning: law, rule
+  Cambridge: law; law, rule
+  Wiki: law, legal act, bill, statute; a bill by the parliamentary legislator according to the procedures devised in the state’s constitution; any formally published legal norm, a regulation affecting anyone in an unlimited number of cases; a principle governing the phenomena in a particular field of science, a law of nature
+  Examples:
+    - Das Parlament hat ein neues Gesetz beschlossen.
+
+- Id: erwarten
+  Level: B1
+  Form: erwartet, erwartete, hat erwartet
+  Meaning: to expect
+  Cambridge: to expect
+  Wiki: to expect, to consider likely; to await, to expect (someone to arrive)
+  Examples:
+    - Ich erwarte einen Anruf aus Berlin.
+    - Frau Müller erwartet ein Kind.
+    - Wir hatten nichts anderes erwartet.
+    - Ich kann es gar nicht erwarten, euch wieder zu sehen.
+
+- Id: ungefähr
+  Level: B1
+  Meaning: approximately, roughly
+  Cambridge: approximately, roughly; approximate, rough
+  Wiki: approximate; about; approximately
+  Examples:
+    - Wie weit ist es bis zum Bahnhof? –
+      Nicht weit, ungefähr zehn Minuten zu
+      Fuß.
+
+- Id: eher
+  Level: B1
+  Meaning: sooner, rather, more
+  Cambridge: earlier, sooner; fairly; rather; more easily; more, rather
+  Wiki: rather, somewhat, quite; earlier, sooner; prefer to, rather, sooner (indicating a preference, often used sarcastically); more likely, more possible, more like
+  Examples:
+    - Ich stehe meist eher auf als mein Mann.
+    - Michael sieht gerne Serien, ich mag eher Krimis.
+
+- Id: gar
+  Level: B1
+  Form: garer, am garsten
+  Meaning: quite, at all
+  Cambridge: done, cooked; at all, whatsoever; used for emphasis in rhetorical questions; even
+  Wiki: cooked, done; refined; at all; even; even;; all; very; quite; really
+  Examples:
+    - Die Kartoffeln sind noch nicht gar.
+    - Du räumst nie dein Zimmer auf. - Das ist gar nicht wahr.
+
+- Id: inbegriffen
+  Meaning: included
+  Cambridge: included, inclusive
+  Wiki: included
+  Examples:
+    - Das Trinkgeld ist im Preis inbegriffen.
+
+- Id: vorsichtig
+  Level: A2
+  Form: vorsichtiger, am vorsichtigsten
+  Meaning: carefully
+  Cambridge: careful, cautious; carefully, cautiously
+  Wiki: deliberate (not hasty or sudden); careful, cautious, wary, circumspect; carefully
+  Examples:
+    - Sei vorsichtig!
+    - Du musst vorsichtig fahren, es ist neblig
+    - Bitte fahr vorsichtig, die Straße ist
+      glatt.
+
+- Id: die Gegend
+  Level: B1
+  Form: -en
+  Meaning: area, district
+  Cambridge: region, area
+  Wiki: area, region
+  Examples:
+    - Der Schwarzwald ist eine sehr schöne Gegend.
+    - Die Schule muss hier in der Gegend sein.
+
+- Id: die Beleidigung
+  Form: -en
+  Meaning: insult (action or speech deliberately intended to be rude)
+  Cambridge: insult; libel, slander; insulting, offending
+  Wiki: insult (action or speech deliberately intended to be rude)
+  Examples:
+    - Trinkgeld gilt als Beleidigung.
+
+- Id: die Insel
+  Level: A2
+  Form: -n
+  Meaning: island
+  Cambridge: island
+  Wiki: an island, an isle
+  Examples:
+    - Ich möchte im Sommer auf einer Insel Urlaub machen.
+    - Rügen ist die größte deutsche Insel.
+    - Ich würde dieses Mal gern auf einer Insel Ferien machen.
+
+- Id: die Gastfreundschaft
+  Form: -en
+  Meaning: hospitality
+  Cambridge: hospitality
+  Wiki: hospitality
+  Examples:
+    - Gasfreundschaft ist besonders wichtig.
+
+- Id: die Annahme
+  Form: -n
+  Meaning: acceptance, assumption
+  Cambridge: accepting; acceptance; assumption
+  Wiki: presupposition; acceptance; receipt, receiving; assumption, hypothesis; the act of stopping and controlling the ball
+  Examples:
+    - Der Annahme von Trinkgeld ist verboten.
+
+- Id: üblich
+  Level: B1
+  Form: üblicher, am üblichsten
+  Meaning: usual, common
+  Cambridge: usual, normal; usual
+  Wiki: usual
+  Examples:
+    - In Deutschland ist es üblich, früh zu
+      Abend zu essen.
+
+- Id: geizig
+  Form: geiziger, am geizigsten
+  Meaning: ungenerous; cheap; mean
+  Cambridge: stingy, cheap
+  Wiki: ungenerous; stingy; cheap; mean; miserly; niggardly; closefisted
+  Examples:
+    - Gäste aus Europa in Amerika gelten oft als geizig.
