@@ -10713,7 +10713,7 @@
 - Id: das Gesetz
   Level: B1
   Form: -e
-  Meaning: law
+  Meaning: law, rule
   Cambridge: law; law, rule
   Wiki: law, legal act, bill, statute; a bill by the parliamentary legislator according to the procedures devised in the state’s constitution; any formally published legal norm, a regulation affecting anyone in an unlimited number of cases; a principle governing the phenomena in a particular field of science, a law of nature
   Examples:
@@ -20125,7 +20125,9 @@
   Cambridge: rule; period
   Wiki: rule; menstruation
   Examples:
-    - example1
+    - Im Straßenverkehr sind viele Regeln zu beachten.
+    - Wie geht dieses Spiel? Kennst du die Regeln?
+    - In der Regel geht sie um sieben Uhr aus dem Haus.
 
 - Id: regelmäßig
   Level: B1
@@ -25814,7 +25816,7 @@
   Cambridge: usual, normal; usual
   Wiki: usual
   Examples:
-    - example1
+    - In Deutschland ist es üblich, früh zu Abend zu essen.
 
 - Id: übrig
   Level: B1
@@ -26078,7 +26080,7 @@
   Cambridge: approximately, roughly; approximate, rough
   Wiki: approximate; about; approximately
   Examples:
-    - example1
+    - Wie weit ist es bis zum Bahnhof? – Nicht weit, ungefähr zehn Minuten zu Fuß.
 
 - Id: ungewöhnlich
   Level: B1
@@ -27744,13 +27746,15 @@
     - example1
 
 - Id: vorsichtig
-  Level: B1
+  Level: A2
   Form: vorsichtiger, am vorsichtigsten
   Meaning: carefully
   Cambridge: careful, cautious; carefully, cautiously
   Wiki: deliberate (not hasty or sudden); careful, cautious, wary, circumspect; carefully
   Examples:
-    - example1
+    - Sei vorsichtig!
+    - Du musst vorsichtig fahren, es ist neblig
+    - Bitte fahr vorsichtig, die Straße ist glatt.
 
 - Id: (sich) vorstellen
   Level: B1
