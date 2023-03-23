@@ -1674,7 +1674,7 @@
 
 - Id: fehlend
 
-- Id: neue
+- Id: neu
 
 - Id: die Studie
   Level: B1
@@ -1819,7 +1819,7 @@
     - Es ist allgemein bekannt, dass man hier gut essen kann.
     - Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden.
 
-- Id: die Gittare
+- Id: die Gitarre
 
 - Id: das Klavier
   Level: A2
@@ -2037,7 +2037,7 @@
   Examples:
     - „Gehen“ ist ein Verb.
 
-- Id: unformen
+- Id: umformen
 
 - Id: tauschen
   Level: A2
@@ -2144,7 +2144,7 @@
   Examples:
     - Das können wir später machen.
 
-- Id: die Präsentiation
+- Id: die Präsentation
 
 - Id: das Büro
   Level: A2
