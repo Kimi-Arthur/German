@@ -1982,8 +1982,7 @@
   Cambridge: to underline
   Wiki: to underscore, to underline
   Examples:
-    - Wir sollen alle wichtigen Wörter
-      unterstreichen.
+    - Wir sollen alle wichtigen Wörter unterstreichen.
 
 - Id: buchstabieren
   Level: A1
@@ -2022,6 +2021,13 @@
     - Den letzten Satz verstehe ich nicht.
 
 - Id: achten (auf)
+  Level: B1
+  Form: achtet, achtete, hat geachtet
+  Meaning: to pay attention (to)
+  Cambridge: to respect
+  Wiki: to care about, to pay attention to; to keep an eye on; to respect
+  Examples:
+    - Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.
 
 - Id: das Verb
   Form: -en
@@ -2051,8 +2057,7 @@
   Cambridge: roll; wheel, castor, runner; roll, tube; role, part
   Wiki: roll, reel, spool; roll, tube; a relatively small wheel on which something is rolled (as on a wheelie bin); role, part; roller, castor, pulley; roll; mangle, wringer; rolling pin; role
   Examples:
-    - Die Schauspielerin hat ihre Rolle sehr
-      gut gespielt.
+    - Die Schauspielerin hat ihre Rolle sehr gut gespielt.
     - Geld spielt in diesem Fall keine Rolle.
 
 - Id: ankreuzen
@@ -2085,6 +2090,18 @@
     - Ich habe im Fernsehen ein interes- santes Interview mit zwei Schauspielern gesehen.
 
 - Id: (sich) verstehen
+  Level: A1
+  Form: versteht, verstand, hat verstanden
+  Meaning: to understand
+  Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
+  Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
+  Examples:
+    - Können Sie mich verstehen?
+    - Ich verstehe diese Aufgabe nicht.
+    - Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.
+    - Den Satz verstehe ich nicht.
+    - Ich verstehe nichts von Computern.
+    - Unsere beiden Kinder verstehen sich sehr gut.
 
 - Id: leider
   Level: A1
@@ -2248,8 +2265,7 @@
   Wiki: number, numeral, figure; tails
   Examples:
     - Können Sie die Zahl bitte wiederholen?
-    - Die Zahl der Internetnutzer wird
-      immer größer.
+    - Die Zahl der Internetnutzer wird immer größer.
 
 - Id: die Fläche
   Level: B1
@@ -2400,11 +2416,9 @@
     - Ich wohne Messeplatz 5.
     - Hier ist noch ein Platz frei.
     - Ich finde keinen Parkplatz.
-    - In unserer Wohnung haben wir nicht
-      genug Platz.
+    - In unserer Wohnung haben wir nicht genug Platz.
     - Ist dieser Platz noch frei?
-    - Die Post ist auf dem Platz, direkt am
-      Markt.
+    - Die Post ist auf dem Platz, direkt am Markt.
 
 - Id: insgesamt
   Level: B1

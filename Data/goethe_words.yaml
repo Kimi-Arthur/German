@@ -18203,7 +18203,8 @@
   Cambridge: to note down; to trade, to be quoted
   Wiki: to note, to note down, to write down, to jot down; to be offered for purchase, to trade
   Examples:
-    - example1
+    - Ich habe mir den Termin notiert.
+    - Notieren Sie bitte alle wichtigen Informationen.
 
 - Id: nötig
   Level: B1
@@ -19221,7 +19222,14 @@
   Cambridge: room, space; place; seat; position; square; ground; field, court
   Wiki: square, plaza, piazza; circus; space, room; place, seat, spot, position; place, location, site; spot, place; court, field, pitch, course; village; town; municipality; place; down!
   Examples:
-    - example1
+    - Tut mir leid, der Platz ist besetzt.
+    - Bitte nehmen Sie Platz!
+    - Ich wohne Messeplatz 5.
+    - Hier ist noch ein Platz frei.
+    - Ich finde keinen Parkplatz.
+    - In unserer Wohnung haben wir nicht genug Platz.
+    - Ist dieser Platz noch frei?
+    - Die Post ist auf dem Platz, direkt am Markt.
 
 - Id: plötzlich
   Level: B1
@@ -20620,7 +20628,8 @@
   Cambridge: roll; wheel, castor, runner; roll, tube; role, part
   Wiki: roll, reel, spool; roll, tube; a relatively small wheel on which something is rolled (as on a wheelie bin); role, part; roller, castor, pulley; roll; mangle, wringer; rolling pin; role
   Examples:
-    - example1
+    - Die Schauspielerin hat ihre Rolle sehr gut gespielt.
+    - Geld spielt in diesem Fall keine Rolle.
 
 - Id: der Roman
   Level: B1
@@ -20958,6 +20967,7 @@
   Wiki: sentence; proposition, theorem; set; movement; set; jump, leap; sediment, grounds; typesetting
   Examples:
     - Dieser Satz ist sehr einfach.
+    - Den letzten Satz verstehe ich nicht.
 
 - Id: sauber
   Level: A2
@@ -26323,7 +26333,7 @@
   Cambridge: to underline
   Wiki: to underscore, to underline
   Examples:
-    - example1
+    - Wir sollen alle wichtigen Wörter unterstreichen.
 
 - Id: unterstützen
   Level: B1
@@ -27518,13 +27528,13 @@
     - example1
 
 - Id: der Volleyball
-  Level: B1
+  Level: A2
   Form: ä-e
   Meaning: volleyball
   Cambridge: volleyball
   Wiki: volleyball (game); volleyball (ball)
   Examples:
-    - example1
+    - Im Sommer spiele ich gern Volleyball.
 
 - Id: völlig
   Level: B1
@@ -27814,7 +27824,8 @@
   Cambridge: area code; primary
   Wiki: area code; primary election
   Examples:
-    - example1
+    - Wie ist die Vorwahl von München?
+    - Er kannte die Vorwahl von Bamberg auswendig.
 
 - Id: vorwärts
   Level: B1
@@ -29009,7 +29020,8 @@
   Cambridge: number, figure; number
   Wiki: number, numeral, figure; tails
   Examples:
-    - example1
+    - Können Sie die Zahl bitte wiederholen?
+    - Die Zahl der Internetnutzer wird immer größer.
 
 - Id: die Anzahl
   Level: B1
@@ -30517,11 +30529,11 @@
 - Id: das Bundesland
   Level: M
   Form: ä-er
-  Meaning: state, land
+  Meaning: (federal) state, land
   Cambridge: (federal) state
   Wiki: federal state; One of the 16 federal states of Germany; One of the 9 federal states of Austria
   Examples:
-    - example1
+    - Die Hauptstadt des Bundeslandes Niedersachsen ist Hannover.
 
 - Id: Bundesrepublik Deutschland
   Level: M
@@ -30595,7 +30607,7 @@
   Cambridge: canton
   Wiki: Q23058; Q1559605
   Examples:
-    - example1
+    - Manche Staaten sind in Kantone gegliedert.
 
 - Id: konservativ
   Level: M
