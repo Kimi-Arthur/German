@@ -4514,7 +4514,15 @@
   Examples:
     - Greifen Sie doch zu!
 
-- Id: die Verdächtiger
+- Id: der Verdächtige
+  Form: -n
+  Feminine:
+    Id: die Verdächtige
+    Form: -n
+  Meaning: suspect
+  Wiki: ': female suspect'
+  Examples:
+    - Der Verdächtige hat sich inzwischen gestellt.
 
 - Id: anführen
   Form: führt an, führte an, hat angeführt
