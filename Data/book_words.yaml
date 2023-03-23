@@ -1673,6 +1673,10 @@
     - Ich mache jeden Morgen Gymnastik.
 
 - Id: fehlend
+  Meaning: missing
+  Wiki: missing
+  Examples:
+    - Die Namen der fehlenden Mitglieder wurden notiert.
 
 - Id: neu
   Level: A1
@@ -1756,6 +1760,11 @@
     - Gott sei Dank ist ihm nichts passiert.
 
 - Id: servus
+  Meaning: hi; bye (s-)
+  Cambridge: hi; bye
+  Wiki: hello, hi; goodbye, bye, farewell; cheers
+  Examples:
+    - Sehr geehrter Herr Minister, servus lieber Freund.
 
 - Id: die Verabschiedung
   Form: -en
