@@ -4533,6 +4533,14 @@
     - Kopenhagen belegt Platz vier.
 
 - Id: folgen
+  Level: B1
+  Form: folgt, folgte, hat gefolgt
+  Meaning: to follow
+  Cambridge: to follow; follow; to obey, to do what you’re told
+  Wiki: to follow (on the same path or in a sequence); to understand, to be attentive to; to follow (as a consequence), to come of, to result from; to obey (rules, the law), to follow (instructions, advice); to follow
+  Examples:
+    - Es folgen die Nachrichten.
+    - Folgen Sie der Reiseleiterin.
 
 - Id: der Touristenmagnet
   Form: -e
@@ -4599,8 +4607,7 @@
   Wiki: comparison; settlement (resolution of a dispute)
   Examples:
     - Ein Vergleich ist schwer möglich.
-    - Im Vergleich zum Wetter letzte Woche
-      ist es heute warm.
+    - Im Vergleich zum Wetter letzte Woche ist es heute warm.
 
 - Id: bewerten
   Form: bewertet, bewertete, hat bewertet
