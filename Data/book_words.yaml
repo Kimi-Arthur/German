@@ -1675,6 +1675,18 @@
 - Id: fehlend
 
 - Id: neu
+  Level: A1
+  Form: neuer, am neusten
+  Meaning: new
+  Cambridge: new; clean; fresh; recent; newly, recently; differently; again
+  Wiki: new; modern, recent, latest
+  Examples:
+    - Ich bin der neue Kollege.
+    - Wir haben eine neue Wohnung.
+    - Ich bin der neue Mitarbeiter.
+    - Zeig mal! Ist das dein neues Handy?
+    - Mein Wagen ist noch ganz neu.
+    - Man darf hier nicht mehr rauchen? Das ist mir ganz neu.
 
 - Id: die Studie
   Level: B1
@@ -1820,6 +1832,14 @@
     - Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden.
 
 - Id: die Gitarre
+  Level: A2
+  Form: -n
+  Meaning: guitar
+  Cambridge: guitar
+  Wiki: guitar
+  Examples:
+    - Er kann gut Gitarre spielen.
+    - Ich spiele seit drei Jahren Gitarre.
 
 - Id: das Klavier
   Level: A2
@@ -2038,6 +2058,11 @@
     - „Gehen“ ist ein Verb.
 
 - Id: umformen
+  Form: formt um, formte um, hat umgeformt
+  Meaning: to transform, rearrange
+  Wiki: to transform, rearrange; to reshape; to convert
+  Examples:
+    - Der Transformator formt die Spannung um.
 
 - Id: tauschen
   Level: A2
@@ -2145,6 +2170,14 @@
     - Das können wir später machen.
 
 - Id: die Präsentation
+  Level: B1
+  Form: -en
+  Meaning: presentation
+  Cambridge: presentation
+  Wiki: presentation
+  Examples:
+    - Erklären Sie den Inhalt und die Struktur Ihrer Präsentation.
+    - Die Schülerin hat für ihre Präsentation eine gute Note bekommen.
 
 - Id: das Büro
   Level: A2
