@@ -4578,7 +4578,13 @@
   Examples:
     - Klaus macht seine Sache immerhin, die Kritik der anderen kümmert ihn nicht.
 
-- Id: das Beratungsunternehmen
+- Id: das Unternehmen
+  Form: '-'
+  Meaning: business, enterprise, company
+  Cambridge: company, firm, business; venture, operation, undertaking
+  Wiki: business, enterprise, company; undertaking; operation
+  Examples:
+    - Ich leite ein Unternehmen.
 
 - Id: die Umfrage
   Level: B1
