@@ -1936,7 +1936,7 @@
 - Id: der Kursteilnehmer
   Form: '-'
   Feminine:
-    Id: Kursteilnehmerin
+    Id: die Kursteilnehmerin
     Form: -nen
   Meaning: course participant
   Examples:
@@ -2673,7 +2673,7 @@
 - Id: der Preisträger
   Form: '-'
   Feminine:
-    Id: Preisträgerin
+    Id: die Preisträgerin
     Form: -nen
   Meaning: prize winner, laureate
   Cambridge: prizewinner
