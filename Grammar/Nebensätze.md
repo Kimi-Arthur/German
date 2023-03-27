@@ -129,11 +129,17 @@ Ich gehe arbeiten, obwohl ich mich verletzt habe.
 
 Ich bin pünktlich, obwohl ich den Zug verpasst habe.
 
-### Compare with "weil"
+### Compared to "weil"
 
 Marina bleibt zu Hause, weil sie kein Geld hat. (expected)
 
 Marina macht eine Reise, obwohl sie kein Geld hat. (unexpected)
+
+### Convert with "trotzdem"
+
+Er <span style="color:red">kauft</span> ein Auto, **obwohl** er kein Geld <span style="color:blue">hat</span>. =>
+
+Er <span style="color:blue">hat</span> kein Geld, **trotzdem** <span style="color:red">kauft</span> er ein Auto.
 
 ### Reversed
 
