@@ -877,12 +877,9 @@
   Examples:
     - 'Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.'
 
-- Id: der Angehörige
+- Id: Angehörige
   Level: B1
-  Form: -n
-  Feminine:
-    Id: die Angehörige
-    Form: -n
+  Form: '-, die/keine -n; m: (ein) -r'
   Meaning: relative (cousin, etc)
   Cambridge: relatives; member
   Wiki: ': female relative/next of kin/relation; female member ; female national'
@@ -1207,12 +1204,9 @@
     - Mein Schwager ist bei einer Möbelfirma angestellt.
     - Da vorne ist die Kasse. Du musst dich anstellen.
 
-- Id: der Angestellte
+- Id: Angestellte
   Level: B1
-  Form: -n
-  Feminine:
-    Id: die Angestellte
-    Form: -n
+  Form: '-, die/keine -n; m: (ein) -r'
   Meaning: employee
   Cambridge: (salaried) employee; white-collar worker
   Wiki: ': female employee/worker/clerk/servant/staffer/staff member'
@@ -2550,12 +2544,9 @@
   Examples:
     - Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.
 
-- Id: der Auszubildender
+- Id: Auszubildende
   Level: B1
-  Form: Auszubildenden
-  Feminine:
-    Id: die Auszubildende
-    Form: '-'
+  Form: '-, die/keine -n; m: (ein) -r'
   Abbreviation:
     Id: der Azubi
     Form: -s
@@ -3326,12 +3317,9 @@
     - Ein Onkel von mir ist ein bekannter Politiker.
     - Dieses Lied ist sehr bekannt.
 
-- Id: der Bekannter
+- Id: Bekannte
   Level: A1
-  Form: Bekannten
-  Feminine:
-    Id: die Bekannte
-    Form: -n
+  Form: '-, die/keine -n; m: (ein) -r'
   Meaning: acquaintance
   Wiki: acquaintance, friend
   Examples:
@@ -13237,12 +13225,9 @@
   Examples:
     - In meiner Jugend habe ich mich sehr für Musik interessiert.
 
-- Id: der Jugendliche
+- Id: Jugendliche
   Level: A1
-  Form: -n
-  Feminine:
-    Id: die Jugendliche
-    Form: -nen
+  Form: '-, die/keine -n; m: (ein) -r'
   Meaning: young person, teenager
   Cambridge: young boy/girl/person, adolescent
   Wiki: ': female youth, female teenager, female adolescent'
@@ -14636,12 +14621,9 @@
     - Ich war zwei Wochen krank.
     - Ich muss mich um meine kranke Großmutter kümmern.
 
-- Id: der Kranke
+- Id: Kranke
   Level: B1
-  Form: -n
-  Feminine:
-    Id: die Kranke
-    Form: -n
+  Form: '-, die/keine -n; m: (ein) -r'
   Meaning: sick-person
   Cambridge: sick/ill person
   Wiki: ': sick female, female sufferer (from a disease), female patient, female invalid'
@@ -15342,7 +15324,7 @@
   Abbreviation:
     Id: der Lkw
     Form: -s
-  Meaning: truck
+  Meaning: truck (14)
   Cambridge: truck
   Wiki: truck
   Examples:
@@ -15351,7 +15333,7 @@
 - Id: der Laster
   Level: B1
   Form: '-'
-  Meaning: lorry, truck
+  Meaning: truck (6)
   Cambridge: truck; vice
   Wiki: vice; ; truck, lorry
   Examples:
@@ -25074,12 +25056,9 @@
     - Sein Vater ist schon lange tot.
     - Meine Großeltern sind schon lange tot.
 
-- Id: der Tote
+- Id: Tote
   Level: B1
-  Form: -n
-  Feminine:
-    Id: die Tote
-    Form: -n
+  Form: '-, die/keine -n; m: (ein) -r'
   Meaning: dead person
   Cambridge: dead person, dead man/woman
   Wiki: ': female cadaver; female corpse'
