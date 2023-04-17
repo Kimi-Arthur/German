@@ -93,9 +93,3 @@
 
 - anrufen + A.
 - jemand aus + D.
-
-## Themen
-
-- Was ist im Büro?
-- Was mache ich im Büro?
-- Telefonnotizen

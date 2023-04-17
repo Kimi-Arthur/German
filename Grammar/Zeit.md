@@ -16,7 +16,7 @@ Time point
 | **Wann** ist der Unterricht zu Ende? | When does the class end?    |
 | **Um** 21.00 Uhr.                    | At 21:00.                   |
 
-### Dauer (wie lange)
+### Zeitdauer (wie lange)
 
 Asking about how long
 
@@ -31,7 +31,7 @@ Asking about how long
 | zwei Stunden                                         | 2 hours                             |
 | zweieinhalb Stunden                                  | 2 and half hours                    |
 
-### Dauer (von wann bis wann)
+### Zeitdauer (von wann bis wann)
 
 Asking about from when until when
 
@@ -40,7 +40,7 @@ Asking about from when until when
 | **Von wann bis wann** hast du Zeit? | From when to when do you have time? |
 | **Von** 12.00 **bis** 14.00 Uhr.    | From 12:00 to 14:00.                |
 
-### Dauer (bis wann)
+### Zeitdauer (bis wann)
 
 Asking about until when
 
@@ -49,7 +49,7 @@ Asking about until when
 | **Bis wann** hast du Zeit? | Until when do you have time? |
 | **Bis** 14.00 Uhr.         | Until 14:00.                 |
 
-### Dauer (seit wann)
+### Zeitdauer (seit wann)
 
 Asking about since when (Spek A1 P184)
 
@@ -80,21 +80,34 @@ How to tell the time on clock (Spek A1 P72)
 
 Days of the week
 
-| die <ruby>Arbeitstage<rt>working days</rt></ruby> | das <ruby>Wochenende<rt>weekend</rt></ruby> |
-| ------------------------------------------------- | ------------------------------------------- |
-| der Montag                                        | der Samstag                                 |
-| der Dienstag                                      | der Sonntag                                 |
-| der Mittwoch                                      |                                             |
-| der Donnerstag                                    |                                             |
-| der Freitag                                       |                                             |
+### die Arbeitstage
 
-### der Montag vs montags
+working days
 
-| Sentence               | Meaning             |
-| ---------------------- | ------------------- |
-| Am Montag schlafe ich. | I sleep on Monday.  |
-| Ich schlafe montags.   | I sleep on Mondays. |
+- der Montag
+- der Dienstag
+- der Mittwoch
+- der Donnerstag
+- der Freitag
 
+### das Wochenende
+
+weekend
+
+- der Samstag
+- der Sonntag
+
+### am Montag vs montags
+
+#### am Montag = this Monday or usually every Monday
+
+Am Montag sind wir ins Kino gegangen.
+
+Am Montag gehen wir gewöhnlich ins Kino.
+
+#### montags = usually every Monday
+
+Montags haben wir 6 Stunden Unterricht.
 
 ## Tageszeiten
 
@@ -128,16 +141,27 @@ Periods of the day
 
 ## Temporale Präpositionen
 
-Temporal prepositions (Spek A1 P184, Aktiv P74)
+Temporal prepositions (Spek A1 P184, Aktiv P74, Begegnungen A2 P119)
 
-| Category                                  | Preposition       | Example                     |
-| ----------------------------------------- | ----------------- | --------------------------- |
-| <ruby>Zeitpunkt<rt>moment</rt></ruby>     | um (+Dativ)       | um 8 Uhr                    |
-|                                           | am (+Dativ)       | am Montag/Wochenende        |
-|                                           | im (+Dativ)       | im Sommer/Januar            |
-|                                           | vor (+Dativ)      | vor dem Essen               |
-|                                           | nach (+Dativ)     | nach dem Essen              |
-|                                           | zwischen (+Dativ) | zwischen 9 und 12 Uhr       |
-| <ruby>Zeitdauer<rt>duration</rt></ruby>   | von (+Dativ)      |                             |
-|                                           | bis (+Akkusativ)  |                             |
-| <ruby>seit wann<rt>since when</rt></ruby> | seit (+Dativ)     | Ich arbeite seit 2 Stunden. |
+### Zeitpunkt
+
+- um +D.: um 8 Uhr
+- am +D.: am Abend, Nachmittag, Montag, Wochenende, 23. Juni 2021
+- im +D.: im Sommer, Januar
+- vor +D.: vor dem Essen
+- nach +D.: nach dem Essen
+- zwischen +D.: zwischen 9 und 12 Uhr
+- Keine Präposition für Jahr: 2019
+
+### Zeitdauer
+
+- von +D.: von Februar, 9.00 Uhr
+  - vom 23. Juni 2021
+- bis +A.: bis Mai, 12.00 Uhr
+  - bis zum 23. Juni 2021
+- seit +D.: seit 2 Stunden, September
+
+### Datumsangabe
+
+- Heute ist **der** erste Januar. (N.)
+- Wir treffen uns **am** ersten Januar. (D.)
