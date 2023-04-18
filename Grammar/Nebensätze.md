@@ -12,12 +12,6 @@ where the (main) verb in the dependent clause is put at the end (after potential
 
 For seprable verbs, they are "combined" (ich stehe ... auf => dass ich ... aufstehe).
 
-## Questions
-
-For dass, when to have "es" in main sentence.
-
-For the clause, order of other parts.
-
 ## dass
 
 Used when referring to "was".

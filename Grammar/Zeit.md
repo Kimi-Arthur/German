@@ -64,7 +64,7 @@ How to tell the time on clock (Spek A1 P72)
 
 > Expression: Es ist...
 
-| Time      | German               | Meaning                |
+| Time      | German (informal)    | Meaning                |
 | --------- | -------------------- | ---------------------- |
 | 11.00 Uhr | elf Uhr              | 11 o'clock             |
 | 11.05 Uhr | fünf nach elf        | 5 past 11              |
@@ -131,6 +131,11 @@ Periods of the day
 
 ## Datum
 
+- Heute ist **der** erste Januar/Erste. (N.)
+- Wir treffen uns **am** ersten Janua/Erstenr. (D.)
+
+### Ordinalzahlen
+
 | Range | Choice | Examples                                   |
 | ----- | ------ | ------------------------------------------ |
 | 1     | erste  | Heute ist der erste Erste.                 |
@@ -145,23 +150,21 @@ Temporal prepositions (Spek A1 P184, Aktiv P74, Begegnungen A2 P119)
 
 ### Zeitpunkt
 
-- um +D.: um 8 Uhr
-- am +D.: am Abend, Nachmittag, Montag, Wochenende, 23. Juni 2021
-- im +D.: im Sommer, Januar
-- vor +D.: vor dem Essen
-- nach +D.: nach dem Essen
-- zwischen +D.: zwischen 9 und 12 Uhr
+- um `D`: um 8 Uhr
+- am `D`: am Abend, Nachmittag, Montag, Wochenende, 23. Juni 2021
+- in `D`: in der Mittagpause
+  - im `D` (=in dem): im Sommer, Januar
+
+- vor `D`: vor dem Essen
+- nach `D`: nach dem Essen
+- zwischen `D`: zwischen 9 und 12 Uhr
 - Keine Präposition für Jahr: 2019
 
 ### Zeitdauer
 
-- von +D.: von Februar, 9.00 Uhr
+- von `D`: von Februar, 9.00 Uhr
   - vom 23. Juni 2021
-- bis +A.: bis Mai, 12.00 Uhr
+- bis `A`: bis Mai, 12.00 Uhr
   - bis zum 23. Juni 2021
-- seit +D.: seit 2 Stunden, September
-
-### Datumsangabe
-
-- Heute ist **der** erste Januar. (N.)
-- Wir treffen uns **am** ersten Januar. (D.)
+- von `D` bis zu `D`
+- seit `D`: seit 2 Stunden, September
