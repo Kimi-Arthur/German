@@ -150,21 +150,22 @@ Temporal prepositions (Spek A1 P184, Aktiv P74, Begegnungen A2 P119)
 
 ### Zeitpunkt
 
-- um `D`: um 8 Uhr
+- um `A`: um 8 Uhr, **Mitternacht**
 - am `D`: am Abend, Nachmittag, Montag, Wochenende, 23. Juni 2021
 - in `D`: in der Mittagpause
   - im `D` (=in dem): im Sommer, Januar
 
-- vor `D`: vor dem Essen
-- nach `D`: nach dem Essen
-- zwischen `D`: zwischen 9 und 12 Uhr
 - Keine Präposition für Jahr: 2019
 
 ### Zeitdauer
 
-- von `D`: von Februar, 9.00 Uhr
+- von/ab `D`: von Februar, 9.00 Uhr
   - vom 23. Juni 2021
 - bis `A`: bis Mai, 12.00 Uhr
   - bis zum 23. Juni 2021
-- von `D` bis zu `D`
+- von `D` bis `A`: von Montag bis Freitag, von 9 bis 11 Uhr
+- vom `D` bis zum `D`: vom 3.4 bis zum 15.4
+- zwischen `D`: zwischen 9 und 12 Uhr
+- vor `D`: vor dem Essen
+- nach `D`: nach dem Essen
 - seit `D`: seit 2 Stunden, September
