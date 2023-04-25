@@ -24,20 +24,11 @@ P127
 
 Ich weiß/Ich glaube nicht/Es ist höchste Zeit, dass Sie kommt.
 
-## Texte
+## Im Büro
 
-### Duzen oder Siezen?
+### Wörter
 
-Duzen kam plötzlich mit der "New Economy". Vorgesetzte und Mitarbeiter duzten sich und fühlten sich sehr modern. Aber das ist nicht automatisch einfach oder persönlich.
-
-Das Sie ist heute wieder auf dem Vormarsch. Die Jungen duzen weniger heute als 1993.
-
-Ein Sprachwissenschaftler sagt, dass das Duzen oder Siezen beim Umgang ist wichtig: Eine Sie-Form ist sowohl Verhältnis als auch Respekt. Wer zu schnell duzt, gilt als unhöflich, wer zu lange siezt, wirkt steif.
-
-## Wörter
-
-### P98
-
+#### P98
 - der Gegenstand
 - die Rede
 - die Technik
@@ -77,7 +68,7 @@ Ein Sprachwissenschaftler sagt, dass das Duzen oder Siezen beim Umgang ist wicht
 - der Abschied
 - die Kantine
 
-### P99
+#### P99
 
 - die Kommilitone
 - das Telefongespräch
@@ -85,7 +76,7 @@ Ein Sprachwissenschaftler sagt, dass das Duzen oder Siezen beim Umgang ist wicht
 - die Notiz
 - abstürzen
 
-### P100
+#### P100
 
 - die Verwaltung
 - die Direktion
@@ -101,50 +92,9 @@ Ein Sprachwissenschaftler sagt, dass das Duzen oder Siezen beim Umgang ist wicht
 - kündigen
 - langjährig
 
-### P113
+### Ausdrücke
 
-- das Dokument
-- die Kollege
-- die Verwaltung
-- das Schreiben
-- die Dienstreise
-- der Anruf
-- die Besprechung
-- das Angebot
-- die Administration
-- das Telefongespräch
-- die Geschäftsreise
-- der Mitarbeiter
-- die Unterlagen
-- der Brief
-- die E-Mail
-- die Offerte
-- die Sitzung
-
-### P114
-
-- der Auftrag
-
-### P118
-
-- plötzlich
-- die Umgangsform
-- Vorgesezte
-- untereinander
-- der Vormarsch
-- selbst
-- überlegen
-- der Umgang
-- distanzieren
-- der Respekt
-- generell
-- gelten
-- wirken
-- steif
-
-## Ausdrücke
-
-### P98
+#### P98
 
 - Kaffee kochen/trinken
 - über Privates/über dienstliche Probleme mit Kollegen reden
@@ -164,16 +114,67 @@ Ein Sprachwissenschaftler sagt, dass das Duzen oder Siezen beim Umgang ist wicht
 - im Internet surfen oder Sachen kaufen/verkaufen
 - Computerspiele spielen
 
-### P100
+#### P100
 
-- anrufen + A.
-- jemand aus + D.
+- anrufen + `A`
+- jemand aus + `D`
 
-### P114
+## Duzen oder Siezen?
+
+Duzen kam plötzlich mit der "New Economy". Vorgesetzte und Mitarbeiter duzten sich und fühlten sich sehr modern. Aber das ist nicht automatisch einfach oder persönlich.
+
+Das Sie ist heute wieder auf dem Vormarsch. Die Jungen duzen weniger heute als 1993.
+
+Ein Sprachwissenschaftler sagt, dass das Duzen oder Siezen beim Umgang ist wichtig: Eine Sie-Form ist sowohl Verhältnis als auch Respekt. Wer zu schnell duzt, gilt als unhöflich, wer zu lange siezt, wirkt steif.
+
+### Wörter P98
+
+- plötzlich
+- die Umgangsform
+- Vorgesezte
+- untereinander
+- der Vormarsch
+- selbst
+- überlegen
+- der Umgang
+- distanzieren
+- der Respekt
+- generell
+- gelten
+- wirken
+- steif
+
+## Kommunikation im Büro
+
+### Wörter
+
+#### P113
+
+- das Dokument
+- die Kollege
+- die Verwaltung
+- das Schreiben
+- die Dienstreise
+- der Anruf
+- die Besprechung
+- das Angebot
+- die Administration
+- das Telefongespräch
+- die Geschäftsreise
+- der Mitarbeiter
+- die Unterlagen
+- der Brief
+- die E-Mail
+- die Offerte
+- die Sitzung
+
+#### P114
+
+- der Auftrag
+
+### Ausdrücke P114
 
 - Angebot machen/schreiben/prüfen/annehmen/ablehnen
 - Auftrag schreiben/senden/erhalten/bestätigen
 - Bestellung schreiben/aufgeben
 - Produkt anbieten/bestellen/liefern
-
-## Kommunikation
