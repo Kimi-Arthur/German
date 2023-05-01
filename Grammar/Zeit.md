@@ -134,7 +134,7 @@ Periods of the day
 - Heute ist **der** erste Januar/Erste. (N.)
 - Wir treffen uns **am** ersten Janua/Erstenr. (D.)
 
-### Ordinalzahlen
+### [Ordinalzahlen](./Nummer.md#Ordinalzahlen)
 
 | Range | Choice | Examples                                   |
 | ----- | ------ | ------------------------------------------ |

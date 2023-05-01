@@ -1,6 +1,6 @@
 # Nummer
 
-## Grundzahlwort
+## Grundzahl
 
 | Word                                | Pronunciation                                                |        Number |
 | ----------------------------------- | ------------------------------------------------------------ | ------------: |
@@ -56,3 +56,57 @@ https://de.wiktionary.org/wiki/Verzeichnis:Deutsch/Zahlen
 ## Komma
 
 8,4 => acht Komma vier
+
+## Ordinalzahlen
+
+Ordinalzahlen werden beim Datum, für Titel (z. B. von Königen), bei Aufzählungen oder einer Reihenfolge verwendet.
+
+| Range | Choice        | Examples                                              |
+| ----- | ------------- | ----------------------------------------------------- |
+| 1     | **erste**     |                                                       |
+| 3     | **dritte**    |                                                       |
+| 7     | sieb**te**    |                                                       |
+| 8     | acht**e**     |                                                       |
+| < 20  | +te           | zwei**te**, fünf**te**, zwölf**te**                   |
+| >= 20 | +ste          | zweiunddreißig**ste**, hundert**ste**, tausend**ste** |
+| >100  | = /100 + %100 | einhundert**erste**, hundertundzwei**te**             |
+
+### Deklination
+
+= Adjektive
+
+|           | bestimmter Artikel |      |      | unbestimmter Artikel |      |      | ohne Artikel |      |      |      |
+| :-------: | :----------------: | :--: | :--: | :------------------: | :--: | :--: | :----------: | :--: | :--: | :--: |
+|           |         m          | f/n  |  Pl  |          m           |  f   |  n   |      m       |  f   |  n   |  Pl  |
+| Nominativ |         -          |  -   |  +n  |          +r          |  -   |  +s  |      +r      |  -   |  +s  |  -   |
+|  Genitiv  |         +n|         +n|         +n         |  +n  |  +n  |          +n          |  +n  |  +r  |      +n      |  +r  |      |      |
+|   Dativ   |         +n|         +n|         +n         |  +n  |  +n  |          +n          |  +m  |  +r  |      +m      |  +n  |      |      |
+| Akkusativ |         +n         |  -   |  +n  |          +n          |  -   |  +s  |      +n      |  -   |  +s  |  -   |
+
+## Verwendung
+
+Ich komme am sechsten Juni.
+
+Viele Rentner leben mit dritten Zähnen.
+
+### Verwendung
+
+#### Datum
+
+- Heute ist der elfte Juni.
+- Das Konzert findet am siebzehnten Januar statt.
+
+#### Titel (z. B. von Königen)
+
+- Friedrich I. – Friedrich der Erste
+- Elisabeth II. – Elisabeth die Zweite
+
+#### Aufzählungen
+
+- Warum ich nicht im Kino bin? Erstens habe ich keine Lust, zweitens bin ich pleite und drittens gefällt mir der Film nicht.
+
+#### Reihenfolge
+
+- Deutsch ist seine zweite Fremdsprache.
+- Wir wohnen im fünfzehnten Stock.
+- Er hat es als Erster erfahren.
