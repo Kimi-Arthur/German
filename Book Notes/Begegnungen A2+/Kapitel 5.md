@@ -45,7 +45,7 @@
 - bieten für jmdn. etwas = offer sb. sth.
 - X km entfernt von + `D` = X km away from
 - mitten in + `D` = in the middle of
-- **zum** Strand = to the beach
+- **zum** Strand = an den Strand = to the beach
 - *Es fährt ein Bus direkt zum Strand. = There is a bus going directly to the beach.*
 - verfügen über + `A` = to have at one's disposal
 - gegen Bezahlung = for a fee
@@ -55,12 +55,91 @@
 
 ## Länder und Nationalitäten
 
+### Genus der Länder
+
+- m.
+
+  - der Sudan
+  - der Iran
+  - der Irak
+- f.
+
+  - die Schweiz
+  - die Ukraine
+  - die Türkei
+  - die Slowakei
+- n.
+
+  - Deutschland
+  - Indien
+  - China
+  - Spanien
+  - Großbritannien
+  - Schweden
+  - Japan
+  - Italien
+  - Griechenland
+  - Russland
+  - Brasilien
+  - Ungarn
+  - Polen
+  - Marokko
+  - Amerika
+  - Ägypten
+- Pl.
+
+  - die Niederlande
+  - die Malediven
+  - die Vereinigten Staaten
+  - die USA
+
+### Einwohner und Sprache
+
+- Bulgarien
+  - Bulgar**e**
+  - Bulgar**in**
+  - Bulgar**en**
+
 ## Eine Reise planen
 
 ## Städtereise
 
 ## Wissenswertes (fakultativ)
 
-## Grammar: Lokalangaben
+## Grammar: wohin P152
+
+- nach `D`
+  - nach Hause
+  - Länder ohne Artikel
+    - nach Deutschland/Italien/Frankreich
+  - Städte und Kontinente
+    - nach München/Europa
+  - Himmelsrichtungen
+    - nach Osten/Süden
+- in `A`
+  - Normale Orte
+    - in die Kirche
+    - in die Schule
+    - in das Restaurant
+  - Länder mit Artikel
+    - in die Schweiz
+    - in den Sudan
+    - in die Vereinigten Staaten
+- an `A`
+  - an das Fenster
+  - Wasser
+    - an die Nordsee/die Ostsee
+    - an den Strand
+- auf `A`
+  - auf den Aussichtsturm
+  - Inseln
+    - auf eine einsame Insel
+    - auf die Kanarischen Inseln
+- zu `D`
+  - Menschen
+    - zu meinen Eltern/Oma und Opa
+  - Richtung
+    - zum Bahnhof/Unterricht
+    - zum Strand
 
 ## Grammar: Deklination der Adjektive
