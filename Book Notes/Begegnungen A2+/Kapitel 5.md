@@ -102,6 +102,60 @@
 
 ## Eine Reise planen
 
+### Wörter
+
+- die Hitze
+- gerade
+- der Vorteil
+- recherchieren
+- sicher
+- erinnern
+- Segeln
+- das Segel
+- der Freundeskreis
+- berichten
+- der Wellnessbereich
+- die Aussicht
+- die Passkontrolle
+- die Auskunft
+- der Schalter
+  - Meaning: switch, box office, counter (in train station, bank)
+- fehlend
+- die Fahrbahn
+  - lane, carriageway, runway
+- vorsichtig
+- planmäßig
+- Reisende
+- die Richtung
+- die Nachricht
+- geschäftlich
+- wahrscheinlich
+
+### Ausdrücke
+
+- *Ich war vor zwei Jahren dort.*
+- Sie haben da recht.
+- *Sie wollten doch immer segeln lernen, oder?*
+- Ich *sehe* mir das heute Abend auf jeden Fall mal im Netz *an*.
+- Gern geschehen.
+- Susanne hat Sie *dazu* herzlich eingeladen.
+- Der Preis ist *inklusive* Halbpension.
+- einen Reiseführer lesen
+- eine Reise buchen
+- eine Tablette nehmen
+- mit dem Schiff fahren
+- Geld wechseln
+- im Stau stehen
+- *Die Passagiere müssen zum Schalter 33.*
+- **auf** der Fahrbahn/A 2
+- Sie kommen *erst* zwei Stunden später an. Die Maschine fliegt *erst* in zwei Stunden.
+- **auf** dem Flughafen
+- Es tut mir furchtbar leid, aber ...
+- Leider kann ich erst um ... in ... sein.
+- Ich bin wahrscheinlich *erst* ...
+- *Ich melde mich eventuell noch mal.*
+- Auf Wiederhören.
+
 ## Städtereise
 
 ## Wissenswertes (fakultativ)
