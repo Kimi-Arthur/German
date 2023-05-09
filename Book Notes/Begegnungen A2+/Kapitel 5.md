@@ -46,7 +46,7 @@
 - X km entfernt von + `D` = X km away from
 - mitten in + `D` = in the middle of
 - **zum** Strand = an den Strand = to the beach
-- *Es fährt ein Bus direkt zum Strand. = There is a bus going directly to the beach.*
+- *Es* fährt ein Bus direkt zum Strand. = There is a bus going directly to the beach.
 - verfügen über + `A` = to have at one's disposal
 - gegen Bezahlung = for a fee
 - zählen zu `A` = count as
@@ -119,7 +119,7 @@
 - die Passkontrolle
 - die Auskunft
 - der Schalter
-  - Meaning: switch, box office, counter (in train station, bank)
+  - switch, box office, counter (in train station, bank)
 - fehlend
 - die Fahrbahn
   - lane, carriageway, runway
@@ -171,7 +171,7 @@
   - Himmelsrichtungen
     - nach Osten/Süden
 - in `A`
-  - Normale Orte
+  - normale Orte
     - in die Kirche
     - in die Schule
     - in das Restaurant
