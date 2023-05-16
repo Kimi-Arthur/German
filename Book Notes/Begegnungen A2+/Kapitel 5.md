@@ -160,6 +160,24 @@
 
 ## Wissenswertes (fakultativ)
 
+### Texte
+
+### Wörter
+
+- die Hexe
+  - witch
+- der Teufel
+  - devil
+- der Besen
+  - broom
+- der Scheiterhaufen
+  - funeral pyre
+- das Moor
+  - marsh, swamp
+- die Klippe
+  - cliff
+- der Gipfel
+
 ## Grammar: wohin P152
 
 - nach `D`
