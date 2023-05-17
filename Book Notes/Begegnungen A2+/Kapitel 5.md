@@ -156,7 +156,13 @@
 - *Ich melde mich eventuell noch mal.*
 - Auf Wiederhören.
 
-## Städtereise
+## Reiseziel Wien
+
+### Texte
+
+Wien ist ein attraktives Reiseziel. Die beliebteste ziele sind der Prater, der Stephansdom und das Schloss Schönbrunn. Museum ist nicht solch populär.
+
+### Wörter
 
 ## Wissenswertes (fakultativ)
 
