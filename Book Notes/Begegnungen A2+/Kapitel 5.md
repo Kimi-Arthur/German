@@ -184,6 +184,15 @@ Wien ist ein attraktives Reiseziel. Die beliebteste ziele sind der Prater, der S
   - cliff
 - der Gipfel
 
+## Die Externsteine
+
+- Die Wissenschaftler wissen nicht, was die Steine bedeuten.
+
+## Das Teufelsmoor
+
+- Viele Menschen sind Opfer eines Mörders in das Moor.
+- Torf wurde in das Moor gefunden.
+
 ## Grammar: wohin P152
 
 - nach `D`
