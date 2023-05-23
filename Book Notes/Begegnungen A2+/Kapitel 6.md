@@ -55,6 +55,7 @@
   - an `D` sterben
 - allergisch
 - reagieren
+  - auf `A` reagieren
 - die Wirksamkeit
 - spektakulär
 - bedrohlich
@@ -76,3 +77,42 @@
 - der Planet
 - der Biss
 - menschenleer
+
+## Haustiere haben positive Wirkung
+
+- Menschen und Tiere leben immer zusammen.
+- Haustiere sind hilfreich für Gesundheit.
+- Tierhalter sind froher und emotional intelligenter.
+
+### Wörter
+
+- wenig
+  - wenig + adj.
+- intensiv
+- das Nutztier
+- der Begleiter
+- das Wohlbefinden
+- der Besitzer
+- nachweisen
+- leiden
+  - an `D` leiden
+- die Einsamkeit
+- das Gefühl
+- emotional
+- führen
+  - zu `D` führen
+- erkennen
+- vor allem
+- der Bereich
+- bewältigen
+- die Kleinigkeit
+- beeinflussen
+- die Stimmung
+- körperlich
+- entstehen
+- der Straßenverkehr
+- der Halter
+- kontaktfreudig
+- lebensfroh
+  - full of joy in life
+
