@@ -47,7 +47,7 @@ See Gramatik aktiv K79
 - (because) Ich gehe zum Bahnhof, **denn** ich **will** meinen Freund abholen.
 - (although) Er kauf ein Auto, **obwohl** er kein Geld hat.
 
-- *(nevertheless) Er hat kein Geld, **trotzdem** kauft er ein Auto.*
+- *(nevertheless) Er hat kein Geld. **Trotzdem** kauft er ein Auto.*
 
 - (when, once in the past) Ich habe viel gelernt, **als** ich noch Kind war.
 - (than) Die Alpen sind schöner, **als** wir es gehört haben.
