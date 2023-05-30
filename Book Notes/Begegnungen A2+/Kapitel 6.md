@@ -118,6 +118,11 @@
 
 ## "Gegensätze ziehen sich an" oder "Gleich und Gleich gesellt sich gern"?
 
+- Die Wissenschaftler aus Mannheim und Köln empfehlen, dass Menschen mit eine Ähnlichkeit bei Eigenschaften glücklich sind.
+- Aber, wenn zwei gesprächige oder dominante Menschen zusammenleben, haben die Gleichkeiten Nachteile.
+- Andere Untersuchungen kamen zu den Ergebnissen, dass mehr als zwei Drittel unterschiedliche sind.
+- Gegenseitiger Respekt ist ein andere wichtige Faktor.
+
 ### Wörter
 
 - der Gegensatz
