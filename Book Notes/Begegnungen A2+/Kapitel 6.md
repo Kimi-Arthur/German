@@ -116,3 +116,49 @@
 - lebensfroh
   - full of joy in life
 
+## "Gegensätze ziehen sich an" oder "Gleich und Gleich gesellt sich gern"?
+
+### Wörter
+
+- der Gegensatz
+- anziehen
+- gesellen
+- das Sprichwort
+- die Gegensätzlichkeit
+- die Gleichheit
+- die Partnerschaft
+- sich auswirken
+  - auf `A` sich auswirken
+- das Resultat
+- die Untersuchung
+- überraschend
+- die Eigenschaft
+- die Kategorie
+- die Verträglichkeit
+- die Gewissenhaftigkeit
+- die Empathie
+- die Charaktereigenschaft
+- ordentlich
+- die Pünktlichkeit
+- der Wert
+- der Forscher
+- gesprächig
+- dominant
+- die Persönlichkeit
+- beeinflussen
+- die Befragung
+- ergeben
+- zudem
+- die Beziehung
+- der Faktor
+- gegenseitig
+- das Verhalten
+- die Stärke
+- die Schwäche
+- die Augenhöhe
+  - auf Augenhöhe
+
+### Ausdrücke
+
+- zur Beantwortung dieser Frage
+- nach Meinung der Wissenschaftler
