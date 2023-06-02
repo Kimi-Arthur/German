@@ -187,3 +187,38 @@
 - darüber
 - aufregen
   - sich über `A` aufregen
+
+## Wer sticht am gemeinsten?
+
+### Wörter
+
+- die Mücke
+- der Stich
+
+- die Pharmaindustrie
+- bedecken
+- der Moskito
+- das Opfer
+- das Cholesterin
+- der Anteil
+- riechen
+  - to smell, to sense
+- der Bien
+- die Wespe
+- erzeugen
+- der Stachel
+- hinterlassen
+- das Insekt
+- die Allergie
+- die Süßspeise
+- abdecken
+- der Geruch
+- lindern
+- die Hummel
+- dick
+- gelten
+  - als `N` gelten
+- friedlich
+- der Irrtum
+- schmerzhaft
+- gelangen
