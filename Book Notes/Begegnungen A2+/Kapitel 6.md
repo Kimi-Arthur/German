@@ -167,3 +167,23 @@
 
 - zur Beantwortung dieser Frage
 - nach Meinung der Wissenschaftler
+
+## Worüber ärgern sich die Europäer?
+
+### Wörter
+
+- die Spitze
+- das Ärgernis
+- der Mitmensch
+- aggressiv
+- das Marketing
+- die Besonderheit
+- dagegen
+- das Fehlen
+- der Ärger
+  - Grund zum Ärgern
+- die Ampel
+  - an einer/der Ampel bei Rot
+- darüber
+- aufregen
+  - sich über `A` aufregen
