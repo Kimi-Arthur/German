@@ -37,7 +37,7 @@ Ich weiß/Ich glaube nicht/Es ist höchste Zeit, dass Sie kommt.
 - die Maus
 - der Computer
 - die Tastatur
-- die Lautsprecher
+- der Lautsprecher
 - der Drucker
 - die Druckerpatrone
 - der Kopierer
