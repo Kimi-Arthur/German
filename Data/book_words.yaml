@@ -3669,7 +3669,7 @@
 - Id: gelten
   Level: B1
   Form: gilt, galt, hat gegolten
-  Meaning: to be valid
+  Meaning: to be valid; to count
   Cambridge: to be valid; to be allowed
   Wiki: to be valid; to count; to hold true; to be effective; to be in force; to be worth; to be for/of (+ dative); to be regarded (as something); to pass (for something); to be necessary; to pass; to go; (Often translated with as a unit into , , , , etc.)
   Examples:
@@ -4756,6 +4756,10 @@
     - Ich brauche einen neuen Drucker für meinen Computer.
 
 - Id: die Patrone
+  Form: -n
+  Meaning: cartridge, round
+  Cambridge: cartridge
+  Wiki: cartridge, round; cartridge case, casing; ink cartridge (for a printer)
 
 - Id: der Kopierer
   Level: B1
@@ -4899,8 +4903,8 @@
 
 - Id: das Plenum
   Form: Plenen
-  Cambridge: plenary session
   Meaning: session at which all members are expected to be present
+  Cambridge: plenary session
 
 - Id: die Tätigkeit
   Level: B1
@@ -5042,6 +5046,10 @@
   Wiki: overview; bird's-eye view; big picture; overview
 
 - Id: der Arbeitgeber
+  Form: '-'
+  Meaning: employer
+  Cambridge: employer
+  Wiki: employer
 
 - Id: der Arbeitnehmer
   Form: '-'
@@ -5258,6 +5266,10 @@
   Wiki: manners
 
 - Id: Vorgesetzte
+  Form: -n
+  Meaning: superior, person in charge
+  Cambridge: superior
+  Wiki: ': female superior, female person in charge'
 
 - Id: untereinander
   Meaning: among ourselves / themselves
