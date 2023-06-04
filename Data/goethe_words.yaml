@@ -2554,7 +2554,8 @@
       Id: die Azubi
       Form: -s
   Meaning: apprentice, trainee
-  Wiki: apprentice; trainee
+  Cambridge: apprentice
+  Wiki: ': female appentice, female trainee'
   Examples:
     - Er ist ab März Auszubildender der Firma xy.
 
@@ -3321,7 +3322,8 @@
   Level: A1
   Form: '-, die/keine -n; m: (ein) -r'
   Meaning: acquaintance
-  Wiki: acquaintance, friend
+  Cambridge: acquaintance
+  Wiki: ': female acquaintance, female friend'
   Examples:
     - Ein Bekannter von mir heißt Klaus.
     - In Hannover wohnen Bekannte von mir.
