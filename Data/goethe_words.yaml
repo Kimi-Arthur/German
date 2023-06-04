@@ -879,7 +879,7 @@
 
 - Id: Angehörige
   Level: B1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Meaning: relative (cousin, etc)
   Cambridge: relatives; member
   Wiki: ': female relative/next of kin/relation; female member ; female national'
@@ -1206,7 +1206,7 @@
 
 - Id: Angestellte
   Level: B1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Meaning: employee
   Cambridge: (salaried) employee; white-collar worker
   Wiki: ': female employee/worker/clerk/servant/staffer/staff member'
@@ -2546,7 +2546,7 @@
 
 - Id: Auszubildende
   Level: B1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Abbreviation:
     Id: der Azubi
     Form: -s
@@ -3320,7 +3320,7 @@
 
 - Id: Bekannte
   Level: A1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Meaning: acquaintance
   Cambridge: acquaintance
   Wiki: ': female acquaintance, female friend'
@@ -13229,7 +13229,7 @@
 
 - Id: Jugendliche
   Level: A1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Meaning: young person, teenager
   Cambridge: young boy/girl/person, adolescent
   Wiki: ': female youth, female teenager, female adolescent'
@@ -14625,7 +14625,7 @@
 
 - Id: Kranke
   Level: B1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Meaning: sick-person
   Cambridge: sick/ill person
   Wiki: ': sick female, female sufferer (from a disease), female patient, female invalid'
@@ -25060,7 +25060,7 @@
 
 - Id: Tote
   Level: B1
-  Form: '-, die/keine -n; m: (ein) -r'
+  Form: adjektivische Deklination
   Meaning: dead person
   Cambridge: dead person, dead man/woman
   Wiki: ': female cadaver; female corpse'
