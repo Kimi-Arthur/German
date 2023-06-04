@@ -4665,90 +4665,677 @@
     - Durch die Bildung des Vulkans kam es zu großen Veränderungen auf der Insel.
 
 - Id: der Gegenstand
+  Level: B1
+  Form: ä-e
+  Meaning: object, item, thing, article
+  Cambridge: object; subject
+  Wiki: object, item, thing, article; (in the technical language of civil law statutes, either a corporeal object or a subjective right)
+  Examples:
+    - Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.
+    - 'Eine Durchsage der Polizei: Auf der A8 liegen Gegenstände auf der Fahrbahn.'
+
 - Id: die Rede
+  Level: B1
+  Form: -n
+  Meaning: speech, talk
+  Cambridge: speech
+  Wiki: speech, address
+  Examples:
+    - Der Präsident hat eine Rede gehalten.
+
 - Id: die Technik
+  Level: B1
+  Form: -en
+  Meaning: technology, technique
+  Cambridge: technology, engineering; technical equipment; technique
+  Wiki: technique; technology
+  Examples:
+    - Ich verstehe nicht viel von Technik.
+    - Um die Aufgaben zu lösen, brauchst du eine gute Arbeitstechnik.
+
 - Id: der Bildschirm
+  Level: B1
+  Form: -e
+  Meaning: screen
+  Cambridge: screen, monitor
+  Wiki: screen; monitor; display
+  Examples:
+    - Ich brauche einen größeren Bildschirm für meinen Computer.
+    - Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.
+
 - Id: der Laptop
+  Level: A2
+  Form: -s
+  Meaning: laptop
+  Cambridge: laptop
+  Wiki: laptop computer
+  Examples:
+    - Ohne einen Laptop geht heute fast kein Student mehr in die Bibliothek.
+
 - Id: die Maus
+  Level: M
+  Form: ä-e
+  Meaning: mouse
+  Cambridge: mouse; sweetie; dough
+  Wiki: mouse (animal); mouse (computer input device); babe; dough
+  Examples:
+    - Der Elefant hat Angst vor der kleinen weißen Maus.
+
 - Id: der Computer
+  Level: A1
+  Form: '-'
+  Meaning: computer
+  Cambridge: computer
+  Wiki: computer
+  Examples:
+    - Wann bekommst du deinen neuen Computer?
+
 - Id: die Tastatur
+  Level: B1
+  Form: -en
+  Meaning: keyboard
+  Cambridge: keyboard
+  Wiki: keyboard (on a computer, typewriter, etc.)
+  Examples:
+    - Die Tastatur an meinem Computer ist ganz neu.
+
 - Id: die Lautsprecher
+  Form: '-'
+  Meaning: loud speaker
+  Cambridge: loudspeaker
+  Wiki: loudspeaker; loudhailer; public address system, PA system, PA, tannoy
+
 - Id: der Drucker
-- Id: die Druckerpatrone
+  Level: A1
+  Form: '-'
+  Meaning: printer
+  Cambridge: printer
+  Wiki: ; printer; printer
+  Examples:
+    - Mein Drucker ist kaputt.
+    - Ich brauche einen neuen Drucker für meinen Computer.
+
+- Id: die Patrone
+
 - Id: der Kopierer
+  Level: B1
+  Form: '-'
+  Meaning: copier
+  Cambridge: (photo)copier
+  Wiki: copier
+  Examples:
+    - Der Kopierer ist schon wieder kaputt.
+
 - Id: der Scanner
+  Form: '-'
+  Meaning: scanner
+  Cambridge: scanner
+  Wiki: scanner; one who scans
+
 - Id: der USB-Stick
+  Form: -s
+  Meaning: flash drive, thumb drive, USB drive, memory stick, pen drive
+  Cambridge: USB stick
+  Wiki: flash drive, thumb drive, USB drive, memory stick, pen drive
+
 - Id: das Kabel
+  Level: B1
+  Form: '-'
+  Meaning: cable
+  Cambridge: cable; wire, cable
+  Wiki: cable; telegram; thick rope
+  Examples:
+    - Wo ist das Kabel für das Aufnahmegerät?
+    - Mit Kabel bekommen Sie über 30 Fernsehkanäle.
+
 - Id: die Kaffeemaschine
+  Level: K
+  Form: -n
+  Meaning: coffee machine
+  Wiki: coffeemaker
+  Examples:
+    - Aus den Millionen von Büroküchen auf der ganzen Welt ist die Kaffeemaschine nicht mehr wegzudenken.
+
 - Id: das Buch
+  Level: A1
+  Form: ü-er
+  Meaning: book
+  Cambridge: book; books
+  Wiki: book; books; omasum, the third compartment of the stomach of a ruminant; either of two municipalities in the Rhineland-Palatinate, Germany
+  Examples:
+    - Gute Bücher sind oft sehr teuer.
+    - In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
+    - Was kostet das Buch, bitte?
+    - Haben Sie ein Buch über die Geschichte von Berlin?
+
 - Id: die Fachzeitschrift
+  Form: -en
+  Meaning: professional / specialist journal
+  Wiki: professional / specialist journal
+
 - Id: das Dokument
+  Level: B1
+  Form: -e
+  Meaning: document
+  Cambridge: document
+  Wiki: document
+  Examples:
+    - Hast du alle Dokumente für die Anmeldung dabei?
+    - Dieser Stein ist ein wichtiges Dokument für die alte römische Kultur.
+
 - Id: der Ordner
+  Level: B1
+  Form: '-'
+  Meaning: folder
+  Cambridge: file; folder; steward, marshal
+  Wiki: binder, folder; folder; one who keeps order (security person)
+  Examples:
+    - example1
+
 - Id: der Stift
+  Level: A2
+  Form: -e
+  Meaning: pen
+  Cambridge: pen(cil); peg, tack; apprentice
+  Wiki: pin; pencil, pen, stylus;; a boy, especially an apprentice; endowed monastery; secular convent
+  Examples:
+    - Kannst du mir bitte einen Stift geben? - Was brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?
+
 - Id: die Büroklammer
+  Form: -n
+  Meaning: paper clip
+  Cambridge: paper clip
+  Wiki: paper clip
+
 - Id: der Locher
+  Form: '-'
+  Meaning: hole punch
+  Cambridge: hole puncher
+  Wiki: hole punch
+
 - Id: der Terminkalender
+  Level: B1
+  Form: '-'
+  Meaning: calendar
+  Cambridge: planner, datebook
+  Wiki: appointment diary
+  Examples:
+    - Hast du unser Treffen schon in deinen Terminkalender eingetragen?
+
 - Id: Sonstiges
+  Form: adjektivische Deklination
+
 - Id: das Foto
+  Level: A1
+  Form: -s
+  Meaning: photo
+  Cambridge: photo
+  Wiki: photograph; camera
+  Examples:
+    - Darf ich ein Foto machen?
+    - Können Sie dieses Foto vergrößern?
+
 - Id: die Blume
+  Level: A1
+  Form: -n
+  Meaning: flower
+  Cambridge: flower; plant
+  Wiki: flower, blossom; plant, houseplant; efflorescence; flower; tail, scut; nose, bouquet; head
+  Examples:
+    - Gefallen dir die Blumen?
+    - Wir haben meiner Mutter Blumen zum Geburtstag geschenkt.
+
 - Id: orientieren
+  Form: orientiert, orientierte, hat orientiert
+  Meaning: to orient oneself; to orientate oneself
+  Cambridge: to get one’s bearings; to be based/oriented
+  Wiki: to orient oneself; to orientate oneself
+
 - Id: die Vorgabe
+  Form: -n
+  Meaning: specification, guideline, provision
+  Cambridge: guideline
+  Wiki: specification, guideline, provision; setting, default
+
 - Id: das Plenum
-- Id: meistgenannt
+  Form: Plenen
+  Cambridge: plenary session
+  Meaning: session at which all members are expected to be present
+
 - Id: die Tätigkeit
+  Level: B1
+  Form: -en
+  Meaning: activity, occupation
+  Cambridge: job, occupation; activity
+  Wiki: activity; job
+  Examples:
+    - Welche Tätigkeit würde Ihnen Spaß machen?
+
 - Id: das Ergebnis
+  Level: A1
+  Form: -se
+  Meaning: result
+  Cambridge: result; result, outcome; conclusion
+  Wiki: result, outcome, conclusion, finding, fruit, consequence, upshot, answer; earnings, profit, output, outturn; score
+  Examples:
+    - Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+    - Ein so gutes Ergebnis hat uns alle überrascht.
+
 - Id: organisieren
+  Level: B1
+  Form: organisiert, organisierte, hat organisiert
+  Meaning: to organise
+  Cambridge: to organize
+  Wiki: to organize
+  Examples:
+    - example1
+
 - Id: der Protokoll
+  Form: -e
+  Meaning: protocol
+  Cambridge: record, minutes, transcript; report, record; protocol
+  Wiki: protocol; minutes (of a meeting)
+
 - Id: die Beförderung
+  Level: K
+  Form: -en
+  Meaning: transportation
+  Cambridge: transportation; promotion
+  Wiki: transportation; promotion
+  Examples:
+    - Papas Beförderung zum Regierungsbaudirektor war unter Dach und Fach.
+
 - Id: der Abschied
+  Level: B1
+  Form: -e
+  Meaning: farewell, parting
+  Cambridge: leave, farewell
+  Wiki: parting, farewell
+  Examples:
+    - Ich nehme heute Abschied von Dir.
+
 - Id: die Kantine
+  Level: B1
+  Form: -n
+  Meaning: canteen
+  Cambridge: canteen
+  Wiki: canteen
+  Examples:
+    - In unserer Kantine kann man günstig essen.
+
 - Id: die Kommilitone
+  Form: -n
+  Meaning: fellow student, classmate
+  Cambridge: fellow student
+  Wiki: fellow student, classmate (at college or university), uni mate, schoolmate
+
 - Id: das Telefongespräch
+  Form: -e
+  Meaning: telephone conversation
+  Wiki: telephone conversation, conversation had by telephone
+
 - Id: stören
+  Level: A2
+  Form: stört, störte, hat gestört
+  Meaning: to disturb
+  Cambridge: to disturb; to bother, to disturb; to disrupt
+  Wiki: to disturb, to interfere, to bother
+  Examples:
+    - Darf ich Sie einen Augenblick stören?
+    - Du kannst das Radio anlassen. Das stört mich nicht.
+    - Störe ich?
+    - Darf ich Sie kurz stören?
+    - Mach die Musik leiser! Sie stört mich.
+
 - Id: die Notiz
+  Level: A2
+  Form: -en
+  Meaning: note
+  Cambridge: note; item
+  Wiki: note (memorandum); memo
+  Examples:
+    - Schreib mir bitte eine Notiz.
+    - Haben Sie einen Notizzettel für mich?
+    - Ich habe Ihnen eine Notiz geschrieben.
+    - Hast du einen Notizzettel für mich?
+
 - Id: abstürzen
+  Form: stürzt ab, stürzte ab, ist abgestürzt
+  Meaning: to crash
+  Cambridge: to crash
+  Wiki: to crash; to crash; to crash
+
 - Id: die Verwaltung
+  Level: B1
+  Form: -en
+  Meaning: management, administration
+  Cambridge: administration, management; administration (department), authority; administration (office)
+  Wiki: administration, management, administering, managing
+  Examples:
+    - Sprechen Sie bitte mit der Verwaltung. Die können Ihnen helfen.
+
 - Id: die Direktion
+  Form: -en
+  Meaning: management, administration
+  Cambridge: management, administration; offices
+  Wiki: management, administration; directorate, board
+
 - Id: das Sekretariat
+  Form: -e
+  Meaning: central administration office
+  Cambridge: administration; office
+  Wiki: a central office in any business or institution (or a department thereof), responsible for correspondence, making appointments, and general administrative support; secretariat
+
 - Id: die Abteilung
+  Level: B1
+  Form: -en
+  Meaning: department
+  Cambridge: department
+  Wiki: department; division; battalion
+  Examples:
+    - Meine Freundin arbeitet in der Abteilung von Frau Kaufmann.
+
 - Id: die Übersicht
-- Id: der Arbeitsgeber
+  Form: -en
+  Meaning: overview; bird's-eye view; big picture
+  Cambridge: overview
+  Wiki: overview; bird's-eye view; big picture; overview
+
+- Id: der Arbeitgeber
+
 - Id: der Arbeitnehmer
+  Form: '-'
+  Meaning: employee, worker
+  Cambridge: employee
+  Wiki: employee, worker
+
 - Id: die Arbeitszeit
+  Form: -en
+  Meaning: the time of duty at a workplace, the time spend working
+  Cambridge: working hours; work time, working time
+  Wiki: the time of duty at a workplace, the time spend working
+
 - Id: die Pause
+  Level: A1
+  Form: -n
+  Meaning: break, pause
+  Cambridge: break, recess; intermission; rest
+  Wiki: pause, break; tracing, blueprint
+  Examples:
+    - example1
+
 - Id: angestellt
+  Meaning: employed
+  Cambridge: employed
+
 - Id: sich bewerben
+  Level: A2
+  Form: bewirbt, bewarb, hat beworben
+  Meaning: to apply for
+  Cambridge: to apply; to stand
+  Wiki: to apply; to try to win (a favour); to court; to advertise
+  Examples:
+    - Ich möchte mich um diese Stelle bewerben.
+    - Ich habe mich um diese Stelle beworben.
+    - Ich habe mich als Kellner beworben.
+
 - Id: kündigen
+  Level: B1
+  Form: kündigt, kündigte, hat gekündigt
+  Meaning: to give one's notice, terminate
+  Cambridge: to cancel, to terminate; to hand in one’s notice, to give notice (on)
+  Wiki: to cancel (a contract); to quit, resign from (a job); to fire (an employee)
+  Examples:
+    - Ich war mit meiner Stelle nicht zufrieden und habe gekündigt.
+    - Hast du deine Wohnung schon gekündigt?
+    - Ich möchte die Zeitschrift nicht mehr. - Dann musst du schriftlich kündigen.
+    - Meine Arbeit gefällt mir nicht mehr. Ich habe heute gekündigt.
+
 - Id: langjährig
+  Form: langjähriger, am langjährigsten
+  Meaning: long-standing, long-term
+  Wiki: long-standing, long-term
+
 - Id: das Dokument
+  Level: B1
+  Form: -e
+  Meaning: document
+  Cambridge: document
+  Wiki: document
+  Examples:
+    - Hast du alle Dokumente für die Anmeldung dabei?
+    - Dieser Stein ist ein wichtiges Dokument für die alte römische Kultur.
+
 - Id: die Kollege
+  Form: -n
+  Meaning: colleague
+  Cambridge: coworker, colleague
+  Wiki: colleague, coworker, workmate, fellow worker or member; buddy, mate, homie (usually male, sense is rare in the feminine form)
+
 - Id: die Verwaltung
+  Level: B1
+  Form: -en
+  Meaning: management, administration
+  Cambridge: administration, management; administration (department), authority; administration (office)
+  Wiki: administration, management, administering, managing
+  Examples:
+    - Sprechen Sie bitte mit der Verwaltung. Die können Ihnen helfen.
+
 - Id: das Schreiben
+  Level: B1
+  Form: '-'
+  Meaning: letter, communication
+  Cambridge: letter
+  Wiki: writing, letter
+  Examples:
+    - Haben Sie mein Schreiben vom 3. März erhalten?
+
 - Id: die Dienstreise
+  Level: K
+  Form: -n
+  Meaning: business trip (D-)
+  Wiki: A business trip or other journey in an official or similar non-private capacity
+  Examples:
+    - Seine Dienstreise ging diesmal nach München.
+
 - Id: der Anruf
+  Level: A1
+  Form: -e
+  Meaning: (phone) call
+  Cambridge: call
+  Wiki: (phone) call
+  Examples:
+    - Sie bekommt viele Anrufe auf ihrem Handy.
+    - Eva bekommt viele Anrufe von ihrem Freund Juan.
+    - Ich warte auf einen Anruf aus Berlin.
+
 - Id: die Besprechung
+  Level: B1
+  Form: -en
+  Meaning: meeting, discussion
+  Cambridge: meeting
+  Wiki: meeting, discussion, (gathering among business people to discuss their business); Review
+  Examples:
+    - Tut mir leid, Herr Schmidt ist noch in einer Besprechung.
+
 - Id: das Angebot
+  Level: A1
+  Form: -e
+  Meaning: offer
+  Cambridge: offer; selection, range; supply
+  Wiki: offer, proposition; a range of products or services provided by a company or institution; supply; bargain; a product, service, facility, or activity made available to consumers or users
+  Examples:
+    - Heute sind Sportschuhe im Angebot.
+    - Heute sind Bananen im Angebot.
+    - Stellenangebote finden Sie in der Zeitung oder im Internet.
+    - Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.
+    - Der Käse ist heute im Angebot.
+
 - Id: die Administration
-- Id: das Telefongespräch
+  Form: -en
+  Meaning: administration, management
+  Cambridge: administration
+  Wiki: administration, management; administration, government
+
 - Id: die Geschäftsreise
+  Form: -n
+  Meaning: business trip (G-)
+  Wiki: business trip
+
 - Id: der Mitarbeiter
+  Level: A2
+  Form: '-'
+  Feminine:
+    Id: die Mitarbeiterin
+    Form: -nen
+  Meaning: employee
+  Cambridge: employee; collaborator, contributor
+  Wiki: employee, person who works, with others, in a particular business; collaborator, person who works, with others towards a common goal; assistant, person who assists another person in a business; staff member
+  Examples:
+    - Unsere Firma hat sieben Mitarbeiter.
+
 - Id: die Unterlagen
+  Level: B1
+  Form: (Pl.)
+  Meaning: documents
+  Examples:
+    - Ich schicke Ihnen alle Unterlagen mit der Post zu.
+
 - Id: der Brief
+  Level: A1
+  Form: -e
+  Meaning: letter (written message)
+  Cambridge: letter
+  Wiki: letter (written message)
+  Examples:
+    - Haben Sie einen Brief für mich?
+    - Ich schreibe nicht gern Briefe.
+
 - Id: die E-Mail
+  Level: A1
+  Form: -s
+  Meaning: e mail
+  Cambridge: e-mail
+  Wiki: e-mail
+  Examples:
+    - Ich habe Ihre E-Mail nicht bekommen.
+    - Ich schreibe Ihnen/dir eine E-Mail.
+
 - Id: die Offerte
+  Form: -n
+  Meaning: offer, bid
+  Cambridge: offer
+  Wiki: offer, bid
+
 - Id: die Sitzung
+  Form: -en
+  Meaning: meeting
+  Cambridge: meeting, session; visit, session
+  Wiki: meeting; session; assembly; sitting
+
 - Id: der Auftrag
+  Level: A1
+  Form: ä-e
+  Meaning: order, commission, mission
+  Cambridge: task, job; order, contract
+  Wiki: assignment, job, mission; order, instructions
+  Examples:
+    - Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.
+    - Im Moment hat die Firma besonders viele Aufträge.
+
 - Id: plötzlich
+  Level: B1
+  Meaning: suddenly
+  Cambridge: sudden; suddenly
+  Wiki: sudden; abrupt; brusque; suddenly
+  Examples:
+    - example1
+
 - Id: die Umgangsform
-- Id: Vorgesezte
+  Form: -en
+  Meaning: manners
+  Cambridge: manner
+  Wiki: manners
+
+- Id: Vorgesetzte
+
 - Id: untereinander
+  Meaning: among ourselves / themselves
+  Cambridge: among ourselves/yourselves/themselves; each other
+  Wiki: among ourselves / themselves; one under the other
+
 - Id: der Vormarsch
+  Form: ä-e
+  Meaning: (military) advance
+  Cambridge: advance
+  Wiki: advance
+
 - Id: selbst
+  Level: A2
+  Meaning: self
+  Cambridge: myself/yourself/himself etc.; itself; home-; even
+  Wiki: personally, by oneself; even
+  Examples:
+    - Du musst mir nicht helfen, ich mache das selbst.
+    - Den Kuchen habe ich selbst gebacken.
+
 - Id: überlegen
+  Level: B1
+  Form: überlegner, am überlegensten
+  Meaning: to consider
+  Cambridge: to think; superior; in a superior manner
+  Wiki: superior; to think about, to think over
+  Examples:
+    - Ich kann mich nicht entscheiden. Ich muss mir das noch überlegen.
+    - Ich habe mir überlegt, ein Auto zu kaufen.
+
 - Id: der Umgang
+  Form: ä-e
+  Meaning: dealings, (social) intercourse
+  Cambridge: contact, dealings; handling
+  Wiki: dealings, (social) intercourse; acquaintances; (church) procession
+
 - Id: distanzieren
+  Form: distanziert, distanzierte, hat distanziert
+  Meaning: to distance
+  Cambridge: to distance yourself
+  Wiki: to distance
+
 - Id: der Respekt
+  Level: B1
+  Form: (Sg.)
+  Meaning: respect
+  Cambridge: respect
+  Wiki: respect, regard, reverence; ; hats off, kudos
+  Examples:
+    - example1
+
 - Id: generell
+  Meaning: general
+  Cambridge: general; generally, in general
+  Wiki: general; generally
+
 - Id: gelten
+  Level: B1
+  Form: gilt, galt, hat gegolten
+  Meaning: to be valid; to count
+  Cambridge: to be valid; to be allowed
+  Wiki: to be valid; to count; to hold true; to be effective; to be in force; to be worth; to be for/of (+ dative); to be regarded (as something); to pass (for something); to be necessary; to pass; to go; (Often translated with as a unit into , , , , etc.)
+  Examples:
+    - Mein Pass gilt noch ein Jahr.
+    - 'Bitte diesen Zettel gut aufheben: Er gilt als Garantie.'
+
 - Id: wirken
+  Level: B1
+  Form: wirkt, wirkte, hat gewirkt
+  Meaning: to work, have an effect
+  Cambridge: to have an effect, to work; to have an effect; to seem; to work
+  Wiki: to function, to be effective, to work; to appear, to seem; to perform (some action), to achieve (some effect), to work (cause to happen), to cast (a spell); to work or be active in a certain field or activity; to work (toward a goal or for a cause); to take effect, to be effective; to knit (with yarn), to brocade; to knead
+  Examples:
+    - example1
+
 - Id: steif
+  Form: steifer, am steifsten
+  Meaning: stiff, rigid
+  Cambridge: stiff; stiffly
+  Wiki: stiff, rigid

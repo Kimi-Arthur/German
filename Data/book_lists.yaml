@@ -477,7 +477,7 @@
     - die Tastatur
     - die Lautsprecher
     - der Drucker
-    - die Druckerpatrone
+    - die Patrone
     - der Kopierer
     - der Scanner
     - der USB-Stick
@@ -497,7 +497,6 @@
     - orientieren
     - die Vorgabe
     - das Plenum
-    - meistgenannt
     - die Tätigkeit
     - das Ergebnis
     - organisieren
@@ -517,7 +516,7 @@
     - das Sekretariat
     - die Abteilung
     - die Übersicht
-    - der Arbeitsgeber
+    - der Arbeitgeber
     - der Arbeitnehmer
     - die Arbeitszeit
     - die Pause
@@ -535,7 +534,6 @@
     - die Besprechung
     - das Angebot
     - die Administration
-    - das Telefongespräch
     - die Geschäftsreise
     - der Mitarbeiter
     - die Unterlagen
@@ -548,7 +546,7 @@
     # P118
     - plötzlich
     - die Umgangsform
-    - Vorgesezte
+    - Vorgesetzte
     - untereinander
     - der Vormarsch
     - selbst
