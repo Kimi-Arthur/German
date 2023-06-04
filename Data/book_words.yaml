@@ -4974,8 +4974,11 @@
   Examples:
     - In unserer Kantine kann man günstig essen.
 
-- Id: die Kommilitone
+- Id: der Kommilitone
   Form: -n
+  Feminine:
+    Id: die Kommilitonin
+    Form: -nen
   Meaning: fellow student, classmate
   Cambridge: fellow student
   Wiki: fellow student, classmate (at college or university), uni mate, schoolmate
