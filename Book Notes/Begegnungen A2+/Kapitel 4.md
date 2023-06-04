@@ -63,7 +63,7 @@ Ich weiß/Ich glaube nicht/Es ist höchste Zeit, dass Sie kommt.
 - die Tätigkeit
 - das Ergebnis
 - organisieren
-- der Protokoll
+- das Protokoll
 - die Beförderung
 - der Abschied
 - die Kantine

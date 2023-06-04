@@ -4938,11 +4938,14 @@
   Examples:
     - example1
 
-- Id: der Protokoll
+- Id: das Protokoll
+  Level: K
   Form: -e
   Meaning: protocol
   Cambridge: record, minutes, transcript; report, record; protocol
   Wiki: protocol; minutes (of a meeting)
+  Examples:
+    - Herr Müller schreibt heute das Protokoll!
 
 - Id: die Beförderung
   Level: K
