@@ -877,9 +877,9 @@
   Examples:
     - 'Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.'
 
-- Id: Angehörige
+- Id: der/die Angehörige
   Level: B1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Meaning: relative (cousin, etc)
   Cambridge: relatives; member
   Wiki: ': female relative/next of kin/relation; female member ; female national'
@@ -1204,9 +1204,9 @@
     - Mein Schwager ist bei einer Möbelfirma angestellt.
     - Da vorne ist die Kasse. Du musst dich anstellen.
 
-- Id: Angestellte
+- Id: der/die Angestellte
   Level: B1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Meaning: employee
   Cambridge: (salaried) employee; white-collar worker
   Wiki: ': female employee/worker/clerk/servant/staffer/staff member'
@@ -2544,9 +2544,9 @@
   Examples:
     - Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.
 
-- Id: Auszubildende
+- Id: der/die Auszubildende
   Level: B1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Abbreviation:
     Id: der Azubi
     Form: -s
@@ -3318,9 +3318,9 @@
     - Ein Onkel von mir ist ein bekannter Politiker.
     - Dieses Lied ist sehr bekannt.
 
-- Id: Bekannte
+- Id: der/die Bekannte
   Level: A1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Meaning: acquaintance
   Cambridge: acquaintance
   Wiki: ': female acquaintance, female friend'
@@ -13227,9 +13227,9 @@
   Examples:
     - In meiner Jugend habe ich mich sehr für Musik interessiert.
 
-- Id: Jugendliche
+- Id: der/die Jugendliche
   Level: A1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Meaning: young person, teenager
   Cambridge: young boy/girl/person, adolescent
   Wiki: ': female youth, female teenager, female adolescent'
@@ -14623,9 +14623,9 @@
     - Ich war zwei Wochen krank.
     - Ich muss mich um meine kranke Großmutter kümmern.
 
-- Id: Kranke
+- Id: der/die Kranke
   Level: B1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Meaning: sick-person
   Cambridge: sick/ill person
   Wiki: ': sick female, female sufferer (from a disease), female patient, female invalid'
@@ -25058,9 +25058,9 @@
     - Sein Vater ist schon lange tot.
     - Meine Großeltern sind schon lange tot.
 
-- Id: Tote
+- Id: der/die Tote
   Level: B1
-  Form: m. & f. adj.
+  Form: adjektivische Deklination
   Meaning: dead person
   Cambridge: dead person, dead man/woman
   Wiki: ': female cadaver; female corpse'
