@@ -4740,6 +4740,13 @@
     - Die Tastatur an meinem Computer ist ganz neu.
 
 - Id: der Lautsprecher
+  Level: B1
+  Form: '-'
+  Meaning: loud speaker
+  Cambridge: loudspeaker
+  Wiki: loudspeaker; loudhailer; public address system, PA system, PA, tannoy
+  Examples:
+    - Bitte achten Sie auch auf die Lautsprecher-Ansagen am Bahnhof.
 
 - Id: der Drucker
   Level: A1
