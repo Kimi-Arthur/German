@@ -5069,7 +5069,7 @@
 
 - Id: die Arbeitszeit
   Form: -en
-  Meaning: the time of duty at a workplace, the time spend working
+  Meaning: working hours
   Cambridge: working hours; work time, working time
   Wiki: the time of duty at a workplace, the time spend working
 
@@ -5124,11 +5124,19 @@
     - Hast du alle Dokumente für die Anmeldung dabei?
     - Dieser Stein ist ein wichtiges Dokument für die alte römische Kultur.
 
-- Id: die Kollege
+- Id: der Kollege
+  Level: A1
   Form: -n
+  Feminine:
+    Id: die Kollegin
+    Form: -nen
   Meaning: colleague
   Cambridge: coworker, colleague
   Wiki: colleague, coworker, workmate, fellow worker or member; buddy, mate, homie (usually male, sense is rare in the feminine form)
+  Examples:
+    - Wie heißt die neue Kollegin?
+    - Ich habe guten Kontakt zu meinen Kollegen.
+    - Mein neuer Kollege ist sehr nett.
 
 - Id: die Verwaltung
   Level: B1
