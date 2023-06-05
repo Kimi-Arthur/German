@@ -5255,7 +5255,7 @@
 
 - Id: die Sitzung
   Form: -en
-  Meaning: meeting
+  Meaning: meeting, sitting
   Cambridge: meeting, session; visit, session
   Wiki: meeting; session; assembly; sitting
 
@@ -5283,8 +5283,8 @@
   Cambridge: manner
   Wiki: manners
 
-- Id: Vorgesetzte
-  Form: -n
+- Id: der/die Vorgesetzte
+  Form: adjektivische Deklination
   Meaning: superior, person in charge
   Cambridge: superior
   Wiki: ': female superior, female person in charge'
