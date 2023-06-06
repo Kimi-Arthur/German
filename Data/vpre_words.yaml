@@ -1,0 +1,694 @@
+- Id: Bescheid wissen
+  Usage: über `A`
+- Id: abhängen
+  Usage: von `D`
+- Id: ablenken
+  Usage: von `D`
+- Id: abschreiben
+  Usage: von `D`
+- Id: absehen
+  Usage: von `D`
+- Id: abwenden
+  Usage: von `D`
+- Id: achten
+  Usage: auf `A`
+- Id: anfangen
+  Usage: mit `D`
+- Id: anhalten
+  Usage: zu `D`
+- Id: ankommen
+  Usage: auf `A`
+- Id: anmerken
+  Usage: zu `D`
+- Id: anpassen
+  Usage: an `A`
+- Id: anspielen
+  Usage: auf `A`
+- Id: antreten
+  Usage: gegen `A`
+- Id: antworten
+  Usage: auf `A`
+- Id: appellieren
+  Usage: an `A`
+- Id: arbeiten
+  Usage: an `D`; bei `D`; für `A`
+- Id: aufhören
+  Usage: mit `D`
+- Id: aufpassen
+  Usage: auf `A`
+- Id: aufregen
+  Usage: über `A`
+- Id: aufrufen
+  Usage: zu `D`
+- Id: ausbrechen
+  Usage: in `A`
+- Id: ausgeben
+  Usage: für `A`
+- Id: ausruhen
+  Usage: von `D`
+- Id: austauschen
+  Usage: mit `D`; über `A`
+- Id: basieren
+  Usage: auf `D`
+- Id: beauftragen
+  Usage: mit `D`
+- Id: bedanken
+  Usage: bei `D`; für `A`
+- Id: befassen
+  Usage: mit `D`
+- Id: befreien
+  Usage: von `D`
+- Id: begeistern
+  Usage: für `A`
+- Id: beginnen
+  Usage: mit `D`
+- Id: beglückwünschen
+  Usage: zu `D`
+- Id: begnügen
+  Usage: mit `D`
+- Id: beharren
+  Usage: auf `D`
+- Id: beitragen
+  Usage: zu `D`
+- Id: beklagen
+  Usage: bei `D`; über `A`
+- Id: belaufen
+  Usage: auf `A`
+- Id: bemühen
+  Usage: um `A`
+- Id: beneiden
+  Usage: um `A`
+- Id: berichten
+  Usage: von `D`; über `A`
+- Id: berufen
+  Usage: auf `A`
+- Id: beruhen
+  Usage: auf `D`
+- Id: beschränken
+  Usage: auf `A`
+- Id: beschweren
+  Usage: bei `D`; über `A`
+- Id: beschäftigen
+  Usage: mit `D`
+- Id: besinnen
+  Usage: auf `A`
+- Id: bestehen
+  Usage: auf `D`; aus `D`; in `D`
+- Id: bestimmen
+  Usage: zu `D`
+- Id: beteiligen
+  Usage: an `D`
+- Id: betrügen
+  Usage: um `A`
+- Id: betteln
+  Usage: um `A`
+- Id: beurteilen
+  Usage: nach `D`
+- Id: bewegen
+  Usage: zu `D`
+- Id: bewerben
+  Usage: um `A`
+- Id: beziehen
+  Usage: auf `A`
+- Id: bitten
+  Usage: um `A`
+- Id: bringen
+  Usage: auf `A`; zu `D`
+- Id: danken
+  Usage: für `A`
+- Id: demonstrieren
+  Usage: für `A`
+- Id: demonstrieren
+  Usage: gegen `A`
+- Id: denken
+  Usage: an `A`
+- Id: dienen
+  Usage: zu `D`
+- Id: diskutieren
+  Usage: mit `D`
+- Id: diskutieren
+  Usage: über `A`
+- Id: distanzieren
+  Usage: von `D`
+- Id: drehen
+  Usage: um `A`
+- Id: drängen
+  Usage: auf `A`
+- Id: drängen
+  Usage: zu `D`
+- Id: duften
+  Usage: nach `D`
+- Id: eignen
+  Usage: für `A`
+- Id: eingehen
+  Usage: auf `A`
+- Id: einigen
+  Usage: auf `A`
+- Id: einigen
+  Usage: mit `D`
+- Id: einladen
+  Usage: auf `A`
+- Id: einladen
+  Usage: zu `D`
+- Id: einlassen
+  Usage: auf `A`
+- Id: einsetzen
+  Usage: für `A`
+- Id: einstellen
+  Usage: auf `A`
+- Id: eintreten
+  Usage: für `A`
+- Id: einwilligen
+  Usage: in `A`
+- Id: ekeln
+  Usage: vor `D`
+- Id: enden
+  Usage: mit `D`
+- Id: engagieren
+  Usage: für `A`
+- Id: entrüsten
+  Usage: über `A`
+- Id: entscheiden
+  Usage: für `A`
+- Id: entscheiden
+  Usage: gegen `A`
+- Id: entschließen
+  Usage: zu `D`
+- Id: entschuldigen
+  Usage: für `A`
+- Id: entschädigen
+  Usage: für `A`
+- Id: erfahren
+  Usage: von `D`
+- Id: erfreuen
+  Usage: an `D`
+- Id: ergeben
+  Usage: aus `D`
+- Id: erholen
+  Usage: von `D`
+- Id: erhöhen
+  Usage: auf `A`
+- Id: erhöhen
+  Usage: um `A`
+- Id: erinnern
+  Usage: an `A`
+- Id: erkennen
+  Usage: an `D`
+- Id: erkranken
+  Usage: an `D`
+- Id: erkundigen
+  Usage: bei `D`
+- Id: erkundigen
+  Usage: nach `D`
+- Id: ermahnen
+  Usage: zu `D`
+- Id: ermutigen
+  Usage: zu `D`
+- Id: ernähren
+  Usage: von `D`
+- Id: erregen
+  Usage: über `A`
+- Id: erschrecken
+  Usage: über `A`
+- Id: ersehen
+  Usage: aus `D`
+- Id: erwarten
+  Usage: von `D`
+- Id: erziehen
+  Usage: zu `D`
+- Id: erzählen
+  Usage: von `D`
+- Id: experimentieren
+  Usage: mit `D`
+- Id: fahnden
+  Usage: nach `D`
+- Id: fehlen
+  Usage: an `D`
+- Id: fliehen
+  Usage: vor `D`
+- Id: folgern
+  Usage: aus `D`
+- Id: forschen
+  Usage: an `D`; nach `D`
+- Id: fragen
+  Usage: nach `D`
+- Id: freuen
+  Usage: auf `A`
+- Id: freuen
+  Usage: über `A`
+- Id: fügen
+  Usage: in `A`
+- Id: führen
+  Usage: zu `D`
+- Id: fürchten
+  Usage: vor `D`
+- Id: gehen
+  Usage: um `A`
+- Id: gehören
+  Usage: zu `D`
+- Id: geradestehen
+  Usage: für `A`
+- Id: geraten
+  Usage: in `A`
+- Id: gewinnen
+  Usage: an `D`
+- Id: gewinnen
+  Usage: gegen `A`
+- Id: gewöhnen
+  Usage: an `A`
+- Id: glauben
+  Usage: an `A`
+- Id: gratulieren
+  Usage: zu `D`
+- Id: grauen vor
+  Usage: (es) `D`
+- Id: greifen
+  Usage: nach `D`
+- Id: halten
+  Usage: an `A`
+- Id: halten
+  Usage: für `A`
+- Id: halten
+  Usage: von `D`
+- Id: halten
+  Usage: zu `D`
+- Id: handeln
+  Usage: gegen `A`
+- Id: handeln
+  Usage: mit `D`
+- Id: handeln
+  Usage: um `A`
+- Id: handeln
+  Usage: von `D`
+- Id: helfen
+  Usage: bei `D`
+- Id: herausfordern
+  Usage: zu `D`
+- Id: herrschen
+  Usage: über `A`
+- Id: hindern
+  Usage: an `D`.
+- Id: hinweisen
+  Usage: auf `A`
+- Id: hoffen
+  Usage: auf `A`
+- Id: hören
+  Usage: auf `A`
+- Id: hören
+  Usage: von `D`
+- Id: hüten
+  Usage: vor `D`
+- Id: informieren
+  Usage: bei `D`
+- Id: informieren
+  Usage: über `A`
+- Id: interessieren
+  Usage: für `A`
+- Id: investieren
+  Usage: in `A`
+- Id: irren
+  Usage: in `D`
+- Id: jammern
+  Usage: über `A`
+- Id: jubeln
+  Usage: über `A`
+- Id: klagen
+  Usage: über `A`
+- Id: kommen
+  Usage: auf `A`
+- Id: kommen
+  Usage: zu `D`
+- Id: konzentrieren
+  Usage: auf `A`
+- Id: kämpfen
+  Usage: für `A`
+- Id: kämpfen
+  Usage: gegen `A`
+- Id: kämpfen
+  Usage: mit `D`
+- Id: kämpfen
+  Usage: um `A`
+- Id: kümmern
+  Usage: um `A`
+- Id: lachen
+  Usage: über `A`
+- Id: leben
+  Usage: von `D`
+- Id: leiden
+  Usage: an `D`
+- Id: leiden
+  Usage: unter `D`
+- Id: liefern
+  Usage: an `A`
+- Id: liegen
+  Usage: an `D`
+- Id: loskommen
+  Usage: von `D`
+- Id: machen
+  Usage: an `A`
+- Id: machen
+  Usage: aus `D`
+- Id: mangeln
+  Usage: an `D`
+- Id: mitmachen
+  Usage: bei `D`
+- Id: mitwirken
+  Usage: an `D`
+- Id: mitwirken
+  Usage: bei `D`
+- Id: multiplizieren
+  Usage: mit `D`
+- Id: nachdenken
+  Usage: über `A`
+- Id: neigen
+  Usage: zu `D`
+- Id: orientieren
+  Usage: an `D`
+- Id: passen
+  Usage: zu `D`
+- Id: philosophieren
+  Usage: über `A`
+- Id: protestieren
+  Usage: gegen `A`
+- Id: raten
+  Usage: zu `D`
+- Id: reagieren
+  Usage: auf `A`
+- Id: rechnen
+  Usage: mit `D`
+- Id: rechnen
+  Usage: zu `D`
+- Id: reden
+  Usage: mit `D`
+- Id: reden
+  Usage: von `D`
+- Id: reden
+  Usage: über `A`
+- Id: referieren
+  Usage: über `A`
+- Id: resultieren
+  Usage: aus `D`
+- Id: richten
+  Usage: an `A`
+- Id: richten
+  Usage: auf `A`
+- Id: richten
+  Usage: nach `D`
+- Id: riechen
+  Usage: nach `D`
+- Id: rufen
+  Usage: nach `D`
+- Id: ruhen
+  Usage: auf `D`
+- Id: rächen
+  Usage: an `D`
+- Id: rächen
+  Usage: für `A`
+- Id: sagen
+  Usage: von `D`
+- Id: sagen
+  Usage: zu `D`
+- Id: sagen
+  Usage: über `A`
+- Id: schicken
+  Usage: an `A`
+- Id: schicken
+  Usage: zu `D`
+- Id: schießen
+  Usage: auf `A`
+- Id: schimpfen
+  Usage: auf `A`
+- Id: schimpfen
+  Usage: mit `D`
+- Id: schimpfen
+  Usage: über `A`
+- Id: schlagen
+  Usage: mit `D`
+- Id: schlagen
+  Usage: um `A`
+- Id: schließen
+  Usage: aus `D`
+- Id: schmecken
+  Usage: nach `D`
+- Id: schreiben
+  Usage: an `A`
+- Id: schreiben
+  Usage: an `D`
+- Id: schreiben
+  Usage: von `D`
+- Id: schreiben
+  Usage: über `A`
+- Id: schwören
+  Usage: auf `A`
+- Id: schämen
+  Usage: für `A`
+- Id: schämen
+  Usage: vor `D`
+- Id: schützen
+  Usage: vor `D`
+- Id: sehnen
+  Usage: nach `D`
+- Id: senden
+  Usage: an `A`
+- Id: siegen
+  Usage: gegen `A`
+- Id: siegen
+  Usage: über `A`
+- Id: sinken
+  Usage: auf `A`
+- Id: sorgen
+  Usage: für `A`
+- Id: sorgen
+  Usage: um `A`
+- Id: spezialisieren
+  Usage: auf `A`
+- Id: spielen
+  Usage: mit `D`
+- Id: spielen
+  Usage: um `A`
+- Id: spotten
+  Usage: über `A`
+- Id: sprechen
+  Usage: für `A`
+- Id: sprechen
+  Usage: gegen `A`
+- Id: sprechen
+  Usage: mit `D`
+- Id: sprechen
+  Usage: von `D`
+- Id: sprechen
+  Usage: über `A`
+- Id: stehen
+  Usage: auf `A`
+- Id: stehen
+  Usage: für `A`
+- Id: stehen
+  Usage: unter `D`
+- Id: steigen
+  Usage: auf `A`
+- Id: steigern
+  Usage: um `A`
+- Id: sterben
+  Usage: an `D`
+- Id: stimmen
+  Usage: für `A`
+- Id: stimmen
+  Usage: gegen `A`
+- Id: stinken
+  Usage: nach `D`
+- Id: stoßen
+  Usage: gegen `A`
+- Id: streben
+  Usage: nach `D`
+- Id: streiten
+  Usage: mit `D`
+- Id: streiten
+  Usage: um `A`
+- Id: sträuben
+  Usage: gegen `A`
+- Id: stören
+  Usage: bei `D`
+- Id: suchen
+  Usage: nach `D`
+- Id: taugen
+  Usage: zu `D`
+- Id: teilen
+  Usage: in `A`
+- Id: teilhaben
+  Usage: an `D`
+- Id: teilnehmen
+  Usage: an `D`
+- Id: tendieren
+  Usage: zu `D`
+- Id: treffen
+  Usage: mit `D`
+- Id: trennen
+  Usage: von `D`
+- Id: treten
+  Usage: gegen `A`
+- Id: träumen
+  Usage: von `D`
+- Id: täuschen
+  Usage: in `D`
+- Id: umgehen
+  Usage: mit `D`
+- Id: umwandeln
+  Usage: in `A`
+- Id: unterhalten
+  Usage: mit `D`
+- Id: unterhalten
+  Usage: über `A`
+- Id: unterrichten
+  Usage: in `D`
+- Id: unterscheiden
+  Usage: nach `D`
+- Id: unterscheiden
+  Usage: von `D`
+- Id: unterscheiden
+  Usage: zwischen `D`
+- Id: unterstützen
+  Usage: bei `D`
+- Id: urteilen
+  Usage: nach `D`
+- Id: urteilen
+  Usage: über `A`
+- Id: verabreden
+  Usage: mit `D`
+- Id: verabreden
+  Usage: zu `D`
+- Id: veranlassen
+  Usage: zu `D`
+- Id: vereinbaren
+  Usage: mit `D`
+- Id: verfügen
+  Usage: über `A`
+- Id: verführen
+  Usage: zu `D`
+- Id: verheiraten
+  Usage: mit `D`
+- Id: verlangen
+  Usage: nach `D`
+- Id: verlangen
+  Usage: von `D`
+- Id: verlassen
+  Usage: auf `A`
+- Id: verleiten
+  Usage: zu `D`
+- Id: verlieben
+  Usage: in `A`
+- Id: vermindern
+  Usage: um `A`
+- Id: vermitteln
+  Usage: zwischen `D`
+- Id: verpflichten
+  Usage: zu `D`
+- Id: verringern
+  Usage: um `A`
+- Id: verschieben
+  Usage: auf `A`
+- Id: verstecken
+  Usage: vor `D`
+- Id: verstehen
+  Usage: mit `D`
+- Id: verstehen
+  Usage: unter `D`
+- Id: verstehen
+  Usage: von `D`
+- Id: verstoßen
+  Usage: gegen `A`
+- Id: verteidigen
+  Usage: gegen `A`
+- Id: vertiefen
+  Usage: in `A`
+- Id: vertragen
+  Usage: mit `D`
+- Id: vertrauen
+  Usage: auf `A`
+- Id: verurteilen
+  Usage: für `A`
+- Id: verurteilen
+  Usage: zu `D`
+- Id: verwandeln
+  Usage: in `A`
+- Id: verwechseln
+  Usage: mit `D`
+- Id: verwenden
+  Usage: für `A`
+- Id: verwenden
+  Usage: zu `D`
+- Id: verzichten
+  Usage: auf `A`
+- Id: warnen
+  Usage: vor `D`
+- Id: warten
+  Usage: auf `A`
+- Id: wehren
+  Usage: gegen `A`
+- Id: weinen
+  Usage: über `A`
+- Id: wenden
+  Usage: an `A`
+- Id: werben
+  Usage: für `A`
+- Id: werben
+  Usage: um `A`
+- Id: werden
+  Usage: zu `D`
+- Id: wetten
+  Usage: um `A`
+- Id: wirken
+  Usage: auf `A`
+- Id: wissen
+  Usage: um `A`
+- Id: wissen
+  Usage: von `D`
+- Id: wundern
+  Usage: über `A`
+- Id: wählen
+  Usage: zu `D`
+- Id: zugehen
+  Usage: auf `A`
+- Id: zugucken
+  Usage: bei `D`
+- Id: zunehmen
+  Usage: an `D`
+- Id: zurückkommen
+  Usage: auf `A`
+- Id: zusammenstoßen
+  Usage: mit `D`
+- Id: zuschauen
+  Usage: bei `D`
+- Id: zusehen
+  Usage: bei `D`
+- Id: zweifeln
+  Usage: an `D`
+- Id: zwingen
+  Usage: zu `D`
+- Id: zählen
+  Usage: auf `A`
+- Id: zählen
+  Usage: zu `D`
+- Id: zögern
+  Usage: bei `D`
+- Id: zögern
+  Usage: mit `D`
+- Id: ändern
+  Usage: an `D`
+- Id: ängstigen
+  Usage: um `A`
+- Id: ängstigen
+  Usage: vor `D`
+- Id: ärgern
+  Usage: über `A`
+- Id: üben
+  Usage: in `D`
+- Id: überreden
+  Usage: zu `D`
+- Id: übersetzen
+  Usage: in `A`
+- Id: übersetzten
+  Usage: aus `D`
+- Id: übertreffen
+  Usage: in `D`
+- Id: überzeugen
+  Usage: von `D`
