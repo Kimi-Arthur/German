@@ -21884,6 +21884,7 @@
 - Id: der Schutz
   Level: B1
   Form: -e
+  Usage: Schutz vor `A`
   Meaning: protection
   Cambridge: protection, shelter
   Wiki: protection; protective installation
@@ -27275,6 +27276,7 @@
 - Id: vertrauen
   Level: B1
   Form: vertraut, vertraute, hat vertraut
+  Usage: `D` vertrauen
   Meaning: to trust
   Cambridge: to trust
   Wiki: to trust, to place confidence in
