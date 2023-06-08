@@ -1,560 +1,2592 @@
 # goethe/words
-
 - Id: Bescheid wissen
   Usage: über `A`
+  Meaning: to know
+  Wiki: to know
+
 - Id: abhängen
+  Form: hängt ab, hing ab, hat abgehangen
   Usage: von `D`
+  Meaning: to depend upon
+  Cambridge: to depend; to be dependent on; to hang out; to take down, to uncouple; to leave behind; to shake off
+  Wiki: to depend (as a necessary condition); to hang out; to take down; to outpace, to shake off, to leave behind
+
 - Id: ablenken
+  Form: lenkt ab, lenkte ab, hat abgelenkt
   Usage: von `D`
+  Meaning: to divert
+  Cambridge: to deflect
+  Wiki: to divert; to distract
+
 - Id: abschreiben
+  Level: B1
+  Form: schreibt ab, schrieb ab, hat abgeschrieben
   Usage: von `D`
+  Meaning: to copy, write off
+  Cambridge: to copy; to write off
+  Wiki: to transcribe; to plagiarize; to write off; to consider something a write-off, as in colloquial use; to call defeat
+  Examples:
+    - Er hat die Hausaufgaben von mir abgeschrieben.
+
 - Id: absehen
+  Form: sieht ab, sah ab, hat abgesehen
   Usage: von `D`
+  Meaning: to foresee
+  Cambridge: to foresee; to learn
+  Wiki: to foresee; to overlook, to disregard, to refrain
+
 - Id: abwenden
+  Form: wendet ab, wandte ab, hat abgewandt
   Usage: von `D`
+  Meaning: to avert, to turn to the side
+  Cambridge: to turn away; to fend off
+  Wiki: to avert, to turn to the side; to turn away; to ward off
+
 - Id: achten
+  Form: achtet, achtete, hat geachtet
   Usage: auf `A`
+  Meaning: to pay attention (to)
+  Cambridge: to respect
+  Wiki: to care about, to pay attention to; to keep an eye on; to respect
+
 - Id: anfangen
+  Level: A1
+  Form: fängt an, fing an, hat angefangen
   Usage: mit `D`
+  Meaning: to begin (a-)
+  Cambridge: to begin, to start
+  Wiki: to begin; to commence; to start doing something; to begin something; to start something; to start a topic; to keep talking about something; to begin something; to start something; to put to good use, to do something good (with)
+  Examples:
+    - Hier fängt die Bahnhofstraße an.
+    - Der Unterricht fängt gleich an.
+    - Würden Sie bitte anfangen?
+    - Ich fange im Herbst meine Ausbildung an.
+    - Wann fängst du mit der Arbeit an?
+
 - Id: anhalten
+  Form: hält an, hielt an, hat angehalten
   Usage: zu `D`
+  Meaning: to stop (cease moving)
+  Cambridge: to stop; to continue, to last
+  Wiki: to stop (cease moving); to continue, to last; to stop, to hold, to keep from moving; to urge, to encourage, to compel (to do something); to hold tight, to hold on to something or someone; to ask for
+
 - Id: ankommen
+  Level: A1
+  Form: kommt an, kam an, ist angekommen
   Usage: auf `A`
+  Meaning: to arrive
+  Cambridge: to arrive; to come
+  Wiki: to arrive; to depend on; to be important, to matter; to be a match for, to stand a chance against
+  Examples:
+    - Wann kommt dieser Zug in Hamburg an?
+    - Bei dem Spiel kommt es darauf an, schneller zu laufen als die anderen.
+
 - Id: anmerken
+  Form: merkt an, merkte an, hat angemerkt
   Usage: zu `D`
+  Meaning: to mark; to note; to make a note of (something)
+  Cambridge: to remark; to make a note of
+  Wiki: to mark; to note; to make a note of (something); to observe (something) in (someone); to notice (something) about (someone)
+
 - Id: anpassen
+  Form: passt an, passte an, hat angepasst
   Usage: an `A`
+  Meaning: to adapt, to adjust
+  Cambridge: to adapt, to adjust; to fit
+  Wiki: to adapt, to adjust; to adapt to, to adjust to
+
 - Id: anspielen
+  Form: spielt an, spielte an, hat angespielt
   Usage: auf `A`
+  Meaning: to insinuate, allude to
+  Cambridge: to pass the ball to
+  Wiki: to insinuate, allude to; to pass to; to play the first card
+
 - Id: antreten
+  Form: tritt an, trat an, hat angetreten
   Usage: gegen `A`
+  Meaning: to arrive; to present oneself
+  Cambridge: to start; to take up; to accept, to take possession of; to report; to line up
+  Wiki: to arrive; to present oneself; to line up; to stand for a muster or report; to compete; to run; to begin (a duty or task, also a voyage); to take (office); to accept (an inheritance); to kick against (a device or machine) to start it; to kick start (a motorcycle); to tread down (soil)
+
 - Id: antworten
+  Level: A1
+  Form: antwortet, antwortete, hat geantwortet
   Usage: auf `A`
+  Meaning: to answer
+  Cambridge: to answer, to reply; to respond
+  Wiki: to answer, to reply; to answer, to reply to
+  Examples:
+    - Er antwortet nicht.
+    - Jorge hat seit drei Wochen nicht auf meinen Brief geantwortet.
+
 - Id: appellieren
+  Form: appelliert, appellierte, hat appelliert
   Usage: an `A`
+  Meaning: to appeal
+  Wiki: to appeal
+
 - Id: arbeiten
+  Level: A1
+  Form: arbeitet, arbeitete, hat gearbeitet
   Usage: an `D`; bei `D`; für `A`
+  Meaning: to work
+  Cambridge: to work
+  Wiki: to work; to work, function, run, operate; to ferment; to work, execute; to make, produce; to do, perform; to work oneself (to); to work one's way; to work (translated by rephrasing to use a general “you” or with the gerund, “working”)
+  Examples:
+    - Ben arbeitet als Kommissar bei der Polizei.
+    - Wo arbeiten Sie?
+    - Ich arbeite als Krankenschwester in einem Krankenhaus.
+    - Er arbeitet heute bis 16 Uhr.
+    - Arzu arbeitet als Krankenschwester im Krankenhaus.
+
 - Id: aufhören
+  Level: A1
+  Form: hört auf, hörte auf, hat aufgehört
   Usage: mit `D`
+  Meaning: to stop
+  Cambridge: to stop
+  Wiki: to stop; to quit; to cease; to stop talking about something
+  Examples:
+    - Der Kurs hört in einer Woche auf.
+    - Hier hört die Bahnhofstraße auf.
+    - Wann hört ihr mit der Arbeit auf?
+    - Kannst du bitte damit aufhören? Ich muss jetzt arbeiten.
+    - Es hört nicht auf zu schneien.
+    - Hier hört die Hauptstraße auf.
+
 - Id: aufpassen
+  Level: A2
+  Form: passt auf, passte auf, hat aufgepasst
   Usage: auf `A`
+  Meaning: to be careful, to take care
+  Cambridge: to be careful, to watch out; to pay attention, to be attentive
+  Wiki: to watch out, to be alert; to look after, to take care of; to be attentive (with something)
+  Examples:
+    - Pass auf, der Teller fällt gleich auf den Boden!
+    - Der Babysitter passt heute Abend auf die Kinder auf.
+    - Er passt im Unterricht nicht auf.
+    - Tut mir leid. Da habe ich wohl nicht aufgepasst.
+    - Ich muss zu Hause bleiben und auf die Kinder aufpassen.
+
 - Id: aufregen
+  Level: B1
+  Form: regt auf, regte auf, hat aufgeregt
   Usage: über `A`
+  Meaning: to excite, upset, annoy
+  Cambridge: to get upset/worried/excited; to upset; to annoy, to irritate
+  Wiki: to excite; to annoy, to upset
+  Examples:
+    - Es regt mich auf, dass ich schon wieder Überstunden machen muss.
+    - Ganz ruhig! Bitte regen Sie sich nicht auf.
+    - Heute hast du eine Prüfung. Bist du schon aufgeregt?
+    - Die Musikgruppe zu erleben war sehr aufregend.
+
 - Id: aufrufen
+  Form: ruft auf, rief auf, hat aufgerufen
   Usage: zu `D`
+  Meaning: to call; to call for
+  Cambridge: to call; to call on; to call up
+  Wiki: to call; to call for; to call up
+
 - Id: ausbrechen
+  Form: bricht aus, brach aus, hat ausgebrochen
   Usage: in `A`
+  Meaning: to break out
+  Cambridge: to break out, to escape; to break out; to erupt; to break
+  Wiki: to break out; to break out
+
 - Id: ausgeben
+  Level: A2
+  Form: gibt aus, gab aus, hat ausgegeben
   Usage: für `A`
+  Meaning: to spend
+  Cambridge: to spend; to give out; to issue
+  Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
+  Examples:
+    - Agata gibt viel Geld für Bücher aus.
+    - Ich möchte nicht so viel Geld ausgeben.
+    - Carola gibt viel Geld für ihr Hobby aus.
+
 - Id: ausruhen
+  Form: ruht aus, ruhte aus, hat ausgeruht
   Usage: von `D`
+  Meaning: to rest
+  Cambridge: to (have a ) rest; to rest
+  Wiki: to rest, to recover through rest and relaxation
+
 - Id: austauschen
+  Level: A2
+  Form: tauscht aus, tauschte aus, hat ausgetauscht
   Usage: mit `D`; über `A`
+  Meaning: to exchange
+  Cambridge: to exchange; to replace; to substitute
+  Wiki: to exchange; to replace; to substitute
+  Examples:
+    - Können wir unsere Adressen austauschen?
+
 - Id: basieren
+  Form: basiert, basierte, hat basiert
   Usage: auf `D`
+  Meaning: to base (on)
+  Wiki: to base (on); to be based (on)
+
 - Id: beauftragen
+  Form: beauftragt, beauftragte, hat beauftragt
   Usage: mit `D`
+  Meaning: to mandate, to order from, to hire for a particular business
+  Cambridge: to commission, to engage, to hire
+  Wiki: to mandate, to order from, to hire for a particular business
+
 - Id: bedanken
+  Form: bedankt sich, bedankte sich, hat sich bedankt
   Usage: bei `D`; für `A`
+  Meaning: to thank
+  Wiki: to be thankful, to express thanks.
+
 - Id: befassen
+  Form: befasst, befasste, hat befasst
   Usage: mit `D`
+  Meaning: to attend to, to deal with, to engage oneself in, to delve into
+  Cambridge: to deal with, to concern yourself with
+  Wiki: to attend to, to deal with, to engage oneself in, to delve into; to give someone the task to deal with something; to touch
+
 - Id: befreien
+  Form: befreit, befreite, hat befreit
   Usage: von `D`
+  Meaning: to free , to liberate
+  Cambridge: to free, to release; to liberate; to free; to free, to get rid of; to exempt
+  Wiki: to free , to liberate; to escape
+
 - Id: begeistern
+  Form: begeistert, begeisterte, hat begeistert
   Usage: für `A`
+  Meaning: to fill with enthusiasm, to enthuse, to thrill
+  Cambridge: to be enthusiastic about; to delight
+  Wiki: 'to fill with enthusiasm, to enthuse, to thrill; to be enthusiastic, to enthuse (about something: für + accusative)'
+
 - Id: beginnen
+  Level: A1
+  Form: beginnt, begann, hat begonnen
   Usage: mit `D`
+  Meaning: to begin (b-)
+  Cambridge: to start; to start, to begin
+  Wiki: to begin; to commence; to be started; to start something; to begin something
+  Examples:
+    - Das Spiel beginnt um 15.30 Uhr.
+    - In zwei Wochen beginnen die Sommerferien.
+
 - Id: beglückwünschen
+  Form: beglückwünscht, beglückwünschte, hat beglückwünscht
   Usage: zu `D`
+  Meaning: to congratulate
+  Cambridge: to congratulate; to congratulate yourself
+  Wiki: to congratulate
+
 - Id: begnügen
+  Form: begnügt sich, begnügte sich, hat sich begnügt
   Usage: mit `D`
+  Meaning: to be content or satisfied (with), to content oneself (with)
+  Cambridge: to be content with, to settle for; to content yourself with
+  Wiki: to be content or satisfied (with), to content oneself (with)
+
 - Id: beharren
+  Form: beharrt, beharrte, hat beharrt
   Usage: auf `D`
+  Meaning: to persevere, to insist ( on)
+  Wiki: to persevere, to insist ( on)
+
 - Id: beitragen
+  Form: trägt bei, trug bei, hat beigetragen
   Usage: zu `D`
+  Meaning: to contribute to
+  Cambridge: to contribute
+  Wiki: to contribute to
+
 - Id: beklagen
+  Form: beklagt, beklagte, hat beklagt
   Usage: bei `D`; über `A`
+  Meaning: to pity, to lament
+  Cambridge: to lament, to mourn; to complain about, to bemoan; to complain about
+  Wiki: to pity, to lament; to complain
+
 - Id: belaufen
+  Form: beläuft, belief, hat belaufen
   Usage: auf `A`
+  Meaning: to walk on
+  Wiki: to walk on; to amount (to); to tot up; to account for; walked on
+
 - Id: bemühen
+  Form: bemüht, bemühte, hat bemüht
   Usage: um `A`
+  Meaning: to make an effort
+  Cambridge: to make an effort, to try hard
+  Wiki: to make an effort; to trouble oneself
+
 - Id: beneiden
+  Form: beneidet, beneidete, hat beneidet
   Usage: um `A`
+  Meaning: to envy
+  Cambridge: to envy
+  Wiki: to envy; to begrudge someone something
+
 - Id: berichten
+  Level: A2
+  Form: berichtet, berichtete, hat berichtet
   Usage: von `D`; über `A`
+  Meaning: to report, to tell
+  Cambridge: to report
+  Wiki: to relate, to tell, to give an account of; to report (especially by the media or authorities)
+  Examples:
+    - Alle Zeitungen berichten von dem Unfall.
+    - Alle Zeitungen haben über den Unfall berichtet.
+
 - Id: berufen
+  Form: beruft, berief, hat berufen
   Usage: auf `A`
+  Meaning: to refer to ; to invoke
+  Cambridge: to appoint; to invoke, to refer (to)
+  Wiki: to refer to ; to invoke; to appoint (to a high office); to jinx; to tempt fate by mentioning; to appeal; appointed; called
+
 - Id: beruhen
+  Form: beruht, beruhte, hat beruht
   Usage: auf `D`
+  Meaning: to consist
+  Cambridge: to be based (on)
+  Wiki: to consist; to depend; (with + dative) to be based (on)
+
 - Id: beschränken
+  Level: B1
+  Form: beschränkt, beschränkte, hat beschränkt
   Usage: auf `A`
+  Meaning: to restrict
+  Cambridge: to limit
+  Wiki: to limit; to restrict; to limit oneself (to)
+  Examples:
+    - Die Teilnehmerzahl für den Kurs ist beschränkt.
+
 - Id: beschweren
+  Form: beschwert, beschwerte, hat beschwert
   Usage: bei `D`; über `A`
+  Meaning: to complain
+  Cambridge: to complain; to weigh down
+  Wiki: to weight, to weight down; to complain
+
 - Id: beschäftigen
+  Level: B1
+  Form: beschäftigt, beschäftigte, hat beschäftigt
   Usage: mit `D`
+  Meaning: to employ, be busy, deal with
+  Cambridge: to employ; to occupy; to be on your mind, to bother; to spend time with, to devote your attention to; to give thought to
+  Wiki: to keep busy, to keep busy, to employ, to engage; to keep oneself busy, to keep oneself busy ( with); to concern oneself
+  Examples:
+    - Womit haben Sie sich bei Ihrer Arbeit beschäftigt?
+    - Seit wann sind Sie bei dieser Firma beschäftigt?
+
 - Id: besinnen
+  Form: besinnt sich, besann sich, hat sich besonnen
   Usage: auf `A`
+  Meaning: to reflect; to think
+  Wiki: to reflect; to think; to remember
+
 - Id: bestehen
+  Level: A2
+  Form: besteht, bestand, hat bestanden
   Usage: auf `D`; aus `D`; in `D`
+  Meaning: to exist, last, pass, win
+  Cambridge: to be, to exist; to pass; to hold your own, to stand your ground, to survive
+  Wiki: to succeed, to pass (an exam); to consist (); to exist; to insist ( with dative)
+  Examples:
+    - 'Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen.'
+    - Ich habe die Prüfung bestanden!
+    - Das Modul Lesen besteht aus fünf Teilen.
+
 - Id: bestimmen
+  Form: bestimmt, bestimmte, hat bestimmt
   Usage: zu `D`
+  Meaning: to determine
+  Cambridge: to decide; to determine; to identify; to characterize
+  Wiki: to determine
+
 - Id: beteiligen
+  Form: beteiligt, beteiligte, hat beteiligt
   Usage: an `D`
+  Meaning: to take part, participate
+  Wiki: to let someone take part in something; participate
+
 - Id: betrügen
+  Level: B1
+  Form: betrügt, betrog, hat betrogen
   Usage: um `A`
+  Meaning: to cheat
+  Cambridge: to cheat; to cheat on
+  Wiki: to deceive (usually deliberately); to defraud; to perform an act of fraud against; to swindle; to betray (sexually or romantically); to cheat on; to cheat
+  Examples:
+    - Ich würde meine Familie niemals betrügen.
+    - Die Rechnung stimmt nicht. Der Kellner hat mich betrogen.
+
 - Id: betteln
+  Form: bettelt, bettelte, hat gebettelt
   Usage: um `A`
+  Meaning: to beg (alms), to panhandle
+  Cambridge: to beg
+  Wiki: to beg (alms), to panhandle
+
 - Id: beurteilen
+  Form: beurteilt, beurteilte, hat beurteilt
   Usage: nach `D`
+  Meaning: to form an opinion on, to judge
+  Cambridge: to judge
+  Wiki: to form an opinion on, to judge
+
 - Id: bewegen
+  Level: B1
+  Form: bewegt, bewegte, hat bewegt
   Usage: zu `D`
+  Meaning: to move
+  Cambridge: to move, to budge; to get exercise; to range; to move forward; to move; to be on your mind
+  Wiki: to motivate; to persuade; to prompt (someone or something to do something); to make (someone or something to do something); to induce; to get (someone or something to do something); to move; to stir; to exercise
+  Examples:
+    - Ich kann mich vor Schmerzen kaum noch bewegen.
+    - Ich kann meinen Finger nicht mehr bewegen.
+
 - Id: bewerben
+  Form: bewirbt, bewarb, hat beworben
   Usage: um `A`
+  Meaning: to apply for
+  Cambridge: to apply; to stand
+  Wiki: to apply; to try to win (a favour); to court; to advertise
+
 - Id: beziehen
+  Form: bezieht, bezog, hat bezogen
   Usage: auf `A`
+  Meaning: to refer, relate to
+  Cambridge: to get, to receive; to move into; to cover
+  Wiki: to refer, relate to; (Senses related to covering.); to put a sheet or cover on (a mattress, duvet etc.); to upholster (a piece of furniture); to become overcast; (Senses related to settling in a place.); to move into (a dwelling); to take up (a position); to take (a position, stand); (Senses related to obtaining.); to draw, receive (a regular payment such as a pension or benefit); to buy something regularly from the same provider; to have a subscription to/for
+
 - Id: bitten
+  Level: A1
+  Form: bittet, bat, hat gebeten
   Usage: um `A`
+  Meaning: to request
+  Cambridge: to ask
+  Wiki: to ask, to beg, to plead, to request (help, understanding, etc.)
+  Examples:
+    - Darf ich Sie um etwas bitten?
+    - Darf ich Sie bitten, kurz zuzuhören?
+
 - Id: bringen
+  Level: A1
+  Form: bringt, brachte, hat gebracht
   Usage: auf `A`; zu `D`
+  Meaning: to bring
+  Cambridge: to take, to bring; to take, to see; to broadcast, to feature; to bring; to make, to yield; to bring about
+  Wiki: to bring, to fetch, to take, to convey, to bear; to bring, to lead, to guide, to accompany; to cause (someone) to have (something); to cause (something) to exist for the benefit, or to the detriment, of (someone); to cause (something) to be a part of (something); to get, to cause (someone to do something); (transitive, with certain phrases) (To cause the action implied by a phrase to take place, possibly making the sentence more passive or indirect.); to acquire; to take possession of; to accomplish; to yield; to be of use; to be helpful; to deliver; to perform well; to get over with
+  Examples:
+    - Bringen Sie mir bitte noch einen Kaffee!
+    - Wir müssen ihn zum Arzt bringen.
+    - Wir müssen Max ins Krankenhaus bringen.
+    - Ich bringe dich nach Hause.
+    - Die Abendzeitung hat einen Bericht über den Unfall gebracht.
+
 - Id: danken
+  Level: A1
+  Form: dankt, dankte, hat gedankt
   Usage: für `A`
+  Meaning: to thank
+  Cambridge: to thank
+  Wiki: to thank
+  Examples:
+    - Ich danke Ihnen für die Einladung.
+
 - Id: demonstrieren
+  Form: demonstriert, demonstrierte, hat demonstriert
   Usage: für `A`; gegen `A`
+  Meaning: to demonstrate
+  Cambridge: to demonstrate
+  Wiki: to demonstrate
+
 - Id: denken
+  Level: A2
+  Form: denkt, dachte, hat gedacht
   Usage: an `A`
+  Meaning: to think
+  Cambridge: to think
+  Wiki: to think; not to forget; to remember (to bring along, etc.); to imagine; to think, to believe, to assume, to conjecture
+  Examples:
+    - Ich denke oft an meine Freundin.
+    - Was denktst du? Sollen wir heute Abend ins Kino gehen?
+    - Du lachst - was denkst du gerade?
+    - Ich denke, dass du recht hast.
+    - Wir diskutieren gerade über das Rauchen. Wie denken Sie darüber?
+    - Denk bitte daran, die Heizung auszumachen.
+    - Es ist mir ganz egal, was die Leute von mir denken.
+    - Ich hatte mir gedacht, dass wir zusammen fahren könnten.
+
 - Id: dienen
+  Level: B1
+  Form: dient, diente, hat gedient
   Usage: zu `D`
+  Meaning: to serve (d-)
+  Cambridge: to serve; to do your military service; to be of assistance
+  Wiki: to serve in public office or the military; to serve, to be a servant (for example butler or maid) for; to serve a cause; to assist, to be of assistance; to serve (as), to double (as), to act as a replacement for
+  Examples:
+    - Solche Kontakte dienen der Verbesserung der internationalen Beziehungen.
+    - Dieser Raum dient als Aufenthaltsraum.
+    - Er hat der Firma viele Jahre lang gedient.
+
 - Id: diskutieren
+  Level: A2
+  Form: diskutiert, diskutierte, hat diskutiert
   Usage: mit `D`; über `A`
+  Meaning: to discuss
+  Cambridge: to discuss
+  Wiki: to discuss
+  Examples:
+    - Wir haben lange diskutiert, wie wir das Büro einrichten sollen.
+
 - Id: distanzieren
+  Form: distanziert, distanzierte, hat distanziert
   Usage: von `D`
+  Meaning: to distance
+  Cambridge: to distance yourself
+  Wiki: to distance
+
 - Id: drehen
+  Level: B1
+  Form: dreht, drehte, hat gedreht
   Usage: um `A`
+  Meaning: to turn
+  Cambridge: turn; to turn, to rotate, to spin; to turn; to shoot
+  Wiki: to turn; to turn (one’s body), turn around; to roll, twist, make something revolve, rotate; to revolve, rotate, spin; to shoot; to roll; to make a u-turn, turn around; to let go of the handle while shooting, causing the pole to spin; to shape with a lathe
+  Examples:
+    - Drehen Sie zum Einschalten den Schalter nach rechts.
+    - Die Kinder drehen sich zur Musik im Kreis.
+    - Bei Familie Huber dreht sich jetzt alles um das Baby.
+
 - Id: drängen
+  Form: drängt, drängte, hat gedrängt
   Usage: auf `A`; zu `D`
+  Meaning: to press, to push
+  Cambridge: to push; to throng; to press
+  Wiki: to press, to push
+
 - Id: duften
+  Form: duftet, duftete, hat geduftet
   Usage: nach `D`
+  Meaning: to smell very pleasantly
+  Cambridge: to smell
+  Wiki: to smell very pleasantly
+
 - Id: eignen
+  Form: eignet, eignete, hat geeignet
   Usage: für `A`
+  Meaning: to be suitable
+  Cambridge: to be suitable
+  Wiki: to suit, to be apt; to be own to someone, to be characteristic
+
 - Id: eingehen
+  Form: geht ein, ging ein, ist eingegangen
   Usage: auf `A`
+  Meaning: to enter; to go inside
+  Cambridge: to take, to enter into; to be received; to die; to shrink
+  Wiki: to enter; to go inside; to arrive; to contract, to shrivel; to shrink in the wash; to die; to discuss; to treat; to elaborate on; to respond to; to take (a question); to contract; to conclude (an agreement)
+
 - Id: einigen
+  Form: einigt, einigte, hat geeinigt
   Usage: auf `A`; mit `D`
+  Meaning: to agree on something
+  Cambridge: to agree; to unify
+  Wiki: to unite or unify (for example a group of people); to agree, to reach an agreement
+
 - Id: einladen
+  Level: A1
+  Form: lädt ein, lud ein, hat eingeladen
   Usage: auf `A`; zu `D`
+  Meaning: to invite
+  Cambridge: to invite; to load in(to)
+  Wiki: to invite; to treat; to load (something into a container)
+  Examples:
+    - Darf ich Sie zu einem Kaffee einladen?
+    - Darf ich Sie zum Essen einladen?
+
 - Id: einlassen
+  Form: lässt ein, ließ ein, hat eingelassen
   Usage: auf `A`
+  Meaning: to let in; to admit; to grant entry
+  Cambridge: to let in; to run; to run, to draw; to sink
+  Wiki: to let in; to admit; to grant entry; to introduce; to cause to enter a room or fill a container, usually slowly; to draw a bath; to run a bath; to cause to be embedded in something; to recess; to inset; to get into; to become involved in (especially something risky); to become involved with somebody (usually one who is “bad company”, or for something risky or immoral); to testify; to declare; to state
+
 - Id: einsetzen
+  Level: B1
+  Form: setzt ein, setzte ein, hat eingesetzt
   Usage: für `A`
+  Meaning: to put, set, install
+  Cambridge: to use, to deploy; to appoint, to set up; to put in, to install; to come in, to begin
+  Wiki: to put in; set in; insert; to implant; to use; employ; to appoint; to risk; to stake; to start; begin; to speak up for
+  Examples:
+    - Ich glaube, wir müssen jemanden einsetzen, der sich um die Organisation kümmert.
+    - Peter hat sich dafür eingesetzt, dass ich den Job bekomme.
+
 - Id: einstellen
+  Level: B1
+  Form: stellt ein, stellte ein, hat eingestellt
   Usage: auf `A`
+  Meaning: to employ, take on, adjust
+  Cambridge: to take on, to hire; to stop; to adjust, to set
+  Wiki: to hire; to adjust, to set; to prepare; to appear; to cease, to stop; to build in a way fusing with other buildings or the whole project
+  Examples:
+    - Die Firma wird in diesem Jahr drei neue Leute einstellen.
+    - Das Gerät ist nicht richtig eingestellt.
+
 - Id: eintreten
+  Level: B1
+  Form: tritt ein, trat ein, hat eingetreten
   Usage: für `A`
+  Meaning: to enter, occur
+  Cambridge: to join; to happen, to occur, to arise; to come/go in; to kick in
+  Wiki: to enter, to come into; to occur, to eventuate; to join a club association etc.; to advocate, to support, to stand for, to champion; to kick; to open (something e.g. a door) by kicking
+  Examples:
+    - Letztes Jahr bin ich in einen Sportverein eingetreten.
+
 - Id: einwilligen
+  Form: willigt ein, willigte ein, hat eingewilligt
   Usage: in `A`
+  Meaning: to consent (to), to agree (to)
+  Cambridge: to agree, to consent
+  Wiki: to consent (to), to agree (to)
+
 - Id: ekeln
+  Form: ekelt, ekelte, hat geekelt
   Usage: vor `D`
+  Meaning: to be disgusted
+  Wiki: to be disgusted; to disgust
+
 - Id: enden
+  Level: A1
+  Form: endet, endete, hat geendet
   Usage: mit `D`
+  Meaning: to end
+  Cambridge: to end; to finish; to end, to conclude; to end up
+  Wiki: to end
+  Examples:
+    - Die Straße endet hier.
+    - Der Kurs endet in einer Woche.
+    - Das Arbeitsverhältnis endet im Mai.
+
 - Id: engagieren
+  Form: engagiert, engagierte, hat engagiert
   Usage: für `A`
+  Meaning: to engage
+  Cambridge: to be committed (to), to champion, to be/get involved (in); to hire, to take on
+  Wiki: to engage; to get involved, to be involved
+
 - Id: entrüsten
+  Form: entrüstet, entrüstete, hat entrüstet
   Usage: über `A`
+  Meaning: to be indignant
+  Wiki: to be indignant; to enrage
+
 - Id: entscheiden
+  Level: B1
+  Form: entscheidet, entschied, hat entschieden
   Usage: für `A`; gegen `A`
+  Meaning: to decide
+  Cambridge: to decide
+  Wiki: to decide, to make a decision; to choose ( + accusative); to decide, to determine the outcome of
+  Examples:
+    - Das kann ich nicht allein entscheiden, da muss ich erst fragen.
+    - Für welchen Anzug haben Sie sich entschieden?
+
 - Id: entschließen
+  Form: entschließt, entschloss, hat entschlossen
   Usage: zu `D`
+  Meaning: to decide
+  Wiki: to decide
+
 - Id: entschuldigen
+  Level: A1
+  Form: entschuldigt, entschuldigte, hat entschuldigt
   Usage: für `A`
+  Meaning: to apologise
+  Cambridge: to excuse; to excuse on the grounds of, to put down to
+  Wiki: to excuse; to excuse/forgive something; to apologize, to apologise
+  Examples:
+    - Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.
+    - Ich möchte mich bei dir entschuldigen.
+    - Herr Meier lässt sich entschuldigen, er ist stark erkältet.
+
 - Id: entschädigen
+  Form: entschädigt, entschädigte, hat entschädigt
   Usage: für `A`
+  Meaning: to compensate, to indemnify
+  Cambridge: to compensate, to reimburse
+  Wiki: to compensate, to indemnify; the subject having suffered a damage; the damage; the measures causing a damage
+
 - Id: erfahren
+  Level: B1
+  Form: erfährt, erfuhr, hat erfahren
   Usage: von `D`
+  Meaning: to learn, find out, experience
+  Cambridge: to learn, to hear, to find out; to experience, to undergo, to suffer; experienced
+  Wiki: to find out, learn, to come to know; to experience; experienced
+  Examples:
+    - Wann erfahren wir das Ergebnis der Prüfung?
+
 - Id: erfreuen
+  Form: erfreut, erfreute, hat erfreut
   Usage: an `D`
+  Meaning: to please; to make happy
+  Cambridge: to please
+  Wiki: to please; to make happy; to enjoy; to delight in
+
 - Id: ergeben
+  Form: ergibt, ergab, hat ergeben
   Usage: aus `D`
+  Meaning: to yield, produce
+  Cambridge: to amount to, to be, to result in; to show, to reveal; to indicate, to mean; to present itself, to come along, to arise; to surrender, to capitulate; devoted, loyal; acquiescent, humble; devotedly; humbly
+  Wiki: to yield, produce; to make sense; to surrender; to arise, result, turn out; to happen; loyal, devoted, humble, obedient
+
 - Id: erholen
+  Form: ist erholt, war erholt, ist erholt gewesen
   Usage: von `D`
+  Meaning: to rest, relax, recover
+  Cambridge: to relax, to get a rest; to recover, to recuperate
+  Wiki: to relax, to recover, to recuperate
+
 - Id: erhöhen
+  Level: B1
+  Form: erhöht, erhöhte, hat erhöht
   Usage: auf `A`; um `A`
+  Meaning: to increase, raise
+  Cambridge: to raise, to increase; to raise, to elevate; to rise, to go up
+  Wiki: to heighten, raise; to increase; to exalt
+  Examples:
+    - Die Regierung wird sicher bald wieder die Steuern erhöhen.
+    - Die Zahl der Unfälle hat sich stark erhöht.
+
 - Id: erinnern
+  Level: A2
+  Form: erinnert, erinnerte, hat erinnert
   Usage: an `A`
+  Meaning: to remember
+  Cambridge: to remember; to remind
+  Wiki: to remind; to remember, to be reminded of; to remember, to commemorate
+  Examples:
+    - Erinnerst du dich an José? - Nein, ich erinnere mich nicht an ihn, tut mir leid.
+    - Kannst du mich morgen bitte an meinen Arzttermin erinnern?
+    - Bitte, erinnern Sie mich noch einmal an den Termin.
+    - Ich erinnere mich noch genau an Francescos Vater.
+
 - Id: erkennen
+  Level: B1
+  Form: erkennt, erkannte, hat erkannt
   Usage: an `D`
+  Meaning: to recognise
+  Cambridge: to make out, to discern; to recognize; to realize, to recognize
+  Wiki: to recognize, perceive, acknowledge; to realize, detect, see, know, identify, discover, understand
+  Examples:
+    - Ich habe Roberto gleich an seiner Stimme erkannt.
+    - Auf dem Foto kann man kaum etwas erkennen.
+    - Ich habe erkannt, dass es ein Fehler war, den Kurs nicht fertigzumachen.
+
 - Id: erkranken
+  Form: erkrankt, erkrankte, ist erkrankt
   Usage: an `D`
+  Meaning: to fall ill, to sicken
+  Cambridge: to fall ill/sick
+  Wiki: to fall ill, to sicken
+
 - Id: erkundigen
+  Form: erkundigt sich, erkundigte sich, hat sich erkundigt
   Usage: bei `D`; nach `D`
+  Meaning: to inquire (about)
+  Cambridge: to inquire, to ask
+  Wiki: to inquire (to get information)
+
 - Id: ermahnen
+  Form: ermahnt, ermahnte, hat ermahnt
   Usage: zu `D`
+  Meaning: to urge
+  Cambridge: to warn, to admonish
+  Wiki: to urge; to exhort; to caution; to remind; to admonish
+
 - Id: ermutigen
+  Form: ermutigt, ermutigte, hat ermutigt
   Usage: zu `D`
+  Meaning: to encourage
+  Cambridge: to encourage
+  Wiki: to encourage
+
 - Id: ernähren
+  Level: B1
+  Form: ernährt, ernährte, hat ernährt
   Usage: von `D`
+  Meaning: to feed, nourish
+  Cambridge: to eat; to support
+  Wiki: to nourish, to feed; to eat; to support
+  Examples:
+    - Wie ernähre ich mich richtig?
+    - Meine Eltern müssen beide arbeiten, um die Familie zu ernähren.
+
 - Id: erregen
+  Form: erregt, erregte, hat erregt
   Usage: über `A`
+  Meaning: to thrill; arouse; excite; titillate
+  Cambridge: to annoy, to infuriate, to upset; to arouse; to cause, to arouse
+  Wiki: to thrill; arouse; excite; titillate; to cause; elicit; evoke; bring forth; stimulate into action
+
 - Id: erschrecken
+  Level: B1
+  Form: erschreckt, erschreckte, hat erschreckt
   Usage: über `A`
+  Meaning: to scare, shock
+  Cambridge: to get a fright, to be startled; to frighten
+  Wiki: to be frightened; to be startled; to be frightened; to be startled; to frighten; to scare (someone); to frighten; to scare (someone); to be frightened; to be startled
+  Examples:
+    - Du hast richtig krank ausgesehen. Ich war ganz erschrocken.
+    - Hast du mich aber erschreckt!
+    - Entschuldigung. Ich wollte Sie nicht erschrecken.
+
 - Id: ersehen
+  Form: ersieht, ersah, hat ersehen
   Usage: aus `D`
+  Meaning: to learn
+  Cambridge: to see
+  Wiki: to learn; to see
+
 - Id: erwarten
+  Level: B1
+  Form: erwartet, erwartete, hat erwartet
   Usage: von `D`
+  Meaning: to expect
+  Cambridge: to expect
+  Wiki: to expect, to consider likely; to await, to expect (someone to arrive)
+  Examples:
+    - Ich erwarte einen Anruf aus Berlin.
+    - Frau Müller erwartet ein Kind.
+    - Wir hatten nichts anderes erwartet.
+    - Ich kann es gar nicht erwarten, euch wieder zu sehen.
+
 - Id: erziehen
+  Level: B1
+  Form: erzieht, erzog, hat erzogen
   Usage: zu `D`
+  Meaning: to bring up, raise
+  Cambridge: to bring up
+  Wiki: to nurture; to educate
+  Examples:
+    - Kinder zu erziehen ist nicht leicht.
+
 - Id: erzählen
+  Level: A1
+  Form: erzählt, erzählte, hat erzählt
   Usage: von `D`
+  Meaning: to tell
+  Cambridge: to tell, to narrate; to recount, to relate
+  Wiki: to tell, to narrate, to recount (for example a story, to someone); to tell, to say (that something occurred); to talk a lot; to tell nonsense; to gabble
+  Examples:
+    - Wir müssen euch etwas erzählen!
+    - Erzählst du mir eine Geschichte?
+    - Mein Mann hat mir schon viel von Ihnen erzählt.
+    - Ich muss meinen Kindern abends immer eine Geschichte erzählen.
+
 - Id: experimentieren
+  Level: K
+  Form: experimentiert, experimentierte, hat experimentiert
   Usage: mit `D`
+  Meaning: to experiment
+  Cambridge: to experiment
+  Wiki: to experiment
+  Examples:
+    - Die Studenten experimentierten mit Salzsäure.
+
 - Id: fahnden
+  Form: fahndet, fahndete, hat gefahndet
   Usage: nach `D`
+  Meaning: to search for
+  Cambridge: to search for
+  Wiki: to search for
+
 - Id: fehlen
+  Level: A1
+  Form: fehlt, fehlte, hat gefehlt
   Usage: an `D`
+  Meaning: to be wanting, missing, absent
+  Cambridge: to be missing/lacking, to lack; to be absent; to be lacking
+  Wiki: to lack; to be absent from, to be missing from, to be lacking in; to be missed by; to be missing; to fail
+  Examples:
+    - Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
+    - Was fehlt Ihnen?
+    - Auf dem Brief fehlt der Absender.
+    - Hast du Kleingeld? Mir fehlt ein Euro.
+    - In der Kasse fehlen 20 Euro.
+    - Antonio war nicht in der Schule, er fehlt schon seit drei Tagen.
+    - Was fehlt Ihnen? Haben Sie Schmerzen?
+
 - Id: fliehen
+  Level: B1
+  Form: flieht, floh, ist geflohen
   Usage: vor `D`
+  Meaning: to flee
+  Cambridge: to flee
+  Wiki: to flee; to escape; (archaic, poetic) to fly; to diverge; to flee from (someone); to avoid
+  Examples:
+    - Der Einbrecher ist sofort geflohen.
+
 - Id: folgern
+  Form: folgert, folgerte, hat gefolgert
   Usage: aus `D`
+  Meaning: to conclude, to deduce, to infer
+  Cambridge: to conclude
+  Wiki: to conclude, to deduce, to infer
+
 - Id: forschen
+  Form: forscht, forschte, hat geforscht
   Usage: an `D`; nach `D`
+  Meaning: to research
+  Cambridge: to (do) research; to search
+  Wiki: to research
+
 - Id: fragen
+  Level: A1
+  Form: fragt, fragte, hat gefragt
   Usage: nach `D`
+  Meaning: to ask
+  Cambridge: to ask; to wonder
+  Wiki: to ask (someone something); to ask for, to ask after; to wonder (literally, to ask (oneself))
+  Examples:
+    - Er möchte Sie etwas fragen. Wann kommen Sie?
+    - Er fragt, wann er kommen kann.
+    - Ich möchte Sie etwas fragen.
+    - Darf ich Sie etwas fragen?
+    - Hat jemand nach mir gefragt?
+    - Ich frage mich, ob das richtig war.
+
 - Id: freuen
+  Form: freut sich, freute sich, hat sich gefreut
   Usage: auf `A`; über `A`
+  Meaning: to be glad
+  Cambridge: to be happy/glad (about), to be pleased (with)
+  Wiki: to gladden, to make glad, to make pleased; to be glad, to be pleased; to look forward
+
 - Id: fügen
+  Form: fügt, fügte, hat gefügt
   Usage: in `A`
+  Meaning: to join
+  Wiki: to join; to add; (of fate) to ordain; to submit, to comply
+
 - Id: führen
+  Level: B1
+  Form: führt, führte, hat geführt
   Usage: zu `D`
+  Meaning: to lead
+  Cambridge: to take, to lead, to show; to show; to lead, to go; to bring; to run; to keep; to carry out; to carry, to stock; to be in the lead by, to be up
+  Wiki: to lead; to carry, to sell; to conduct some activity or process, to hold (a discussion, a negotiation), to have (a conversation), to lead (one's life), to wage (a war or campaign), to fight (a war); to wield (a weapon)
+  Examples:
+    - Der Lehrer führt seine Schüler durch das Museum.
+    - Frau Meyer führt den Betrieb schon seit zehn Jahren.
+    - 'Nach 20 Minuten führte unsere Mannschaft 2: 0.'
+    - Die Straße führt direkt zum Bahnhof.
+
 - Id: fürchten
+  Form: fürchtet, fürchtete, hat gefürchtet
   Usage: vor `D`
+  Meaning: to be afraid
+  Cambridge: to fear, to be afraid of
+  Wiki: to fear; to be afraid (of)
+
 - Id: gehen
+  Level: A1
+  Form: geht, ging, ist gegangen
   Usage: um `A`
+  Meaning: to go
+  Cambridge: to walk; to leave, to go; to go; to go (to), to be (at); to join, to go into; to wear; to work; to rise; to lead, to go; to be okay / all right; to go, to work; to come
+  Wiki: to go, to walk; to leave; to leave, to take off; to be going; to be all right;; to be possible; to work, to function; to last, to go for, to go on, to be in progress; to sit, to rise, to expand; to be (on); to approach; to be going (on some one); to go one's way, to make one's way (of a path, destination), to go separate ways
+  Examples:
+    - Ich weiß nicht, wie das geht.
+    - Wie geht's? - Es geht.
+    - Jetzt muss ich (aber) leider gehen.
+    - Ich muss zum Arzt gehen.
+    - Das geht (doch) nicht!
+    - Ich gehe jeden Morgen zu Fuß zur Arbeit.
+    - Meine Tochter geht noch aufs Gymnasium.
+    - Ein Freund von mir geht ins Ausland.
+    - Der nächste Zug geht erst in zwei Stunden.
+    - Am Anfang ging alles ganz gut.
+    - Geht Ihre Uhr richtig?
+    - Geht das bis morgen? - Nein, das geht nicht. Ich brauche mehr Zeit.
+    - Der Mantel geht nicht mehr in den Koffer.
+    - Das Fenster geht auf die Straße.
+    - Geht es hier zum Zentrum?
+    - Wie geht es Ihnen heute?
+    - Ist das sehr teuer? - Es geht.
+    - Um was geht es denn?
+    - Warum geht das Licht nicht?
+
 - Id: gehören
+  Level: A1
+  Form: gehört, gehörte, hat gehört
   Usage: zu `D`
+  Meaning: to belong to
+  Cambridge: to belong to; to be among / one of; to go; to take, to require; to be proper/becoming
+  Wiki: to belong to, be the property of; to be a prerequisite for; to be a characteristic of; to belong to, be a part of; to be proper; ought to be
+  Examples:
+    - Wem gehört das?
+    - Gehört der Stift dir?
+    - Gehört Ihnen das Haus?
+
 - Id: geradestehen
   Usage: für `A`
+  Meaning: to take responsibility
+  Cambridge: to take on the responsibility (for), to answer for
+  Wiki: to take responsibility
+
 - Id: geraten
+  Form: gerät, geriet, ist geraten
   Usage: in `A`
+  Meaning: to turn out, succeed
+  Cambridge: to come/get/run into, to hit; to get
+  Wiki: to turn out, succeed; to thrive; to come (across, by); to fall (upon); to get (into); to fall (into); to come (to); to fly (into); advisable; guessed; solved
+
 - Id: gewinnen
+  Level: A1
+  Form: gewinnt, gewann, hat gewonnen
   Usage: an `D`; gegen `A`
+  Meaning: to win (g-)
+  Cambridge: to win; to obtain, to get; to mine
+  Wiki: to win; to be victorious; to win something; to gain; to win over; to persuade; to win or extract a resource
+  Examples:
+    - Wer gewinnt das Spiel?
+    - Unsere Mannschaft hat gewonnen.
+    - Mein Sohn will bei diesem Spiel immer gewinnen.
+    - Ich möchte so gern einmal im Lotto gewinnen.
+
 - Id: gewöhnen
+  Level: B1
+  Form: gewöhnt, gewöhnte, hat gewöhnt
   Usage: an `A`
+  Meaning: to accustom, get used to
+  Wiki: to get used to; to accustom oneself to; to adapt to
+  Examples:
+    - Wir haben uns an das Leben hier gewöhnt.
+    - Ich bin daran gewöhnt, früh aufzustehen.
+
 - Id: glauben
+  Level: A1
+  Form: glaubt, glaubte, hat geglaubt
   Usage: an `A`
+  Meaning: to believe
+  Cambridge: to believe; to think
+  Wiki: to believe something; to believe in; to believe someone; to think, to believe
+  Examples:
+    - Ich glaube, Rom ist in Italien.
+    - Sie können mir glauben, es ist so.
+    - Ich glaube, er kommt gleich.
+    - Ich glaube, der Chef ist heute nicht im Büro.
+    - Er glaubt mir nicht, dass ich schon um 8 Uhr hier war.
+    - Glaubst du an Zufälle?
+
 - Id: gratulieren
+  Level: A1
+  Form: gratuliert, gratulierte, hat gratuliert
   Usage: zu `D`
+  Meaning: to congratulate
+  Cambridge: to congratulate
+  Wiki: to congratulate
+  Examples:
+    - Ich gratuliere dir!
+    - Ich gratuliere euch zur Geburt eurer Tochter.
+
 - Id: grauen vor
   Usage: (es) `D`
+
 - Id: greifen
+  Level: B1
+  Form: greift, griff, hat gegriffen
   Usage: nach `D`
+  Meaning: to grasp, seize, grab
+  Cambridge: to seize, to grab, to snatch; to reach; to be effective, to take effect; to grip
+  Wiki: to grab; to grasp; to grip (something); to grab; to seize; to snatch (in an aggressive way); to reach; to grab; to capture (someone); to strike; to take hold; to bite
+  Examples:
+    - Greifen Sie doch zu!
+
 - Id: halten
+  Level: A1
+  Form: hält, hielt, hat gehalten
   Usage: an `A`; für `A`; von `D`; zu `D`
+  Meaning: to keep, hold
+  Cambridge: to hold; to hold (on), to keep; to keep, to make (sb) stay; to keep; to hold, to stick to; to retain, to keep; to last; to last, to stay; to (make a) save; to keep, to have; to give, to deliver; to stop
+  Wiki: 'to hold; to stop; to halt; to hold back; to support; to hold up; to keep; to maintain; to hold; to keep; to hold; to keep; to stay; to stop; to take for, to consider; to adhere to, to follow (rules, the law, etc.); (with preposition: von) (expresses a positive or negative opinion depending on quantity); to give (a presentation, lecture etc.)'
+  Examples:
+    - Dieser Zug hält nicht in Rüdesheim.
+    - Kannst du mal kurz meine Jacke halten?
+    - Entschuldigung, hält dieser Zug auch in Darmstadt?
+    - Halten Sie bitte im Keller die Fenster geschlossen.
+    - Alle Mieter müssen sich an die Hausordnung halten.
+    - Die Stadt will einen neuen Flughafen bauen. Was halten Sie davon?
+    - Halt, Polizei! Fahren Sie bitte an den Straßenrand.
+    - Die Wurst hält sich noch ein paar Tage.
+
 - Id: handeln
+  Level: B1
+  Form: handelt, handelte, hat gehandelt
   Usage: gegen `A`; mit `D`; um `A`; von `D`
+  Meaning: to deal, trade
+  Cambridge: to deal, to trade; to bargain, to negotiate; to act
+  Wiki: to act; to take action; to negotiate; to bargain; to haggle; to trade in; to deal; to sell; to trade; to tip as; to take into consideration as being; to discuss; to deal with; to write or speak about; to be about; to deal with; to be, to be a case of, to be a matter of; to handle something; to control; to deal with in an organised fashion
+  Examples:
+    - Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.
+    - Kann ich Sie bitte mal sprechen? - Worum handelt es sich denn?
+    - Auf diesem Markt kannst du handeln und bekommst die Sachen billiger.
+
 - Id: helfen
+  Level: A1
+  Form: hilft, half, hat geholfen
   Usage: bei `D`
+  Meaning: to help
+  Cambridge: to help
+  Wiki: to help (someone); to assist; to aid
+  Examples:
+    - Können Sie mir helfen, bitte?
+    - Würden Sie mir bitte helfen?
+    - Kannst du mir helfen? Ich muss nächsten Monat umziehen.
+    - Die Tabletten haben mir gut geholfen.
+
 - Id: herausfordern
+  Form: fordert heraus, forderte heraus, hat herausgefordert
   Usage: zu `D`
+  Meaning: to challenge
+  Cambridge: to challenge; to provoke
+  Wiki: to challenge; to defy; to provoke
+
 - Id: herrschen
+  Form: herrscht, herrschte, hat geherrscht
   Usage: über `A`
+  Meaning: to rule, to reign, to have dominion
+  Cambridge: to prevail; to rule, to hold sway
+  Wiki: to rule, to reign, to have dominion; to prevail, to dominate
+
 - Id: hindern
+  Form: hindert, hinderte, hat gehindert
   Usage: an `D`.
+  Meaning: to impede
+  Wiki: to impede; to prevent
+
 - Id: hinweisen
+  Level: B1
+  Form: weist hin, wies hin, hat hingewiesen
   Usage: auf `A`
+  Meaning: to point to, to refer to
+  Wiki: to portend (to signify); to point out
+  Examples:
+    - Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.
+
 - Id: hoffen
+  Level: A2
+  Form: hofft, hoffte, hat gehofft
   Usage: auf `A`
+  Meaning: to hope
+  Cambridge: to hope
+  Wiki: to hope
+  Examples:
+    - Ich hoffe, dass es dir gut geht.
+    - Ich hoffe, dass ihr zu meinem Geburtstag kommen könnt.
+    - Wir alle hoffen auf besseres Wetter.
+
 - Id: hören
+  Level: A1
+  Form: hört, hörte, hat gehört
   Usage: auf `A`; von `D`
+  Meaning: to hear
+  Cambridge: to hear; to listen to; to listen
+  Wiki: to hear; to listen to, pay attention to; to attend, to go to, to sit in on; to get, to receive; to listen; to hear; to hear
+  Examples:
+    - Ich höre gern Musik.
+    - Hör mal! Was ist das?
+    - Ich habe das Lied schon mal gehört.
+    - Ich kann nicht mehr so gut hören.
+    - Ich höre jeden Tag die Nachrichten.
+    - Dieses Wort habe ich noch nie gehört.
+    - Ich habe gehört, dass Herr Müller im Krankenhaus liegt.
+
 - Id: hüten
+  Form: hütet, hütete, hat gehütet
   Usage: vor `D`
+  Meaning: to watch
+  Cambridge: to look after, to mind, to tend; to stay; to keep
+  Wiki: to watch; to herd, to tend; to be wary, to watch out
+
 - Id: informieren
+  Level: A2
+  Form: informiert, informierte, hat informiert
   Usage: bei `D`; über `A`
+  Meaning: to inform
+  Cambridge: to inform
+  Wiki: to inform, to update; to read up on, to find out, to research, to look into, to inform oneself
+  Examples:
+    - Ich möchte mich vor der Reise über das Land informieren.
+    - Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.
+    - Du musst dich vor der Reise genau über die Bedingungen informieren.
+
 - Id: interessieren
+  Level: A2
+  Form: interessiert, interessierte, hat interessiert
   Usage: sich für `A`
+  Meaning: to have interest
+  Wiki: to interest; to be interested in
+  Examples:
+    - Ich interessiere mich sehr für Fußball.
+    - Den Artikel über Brasilien finde ich sehr interessant.
+    - Das Thema Kindererziehung interessiert mich sehr.
+
 - Id: investieren
+  Form: investiert, investierte, hat investiert
   Usage: in `A`
+  Meaning: to invest
+  Cambridge: to invest; to invest, to put into
+  Wiki: to invest; to invest
+
 - Id: irren
+  Form: irrt, irrte, hat geirrt
   Usage: in `D`
+  Meaning: to be mistaken
+  Cambridge: to be mistaken, to err; to wander
+  Wiki: to wander; to err, to be wrong, to be mistaken
+
 - Id: jammern
+  Form: jammert, jammerte, hat gejammert
   Usage: über `A`
+  Meaning: to wail, whine, moan, lament, whinge
+  Cambridge: to moan, to whine
+  Wiki: to wail, whine, moan, lament, whinge
+
 - Id: jubeln
+  Form: jubelt, jubelte, hat gejubelt
   Usage: über `A`
+  Meaning: to cheer, to exult, to rejoice loudly
+  Cambridge: to cheer, to rejoice
+  Wiki: to cheer, to exult, to rejoice loudly
+
 - Id: klagen
+  Level: B1
+  Form: klagt, klagte, hat geklagt
   Usage: über `A`
+  Meaning: to complain
+  Cambridge: to complain (about); to take legal action
+  Wiki: to complain (to express feelings of pain, dissatisfaction, or resentment); to wail, lament; to sue; to sue someone
+  Examples:
+    - Sie klagt über Kopfschmerzen.
+
 - Id: kommen
+  Level: A1
+  Form: kommt, kam, ist gekommen
   Usage: auf `A`; zu `D`
+  Meaning: to come
+  Cambridge: to come; to get; to come about; to come, to be; to go; to leave; to be on
+  Wiki: to come; to arrive; to come to; to come over; to get; to make it; to go to; to be put in; to come on (Used to encourage someone to do something.); to occur; to happen; to come to be; to be played (of a song or film); to be due to; to be the result of; to come from; to orgasm; to cum; to be statistically equivalent to; to be there for; to obtain (a solution or result); to get an idea; to think of; to remember; to imagine; to lose; to forfeit; not to get; to touch inadvertently; to manage to reach (something high up etc.); to turn out (well)
+  Examples:
+    - Wir kommen aus Schweden.
+    - Woher kommen Sie? - Aus Frankreich.
+    - Kommst du mit ins Schwimmbad?
+    - Er wird bald kommen.
+    - Wir gehen heute Abend ins Konzert. Kommen Sie auch?
+    - Kommen Sie doch mal wieder zu uns.
+    - Wenn Sie mal nach Köln kommen, besuchen Sie uns.
+    - Steffi kommt im Herbst in die Schule.
+    - Die Straßenbahn muss gleich kommen.
+    - Wer kommt als Nächster dran?
+    - Die Handtücher kommen in den Schrank.
+    - Wie sind Sie denn auf diese Idee gekommen?
+
 - Id: konzentrieren
+  Form: ist konzentriert, war konzentriert, ist konzentriert gewesen
   Usage: auf `A`
+  Meaning: to concentrate
+  Cambridge: to concentrate
+  Wiki: to concentrate, focus; to concentrate
+
 - Id: kämpfen
+  Level: B1
+  Form: kämpft, kämpfte, hat gekämpft
   Usage: für `A`; gegen `A`; mit `D`; um `A`
+  Meaning: to fight
+  Cambridge: to fight
+  Wiki: to fight, to struggle
+  Examples:
+    - Die Frauen kämpfen für mehr Rechte.
+
 - Id: kümmern
+  Form: kümmert, kümmerte, hat gekümmert
   Usage: um `A`
+  Meaning: to look after
+  Wiki: to take care, to look after; to grieve, to afflict, to trouble, to concern
+
 - Id: lachen
+  Level: A1
+  Form: lacht, lachte, hat gelacht
   Usage: über `A`
+  Meaning: to laugh
+  Cambridge: to laugh
+  Wiki: to laugh
+  Examples:
+    - Die Kinder lachen viel.
+    - Die Kinder haben über den Witz gelacht.
+    - Lachen ist gesund.
+    - Wir haben viel gelacht.
+    - Lachen ist gesund.
+
 - Id: leben
+  Level: A1
+  Form: lebt, lebte, hat gelebt
   Usage: von `D`
+  Meaning: to live
+  Cambridge: to live, to be alive; to live
+  Wiki: to live, to be alive; to dwell, to reside; to live, to exist, to occupy a place; to cope with, to live with, to deal with
+  Examples:
+    - Ben lebt jetzt allein in Köln.
+    - Sie lebt bei ihrer Schwester.
+    - Ihre Großeltern leben nicht mehr.
+    - Leben Ihre Großeltern noch?
+    - Herr Müller hat lange im Ausland gelebt.
+    - Von der Rente allein kann meine Tante nicht leben.
+    - Ich lebe noch bei meinen Eltern.
+
 - Id: leiden
+  Level: B1
+  Form: leidet, litt, hat gelitten
   Usage: an `D`; unter `D`
+  Meaning: to suffer
+  Cambridge: to suffer
+  Wiki: to suffer, to experience pain, sorrow, etc.; to suffer, bear, endure, undergo, experience (some hardship); to suffer from (a disease or condition); to like, tolerate (usually in negative contexts)
+  Examples:
+    - Er leidet an einer schweren Krankheit.
+    - Sie leidet sehr unter den Verhältnissen.
+
 - Id: liefern
+  Level: A2
+  Form: liefert, lieferte, hat geliefert
   Usage: an `A`
+  Meaning: to deliver
+  Cambridge: to deliver, to supply; to produce, to provide
+  Wiki: to supply, provide (goods etc.) ( to); to deliver (goods, an order etc.); to yield (produce outcome); to research, to read up on something; to fight
+  Examples:
+    - Wir liefern Ihnen das Regal direkt ins Haus.
+    - Wir liefern Ihnen den Schrank nach Hause.
+
 - Id: liegen
+  Level: A1
+  Form: liegt, lag, hat gelegen
   Usage: an `D`
+  Meaning: to lie (place/ location)
+  Cambridge: to lie; to lie, to be
+  Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
+  Examples:
+    - Englisch liegt auf Platz 1.
+    - Der Brief liegt schon auf Ihrem Schreibtisch.
+    - Judith liegt noch im Bett.
+    - Er liegt schon seit drei Wochen im Krankenhaus.
+    - Frankfurt liegt am Main.
+    - In den Bergen liegt schon Schnee.
+    - Um neun Uhr liegt Judith noch im Bett.
+    - Die Zeitung liegt auf dem Tisch. Judith liegt noch im Bett.
+
 - Id: loskommen
   Usage: von `D`
+  Cambridge: to set off; to get free, to free yourself
+
 - Id: machen
+  Level: A1
+  Form: macht, machte, hat gemacht
   Usage: an `A`; aus `D`
+  Meaning: to make, do
+  Cambridge: to do; to make; to make, to create; to do, to make, to carry out; to be, to make
+  Wiki: to make, produce, create (an object, arrangement, situation, etc.); to make, prepare; to do, perform, carry out; to do;; to go; to make; to cause; to make; to make; to make; to come to, total, cost; to make, be; to make; to be, play; to matter; to make, make oneself out to be, act, play; to do one's business, do number two or number one, go; to do; to look; to get cracking ( (“on,” “with”)), get a move on (it), to get down ( (“to”)) (something); come on, let's go
+  Examples:
+    - Was machst du gern?
+    - Was machst du heute Abend?
+    - Ich muss jetzt das Essen machen.
+    - Das macht 5 Euro 95.
+    - Das macht nichts.
+    - Was machst du am Wochenende?
+    - Ich habe die Betten noch nicht gemacht.
+    - Soll ich dir die Suppe noch einmal warm machen?
+    - Meine Arbeit macht mir viel Spaß.
+    - Mach dir bitte keine Sorgen.
+    - Was würden Sie an meiner Stelle machen?
+    - Tut mir leid. Die Küche hat schon geschlossen. - Da kann man nichts machen.
+    - Entschuldigung! - Das macht doch nichts.
+    - Das macht zusammen 20 Euro.
+
 - Id: mangeln
+  Form: mangelt, mangelte, hat gemangelt
   Usage: an `D`
+  Meaning: to lack, to want
+  Wiki: to lack, to want
+
 - Id: mitmachen
+  Level: A1
+  Form: macht mit, machte mit, hat mitgemacht
   Usage: bei `D`
+  Meaning: to take part
+  Cambridge: to take part (in), to join in; to go through; to hold out; to play along, to cooperate
+  Wiki: to take part
+  Examples:
+    - Warum macht ihr nicht mit?
+    - Wir organisieren ein Fest. Möchtest du auch mitmachen?
+
 - Id: mitwirken
+  Form: wirkt mit, wirkte mit, hat mitgewirkt
   Usage: an `D`; bei `D`
+  Meaning: to participate, cooperate
+  Cambridge: to play a part, to be involved; to appear, to take part
+  Wiki: to participate, cooperate
+
 - Id: multiplizieren
+  Form: multipliziert, multiplizierte, hat multipliziert
   Usage: mit `D`
+  Meaning: 'to multiply (transitive: perform multiplication on (a number))'
+  Cambridge: to multiply
+  Wiki: 'to multiply (transitive: perform multiplication on (a number))'
+
 - Id: nachdenken
+  Level: B1
+  Form: denkt nach, dachte nach, hat nachgedacht
   Usage: über `A`
+  Meaning: to think about, reflect
+  Cambridge: to think
+  Wiki: to think, to reflect, to ponder
+  Examples:
+    - Ich weiß nicht, was ich machen soll. Ich muss nachdenken.
+
 - Id: neigen
+  Form: neigt, neigte, hat geneigt
   Usage: zu `D`
+  Meaning: to incline, slant, tilt, bend, lower
+  Cambridge: to lean, to bend; to tilt; to bend, to bow, to tip
+  Wiki: to incline, slant, tilt, bend, lower; to incline, slant, lean, bow; to be inclined, tend towards, have a preference for
+
 - Id: orientieren
+  Form: orientiert, orientierte, hat orientiert
   Usage: an `D`
+  Meaning: to orient oneself; to orientate oneself
+  Cambridge: to get one’s bearings; to be based/oriented
+  Wiki: to orient oneself; to orientate oneself
+
 - Id: passen
+  Level: B1
+  Form: passt, passte, hat gepasst
   Usage: zu `D`
+  Meaning: to fit
+  Cambridge: to fit; to match, to fit
+  Wiki: (with dative) to fit; (with dative) to suit, to be suitable; to go with; to pass
+  Examples:
+    - example1
+
 - Id: philosophieren
+  Form: philosophiert, philosophierte, hat philosophiert
   Usage: über `A`
+  Meaning: to philosophize
+  Wiki: to philosophize
+
 - Id: protestieren
+  Level: B1
+  Form: protestiert, protestierte, hat protestiert
   Usage: gegen `A`
+  Meaning: to protest
+  Cambridge: to protest
+  Wiki: to protest (to make a strong objection)
+  Examples:
+    - example1
+
 - Id: raten
+  Level: B1
+  Form: rät, riet, hat geraten
   Usage: zu `D`
+  Meaning: to guess, to advise
+  Cambridge: to guess; to advise
+  Wiki: to advise; to recommend; to guess
+  Examples:
+    - example1
+
 - Id: reagieren
+  Level: B1
+  Form: reagiert, reagierte, hat reagiert
   Usage: auf `A`
+  Meaning: to react
+  Cambridge: to react
+  Wiki: to react; to respond
+  Examples:
+    - example1
+
 - Id: rechnen
+  Level: A2
+  Form: rechnet, rechnete, hat gerechnet
   Usage: mit `D`; zu `D`
+  Meaning: to calculate, do arithmetic
+  Cambridge: to calculate, to do calculations; to work out; to count; to estimate, to reckon on; to be thrifty; to expect
+  Wiki: to count, reckon, calculate, compute; to expect
+  Examples:
+    - Sarah kann gut rechnen.
+    - Meine Tochter kann gut rechnen.
+    - Im/In Rechnen hat sie eine Eins.
+    - Mit solchen Schwierigkeiten hatten wir nicht gerechnet.
+
 - Id: reden
+  Level: A2
+  Form: redet, redete, hat geredet
   Usage: mit `D`; von `D`; über `A`
+  Meaning: to talk, speak
+  Cambridge: to talk, to speak; to talk; to speak; to talk yourself
+  Wiki: to talk, to speak, to orate; to talk, to reveal (something secret); to say (something), to speak (in a language, etc.)
+  Examples:
+    - Mit meiner Freundin kann ich über alles reden.
+    - Rede nicht so viel!
+    - Worüber habt ihr gestern geredet?
+
 - Id: referieren
+  Form: referiert, referierte, hat referiert
   Usage: über `A`
+  Meaning: to report
+  Cambridge: to give a talk/paper (on)
+  Wiki: to report; to refer
+
 - Id: resultieren
+  Form: resultiert, resultierte, hat resultiert
   Usage: aus `D`
+  Meaning: to result
+  Wiki: to result
+
 - Id: richten
+  Form: richtet, richtete, hat gerichtet
   Usage: an `A`; auf `A`; nach `D`
+  Meaning: to direct, to point (e.g. a weapon)
+  Cambridge: to direct, to point, to turn; to direct, to address; to prepare; to sort out; to repair; to pass judgement; to execute
+  Wiki: to direct, to point (e.g. a weapon); to fix, to rectify, to put right; to straighten (something bent or tilted or not lined up properly); to right; to be directed (of emotions, words, etc.); to turn (toward) (of a look, one's eyes, gaze, etc.); to judge; to follow the lead of, to abide by; to depend (); to execute, to put to death
+
 - Id: riechen
+  Level: A1
+  Form: riecht, roch, hat gerochen
   Usage: nach `D`
+  Meaning: to smell
+  Cambridge: to smell; to sense
+  Wiki: to smell (something); to sniff (something); to use the sense of smell; to detect a smell; to smell something; to reek; to smell bad; to smell; to tolerate (someone); to stand (someone)
+  Examples:
+    - example1
+
 - Id: rufen
+  Level: B1
+  Form: ruft, rief, hat gerufen
   Usage: nach `D`
+  Meaning: to call
+  Cambridge: to call, to shout, to cry; to call
+  Wiki: to call out; to shout; to cry; to shriek; to call (for someone); to request the presence (of someone); to call (something) out; to ask (someone) to do something; to call for (someone) to do something; to call (someone), e.g. by telephone
+  Examples:
+    - example1
+
 - Id: ruhen
+  Form: ruht, ruhte, hat geruht
   Usage: auf `D`
+  Meaning: to rest; to sleep
+  Cambridge: to (take a) rest; to have stopped, to be at a standstill
+  Wiki: to rest; to sleep; to be buried, to lie; to be positioned; to rest; to stall; to be suspended
+
 - Id: rächen
+  Form: rächt, rächte, hat gerächt
   Usage: an `D`; für `A`
+  Meaning: to revenge; to avenge
+  Wiki: to revenge; to avenge; to take revenge; to avenge oneself
+
 - Id: sagen
+  Level: A1
+  Form: sagt, sagte, hat gesagt
   Usage: von `D`; zu `D`; über `A`
+  Meaning: to say
+  Cambridge: to say; to tell; to call
+  Wiki: to say; to tell; to mean; to speak up
+  Examples:
+    - Die Österreicher sagen Servus.
+    - Sag mal, wie geht es dir denn?
+    - Entschuldigung, was haben Sie gesagt?
+    - Wie sagt man „sorry“ auf Deutsch?
+    - Sag mal, wie geht es dir denn?
+    - Können Sie mir bitte sagen, wo hier ein Geldautomat ist?
+
 - Id: schicken
+  Level: A1
+  Form: schickt, schickte, hat geschickt
   Usage: an `A`; zu `D`
+  Meaning: to send (8)
+  Cambridge: to send; to be the done thing; to hurry up
+  Wiki: to send; to hurry (rare); to be decent, to be appropriate; to chew tobacco
+  Examples:
+    - Bitte schicken Sie mir eine E-Mail.
+    - Ich schicke dir den Brief nach Hause.
+    - Ich habe meinen Freunden eine Einladung zur Hochzeit geschickt.
+    - Schick mir doch eine E-Mail.
+    - Ich habe die Kinder einkaufen geschickt. Wir haben keine Milch mehr zu Hause.
+
 - Id: schießen
+  Level: B1
+  Form: schießt, schoss, hat geschossen
   Usage: auf `A`
+  Meaning: to shoot, kick
+  Cambridge: to shoot; to kick, to shoot; to fire; to take
+  Wiki: to shoot; to fire; to kick; to shoot; to shoot; to shoot up; to dart; to shoot; to rush; to gush
+  Examples:
+    - Unsere Mannschaft hat ein Tor geschossen.
+
 - Id: schimpfen
+  Level: A2
+  Form: schimpft, schimpfte, hat geschimpft
   Usage: auf `A`; mit `D`; über `A`
+  Meaning: to grumble, to complain, to tell off
+  Cambridge: to moan/complain (about), to tell off
+  Wiki: to tell off, to scold, to yell at; to complain, to grouse
+  Examples:
+    - Warum schimpfst du denn so laut? - Ich ärgere mich über mein Auto.
+    - Alle schimpfen über/auf das Wetter.
+    - Der Arzt hat mit mir geschimpft, weil ich zu wenig Sport mache.
+
 - Id: schlagen
+  Level: B1
+  Form: schlägt, schlug, hat geschlagen
   Usage: mit `D`; um `A`
+  Meaning: to strike, hit
+  Cambridge: to hit, to strike, to beat; to hit; to flap; to hit, to bang; to beat, to whip; to beat; to do; to take, to capture; to fell; to strike
+  Wiki: to beat; to hit; to knock; to strike; to punch; to hammer; to pound; to beat; to win against; to defeat; to beat; to strike repeatedly; to pound; to beat; to whip; to mix food in a rapid aerating fashion; to chime; to fight
+  Examples:
+    - Wer hat den Weltmeister geschlagen?
+    - Ich muss einen Nagel in die Wand schlagen. Wo ist der Hammer?
+    - Das Herz schlug mir bis zum Hals.
+
 - Id: schließen
+  Level: A1
+  Form: schließt, schloss, hat geschlossen
   Usage: aus `D`
+  Meaning: to close, shut
+  Cambridge: to close, to shut; to close down; to lock; to fill; to close, to conclude; to enter into, to conclude; to infer, to conclude
+  Wiki: to shut; to close; to shut down; to lock; to conclude; to end; to close; to come to (an agreement); to enter into (a relationship); to reach (a settlement); to gather; to conclude; to come to realize
+  Examples:
+    - Bitte, schließen Sie die Tür.
+    - Wir müssen uns beeilen, die Bank schließt um 18 Uhr.
+    - Die Tür schließt automatisch.
+    - Wir schließen um 20.00 Uhr.
+    - Wann können wir den Mietvertrag abschließen?
+    - Ich hatte die Papiere in den Schreibtisch eingeschlossen.
+    - Du kannst die Datei schließen. Ich bin fertig.
+    - Sie mussten die Firma leider schließen.
+
 - Id: schmecken
+  Level: A1
+  Form: schmeckt, schmeckte, hat geschmeckt
   Usage: nach `D`
+  Meaning: to taste
+  Cambridge: to taste
+  Wiki: to taste (good, bad, sweet, salty, etc.); to enjoy; to taste good
+  Examples:
+    - Schmeckt das gut?
+    - Schmeckt dir die Suppe?
+    - Hat es Ihnen geschmeckt?
+    - Schmeckt's?
+    - Die Suppe schmeckt nach Knoblauch.
+
 - Id: schreiben
+  Level: A1
+  Form: schreibt, schrieb, hat geschrieben
   Usage: an `A`; an `D`; von `D`; über `A`
+  Meaning: to write
+  Cambridge: to write; to write (to); to get; to be spelled
+  Wiki: to write, to write out; to spell; to write; to write; to be some year or date; to write, to text; to write to each other; to be spelled/spelt;
+  Examples:
+    - Die Assistentin schreibt viele E-Mails.
+    - Er schreibt jeden Tag fünfzig E-Mails.
+    - Ich schreibe dir eine E-Mail.
+    - Ich habe dir einen Brief geschrieben.
+    - Mein Kugelschreiber schreibt nicht mehr.
+
 - Id: schwören
+  Form: schwört, schwor, hat geschworen
   Usage: auf `A`
+  Meaning: to swear; to take an oath
+  Cambridge: to swear
+  Wiki: to swear; to take an oath; to swear by; to be convinced of; to like
+
 - Id: schämen
+  Form: schämt sich, schämte sich, hat sich geschämt
   Usage: für `A`; vor `D`
+  Meaning: to be ashamed or embarrassed, bashful
+  Cambridge: to be ashamed
+  Wiki: to be ashamed or embarrassed, bashful
+
 - Id: schützen
+  Level: B1
+  Form: schützt, schützte, hat geschützt
   Usage: vor `D`
+  Meaning: to protect
+  Cambridge: to protect
+  Wiki: to defend; to protect; to shelter; to guard; to cover; to protect oneself
+  Examples:
+    - Diese Impfung schützt vor Grippe.
+
 - Id: sehnen
+  Form: sehnt sich, sehnte sich, hat sich gesehnt
   Usage: nach `D`
+  Meaning: to yearn, to long for
+  Wiki: to yearn, to long for
+
 - Id: senden
+  Level: B1
+  Form: sendet, sendete, hat gesendet
   Usage: an `A`
+  Meaning: to send (6)
+  Cambridge: to broadcast; to broadcast, to transmit; to send
+  Wiki: to broadcast; to transmit; to send
+  Examples:
+    - Bitte senden Sie uns die Unterlagen per E-Mail.
+    - Können Sie uns die Post bitte nachsenden?
+
 - Id: siegen
+  Level: B1
+  Form: siegt, siegte, hat gesiegt
   Usage: gegen `A`; über `A`
+  Meaning: to win (s-)
+  Cambridge: to win, to be victorious
+  Wiki: to be victorious, to win
+  Examples:
+    - Die Mannschaft siegte mit 2:0.
+
 - Id: sinken
+  Level: B1
+  Form: sinkt, sank, ist gesunken
   Usage: auf `A`
+  Meaning: to sink
+  Cambridge: to sink; to fall
+  Wiki: to sink; to submerge; to set; to fall from the sky; to fall; to drop; to decline
+  Examples:
+    - Das Schiff ist vor der Küste gesunken.
+    - Der Preis ist um 3 % gesunken.
+
 - Id: sorgen
+  Level: B1
+  Form: sorgt, sorgte, hat gesorgt
   Usage: für `A`; um `A`
+  Meaning: to worry, to care for
+  Wiki: to take care of, to care for, to look after; to bring, ensure, make for; to worry, be worried
+  Examples:
+    - Wer sorgt denn für die Kinder?
+    - Können Sie bitte dafür sorgen, dass die Heizung funktioniert?
+
 - Id: spezialisieren
+  Form: spezialisiert, spezialisierte, hat spezialisiert
   Usage: auf `A`
+  Meaning: to specialize
+  Wiki: to specialize
+
 - Id: spielen
+  Level: A1
+  Form: spielt, spielte, hat gespielt
   Usage: mit `D`; um `A`
+  Meaning: to play
+  Cambridge: to play; to gamble; to play, to act; to perform; to be set; to be on/playing
+  Wiki: to play; to play, to engage in (a game, a sport, etc.); to play, to perform (a piece of music, a role in theater or a movie); to play, to listen to (a radio, a recording, etc.); to play, to perform on (a musical instrument); to act like, to behave like; to take place , to be set (in a particular time or place; of fiction)
+  Examples:
+    - Spielst du gern Fußball?
+    - Die Kinder spielen draußen.
+    - Spielen Sie Karten?
+    - Jakob spielt Klavier.
+    - Wir haben einen großen Garten, da können die Kinder spielen.
+    - Am Sonntag spielen wir gegen die Fußballmannschaft der Nachbarschule.
+    - Spielen Sie ein Instrument?
+
 - Id: spotten
+  Form: spottet, spottete, hat gespottet
   Usage: über `A`
+  Meaning: to scoff, to jeer, to mock
+  Cambridge: to mock
+  Wiki: to scoff, to jeer, to mock
+
 - Id: sprechen
+  Level: A1
+  Form: spricht, sprach, hat gesprochen
   Usage: für `A`; gegen `A`; mit `D`; von `D`; über `A`
+  Meaning: to speak, talk
+  Cambridge: to speak; to talk; to say, to pronounce; to point (to)
+  Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
+  Examples:
+    - Ich spreche Spanisch.
+    - Kann ich (mit) Herrn Klein sprechen?
+    - Können Sie bitte etwas lauter sprechen?
+    - Jean spricht sehr gut Deutsch.
+    - Ich möchte nicht darüber sprechen.
+    - Die Bundeskanzlerin spricht heute Abend im Fernsehen.
+
 - Id: stehen
+  Level: A1
+  Form: steht, stand, hat gestanden
   Usage: auf `A`; für `A`; unter `D`
+  Meaning: to stand
+  Cambridge: to stand, to be; to be at a standstill, to have stopped; to be; to stand; to be ready
+  Wiki: to stand; to be, to appear, to stand; to stay; to be still; to stay, to stand, to be (in a certain state, position or circumstance); to suit, to become; to put, place; to fancy
+  Examples:
+    - In meinem Beruf muss ich viel stehen.
+    - Als wir kamen, stand das Essen schon auf dem Tisch.
+    - Der Bus steht schon an der Haltestelle.
+    - Was steht heute in der Zeitung?
+    - Nach 20 Minuten stand das Spiel 1:1.
+    - Die neue Bluse steht dir gut.
+
 - Id: steigen
+  Level: B1
+  Form: steigt, stieg, ist gestiegen
   Usage: auf `A`
+  Meaning: to rise, climb
+  Cambridge: to climb; to lift, to rise; to get in/on/out/off; to rise, to increase; to stand; to put on, to take off; to happen
+  Wiki: to ascend, to climb, to rise; to rise (in value, of commodities etc.); to enter, to step (into a large vehicle); to rear up
+  Examples:
+    - Die Preise für Milch und Gemüse sind schon wieder gestiegen.
+    - Gegen Abend ist das Fieber wieder gestiegen.
+
 - Id: steigern
+  Form: steigert, steigerte, hat gesteigert
   Usage: um `A`
+  Meaning: to increase, to raise
+  Cambridge: to increase, to improve; to compare
+  Wiki: to increase, to raise; to boost, to improve, to enhance; to compare
+
 - Id: sterben
+  Level: A2
+  Form: stirbt, starb, ist gestorben
   Usage: an `D`
+  Meaning: to die
+  Cambridge: to die
+  Wiki: to die; to die a (particular kind of) death
+  Examples:
+    - Herr Müller kommt heute nicht. Sein Vater ist gestern gestorben.
+
 - Id: stimmen
+  Level: B1
+  Form: stimmt, stimmte, hat gestimmt
   Usage: für `A`; gegen `A`
+  Meaning: to be right, to vote
+  Cambridge: to be correct/right; to be true; to vote; to tune
+  Wiki: to be right, to be correct, to be proper, to be true; to vote ( + accusative); to tune; to make (someone happy, sad, etc.)
+  Examples:
+    - Meine Adresse stimmt nicht mehr.
+    - Das Wetter in Deutschland könnte besser sein. - Das stimmt.
+
 - Id: stinken
+  Level: B1
+  Form: stinkt, stank, hat gestunken
   Usage: nach `D`
+  Meaning: to stink
+  Cambridge: to stink; to be fishy
+  Wiki: to stink
+  Examples:
+    - Was stinkt denn hier so? - Das ist der Fisch. Er ist nicht mehr frisch.
+
 - Id: stoßen
+  Form: stößt, stieß, hat gestoßen
   Usage: gegen `A`
+  Meaning: to shove, push, knock, bump
+  Cambridge: to push, to shove; to strike; to bump; to bang yourself; to be next to, to border on
+  Wiki: to push; to shove; to thrust; to bump; to knock; to strike; to hurt; to take exception (to something); to jolt; to kick; to thrust; to bump (into something); to knock (against something) or; to come (across something); to happen (upon something); to stumble (upon something); to fuck
+
 - Id: streben
+  Form: strebt, strebte, hat gestrebt
   Usage: nach `D`
+  Meaning: to strive
+  Wiki: to strive; to aspire
+
 - Id: streiten
+  Form: streitet, stritt, hat gestritten
   Usage: mit `D`; um `A`
+  Meaning: to argue
+  Cambridge: to argue, to quarrel
+  Wiki: to argue; to fight; to quarrel
+
 - Id: sträuben
+  Form: sträubt sich, sträubte sich, hat sich gesträubt
   Usage: gegen `A`
+  Meaning: to bristle up, to stand on end
+  Cambridge: to resist, to refuse; to ruffle (up)
+  Wiki: to bristle up, to stand on end; to be reluctant, to resist (+ gegen)
+
 - Id: stören
+  Level: A2
+  Form: stört, störte, hat gestört
   Usage: bei `D`
+  Meaning: to disturb
+  Cambridge: to disturb; to bother, to disturb; to disrupt
+  Wiki: to disturb, to interfere, to bother
+  Examples:
+    - Darf ich Sie einen Augenblick stören?
+    - Du kannst das Radio anlassen. Das stört mich nicht.
+    - Störe ich?
+    - Darf ich Sie kurz stören?
+    - Mach die Musik leiser! Sie stört mich.
+
 - Id: suchen
+  Level: A1
+  Form: sucht, suchte, hat gesucht
   Usage: nach `D`
+  Meaning: to search for, look for
+  Cambridge: to look/search (for); to look for, to want; to look/search for; to seek, to try
+  Wiki: to search, to look for; to seek, strive, intend, try
+  Examples:
+    - Suchen Sie nach Informationen im Internet.
+    - Suchst du etwas?
+    - Ich suche meine Brille.
+    - Wir suchen eine größere Wohnung.
+    - Wen suchen Sie?
+
 - Id: taugen
+  Form: taugt, taugte, hat getaugt
   Usage: zu `D`
+  Meaning: to be fit
+  Cambridge: to be suitable
+  Wiki: to be fit
+
 - Id: teilen
+  Level: A2
+  Form: teilt, teilte, hat geteilt
   Usage: in `A`
+  Meaning: to divide, to split, to share
+  Cambridge: to divide, to split; to divide; to share
+  Wiki: to split, to share; to divide
+  Examples:
+    - Mein Mann und ich teilen uns die Arbeit.
+    - Wollen wir uns eine Pizza teilen?
+    - Was machst du mit dem Gewinn? - Ich teile ihn mit meiner Familie.
+
 - Id: teilhaben
+  Form: hat teil, hatte teil, hat teilgehabt
   Usage: an `D`
+  Meaning: to participate
+  Wiki: to participate
+
 - Id: teilnehmen
+  Level: A2
+  Form: nimmt teil, nahm teil, hat teilgenommen
   Usage: an `D`
+  Meaning: to take part
+  Cambridge: to take part, to participate, to attend; to share
+  Wiki: to participate
+  Examples:
+    - Ich möchte an dem Tanzkurs teilnehmen.
+    - Leider konnte ich an dem Kurs nicht regelmäßig teilnehmen.
+
 - Id: tendieren
+  Form: tendiert, tendierte, hat tendiert
   Usage: zu `D`
+  Meaning: '(tendieren zu): to tend toward/towards'
+  Cambridge: to tend; to tend, to lean
+  Wiki: '(tendieren zu): to tend toward/towards'
+
 - Id: treffen
+  Level: A1
+  Form: trifft, traf, hat getroffen
   Usage: mit `D`
+  Meaning: to meet
+  Cambridge: to hit; to meet; to hit on; to hurt; to make, to take
+  Wiki: to meet; to encounter; to hit; to strike; to affect; to concern; to hit the mark, to suit, to be convenient or fortunate; to cause the action implied by an abstract noun to take place, thus making the sentence passive or less direct; to effect the action
+  Examples:
+    - Ich treffe in der Stadt einen Kollegen.
+    - Wir treffen uns immer freitags.
+    - Ich habe Petra zufällig in der Stadt getroffen.
+
 - Id: trennen
+  Form: trennt, trennte, hat getrennt
   Usage: von `D`
+  Meaning: to separate
+  Cambridge: to separate; to divide (into syllables), to hyphenate; differentiate/distinguish between; to part company; to split up, to separate; to let go
+  Wiki: to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin; to sunder; to delink, unlink, disconnect, detach; to isolate; to separate, to go apart, to secede, to break off, to break up
+
 - Id: treten
+  Level: B1
+  Form: tritt, trat, hat getreten
   Usage: gegen `A`
+  Meaning: to step, step on
+  Cambridge: to step; to tread, to step; to kick; to press down (on); to begin, to enter
+  Wiki: to step, to walk (a short distance); to appear; (intransitive, with certain phrases) (to come into a state implied by a phrase.); to step; to tread; to trample; to kick; to step; to tread; to step (on); to pedal
+  Examples:
+    - Ich bin in ein Stück Glas getreten.
+    - Au! Du hast mich getreten!
+
 - Id: träumen
+  Level: A2
+  Form: träumt, träumte, hat geträumt
   Usage: von `D`
+  Meaning: to dream
+  Cambridge: to dream; to daydream
+  Wiki: to dream
+  Examples:
+    - Ich habe schlecht geträumt.
+    - Ich träume von einem großen Haus mit Garten.
+
 - Id: täuschen
+  Form: täuscht, täuschte, hat getäuscht
   Usage: in `D`
+  Meaning: to deceive
+  Cambridge: to be wrong; to deceive; to be deceptive
+  Wiki: to deceive; to be wrong, to be mistaken; to err
+
 - Id: umgehen
+  Level: B1
+  Form: umgeht, umging, hat umgangen
   Usage: mit `D`
+  Meaning: to treat, handle
+  Cambridge: to deal; to go around, to circulate; to walk; to go around, to bypass; to avoid, to evade; to get around, to circumvent
+  Wiki: to avoid, bypass, to go around; to avoid; to handle, to deal with; to go around; to haunt, to walk the earth
+  Examples:
+    - example1
+
 - Id: umwandeln
+  Form: wandelt um, wandelte um, hat umgewandelt
   Usage: in `A`
+  Meaning: to convert, change, commute
+  Cambridge: to transform, to change, to convert
+  Wiki: to convert, change, commute; to transform, transmute
+
 - Id: unterhalten
+  Form: unterhält, unterhielt, hat unterhalten
   Usage: mit `D`; über `A`
+  Meaning: to amuse oneself, chat
+  Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
+  Wiki: to maintain; to entertain; to converse
+
 - Id: unterrichten
+  Level: B1
+  Form: unterrichtet, unterrichtete, hat unterrichtet
   Usage: in `D`
+  Meaning: to teach
+  Cambridge: to teach; to inform
+  Wiki: to teach, to school; to inform
+  Examples:
+    - Frau Keller unterrichtet Kinder.
+    - Meine Frau unterrichtet Spanisch.
+
 - Id: unterscheiden
+  Level: B1
+  Form: unterscheidet, unterschied, hat unterschieden
   Usage: nach `D`; von `D`; zwischen `D`
+  Meaning: to distinguish
+  Cambridge: to distinguish; to differ
+  Wiki: to distinguish, differentiate; to differ, be different, distinct
+  Examples:
+    - example1
+
 - Id: unterstützen
+  Level: B1
+  Form: unterstützt, unterstützte, hat unterstützt
   Usage: bei `D`
+  Meaning: to support
+  Cambridge: to support; to promote, to boost
+  Wiki: to support, to assist, to help, to aid; to endorse, to give support, to show support, to back up, to promote, to encourage, to sponsor, to support; to sustain, to support; to uphold, to maintain
+  Examples:
+    - example1
+
 - Id: urteilen
+  Form: urteilt, urteilte, hat geurteilt
   Usage: nach `D`; über `A`
+  Meaning: to judge
+  Cambridge: to judge
+  Wiki: to judge
+
 - Id: verabreden
+  Form: verabredet, verabredete, hat verabredet
   Usage: mit `D`; zu `D`
+  Meaning: to arrange to meet
+  Cambridge: to arrange to meet; to agree
+  Wiki: to arrange; to make an appointment
+
 - Id: veranlassen
+  Form: veranlasst, veranlasste, hat veranlasst
   Usage: zu `D`
+  Meaning: to cause, to prompt, to arrange for, to bring about
+  Cambridge: to cause, to lead; to arrange for, to instigate
+  Wiki: to cause, to prompt, to arrange for, to bring about
+
 - Id: vereinbaren
+  Level: A2
+  Form: vereinbart, vereinbarte, hat vereinbart
   Usage: mit `D`
+  Meaning: to agree upon
+  Cambridge: to agree, to arrange; to reconcile
+  Wiki: to agree upon; to arrange; to reconcile
+  Examples:
+    - Können wir einen Termin vereinbaren?
+
 - Id: verfügen
+  Form: verfügt, verfügte, hat verfügt
   Usage: über `A`
+  Meaning: to decree, to order (something to happen)
+  Cambridge: to have (at your disposal); to be in charge; to order, to decree
+  Wiki: to decree, to order (something to happen); to have something at one's disposal, to employ, to have control over.
+
 - Id: verführen
+  Form: verführt, verführte, hat verführt
   Usage: zu `D`
+  Meaning: to seduce
+  Cambridge: to tempt; to seduce
+  Wiki: to seduce
+
 - Id: verheiraten
+  Level: K
+  Form: verheiratet, verheiratete, hat verheiratet
   Usage: mit `D`
+  Meaning: to wed
+  Wiki: to wed; to marry; to marry off; to find a spouse for; to marry; to get married
+  Examples:
+    - Der Kapitän verheiratete die beiden miteinander.
+
 - Id: verlangen
+  Level: B1
+  Form: verlangt, verlangte, hat verlangt
   Usage: nach `D`; von `D`
+  Meaning: to request, demand
+  Cambridge: to demand; to ask for; to require
+  Wiki: to ask for, demand
+  Examples:
+    - example1
+
 - Id: verlassen
+  Level: B1
+  Form: verlässt, verließ, hat verlassen
   Usage: auf `A`
+  Meaning: to abandon
+  Cambridge: to leave; deserted; lonely
+  Wiki: to leave, to abandon; to depart, to forsake; to leave, to desert, to dump; to pass away; to cease; to die; to exit or close a computer program or app; to trust; to rely on; lonely, forsaken; abandoned, deserted; forlornly
+  Examples:
+    - example1
+
 - Id: verleiten
+  Form: verleitet, verleitete, hat verleitet
   Usage: zu `D`
+  Meaning: to cause someone to do something detrimental, risky or imprudent, to incite
+  Cambridge: to lead astray, to tempt
+  Wiki: to cause someone to do something detrimental, risky or imprudent, to incite; to entice, seduce, lead astray, mislead
+
 - Id: verlieben
+  Form: ist verliebt, war verliebt, ist verliebt gewesen
   Usage: in `A`
+  Meaning: to fall in love
+  Cambridge: to fall in love
+  Wiki: to fall in love; to fall in love with
+
 - Id: vermindern
+  Form: vermindert, verminderte, hat vermindert
   Usage: um `A`
+  Meaning: to reduce, decrease, shrink, diminish
+  Cambridge: to reduce, to decrease, to lessen; to decrease, to diminish
+  Wiki: to reduce, decrease, shrink, diminish; to alleviate, lessen, ease; to deplete
+
 - Id: vermitteln
+  Form: vermittelt, vermittelte, hat vermittelt
   Usage: zwischen `D`
+  Meaning: to mediate
+  Cambridge: to impart, to communicate; to convey, to give; to find, to arrange; to find jobs / a job for, to place; to act as a mediator, to mediate
+  Wiki: to mediate; to convey; to broker, to supply, to provide
+
 - Id: verpflichten
+  Form: verpflichtet, verpflichtete, hat verpflichtet
   Usage: zu `D`
+  Meaning: to oblige somebody, make somebody promise
+  Cambridge: to commit; to sign, to engage, to enlist; to oblige
+  Wiki: to oblige somebody, make somebody promise; to commit, to oblige; to oblige, to swear, to be sworn; to engage; to bind somebody by contract, to oblige somebody; to be an obligation; to undertake (to commit oneself to an obligation)
+
 - Id: verringern
+  Form: verringert, verringerte, hat verringert
   Usage: um `A`
+  Meaning: to abate, to reduce, to lessen
+  Cambridge: to reduce; to decrease
+  Wiki: to abate, to reduce, to lessen
+
 - Id: verschieben
+  Level: B1
+  Form: verschiebt, verschob, hat verschoben
   Usage: auf `A`
+  Meaning: to postpone, shift
+  Cambridge: to move, to shift; to move, to slip; to put off, to postpone; to be postponed/delayed; to traffic in
+  Wiki: to move, to shift; to postpone, to adjourn
+  Examples:
+    - example1
+
 - Id: verstecken
+  Form: versteckt, versteckte, hat versteckt
   Usage: vor `D`
+  Meaning: to hide
+  Cambridge: to hide
+  Wiki: to conceal; to hide (oneself)
+
 - Id: verstehen
+  Form: versteht, verstand, hat verstanden
   Usage: mit `D`; unter `D`; von `D`
+  Meaning: to understand
+  Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
+  Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
+
 - Id: verstoßen
+  Form: verstößt, verstieß, hat verstoßen
   Usage: gegen `A`
+  Meaning: to cast out (of a community), to disown
+  Cambridge: to disown
+  Wiki: to cast out (of a community), to disown; to infringe, to break, to violate, to be contrary to (a law, treaty, custom, etc.); to obturate, to occlude by propping something into; to hide, to conceal; to cease to advance, to not flow anymore
+
 - Id: verteidigen
+  Form: verteidigt, verteidigte, hat verteidigt
   Usage: gegen `A`
+  Meaning: to defend (from attack)
+  Cambridge: to defend
+  Wiki: to defend (from attack); to justify (an opinion, behavior, etc.)
+
 - Id: vertiefen
+  Form: vertieft, vertiefte, hat vertieft
   Usage: in `A`
+  Meaning: to deepen
+  Cambridge: to strengthen, to extend; to deepen; to make deeper, to deepen; to deepen, to become deeper
+  Wiki: to deepen; to deepen; to delve (into sth)
+
 - Id: vertragen
+  Form: verträgt, vertrug, hat vertragen
   Usage: mit `D`
+  Meaning: to tolerate, bear
+  Cambridge: to tolerate, to bear; to tolerate; to take; to get on; to make it up; to go together
+  Wiki: to tolerate, bear; could do with; to get along with; to make up
+
 - Id: vertrauen
+  Level: B1
+  Form: vertraut, vertraute, hat vertraut
   Usage: '`D`; auf `A`'
+  Meaning: to trust
+  Cambridge: to trust
+  Wiki: to trust, to place confidence in
+  Examples:
+    - example1
+
 - Id: verurteilen
+  Level: B1
+  Form: verurteilt, verurteilte, hat verurteilt
   Usage: für `A`; zu `D`
+  Meaning: to condemn, sentence
+  Cambridge: to sentence; to condemn
+  Wiki: to convict, condemn, sentence; to condemn, strongly denounce; to judge, pass a moral judgment
+  Examples:
+    - example1
+
 - Id: verwandeln
+  Form: verwandelt, verwandelte, hat verwandelt
   Usage: in `A`
+  Meaning: to change (into something else), to transform, transmute
+  Cambridge: to convert, to transform; to turn; to convert, to score from; to be transformed
+  Wiki: to change (into something else), to transform, transmute; to change (into something else), to metamorphose; to convert (a chance into a goal/point)
+
 - Id: verwechseln
+  Level: B1
+  Form: verwechselt, verwechselte, hat verwechselt
   Usage: mit `D`
+  Meaning: to confuse with
+  Cambridge: to mix up, to mistake, to confuse; to mix up
+  Wiki: to confuse, to mistake
+  Examples:
+    - example1
+
 - Id: verwenden
+  Level: B1
+  Form: verwendet, verwendete, hat verwendet
   Usage: für `A`; zu `D`
+  Meaning: to use
+  Cambridge: to use; to spend
+  Wiki: to use, to employ, to apply; to make expenses applied on a material object; to intercede; to turn away
+  Examples:
+    - example1
+
 - Id: verzichten
+  Level: B1
+  Form: verzichtet, verzichtete, hat verzichtet
   Usage: auf `A`
+  Meaning: to forego, give up
+  Cambridge: to do without, to refrain (from), to renounce
+  Wiki: 'to give up, go without, live without, make do without, do without, formal: forgo, dispense with; to refrain from, abstain, renounce, forswear; let somebody have; resign, abdicate; renounce, waive, disclaim'
+  Examples:
+    - example1
+
 - Id: warnen
+  Level: B1
+  Form: warnt, warnte, hat gewarnt
   Usage: vor `D`
+  Meaning: to warn
+  Cambridge: to warn
+  Wiki: to warn, to caution, to admonish
+  Examples:
+    - example1
+
 - Id: warten
+  Level: A1
+  Form: wartet, wartete, hat gewartet
   Usage: auf `A`
+  Meaning: to wait
+  Cambridge: to wait; to service
+  Wiki: to wait (for); to maintain (chiefly a machine, e.g. a car or heating)
+  Examples:
+    - example1
+
 - Id: wehren
+  Form: wehrt sich, wehrte sich, hat sich gewehrt
   Usage: gegen `A`
+  Meaning: to fight
+  Cambridge: to defend yourself, to fight back
+  Wiki: to fight; to defend
+
 - Id: weinen
+  Level: B1
+  Form: weint, weinte, hat geweint
   Usage: über `A`
+  Meaning: to cry
+  Cambridge: to cry, to weep
+  Wiki: to weep, cry
+  Examples:
+    - example1
+
 - Id: wenden
+  Level: B1
+  Form: wendet, wandte, hat gewandt
   Usage: an `A`
+  Meaning: to turn
+  Cambridge: to turn; to turn over, to toss; to turn around; to change, to turn
+  Wiki: to turn something so as to cook or roast it from both sides; to turn something (in general); to avert; to curb; to make a u-turn; to turn around one’s car or vehicle; to turn around; to turn to; to consult
+  Examples:
+    - example1
+
 - Id: werben
+  Form: wirbt, warb, hat geworben
   Usage: für `A`; um `A`
+  Meaning: to recruit; to enlist
+  Cambridge: to recruit, to attract
+  Wiki: to recruit; to enlist; to promote, advertise; to attract, to woo
+
 - Id: werden
+  Level: A1
+  Form: wird, wurde, ist geworden
   Usage: zu `D`
+  Meaning: to become
+  Cambridge: to become, to get; to become; to turn, to be; to come, to be; will; to be; would; to hope; it’s time
+  Wiki: will; to be going (to do something);; would;; to be done;; to become; to get; to grow; to turn; to begin or come to feel or experience (a condition); to be, to happen, to occur (in the future); to be going to work
+  Examples:
+    - Mein Sohn will Arzt werden.
+    - Das Wetter am Wochenende wird gut. Das haben sie im Radio gesagt.
+    - Es wird kalt.
+    - Ich habe morgen Geburtstag. - Wie alt wirst du denn?
+    - Warum fährst du so schnell? Bist du verrückt geworden?!
+    - Mein Sohn möchte Polizist werden.
+    - Wohin fahren Sie in Urlaub? - Ich glaube, wir werden dieses Jahr zu Hause bleiben.
+
 - Id: wetten
+  Level: B1
+  Form: wettet, wettete, hat gewettet
   Usage: um `A`
+  Meaning: to bet
+  Cambridge: to bet
+  Wiki: to bet; to be nearly certain of
+  Examples:
+    - example1
+
 - Id: wirken
+  Level: B1
+  Form: wirkt, wirkte, hat gewirkt
   Usage: auf `A`
+  Meaning: to work, have an effect
+  Cambridge: to have an effect, to work; to have an effect; to seem; to work
+  Wiki: to function, to be effective, to work; to appear, to seem; to perform (some action), to achieve (some effect), to work (cause to happen), to cast (a spell); to work or be active in a certain field or activity; to work (toward a goal or for a cause); to take effect, to be effective; to knit (with yarn), to brocade; to knead
+  Examples:
+    - example1
+
 - Id: wissen
+  Level: A1
+  Form: weiß, wusste, hat gewusst
   Usage: um `A`; von `D`
+  Meaning: to know
+  Cambridge: to know; to remember
+  Wiki: to know; to be aware of (a fact); to remember
+  Examples:
+    - example1
+
 - Id: wundern
+  Form: wundert, wunderte, hat gewundert
   Usage: über `A`
+  Meaning: to wonder
+  Cambridge: to be surprised; to surprise
+  Wiki: to surprise; to be surprised; to wonder
+
 - Id: wählen
+  Level: B1
+  Form: wählt, wählte, hat gewählt
   Usage: zu `D`
+  Meaning: to choose, vote
+  Cambridge: to choose; to vote (for), to elect; to dial
+  Wiki: to choose, to select; to dial; to vote; to vote for
+  Examples:
+    - example1
+
 - Id: zugehen
+  Level: B1
+  Form: geht zu, ging zu, ist zugegangen
   Usage: auf `A`
+  Meaning: to shut
+  Cambridge: to approach; to close, to shut
+  Wiki: to shut; to approach; to take place
+  Examples:
+    - example1
+
 - Id: zugucken
+  Form: guckt zu, guckte zu, hat zugeguckt
   Usage: bei `D`
+
 - Id: zunehmen
+  Level: B1
+  Form: nimmt zu, nahm zu, hat zugenommen
   Usage: an `D`
+  Meaning: to increase
+  Cambridge: to put on weight; to increase
+  Wiki: to increase; to gain weight
+  Examples:
+    - example1
+
 - Id: zurückkommen
+  Form: kommt zurück, kam zurück, ist zurückgekommen
   Usage: auf `A`
+  Meaning: to return (to come back)
+  Cambridge: to come back, to return, to be returned; to come back, to return
+  Wiki: to return (to come back)
+
 - Id: zusammenstoßen
+  Form: stößt zusammen, stieß zusammen, ist zusammengestoßen
   Usage: mit `D`
+  Meaning: to collide
+  Cambridge: to collide
+  Wiki: to collide
+
 - Id: zuschauen
+  Level: B1
+  Form: schaut zu, schaute zu, hat zugeschaut
   Usage: bei `D`
+  Meaning: to watch
+  Cambridge: to watch; to look on
+  Wiki: to look on; to watch
+  Examples:
+    - Möchtest du beim Fußballspiel zuschauen?
+    - Willst du mitspielen? – Nein, ich schaue lieber nur zu.
+
 - Id: zusehen
+  Form: sieht zu, sah zu, hat zugesehen
   Usage: bei `D`
+  Meaning: to watch
+  Cambridge: to watch; to see to it, to make sure
+  Wiki: to watch; to watch out, to take care; to make sure, to see to it (that something happens)
+
 - Id: zweifeln
+  Level: B1
+  Form: zweifelt, zweifelte, hat gezweifelt
   Usage: an `D`
+  Meaning: to doubt
+  Cambridge: to doubt, to have doubts
+  Wiki: to doubt, to be doubtful
+  Examples:
+    - example1
+
 - Id: zwingen
+  Form: zwingt, zwang, hat gezwungen
   Usage: zu `D`
+  Meaning: to force
+  Cambridge: to force; to force yourself
+  Wiki: to force; to compel; to make (someone do something); to necessitate; to call for
+
 - Id: zählen
+  Level: B1
+  Form: zählt, zählte, hat gezählt
   Usage: auf `A`; zu `D`
+  Meaning: to count
+  Cambridge: to count
+  Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
+  Examples:
+    - Bitte zählen Sie das Wechselgeld sofort nach.
+    - Mein Sohn kann schon bis 100 zählen.
+    - Ich zähle auf dich!
+
 - Id: zögern
+  Form: zögert, zögerte, hat gezögert
   Usage: bei `D`; mit `D`
+  Meaning: to hesitate, to pause before doing something.
+  Cambridge: to hesitate
+  Wiki: to hesitate, to pause before doing something.
+
 - Id: ändern
+  Level: A2
+  Form: ändert, änderte, hat geändert
   Usage: an `D`
+  Meaning: to change
+  Cambridge: to change
+  Wiki: to change, to alter; to change, to vary
+  Examples:
+    - Das Wetter hat sich geändert.
+    - Wie kann ich mein Passwort ändern?
+    - Das Wetter hat sich geändert.
+    - Ich habe meine Meinung inzwischen geändert.
+
 - Id: ängstigen
+  Form: ängstigt, ängstigte, hat geängstigt
   Usage: um `A`; vor `D`
+  Meaning: to alarm; to frighten
+  Cambridge: to frighten
+  Wiki: to alarm; to frighten; to be afraid; to be worried
+
 - Id: ärgern
+  Form: ärgert, ärgerte, hat geärgert
   Usage: über `A`
+  Meaning: to annoy, to be annoyed
+  Cambridge: to annoy, to make angry
+  Wiki: to annoy, to make angry (+accusative); to be annoyed, to be angry, to get annoyed, to get angry
+
 - Id: üben
+  Level: A2
+  Form: übt, übte, hat geübt
   Usage: in `D`
+  Meaning: to practise
+  Cambridge: to practice, to rehearse; to exercise
+  Wiki: to practise, to drill, to train; to exercise, to put into practice; to practise (doing something)
+  Examples:
+    - Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden.
+
 - Id: überreden
+  Level: B1
+  Form: überredet, überredete, hat überredet
   Usage: zu `D`
+  Meaning: to persuade
+  Cambridge: to persuade
+  Wiki: to talk over, talk into, persuade
+  Examples:
+    - example1
+
 - Id: übersetzen
+  Level: A2
+  Form: übersetzt, übersetzte, hat übersetzt
   Usage: in `A`; aus `D`
+  Meaning: to translate
+  Cambridge: to translate; to cross (over); to ferry over
+  Wiki: to translate, to interpret; to compile; to cross, cross over, traverse, ferry
+  Examples:
+    - Können Sie mir den Brief bitte übersetzen?
+
 - Id: übertreffen
+  Form: übertrifft, übertraf, hat übertroffen
   Usage: in `D`
+  Meaning: to exceed, to surpass, to outdo
+  Cambridge: to surpass, to beat
+  Wiki: to exceed, to surpass, to outdo; to exceed (a certain standard)
+
 - Id: überzeugen
+  Form: überzeugt, überzeugte, hat überzeugt
   Usage: von `D`
+  Meaning: to convince
+  Cambridge: to convince, to persuade; to impress; to satisfy yourself
+  Wiki: to convince; to convince oneself
