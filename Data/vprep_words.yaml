@@ -1392,8 +1392,13 @@
     - Die Zeitung liegt auf dem Tisch. Judith liegt noch im Bett.
 
 - Id: loskommen
+  Form: kommt los, kam los, ist losgekommen
   Usage: von `D`
+  Meaning: to set off; to get free
   Cambridge: to set off; to get free, to free yourself
+  Examples:
+    - Beeil dich, ich will pünktlich loskommen!
+    - Wie ist der Hund nur von der Leine losgekommen?
 
 - Id: machen
   Level: A1
