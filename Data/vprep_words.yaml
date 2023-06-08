@@ -1102,10 +1102,12 @@
     - Ich gratuliere euch zur Geburt eurer Tochter.
 
 - Id: grauen
+  Form: graut, graute, hat gegraut
   Usage: jmdm. grauen vor (es) `D`
+  Meaning: to cause terror
+  Wiki: to cause terror; to be terrified; to break; to become grey
   Examples:
-    - Mir graut vor dem Gedanken, dass wir uns vielleicht nie
-      mehr sehen werden.
+    - Mir graut vor dem Gedanken, dass wir uns vielleicht nie mehr sehen werden.
 
 - Id: greifen
   Level: B1
