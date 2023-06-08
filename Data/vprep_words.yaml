@@ -359,9 +359,7 @@
 - Id: schmecken
   Usage: nach `D`
 - Id: schreiben
-  Usage: an `A`
-- Id: schreiben
-  Usage: an `D`; von `D`; über `A`
+  Usage: an `A`; an `D`; von `D`; über `A`
 - Id: schwören
   Usage: auf `A`
 - Id: schämen
