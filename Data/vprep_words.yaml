@@ -245,11 +245,7 @@
 - Id: greifen
   Usage: nach `D`
 - Id: halten
-  Usage: an `A`
-- Id: halten
-  Usage: für `A`
-- Id: halten
-  Usage: von `D`; zu `D`
+  Usage: an `A`; für `A`; von `D`; zu `D`
 - Id: handeln
   Usage: gegen `A`; mit `D`; um `A`; von `D`
 - Id: helfen
@@ -295,9 +291,7 @@
 - Id: leben
   Usage: von `D`
 - Id: leiden
-  Usage: an `D`
-- Id: leiden
-  Usage: unter `D`
+  Usage: an `D`; unter `D`
 - Id: liefern
   Usage: an `A`
 - Id: liegen
@@ -365,9 +359,7 @@
 - Id: schreiben
   Usage: an `A`
 - Id: schreiben
-  Usage: an `D`; von `D`
-- Id: schreiben
-  Usage: über `A`
+  Usage: an `D`; von `D`; über `A`
 - Id: schwören
   Usage: auf `A`
 - Id: schämen
@@ -463,9 +455,7 @@
 - Id: verheiraten
   Usage: mit `D`
 - Id: verlangen
-  Usage: nach `D`
-- Id: verlangen
-  Usage: von `D`
+  Usage: nach `D`; von `D`
 - Id: verlassen
   Usage: auf `A`
 - Id: verleiten
