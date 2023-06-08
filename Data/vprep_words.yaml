@@ -911,11 +911,14 @@
 - Id: fehlen
   Level: A1
   Form: fehlt, fehlte, hat gefehlt
-  Usage: an `D`
+  Usage: jmdm. fehlen an (es)
   Meaning: to be wanting, missing, absent
   Cambridge: to be missing/lacking, to lack; to be absent; to be lacking
   Wiki: to lack; to be absent from, to be missing from, to be lacking in; to be missed by; to be missing; to fail
   Examples:
+    - Woran fehlt es?
+    - Momentan fehlt es in dem Land an allem.
+    - Mir fehlt es an Geduld.
     - Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
     - Was fehlt Ihnen?
     - Auf dem Brief fehlt der Absender.
@@ -999,7 +1002,7 @@
 - Id: gehen
   Level: A1
   Form: geht, ging, ist gegangen
-  Usage: um `A`
+  Usage: (es) gehen um `A`
   Meaning: to go
   Cambridge: to walk; to leave, to go; to go; to go (to), to be (at); to join, to go into; to wear; to work; to rise; to lead, to go; to be okay / all right; to go, to work; to come
   Wiki: to go, to walk; to leave; to leave, to take off; to be going; to be all right;; to be possible; to work, to function; to last, to go for, to go on, to be in progress; to sit, to rise, to expand; to be (on); to approach; to be going (on some one); to go one's way, to make one's way (of a path, destination), to go separate ways
@@ -1098,8 +1101,11 @@
     - Ich gratuliere dir!
     - Ich gratuliere euch zur Geburt eurer Tochter.
 
-- Id: grauen vor
-  Usage: (es) `D`
+- Id: grauen
+  Usage: jmdm. grauen vor (es) `D`
+  Examples:
+    - Mir graut vor dem Gedanken, dass wir uns vielleicht nie
+      mehr sehen werden.
 
 - Id: greifen
   Level: B1
