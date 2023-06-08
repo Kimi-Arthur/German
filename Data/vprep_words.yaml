@@ -555,9 +555,7 @@
 - Id: überreden
   Usage: zu `D`
 - Id: übersetzen
-  Usage: in `A`
-- Id: übersetzten
-  Usage: aus `D`
+  Usage: in `A`; aus `D`
 - Id: übertreffen
   Usage: in `D`
 - Id: überzeugen
