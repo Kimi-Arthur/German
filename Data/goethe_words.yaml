@@ -116,9 +116,10 @@
     - Ich muss meinen Schlüssel an der Rezeption abgeben.
     - Ich soll dieses Päckchen bei Herrn Müller abgeben.
 
-- Id: abhängen (von)
+- Id: abhängen
   Level: B1
   Form: hängt ab, hing ab, hat abgehangen
+  Usage: von `D`
   Meaning: to depend upon
   Cambridge: to depend; to be dependent on; to hang out; to take down, to uncouple; to leave behind; to shake off
   Wiki: to depend (as a necessary condition); to hang out; to take down; to outpace, to shake off, to leave behind
@@ -166,6 +167,7 @@
 - Id: abschreiben
   Level: B1
   Form: schreibt ab, schrieb ab, hat abgeschrieben
+  Usage: von `D`
   Meaning: to copy, write off
   Cambridge: to copy; to write off
   Wiki: to transcribe; to plagiarize; to write off; to consider something a write-off, as in colloquial use; to call defeat
@@ -785,6 +787,7 @@
 - Id: ändern
   Level: A2
   Form: ändert, änderte, hat geändert
+  Usage: an `D`
   Meaning: to change
   Cambridge: to change
   Wiki: to change, to alter; to change, to vary
@@ -825,6 +828,7 @@
 - Id: anfangen
   Level: A1
   Form: fängt an, fing an, hat angefangen
+  Usage: mit `D`
   Meaning: to begin (a-)
   Cambridge: to begin, to start
   Wiki: to begin; to commence; to start doing something; to begin something; to start something; to start a topic; to keep talking about something; to begin something; to start something; to put to good use, to do something good (with)
@@ -946,6 +950,7 @@
 - Id: ankommen
   Level: A1
   Form: kommt an, kam an, ist angekommen
+  Usage: auf `A`
   Meaning: to arrive
   Cambridge: to arrive; to come
   Wiki: to arrive; to depend on; to be important, to matter; to be a match for, to stand a chance against
@@ -1267,6 +1272,7 @@
 - Id: antworten
   Level: A1
   Form: antwortet, antwortete, hat geantwortet
+  Usage: auf `A`
   Meaning: to answer
   Cambridge: to answer, to reply; to respond
   Wiki: to answer, to reply; to answer, to reply to
@@ -1412,6 +1418,7 @@
 - Id: arbeiten
   Level: A1
   Form: arbeitet, arbeitete, hat gearbeitet
+  Usage: an `D`; bei `D`; für `A`
   Meaning: to work
   Cambridge: to work
   Wiki: to work; to work, function, run, operate; to ferment; to work, execute; to make, produce; to do, perform; to work oneself (to); to work one's way; to work (translated by rephrasing to use a general “you” or with the gerund, “working”)
@@ -1772,6 +1779,7 @@
 - Id: aufhören
   Level: A1
   Form: hört auf, hörte auf, hat aufgehört
+  Usage: mit `D`
   Meaning: to stop
   Cambridge: to stop
   Wiki: to stop; to quit; to cease; to stop talking about something
@@ -1842,6 +1850,7 @@
 - Id: aufpassen
   Level: A2
   Form: passt auf, passte auf, hat aufgepasst
+  Usage: auf `A`
   Meaning: to be careful, to take care
   Cambridge: to be careful, to watch out; to pay attention, to be attentive
   Wiki: to watch out, to be alert; to look after, to take care of; to be attentive (with something)
@@ -1865,6 +1874,7 @@
 - Id: aufregen
   Level: B1
   Form: regt auf, regte auf, hat aufgeregt
+  Usage: über `A`
   Meaning: to excite, upset, annoy
   Cambridge: to get upset/worried/excited; to upset; to annoy, to irritate
   Wiki: to excite; to annoy, to upset
@@ -2126,6 +2136,7 @@
 - Id: ausgeben
   Level: A2
   Form: gibt aus, gab aus, hat ausgegeben
+  Usage: für `A`
   Meaning: to spend
   Cambridge: to spend; to give out; to issue
   Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
@@ -3102,6 +3113,7 @@
 - Id: beginnen
   Level: A1
   Form: beginnt, begann, hat begonnen
+  Usage: mit `D`
   Meaning: to begin (b-)
   Cambridge: to start; to start, to begin
   Wiki: to begin; to commence; to be started; to start something; to begin something
@@ -3520,6 +3532,7 @@
 - Id: berichten
   Level: A2
   Form: berichtet, berichtete, hat berichtet
+  Usage: von `D`; über `A`
   Meaning: to report, to tell
   Cambridge: to report
   Wiki: to relate, to tell, to give an account of; to report (especially by the media or authorities)
@@ -3595,6 +3608,7 @@
 - Id: beschäftigen
   Level: B1
   Form: beschäftigt, beschäftigte, hat beschäftigt
+  Usage: mit `D`
   Meaning: to employ, be busy, deal with
   Cambridge: to employ; to occupy; to be on your mind, to bother; to spend time with, to devote your attention to; to give thought to
   Wiki: to keep busy, to keep busy, to employ, to engage; to keep oneself busy, to keep oneself busy ( with); to concern oneself
@@ -3650,6 +3664,7 @@
 - Id: beschränken
   Level: B1
   Form: beschränkt, beschränkte, hat beschränkt
+  Usage: auf `A`
   Meaning: to restrict
   Cambridge: to limit
   Wiki: to limit; to restrict; to limit oneself (to)
@@ -3805,6 +3820,7 @@
 - Id: bestehen
   Level: A2
   Form: besteht, bestand, hat bestanden
+  Usage: auf `D`; aus `D`; in `D`
   Meaning: to exist, last, pass, win
   Cambridge: to be, to exist; to pass; to hold your own, to stand your ground, to survive
   Wiki: to succeed, to pass (an exam); to consist (); to exist; to insist ( with dative)
@@ -3940,6 +3956,7 @@
 - Id: betrügen
   Level: B1
   Form: betrügt, betrog, hat betrogen
+  Usage: um `A`
   Meaning: to cheat
   Cambridge: to cheat; to cheat on
   Wiki: to deceive (usually deliberately); to defraud; to perform an act of fraud against; to swindle; to betray (sexually or romantically); to cheat on; to cheat
@@ -3988,6 +4005,7 @@
 - Id: bewegen
   Level: B1
   Form: bewegt, bewegte, hat bewegt
+  Usage: zu `D`
   Meaning: to move
   Cambridge: to move, to budge; to get exercise; to range; to move forward; to move; to be on your mind
   Wiki: to motivate; to persuade; to prompt (someone or something to do something); to make (someone or something to do something); to induce; to get (someone or something to do something); to move; to stir; to exercise
@@ -4235,6 +4253,7 @@
 - Id: bitten
   Level: A1
   Form: bittet, bat, hat gebeten
+  Usage: um `A`
   Meaning: to request
   Cambridge: to ask
   Wiki: to ask, to beg, to plead, to request (help, understanding, etc.)
@@ -4691,6 +4710,7 @@
 - Id: bringen
   Level: A1
   Form: bringt, brachte, hat gebracht
+  Usage: auf `A`; zu `D`
   Meaning: to bring
   Cambridge: to take, to bring; to take, to see; to broadcast, to feature; to bring; to make, to yield; to bring about
   Wiki: to bring, to fetch, to take, to convey, to bear; to bring, to lead, to guide, to accompany; to cause (someone) to have (something); to cause (something) to exist for the benefit, or to the detriment, of (someone); to cause (something) to be a part of (something); to get, to cause (someone to do something); (transitive, with certain phrases) (To cause the action implied by a phrase to take place, possibly making the sentence more passive or indirect.); to acquire; to take possession of; to accomplish; to yield; to be of use; to be helpful; to deliver; to perform well; to get over with
@@ -5342,6 +5362,7 @@
 - Id: danken
   Level: A1
   Form: dankt, dankte, hat gedankt
+  Usage: für `A`
   Meaning: to thank
   Cambridge: to thank
   Wiki: to thank
@@ -5500,6 +5521,7 @@
 - Id: denken
   Level: A2
   Form: denkt, dachte, hat gedacht
+  Usage: an `A`
   Meaning: to think
   Cambridge: to think
   Wiki: to think; not to forget; to remember (to bring along, etc.); to imagine; to think, to believe, to assume, to conjecture
@@ -5658,6 +5680,7 @@
 - Id: dienen
   Level: B1
   Form: dient, diente, hat gedient
+  Usage: zu `D`
   Meaning: to serve (d-)
   Cambridge: to serve; to do your military service; to be of assistance
   Wiki: to serve in public office or the military; to serve, to be a servant (for example butler or maid) for; to serve a cause; to assist, to be of assistance; to serve (as), to double (as), to act as a replacement for
@@ -5761,6 +5784,7 @@
 - Id: diskutieren
   Level: A2
   Form: diskutiert, diskutierte, hat diskutiert
+  Usage: mit `D`; über `A`
   Meaning: to discuss
   Cambridge: to discuss
   Wiki: to discuss
@@ -5942,6 +5966,7 @@
 - Id: drehen
   Level: B1
   Form: dreht, drehte, hat gedreht
+  Usage: um `A`
   Meaning: to turn
   Cambridge: turn; to turn, to rotate, to spin; to turn; to shoot
   Wiki: to turn; to turn (one’s body), turn around; to roll, twist, make something revolve, rotate; to revolve, rotate, spin; to shoot; to roll; to make a u-turn, turn around; to let go of the handle while shooting, causing the pole to spin; to shape with a lathe
@@ -6716,6 +6741,7 @@
 - Id: einladen
   Level: A1
   Form: lädt ein, lud ein, hat eingeladen
+  Usage: auf `A`; zu `D`
   Meaning: to invite
   Cambridge: to invite; to load in(to)
   Wiki: to invite; to treat; to load (something into a container)
@@ -6843,6 +6869,7 @@
 - Id: einsetzen
   Level: B1
   Form: setzt ein, setzte ein, hat eingesetzt
+  Usage: für `A`
   Meaning: to put, set, install
   Cambridge: to use, to deploy; to appoint, to set up; to put in, to install; to come in, to begin
   Wiki: to put in; set in; insert; to implant; to use; employ; to appoint; to risk; to stake; to start; begin; to speak up for
@@ -6865,6 +6892,7 @@
 - Id: einstellen
   Level: B1
   Form: stellt ein, stellte ein, hat eingestellt
+  Usage: auf `A`
   Meaning: to employ, take on, adjust
   Cambridge: to take on, to hire; to stop; to adjust, to set
   Wiki: to hire; to adjust, to set; to prepare; to appear; to cease, to stop; to build in a way fusing with other buildings or the whole project
@@ -6885,6 +6913,7 @@
 - Id: eintreten
   Level: B1
   Form: tritt ein, trat ein, hat eingetreten
+  Usage: für `A`
   Meaning: to enter, occur
   Cambridge: to join; to happen, to occur, to arise; to come/go in; to kick in
   Wiki: to enter, to come into; to occur, to eventuate; to join a club association etc.; to advocate, to support, to stand for, to champion; to kick; to open (something e.g. a door) by kicking
@@ -7109,6 +7138,7 @@
 - Id: enden
   Level: A1
   Form: endet, endete, hat geendet
+  Usage: mit `D`
   Meaning: to end
   Cambridge: to end; to finish; to end, to conclude; to end up
   Wiki: to end
@@ -7266,6 +7296,7 @@
 - Id: entscheiden
   Level: B1
   Form: entscheidet, entschied, hat entschieden
+  Usage: für `A`; gegen `A`
   Meaning: to decide
   Cambridge: to decide
   Wiki: to decide, to make a decision; to choose ( + accusative); to decide, to determine the outcome of
@@ -7311,6 +7342,7 @@
 - Id: entschuldigen
   Level: A1
   Form: entschuldigt, entschuldigte, hat entschuldigt
+  Usage: für `A`
   Meaning: to apologise
   Cambridge: to excuse; to excuse on the grounds of, to put down to
   Wiki: to excuse; to excuse/forgive something; to apologize, to apologise
@@ -7464,6 +7496,7 @@
 - Id: erfahren
   Level: B1
   Form: erfährt, erfuhr, hat erfahren
+  Usage: von `D`
   Meaning: to learn, find out, experience
   Cambridge: to learn, to hear, to find out; to experience, to undergo, to suffer; experienced
   Wiki: to find out, learn, to come to know; to experience; experienced
@@ -7577,6 +7610,7 @@
 - Id: erhöhen
   Level: B1
   Form: erhöht, erhöhte, hat erhöht
+  Usage: auf `A`; um `A`
   Meaning: to increase, raise
   Cambridge: to raise, to increase; to raise, to elevate; to rise, to go up
   Wiki: to heighten, raise; to increase; to exalt
@@ -7615,6 +7649,7 @@
 - Id: erinnern
   Level: A2
   Form: erinnert, erinnerte, hat erinnert
+  Usage: an `A`
   Meaning: to remember
   Cambridge: to remember; to remind
   Wiki: to remind; to remember, to be reminded of; to remember, to commemorate
@@ -7662,6 +7697,7 @@
 - Id: erkennen
   Level: B1
   Form: erkennt, erkannte, hat erkannt
+  Usage: an `D`
   Meaning: to recognise
   Cambridge: to make out, to discern; to recognize; to realize, to recognize
   Wiki: to recognize, perceive, acknowledge; to realize, detect, see, know, identify, discover, understand
@@ -7771,6 +7807,7 @@
 - Id: ernähren
   Level: B1
   Form: ernährt, ernährte, hat ernährt
+  Usage: von `D`
   Meaning: to feed, nourish
   Cambridge: to eat; to support
   Wiki: to nourish, to feed; to eat; to support
@@ -7857,6 +7894,7 @@
 - Id: erschrecken
   Level: B1
   Form: erschreckt, erschreckte, hat erschreckt
+  Usage: über `A`
   Meaning: to scare, shock
   Cambridge: to get a fright, to be startled; to frighten
   Wiki: to be frightened; to be startled; to be frightened; to be startled; to frighten; to scare (someone); to frighten; to scare (someone); to be frightened; to be startled
@@ -7932,6 +7970,7 @@
 - Id: erwarten
   Level: B1
   Form: erwartet, erwartete, hat erwartet
+  Usage: von `D`
   Meaning: to expect
   Cambridge: to expect
   Wiki: to expect, to consider likely; to await, to expect (someone to arrive)
@@ -7944,6 +7983,7 @@
 - Id: erzählen
   Level: A1
   Form: erzählt, erzählte, hat erzählt
+  Usage: von `D`
   Meaning: to tell
   Cambridge: to tell, to narrate; to recount, to relate
   Wiki: to tell, to narrate, to recount (for example a story, to someone); to tell, to say (that something occurred); to talk a lot; to tell nonsense; to gabble
@@ -7965,6 +8005,7 @@
 - Id: erziehen
   Level: B1
   Form: erzieht, erzog, hat erzogen
+  Usage: zu `D`
   Meaning: to bring up, raise
   Cambridge: to bring up
   Wiki: to nurture; to educate
@@ -8500,10 +8541,14 @@
 - Id: fehlen
   Level: A1
   Form: fehlt, fehlte, hat gefehlt
+  Usage: jmdm. fehlen an (es)
   Meaning: to be wanting, missing, absent
   Cambridge: to be missing/lacking, to lack; to be absent; to be lacking
   Wiki: to lack; to be absent from, to be missing from, to be lacking in; to be missed by; to be missing; to fail
   Examples:
+    - Woran fehlt es?
+    - Momentan fehlt es in dem Land an allem.
+    - Mir fehlt es an Geduld.
     - Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
     - Was fehlt Ihnen?
     - Auf dem Brief fehlt der Absender.
@@ -9028,6 +9073,7 @@
 - Id: fliehen
   Level: B1
   Form: flieht, floh, ist geflohen
+  Usage: vor `D`
   Meaning: to flee
   Cambridge: to flee
   Wiki: to flee; to escape; (archaic, poetic) to fly; to diverge; to flee from (someone); to avoid
@@ -9340,6 +9386,7 @@
 - Id: fragen
   Level: A1
   Form: fragt, fragte, hat gefragt
+  Usage: nach `D`
   Meaning: to ask
   Cambridge: to ask; to wonder
   Wiki: to ask (someone something); to ask for, to ask after; to wonder (literally, to ask (oneself))
@@ -9662,6 +9709,7 @@
 - Id: führen
   Level: B1
   Form: führt, führte, hat geführt
+  Usage: zu `D`
   Meaning: to lead
   Cambridge: to take, to lead, to show; to show; to lead, to go; to bring; to run; to keep; to carry out; to carry, to stock; to be in the lead by, to be up
   Wiki: to lead; to carry, to sell; to conduct some activity or process, to hold (a discussion, a negotiation), to have (a conversation), to lead (one's life), to wage (a war or campaign), to fight (a war); to wield (a weapon)
@@ -10288,6 +10336,7 @@
 - Id: gehen
   Level: A1
   Form: geht, ging, ist gegangen
+  Usage: (es) gehen um `A`
   Meaning: to go
   Cambridge: to walk; to leave, to go; to go; to go (to), to be (at); to join, to go into; to wear; to work; to rise; to lead, to go; to be okay / all right; to go, to work; to come
   Wiki: to go, to walk; to leave; to leave, to take off; to be going; to be all right;; to be possible; to work, to function; to last, to go for, to go on, to be in progress; to sit, to rise, to expand; to be (on); to approach; to be going (on some one); to go one's way, to make one's way (of a path, destination), to go separate ways
@@ -10315,6 +10364,7 @@
 - Id: gehören
   Level: A1
   Form: gehört, gehörte, hat gehört
+  Usage: zu `D`
   Meaning: to belong to
   Cambridge: to belong to; to be among / one of; to go; to take, to require; to be proper/becoming
   Wiki: to belong to, be the property of; to be a prerequisite for; to be a characteristic of; to belong to, be a part of; to be proper; ought to be
@@ -10815,6 +10865,7 @@
 - Id: gewinnen
   Level: A1
   Form: gewinnt, gewann, hat gewonnen
+  Usage: an `D`; gegen `A`
   Meaning: to win (g-)
   Cambridge: to win; to obtain, to get; to mine
   Wiki: to win; to be victorious; to win something; to gain; to win over; to persuade; to win or extract a resource
@@ -10855,6 +10906,7 @@
 - Id: gewöhnen
   Level: B1
   Form: gewöhnt, gewöhnte, hat gewöhnt
+  Usage: an `A`
   Meaning: to accustom, get used to
   Wiki: to get used to; to accustom oneself to; to adapt to
   Examples:
@@ -10968,6 +11020,7 @@
 - Id: glauben
   Level: A1
   Form: glaubt, glaubte, hat geglaubt
+  Usage: an `A`
   Meaning: to believe
   Cambridge: to believe; to think
   Wiki: to believe something; to believe in; to believe someone; to think, to believe
@@ -11136,6 +11189,7 @@
 - Id: gratulieren
   Level: A1
   Form: gratuliert, gratulierte, hat gratuliert
+  Usage: zu `D`
   Meaning: to congratulate
   Cambridge: to congratulate
   Wiki: to congratulate
@@ -11163,6 +11217,7 @@
 - Id: greifen
   Level: B1
   Form: greift, griff, hat gegriffen
+  Usage: nach `D`
   Meaning: to grasp, seize, grab
   Cambridge: to seize, to grab, to snatch; to reach; to be effective, to take effect; to grip
   Wiki: to grab; to grasp; to grip (something); to grab; to seize; to snatch (in an aggressive way); to reach; to grab; to capture (someone); to strike; to take hold; to bite
@@ -11573,6 +11628,7 @@
 - Id: halten
   Level: A1
   Form: hält, hielt, hat gehalten
+  Usage: an `A`; für `A`; von `D`; zu `D`
   Meaning: to keep, hold
   Cambridge: to hold; to hold (on), to keep; to keep, to make (sb) stay; to keep; to hold, to stick to; to retain, to keep; to last; to last, to stay; to (make a) save; to keep, to have; to give, to deliver; to stop
   Wiki: 'to hold; to stop; to halt; to hold back; to support; to hold up; to keep; to maintain; to hold; to keep; to hold; to keep; to stay; to stop; to take for, to consider; to adhere to, to follow (rules, the law, etc.); (with preposition: von) (expresses a positive or negative opinion depending on quantity); to give (a presentation, lecture etc.)'
@@ -11648,6 +11704,7 @@
 - Id: handeln
   Level: B1
   Form: handelt, handelte, hat gehandelt
+  Usage: gegen `A`; mit `D`; um `A`; von `D`
   Meaning: to deal, trade
   Cambridge: to deal, to trade; to bargain, to negotiate; to act
   Wiki: to act; to take action; to negotiate; to bargain; to haggle; to trade in; to deal; to sell; to trade; to tip as; to take into consideration as being; to discuss; to deal with; to write or speak about; to be about; to deal with; to be, to be a case of, to be a matter of; to handle something; to control; to deal with in an organised fashion
@@ -11991,6 +12048,7 @@
 - Id: helfen
   Level: A1
   Form: hilft, half, hat geholfen
+  Usage: bei `D`
   Meaning: to help
   Cambridge: to help
   Wiki: to help (someone); to assist; to aid
@@ -12281,6 +12339,7 @@
 - Id: hinweisen
   Level: B1
   Form: weist hin, wies hin, hat hingewiesen
+  Usage: auf `A`
   Meaning: to point to, to refer to
   Wiki: to portend (to signify); to point out
   Examples:
@@ -12403,6 +12462,7 @@
 - Id: hoffen
   Level: A2
   Form: hofft, hoffte, hat gehofft
+  Usage: auf `A`
   Meaning: to hope
   Cambridge: to hope
   Wiki: to hope
@@ -12479,6 +12539,7 @@
 - Id: hören
   Level: A1
   Form: hört, hörte, hat gehört
+  Usage: auf `A`; von `D`
   Meaning: to hear
   Cambridge: to hear; to listen to; to listen
   Wiki: to hear; to listen to, pay attention to; to attend, to go to, to sit in on; to get, to receive; to listen; to hear; to hear
@@ -12748,6 +12809,7 @@
 - Id: informieren
   Level: A2
   Form: informiert, informierte, hat informiert
+  Usage: bei `D`; über `A`
   Meaning: to inform
   Cambridge: to inform
   Wiki: to inform, to update; to read up on, to find out, to research, to look into, to inform oneself
@@ -12932,6 +12994,7 @@
 - Id: interessieren
   Level: A2
   Form: interessiert, interessierte, hat interessiert
+  Usage: sich für `A`
   Meaning: to have interest
   Wiki: to interest; to be interested in
   Examples:
@@ -13374,6 +13437,7 @@
 - Id: kämpfen
   Level: B1
   Form: kämpft, kämpfte, hat gekämpft
+  Usage: für `A`; gegen `A`; mit `D`; um `A`
   Meaning: to fight
   Cambridge: to fight
   Wiki: to fight, to struggle
@@ -13852,6 +13916,7 @@
 - Id: klagen
   Level: B1
   Form: klagt, klagte, hat geklagt
+  Usage: über `A`
   Meaning: to complain
   Cambridge: to complain (about); to take legal action
   Wiki: to complain (to express feelings of pain, dissatisfaction, or resentment); to wail, lament; to sue; to sue someone
@@ -14219,6 +14284,7 @@
 - Id: kommen
   Level: A1
   Form: kommt, kam, ist gekommen
+  Usage: auf `A`; zu `D`
   Meaning: to come
   Cambridge: to come; to get; to come about; to come, to be; to go; to leave; to be on
   Wiki: to come; to arrive; to come to; to come over; to get; to make it; to go to; to be put in; to come on (Used to encourage someone to do something.); to occur; to happen; to come to be; to be played (of a song or film); to be due to; to be the result of; to come from; to orgasm; to cum; to be statistically equivalent to; to be there for; to obtain (a solution or result); to get an idea; to think of; to remember; to imagine; to lose; to forfeit; not to get; to touch inadvertently; to manage to reach (something high up etc.); to turn out (well)
@@ -15101,6 +15167,7 @@
 - Id: lachen
   Level: A1
   Form: lacht, lachte, hat gelacht
+  Usage: über `A`
   Meaning: to laugh
   Cambridge: to laugh
   Wiki: to laugh
@@ -15408,6 +15475,7 @@
 - Id: leben
   Level: A1
   Form: lebt, lebte, hat gelebt
+  Usage: von `D`
   Meaning: to live
   Cambridge: to live, to be alive; to live
   Wiki: to live, to be alive; to dwell, to reside; to live, to exist, to occupy a place; to cope with, to live with, to deal with
@@ -15556,6 +15624,7 @@
 - Id: leiden
   Level: B1
   Form: leidet, litt, hat gelitten
+  Usage: an `D`; unter `D`
   Meaning: to suffer
   Cambridge: to suffer
   Wiki: to suffer, to experience pain, sorrow, etc.; to suffer, bear, endure, undergo, experience (some hardship); to suffer from (a disease or condition); to like, tolerate (usually in negative contexts)
@@ -15820,6 +15889,7 @@
 - Id: liefern
   Level: A2
   Form: liefert, lieferte, hat geliefert
+  Usage: an `A`
   Meaning: to deliver
   Cambridge: to deliver, to supply; to produce, to provide
   Wiki: to supply, provide (goods etc.) ( to); to deliver (goods, an order etc.); to yield (produce outcome); to research, to read up on something; to fight
@@ -15839,6 +15909,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
+  Usage: an `D`
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -16119,6 +16190,7 @@
 - Id: machen
   Level: A1
   Form: macht, machte, hat gemacht
+  Usage: an `A`; aus `D`
   Meaning: to make, do
   Cambridge: to do; to make; to make, to create; to do, to make, to carry out; to be, to make
   Wiki: to make, produce, create (an object, arrangement, situation, etc.); to make, prepare; to do, perform, carry out; to do;; to go; to make; to cause; to make; to make; to make; to come to, total, cost; to make, be; to make; to be, play; to matter; to make, make oneself out to be, act, play; to do one's business, do number two or number one, go; to do; to look; to get cracking ( (“on,” “with”)), get a move on (it), to get down ( (“to”)) (something); come on, let's go
@@ -16978,6 +17050,7 @@
 - Id: mitmachen
   Level: A1
   Form: macht mit, machte mit, hat mitgemacht
+  Usage: bei `D`
   Meaning: to take part
   Cambridge: to take part (in), to join in; to go through; to hold out; to play along, to cooperate
   Wiki: to take part
@@ -17551,6 +17624,7 @@
 - Id: nachdenken
   Level: B1
   Form: denkt nach, dachte nach, hat nachgedacht
+  Usage: über `A`
   Meaning: to think about, reflect
   Cambridge: to think
   Wiki: to think, to reflect, to ponder
@@ -18834,6 +18908,7 @@
 - Id: passen
   Level: B1
   Form: passt, passte, hat gepasst
+  Usage: zu `D`
   Meaning: to fit
   Cambridge: to fit; to match, to fit
   Wiki: (with dative) to fit; (with dative) to suit, to be suitable; to go with; to pass
@@ -19592,6 +19667,7 @@
 - Id: protestieren
   Level: B1
   Form: protestiert, protestierte, hat protestiert
+  Usage: gegen `A`
   Meaning: to protest
   Cambridge: to protest
   Wiki: to protest (to make a strong objection)
@@ -19821,6 +19897,7 @@
 - Id: raten
   Level: B1
   Form: rät, riet, hat geraten
+  Usage: zu `D`
   Meaning: to guess, to advise
   Cambridge: to guess; to advise
   Wiki: to advise; to recommend; to guess
@@ -19920,6 +19997,7 @@
 - Id: reagieren
   Level: B1
   Form: reagiert, reagierte, hat reagiert
+  Usage: auf `A`
   Meaning: to react
   Cambridge: to react
   Wiki: to react; to respond
@@ -19974,6 +20052,7 @@
 - Id: rechnen
   Level: A2
   Form: rechnet, rechnete, hat gerechnet
+  Usage: mit `D`; zu `D`
   Meaning: to calculate, do arithmetic
   Cambridge: to calculate, to do calculations; to work out; to count; to estimate, to reckon on; to be thrifty; to expect
   Wiki: to count, reckon, calculate, compute; to expect
@@ -20058,6 +20137,7 @@
 - Id: reden
   Level: A2
   Form: redet, redete, hat geredet
+  Usage: mit `D`; von `D`; über `A`
   Meaning: to talk, speak
   Cambridge: to talk, to speak; to talk; to speak; to talk yourself
   Wiki: to talk, to speak, to orate; to talk, to reveal (something secret); to say (something), to speak (in a language, etc.)
@@ -20535,6 +20615,7 @@
 - Id: riechen
   Level: A1
   Form: riecht, roch, hat gerochen
+  Usage: nach `D`
   Meaning: to smell
   Cambridge: to smell; to sense
   Wiki: to smell (something); to sniff (something); to use the sense of smell; to detect a smell; to smell something; to reek; to smell bad; to smell; to tolerate (someone); to stand (someone)
@@ -20697,6 +20778,7 @@
 - Id: rufen
   Level: B1
   Form: ruft, rief, hat gerufen
+  Usage: nach `D`
   Meaning: to call
   Cambridge: to call, to shout, to cry; to call
   Wiki: to call out; to shout; to cry; to shriek; to call (for someone); to request the presence (of someone); to call (something) out; to ask (someone) to do something; to call for (someone) to do something; to call (someone), e.g. by telephone
@@ -20810,6 +20892,7 @@
 - Id: sagen
   Level: A1
   Form: sagt, sagte, hat gesagt
+  Usage: von `D`; zu `D`; über `A`
   Meaning: to say
   Cambridge: to say; to tell; to call
   Wiki: to say; to tell; to mean; to speak up
@@ -21199,6 +21282,7 @@
 - Id: schicken
   Level: A1
   Form: schickt, schickte, hat geschickt
+  Usage: an `A`; zu `D`
   Meaning: to send (8)
   Cambridge: to send; to be the done thing; to hurry up
   Wiki: to send; to hurry (rare); to be decent, to be appropriate; to chew tobacco
@@ -21231,6 +21315,7 @@
 - Id: schießen
   Level: B1
   Form: schießt, schoss, hat geschossen
+  Usage: auf `A`
   Meaning: to shoot, kick
   Cambridge: to shoot; to kick, to shoot; to fire; to take
   Wiki: to shoot; to fire; to kick; to shoot; to shoot; to shoot up; to dart; to shoot; to rush; to gush
@@ -21261,6 +21346,7 @@
 - Id: schimpfen
   Level: A2
   Form: schimpft, schimpfte, hat geschimpft
+  Usage: auf `A`; mit `D`; über `A`
   Meaning: to grumble, to complain, to tell off
   Cambridge: to moan/complain (about), to tell off
   Wiki: to tell off, to scold, to yell at; to complain, to grouse
@@ -21322,6 +21408,7 @@
 - Id: schlagen
   Level: B1
   Form: schlägt, schlug, hat geschlagen
+  Usage: mit `D`; um `A`
   Meaning: to strike, hit
   Cambridge: to hit, to strike, to beat; to hit; to flap; to hit, to bang; to beat, to whip; to beat; to do; to take, to capture; to fell; to strike
   Wiki: to beat; to hit; to knock; to strike; to punch; to hammer; to pound; to beat; to win against; to defeat; to beat; to strike repeatedly; to pound; to beat; to whip; to mix food in a rapid aerating fashion; to chime; to fight
@@ -21381,6 +21468,7 @@
 - Id: schließen
   Level: A1
   Form: schließt, schloss, hat geschlossen
+  Usage: aus `D`
   Meaning: to close, shut
   Cambridge: to close, to shut; to close down; to lock; to fill; to close, to conclude; to enter into, to conclude; to infer, to conclude
   Wiki: to shut; to close; to shut down; to lock; to conclude; to end; to close; to come to (an agreement); to enter into (a relationship); to reach (a settlement); to gather; to conclude; to come to realize
@@ -21470,6 +21558,7 @@
 - Id: schmecken
   Level: A1
   Form: schmeckt, schmeckte, hat geschmeckt
+  Usage: nach `D`
   Meaning: to taste
   Cambridge: to taste
   Wiki: to taste (good, bad, sweet, salty, etc.); to enjoy; to taste good
@@ -21689,6 +21778,7 @@
 - Id: schreiben
   Level: A1
   Form: schreibt, schrieb, hat geschrieben
+  Usage: an `A`; an `D`; von `D`; über `A`
   Meaning: to write
   Cambridge: to write; to write (to); to get; to be spelled
   Wiki: to write, to write out; to spell; to write; to write; to be some year or date; to write, to text; to write to each other; to be spelled/spelt;
@@ -21875,6 +21965,7 @@
 - Id: schützen
   Level: B1
   Form: schützt, schützte, hat geschützt
+  Usage: vor `D`
   Meaning: to protect
   Cambridge: to protect
   Wiki: to defend; to protect; to shelter; to guard; to cover; to protect oneself
@@ -21884,7 +21975,6 @@
 - Id: der Schutz
   Level: B1
   Form: -e
-  Usage: Schutz vor `A`
   Meaning: protection
   Cambridge: protection, shelter
   Wiki: protection; protective installation
@@ -22285,6 +22375,7 @@
 - Id: senden
   Level: B1
   Form: sendet, sendete, hat gesendet
+  Usage: an `A`
   Meaning: to send (6)
   Cambridge: to broadcast; to broadcast, to transmit; to send
   Wiki: to broadcast; to transmit; to send
@@ -22422,6 +22513,7 @@
 - Id: siegen
   Level: B1
   Form: siegt, siegte, hat gesiegt
+  Usage: gegen `A`; über `A`
   Meaning: to win (s-)
   Cambridge: to win, to be victorious
   Wiki: to be victorious, to win
@@ -22472,6 +22564,7 @@
 - Id: sinken
   Level: B1
   Form: sinkt, sank, ist gesunken
+  Usage: auf `A`
   Meaning: to sink
   Cambridge: to sink; to fall
   Wiki: to sink; to submerge; to set; to fall from the sky; to fall; to drop; to decline
@@ -22776,6 +22869,7 @@
 - Id: sorgen
   Level: B1
   Form: sorgt, sorgte, hat gesorgt
+  Usage: für `A`; um `A`
   Meaning: to worry, to care for
   Wiki: to take care of, to care for, to look after; to bring, ensure, make for; to worry, be worried
   Examples:
@@ -23026,6 +23120,7 @@
 - Id: spielen
   Level: A1
   Form: spielt, spielte, hat gespielt
+  Usage: mit `D`; um `A`
   Meaning: to play
   Cambridge: to play; to gamble; to play, to act; to perform; to be set; to be on/playing
   Wiki: to play; to play, to engage in (a game, a sport, etc.); to play, to perform (a piece of music, a role in theater or a movie); to play, to listen to (a radio, a recording, etc.); to play, to perform on (a musical instrument); to act like, to behave like; to take place , to be set (in a particular time or place; of fiction)
@@ -23187,6 +23282,7 @@
 - Id: sprechen
   Level: A1
   Form: spricht, sprach, hat gesprochen
+  Usage: für `A`; gegen `A`; mit `D`; von `D`; über `A`
   Meaning: to speak, talk
   Cambridge: to speak; to talk; to say, to pronounce; to point (to)
   Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
@@ -23480,6 +23576,7 @@
 - Id: stehen
   Level: A1
   Form: steht, stand, hat gestanden
+  Usage: auf `A`; für `A`; unter `D`
   Meaning: to stand
   Cambridge: to stand, to be; to be at a standstill, to have stopped; to be; to stand; to be ready
   Wiki: to stand; to be, to appear, to stand; to stay; to be still; to stay, to stand, to be (in a certain state, position or circumstance); to suit, to become; to put, place; to fancy
@@ -23511,6 +23608,7 @@
 - Id: steigen
   Level: B1
   Form: steigt, stieg, ist gestiegen
+  Usage: auf `A`
   Meaning: to rise, climb
   Cambridge: to climb; to lift, to rise; to get in/on/out/off; to rise, to increase; to stand; to put on, to take off; to happen
   Wiki: to ascend, to climb, to rise; to rise (in value, of commodities etc.); to enter, to step (into a large vehicle); to rear up
@@ -23574,6 +23672,7 @@
 - Id: sterben
   Level: A2
   Form: stirbt, starb, ist gestorben
+  Usage: an `D`
   Meaning: to die
   Cambridge: to die
   Wiki: to die; to die a (particular kind of) death
@@ -23695,6 +23794,7 @@
 - Id: stimmen
   Level: B1
   Form: stimmt, stimmte, hat gestimmt
+  Usage: für `A`; gegen `A`
   Meaning: to be right, to vote
   Cambridge: to be correct/right; to be true; to vote; to tune
   Wiki: to be right, to be correct, to be proper, to be true; to vote ( + accusative); to tune; to make (someone happy, sad, etc.)
@@ -23713,6 +23813,7 @@
 - Id: stinken
   Level: B1
   Form: stinkt, stank, hat gestunken
+  Usage: nach `D`
   Meaning: to stink
   Cambridge: to stink; to be fishy
   Wiki: to stink
@@ -23779,6 +23880,7 @@
 - Id: stören
   Level: A2
   Form: stört, störte, hat gestört
+  Usage: bei `D`
   Meaning: to disturb
   Cambridge: to disturb; to bother, to disturb; to disrupt
   Wiki: to disturb, to interfere, to bother
@@ -24106,6 +24208,7 @@
 - Id: suchen
   Level: A1
   Form: sucht, suchte, hat gesucht
+  Usage: nach `D`
   Meaning: to search for, look for
   Cambridge: to look/search (for); to look for, to want; to look/search for; to seek, to try
   Wiki: to search, to look for; to seek, strive, intend, try
@@ -24519,6 +24622,7 @@
 - Id: austauschen
   Level: A2
   Form: tauscht aus, tauschte aus, hat ausgetauscht
+  Usage: mit `D`; über `A`
   Meaning: to exchange
   Cambridge: to exchange; to replace; to substitute
   Wiki: to exchange; to replace; to substitute
@@ -24593,6 +24697,7 @@
 - Id: teilen
   Level: A2
   Form: teilt, teilte, hat geteilt
+  Usage: in `A`
   Meaning: to divide, to split, to share
   Cambridge: to divide, to split; to divide; to share
   Wiki: to split, to share; to divide
@@ -24634,6 +24739,7 @@
 - Id: teilnehmen
   Level: A2
   Form: nimmt teil, nahm teil, hat teilgenommen
+  Usage: an `D`
   Meaning: to take part
   Cambridge: to take part, to participate, to attend; to share
   Wiki: to participate
@@ -25212,6 +25318,7 @@
 - Id: träumen
   Level: A2
   Form: träumt, träumte, hat geträumt
+  Usage: von `D`
   Meaning: to dream
   Cambridge: to dream; to daydream
   Wiki: to dream
@@ -25250,6 +25357,7 @@
 - Id: treffen
   Level: A1
   Form: trifft, traf, hat getroffen
+  Usage: mit `D`
   Meaning: to meet
   Cambridge: to hit; to meet; to hit on; to hurt; to make, to take
   Wiki: to meet; to encounter; to hit; to strike; to affect; to concern; to hit the mark, to suit, to be convenient or fortunate; to cause the action implied by an abstract noun to take place, thus making the sentence passive or less direct; to effect the action
@@ -25338,6 +25446,7 @@
 - Id: treten
   Level: B1
   Form: tritt, trat, hat getreten
+  Usage: gegen `A`
   Meaning: to step, step on
   Cambridge: to step; to tread, to step; to kick; to press down (on); to begin, to enter
   Wiki: to step, to walk (a short distance); to appear; (intransitive, with certain phrases) (to come into a state implied by a phrase.); to step; to tread; to trample; to kick; to step; to tread; to step (on); to pedal
@@ -25545,6 +25654,7 @@
 - Id: üben
   Level: A2
   Form: übt, übte, hat geübt
+  Usage: in `D`
   Meaning: to practise
   Cambridge: to practice, to rehearse; to exercise
   Wiki: to practise, to drill, to train; to exercise, to put into practice; to practise (doing something)
@@ -25701,6 +25811,7 @@
 - Id: überreden
   Level: B1
   Form: überredet, überredete, hat überredet
+  Usage: zu `D`
   Meaning: to persuade
   Cambridge: to persuade
   Wiki: to talk over, talk into, persuade
@@ -25719,6 +25830,7 @@
 - Id: übersetzen
   Level: A2
   Form: übersetzt, übersetzte, hat übersetzt
+  Usage: in `A`; aus `D`
   Meaning: to translate
   Cambridge: to translate; to cross (over); to ferry over
   Wiki: to translate, to interpret; to compile; to cross, cross over, traverse, ferry
@@ -25909,6 +26021,7 @@
 - Id: umgehen
   Level: B1
   Form: umgeht, umging, hat umgangen
+  Usage: mit `D`
   Meaning: to treat, handle
   Cambridge: to deal; to go around, to circulate; to walk; to go around, to bypass; to avoid, to evade; to get around, to circumvent
   Wiki: to avoid, bypass, to go around; to avoid; to handle, to deal with; to go around; to haunt, to walk the earth
@@ -26240,6 +26353,7 @@
 - Id: unterrichten
   Level: B1
   Form: unterrichtet, unterrichtete, hat unterrichtet
+  Usage: in `D`
   Meaning: to teach
   Cambridge: to teach; to inform
   Wiki: to teach, to school; to inform
@@ -26266,6 +26380,7 @@
 - Id: unterscheiden
   Level: B1
   Form: unterscheidet, unterschied, hat unterschieden
+  Usage: nach `D`; von `D`; zwischen `D`
   Meaning: to distinguish
   Cambridge: to distinguish; to differ
   Wiki: to distinguish, differentiate; to differ, be different, distinct
@@ -26320,6 +26435,7 @@
 - Id: unterstützen
   Level: B1
   Form: unterstützt, unterstützte, hat unterstützt
+  Usage: bei `D`
   Meaning: to support
   Cambridge: to support; to promote, to boost
   Wiki: to support, to assist, to help, to aid; to endorse, to give support, to show support, to back up, to promote, to encourage, to sponsor, to support; to sustain, to support; to uphold, to maintain
@@ -26656,6 +26772,7 @@
 - Id: vereinbaren
   Level: A2
   Form: vereinbart, vereinbarte, hat vereinbart
+  Usage: mit `D`
   Meaning: to agree upon
   Cambridge: to agree, to arrange; to reconcile
   Wiki: to agree upon; to arrange; to reconcile
@@ -26859,6 +26976,7 @@
 - Id: verlangen
   Level: B1
   Form: verlangt, verlangte, hat verlangt
+  Usage: nach `D`; von `D`
   Meaning: to request, demand
   Cambridge: to demand; to ask for; to require
   Wiki: to ask for, demand
@@ -26877,6 +26995,7 @@
 - Id: verlassen
   Level: B1
   Form: verlässt, verließ, hat verlassen
+  Usage: auf `A`
   Meaning: to abandon
   Cambridge: to leave; deserted; lonely
   Wiki: to leave, to abandon; to depart, to forsake; to leave, to desert, to dump; to pass away; to cease; to die; to exit or close a computer program or app; to trust; to rely on; lonely, forsaken; abandoned, deserted; forlornly
@@ -27118,6 +27237,7 @@
 - Id: verschieben
   Level: B1
   Form: verschiebt, verschob, hat verschoben
+  Usage: auf `A`
   Meaning: to postpone, shift
   Cambridge: to move, to shift; to move, to slip; to put off, to postpone; to be postponed/delayed; to traffic in
   Wiki: to move, to shift; to postpone, to adjourn
@@ -27276,7 +27396,7 @@
 - Id: vertrauen
   Level: B1
   Form: vertraut, vertraute, hat vertraut
-  Usage: `D` vertrauen
+  Usage: '`D`; auf `A`'
   Meaning: to trust
   Cambridge: to trust
   Wiki: to trust, to place confidence in
@@ -27322,6 +27442,7 @@
 - Id: verurteilen
   Level: B1
   Form: verurteilt, verurteilte, hat verurteilt
+  Usage: für `A`; zu `D`
   Meaning: to condemn, sentence
   Cambridge: to sentence; to condemn
   Wiki: to convict, condemn, sentence; to condemn, strongly denounce; to judge, pass a moral judgment
@@ -27361,6 +27482,7 @@
 - Id: verwechseln
   Level: B1
   Form: verwechselt, verwechselte, hat verwechselt
+  Usage: mit `D`
   Meaning: to confuse with
   Cambridge: to mix up, to mistake, to confuse; to mix up
   Wiki: to confuse, to mistake
@@ -27370,6 +27492,7 @@
 - Id: verwenden
   Level: B1
   Form: verwendet, verwendete, hat verwendet
+  Usage: für `A`; zu `D`
   Meaning: to use
   Cambridge: to use; to spend
   Wiki: to use, to employ, to apply; to make expenses applied on a material object; to intercede; to turn away
@@ -27396,6 +27519,7 @@
 - Id: verzichten
   Level: B1
   Form: verzichtet, verzichtete, hat verzichtet
+  Usage: auf `A`
   Meaning: to forego, give up
   Cambridge: to do without, to refrain (from), to renounce
   Wiki: 'to give up, go without, live without, make do without, do without, formal: forgo, dispense with; to refrain from, abstain, renounce, forswear; let somebody have; resign, abdicate; renounce, waive, disclaim'
@@ -27866,6 +27990,7 @@
 - Id: wählen
   Level: B1
   Form: wählt, wählte, hat gewählt
+  Usage: zu `D`
   Meaning: to choose, vote
   Cambridge: to choose; to vote (for), to elect; to dial
   Wiki: to choose, to select; to dial; to vote; to vote for
@@ -28014,6 +28139,7 @@
 - Id: warnen
   Level: B1
   Form: warnt, warnte, hat gewarnt
+  Usage: vor `D`
   Meaning: to warn
   Cambridge: to warn
   Wiki: to warn, to caution, to admonish
@@ -28023,6 +28149,7 @@
 - Id: warten
   Level: A1
   Form: wartet, wartete, hat gewartet
+  Usage: auf `A`
   Meaning: to wait
   Cambridge: to wait; to service
   Wiki: to wait (for); to maintain (chiefly a machine, e.g. a car or heating)
@@ -28227,6 +28354,7 @@
 - Id: weinen
   Level: B1
   Form: weint, weinte, hat geweint
+  Usage: über `A`
   Meaning: to cry
   Cambridge: to cry, to weep
   Wiki: to weep, cry
@@ -28302,6 +28430,7 @@
 - Id: wenden
   Level: B1
   Form: wendet, wandte, hat gewandt
+  Usage: an `A`
   Meaning: to turn
   Cambridge: to turn; to turn over, to toss; to turn around; to change, to turn
   Wiki: to turn something so as to cook or roast it from both sides; to turn something (in general); to avert; to curb; to make a u-turn; to turn around one’s car or vehicle; to turn around; to turn to; to consult
@@ -28355,6 +28484,7 @@
 - Id: werden
   Level: A1
   Form: wird, wurde, ist geworden
+  Usage: zu `D`
   Meaning: to become
   Cambridge: to become, to get; to become; to turn, to be; to come, to be; will; to be; would; to hope; it’s time
   Wiki: will; to be going (to do something);; would;; to be done;; to become; to get; to grow; to turn; to begin or come to feel or experience (a condition); to be, to happen, to occur (in the future); to be going to work
@@ -28458,6 +28588,7 @@
 - Id: wetten
   Level: B1
   Form: wettet, wettete, hat gewettet
+  Usage: um `A`
   Meaning: to bet
   Cambridge: to bet
   Wiki: to bet; to be nearly certain of
@@ -28637,6 +28768,7 @@
 - Id: wirken
   Level: B1
   Form: wirkt, wirkte, hat gewirkt
+  Usage: auf `A`
   Meaning: to work, have an effect
   Cambridge: to have an effect, to work; to have an effect; to seem; to work
   Wiki: to function, to be effective, to work; to appear, to seem; to perform (some action), to achieve (some effect), to work (cause to happen), to cast (a spell); to work or be active in a certain field or activity; to work (toward a goal or for a cause); to take effect, to be effective; to knit (with yarn), to brocade; to knead
@@ -28693,6 +28825,7 @@
 - Id: wissen
   Level: A1
   Form: weiß, wusste, hat gewusst
+  Usage: um `A`; von `D`
   Meaning: to know
   Cambridge: to know; to remember
   Wiki: to know; to be aware of (a fact); to remember
@@ -29049,6 +29182,7 @@
 - Id: zählen
   Level: B1
   Form: zählt, zählte, hat gezählt
+  Usage: auf `A`; zu `D`
   Meaning: to count
   Cambridge: to count
   Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
@@ -29492,6 +29626,7 @@
 - Id: zugehen
   Level: B1
   Form: geht zu, ging zu, ist zugegangen
+  Usage: auf `A`
   Meaning: to shut
   Cambridge: to approach; to close, to shut
   Wiki: to shut; to approach; to take place
@@ -29590,6 +29725,7 @@
 - Id: zunehmen
   Level: B1
   Form: nimmt zu, nahm zu, hat zugenommen
+  Usage: an `D`
   Meaning: to increase
   Cambridge: to put on weight; to increase
   Wiki: to increase; to gain weight
@@ -29682,6 +29818,7 @@
 - Id: zuschauen
   Level: B1
   Form: schaut zu, schaute zu, hat zugeschaut
+  Usage: bei `D`
   Meaning: to watch
   Cambridge: to watch; to look on
   Wiki: to look on; to watch
@@ -29788,6 +29925,7 @@
 - Id: zweifeln
   Level: B1
   Form: zweifelt, zweifelte, hat gezweifelt
+  Usage: an `D`
   Meaning: to doubt
   Cambridge: to doubt, to have doubts
   Wiki: to doubt, to be doubtful
@@ -32033,6 +32171,7 @@
 - Id: experimentieren
   Level: K
   Form: experimentiert, experimentierte, hat experimentiert
+  Usage: mit `D`
   Meaning: to experiment
   Cambridge: to experiment
   Wiki: to experiment
@@ -32615,6 +32754,7 @@
 - Id: verheiraten
   Level: K
   Form: verheiratet, verheiratete, hat verheiratet
+  Usage: mit `D`
   Meaning: to wed
   Wiki: to wed; to marry; to marry off; to find a spouse for; to marry; to get married
   Examples:
