@@ -119,8 +119,8 @@
 - Id: abhängen
   Level: B1
   Form: hängt ab, hing ab, hat abgehangen
-  Usage: von `D`
-  Meaning: to depend (upon)
+  Usage: 'von `D`: upon'
+  Meaning: to depend
   Cambridge: to depend; to be dependent on; to hang out; to take down, to uncouple; to leave behind; to shake off
   Wiki: to depend (as a necessary condition); to hang out; to take down; to outpace, to shake off, to leave behind
   Examples:
@@ -170,8 +170,8 @@
 - Id: abschreiben
   Level: B1
   Form: schreibt ab, schrieb ab, hat abgeschrieben
-  Usage: von `D`
-  Meaning: to copy, transcribe (from)
+  Usage: 'von `D`: from'
+  Meaning: to copy, transcribe
   Cambridge: to copy; to write off
   Wiki: to transcribe; to plagiarize; to write off; to consider something a write-off, as in colloquial use; to call defeat
   Examples:
@@ -833,8 +833,8 @@
 - Id: anfangen
   Level: A1
   Form: fängt an, fing an, hat angefangen
-  Usage: mit `D`
-  Meaning: to begin (a-) (with)
+  Usage: 'mit `D`: with'
+  Meaning: to start (a-)
   Cambridge: to begin, to start
   Wiki: to begin; to commence; to start doing something; to begin something; to start something; to start a topic; to keep talking about something; to begin something; to start something; to put to good use, to do something good (with)
   Examples:
@@ -958,7 +958,7 @@
 - Id: ankommen
   Level: A1
   Form: kommt an, kam an, ist angekommen
-  Usage: auf `A`
+  Usage: 'auf `A`: to depend on'
   Meaning: to arrive; to depend (on)
   Cambridge: to arrive; to come
   Wiki: to arrive; to depend on; to be important, to matter; to be a match for, to stand a chance against
@@ -1284,7 +1284,7 @@
 - Id: antworten
   Level: A1
   Form: antwortet, antwortete, hat geantwortet
-  Usage: auf `A`
+  Usage: 'auf `A`: about the question'
   Meaning: to answer
   Cambridge: to answer, to reply; to respond
   Wiki: to answer, to reply; to answer, to reply to
