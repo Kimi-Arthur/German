@@ -8,13 +8,12 @@
   Level: B1
   Form: hängt ab, hing ab, hat abgehangen
   Usage: von `D`
-  Meaning: to depend upon
+  Meaning: to depend (upon)
   Cambridge: to depend; to be dependent on; to hang out; to take down, to uncouple; to leave behind; to shake off
   Wiki: to depend (as a necessary condition); to hang out; to take down; to outpace, to shake off, to leave behind
   Examples:
     - Es hängt von dir ab, was wir machen.
-    - Alles hängt von deiner Entscheidung ab.
-    - Wovon hängt es ab?
+    - Alles hängt von deiner Entscheidung ab. Wovon hängt es ab?
     - Es hängt davon ab, ob wir noch genug Zeit haben werden oder nicht.
     - Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.
 
@@ -32,7 +31,7 @@
   Level: B1
   Form: schreibt ab, schrieb ab, hat abgeschrieben
   Usage: von `D`
-  Meaning: to copy, write off
+  Meaning: to copy, transcribe (from)
   Cambridge: to copy; to write off
   Wiki: to transcribe; to plagiarize; to write off; to consider something a write-off, as in colloquial use; to call defeat
   Examples:
@@ -68,10 +67,13 @@
   Level: A1
   Form: fängt an, fing an, hat angefangen
   Usage: mit `D`
-  Meaning: to begin (a-)
+  Meaning: to begin (a-) (with)
   Cambridge: to begin, to start
   Wiki: to begin; to commence; to start doing something; to begin something; to start something; to start a topic; to keep talking about something; to begin something; to start something; to put to good use, to do something good (with)
   Examples:
+    - Ich fange jetzt mit der Arbeit an.
+    - Vor vier Monaten habe ich mit Deutsch angefangen.
+    - Um 8 Uhr morgens fange ich mit der Arbeit an.
     - Hier fängt die Bahnhofstraße an.
     - Der Unterricht fängt gleich an.
     - Würden Sie bitte anfangen?
@@ -89,12 +91,16 @@
   Level: A1
   Form: kommt an, kam an, ist angekommen
   Usage: auf `A`
-  Meaning: to arrive
+  Meaning: to arrive; to depend (on)
   Cambridge: to arrive; to come
   Wiki: to arrive; to depend on; to be important, to matter; to be a match for, to stand a chance against
   Examples:
     - Wann kommt dieser Zug in Hamburg an?
     - Bei dem Spiel kommt es darauf an, schneller zu laufen als die anderen.
+    - Worauf kommt es an?
+    - Es kommt auf die richtige Mischung an.
+    - Es kommt darauf an, den Gegner nicht zu unterschätzen.
+    - Jetzt kommt es auf dich an!
 
 - Id: anmerken
   Form: merkt an, merkte an, hat angemerkt
