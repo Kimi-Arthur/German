@@ -270,12 +270,6 @@
     - Wir haben diese Firma mit dem Umbau des Hauses beauftragt.
     - Sie haben uns damit beauftragt, für die Getränke zu sorgen.
 
-- Id: bedanken
-  Form: bedankt sich, bedankte sich, hat sich bedankt
-  Usage: bei `D`; für `A`
-  Meaning: to thank
-  Wiki: to be thankful, to express thanks.
-
 - Id: befassen
   Form: befasst, befasste, hat befasst
   Usage: mit `D`

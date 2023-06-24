@@ -3017,12 +3017,17 @@
     - Hast du die Mail schon beantwortet?
     - Sie haben meine Frage leider nicht beantwortet.
 
-- Id: (sich) bedanken
+- Id: sich bedanken
   Level: A2
   Form: bedankt sich, bedankte sich, hat sich bedankt
+  Usage: 'bei `D`: to thank someone; für `A`: for'
   Meaning: to thank
   Wiki: to be thankful, to express thanks.
   Examples:
+    - Hast du dich bei ihr bedankt?
+    - Ich bedanke mich bei Ihnen für Ihre Hilfe.
+    - Ich möchte mich für Ihre Hilfe bedanken.
+    - Leo, bedank dich bei dem Mann!
     - Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.
 
 - Id: der Bedarf
