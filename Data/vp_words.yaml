@@ -1,8 +1,13 @@
 # goethe/words
 - Id: Bescheid wissen
-  Usage: über `A`
+  Usage: 'über `A`: about'
   Meaning: to know
   Wiki: to know
+  Examples:
+    - Ich möchte darüber Bescheid wissen, wenn jemand nicht
+      teilnimmt.
+    - Es tut mir leid, aber ich habe darüber nicht Bescheid
+      gewusst.
 
 - Id: abhängen
   Level: B1
