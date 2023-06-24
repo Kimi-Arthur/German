@@ -1536,10 +1536,15 @@
 - Id: (sich) ärgern
   Level: A2
   Form: ärgert, ärgerte, hat geärgert
+  Usage: 'über `A`: about/by'
   Meaning: to annoy, to be annoyed
   Cambridge: to annoy, to make angry
   Wiki: to annoy, to make angry (+accusative); to be annoyed, to be angry, to get annoyed, to get angry
   Examples:
+    - Über wen ärgerst du dich denn so?
+    - Ärgere dich nicht über das schlechte Wetter!
+    - Ich habe mich sehr über das, was er gesagt hat, geärgert.
+    - Ich ärgere mich darüber, dass ich es nicht geschafft habe.
     - Warum ärgerst du dich? - Ich ärgere mich, weil das Wetter schlecht ist.
     - Ärgern Sie sich nicht.
     - Mein Bruder hat mich schon als Kind immer geärgert.
@@ -26012,11 +26017,21 @@
 - Id: (sich) überzeugen
   Level: B1
   Form: überzeugt, überzeugte, hat überzeugt
+  Usage: 'von `D`: of'
   Meaning: to convince
   Cambridge: to convince, to persuade; to impress; to satisfy yourself
   Wiki: to convince; to convince oneself
   Examples:
-    - example1
+    - Ich werde ihn von meiner Unschuld
+      überzeugen.
+    - Wir müssen versuchen, die anderen von diesem Plan zu
+      überzeugen.
+    - Ich bin davon überzeugt, dass wir es schaffen werden.
+    - Ihr Vorschlag überzeugt mich gar nicht.
+    - Ich bin fest davon überzeugt, dass
+      meine Entscheidung richtig ist.
+      Wie bist du zu dieser Überzeugung
+      gekommen?
 
 - Id: die Überzeugung
   Level: B1
@@ -29228,12 +29243,22 @@
 
 - Id: sich wundern
   Level: B1
-  Form: wundert, wunderte, hat gewundert
+  Form: wundert sich, wunderte sich, hat sich gewundert
+  Usage: 'sich über `A`: about'
   Meaning: to wonder
   Cambridge: to be surprised; to surprise
   Wiki: to surprise; to be surprised; to wonder
   Examples:
-    - example1
+    - Man wundert sich oft über die Geduld
+      von Eltern.
+    - Ich wundere mich immer wieder über dich.
+    - Sie hat sich darüber gewundert, dass er noch nicht zu
+      Hause war.
+    - Es hat mich gewundert, dass das Essen
+      hier so günstig ist.
+    - Ich wundere mich, dass du schon so
+      früh aus der Schule kommst. Was ist
+      los?
 
 - Id: (sich) wünschen
   Level: B1

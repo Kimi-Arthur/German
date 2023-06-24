@@ -95,37 +95,50 @@
   Examples:
     - Sie haben sich darauf spezialisiert, defekte Handys zu reparieren.
 
-- Id: verteidigen
+- Id: (sich) verteidigen
   Form: verteidigt, verteidigte, hat verteidigt
-  Usage: gegen `A`
-  Meaning: to defend (from attack)
+  Usage: 'gegen `A`: from'
+  Meaning: to defend
   Cambridge: to defend
   Wiki: to defend (from attack); to justify (an opinion, behavior, etc.)
+  Examples:
+    - Er verteidigt sich gegen die Vorwürfe.
+    - Sie hat sich gegen den ungerechtfertigten Vorwurf
+      verteidigt.
 
-- Id: wehren
+- Id: sich wehren
   Form: wehrt sich, wehrte sich, hat sich gewehrt
-  Usage: gegen `A`
-  Meaning: to fight
+  Usage: 'gegen `A`: against'
+  Meaning: to fight, to defend
   Cambridge: to defend yourself, to fight back
   Wiki: to fight; to defend
+  Examples:
+    - Du musst dich gegen diese
+      Ungerechtigkeit wehren.
+    - Das Opfer hat sich gegen den Angreifer gewehrt.
+    - Ich wehre mich dagegen, dass die Geschehnisse falsch
+      dargestellt werden.
 
 - Id: werben
   Form: wirbt, warb, hat geworben
-  Usage: für `A`; um `A`
-  Meaning: to recruit; to enlist
+  Usage: 'für `A`: for; um `A`: to recruit'
+  Meaning: to advertise, to promote; to recruit
   Cambridge: to recruit, to attract
   Wiki: to recruit; to enlist; to promote, advertise; to attract, to woo
-
-- Id: wundern
-  Form: wundert, wunderte, hat gewundert
-  Usage: über `A`
-  Meaning: to wonder
-  Cambridge: to be surprised; to surprise
-  Wiki: to surprise; to be surprised; to wonder
+  Examples:
+    - Die Firma wirbt für ihren neuen
+      Computer.
+    - Wofür wirbt diese Aktion?
+    - Der Sportler wirbt für eine Modemarke.
+    - Bei der Parlamentssitzung hat sie dafür geworben, den
+      Gesetzentwurf noch einmal zu überarbeiten.
+    - Ich habe lange um sein Vertrauen geworben.
+    - Das Unternehmen wirbt schon lange um neue,
+      hochqualifizierte Mitarbeiter.
 
 - Id: zugucken
   Form: guckt zu, guckte zu, hat zugeguckt
-  Usage: jdmd. zugucken bei `D`
+  Usage: 'jmdm. zugucken bei `D`: to watch someone do something'
   Meaning: to watch (orally)
   Examples:
     - Sie hat mir beim Arbeiten zugeguckt.
@@ -133,28 +146,19 @@
 
 - Id: zusammenstoßen
   Form: stößt zusammen, stieß zusammen, ist zusammengestoßen
-  Usage: mit `D`
+  Usage: 'mit `D`: with'
   Meaning: to collide
   Cambridge: to collide
   Wiki: to collide
+  Examples:
+    - Wir sind mit einem anderen Auto zusammengestoßen.
 
 - Id: zusehen
   Form: sieht zu, sah zu, hat zugesehen
-  Usage: bei `D`
+  Usage: 'jmdm. zusehen bei `D`: to watch someone do something'
   Meaning: to watch
   Cambridge: to watch; to see to it, to make sure
   Wiki: to watch; to watch out, to take care; to make sure, to see to it (that something happens)
-
-- Id: ärgern
-  Form: ärgert, ärgerte, hat geärgert
-  Usage: über `A`
-  Meaning: to annoy, to be annoyed
-  Cambridge: to annoy, to make angry
-  Wiki: to annoy, to make angry (+accusative); to be annoyed, to be angry, to get annoyed, to get angry
-
-- Id: überzeugen
-  Form: überzeugt, überzeugte, hat überzeugt
-  Usage: von `D`
-  Meaning: to convince
-  Cambridge: to convince, to persuade; to impress; to satisfy yourself
-  Wiki: to convince; to convince oneself
+  Examples:
+    - Siehst du mir heute beim Training zu?
+    - Die Eltern sehen ihrem Sohn beim Fußballspielen zu.
