@@ -15072,7 +15072,7 @@
 
 - Id: sich kümmern
   Level: A1
-  Form: kümmert, kümmerte, hat gekümmert
+  Form: kümmert sich, kümmerte sich, hat sich gekümmert
   Usage: 'um `A`: of'
   Meaning: to take care
   Wiki: to take care, to look after; to grieve, to afflict, to trouble, to concern
@@ -24096,10 +24096,18 @@
 - Id: (sich) streiten
   Level: A2
   Form: streitet, stritt, hat gestritten
+  Usage: 'mit `D`: with; um `A`: about'
   Meaning: to argue
   Cambridge: to argue, to quarrel
   Wiki: to argue; to fight; to quarrel
   Examples:
+    - Sabine streitet oft mit ihrem Freund.
+    - Meistens streiten sie über das Putzen.
+    - Sie streiten oft miteinander.
+    - Sie hat mit ihrer Lebensgefährtin gestritten.
+    - Beide Elternteile haben vor Gericht um das Sorgerecht
+      gestritten.
+    - Die Kinder streiten (sich) oft darum, wer anfangen darf
     - Die Kinder streiten (sich) oft.
 
 - Id: der Streit
@@ -25494,10 +25502,14 @@
 - Id: (sich) trennen
   Level: B1
   Form: trennt, trennte, hat getrennt
+  Usage: 'von `D`: from'
   Meaning: to separate
   Cambridge: to separate; to divide (into syllables), to hyphenate; differentiate/distinguish between; to part company; to split up, to separate; to let go
   Wiki: to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin; to sunder; to delink, unlink, disconnect, detach; to isolate; to separate, to go apart, to secede, to break off, to break up
   Examples:
+    - Er hat sich von seiner Partnerin getrennt.
+    - Ralf hat sich von seiner Freundin
+      getrennt.
     - Wir leben getrennt.
     - Meine Freundin und ihr Mann haben sich getrennt.
     - Wir müssen den Müll trennen. Das kommt zum Altpapier.
@@ -26389,10 +26401,20 @@
 - Id: (sich) unterhalten
   Level: A2
   Form: unterhält, unterhielt, hat unterhalten
-  Meaning: to amuse oneself, chat
+  Usage: 'mit `D`: with; über `A`: about'
+  Meaning: to converse; to amuse oneself
   Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
   Wiki: to maintain; to entertain; to converse
   Examples:
+    - Gerd unterhält sich mit seiner Kollegin.
+    - Wir unterhalten uns über den Film.
+    - Ich unterhalte mich mit ihr.
+    - Wir haben uns lange mit den neuen Nachbarn
+      unterhalten.
+    - Ich habe mich mit ihr über das letzte Wochenende
+      unterhalten.
+    - Wir haben uns darüber unterhalten, wie wir unser
+      Deutsch verbessern können.
     - Andreas und Nessrin unterhalten sich.
     - Wir haben uns über das Fußballspiel unterhalten.
 
@@ -26676,11 +26698,18 @@
 - Id: (sich) verabreden
   Level: B1
   Form: verabredet, verabredete, hat verabredet
+  Usage: 'mit `D`: with someone; zu `D`: to a meeting'
   Meaning: to arrange to meet
   Cambridge: to arrange to meet; to agree
   Wiki: to arrange; to make an appointment
   Examples:
-    - example1
+    - Mit wem hast du dich verabredet?
+    - Ich habe mich mit einem Freund verabredet.
+    - Wir haben uns zu einem Treffen verabredet.
+    - Leon verabredet sich mit Maja.
+    - Wir haben uns mit Freunden
+      verabredet. Wir wollen zusammen
+      essen.
 
 - Id: verabredet
   Level: B1
@@ -27129,12 +27158,17 @@
 
 - Id: sich verlieben
   Level: B1
-  Form: ist verliebt, war verliebt, ist verliebt gewesen
+  Form: verliebt sich, verliebte sich, hat sich verliebt
+  Usage: 'in `A`: with'
   Meaning: to fall in love
   Cambridge: to fall in love
   Wiki: to fall in love; to fall in love with
   Examples:
-    - example1
+    - Birgit hat sich in meinen Bruder verliebt.
+    - In wen hast du dich verliebt?
+    - Er hat sich in ihn verliebt.
+    - Sie haben sich ineinander verliebt.
+    - Ich habe mich verliebt.
 
 - Id: verliebt
   Level: B1
@@ -27435,19 +27469,36 @@
 - Id: (sich) verstecken
   Level: B1
   Form: versteckt, versteckte, hat versteckt
+  Usage: 'vor `D`: from'
   Meaning: to hide
   Cambridge: to hide
   Wiki: to conceal; to hide (oneself)
   Examples:
-    - example1
+    - Warum versteckst du dich vor mir?
+    - Du bist gut und brauchst dich vor niemandem zu
+      verstecken.
+    - Warum versteckst du dich vor mir?
+    - Ich habe das Geld hinter dem Regal
+      versteckt.
+    - Die Kinder verstecken sich im Wald.
 
 - Id: (sich) verstehen
   Level: A1
   Form: versteht, verstand, hat verstanden
-  Meaning: to understand
+  Usage: '`A`; `A` unter `D`: to mean by; von `D`: about; sich mit `D`: to get along with'
+  Meaning: to understand; to get along
   Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
   Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
   Examples:
+    - Wie verstehst du dich mit deinen
+      Eltern?
+    - Ich verstehe mich sehr gut mit ihr.
+    - Sie verstehen sich sehr gut miteinander.
+    - Ich verstehe nicht viel von Informatik.
+    - Davon verstehst du nichts!
+    - Verstehst du was davon?
+    - Was verstehen Sie unter diesem Begriff?
+    - Ich verstehe darunter etwas ganz anderes als Sie.
     - Können Sie mich verstehen?
     - Ich verstehe diese Aufgabe nicht.
     - Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.

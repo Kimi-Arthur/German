@@ -75,67 +75,29 @@
     - Die Leute auf der Straße demonstrieren für die Einhaltung der Menschenrechte.
     - Viele Menschen sind auf die Straße gegangen, um gegen diese Politik zu demonstrieren.
 
-- Id: orientieren
-  Form: orientiert, orientierte, hat orientiert
-  Usage: an `D`
-  Meaning: to orient oneself; to orientate oneself
+- Id: sich orientieren
+  Form: orientiert sich, orientierte sich, hat sich orientiert
+  Usage: 'an `D`: with help of'
+  Meaning: to orient oneself
   Cambridge: to get one’s bearings; to be based/oriented
   Wiki: to orient oneself; to orientate oneself
+  Examples:
+    - Bea orientiert sich in allem an ihrer
+      Schwester.
+    - In einer fremden Stadt kann man sich am Stadtplan
+      orientieren.
+    - Vielen Jugendlichen fehlt jemand, an dem sie sich
+      orientieren könnten.
+    - Orientiert euch an dem, was in der Anleitung steht.
 
-- Id: spezialisieren
+- Id: sich spezialisieren
   Form: spezialisiert, spezialisierte, hat spezialisiert
-  Usage: auf `A`
+  Usage: 'auf `A`: in'
   Meaning: to specialize
   Wiki: to specialize
-
-- Id: streiten
-  Form: streitet, stritt, hat gestritten
-  Usage: mit `D`; um `A`
-  Meaning: to argue
-  Cambridge: to argue, to quarrel
-  Wiki: to argue; to fight; to quarrel
-
-- Id: trennen
-  Form: trennt, trennte, hat getrennt
-  Usage: von `D`
-  Meaning: to separate
-  Cambridge: to separate; to divide (into syllables), to hyphenate; differentiate/distinguish between; to part company; to split up, to separate; to let go
-  Wiki: to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin; to sunder; to delink, unlink, disconnect, detach; to isolate; to separate, to go apart, to secede, to break off, to break up
-
-- Id: unterhalten
-  Form: unterhält, unterhielt, hat unterhalten
-  Usage: mit `D`; über `A`
-  Meaning: to amuse oneself, chat
-  Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
-  Wiki: to maintain; to entertain; to converse
-
-- Id: verabreden
-  Form: verabredet, verabredete, hat verabredet
-  Usage: mit `D`; zu `D`
-  Meaning: to arrange to meet
-  Cambridge: to arrange to meet; to agree
-  Wiki: to arrange; to make an appointment
-
-- Id: verlieben
-  Form: ist verliebt, war verliebt, ist verliebt gewesen
-  Usage: in `A`
-  Meaning: to fall in love
-  Cambridge: to fall in love
-  Wiki: to fall in love; to fall in love with
-
-- Id: verstecken
-  Form: versteckt, versteckte, hat versteckt
-  Usage: vor `D`
-  Meaning: to hide
-  Cambridge: to hide
-  Wiki: to conceal; to hide (oneself)
-
-- Id: verstehen
-  Form: versteht, verstand, hat verstanden
-  Usage: mit `D`; unter `D`; von `D`
-  Meaning: to understand
-  Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
-  Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
+  Examples:
+    - Sie haben sich darauf spezialisiert, defekte Handys zu
+      reparieren.
 
 - Id: verteidigen
   Form: verteidigt, verteidigte, hat verteidigt
