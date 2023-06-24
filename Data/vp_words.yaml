@@ -304,10 +304,12 @@
 
 - Id: beglückwünschen
   Form: beglückwünscht, beglückwünschte, hat beglückwünscht
-  Usage: zu `D`
+  Usage: 'zu `D`: on/about'
   Meaning: to congratulate
   Cambridge: to congratulate; to congratulate yourself
   Wiki: to congratulate
+  Examples:
+    - Er hat ihn zu seinem Erfolg beglückwünscht.
 
 - Id: begnügen
   Form: begnügt sich, begnügte sich, hat sich begnügt
@@ -324,10 +326,14 @@
 
 - Id: beitragen
   Form: trägt bei, trug bei, hat beigetragen
-  Usage: zu `D`
-  Meaning: to contribute to
+  Usage: 'zu `D`: to'
+  Meaning: to contribute
   Cambridge: to contribute
   Wiki: to contribute to
+  Examples:
+    - Alle haben zu diesem großen Erfolg beigetragen.
+    - Wir alle müssen dazu beitragen, dass dieses Projekt ein
+      Erfolg wird.
 
 - Id: beklagen
   Form: beklagt, beklagte, hat beklagt
