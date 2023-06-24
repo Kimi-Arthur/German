@@ -12,6 +12,7 @@
 - Id: glauben
   Level: A1
   Form: glaubt, glaubte, hat geglaubt
+  Usage: an `A`
   Meaning: to believe
   Cambridge: to believe; to think
   Wiki: to believe something; to believe in; to believe someone; to think, to believe
@@ -39,6 +40,7 @@
 - Id: hören
   Level: A1
   Form: hört, hörte, hat gehört
+  Usage: auf `A`; von `D`
   Meaning: to hear
   Cambridge: to hear; to listen to; to listen
   Wiki: to hear; to listen to, pay attention to; to attend, to go to, to sit in on; to get, to receive; to listen; to hear; to hear
@@ -67,6 +69,7 @@
 - Id: kommen
   Level: A1
   Form: kommt, kam, ist gekommen
+  Usage: auf `A`; zu `D`
   Meaning: to come
   Cambridge: to come; to get; to come about; to come, to be; to go; to leave; to be on
   Wiki: to come; to arrive; to come to; to come over; to get; to make it; to go to; to be put in; to come on (Used to encourage someone to do something.); to occur; to happen; to come to be; to be played (of a song or film); to be due to; to be the result of; to come from; to orgasm; to cum; to be statistically equivalent to; to be there for; to obtain (a solution or result); to get an idea; to think of; to remember; to imagine; to lose; to forfeit; not to get; to touch inadvertently; to manage to reach (something high up etc.); to turn out (well)
@@ -97,6 +100,7 @@
 - Id: machen
   Level: A1
   Form: macht, machte, hat gemacht
+  Usage: an `A`; aus `D`
   Meaning: to make, do
   Cambridge: to do; to make; to make, to create; to do, to make, to carry out; to be, to make
   Wiki: to make, produce, create (an object, arrangement, situation, etc.); to make, prepare; to do, perform, carry out; to do;; to go; to make; to cause; to make; to make; to make; to come to, total, cost; to make, be; to make; to be, play; to matter; to make, make oneself out to be, act, play; to do one's business, do number two or number one, go; to do; to look; to get cracking ( (“on,” “with”)), get a move on (it), to get down ( (“to”)) (something); come on, let's go
@@ -119,6 +123,7 @@
 - Id: sagen
   Level: A1
   Form: sagt, sagte, hat gesagt
+  Usage: von `D`; zu `D`; über `A`
   Meaning: to say
   Cambridge: to say; to tell; to call
   Wiki: to say; to tell; to mean; to speak up
@@ -171,6 +176,7 @@
 - Id: spielen
   Level: A1
   Form: spielt, spielte, hat gespielt
+  Usage: mit `D`; um `A`
   Meaning: to play
   Cambridge: to play; to gamble; to play, to act; to perform; to be set; to be on/playing
   Wiki: to play; to play, to engage in (a game, a sport, etc.); to play, to perform (a piece of music, a role in theater or a movie); to play, to listen to (a radio, a recording, etc.); to play, to perform on (a musical instrument); to act like, to behave like; to take place , to be set (in a particular time or place; of fiction)
@@ -186,6 +192,7 @@
 - Id: sprechen
   Level: A1
   Form: spricht, sprach, hat gesprochen
+  Usage: für `A`; gegen `A`; mit `D`; von `D`; über `A`
   Meaning: to speak, talk
   Cambridge: to speak; to talk; to say, to pronounce; to point (to)
   Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
@@ -591,6 +598,7 @@
 - Id: unterrichten
   Level: B1
   Form: unterrichtet, unterrichtete, hat unterrichtet
+  Usage: in `D`
   Meaning: to teach
   Cambridge: to teach; to inform
   Wiki: to teach, to school; to inform
@@ -613,6 +621,7 @@
 - Id: arbeiten
   Level: A1
   Form: arbeitet, arbeitete, hat gearbeitet
+  Usage: 'an `D`: on; bei `D`: at; für `A`: for'
   Meaning: to work
   Cambridge: to work
   Wiki: to work; to work, function, run, operate; to ferment; to work, execute; to make, produce; to do, perform; to work oneself (to); to work one's way; to work (translated by rephrasing to use a general “you” or with the gerund, “working”)
@@ -652,6 +661,7 @@
 - Id: schreiben
   Level: A1
   Form: schreibt, schrieb, hat geschrieben
+  Usage: an `A`; an `D`; von `D`; über `A`
   Meaning: to write
   Cambridge: to write; to write (to); to get; to be spelled
   Wiki: to write, to write out; to spell; to write; to write; to be some year or date; to write, to text; to write to each other; to be spelled/spelt;
@@ -813,6 +823,7 @@
 - Id: leben
   Level: A1
   Form: lebt, lebte, hat gelebt
+  Usage: von `D`
   Meaning: to live
   Cambridge: to live, to be alive; to live
   Wiki: to live, to be alive; to dwell, to reside; to live, to exist, to occupy a place; to cope with, to live with, to deal with
@@ -841,6 +852,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
+  Usage: an `D`
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -879,6 +891,7 @@
 - Id: suchen
   Level: A1
   Form: sucht, suchte, hat gesucht
+  Usage: nach `D`
   Meaning: to search for, look for
   Cambridge: to look/search (for); to look for, to want; to look/search for; to seek, to try
   Wiki: to search, to look for; to seek, strive, intend, try
@@ -1912,6 +1925,7 @@
 - Id: berichten
   Level: A2
   Form: berichtet, berichtete, hat berichtet
+  Usage: von `D`; über `A`
   Meaning: to report, to tell
   Cambridge: to report
   Wiki: to relate, to tell, to give an account of; to report (especially by the media or authorities)
@@ -1922,6 +1936,7 @@
 - Id: fragen
   Level: A1
   Form: fragt, fragte, hat gefragt
+  Usage: nach `D`
   Meaning: to ask
   Cambridge: to ask; to wonder
   Wiki: to ask (someone something); to ask for, to ask after; to wonder (literally, to ask (oneself))
@@ -2126,6 +2141,7 @@
 - Id: (sich) verstehen
   Level: A1
   Form: versteht, verstand, hat verstanden
+  Usage: '`A`; `A` unter `D`: to mean by; von `D`: about; sich mit `D`: to get along with'
   Meaning: to understand
   Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
   Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
@@ -2433,6 +2449,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
+  Usage: an `D`
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -3156,6 +3173,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
+  Usage: an `D`
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -3600,6 +3618,7 @@
 - Id: zählen
   Level: B1
   Form: zählt, zählte, hat gezählt
+  Usage: auf `A`; zu `D`
   Meaning: to count
   Cambridge: to count
   Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
@@ -3611,6 +3630,7 @@
 - Id: ausgeben
   Level: A2
   Form: gibt aus, gab aus, hat ausgegeben
+  Usage: 'für `A`: for'
   Meaning: to spend
   Cambridge: to spend; to give out; to issue
   Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
@@ -3688,6 +3708,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
+  Usage: an `D`
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -4367,6 +4388,7 @@
 - Id: erwarten
   Level: B1
   Form: erwartet, erwartete, hat erwartet
+  Usage: von `D`
   Meaning: to expect
   Cambridge: to expect
   Wiki: to expect, to consider likely; to await, to expect (someone to arrive)
@@ -4486,6 +4508,7 @@
 - Id: zählen
   Level: B1
   Form: zählt, zählte, hat gezählt
+  Usage: auf `A`; zu `D`
   Meaning: to count
   Cambridge: to count
   Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
@@ -4508,6 +4531,7 @@
 - Id: greifen
   Level: B1
   Form: greift, griff, hat gegriffen
+  Usage: nach `D`
   Meaning: to grasp, seize, grab
   Cambridge: to seize, to grab, to snatch; to reach; to be effective, to take effect; to grip
   Wiki: to grab; to grasp; to grip (something); to grab; to seize; to snatch (in an aggressive way); to reach; to grab; to capture (someone); to strike; to take hold; to bite
@@ -4645,6 +4669,7 @@
 - Id: gehören
   Level: A1
   Form: gehört, gehörte, hat gehört
+  Usage: zu `D`
   Meaning: to belong to
   Cambridge: to belong to; to be among / one of; to go; to take, to require; to be proper/becoming
   Wiki: to belong to, be the property of; to be a prerequisite for; to be a characteristic of; to belong to, be a part of; to be proper; ought to be
@@ -4892,6 +4917,7 @@
 
 - Id: orientieren
   Form: orientiert, orientierte, hat orientiert
+  Usage: an `D`
   Meaning: to orient oneself; to orientate oneself
   Cambridge: to get one’s bearings; to be based/oriented
   Wiki: to orient oneself; to orientate oneself
@@ -4988,6 +5014,7 @@
 - Id: stören
   Level: A2
   Form: stört, störte, hat gestört
+  Usage: bei `D`
   Meaning: to disturb
   Cambridge: to disturb; to bother, to disturb; to disrupt
   Wiki: to disturb, to interfere, to bother
@@ -5086,6 +5113,7 @@
 - Id: sich bewerben
   Level: A2
   Form: bewirbt, bewarb, hat beworben
+  Usage: 'bei `D`: to; um `A`: for'
   Meaning: to apply for
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
@@ -5324,6 +5352,7 @@
 
 - Id: distanzieren
   Form: distanziert, distanzierte, hat distanziert
+  Usage: von `D`
   Meaning: to distance
   Cambridge: to distance yourself
   Wiki: to distance
@@ -5355,6 +5384,7 @@
 - Id: wirken
   Level: B1
   Form: wirkt, wirkte, hat gewirkt
+  Usage: auf `A`
   Meaning: to work, have an effect
   Cambridge: to have an effect, to work; to have an effect; to seem; to work
   Wiki: to function, to be effective, to work; to appear, to seem; to perform (some action), to achieve (some effect), to work (cause to happen), to cast (a spell); to work or be active in a certain field or activity; to work (toward a goal or for a cause); to take effect, to be effective; to knit (with yarn), to brocade; to knead
