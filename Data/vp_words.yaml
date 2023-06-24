@@ -182,6 +182,10 @@
   Cambridge: to stop
   Wiki: to stop; to quit; to cease; to stop talking about something
   Examples:
+    - Ich habe mit Spanisch aufgehört. Jetzt lerne ich nur noch Französisch.
+    - Ich will mit dem Rauchen aufhören.
+    - Um halb sechs höre ich mit der Arbeit auf.
+    - Hört jetzt mit der Streiterei auf!
     - Der Kurs hört in einer Woche auf.
     - Hier hört die Bahnhofstraße auf.
     - Wann hört ihr mit der Arbeit auf?
@@ -197,6 +201,9 @@
   Cambridge: to be careful, to watch out; to pay attention, to be attentive
   Wiki: to watch out, to be alert; to look after, to take care of; to be attentive (with something)
   Examples:
+    - Du musst gut auf deine Sachen aufpassen.
+    - Ich lasse mein Handy hier auf dem Tisch. Kannst du bitte darauf aufpassen?
+    - Marko passt auf seinen kleinen Bruder auf.
     - Pass auf, der Teller fällt gleich auf den Boden!
     - Der Babysitter passt heute Abend auf die Kinder auf.
     - Er passt im Unterricht nicht auf.
@@ -233,11 +240,14 @@
 - Id: ausgeben
   Level: A2
   Form: gibt aus, gab aus, hat ausgegeben
-  Usage: für `A`
+  Usage: 'für `A`: for'
   Meaning: to spend
   Cambridge: to spend; to give out; to issue
   Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
   Examples:
+    - Sie haben viel Geld für diese Reise ausgegeben.
+    - Überleg dir gut, wofür du dein Geld ausgibst.
+    - Viele Leute geben ihr Geld für ein Luxusauto aus.
     - Agata gibt viel Geld für Bücher aus.
     - Ich möchte nicht so viel Geld ausgeben.
     - Carola gibt viel Geld für ihr Hobby aus.
@@ -294,11 +304,14 @@
 - Id: beginnen
   Level: A1
   Form: beginnt, begann, hat begonnen
-  Usage: mit `D`
+  Usage: 'mit `D`; als `N`: as'
   Meaning: to begin (b-)
   Cambridge: to start; to start, to begin
   Wiki: to begin; to commence; to be started; to start something; to begin something
   Examples:
+    - Herr Bär hat als einfacher Arbeiter begonnen.
+    - Wann beginnst du mit dem Studium?
+    - Ich lerne schon drei Jahre Englisch und letztes Jahr habe ich mit Deutsch begonnen.
     - Das Spiel beginnt um 15.30 Uhr.
     - In zwei Wochen beginnen die Sommerferien.
 
