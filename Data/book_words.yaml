@@ -626,6 +626,13 @@
   Cambridge: to work
   Wiki: to work; to work, function, run, operate; to ferment; to work, execute; to make, produce; to do, perform; to work oneself (to); to work one's way; to work (translated by rephrasing to use a general “you” or with the gerund, “working”)
   Examples:
+    - Tina arbeitet bei einer Schuhfabrik.
+    - Der Tischler arbeitet an einem Möbelstück.
+    - Ich arbeite schon seit vielen Jahren bei Lidl.
+    - Für wen arbeitest du?
+    - Ich arbeite für eine Firma aus dem Ausland.
+    - Woran arbeitest du zurzeit?
+    - Wir arbeiten an einem neuen Projekt.
     - Ben arbeitet als Kommissar bei der Polizei.
     - Wo arbeiten Sie?
     - Ich arbeite als Krankenschwester in einem Krankenhaus.
@@ -2142,10 +2149,18 @@
   Level: A1
   Form: versteht, verstand, hat verstanden
   Usage: '`A`; `A` unter `D`: to mean by; von `D`: about; sich mit `D`: to get along with'
-  Meaning: to understand
+  Meaning: to understand; to get along
   Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
   Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
   Examples:
+    - Wie verstehst du dich mit deinen Eltern?
+    - Ich verstehe mich sehr gut mit ihr.
+    - Sie verstehen sich sehr gut miteinander.
+    - Ich verstehe nicht viel von Informatik.
+    - Davon verstehst du nichts!
+    - Verstehst du was davon?
+    - Was verstehen Sie unter diesem Begriff?
+    - Ich verstehe darunter etwas ganz anderes als Sie.
     - Können Sie mich verstehen?
     - Ich verstehe diese Aufgabe nicht.
     - Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.
@@ -3635,6 +3650,9 @@
   Cambridge: to spend; to give out; to issue
   Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
   Examples:
+    - Sie haben viel Geld für diese Reise ausgegeben.
+    - Überleg dir gut, wofür du dein Geld ausgibst.
+    - Viele Leute geben ihr Geld für ein Luxusauto aus.
     - Agata gibt viel Geld für Bücher aus.
     - Ich möchte nicht so viel Geld ausgeben.
     - Carola gibt viel Geld für ihr Hobby aus.
@@ -4229,12 +4247,9 @@
   Examples:
     - In unserem Urlaub haben wir viel Schönes erlebt.
 
-- Id: der Angestellte
+- Id: Angestellte
   Level: B1
-  Form: -n
-  Feminine:
-    Id: die Angestellte
-    Form: -n
+  Form: adjektivische Deklination
   Meaning: employee
   Cambridge: (salaried) employee; white-collar worker
   Wiki: ': female employee/worker/clerk/servant/staffer/staff member'
@@ -5112,12 +5127,16 @@
 
 - Id: sich bewerben
   Level: A2
-  Form: bewirbt, bewarb, hat beworben
+  Form: bewirbt sich, bewarb sich, hat sich beworben
   Usage: 'bei `D`: to; um `A`: for'
-  Meaning: to apply for
+  Meaning: to apply
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
   Examples:
+    - Ines bewirbt sich bei einem Reisebüro.
+    - Sie bewirbt sich um einen Job im Marketing.
+    - Hiermit bewerbe ich mich um die Stelle als Erzieher in Ihrer Einrichtung.
+    - Ich habe mich darum beworben, aber noch habe ich keine Antwort erhalten.
     - Ich möchte mich um diese Stelle bewerben.
     - Ich habe mich um diese Stelle beworben.
     - Ich habe mich als Kellner beworben.
