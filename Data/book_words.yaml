@@ -4514,11 +4514,8 @@
   Examples:
     - Greifen Sie doch zu!
 
-- Id: der Verdächtige
-  Form: -n
-  Feminine:
-    Id: die Verdächtige
-    Form: -n
+- Id: Verdächtige
+  Form: adjektivische Deklination
   Meaning: suspect
   Wiki: ': female suspect'
   Examples:
@@ -5283,7 +5280,7 @@
   Cambridge: manner
   Wiki: manners
 
-- Id: der/die Vorgesetzte
+- Id: Vorgesetzte
   Form: adjektivische Deklination
   Meaning: superior, person in charge
   Cambridge: superior

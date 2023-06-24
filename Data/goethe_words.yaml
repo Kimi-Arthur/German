@@ -889,7 +889,7 @@
   Examples:
     - 'Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.'
 
-- Id: der/die Angehörige
+- Id: Angehörige
   Level: B1
   Form: adjektivische Deklination
   Meaning: relative (cousin, etc)
@@ -1221,7 +1221,7 @@
     - Mein Schwager ist bei einer Möbelfirma angestellt.
     - Da vorne ist die Kasse. Du musst dich anstellen.
 
-- Id: der/die Angestellte
+- Id: Angestellte
   Level: B1
   Form: adjektivische Deklination
   Meaning: employee
@@ -2596,7 +2596,7 @@
   Examples:
     - Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.
 
-- Id: der/die Auszubildende
+- Id: Auszubildende
   Level: B1
   Form: adjektivische Deklination
   Abbreviation:
@@ -3379,7 +3379,7 @@
     - Ein Onkel von mir ist ein bekannter Politiker.
     - Dieses Lied ist sehr bekannt.
 
-- Id: der/die Bekannte
+- Id: Bekannte
   Level: A1
   Form: adjektivische Deklination
   Meaning: acquaintance
@@ -13387,7 +13387,7 @@
   Examples:
     - In meiner Jugend habe ich mich sehr für Musik interessiert.
 
-- Id: der/die Jugendliche
+- Id: Jugendliche
   Level: A1
   Form: adjektivische Deklination
   Meaning: young person, teenager
@@ -14786,7 +14786,7 @@
     - Ich war zwei Wochen krank.
     - Ich muss mich um meine kranke Großmutter kümmern.
 
-- Id: der/die Kranke
+- Id: Kranke
   Level: B1
   Form: adjektivische Deklination
   Meaning: sick-person
@@ -25275,7 +25275,7 @@
     - Sein Vater ist schon lange tot.
     - Meine Großeltern sind schon lange tot.
 
-- Id: der/die Tote
+- Id: Tote
   Level: B1
   Form: adjektivische Deklination
   Meaning: dead person
