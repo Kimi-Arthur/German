@@ -2314,7 +2314,7 @@
   Level: A2
   Form: ruht aus, ruhte aus, hat ausgeruht
   Usage: 'von `D`: from; auf `D`: on'
-  Meaning: to rest
+  Meaning: to rest (a-)
   Cambridge: to (have a ) rest; to rest
   Wiki: to rest, to recover through rest and relaxation
   Examples:
@@ -7700,11 +7700,16 @@
 
 - Id: sich erholen
   Level: B1
-  Form: ist erholt, war erholt, ist erholt gewesen
-  Meaning: to rest, relax, recover
+  Form: erholt sich, erholte sich, hat sich erholt
+  Usage: 'von `D`: from'
+  Meaning: to rest (e-), relax, recover
   Cambridge: to relax, to get a rest; to recover, to recuperate
   Wiki: to relax, to recover, to recuperate
   Examples:
+    - Jetzt muss ich mich von dem Stress erholen.
+    - Der Patient muss sich jetzt von der Operation erholen.
+    - Das war ein großer Schreck und ich habe mich immer
+      noch nicht davon erholt.
     - Im Urlaub habe ich mich sehr gut erholt.
     - Er hat sich nach dem Unfall sehr schnell wieder erholt.
 
@@ -7800,10 +7805,19 @@
 - Id: sich erkundigen
   Level: B1
   Form: erkundigt sich, erkundigte sich, hat sich erkundigt
-  Meaning: to inquire (about)
+  Usage: 'bei `D`: from; nach `D`: for/about'
+  Meaning: to inquire, to ask
   Cambridge: to inquire, to ask
   Wiki: to inquire (to get information)
   Examples:
+    - Andi hat sich bei mir nach dir erkundigt.
+    - Der Tourist erkundigt sich nach dem Weg.
+    - Ich habe mich bei den Nachbarn nach den Gründen für
+      sein Verhalten erkundigt.
+    - Die Mitarbeiter haben sich nach dem erkrankten
+      Kollegen erkundigt.
+    - Ich habe ich danach erkundigt, wann der nächste Zug
+      nach Köln fährt.
     - Hast du dich schon nach einem Zug erkundigt?
     - Ich möchte mich erkundigen, wie es Ihnen geht.
 
@@ -9574,10 +9588,19 @@
 - Id: sich freuen
   Level: A1
   Form: freut sich, freute sich, hat sich gefreut
-  Meaning: to be glad
+  Usage: 'über `A`: for past; auf `A`: for future'
+  Meaning: to be glad; to look forward
   Cambridge: to be happy/glad (about), to be pleased (with)
   Wiki: to gladden, to make glad, to make pleased; to be glad, to be pleased; to look forward
   Examples:
+    - Ich freue mich auf die Reise!
+    - Ich habe mich über deinen Brief gefreut.
+    - Morgen sehen wir uns endlich. Ich freue mich sehr auf
+      deinen Besuch.
+    - Ich freue mich darauf, dich bald wiederzusehen.
+    - Wir freuen uns sehr über das Geschenk.
+    - Ich freue mich darüber, dass du die Prüfung bestanden
+      hast.
     - Ich freue mich auf den Urlaub.
     - Zum Geburtstag habe ich ein interessantes Buch bekommen. Ich freue mich sehr über das Geschenk.
     - Es freut mich, dass alles so gut geklappt hat.
@@ -9879,10 +9902,14 @@
 - Id: (sich) fürchten
   Level: B1
   Form: fürchtet, fürchtete, hat gefürchtet
-  Meaning: to be afraid
+  Usage: 'vor `D`: of; `A`'
+  Meaning: to be afraid; to fear
   Cambridge: to fear, to be afraid of
   Wiki: to fear; to be afraid (of)
   Examples:
+    - David fürchtet sich vor seiner Kollegin.
+    - Das Kind fürchtet sich vor Monstern.
+    - Ich fürchte mich davor, meine Arbeitsstelle zu verlieren.
     - Sie fürchtet sich vor Schlangen.
 
 - Id: der Fuß
@@ -15052,9 +15079,17 @@
 - Id: sich kümmern
   Level: A1
   Form: kümmert, kümmerte, hat gekümmert
-  Meaning: to look after
+  Usage: 'um `A`: of'
+  Meaning: to take care
   Wiki: to take care, to look after; to grieve, to afflict, to trouble, to concern
   Examples:
+    - Meine Frau arbeitet und ich kümmere mich um den
+    - Haushalt und die Kinder.
+    - Wir haben alle Aufgaben für das Fest verteilt. Ich
+      kümmere mich um die Getränke.
+    - Wir müssen uns darum kümmern, dass die
+      Waschmaschine so schnell wie möglich repariert wird.
+    - Peter kümmert sich um seine Mutter.
     - Ich habe keine Zeit. Ich muss mich um das Essen kümmern.
     - Jede Mutter kümmert sich um ihre kleinen Kinder.
     - Sonja kann nicht arbeiten. Sie muss sich um ihre Tochter kümmern.
