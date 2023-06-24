@@ -254,16 +254,23 @@
 
 - Id: basieren
   Form: basiert, basierte, hat basiert
-  Usage: auf `D`
-  Meaning: to base (on)
+  Usage: 'auf `D`: on'
+  Meaning: to base, to be based
   Wiki: to base (on); to be based (on)
+  Examples:
+    - Der Film basiert auf einer wahren Geschichte.
 
 - Id: beauftragen
   Form: beauftragt, beauftragte, hat beauftragt
-  Usage: mit `D`
+  Usage: 'mit `D`: with'
   Meaning: to mandate, to order from, to hire for a particular business
   Cambridge: to commission, to engage, to hire
   Wiki: to mandate, to order from, to hire for a particular business
+  Examples:
+    - Wir haben diese Firma mit dem Umbau des Hauses
+      beauftragt.
+    - Sie haben uns damit beauftragt, für die Getränke zu
+      sorgen.
 
 - Id: bedanken
   Form: bedankt sich, bedankte sich, hat sich bedankt
