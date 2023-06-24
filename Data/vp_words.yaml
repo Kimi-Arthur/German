@@ -54,52 +54,29 @@
     - Alle haben zu diesem großen Erfolg beigetragen.
     - Wir alle müssen dazu beitragen, dass dieses Projekt ein Erfolg wird.
 
-- Id: beschweren
-  Form: beschwert, beschwerte, hat beschwert
-  Usage: bei `D`; über `A`
-  Meaning: to complain
-  Cambridge: to complain; to weigh down
-  Wiki: to weight, to weight down; to complain
-
-- Id: beteiligen
-  Form: beteiligt, beteiligte, hat beteiligt
-  Usage: an `D`
-  Meaning: to take part, participate
-  Wiki: to let someone take part in something; participate
-
-- Id: bewerben
-  Form: bewirbt, bewarb, hat beworben
-  Usage: um `A`
-  Meaning: to apply for
-  Cambridge: to apply; to stand
-  Wiki: to apply; to try to win (a favour); to court; to advertise
-
-- Id: beziehen
-  Form: bezieht, bezog, hat bezogen
-  Usage: auf `A`
-  Meaning: to refer, relate to
+- Id: sich beziehen
+  Form: bezieht sich, bezog sich, hat sich bezogen
+  Usage: 'auf `A`: to'
+  Meaning: to refer, to relate
   Cambridge: to get, to receive; to move into; to cover
   Wiki: to refer, relate to; (Senses related to covering.); to put a sheet or cover on (a mattress, duvet etc.); to upholster (a piece of furniture); to become overcast; (Senses related to settling in a place.); to move into (a dwelling); to take up (a position); to take (a position, stand); (Senses related to obtaining.); to draw, receive (a regular payment such as a pension or benefit); to buy something regularly from the same provider; to have a subscription to/for
+  Examples:
+    - Ich beziehe mich auf Ihren Brief vom
+      19. April.
+    - Ich beziehe mich auf das, was Sie vorhin erwähnt haben.
+    - Meine Frage bezieht sich auf die Garantiebestimmungen.
 
 - Id: demonstrieren
   Form: demonstriert, demonstrierte, hat demonstriert
-  Usage: für `A`; gegen `A`
+  Usage: 'für `A`: for; gegen `A`: against'
   Meaning: to demonstrate
   Cambridge: to demonstrate
   Wiki: to demonstrate
-
-- Id: einigen
-  Form: einigt, einigte, hat geeinigt
-  Usage: auf `A`; mit `D`
-  Meaning: to agree on something
-  Cambridge: to agree; to unify
-  Wiki: to unite or unify (for example a group of people); to agree, to reach an agreement
-
-- Id: entschließen
-  Form: entschließt, entschloss, hat entschlossen
-  Usage: zu `D`
-  Meaning: to decide
-  Wiki: to decide
+  Example:
+    - Die Leute auf der Straße demonstrieren für die
+      Einhaltung der Menschenrechte.
+    - Viele Menschen sind auf die Straße gegangen, um gegen
+      diese Politik zu demonstrieren.
 
 - Id: erholen
   Form: ist erholt, war erholt, ist erholt gewesen
