@@ -24217,12 +24217,9 @@
     - Ich bin Studentin.
     - Schüler und Studenten zahlen die Hälfte.
 
-- Id: der Studierender
+- Id: Studierende
   Level: B1
-  Form: Studierenden
-  Feminine:
-    Id: die Studierende
-    Form: '-'
+  Form: adjektivische Deklination
   Meaning: student (-ie-)
   Wiki: student, scholar; student at a Ingenieurschule / Fachhochschule
   Examples:
