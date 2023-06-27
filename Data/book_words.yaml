@@ -4930,12 +4930,17 @@
     - Gefallen dir die Blumen?
     - Wir haben meiner Mutter Blumen zum Geburtstag geschenkt.
 
-- Id: orientieren
-  Form: orientiert, orientierte, hat orientiert
-  Usage: an `D`
-  Meaning: to orient oneself; to orientate oneself
+- Id: sich orientieren
+  Form: orientiert sich, orientierte sich, hat sich orientiert
+  Usage: 'an `D`: with help of'
+  Meaning: to orient oneself
   Cambridge: to get one’s bearings; to be based/oriented
   Wiki: to orient oneself; to orientate oneself
+  Examples:
+    - Bea orientiert sich in allem an ihrer Schwester.
+    - In einer fremden Stadt kann man sich am Stadtplan orientieren.
+    - Vielen Jugendlichen fehlt jemand, an dem sie sich orientieren könnten.
+    - Orientiert euch an dem, was in der Anleitung steht.
 
 - Id: die Vorgabe
   Form: -n
