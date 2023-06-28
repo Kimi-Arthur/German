@@ -4255,10 +4255,8 @@
   Examples:
     - Meine Freundin studiert Biologie.
 
-- Id: bio-
+- Id: das Biogemüse
   Level: B1
-  Meaning: organic
-  Cambridge: organic
   Examples:
     - Ich kaufe nur noch Biogemüse.
 
@@ -5635,6 +5633,7 @@
 
 - Id: derselbe
   Level: B1
+  Form: derselbe, dieselbe, dasselbe
   Meaning: the same
   Cambridge: the same
   Wiki: the same; selfsame; idem
@@ -18671,12 +18670,15 @@
   Examples:
     - O.K.
 
-- Id: Öko-
+- Id: der Ökostrom
   Level: B1
-  Form: -s
-  Meaning: eco
   Examples:
-    - example1
+    - Bei der Produktion von Ökostrom wird weltweit am stärksten auf Windenergie gesetzt.
+
+- Id: ökologisch
+  Level: B1
+  Examples:
+    - Die ökologische Landwirtschaft ist wichtig für die Umwelt.
 
 - Id: das Öl
   Level: A1
@@ -28565,7 +28567,7 @@
   Examples:
     - example1
 
-- Id: welch-
+- Id: welche
   Level: A1
   Meaning: which
   Cambridge: what
