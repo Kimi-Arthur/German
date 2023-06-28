@@ -26258,11 +26258,31 @@
   Examples:
     - example1
 
-- Id: un-
+- Id: unfreundlich
   Level: B1
-  Meaning: prefix (for negation)
+  Form: unfreundlicher, am unfreundlichsten
+  Meaning: unfriendly
+  Cambridge: unfriendly, unkind; unpleasant; in an unfriendly way
+  Wiki: unfriendly
   Examples:
-    - example1
+    - Der Verkäufer war sehr unfreundlich.
+
+- Id: unangenehm
+  Level: B1
+  Form: unangenehmer, am unangenehmsten
+  Meaning: unpleasant
+  Cambridge: unpleasant; unpleasant, awkward; unpleasantly
+  Wiki: unpleasant; unpleasantly
+  Examples:
+    - Dieses Geräusch ist mir unangenehm.
+
+- Id: unpünktlich
+  Level: B1
+  Form: unpünktlicher, am unpünktlichsten
+  Meaning: not on time
+  Cambridge: late, not on time
+  Examples:
+    - Er kam wie immer unpünktlich.
 
 - Id: unbedingt
   Level: A2
