@@ -1277,6 +1277,7 @@
 
 - Id: der Antwortbogen
   Level: A2
+  Form: '-'
   Meaning: answer sheet
   Examples:
     - Bitte übertragen Sie Ihre Lösungen auf den Antwortbogen.
@@ -4821,6 +4822,7 @@
 
 - Id: das Brötli
   Level: B1
+  Form: '-'
   Synonym: (CH) = (D) Brötchen = (A) Semmel
   Meaning: bread roll (-i)
   Wiki: bread roll, bun, roll
@@ -5932,7 +5934,7 @@
 
 - Id: doppelt
   Level: B1
-  Meaning: double (d-)
+  Meaning: double (d-), twice
   Cambridge: double; double, twice
   Wiki: double
   Examples:
@@ -5941,7 +5943,7 @@
 - Id: das Doppel
   Level: B1
   Form: '-'
-  Meaning: double
+  Meaning: double, duplicate
   Cambridge: double
   Wiki: doubles; duplicate
   Examples:
@@ -7043,7 +7045,7 @@
 
 - Id: einzeln
   Level: A2
-  Meaning: single, odd (from a pair)
+  Meaning: single, only, unique
   Cambridge: single; individual; a few, some individual; separately, individually
   Wiki: single; lone; only, unique; separate; discrete; individual; sporadic; occasional; singly; individually; one by one
   Examples:
@@ -7759,7 +7761,7 @@
 
 - Id: erkältet
   Level: A2
-  Meaning: have a cold
+  Meaning: with a cold
   Cambridge: with a cold
   Examples:
     - Ich bin stark erkältet.
@@ -7768,7 +7770,7 @@
 - Id: die Erkältung
   Level: B1
   Form: -en
-  Meaning: cold
+  Meaning: cold (illness)
   Cambridge: cold
   Wiki: cold (illness)
   Examples:
@@ -14939,7 +14941,7 @@
 
 - Id: die Kriminalpolizei
   Level: B1
-  Form: (Sg.)
+  Form: -en
   Meaning: crime investigation department
   Wiki: The branch or department of a police force that investigates crime.; A specific unit of that branch.
   Examples:
@@ -21524,7 +21526,7 @@
   Level: B1
   Form: (Sg.)
   Synonym: (A) = (D) Sahne = (A) Rahm
-  Meaning: cream (-o-)
+  Meaning: whipped cream
   Wiki: whipped cream
   Examples:
     - Ich hätte gern ein Stück Torte mit Schlagobers.
@@ -22922,7 +22924,6 @@
 
 - Id: sondern
   Level: B1
-  Form: sondert, sonderte, hat gesondert
   Meaning: but (rather)
   Cambridge: but
   Wiki: rather, but (instead).; so?, then what?, so you tell me!; to separate, to sunder
@@ -27219,7 +27220,7 @@
 - Id: vermieten
   Level: A1
   Form: vermietet, vermietete, hat vermietet
-  Meaning: to rent
+  Meaning: to rent (to someone)
   Cambridge: to rent (out)
   Wiki: to rent (to someone)
   Examples:
@@ -29620,7 +29621,7 @@
   Examples:
     - example1
 
-- Id: die Zinsen
+- Id: der Zins
   Level: B1
   Meaning: interest (bank)
   Examples:
