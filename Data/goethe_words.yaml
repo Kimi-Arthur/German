@@ -2067,9 +2067,9 @@
   Examples:
     - Kann ich das auf deinem Drucker ausdrucken?
 
-- Id: der Ausdruck
+- Id: der Ausdruck (-e)
   Level: B1
-  Form: ü-e
+  Form: -e
   Meaning: printout
   Cambridge: expression; expression, manifestation; printout; printing off
   Wiki: expression, term; diction; expression, manifestation; manner; printout
@@ -2816,7 +2816,7 @@
 
 - Id: die Bank (-en)
   Level: A1
-  Form: ä-e
+  Form: -en
   Meaning: bank
   Cambridge: bank; bench
   Wiki: bench ; pew; workbench; bank; substitutes' bench; bank; a facility for storage of a particular thing
