@@ -4257,6 +4257,8 @@
 
 - Id: das Biogemüse
   Level: B1
+  Form: '-'
+  Meaning: organic vegetable
   Examples:
     - Ich kaufe nur noch Biogemüse.
 
@@ -18672,11 +18674,16 @@
 
 - Id: der Ökostrom
   Level: B1
+  Form: (Sg.)
+  Meaning: green electricity
   Examples:
     - Bei der Produktion von Ökostrom wird weltweit am stärksten auf Windenergie gesetzt.
 
 - Id: ökologisch
   Level: B1
+  Meaning: ecologic, ecological
+  Cambridge: green, environmentally-friendly, organic; ecological; in an environmentally-friendly manner, organically
+  Wiki: ecologic, ecological; environmental; ecologically; environmentally
   Examples:
     - Die ökologische Landwirtschaft ist wichtig für die Umwelt.
 
@@ -28570,7 +28577,8 @@
 - Id: welche
   Level: A1
   Meaning: which
-  Cambridge: what
+  Cambridge: which; what; whatever; which, that, who; some
+  Wiki: some
   Examples:
     - Welches Buch möchtest du?
     - Welcher Tag ist heute?
