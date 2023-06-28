@@ -28534,12 +28534,21 @@
   Examples:
     - example1
 
-- Id: -weise
+- Id: teilweise
   Level: B1
-  Meaning: -wise (word ending)
-  Wiki: (Used to form adverbs from nouns.); (Used to form adverbs from adjectives or participles together with the interfix .)
+  Meaning: partially, to some extent
+  Cambridge: in part
+  Wiki: partially, to some extent; sometimes, occasionally; in part, in some cases; partial
   Examples:
-    - example1
+    - War der Test schwierig? – Teilweise.
+
+- Id: möglicherweise
+  Level: B1
+  Meaning: possibly, potentially
+  Cambridge: possibly, perhaps
+  Wiki: possibly, potentially; perhaps; conceivably
+  Examples:
+    - Das ist möglicherweise nicht so einfach.
 
 - Id: weit
   Level: A1
