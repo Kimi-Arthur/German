@@ -29623,9 +29623,10 @@
 
 - Id: der Zins
   Level: B1
+  Form: -en
   Meaning: interest (bank)
-  Examples:
-    - example1
+  Cambridge: interest
+  Wiki: interest; tribute; ground rent; rent
 
 - Id: zirka
   Level: A1
