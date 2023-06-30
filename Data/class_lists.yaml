@@ -1,6 +1,7 @@
 # goethe/lists
-- Id: L01-10
+- Id: K
   Words:
+    # L01-10
     - wie
     - was
     - wann
@@ -9,7 +10,7 @@
     - wohin
     - wer
     - warum
-    - welch-
+    - welcher
     - wenn
     - kommen
     - wohnen
@@ -202,7 +203,7 @@
     - die Information
     - allein
     - zusammen
-    - einig-
+    - einige
     - geschieden
     - ledig
     - über
@@ -259,9 +260,7 @@
     - die Arbeit
     - das Glas
     - fast
-
-- Id: L41
-  Words:
+    # L41
     - schön
     - hören
     - sehen
@@ -276,7 +275,7 @@
     - schummeln
     - mogeln
     - das Jahr
-    - letzt-
+    - letzte
     - der Kaffee
     - nie
     - trennbar
@@ -321,9 +320,7 @@
     - der Flughafen
     - der Sommer
     - das Foto
-
-- Id: L42
-  Words:
+    # L42
     - kurz
     - die Woche
     - der Daumen
@@ -378,9 +375,7 @@
     - frühstücken
     - schenken
     - der Blumentopf
-
-- Id: L43
-  Words:
+    # L43
     - probieren
     - wirklich
     - schlecht
@@ -433,7 +428,7 @@
     - wandern
     - alt
     - die Stadt
-    - ander-
+    - anderer
     - spannend
     - wann
     - öffnen
@@ -444,9 +439,7 @@
     - die Karte
     - teuer
     - mehr
-
-- Id: L44
-  Words:
+    # L44
     - tun
     - leid tun
     - außer
@@ -523,9 +516,7 @@
     - die Öffnungszeit
     - die Veranstaltung
     - die Nachricht
-
-- Id: L45
-  Words:
+    # L45
     - der Arzt
     - der Lehrer
     - der Student
@@ -645,9 +636,7 @@
     - zubereiten
     - vielleicht
     - bügeln
-
-- Id: L46
-  Words:
+    # L46
     - die Literatur
     - das Semester
     - beginnen

@@ -6738,12 +6738,10 @@
   Examples:
     - Die Schüler dieser Schule tragen einheitliche Kleidung.
 
-- Id: einig
+- Id: einige
   Level: A2
-  Form: einiger, am einigsten
+  Form: ''
   Meaning: several
-  Cambridge: agreed
-  Wiki: some, a few, plenty; united; agreed, in agreement
   Examples:
     - In diesem Text sind einige Fehler.
     - Das dauert noch einige Zeit, bis das Essen fertig ist.
@@ -28576,7 +28574,7 @@
   Examples:
     - example1
 
-- Id: welche
+- Id: welcher
   Level: A1
   Meaning: which
   Cambridge: which; what; whatever; which, that, who; some
