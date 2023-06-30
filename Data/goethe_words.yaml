@@ -6740,8 +6740,8 @@
 
 - Id: einige
   Level: A2
-  Form: ''
   Meaning: several
+  Cambridge: some, a few; some; quite a few
   Examples:
     - In diesem Text sind einige Fehler.
     - Das dauert noch einige Zeit, bis das Essen fertig ist.
@@ -28577,8 +28577,7 @@
 - Id: welcher
   Level: A1
   Meaning: which
-  Cambridge: which; what; whatever; which, that, who; some
-  Wiki: some
+  Wiki: which (one); that; which; who; whom
   Examples:
     - Welches Buch möchtest du?
     - Welcher Tag ist heute?
