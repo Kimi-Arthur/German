@@ -553,7 +553,6 @@
     - Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.
 
 - Id: der Informatiker
-  Level: K
   Form: '-'
   Feminine:
     Id: die Informatikerin
@@ -654,7 +653,6 @@
     - Es ist später, als ich dachte.
 
 - Id: der Assistent
-  Level: K
   Form: -en
   Feminine:
     Id: die Assistentin
@@ -785,7 +783,6 @@
     - Hans will Bauingenieur werden.
 
 - Id: konstruieren
-  Level: K
   Form: konstruiert, konstruierte, hat konstruiert
   Meaning: to design, to construct
   Cambridge: to design (and construct); to construct; to fabricate, to contrive
@@ -795,7 +792,6 @@
     - Viele Entwicklungsingenieure haben gemeinsam die neue Werkzeugmaschine konstruiert.
 
 - Id: das Solarauto
-  Level: K
   Form: -s
   Meaning: solar car
   Examples:
@@ -918,7 +914,6 @@
     - Ich habe Jura studiert.
 
 - Id: der Jurist
-  Level: K
   Form: -en
   Feminine:
     Id: die Juristin
@@ -963,7 +958,6 @@
     - Wir schreiben morgen eine Arbeit in Physik.
 
 - Id: der Physiker
-  Level: K
   Form: '-'
   Feminine:
     Id: die Physikerin
@@ -996,7 +990,6 @@
     - Wichtige Teilgebiete der Mathematik sind die Geometrie, die Arithmetik, die Algebra und die Stochastik.
 
 - Id: der Mathematiker
-  Level: K
   Form: '-'
   Feminine:
     Id: die Mathematikerin
@@ -1008,7 +1001,6 @@
     - Ein Mathematiker befasst sich mit Mathematik.
 
 - Id: die Journalistik
-  Level: K
   Form: (Sg.)
   Meaning: journalism
   Examples:
@@ -1027,7 +1019,6 @@
     - Meine Tochter möchte Journalistin werden.
 
 - Id: das Design
-  Level: K
   Form: -s
   Meaning: design
   Cambridge: design
@@ -1036,7 +1027,6 @@
     - Das Design der Autos wird immer ähnlicher.
 
 - Id: der Designer
-  Level: K
   Form: '-'
   Feminine:
     Id: die Designerin
@@ -1149,7 +1139,6 @@
     - Mach doch bitte die Lampe an. Es ist so dunkel hier.
 
 - Id: der Regenschirm
-  Level: K
   Form: -e
   Meaning: umbrella
   Wiki: umbrella
@@ -1209,7 +1198,6 @@
     - Mario fährt mit dem Auto zur Arbeit.
 
 - Id: das Lehrbuch
-  Level: K
   Form: ü-er
   Meaning: textbook
   Wiki: textbook
@@ -1256,7 +1244,6 @@
     - Kannst du mir bitte einen Stift geben? - Was brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?
 
 - Id: die Kaffeemaschine
-  Level: K
   Form: -n
   Meaning: coffee machine
   Wiki: coffeemaker
@@ -1315,7 +1302,6 @@
     - Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm.
 
 - Id: der Schreibtisch
-  Level: K
   Form: -e
   Meaning: writing desk
   Cambridge: desk
@@ -2249,7 +2235,6 @@
     - Was kosten die Lippenstifte im Dreierpack?
 
 - Id: der Autoschlüssel
-  Level: K
   Form: '-'
   Meaning: car key
   Wiki: car key, ignition key
@@ -2257,7 +2242,6 @@
     - Vergiss die Autoschlüssel nicht!
 
 - Id: der Zimmerschlüssel
-  Level: K
   Form: '-'
   Meaning: room key
   Wiki: room key
@@ -2265,7 +2249,6 @@
     - Ob er mit dem neuen Zimmer zufrieden sei, fragte Signora Morelli, als sie ihm den Zimmerschlüssel und die erste Post von Frau Hartwig gab.
 
 - Id: der Sonnenschirm
-  Level: K
   Form: -e
   Meaning: sun umbrella
   Wiki: A parasol, type of umbrella used for protection against the sun
@@ -2273,7 +2256,6 @@
     - Sie saßen im Garten unter einem bunten Sonnenschirm.
 
 - Id: der Regenschirm
-  Level: K
   Form: -e
   Meaning: umbrella
   Wiki: umbrella
@@ -2281,7 +2263,6 @@
     - Einen Regenschirm hat man im Herbst gerne dabei.
 
 - Id: das Cello
-  Level: K
   Form: Celli
   Meaning: cello
   Cambridge: cello
@@ -2299,7 +2280,6 @@
     - Ich muss das Wort im Wörterbuch nachschlagen.
 
 - Id: die Tageszeitung
-  Level: K
   Form: -en
   Meaning: daily newspaper
   Cambridge: daily (news)paper
@@ -2503,7 +2483,6 @@
     - Insgesamt haben sich 20 Teilnehmer für die Prüfung angemeldet.
 
 - Id: der Liebesroman
-  Level: K
   Form: -e
   Meaning: romance novel
   Wiki: romance novel
@@ -2520,7 +2499,6 @@
     - Der Bau des Hauses dauerte 2 Jahre.
 
 - Id: der Kommissar
-  Level: K
   Form: -e
   Meaning: commissioner
   Cambridge: police officer corresponding to lieutenant
@@ -2758,7 +2736,6 @@
     - In welchen Ländern warst du schon?
 
 - Id: das Autokennzeichen
-  Level: K
   Form: '-'
   Meaning: car number plate
   Wiki: license plate, number plate
@@ -4833,7 +4810,6 @@
     - Mit Kabel bekommen Sie über 30 Fernsehkanäle.
 
 - Id: die Kaffeemaschine
-  Level: K
   Form: -n
   Meaning: coffee machine
   Wiki: coffeemaker
@@ -4982,7 +4958,6 @@
     - example1
 
 - Id: das Protokoll
-  Level: K
   Form: -e
   Meaning: protocol
   Cambridge: record, minutes, transcript; report, record; protocol
@@ -4991,7 +4966,6 @@
     - Herr Müller schreibt heute das Protokoll!
 
 - Id: die Beförderung
-  Level: K
   Form: -en
   Meaning: transportation
   Cambridge: transportation; promotion
@@ -5206,7 +5180,6 @@
     - Haben Sie mein Schreiben vom 3. März erhalten?
 
 - Id: die Dienstreise
-  Level: K
   Form: -n
   Meaning: business trip (D-)
   Wiki: A business trip or other journey in an official or similar non-private capacity
