@@ -335,6 +335,7 @@
 
 - Id: der Abwart
   Level: B1
+  Form: -e
   Synonym: (CH) = (D, A) Hausmeister
   Feminine:
     Id: die Abwartin
@@ -7973,9 +7974,9 @@
 
 - Id: erschrecken
   Level: B1
-  Form: erschreckt, erschreckte, hat erschreckt
-  Usage: über `A`
-  Meaning: to scare, shock
+  Form: erschrickt, erschrak, ist erschrocken; erschreckt, erschreckte, hat erschreckt
+  Usage: 'über `A`: over'
+  Meaning: to be scared; to scare, shock
   Cambridge: to get a fright, to be startled; to frighten
   Wiki: to be frightened; to be startled; to be frightened; to be startled; to frighten; to scare (someone); to frighten; to scare (someone); to be frightened; to be startled
   Examples:
@@ -8621,7 +8622,7 @@
 - Id: fehlen
   Level: A1
   Form: fehlt, fehlte, hat gefehlt
-  Usage: jmdm. fehlen an (es)
+  Usage: jmdm. an (es)
   Meaning: to be wanting, missing, absent
   Cambridge: to be missing/lacking, to lack; to be absent; to be lacking
   Wiki: to lack; to be absent from, to be missing from, to be lacking in; to be missed by; to be missing; to fail
@@ -20002,12 +20003,22 @@
 - Id: raten
   Level: B1
   Form: rät, riet, hat geraten
-  Usage: zu `D`
-  Meaning: to guess, to advise
+  Usage: 'jmdm. zu `D`: to advise someone about'
+  Meaning: to advise; to guess
   Cambridge: to guess; to advise
   Wiki: to advise; to recommend; to guess
   Examples:
-    - example1
+    - Ich weiß nicht, welches Handy ich kaufen soll. Was
+      raten Sie mir?
+    - Rate mal, wen ich heute gesehen habe! Deinen
+      Lehrer.
+    - Ich rate dir zu Vorsicht.
+    - Er hat mir dazu geraten, offen über dieses Problem zu
+      sprechen.
+    - Ich möchte billig Urlaub machen. Was
+      raten Sie mir?
+    - Rate mal, wen ich heute getroffen
+      habe! Deinen Lehrer.
 
 - Id: der Rat
   Level: B1
@@ -20016,7 +20027,8 @@
   Cambridge: (piece of) advice; council; councillor
   Wiki: advice, counsel; council; councilor, councillor; title of a Beamter ("Public servant") at the beginning of the senior service; title of a Beamter ("Public servant") in the senior service after first promotion
   Examples:
-    - example1
+    - Was soll ich machen? Können Sie mir
+      einen Rat geben?
 
 - Id: der Ratschlag
   Level: B1
@@ -20025,16 +20037,18 @@
   Cambridge: piece of advice
   Wiki: piece of advice; advice
   Examples:
-    - example1
+    - Meine Tochter nimmt meine
+      Ratschläge nicht an.
 
 - Id: das Rätsel
-  Level: B1
+  Level: A2
   Form: '-'
   Meaning: puzzle, riddle
   Cambridge: puzzle, riddle; mystery
   Wiki: riddle, puzzle, mystery, enigma
   Examples:
-    - example1
+    - Das Rätsel ist schwierig! Ich weiß die Antwort nicht.
+    - Ich kann dieses Rätsel nicht lösen.
 
 - Id: das Rathaus
   Level: A2
@@ -27153,12 +27167,14 @@
 
 - Id: sich verlaufen
   Level: B1
-  Form: verläuft, verlief, ist verlaufen
+  Form: verläuft sich, verlief sich, hat sich verlaufen
   Meaning: to get lost
   Cambridge: to get lost; to disperse; to run; to go
   Wiki: to get lost, stray; to disperse, scatter; to run (extend in a specific direction); to go, proceed (well, poorly, etc.); to peter out
   Examples:
-    - example1
+    - Gestern haben wir uns im Wald
+      verlaufen. Wir haben erst eine Stunde
+      später den richtigen Weg gefunden.
 
 - Id: (sich) verletzen
   Level: B1
@@ -27267,11 +27283,11 @@
 - Id: vermissen
   Level: B1
   Form: vermisst, vermisste, hat vermisst
-  Meaning: to miss
+  Meaning: to miss (family, etc.), to be missing
   Cambridge: to miss; to be unable to find, to be missing
   Wiki: to miss (to feel the absence of someone or something); to have something missing
   Examples:
-    - example1
+    - Ich vermisse meine Familie.
 
 - Id: die Vermittlung
   Level: B1
@@ -27318,13 +27334,15 @@
     - example1
 
 - Id: verpassen
-  Level: B1
+  Level: A2
   Form: verpasst, verpasste, hat verpasst
   Meaning: to miss (a scheduled thing)
   Cambridge: to miss; to give
   Wiki: to miss; to miss; to give, to provide someone with
   Examples:
-    - example1
+    - Ich habe den Zug verpasst.
+    - Ich habe die 12-Uhr-Nachrichten
+      verpasst.
 
 - Id: verpflegen
   Level: B1
@@ -27382,11 +27400,12 @@
 - Id: versäumen
   Level: B1
   Form: versäumt, versäumte, hat versäumt
-  Meaning: to miss, neglect, lose
+  Meaning: to miss, to fail to do something important
   Cambridge: to miss; to neglect
   Wiki: to miss, to omit, to fail to do something important
   Examples:
-    - example1
+    - Tut mir leid, ich habe die Anmeldefrist
+      versäumt.
 
 - Id: verschieben
   Level: B1
@@ -27677,7 +27696,8 @@
   Cambridge: to forgive
   Wiki: to forgive; to pardon; to excuse
   Examples:
-    - example1
+    - Das werde ich ihm nie verzeihen
+      können.
 
 - Id: Verzeihung
   Level: B1
@@ -27685,17 +27705,18 @@
   Meaning: forgiveness, pardon
   Wiki: forgiveness; excuse me, pardon me
   Examples:
-    - example1
+    - Verzeihung! Ich habe die falsche
+      Nummer gewählt.
 
 - Id: verzichten
   Level: B1
   Form: verzichtet, verzichtete, hat verzichtet
   Usage: auf `A`
-  Meaning: to forego, give up
+  Meaning: to do without, to give up
   Cambridge: to do without, to refrain (from), to renounce
   Wiki: 'to give up, go without, live without, make do without, do without, formal: forgo, dispense with; to refrain from, abstain, renounce, forswear; let somebody have; resign, abdicate; renounce, waive, disclaim'
   Examples:
-    - example1
+    - Ich verzichte heute auf den Kaffee.
 
 - Id: das Video
   Level: B1
@@ -28904,10 +28925,12 @@
 
 - Id: wie viel
   Level: A1
-  Meaning: how long
+  Meaning: how much
   Wiki: how much; how often
   Examples:
-    - example1
+    - Wie viel Geld hast du dabei?
+    - Wie viel ist ein Euro hier wert?
+    - Wie viele Kinder haben Sie?
 
 - Id: willkommen
   Level: A1
@@ -29029,16 +29052,21 @@
   Cambridge: science, research, academia
   Wiki: science; science, the sciences taken as a whole; academia, scholarship; academia, academic community; knowledge, cognizance
   Examples:
-    - example1
+    - Vertreter von Kunst und Wissenschaft
+      treffen sich heute in Berlin.
 
 - Id: der Wissenschaftler
   Level: B1
   Form: '-'
-  Meaning: scientist (male)
+  Feminine:
+    Id: die Wissenschaftlerin
+    Form: -nen
+  Meaning: scientist
   Cambridge: scientist, researcher, academic
   Wiki: scientist; scholar, researcher, academic
   Examples:
-    - example1
+    - Sie ist Wissenschaftlerin an der
+      Universität.
 
 - Id: der Witz
   Level: B1
@@ -29328,7 +29356,7 @@
 - Id: die Anzahl
   Level: B1
   Form: -en
-  Meaning: quantity
+  Meaning: quantity, number
   Cambridge: number
   Wiki: (a) number, an amount; a few
   Examples:
