@@ -13,7 +13,7 @@
 - Id: abbiegen
   Level: B1
   Form: biegt ab, bog ab, hat abgebogen
-  Meaning: to turn off, bend
+  Meaning: to turn
   Cambridge: to turn; to avert, to deflect
   Wiki: to turn, to turn off; to bend, to turn (of a road, street, path, etc.); to fold (metal); to head off, to stave off; to branch off
   Examples:
@@ -732,7 +732,7 @@
 - Id: anbieten
   Level: A1
   Form: bietet an, bot an, hat angeboten
-  Meaning: to offer
+  Meaning: to offer (now)
   Cambridge: to offer
   Wiki: to offer, to provide; to offer for sale or rent; to lend oneself to, to be suitable for
   Examples:
@@ -1349,6 +1349,7 @@
   Wiki: to get dressed; to dress (in a specific manner); to put on; to dress oneself in; to dress someone; to dress someone in; to attract; to attract one another; to fasten (a screw); to pull (a lever); to pull lightly; to speed up; to sprint; to climb; to be touched by; to care much about; to have oneself be impressed by; to feel responsible for; to draw near, to approach, to come close
   Examples:
     - Ich muss mich noch anziehen.
+    - Ich ziehe (mir) eine Jacke an.
     - Du musst dich wärmer anziehen, sonst erkältest du dich.
     - Heute ziehe ich mein neues T-Shirt an.
 
@@ -2524,12 +2525,14 @@
 
 - Id: ausziehen
   Level: A1
-  Form: zieht aus, zog aus, hat ausgezogen
-  Meaning: to undress, move to other place
+  Form: zieht aus, zog aus, hat/ist ausgezogen
+  Meaning: to undress; to move to other place
   Cambridge: to take off; to move out; to set out; to pull out
   Wiki: to pull out; to take off (clothing); to undress (a person); to undress, to take off one's clothes; to move out; to unscrew
   Examples:
     - Zieh die Schuhe aus, bitte!
+    - Er hat sein T-Shirt ausgezogen und ein Hemd angezogen.
+    - Die Nachbarn sind am Wochenende ausgezogen.
     - Willst du den Mantel nicht ausziehen?
     - Müllers sind schon vor vier Wochen ausgezogen.
 
@@ -4184,7 +4187,7 @@
 - Id: bieten
   Level: B1
   Form: bietet, bot, hat geboten
-  Meaning: to offer
+  Meaning: to offer, to have available
   Cambridge: to bid; to offer; to offer, to provide; to present itself; to show, to perform
   Wiki: to offer; to present; to bid; to offer to pay a certain price; to arise; to occur
   Examples:
@@ -20732,7 +20735,13 @@
   Cambridge: to smell; to sense
   Wiki: to smell (something); to sniff (something); to use the sense of smell; to detect a smell; to smell something; to reek; to smell bad; to smell; to tolerate (someone); to stand (someone)
   Examples:
-    - example1
+    - Dieser Wein riecht gut.
+    - Diese Blumen riechen gut.
+    - Hier riecht es nach Fisch.
+    - Dieses Parfüm riecht sehr gut.
+    - Im ganzen Haus riecht es nach Farbe.
+    - Ich bin erkältet. Ich kann nichts
+      riechen.
 
 - Id: riesig
   Level: B1
@@ -21580,8 +21589,8 @@
 - Id: schließen
   Level: A1
   Form: schließt, schloss, hat geschlossen
-  Usage: aus `D`
-  Meaning: to close, shut
+  Usage: 'aus `D`: to conclude from'
+  Meaning: to close, shut; to conclude
   Cambridge: to close, to shut; to close down; to lock; to fill; to close, to conclude; to enter into, to conclude; to infer, to conclude
   Wiki: to shut; to close; to shut down; to lock; to conclude; to end; to close; to come to (an agreement); to enter into (a relationship); to reach (a settlement); to gather; to conclude; to come to realize
   Examples:
@@ -21593,6 +21602,8 @@
     - Ich hatte die Papiere in den Schreibtisch eingeschlossen.
     - Du kannst die Datei schließen. Ich bin fertig.
     - Sie mussten die Firma leider schließen.
+    - Aus dem, was Sie gesagt haben, lässt sich schließen, dass die Lage ziemlich ausweglos ist.
+    - Daraus lässt sich schließen, dass unsere Anstrengungen erfolgreich waren.
 
 - Id: geschlossen
   Level: A1
@@ -27209,13 +27220,19 @@
     - example1
 
 - Id: verlieren
-  Level: B1
+  Level: A2
   Form: verliert, verlor, hat verloren
   Meaning: to lose
   Cambridge: to lose; to lose, to leak; to lose, to shed; to disappear, to fade away, to wear off
   Wiki: to lose (something, or a game); to shed; to trail away, to fade away; to get lost
   Examples:
-    - example1
+    - Ich habe meinen Schlüssel verloren.
+    - Michael hat seine Arbeit verloren.
+    - Wir haben das Fußballspiel verloren.
+    - Ich habe meine Brieftasche verloren.
+    - Jennifer hat ihre Stelle verloren.
+    - Sie dürfen den Mut nicht verlieren.
+    - Unsere Mannschaft hat 3:5 verloren.
 
 - Id: der Verlierer
   Level: B1
@@ -29614,12 +29631,14 @@
 
 - Id: ziehen
   Level: B1
-  Form: zieht, zog, hat gezogen
-  Meaning: to pull, move
+  Form: zieht, zog, hat/ist gezogen
+  Meaning: to pull; to move
   Cambridge: to pull; to move, to go; to move; to pull/come out, to draw; to draw; to pull, to put on; to make; to stretch; to grow; to brew; to work, to wash
   Wiki: to pull (e.g., a door handle); to drag; to draw (e.g. a weapon); to extract; to puff; to draw (a conclusion, lesson, etc.); to be drafty; there to be a draft; to move; to migrate; to roam; to head; to stretch; to warp
   Examples:
-    - example1
+    - Sie müssen ziehen, nicht drücken.
+    - Wir sind vor drei Wochen nach Hamburg gezogen.
+    - Machen Sie bitte die Tür zu, es zieht.
 
 - Id: das Ziel
   Level: B1
@@ -33025,3 +33044,11 @@
   Examples:
     - Pass auf, das Gewehr ist geladen!
     - Du musst mir bitte noch die Säcke auf den Anhänger laden.
+
+- Id: biegen
+  Form: biegt, bog, hat gebogen
+  Meaning: to bend (something)
+  Cambridge: to bend; to turn
+  Wiki: to bend something; to bend; to be bent; to turn; to round a corner; to drive into a street;
+  Examples:
+    - Sie bog die Äste zur Seite.
