@@ -9955,7 +9955,7 @@
 - Id: füttern
   Level: B1
   Form: füttert, fütterte, hat gefüttert
-  Meaning: to feed sb. sth.
+  Meaning: to feed (animal, or literally to the mouth)
   Cambridge: to feed
   Wiki: to feed; to line
   Examples:
@@ -33051,3 +33051,19 @@
   Wiki: to bend something; to bend; to be bent; to turn; to round a corner; to drive into a street;
   Examples:
     - Sie bog die Äste zur Seite.
+
+- Id: renovieren
+  Form: renoviert, renovierte, hat renoviert
+  Meaning: to renovate
+  Cambridge: to renovate
+  Wiki: to renovate
+  Examples:
+    - Wir renovieren unseren Freunden die Wohnung.
+
+- Id: servieren
+  Form: serviert, servierte, hat serviert
+  Meaning: to serve (food); to wait (at table)
+  Cambridge: to serve
+  Wiki: to serve (food); to wait (at table)
+  Examples:
+    - Sie serviert ihren Gästen Kaffee und Kuchen.

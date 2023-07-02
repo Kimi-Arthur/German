@@ -1,6 +1,6 @@
 # goethe/lists
 
-- Id: Verben
+- Id: Unregelmäßige Verben
   Words:
     # ä - i - a
     - fangen
@@ -71,3 +71,32 @@
     - stehen
     - laufen
     - tun
+
+- Id: Verben mit Akkusativ und Dativ
+  Words:
+    - anbieten
+    - bezahlen
+    - bestellen
+    - bringen
+    - empfehlen
+    - erklären
+    - erzählen
+    - geben
+    - holen
+    - kaufen
+    - kochen
+    - leihen
+    - liefern
+    - mitbringen
+    - renovieren
+    - reparieren
+    - reservieren
+    - sagen
+    - schenken
+    - schicken
+    - (sich) schneiden
+    - schreiben
+    - servieren
+    - verkaufen
+    - (sich) wünschen
+    - zeigen
