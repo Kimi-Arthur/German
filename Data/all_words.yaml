@@ -370,13 +370,20 @@
   Examples:
     - Herr Huber ist bis zum 25. April abwesend.
 
-- Id: achten (auf)
+- Id: achten
   Level: B1
   Form: achtet, achtete, hat geachtet
-  Meaning: to pay attention (to)
+  Usage: 'auf `D`: to'
+  Meaning: to pay attention
   Cambridge: to respect
   Wiki: to care about, to pay attention to; to keep an eye on; to respect
   Examples:
+    - Achtet bitte auf eure Wertgegenstände, denn hier gibt es
+      Taschendiebe!
+    - Worauf muss man achten, wenn man eine Wohnung
+      kaufen will?
+    - Achtet darauf, was ihr sagt!
+    - Achte besser auf deine Gesundheit!
     - Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.
 
 - Id: Achtung
@@ -17218,7 +17225,7 @@
 - Id: die Mitte
   Level: A1
   Form: -n
-  Meaning: middle
+  Meaning: middle, center (part or point)
   Cambridge: middle, center; middle; center
   Wiki: middle; center; The most central <<borough>> of <<city/Berlin>>
   Examples:
@@ -26938,11 +26945,13 @@
 - Id: vereinbaren
   Level: A2
   Form: vereinbart, vereinbarte, hat vereinbart
-  Usage: mit `D`
-  Meaning: to agree upon
+  Usage: '`A` mit jmdm.: to agree upon something with someone'
+  Meaning: to agree upon, to arrange
   Cambridge: to agree, to arrange; to reconcile
   Wiki: to agree upon; to arrange; to reconcile
   Examples:
+    - Ich habe mit meinem Arbeitgeber eine Lohnerhöhung
+      vereinbart.
     - Können wir einen Termin vereinbaren?
 
 - Id: die Vergangenheit
