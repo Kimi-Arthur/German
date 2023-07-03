@@ -791,11 +791,14 @@
 - Id: ändern
   Level: A2
   Form: ändert, änderte, hat geändert
-  Usage: an `D`
+  Usage: 'etwas/nichts an `D`: about/on'
   Meaning: to change
   Cambridge: to change
   Wiki: to change, to alter; to change, to vary
   Examples:
+    - Das ändert nichts an der Situation!
+    - Du solltest etwas an deinem Verhalten ändern und nicht
+      mehr so egoistisch sein.
     - Das Wetter hat sich geändert.
     - Wie kann ich mein Passwort ändern?
     - Das Wetter hat sich geändert.
@@ -1882,7 +1885,7 @@
 - Id: aufpassen
   Level: A2
   Form: passt auf, passte auf, hat aufgepasst
-  Usage: auf `A`
+  Usage: 'auf `A`: of'
   Meaning: to be careful, to take care
   Cambridge: to be careful, to watch out; to pay attention, to be attentive
   Wiki: to watch out, to be alert; to look after, to take care of; to be attentive (with something)
@@ -3028,7 +3031,7 @@
 - Id: sich bedanken
   Level: A2
   Form: bedankt sich, bedankte sich, hat sich bedankt
-  Usage: 'bei `D`: to thank someone; für `A`: for'
+  Usage: 'bei jdmd. für `A`: to thank someone for'
   Meaning: to thank
   Wiki: to be thankful, to express thanks.
   Examples:
@@ -3584,11 +3587,19 @@
 - Id: berichten
   Level: A2
   Form: berichtet, berichtete, hat berichtet
-  Usage: von `D`; über `A`
+  Usage: 'von `D`: from knowledge, experience; über `A`: on, about'
   Meaning: to report, to tell
   Cambridge: to report
   Wiki: to relate, to tell, to give an account of; to report (especially by the media or authorities)
   Examples:
+    - Die Zeitungen berichten über schwere
+      Kämpfe.
+    - Warum hast du mir von deiner Reise
+      nichts berichtet?
+    - Über diesen Fall wurde bereits im Fernsehen berichtet.
+    - Das Fernsehen hat von diesem Vorfall berichtet.
+    - Sie hat mir davon berichtet, dass es einen Unfall gegeben
+      hat.
     - Alle Zeitungen berichten von dem Unfall.
     - Alle Zeitungen haben über den Unfall berichtet.
 
@@ -3660,11 +3671,16 @@
 - Id: beschäftigen
   Level: B1
   Form: beschäftigt, beschäftigte, hat beschäftigt
-  Usage: mit `D`
+  Usage: 'sich mit Dat.: to be busy with, to spend time with'
   Meaning: to employ, be busy, deal with
   Cambridge: to employ; to occupy; to be on your mind, to bother; to spend time with, to devote your attention to; to give thought to
   Wiki: to keep busy, to keep busy, to employ, to engage; to keep oneself busy, to keep oneself busy ( with); to concern oneself
   Examples:
+    - Ich war mit meiner Arbeit sehr beschäftigt.
+    - Ich beschäftige mich schon seit Jahren mit diesem
+      Thema.
+    - Die Eltern arbeiten viel und beschäftigen sich zu wenig
+      mit ihren Kindern.
     - Womit haben Sie sich bei Ihrer Arbeit beschäftigt?
     - Seit wann sind Sie bei dieser Firma beschäftigt?
 
@@ -3744,7 +3760,7 @@
 - Id: sich beschweren
   Level: A2
   Form: beschwert, beschwerte, hat beschwert
-  Usage: 'bei `D`: to; über `A`: about'
+  Usage: 'sich bei jmdm. über Akk.: to someone about something'
   Meaning: to complain
   Cambridge: to complain; to weigh down
   Wiki: to weight, to weight down; to complain
@@ -3878,14 +3894,28 @@
 - Id: bestehen
   Level: A2
   Form: besteht, bestand, hat bestanden
-  Usage: auf `D`; aus `D`; in `D`
-  Meaning: to exist, last, pass, win
+  Usage: 'Akk.: to pass; auf `D`: to insist on; aus `D`: to consist of (more concrete); in `D`: to lie in, to consist of (more conceptual)'
+  Meaning: to pass; to insist; to consist
   Cambridge: to be, to exist; to pass; to hold your own, to stand your ground, to survive
   Wiki: to succeed, to pass (an exam); to consist (); to exist; to insist ( with dative)
   Examples:
-    - 'Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen.'
     - Ich habe die Prüfung bestanden!
+    - Ich bestehe auf einem korrekten Vertrag.
+    - Ich bestehe auf meinem Recht, das defekte Gerät
+      umzutauschen.
+    - Der Lehrer besteht darauf, dass die Handys während der
+      Prüfung ausgeschaltet bleiben.
+    - Die Gruppe bestand aus drei Frauen und zwei Männern.
+    - Das Dessert besteht aus einem Joghurt
+      mit Obst.
+    - 'Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen.'
     - Das Modul Lesen besteht aus fünf Teilen.
+    - Mein Job besteht in der Bearbeitung
+      von Anträgen.
+    - Meine Aufgabe besteht in der Planung und
+      Durchführung von Fortbildungsmaßnahmen.
+    - Der Unterschied besteht darin, dass wir diesmal viel
+      weniger Zeit für alles haben.
 
 - Id: bestellen
   Level: A1
@@ -3944,7 +3974,7 @@
 - Id: sich beteiligen
   Level: B1
   Form: beteiligt, beteiligte, hat beteiligt
-  Usage: an `D`
+  Usage: 'an `D`: in'
   Meaning: to take part, participate
   Wiki: to let someone take part in something; participate
   Examples:
@@ -4105,7 +4135,7 @@
 - Id: sich bewerben
   Level: A2
   Form: bewirbt sich, bewarb sich, hat sich beworben
-  Usage: 'bei `D`: to; um `A`: for'
+  Usage: 'sich bei jmdm. um `A`: to apply to someone for something'
   Meaning: to apply
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
@@ -4320,11 +4350,14 @@
 - Id: bitten
   Level: A1
   Form: bittet, bat, hat gebeten
-  Usage: um `A`
+  Usage: 'jmdn. um Akk.: to request someone for something'
   Meaning: to request
   Cambridge: to ask
   Wiki: to ask, to beg, to plead, to request (help, understanding, etc.)
   Examples:
+    - Darf ich dich um Hilfe bitten?
+    - Darf ich Sie um einen Gefallen bitten?
+    - Ich habe sie um diese Information gebeten.
     - Darf ich Sie um etwas bitten?
     - Darf ich Sie bitten, kurz zuzuhören?
 
@@ -4777,7 +4810,7 @@
 - Id: bringen
   Level: A1
   Form: bringt, brachte, hat gebracht
-  Usage: auf `A`; zu `D`
+  Usage: 'jmdn. auf Akk.: to bring to a level/quality/idea; jmdn. zu Dat.: to make someone to do something; jmdn. um Akk.: to cause someone not to do something'
   Meaning: to bring
   Cambridge: to take, to bring; to take, to see; to broadcast, to feature; to bring; to make, to yield; to bring about
   Wiki: to bring, to fetch, to take, to convey, to bear; to bring, to lead, to guide, to accompany; to cause (someone) to have (something); to cause (something) to exist for the benefit, or to the detriment, of (someone); to cause (something) to be a part of (something); to get, to cause (someone to do something); (transitive, with certain phrases) (To cause the action implied by a phrase to take place, possibly making the sentence more passive or indirect.); to acquire; to take possession of; to accomplish; to yield; to be of use; to be helpful; to deliver; to perform well; to get over with
@@ -4787,6 +4820,15 @@
     - Wir müssen Max ins Krankenhaus bringen.
     - Ich bringe dich nach Hause.
     - Die Abendzeitung hat einen Bericht über den Unfall gebracht.
+    - Zusammen bringen wir es auf neun
+      Personen.
+    - Wer hat dich auf diese Idee gebracht?
+    - Das bringt mich auf eine Idee.
+    - Wer hat dich bloß darauf gebracht, dies zu tun?
+    - Die Menschen müssen dazu gebracht werden, weniger
+      Müll zu produzieren.
+    - Die kleine Miriam bringt ihre Eltern um
+      den Schlaf.
 
 - Id: die Broschüre
   Level: B1
