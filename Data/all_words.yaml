@@ -21059,7 +21059,7 @@
 - Id: sagen
   Level: A1
   Form: sagt, sagte, hat gesagt
-  Usage: von `D`; zu `D`; über `A`
+  Usage: 'etwas/nichts von `D`: something related to sth.; zu `D`: to say to, to comment on; über `A`: about'
   Meaning: to say
   Cambridge: to say; to tell; to call
   Wiki: to say; to tell; to mean; to speak up
@@ -21070,6 +21070,15 @@
     - Wie sagt man „sorry“ auf Deutsch?
     - Sag mal, wie geht es dir denn?
     - Können Sie mir bitte sagen, wo hier ein Geldautomat ist?
+    - Er hat mir nichts von seinen Problemen gesagt.
+    - Warum hast du mir nichts davon gesagt?
+    - Was sagst du zu meiner neuen Frisur?
+    - Ich würde gern noch etwas zu diesem Punkt sagen.
+    - Was sagen Sie dazu?
+    - Dazu kann ich leider nichts sagen.
+    - Was hat er über mich gesagt?
+    - Können Sie vielleicht etwas darüber sagen?
+    - Was hat sie über ihn gesagt?
 
 - Id: die Sahne
   Level: B1
@@ -21449,7 +21458,7 @@
 - Id: schicken
   Level: A1
   Form: schickt, schickte, hat geschickt
-  Usage: an `A`; zu `D`
+  Usage: 'an `A`: to; zu `D`: to, especially to people'
   Meaning: to send (8)
   Cambridge: to send; to be the done thing; to hurry up
   Wiki: to send; to hurry (rare); to be decent, to be appropriate; to chew tobacco
@@ -21459,6 +21468,12 @@
     - Ich habe meinen Freunden eine Einladung zur Hochzeit geschickt.
     - Schick mir doch eine E-Mail.
     - Ich habe die Kinder einkaufen geschickt. Wir haben keine Milch mehr zu Hause.
+    - Schickst du das Paket an deinen Bruder?
+    - Ich habe die E-Mail an alle Freunde geschickt.
+    - An wen soll ich den Brief schicken?
+    - Schicken Sie das Dokument bitte an die Sprachschule.
+    - Wer schickt dich zu mir?
+    - Meine Mutter hat mich zum Frisör geschickt, weil sie meine Haare zu lang fand.
 
 - Id: schieben
   Level: B1
@@ -21513,7 +21528,7 @@
 - Id: schimpfen
   Level: A2
   Form: schimpft, schimpfte, hat geschimpft
-  Usage: auf `A`; mit `D`; über `A`
+  Usage: 'über `A`: about'
   Meaning: to grumble, to complain, to tell off
   Cambridge: to moan/complain (about), to tell off
   Wiki: to tell off, to scold, to yell at; to complain, to grouse
@@ -21727,7 +21742,7 @@
 - Id: schmecken
   Level: A1
   Form: schmeckt, schmeckte, hat geschmeckt
-  Usage: nach `D`
+  Usage: 'nach `D`: of, like'
   Meaning: to taste
   Cambridge: to taste
   Wiki: to taste (good, bad, sweet, salty, etc.); to enjoy; to taste good
@@ -21947,7 +21962,7 @@
 - Id: schreiben
   Level: A1
   Form: schreibt, schrieb, hat geschrieben
-  Usage: an `A`; an `D`; von `D`; über `A`
+  Usage: 'an `A`: to'
   Meaning: to write
   Cambridge: to write; to write (to); to get; to be spelled
   Wiki: to write, to write out; to spell; to write; to write; to be some year or date; to write, to text; to write to each other; to be spelled/spelt;
@@ -22134,7 +22149,7 @@
 - Id: schützen
   Level: B1
   Form: schützt, schützte, hat geschützt
-  Usage: vor `D`
+  Usage: 'vor `D`: from, against'
   Meaning: to protect
   Cambridge: to protect
   Wiki: to defend; to protect; to shelter; to guard; to cover; to protect oneself
@@ -23037,12 +23052,14 @@
 - Id: sorgen
   Level: B1
   Form: sorgt, sorgte, hat gesorgt
-  Usage: für `A`; um `A`
-  Meaning: to worry, to care for
+  Usage: 'für `A`: about, of; sich um `A`'
+  Meaning: to worry, to care
   Wiki: to take care of, to care for, to look after; to bring, ensure, make for; to worry, be worried
   Examples:
     - Wer sorgt denn für die Kinder?
     - Können Sie bitte dafür sorgen, dass die Heizung funktioniert?
+    - Ich sorge mich sehr um die Gesundheit meiner
+      Großmutter.
 
 - Id: die Sorge
   Level: B1
@@ -23288,7 +23305,7 @@
 - Id: spielen
   Level: A1
   Form: spielt, spielte, hat gespielt
-  Usage: mit `D`; um `A`
+  Usage: 'mit `D`: with; um `A`: for'
   Meaning: to play
   Cambridge: to play; to gamble; to play, to act; to perform; to be set; to be on/playing
   Wiki: to play; to play, to engage in (a game, a sport, etc.); to play, to perform (a piece of music, a role in theater or a movie); to play, to listen to (a radio, a recording, etc.); to play, to perform on (a musical instrument); to act like, to behave like; to take place , to be set (in a particular time or place; of fiction)
@@ -23300,6 +23317,10 @@
     - Wir haben einen großen Garten, da können die Kinder spielen.
     - Am Sonntag spielen wir gegen die Fußballmannschaft der Nachbarschule.
     - Spielen Sie ein Instrument?
+    - Willst du mit mir spielen?
+    - Ich will mit dir spielen.
+    - Wir spielen nicht um Geld.
+    - Das Team spielt um den dritten Platz.
 
 - Id: das Spiel
   Level: A2
@@ -23450,7 +23471,7 @@
 - Id: sprechen
   Level: A1
   Form: spricht, sprach, hat gesprochen
-  Usage: für `A`; gegen `A`; mit `D`; von `D`; über `A`
+  Usage: 'für `A`; gegen `A`; mit jmdm. über Akk.: to talk to sb. about sth.; von `D`'
   Meaning: to speak, talk
   Cambridge: to speak; to talk; to say, to pronounce; to point (to)
   Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
@@ -23776,13 +23797,15 @@
 - Id: steigen
   Level: B1
   Form: steigt, stieg, ist gestiegen
-  Usage: auf `A`
+  Usage: 'auf `A`: to rise to'
   Meaning: to rise, climb
   Cambridge: to climb; to lift, to rise; to get in/on/out/off; to rise, to increase; to stand; to put on, to take off; to happen
   Wiki: to ascend, to climb, to rise; to rise (in value, of commodities etc.); to enter, to step (into a large vehicle); to rear up
   Examples:
     - Die Preise für Milch und Gemüse sind schon wieder gestiegen.
     - Gegen Abend ist das Fieber wieder gestiegen.
+    - Die Temperaturen sollen morgen auf einen neuen
+      Rekordwert steigen.
 
 - Id: steil
   Level: B1
@@ -23840,12 +23863,16 @@
 - Id: sterben
   Level: A2
   Form: stirbt, starb, ist gestorben
-  Usage: an `D`
+  Usage: 'an `D`: to die of'
   Meaning: to die
   Cambridge: to die
   Wiki: to die; to die a (particular kind of) death
   Examples:
     - Herr Müller kommt heute nicht. Sein Vater ist gestern gestorben.
+    - Woran ist er gestorben?
+    - In den letzten Monaten sind viele alte Menschen an
+      Grippe gestorben.
+    - Er ist an einem Herzinfarkt gestorben.
 
 - Id: gestorben
   Level: A1
