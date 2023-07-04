@@ -3754,7 +3754,7 @@
 - Id: sich beschweren
   Level: A2
   Form: beschwert, beschwerte, hat beschwert
-  Usage: 'sich bei jmdm. über Akk.: to someone about something'
+  Usage: 'sich bei jmdm. über Akk.: to complain to someone about something'
   Meaning: to complain
   Cambridge: to complain; to weigh down
   Wiki: to weight, to weight down; to complain
@@ -4123,7 +4123,7 @@
 - Id: sich bewerben
   Level: A2
   Form: bewirbt sich, bewarb sich, hat sich beworben
-  Usage: 'sich bei jmdm. um Akk.: to apply to someone for something'
+  Usage: 'sich bei jmdm. um Akk.: to apply to sb. for sth.; auf Akk.: to apply for a specific position'
   Meaning: to apply
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
@@ -4338,7 +4338,7 @@
 - Id: bitten
   Level: A1
   Form: bittet, bat, hat gebeten
-  Usage: 'jmdn. um Akk.: to request someone for something'
+  Usage: 'jmdn. um Akk.: to request from sb. for sth.'
   Meaning: to request
   Cambridge: to ask
   Wiki: to ask, to beg, to plead, to request (help, understanding, etc.)
@@ -5616,7 +5616,7 @@
 - Id: denken
   Level: A2
   Form: denkt, dachte, hat gedacht
-  Usage: an Akk.
+  Usage: 'an Akk.: of, about'
   Meaning: to think
   Cambridge: to think
   Wiki: to think; not to forget; to remember (to bring along, etc.); to imagine; to think, to believe, to assume, to conjecture
@@ -5629,6 +5629,11 @@
     - Denk bitte daran, die Heizung auszumachen.
     - Es ist mir ganz egal, was die Leute von mir denken.
     - Ich hatte mir gedacht, dass wir zusammen fahren könnten.
+    - Woran denkst du gerade?
+    - An wen denkst du?
+    - Denk bitte an das Buch!
+    - Denk bitte daran, die Blumen zu gießen!
+    - Denkt ihr an den Geburtstag von Oma?
 
 - Id: der Gedanke
   Level: B1
@@ -5880,12 +5885,19 @@
 - Id: diskutieren
   Level: A2
   Form: diskutiert, diskutierte, hat diskutiert
-  Usage: mit Dat.; über Akk.
+  Usage: 'mit jmdm. über Akk.: to discuss with sb. about sth.'
   Meaning: to discuss
   Cambridge: to discuss
   Wiki: to discuss
   Examples:
     - Wir haben lange diskutiert, wie wir das Büro einrichten sollen.
+    - Wir haben stundenlang mit ihnen diskutiert, aber wir
+      sind zu keinem Ergebnis gekommen.
+    - Ich habe keine Lust mehr, über dieses Thema zu
+      diskutieren.
+    - Wir haben stundenlang darüber diskutiert, wer für
+      welche Aufgabe zuständig ist.
+    - Die Politiker diskutieren über eine Reform.
 
 - Id: die Diskussion
   Level: B1
@@ -6842,13 +6854,17 @@
 - Id: einladen
   Level: A1
   Form: lädt ein, lud ein, hat eingeladen
-  Usage: auf Akk.; zu Dat.
+  Usage: 'jmdn. auf Akk.: to sth. short; jmdn. zu Dat.'
   Meaning: to invite
   Cambridge: to invite; to load in(to)
   Wiki: to invite; to treat; to load (something into a container)
   Examples:
     - Darf ich Sie zu einem Kaffee einladen?
     - Darf ich Sie zum Essen einladen?
+    - Ich würde dich gern auf einen Kaffee einladen.
+    - Sie hat mich auf ihre Geburtstagsfeier eingeladen.
+    - Sie haben mich zum Essen eingeladen.
+    - Darf ich Sie zu einer Tasse Kaffee einladen?
 
 - Id: die Einladung
   Level: A1
@@ -7397,13 +7413,19 @@
 - Id: entscheiden
   Level: B1
   Form: entscheidet, entschied, hat entschieden
-  Usage: für Akk.; gegen Akk.
-  Meaning: to decide
+  Usage: 'sich für Akk.: in favor of; sich gegen Akk.: against'
+  Meaning: to decide, to choose
   Cambridge: to decide
   Wiki: to decide, to make a decision; to choose ( + accusative); to decide, to determine the outcome of
   Examples:
     - Das kann ich nicht allein entscheiden, da muss ich erst fragen.
     - Für welchen Anzug haben Sie sich entschieden?
+    - Ich habe mich für dieses Arbeitsangebot entschieden.
+      Wofür hast du dich entschieden?
+    - Ich habe mich gegen einen Wohnungswechsel
+      entschieden.
+    - Ich habe mich dagegen entschieden, an diesem Seminar
+      teilzunehmen.
 
 - Id: die Entscheidung
   Level: B1
@@ -7448,7 +7470,7 @@
 - Id: entschuldigen
   Level: A1
   Form: entschuldigt, entschuldigte, hat entschuldigt
-  Usage: für Akk.
+  Usage: 'sich bei jmdm. für Akk.: to sb. for sth.'
   Meaning: to apologise
   Cambridge: to excuse; to excuse on the grounds of, to put down to
   Wiki: to excuse; to excuse/forgive something; to apologize, to apologise
@@ -7456,6 +7478,12 @@
     - Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.
     - Ich möchte mich bei dir entschuldigen.
     - Herr Meier lässt sich entschuldigen, er ist stark erkältet.
+    - Ich entschuldige mich für meine Verspätung.
+    - Ich habe mich dafür entschuldigt, dass ich zu spät
+      gekommen bin.
+    - Ich möchte mich für meinen Fehler entschuldigen.
+    - Ich verlange, dass du dich bei mir
+      entschuldigst.
 
 - Id: die Entschuldigung
   Level: A1
@@ -7759,8 +7787,8 @@
 - Id: erinnern
   Level: A2
   Form: erinnert, erinnerte, hat erinnert
-  Usage: an Akk.
-  Meaning: to remember
+  Usage: 'sich an Akk.: to remember sth.'
+  Meaning: to remember; to remind
   Cambridge: to remember; to remind
   Wiki: to remind; to remember, to be reminded of; to remember, to commemorate
   Examples:
@@ -8099,7 +8127,7 @@
 - Id: erzählen
   Level: A1
   Form: erzählt, erzählte, hat erzählt
-  Usage: von Dat.
+  Usage: 'jmdm. Akk.; jmdm. von Dat.: to tell sb. of sth.; jmdm. über Akk.: about'
   Meaning: to tell
   Cambridge: to tell, to narrate; to recount, to relate
   Wiki: to tell, to narrate, to recount (for example a story, to someone); to tell, to say (that something occurred); to talk a lot; to tell nonsense; to gabble
@@ -8108,6 +8136,11 @@
     - Erzählst du mir eine Geschichte?
     - Mein Mann hat mir schon viel von Ihnen erzählt.
     - Ich muss meinen Kindern abends immer eine Geschichte erzählen.
+    - Mein Opa hat mir oft von seiner Kindheit erzählt.
+    - Woher weißt du das? Wer hat dir davon erzählt?
+    - Warum hat er von seiner Situation
+      nichts erzählt?
+    - Erzähl mir etwas über dich!
 
 - Id: die Erzählung
   Level: B1
@@ -9502,7 +9535,7 @@
 - Id: fragen
   Level: A1
   Form: fragt, fragte, hat gefragt
-  Usage: nach Dat.
+  Usage: 'nach Dat.: for'
   Meaning: to ask
   Cambridge: to ask; to wonder
   Wiki: to ask (someone something); to ask for, to ask after; to wonder (literally, to ask (oneself))
@@ -9513,6 +9546,10 @@
     - Darf ich Sie etwas fragen?
     - Hat jemand nach mir gefragt?
     - Ich frage mich, ob das richtig war.
+    - Wir mussten nach der Adresse fragen.
+    - Sie hat nach dir gefragt und wollte wissen, wie es dir
+      geht.
+    - Wir mussten nach dem Weg fragen.
 
 - Id: die Frage
   Level: A1
@@ -9619,7 +9656,7 @@
 - Id: sich freuen
   Level: A1
   Form: freut sich, freute sich, hat sich gefreut
-  Usage: 'über Akk.: for past; auf Akk.: for future'
+  Usage: 'über Akk.: about sth. happened; auf Akk.: about sth. to happen'
   Meaning: to be glad; to look forward
   Cambridge: to be happy/glad (about), to be pleased (with)
   Wiki: to gladden, to make glad, to make pleased; to be glad, to be pleased; to look forward
@@ -10491,14 +10528,18 @@
 - Id: gehören
   Level: A1
   Form: gehört, gehörte, hat gehört
-  Usage: zu Dat.
-  Meaning: to belong to
+  Usage: 'Dat.: to belong to; zu Dat.: to be part of, to be member of'
+  Meaning: to belong; to be part (of)
   Cambridge: to belong to; to be among / one of; to go; to take, to require; to be proper/becoming
   Wiki: to belong to, be the property of; to be a prerequisite for; to be a characteristic of; to belong to, be a part of; to be proper; ought to be
   Examples:
     - Wem gehört das?
     - Gehört der Stift dir?
     - Gehört Ihnen das Haus?
+    - Österreich gehört zur Europäischen Union.
+    - Sie gehören zu unserer Gruppe.
+    - Zu einem guten Frühstück gehört für mich ein leckeres
+      Frühstücksei.
 
 - Id: der Gehsteig
   Level: B1
@@ -11033,12 +11074,20 @@
 - Id: gewöhnen
   Level: B1
   Form: gewöhnt, gewöhnte, hat gewöhnt
-  Usage: an Akk.
+  Usage: sich an Akk.
   Meaning: to accustom, get used to
   Wiki: to get used to; to accustom oneself to; to adapt to
   Examples:
     - Wir haben uns an das Leben hier gewöhnt.
     - Ich bin daran gewöhnt, früh aufzustehen.
+    - Du musst dich an diese Situation gewöhnen.
+    - Wir müssen uns an den neuen Lehrer gewöhnen.
+    - Ich habe mich so an euch gewöhnt, dass ich euch jetzt,
+      wo ihr nicht mehr hier seid, sehr vermisse.
+    - Ich habe mich daran gewöhnt, jeden Morgen gut zu
+      frühstücken.
+    - Mit der Zeit habe ich mich daran gewöhnt.
+    - Wir haben uns aneinander gewöhnt.
 
 - Id: die Gewohnheit
   Level: B1
@@ -11316,13 +11365,15 @@
 - Id: gratulieren
   Level: A1
   Form: gratuliert, gratulierte, hat gratuliert
-  Usage: zu Dat.
+  Usage: 'jmdm. zu Dat.: to sb. about sth.'
   Meaning: to congratulate
   Cambridge: to congratulate
   Wiki: to congratulate
   Examples:
     - Ich gratuliere dir!
     - Ich gratuliere euch zur Geburt eurer Tochter.
+    - Hast du Maria zu ihrem Geburtstag gratuliert?
+    - Ich gratuliere dir zu deinem Examen!
 
 - Id: die Gratulation
   Level: B1
@@ -12936,7 +12987,7 @@
 - Id: informieren
   Level: A2
   Form: informiert, informierte, hat informiert
-  Usage: bei Dat.; über Akk.
+  Usage: 'sich bei jmdm.: by; jmdn./sich über Akk.: about'
   Meaning: to inform
   Cambridge: to inform
   Wiki: to inform, to update; to read up on, to find out, to research, to look into, to inform oneself
@@ -12944,6 +12995,15 @@
     - Ich möchte mich vor der Reise über das Land informieren.
     - Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.
     - Du musst dich vor der Reise genau über die Bedingungen informieren.
+    - Ich möchte mich über den Deutschkurs informieren.
+    - Vor der Reise habe ich mich gut über die Stadt
+      informiert.
+    - Wir sind über den Unfall informiert.
+    - Ich würde gern wissen, bei wem ich mich informieren
+      kann.
+    - Informieren Sie sich am besten bei Ihrem Lehrer.
+    - Der Vater hat sich bei der Schule
+      informiert.
 
 - Id: die Information
   Level: A1
@@ -13121,7 +13181,7 @@
 - Id: interessieren
   Level: A2
   Form: interessiert, interessierte, hat interessiert
-  Usage: sich für Akk.
+  Usage: 'sich für Akk.: to have interest in'
   Meaning: to have interest
   Wiki: to interest; to be interested in
   Examples:
@@ -15300,7 +15360,7 @@
 - Id: lachen
   Level: A1
   Form: lacht, lachte, hat gelacht
-  Usage: über Akk.
+  Usage: 'über Akk.: about'
   Meaning: to laugh
   Cambridge: to laugh
   Wiki: to laugh
@@ -17757,8 +17817,8 @@
 - Id: nachdenken
   Level: B1
   Form: denkt nach, dachte nach, hat nachgedacht
-  Usage: über Akk.
-  Meaning: to think about, reflect
+  Usage: 'über Akk.: about, on'
+  Meaning: to think, reflect
   Cambridge: to think
   Wiki: to think, to reflect, to ponder
   Examples:
@@ -20284,7 +20344,7 @@
 - Id: reden
   Level: A2
   Form: redet, redete, hat geredet
-  Usage: mit Dat.; von Dat.; über Akk.
+  Usage: 'mit jmdm.: with sb.; von Dat.: about (more general); über Akk.: about (more specific)'
   Meaning: to talk, speak
   Cambridge: to talk, to speak; to talk; to speak; to talk yourself
   Wiki: to talk, to speak, to orate; to talk, to reveal (something secret); to say (something), to speak (in a language, etc.)
@@ -24937,13 +24997,16 @@
 - Id: teilnehmen
   Level: A2
   Form: nimmt teil, nahm teil, hat teilgenommen
-  Usage: an Dat.
+  Usage: 'an Dat.: in'
   Meaning: to take part
   Cambridge: to take part, to participate, to attend; to share
   Wiki: to participate
   Examples:
     - Ich möchte an dem Tanzkurs teilnehmen.
     - Leider konnte ich an dem Kurs nicht regelmäßig teilnehmen.
+    - Lena nimmt an dem Wettbewerb teil.
+    - Am Deutschkurs nehmen 16 Personen teil.
+    - An dem Ausflug haben etwa 20 Leute teilgenommen.
 
 - Id: die Teilnahme
   Level: B1
@@ -24969,6 +25032,7 @@
 - Id: telefonieren
   Level: A1
   Form: telefoniert, telefonierte, hat telefoniert
+  Usage: 'mit jmdm.: with'
   Meaning: to telephone
   Cambridge: to (tele)phone, to be on the (tele)phone
   Wiki: to telephone
@@ -24976,6 +25040,8 @@
     - Darf ich mal telefonieren?
     - Ich muss kurz telefonieren.
     - Mein Mann telefoniert gerade. Können Sie später noch einmal anrufen?
+    - Chrissy telefoniert mit ihrer besten
+      Freundin.
 
 - Id: das Telefon
   Level: A1
@@ -25516,13 +25582,19 @@
 - Id: träumen
   Level: A2
   Form: träumt, träumte, hat geträumt
-  Usage: von Dat.
+  Usage: 'von Dat.: about'
   Meaning: to dream
   Cambridge: to dream; to daydream
   Wiki: to dream
   Examples:
     - Ich habe schlecht geträumt.
     - Ich träume von einem großen Haus mit Garten.
+    - Viele träumen von einem Haus mit Garten.
+    - Wovon hast du letzte Nacht geträumt?
+    - Ich habe von dir geträumt.
+    - Ich träume von einem besseren Leben.
+    - Ich träume davon, im Lotto zu gewinnen und eine lange
+      Reise zu machen.
 
 - Id: der Traum
   Level: A2
@@ -25555,7 +25627,7 @@
 - Id: treffen
   Level: A1
   Form: trifft, traf, hat getroffen
-  Usage: mit Dat.
+  Usage: 'Akk.; sich mit Dat.'
   Meaning: to meet
   Cambridge: to hit; to meet; to hit on; to hurt; to make, to take
   Wiki: to meet; to encounter; to hit; to strike; to affect; to concern; to hit the mark, to suit, to be convenient or fortunate; to cause the action implied by an abstract noun to take place, thus making the sentence passive or less direct; to effect the action
@@ -26517,7 +26589,7 @@
 - Id: (sich) unterhalten
   Level: A2
   Form: unterhält, unterhielt, hat unterhalten
-  Usage: 'mit Dat.: with; über Akk.: about'
+  Usage: 'mit jmdm. über Akk.: to converse with sb. about sth.'
   Meaning: to converse; to amuse oneself
   Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
   Wiki: to maintain; to entertain; to converse
@@ -27234,12 +27306,18 @@
 - Id: verlassen
   Level: B1
   Form: verlässt, verließ, hat verlassen
-  Usage: auf Akk.
-  Meaning: to abandon
+  Usage: 'sich auf Akk.: to rely on'
+  Meaning: to leave; to rely
   Cambridge: to leave; deserted; lonely
   Wiki: to leave, to abandon; to depart, to forsake; to leave, to desert, to dump; to pass away; to cease; to die; to exit or close a computer program or app; to trust; to rely on; lonely, forsaken; abandoned, deserted; forlornly
   Examples:
-    - example1
+    - Ich habe die Party um 3 Uhr verlassen.
+    - Du kannst dich auf mich verlassen. Ich
+      helfe dir auf jeden Fall.
+    - Du kannst dich auf mich verlassen.
+    - Du kannst dich darauf verlassen, dass ich dir helfe.
+    - Auf meine Freundin kann ich mich
+      immer verlassen.
 
 - Id: sich verlaufen
   Level: B1
@@ -27996,11 +28074,19 @@
 - Id: (sich) vorbereiten
   Level: B1
   Form: bereitet vor, bereitete vor, hat vorbereitet
+  Usage: 'sich auf Akk.: for'
   Meaning: to prepare
   Cambridge: to prepare, to get ready; to prepare, to fix, to get ready
   Wiki: to prepare; to prepare, to get ready ( for)
   Examples:
-    - example1
+    - Am Sonntag machen wir ein kleines
+      Fest. Ich muss noch viel dafür vorbereiten.
+    - Ich muss mich auf meine Prüfung vorbereiten.
+    - Morgen mache ich eine Party. Ich muss noch viel
+      dafür vorbereiten.
+    - Ich muss mich auf meine Prüfung vorbereiten.
+    - Hast du dich auf deine Prüfung gut
+      vorbereitet?
 
 - Id: die Vorbereitung
   Level: B1
@@ -28417,12 +28503,22 @@
 - Id: warten
   Level: A1
   Form: wartet, wartete, hat gewartet
-  Usage: auf Akk.
+  Usage: 'Akk. (Zeit) auf Akk.: to wait for sth. for some time'
   Meaning: to wait
   Cambridge: to wait; to service
   Wiki: to wait (for); to maintain (chiefly a machine, e.g. a car or heating)
   Examples:
-    - example1
+    - Können Sie ein paar Minuten warten?
+    - Ich warte seit einer Stunde auf den
+      Bus.
+    - Können Sie ein paar Minuten warten?
+    - Auf wen warten Sie?
+    - Worauf wartest du?
+    - Ich warte auf den Bus.
+    - Auf wen wartest du?
+    - Ich warte auf dich.
+    - Ich musste eine Stunde auf meinen
+      Bruder warten.
 
 - Id: warum
   Level: A1
@@ -33298,3 +33394,5 @@
   Examples:
     - Siehst du mir heute beim Training zu?
     - Die Eltern sehen ihrem Sohn beim Fußballspielen zu.
+
+- Id: engagieren
