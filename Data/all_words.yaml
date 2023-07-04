@@ -23782,7 +23782,7 @@
   Level: B1
   Form: steigt, stieg, ist gestiegen
   Usage: 'auf `A`: to rise to'
-  Meaning: to rise, climb
+  Meaning: to rise, climb, step, enter
   Cambridge: to climb; to lift, to rise; to get in/on/out/off; to rise, to increase; to stand; to put on, to take off; to happen
   Wiki: to ascend, to climb, to rise; to rise (in value, of commodities etc.); to enter, to step (into a large vehicle); to rear up
   Examples:
@@ -23851,6 +23851,10 @@
   Cambridge: to die
   Wiki: to die; to die a (particular kind of) death
   Examples:
+    - Woran ist er gestorben?
+    - In den letzten Monaten sind viele alte Menschen an
+      Grippe gestorben.
+    - Er ist an einem Herzinfarkt gestorben.
     - Herr Müller kommt heute nicht. Sein Vater ist gestern gestorben.
     - Woran ist er gestorben?
     - In den letzten Monaten sind viele alte Menschen an Grippe gestorben.
@@ -23978,6 +23982,18 @@
   Examples:
     - Meine Adresse stimmt nicht mehr.
     - Das Wetter in Deutschland könnte besser sein. - Das stimmt.
+    - Niemand hat für den Kandidaten
+      gestimmt.
+    - Überraschend viele Parteimitglieder haben bei der
+      Abstimmung für den Gegenkandidaten gestimmt.
+    - Für wen hast du gestimmt? Doch nicht etwas für diesen
+      Kandidaten!
+    - Da wir uns nicht auf ein Urlaubsziel einigen konnten,
+      haben wir abgestimmt. Ich habe dafür gestimmt, unseren
+      Urlaub dieses Jahr in Südfrankreich zu verbringen.
+    - Die Mehrheit stimmte gegen die Einführung einer
+      Geschwindigkeitsbegrenzung auf Autobahnen.
+    - 13 Personen haben dafür und 7 dagegen gestimmt.
 
 - Id: die Stimmung
   Level: B1
@@ -24057,7 +24073,7 @@
 - Id: stören
   Level: A2
   Form: stört, störte, hat gestört
-  Usage: bei `D`
+  Usage: 'jmdn. bei Dat.: to disturb sb. doing sth.'
   Meaning: to disturb
   Cambridge: to disturb; to bother, to disturb; to disrupt
   Wiki: to disturb, to interfere, to bother
@@ -24067,6 +24083,10 @@
     - Störe ich?
     - Darf ich Sie kurz stören?
     - Mach die Musik leiser! Sie stört mich.
+    - Bitte stör mich nicht bei dem Telefonat.
+    - Entschuldigung, aber Sie stören mich beim Lernen.
+    - Ich habe versucht, meine Aufgaben zu erledigen, aber ich
+      wurde mehrmals dabei gestört.
 
 - Id: die Störung
   Level: B1
@@ -24175,7 +24195,7 @@
 - Id: (sich) streiten
   Level: A2
   Form: streitet, stritt, hat gestritten
-  Usage: 'mit `D`: with; um `A`: about'
+  Usage: 'mit jmdm. um Akk.: to argue with sb. about sth.'
   Meaning: to argue
   Cambridge: to argue, to quarrel
   Wiki: to argue; to fight; to quarrel
@@ -24390,8 +24410,8 @@
 - Id: suchen
   Level: A1
   Form: sucht, suchte, hat gesucht
-  Usage: nach `D`
-  Meaning: to search for, look for
+  Usage: Akk. = nach Dat.
+  Meaning: to search, to look for
   Cambridge: to look/search (for); to look for, to want; to look/search for; to seek, to try
   Wiki: to search, to look for; to seek, strive, intend, try
   Examples:
@@ -24400,6 +24420,12 @@
     - Ich suche meine Brille.
     - Wir suchen eine größere Wohnung.
     - Wen suchen Sie?
+    - Ich habe lange nach diesem Buch gesucht und jetzt habe
+      ich es endlich gefunden.
+    - Die Bergretter haben vergeblich nach dem vermissten
+      Wanderer gesucht.
+    - Die Ermittler suchen nach der Ursache für das Unglück.
+    - Alle suchen nach dem großen Glück.
 
 - Id: die Sucht
   Level: B1
