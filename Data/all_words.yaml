@@ -5891,12 +5891,9 @@
   Wiki: to discuss
   Examples:
     - Wir haben lange diskutiert, wie wir das Büro einrichten sollen.
-    - Wir haben stundenlang mit ihnen diskutiert, aber wir
-      sind zu keinem Ergebnis gekommen.
-    - Ich habe keine Lust mehr, über dieses Thema zu
-      diskutieren.
-    - Wir haben stundenlang darüber diskutiert, wer für
-      welche Aufgabe zuständig ist.
+    - Wir haben stundenlang mit ihnen diskutiert, aber wir sind zu keinem Ergebnis gekommen.
+    - Ich habe keine Lust mehr, über dieses Thema zu diskutieren.
+    - Wir haben stundenlang darüber diskutiert, wer für welche Aufgabe zuständig ist.
     - Die Politiker diskutieren über eine Reform.
 
 - Id: die Diskussion
@@ -7420,12 +7417,9 @@
   Examples:
     - Das kann ich nicht allein entscheiden, da muss ich erst fragen.
     - Für welchen Anzug haben Sie sich entschieden?
-    - Ich habe mich für dieses Arbeitsangebot entschieden.
-      Wofür hast du dich entschieden?
-    - Ich habe mich gegen einen Wohnungswechsel
-      entschieden.
-    - Ich habe mich dagegen entschieden, an diesem Seminar
-      teilzunehmen.
+    - Ich habe mich für dieses Arbeitsangebot entschieden. Wofür hast du dich entschieden?
+    - Ich habe mich gegen einen Wohnungswechsel entschieden.
+    - Ich habe mich dagegen entschieden, an diesem Seminar teilzunehmen.
 
 - Id: die Entscheidung
   Level: B1
@@ -7479,11 +7473,9 @@
     - Ich möchte mich bei dir entschuldigen.
     - Herr Meier lässt sich entschuldigen, er ist stark erkältet.
     - Ich entschuldige mich für meine Verspätung.
-    - Ich habe mich dafür entschuldigt, dass ich zu spät
-      gekommen bin.
+    - Ich habe mich dafür entschuldigt, dass ich zu spät gekommen bin.
     - Ich möchte mich für meinen Fehler entschuldigen.
-    - Ich verlange, dass du dich bei mir
-      entschuldigst.
+    - Ich verlange, dass du dich bei mir entschuldigst.
 
 - Id: die Entschuldigung
   Level: A1
@@ -8138,8 +8130,7 @@
     - Ich muss meinen Kindern abends immer eine Geschichte erzählen.
     - Mein Opa hat mir oft von seiner Kindheit erzählt.
     - Woher weißt du das? Wer hat dir davon erzählt?
-    - Warum hat er von seiner Situation
-      nichts erzählt?
+    - Warum hat er von seiner Situation nichts erzählt?
     - Erzähl mir etwas über dich!
 
 - Id: die Erzählung
@@ -9547,8 +9538,7 @@
     - Hat jemand nach mir gefragt?
     - Ich frage mich, ob das richtig war.
     - Wir mussten nach der Adresse fragen.
-    - Sie hat nach dir gefragt und wollte wissen, wie es dir
-      geht.
+    - Sie hat nach dir gefragt und wollte wissen, wie es dir geht.
     - Wir mussten nach dem Weg fragen.
 
 - Id: die Frage
@@ -10538,8 +10528,7 @@
     - Gehört Ihnen das Haus?
     - Österreich gehört zur Europäischen Union.
     - Sie gehören zu unserer Gruppe.
-    - Zu einem guten Frühstück gehört für mich ein leckeres
-      Frühstücksei.
+    - Zu einem guten Frühstück gehört für mich ein leckeres Frühstücksei.
 
 - Id: der Gehsteig
   Level: B1
@@ -11082,10 +11071,8 @@
     - Ich bin daran gewöhnt, früh aufzustehen.
     - Du musst dich an diese Situation gewöhnen.
     - Wir müssen uns an den neuen Lehrer gewöhnen.
-    - Ich habe mich so an euch gewöhnt, dass ich euch jetzt,
-      wo ihr nicht mehr hier seid, sehr vermisse.
-    - Ich habe mich daran gewöhnt, jeden Morgen gut zu
-      frühstücken.
+    - Ich habe mich so an euch gewöhnt, dass ich euch jetzt, wo ihr nicht mehr hier seid, sehr vermisse.
+    - Ich habe mich daran gewöhnt, jeden Morgen gut zu frühstücken.
     - Mit der Zeit habe ich mich daran gewöhnt.
     - Wir haben uns aneinander gewöhnt.
 
@@ -12996,14 +12983,11 @@
     - Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.
     - Du musst dich vor der Reise genau über die Bedingungen informieren.
     - Ich möchte mich über den Deutschkurs informieren.
-    - Vor der Reise habe ich mich gut über die Stadt
-      informiert.
+    - Vor der Reise habe ich mich gut über die Stadt informiert.
     - Wir sind über den Unfall informiert.
-    - Ich würde gern wissen, bei wem ich mich informieren
-      kann.
+    - Ich würde gern wissen, bei wem ich mich informieren kann.
     - Informieren Sie sich am besten bei Ihrem Lehrer.
-    - Der Vater hat sich bei der Schule
-      informiert.
+    - Der Vater hat sich bei der Schule informiert.
 
 - Id: die Information
   Level: A1
@@ -25040,8 +25024,7 @@
     - Darf ich mal telefonieren?
     - Ich muss kurz telefonieren.
     - Mein Mann telefoniert gerade. Können Sie später noch einmal anrufen?
-    - Chrissy telefoniert mit ihrer besten
-      Freundin.
+    - Chrissy telefoniert mit ihrer besten Freundin.
 
 - Id: das Telefon
   Level: A1
@@ -25593,8 +25576,7 @@
     - Wovon hast du letzte Nacht geträumt?
     - Ich habe von dir geträumt.
     - Ich träume von einem besseren Leben.
-    - Ich träume davon, im Lotto zu gewinnen und eine lange
-      Reise zu machen.
+    - Ich träume davon, im Lotto zu gewinnen und eine lange Reise zu machen.
 
 - Id: der Traum
   Level: A2
@@ -25627,7 +25609,7 @@
 - Id: treffen
   Level: A1
   Form: trifft, traf, hat getroffen
-  Usage: 'Akk.; sich mit Dat.'
+  Usage: Akk.; sich mit Dat.
   Meaning: to meet
   Cambridge: to hit; to meet; to hit on; to hurt; to make, to take
   Wiki: to meet; to encounter; to hit; to strike; to affect; to concern; to hit the mark, to suit, to be convenient or fortunate; to cause the action implied by an abstract noun to take place, thus making the sentence passive or less direct; to effect the action
@@ -27312,12 +27294,10 @@
   Wiki: to leave, to abandon; to depart, to forsake; to leave, to desert, to dump; to pass away; to cease; to die; to exit or close a computer program or app; to trust; to rely on; lonely, forsaken; abandoned, deserted; forlornly
   Examples:
     - Ich habe die Party um 3 Uhr verlassen.
-    - Du kannst dich auf mich verlassen. Ich
-      helfe dir auf jeden Fall.
+    - Du kannst dich auf mich verlassen. Ich helfe dir auf jeden Fall.
     - Du kannst dich auf mich verlassen.
     - Du kannst dich darauf verlassen, dass ich dir helfe.
-    - Auf meine Freundin kann ich mich
-      immer verlassen.
+    - Auf meine Freundin kann ich mich immer verlassen.
 
 - Id: sich verlaufen
   Level: B1
@@ -28079,14 +28059,11 @@
   Cambridge: to prepare, to get ready; to prepare, to fix, to get ready
   Wiki: to prepare; to prepare, to get ready ( for)
   Examples:
-    - Am Sonntag machen wir ein kleines
-      Fest. Ich muss noch viel dafür vorbereiten.
+    - Am Sonntag machen wir ein kleines Fest. Ich muss noch viel dafür vorbereiten.
     - Ich muss mich auf meine Prüfung vorbereiten.
-    - Morgen mache ich eine Party. Ich muss noch viel
-      dafür vorbereiten.
+    - Morgen mache ich eine Party. Ich muss noch viel dafür vorbereiten.
     - Ich muss mich auf meine Prüfung vorbereiten.
-    - Hast du dich auf deine Prüfung gut
-      vorbereitet?
+    - Hast du dich auf deine Prüfung gut vorbereitet?
 
 - Id: die Vorbereitung
   Level: B1
@@ -28509,16 +28486,14 @@
   Wiki: to wait (for); to maintain (chiefly a machine, e.g. a car or heating)
   Examples:
     - Können Sie ein paar Minuten warten?
-    - Ich warte seit einer Stunde auf den
-      Bus.
+    - Ich warte seit einer Stunde auf den Bus.
     - Können Sie ein paar Minuten warten?
     - Auf wen warten Sie?
     - Worauf wartest du?
     - Ich warte auf den Bus.
     - Auf wen wartest du?
     - Ich warte auf dich.
-    - Ich musste eine Stunde auf meinen
-      Bruder warten.
+    - Ich musste eine Stunde auf meinen Bruder warten.
 
 - Id: warum
   Level: A1
@@ -33396,3 +33371,13 @@
     - Die Eltern sehen ihrem Sohn beim Fußballspielen zu.
 
 - Id: engagieren
+  Form: engagiert, engagierte, hat engagiert
+  Usage: 'sich für Akk.: in, to'
+  Meaning: to engage, to commit
+  Cambridge: to be committed (to), to champion, to be/get involved (in); to hire, to take on
+  Wiki: to engage; to get involved, to be involved
+  Examples:
+    - Wenn man ein Projekt gut findet, sollte man sich auch
+      dafür engagieren.
+    - Sie hat sich sehr dafür engagiert, dass dieses Fest auch in
+      diesem Jahr stattfinden kann.
