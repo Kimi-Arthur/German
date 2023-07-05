@@ -8919,11 +8919,12 @@
 - Id: feststehen
   Level: B1
   Form: steht fest, stand fest, hat festgestanden
-  Meaning: to be certain
+  Meaning: to be certain; not to be changed
   Cambridge: to be certain, to be clear
   Wiki: to stand firm
   Examples:
     - Der Termin steht seit Langem fest.
+    - Es steht fest, dass schwarze Löcher existieren.
 
 - Id: feststellen
   Level: B1
@@ -27834,7 +27835,7 @@
   Examples:
     - Das werde ich ihm nie verzeihen können.
 
-- Id: Verzeihung
+- Id: die Verzeihung
   Level: B1
   Form: (Sg.)
   Meaning: forgiveness, pardon
@@ -28250,7 +28251,7 @@
 - Id: der Vortrag
   Level: B1
   Form: ä-e
-  Meaning: talk, lecture
+  Meaning: talk, lecture (with a specific topic)
   Cambridge: talk; performance
   Wiki: talk, lecture
   Examples:
