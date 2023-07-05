@@ -3183,7 +3183,7 @@
   Level: A1
   Form: beginnt, begann, hat begonnen
   Usages:
-    - 'mit Dat.'
+    - mit Dat.
     - 'als Nom.: as'
   Meaning: to begin (b-)
   Cambridge: to start; to start, to begin
@@ -6898,7 +6898,7 @@
   Form: lädt ein, lud ein, hat eingeladen
   Usages:
     - 'jmdn. auf Akk.: to sth. short'
-    - 'jmdn. zu Dat.'
+    - jmdn. zu Dat.
   Meaning: to invite
   Cambridge: to invite; to load in(to)
   Wiki: to invite; to treat; to load (something into a container)
@@ -8186,7 +8186,7 @@
   Level: A1
   Form: erzählt, erzählte, hat erzählt
   Usages:
-    - 'jmdm. Akk.'
+    - jmdm. Akk.
     - 'jmdm. von Dat.: to tell sb. of sth.'
     - 'jmdm. über Akk.: about'
   Meaning: to tell
@@ -10037,7 +10037,7 @@
   Form: fürchtet, fürchtete, hat gefürchtet
   Usages:
     - 'vor Dat.: of'
-    - 'Akk.'
+    - Akk.
   Meaning: to be afraid; to fear
   Cambridge: to fear, to be afraid of
   Wiki: to fear; to be afraid (of)
@@ -23230,7 +23230,7 @@
   Form: sorgt, sorgte, hat gesorgt
   Usages:
     - 'für Akk.: about, of'
-    - 'sich um Akk.'
+    - sich um Akk.
   Meaning: to worry, to care
   Wiki: to take care of, to care for, to look after; to bring, ensure, make for; to worry, be worried
   Examples:
@@ -23651,10 +23651,10 @@
   Level: A1
   Form: spricht, sprach, hat gesprochen
   Usages:
-    - 'für Akk.'
-    - 'gegen Akk.'
+    - für Akk.
+    - gegen Akk.
     - 'mit jmdm. über Akk.: to talk to sb. about sth.'
-    - 'von Dat.'
+    - von Dat.
   Meaning: to speak, talk
   Cambridge: to speak; to talk; to say, to pronounce; to point (to)
   Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
@@ -27858,7 +27858,7 @@
   Level: A1
   Form: versteht, verstand, hat verstanden
   Usages:
-    - 'Akk.'
+    - Akk.
     - 'Akk. unter Dat.: to mean by'
     - 'von Dat.: about'
     - 'sich mit Dat.: to get along with'
@@ -34502,6 +34502,8 @@
   Level: B1
   Form: kauft, kaufte, hat gekauft
   Meaning: to buy
+  Cambridge: to buy; to buy off, to bribe
+  Wiki: to buy, to purchase; to buy, to purchase for someone
   Examples:
     - example1
 
@@ -34576,10 +34578,13 @@
 
 - Id: ander-
   Meaning: See anderer.
+  Wiki: See anderer.; the second
 
 - Id: Angabe
   Form: -nß
   Meaning: declaration, statement, information, representation
+  Cambridge: statement; bragging; serve
+  Wiki: indication, specification, declaration; statement, the provided information itself; service; (dated)
 
 - Id: ängstigen
   Form: ängstigt, ängstigte, hat geängstigt
@@ -34830,6 +34835,7 @@
   Level: B1
   Form: '-'
   Meaning: muesli, granola
+  Wiki: (Swiss)
   Examples:
     - example1
 
@@ -35100,6 +35106,7 @@
   Level: B1
   Form: -nen
   Meaning: teacher (female)
+  Wiki: teacher
   Examples:
     - example1
 
@@ -35121,6 +35128,7 @@
 - Id: die Süßigkeiten
   Level: A2
   Meaning: inflected form of
+  Wiki: inflected form of
   Examples:
     - Welche Süßigkeiten isst du am liebsten? - Schokolade und Eis.
 
@@ -35128,6 +35136,8 @@
   Level: B1
   Form: -n
   Meaning: the dead (pl.); dead woman (sing.)
+  Cambridge: dead person, dead man/woman
+  Wiki: ': female cadaver; female corpse'
   Examples:
     - example1
 
@@ -35135,6 +35145,8 @@
   Level: B1
   Form: '-'
   Meaning: drops
+  Cambridge: drop
+  Wiki: drop
   Examples:
     - example1
 
@@ -35409,6 +35421,8 @@
   Level: B1
   Form: -e
   Meaning: golf
+  Cambridge: gulf; VW Golf trademark; golf
+  Wiki: bay, gulf; golf; , the most popular car in Germany throughout the 1980s and 1990s
   Examples:
     - example1
 
@@ -35429,10 +35443,13 @@
   Level: B1
   Form: ¨-er
   Meaning: main
+  Cambridge: head
+  Wiki: head; head; leader; chief; chief; see
   Examples:
     - example1
 
 - Id: Hauptwerk
+  Form: -e
 
 - Id: herausfordern
   Form: fordert heraus, forderte heraus, hat herausgefordert
@@ -35453,6 +35470,8 @@
 - Id: herunter
   Level: B1
   Meaning: downwards, down
+  Cambridge: down(wards)
+  Wiki: down, downwards (to the own location downwards)
   Examples:
     - example1
 
@@ -35489,18 +35508,21 @@
 - Id: irgendwas
   Level: B1
   Meaning: something
+  Wiki: (chiefly, colloquial, but accepted in writing)
   Examples:
     - example1
 
 - Id: irgendwer
   Level: B1
   Meaning: somebody
+  Wiki: somebody; anybody
   Examples:
     - example1
 
 - Id: irgendwo
   Level: B1
   Meaning: somewhere
+  Wiki: somewhere; anywhere
   Examples:
     - example1
 
@@ -35545,6 +35567,7 @@
 - Id: kriminal-
   Level: B1
   Meaning: criminal
+  Wiki: criminal
   Examples:
     - example1
 
@@ -35577,6 +35600,8 @@
 - Id: manch-
   Level: B1
   Meaning: some
+  Cambridge: many (a), some
+  Wiki: many a; many; some
   Examples:
     - example1
 
@@ -35590,6 +35615,8 @@
 - Id: meist-
   Level: A1
   Meaning: most (adj.)
+  Cambridge: mostly, most of the time, for the most part
+  Wiki: ; most; mostly, most often, usually
   Examples:
     - example1
 
@@ -35606,6 +35633,8 @@
   Level: B1
   Form: misstraut, misstraute, hat misstraut
   Meaning: mistrust
+  Cambridge: to mistrust, to distrust, to be suspicious of
+  Wiki: to mistrust, to suspect, distrust, have doubts about
   Examples:
     - example1
 
@@ -35685,6 +35714,7 @@
 
 - Id: Prost
   Level: B1
+  Form: -e
   Meaning: cheers
   Examples:
     - example1
