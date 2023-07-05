@@ -33782,9 +33782,9 @@
 - Id: verstehen
   Form: versteht, verstand, hat verstanden
   Usages:
-    - mit `D`
-    - unter `D`
-    - von `D`
+    - mit Dat.
+    - unter Dat.
+    - von Dat.
   Meaning: to understand
   Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
   Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
@@ -34475,7 +34475,7 @@
 - Id: distanzieren
   Form: distanziert, distanzierte, hat distanziert
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to distance
   Cambridge: to distance yourself
   Wiki: to distance
@@ -34533,7 +34533,7 @@
 - Id: ablenken
   Form: lenkt ab, lenkte ab, hat abgelenkt
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to divert
   Cambridge: to deflect
   Wiki: to divert; to distract
@@ -34544,7 +34544,7 @@
 - Id: absehen
   Form: sieht ab, sah ab, hat abgesehen
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to foresee
   Cambridge: to foresee; to learn
   Wiki: to foresee; to overlook, to disregard, to refrain
@@ -34555,7 +34555,7 @@
 - Id: abwenden
   Form: wendet ab, wandte ab, hat abgewandt
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to avert, to turn to the side
   Cambridge: to turn away; to fend off
   Wiki: to avert, to turn to the side; to turn away; to ward off
@@ -34589,8 +34589,8 @@
 - Id: ängstigen
   Form: ängstigt, ängstigte, hat geängstigt
   Usages:
-    - um `A`
-    - vor `D`
+    - um Akk.
+    - vor Dat.
   Meaning: to alarm; to frighten
   Cambridge: to frighten
   Wiki: to alarm; to frighten; to be afraid; to be worried
@@ -34598,7 +34598,7 @@
 - Id: anhalten
   Form: hält an, hielt an, hat angehalten
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to stop (cease moving)
   Cambridge: to stop; to continue, to last
   Wiki: to stop (cease moving); to continue, to last; to stop, to hold, to keep from moving; to urge, to encourage, to compel (to do something); to hold tight, to hold on to something or someone; to ask for
@@ -34606,7 +34606,7 @@
 - Id: anpassen
   Form: passt an, passte an, hat angepasst
   Usages:
-    - an `A`
+    - an Akk.
   Meaning: to adapt, to adjust
   Cambridge: to adapt, to adjust; to fit
   Wiki: to adapt, to adjust; to adapt to, to adjust to
@@ -34614,7 +34614,7 @@
 - Id: anspielen
   Form: spielt an, spielte an, hat angespielt
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to insinuate, allude to
   Cambridge: to pass the ball to
   Wiki: to insinuate, allude to; to pass to; to play the first card
@@ -34622,7 +34622,7 @@
 - Id: antreten
   Form: tritt an, trat an, hat angetreten
   Usages:
-    - gegen `A`
+    - gegen Akk.
   Meaning: to arrive; to present oneself
   Cambridge: to start; to take up; to accept, to take possession of; to report; to line up
   Wiki: to arrive; to present oneself; to line up; to stand for a muster or report; to compete; to run; to begin (a duty or task, also a voyage); to take (office); to accept (an inheritance); to kick against (a device or machine) to start it; to kick start (a motorcycle); to tread down (soil)
@@ -34630,14 +34630,14 @@
 - Id: appellieren
   Form: appelliert, appellierte, hat appelliert
   Usages:
-    - an `A`
+    - an Akk.
   Meaning: to appeal
   Wiki: to appeal
 
 - Id: ärgern
   Form: ärgert, ärgerte, hat geärgert
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to annoy, to be annoyed
   Cambridge: to annoy, to make angry
   Wiki: to annoy, to make angry (+accusative); to be annoyed, to be angry, to get annoyed, to get angry
@@ -34645,7 +34645,7 @@
 - Id: aufrufen
   Form: ruft auf, rief auf, hat aufgerufen
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to call; to call for
   Cambridge: to call; to call on; to call up
   Wiki: to call; to call for; to call up
@@ -34653,7 +34653,7 @@
 - Id: ausbrechen
   Form: bricht aus, brach aus, hat ausgebrochen
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to break out
   Cambridge: to break out, to escape; to break out; to erupt; to break
   Wiki: to break out; to break out
@@ -34661,7 +34661,7 @@
 - Id: ausruhen
   Form: ruht aus, ruhte aus, hat ausgeruht
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to rest
   Cambridge: to (have a ) rest; to rest
   Wiki: to rest, to recover through rest and relaxation
@@ -34669,15 +34669,15 @@
 - Id: bedanken
   Form: bedankt sich, bedankte sich, hat sich bedankt
   Usages:
-    - bei `D`
-    - für `A`
+    - bei Dat.
+    - für Akk.
   Meaning: to thank
   Wiki: to be thankful, to express thanks.
 
 - Id: befassen
   Form: befasst, befasste, hat befasst
   Usages:
-    - mit `D`
+    - mit Dat.
   Meaning: to attend to, to deal with, to engage oneself in, to delve into
   Cambridge: to deal with, to concern yourself with
   Wiki: to attend to, to deal with, to engage oneself in, to delve into; to give someone the task to deal with something; to touch
@@ -34685,7 +34685,7 @@
 - Id: befreien
   Form: befreit, befreite, hat befreit
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to free , to liberate
   Cambridge: to free, to release; to liberate; to free; to free, to get rid of; to exempt
   Wiki: to free , to liberate; to escape
@@ -34693,7 +34693,7 @@
 - Id: begeistern
   Form: begeistert, begeisterte, hat begeistert
   Usages:
-    - für `A`
+    - für Akk.
   Meaning: to fill with enthusiasm, to enthuse, to thrill
   Cambridge: to be enthusiastic about; to delight
   Wiki: 'to fill with enthusiasm, to enthuse, to thrill; to be enthusiastic, to enthuse (about something: für + accusative)'
@@ -34701,7 +34701,7 @@
 - Id: begnügen
   Form: begnügt sich, begnügte sich, hat sich begnügt
   Usages:
-    - mit `D`
+    - mit Dat.
   Meaning: to be content or satisfied (with), to content oneself (with)
   Cambridge: to be content with, to settle for; to content yourself with
   Wiki: to be content or satisfied (with), to content oneself (with)
@@ -34709,15 +34709,15 @@
 - Id: beharren
   Form: beharrt, beharrte, hat beharrt
   Usages:
-    - auf `D`
+    - auf Dat.
   Meaning: to persevere, to insist ( on)
   Wiki: to persevere, to insist ( on)
 
 - Id: beklagen
   Form: beklagt, beklagte, hat beklagt
   Usages:
-    - bei `D`
-    - über `A`
+    - bei Dat.
+    - über Akk.
   Meaning: to pity, to lament
   Cambridge: to lament, to mourn; to complain about, to bemoan; to complain about
   Wiki: to pity, to lament; to complain
@@ -34725,14 +34725,14 @@
 - Id: belaufen
   Form: beläuft, belief, hat belaufen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to walk on
   Wiki: to walk on; to amount (to); to tot up; to account for; walked on
 
 - Id: bemühen
   Form: bemüht, bemühte, hat bemüht
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to make an effort
   Cambridge: to make an effort, to try hard
   Wiki: to make an effort; to trouble oneself
@@ -34740,7 +34740,7 @@
 - Id: beneiden
   Form: beneidet, beneidete, hat beneidet
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to envy
   Cambridge: to envy
   Wiki: to envy; to begrudge someone something
@@ -34748,7 +34748,7 @@
 - Id: berufen
   Form: beruft, berief, hat berufen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to refer to ; to invoke
   Cambridge: to appoint; to invoke, to refer (to)
   Wiki: to refer to ; to invoke; to appoint (to a high office); to jinx; to tempt fate by mentioning; to appeal; appointed; called
@@ -34756,7 +34756,7 @@
 - Id: beruhen
   Form: beruht, beruhte, hat beruht
   Usages:
-    - auf `D`
+    - auf Dat.
   Meaning: to consist
   Cambridge: to be based (on)
   Wiki: to consist; to depend; (with + dative) to be based (on)
@@ -34764,8 +34764,8 @@
 - Id: beschweren
   Form: beschwert, beschwerte, hat beschwert
   Usages:
-    - bei `D`
-    - über `A`
+    - bei Dat.
+    - über Akk.
   Meaning: to complain
   Cambridge: to complain; to weigh down
   Wiki: to weight, to weight down; to complain
@@ -34773,14 +34773,14 @@
 - Id: besinnen
   Form: besinnt sich, besann sich, hat sich besonnen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to reflect; to think
   Wiki: to reflect; to think; to remember
 
 - Id: bestimmen
   Form: bestimmt, bestimmte, hat bestimmt
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to determine
   Cambridge: to decide; to determine; to identify; to characterize
   Wiki: to determine
@@ -34788,14 +34788,14 @@
 - Id: beteiligen
   Form: beteiligt, beteiligte, hat beteiligt
   Usages:
-    - an `D`
+    - an Dat.
   Meaning: to take part, participate
   Wiki: to let someone take part in something; participate
 
 - Id: betteln
   Form: bettelt, bettelte, hat gebettelt
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to beg (alms), to panhandle
   Cambridge: to beg
   Wiki: to beg (alms), to panhandle
@@ -34803,7 +34803,7 @@
 - Id: beurteilen
   Form: beurteilt, beurteilte, hat beurteilt
   Usages:
-    - nach `D`
+    - nach Dat.
   Meaning: to form an opinion on, to judge
   Cambridge: to judge
   Wiki: to form an opinion on, to judge
@@ -34811,7 +34811,7 @@
 - Id: bewerben
   Form: bewirbt, bewarb, hat beworben
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to apply for
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
@@ -34819,7 +34819,7 @@
 - Id: beziehen
   Form: bezieht, bezog, hat bezogen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to refer, relate to
   Cambridge: to get, to receive; to move into; to cover
   Wiki: to refer, relate to; (Senses related to covering.); to put a sheet or cover on (a mattress, duvet etc.); to upholster (a piece of furniture); to become overcast; (Senses related to settling in a place.); to move into (a dwelling); to take up (a position); to take (a position, stand); (Senses related to obtaining.); to draw, receive (a regular payment such as a pension or benefit); to buy something regularly from the same provider; to have a subscription to/for
@@ -35165,8 +35165,8 @@
 - Id: drängen
   Form: drängt, drängte, hat gedrängt
   Usages:
-    - auf `A`
-    - zu `D`
+    - auf Akk.
+    - zu Dat.
   Meaning: to press, to push
   Cambridge: to push; to throng; to press
   Wiki: to press, to push
@@ -35174,7 +35174,7 @@
 - Id: duften
   Form: duftet, duftete, hat geduftet
   Usages:
-    - nach `D`
+    - nach Dat.
   Meaning: to smell very pleasantly
   Cambridge: to smell
   Wiki: to smell very pleasantly
@@ -35182,7 +35182,7 @@
 - Id: eignen
   Form: eignet, eignete, hat geeignet
   Usages:
-    - für `A`
+    - für Akk.
   Meaning: to be suitable
   Cambridge: to be suitable
   Wiki: to suit, to be apt; to be own to someone, to be characteristic
@@ -35190,7 +35190,7 @@
 - Id: eingehen
   Form: geht ein, ging ein, ist eingegangen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to enter; to go inside
   Cambridge: to take, to enter into; to be received; to die; to shrink
   Wiki: to enter; to go inside; to arrive; to contract, to shrivel; to shrink in the wash; to die; to discuss; to treat; to elaborate on; to respond to; to take (a question); to contract; to conclude (an agreement)
@@ -35217,8 +35217,8 @@
 - Id: einigen
   Form: einigt, einigte, hat geeinigt
   Usages:
-    - auf `A`
-    - mit `D`
+    - auf Akk.
+    - mit Dat.
   Meaning: to agree on something
   Cambridge: to agree; to unify
   Wiki: to unite or unify (for example a group of people); to agree, to reach an agreement
@@ -35226,7 +35226,7 @@
 - Id: einlassen
   Form: lässt ein, ließ ein, hat eingelassen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to let in; to admit; to grant entry
   Cambridge: to let in; to run; to run, to draw; to sink
   Wiki: to let in; to admit; to grant entry; to introduce; to cause to enter a room or fill a container, usually slowly; to draw a bath; to run a bath; to cause to be embedded in something; to recess; to inset; to get into; to become involved in (especially something risky); to become involved with somebody (usually one who is “bad company”, or for something risky or immoral); to testify; to declare; to state
@@ -35234,7 +35234,7 @@
 - Id: einwilligen
   Form: willigt ein, willigte ein, hat eingewilligt
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to consent (to), to agree (to)
   Cambridge: to agree, to consent
   Wiki: to consent (to), to agree (to)
@@ -35242,21 +35242,21 @@
 - Id: ekeln
   Form: ekelt, ekelte, hat geekelt
   Usages:
-    - vor `D`
+    - vor Dat.
   Meaning: to be disgusted
   Wiki: to be disgusted; to disgust
 
 - Id: entrüsten
   Form: entrüstet, entrüstete, hat entrüstet
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to be indignant
   Wiki: to be indignant; to enrage
 
 - Id: entschädigen
   Form: entschädigt, entschädigte, hat entschädigt
   Usages:
-    - für `A`
+    - für Akk.
   Meaning: to compensate, to indemnify
   Cambridge: to compensate, to reimburse
   Wiki: to compensate, to indemnify; the subject having suffered a damage; the damage; the measures causing a damage
@@ -35264,14 +35264,14 @@
 - Id: entschließen
   Form: entschließt, entschloss, hat entschlossen
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to decide
   Wiki: to decide
 
 - Id: erfreuen
   Form: erfreut, erfreute, hat erfreut
   Usages:
-    - an `D`
+    - an Dat.
   Meaning: to please; to make happy
   Cambridge: to please
   Wiki: to please; to make happy; to enjoy; to delight in
@@ -35279,7 +35279,7 @@
 - Id: ergeben
   Form: ergibt, ergab, hat ergeben
   Usages:
-    - aus `D`
+    - aus Dat.
   Meaning: to yield, produce
   Cambridge: to amount to, to be, to result in; to show, to reveal; to indicate, to mean; to present itself, to come along, to arise; to surrender, to capitulate; devoted, loyal; acquiescent, humble; devotedly; humbly
   Wiki: to yield, produce; to make sense; to surrender; to arise, result, turn out; to happen; loyal, devoted, humble, obedient
@@ -35287,7 +35287,7 @@
 - Id: erholen
   Form: ist erholt, war erholt, ist erholt gewesen
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to rest, relax, recover
   Cambridge: to relax, to get a rest; to recover, to recuperate
   Wiki: to relax, to recover, to recuperate
@@ -35295,7 +35295,7 @@
 - Id: erkranken
   Form: erkrankt, erkrankte, ist erkrankt
   Usages:
-    - an `D`
+    - an Dat.
   Meaning: to fall ill, to sicken
   Cambridge: to fall ill/sick
   Wiki: to fall ill, to sicken
@@ -35303,8 +35303,8 @@
 - Id: erkundigen
   Form: erkundigt sich, erkundigte sich, hat sich erkundigt
   Usages:
-    - bei `D`
-    - nach `D`
+    - bei Dat.
+    - nach Dat.
   Meaning: to inquire (about)
   Cambridge: to inquire, to ask
   Wiki: to inquire (to get information)
@@ -35312,7 +35312,7 @@
 - Id: ermahnen
   Form: ermahnt, ermahnte, hat ermahnt
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to urge
   Cambridge: to warn, to admonish
   Wiki: to urge; to exhort; to caution; to remind; to admonish
@@ -35320,7 +35320,7 @@
 - Id: ermutigen
   Form: ermutigt, ermutigte, hat ermutigt
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to encourage
   Cambridge: to encourage
   Wiki: to encourage
@@ -35328,7 +35328,7 @@
 - Id: erregen
   Form: erregt, erregte, hat erregt
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to thrill; arouse; excite; titillate
   Cambridge: to annoy, to infuriate, to upset; to arouse; to cause, to arouse
   Wiki: to thrill; arouse; excite; titillate; to cause; elicit; evoke; bring forth; stimulate into action
@@ -35336,7 +35336,7 @@
 - Id: ersehen
   Form: ersieht, ersah, hat ersehen
   Usages:
-    - aus `D`
+    - aus Dat.
   Meaning: to learn
   Cambridge: to see
   Wiki: to learn; to see
@@ -35344,7 +35344,7 @@
 - Id: fahnden
   Form: fahndet, fahndete, hat gefahndet
   Usages:
-    - nach `D`
+    - nach Dat.
   Meaning: to search for
   Cambridge: to search for
   Wiki: to search for
@@ -35352,7 +35352,7 @@
 - Id: folgern
   Form: folgert, folgerte, hat gefolgert
   Usages:
-    - aus `D`
+    - aus Dat.
   Meaning: to conclude, to deduce, to infer
   Cambridge: to conclude
   Wiki: to conclude, to deduce, to infer
@@ -35360,8 +35360,8 @@
 - Id: forschen
   Form: forscht, forschte, hat geforscht
   Usages:
-    - an `D`
-    - nach `D`
+    - an Dat.
+    - nach Dat.
   Meaning: to research
   Cambridge: to (do) research; to search
   Wiki: to research
@@ -35369,8 +35369,8 @@
 - Id: freuen
   Form: freut sich, freute sich, hat sich gefreut
   Usages:
-    - auf `A`
-    - über `A`
+    - auf Akk.
+    - über Akk.
   Meaning: to be glad
   Cambridge: to be happy/glad (about), to be pleased (with)
   Wiki: to gladden, to make glad, to make pleased; to be glad, to be pleased; to look forward
@@ -35378,21 +35378,21 @@
 - Id: fügen
   Form: fügt, fügte, hat gefügt
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to join
   Wiki: to join; to add; (of fate) to ordain; to submit, to comply
 
 - Id: fürchten
   Form: fürchtet, fürchtete, hat gefürchtet
   Usages:
-    - vor `D`
+    - vor Dat.
   Meaning: to be afraid
   Cambridge: to fear, to be afraid of
   Wiki: to fear; to be afraid (of)
 
 - Id: geradestehen
   Usages:
-    - für `A`
+    - für Akk.
   Meaning: to take responsibility
   Cambridge: to take on the responsibility (for), to answer for
   Wiki: to take responsibility
@@ -35400,7 +35400,7 @@
 - Id: geraten
   Form: gerät, geriet, ist geraten
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to turn out, succeed
   Cambridge: to come/get/run into, to hit; to get
   Wiki: to turn out, succeed; to thrive; to come (across, by); to fall (upon); to get (into); to fall (into); to come (to); to fly (into); advisable; guessed; solved
@@ -35429,7 +35429,7 @@
 - Id: grauen
   Form: graut, graute, hat gegraut
   Usages:
-    - jmdm. grauen vor (es) `D`
+    - jmdm. grauen vor (es) Dat.
   Meaning: to cause terror
   Wiki: to cause terror; to be terrified; to break; to become grey
   Examples:
@@ -35437,7 +35437,7 @@
 
 - Id: grauen vor
   Usages:
-    - (es) `D`
+    - (es) Dat.
 
 - Id: Haupt
   Level: B1
@@ -35454,7 +35454,7 @@
 - Id: herausfordern
   Form: fordert heraus, forderte heraus, hat herausgefordert
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to challenge
   Cambridge: to challenge; to provoke
   Wiki: to challenge; to defy; to provoke
@@ -35462,7 +35462,7 @@
 - Id: herrschen
   Form: herrscht, herrschte, hat geherrscht
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to rule, to reign, to have dominion
   Cambridge: to prevail; to rule, to hold sway
   Wiki: to rule, to reign, to have dominion; to prevail, to dominate
@@ -35485,14 +35485,14 @@
 - Id: hindern
   Form: hindert, hinderte, hat gehindert
   Usages:
-    - an `D`.
+    - an Dat..
   Meaning: to impede
   Wiki: to impede; to prevent
 
 - Id: hüten
   Form: hütet, hütete, hat gehütet
   Usages:
-    - vor `D`
+    - vor Dat.
   Meaning: to watch
   Cambridge: to look after, to mind, to tend; to stay; to keep
   Wiki: to watch; to herd, to tend; to be wary, to watch out
@@ -35500,7 +35500,7 @@
 - Id: investieren
   Form: investiert, investierte, hat investiert
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to invest
   Cambridge: to invest; to invest, to put into
   Wiki: to invest; to invest
@@ -35529,7 +35529,7 @@
 - Id: irren
   Form: irrt, irrte, hat geirrt
   Usages:
-    - in `D`
+    - in Dat.
   Meaning: to be mistaken
   Cambridge: to be mistaken, to err; to wander
   Wiki: to wander; to err, to be wrong, to be mistaken
@@ -35537,7 +35537,7 @@
 - Id: jammern
   Form: jammert, jammerte, hat gejammert
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to wail, whine, moan, lament, whinge
   Cambridge: to moan, to whine
   Wiki: to wail, whine, moan, lament, whinge
@@ -35551,7 +35551,7 @@
 - Id: jubeln
   Form: jubelt, jubelte, hat gejubelt
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to cheer, to exult, to rejoice loudly
   Cambridge: to cheer, to rejoice
   Wiki: to cheer, to exult, to rejoice loudly
@@ -35559,7 +35559,7 @@
 - Id: konzentrieren
   Form: ist konzentriert, war konzentriert, ist konzentriert gewesen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to concentrate
   Cambridge: to concentrate
   Wiki: to concentrate, focus; to concentrate
@@ -35574,7 +35574,7 @@
 - Id: kümmern
   Form: kümmert, kümmerte, hat gekümmert
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to look after
   Wiki: to take care, to look after; to grieve, to afflict, to trouble, to concern
 
@@ -35590,7 +35590,7 @@
 - Id: loskommen
   Form: kommt los, kam los, ist losgekommen
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to set off; to get free
   Cambridge: to set off; to get free, to free yourself
   Examples:
@@ -35608,7 +35608,7 @@
 - Id: mangeln
   Form: mangelt, mangelte, hat gemangelt
   Usages:
-    - an `D`
+    - an Dat.
   Meaning: to lack, to want
   Wiki: to lack, to want
 
@@ -35654,8 +35654,8 @@
 - Id: mitwirken
   Form: wirkt mit, wirkte mit, hat mitgewirkt
   Usages:
-    - an `D`
-    - bei `D`
+    - an Dat.
+    - bei Dat.
   Meaning: to participate, cooperate
   Cambridge: to play a part, to be involved; to appear, to take part
   Wiki: to participate, cooperate
@@ -35663,7 +35663,7 @@
 - Id: multiplizieren
   Form: multipliziert, multiplizierte, hat multipliziert
   Usages:
-    - mit `D`
+    - mit Dat.
   Meaning: 'to multiply (transitive: perform multiplication on (a number))'
   Cambridge: to multiply
   Wiki: 'to multiply (transitive: perform multiplication on (a number))'
@@ -35677,7 +35677,7 @@
 - Id: neigen
   Form: neigt, neigte, hat geneigt
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to incline, slant, tilt, bend, lower
   Cambridge: to lean, to bend; to tilt; to bend, to bow, to tip
   Wiki: to incline, slant, tilt, bend, lower; to incline, slant, lean, bow; to be inclined, tend towards, have a preference for
@@ -35700,7 +35700,7 @@
 - Id: orientieren
   Form: orientiert, orientierte, hat orientiert
   Usages:
-    - an `D`
+    - an Dat.
   Meaning: to orient oneself; to orientate oneself
   Cambridge: to get one’s bearings; to be based/oriented
   Wiki: to orient oneself; to orientate oneself
@@ -35708,7 +35708,7 @@
 - Id: philosophieren
   Form: philosophiert, philosophierte, hat philosophiert
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to philosophize
   Wiki: to philosophize
 
@@ -35722,15 +35722,15 @@
 - Id: rächen
   Form: rächt, rächte, hat gerächt
   Usages:
-    - an `D`
-    - für `A`
+    - an Dat.
+    - für Akk.
   Meaning: to revenge; to avenge
   Wiki: to revenge; to avenge; to take revenge; to avenge oneself
 
 - Id: referieren
   Form: referiert, referierte, hat referiert
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to report
   Cambridge: to give a talk/paper (on)
   Wiki: to report; to refer
@@ -35740,16 +35740,16 @@
 - Id: resultieren
   Form: resultiert, resultierte, hat resultiert
   Usages:
-    - aus `D`
+    - aus Dat.
   Meaning: to result
   Wiki: to result
 
 - Id: richten
   Form: richtet, richtete, hat gerichtet
   Usages:
-    - an `A`
-    - auf `A`
-    - nach `D`
+    - an Akk.
+    - auf Akk.
+    - nach Dat.
   Meaning: to direct, to point (e.g. a weapon)
   Cambridge: to direct, to point, to turn; to direct, to address; to prepare; to sort out; to repair; to pass judgement; to execute
   Wiki: to direct, to point (e.g. a weapon); to fix, to rectify, to put right; to straighten (something bent or tilted or not lined up properly); to right; to be directed (of emotions, words, etc.); to turn (toward) (of a look, one's eyes, gaze, etc.); to judge; to follow the lead of, to abide by; to depend (); to execute, to put to death
@@ -35757,7 +35757,7 @@
 - Id: ruhen
   Form: ruht, ruhte, hat geruht
   Usages:
-    - auf `D`
+    - auf Dat.
   Meaning: to rest; to sleep
   Cambridge: to (take a) rest; to have stopped, to be at a standstill
   Wiki: to rest; to sleep; to be buried, to lie; to be positioned; to rest; to stall; to be suspended
@@ -35765,8 +35765,8 @@
 - Id: schämen
   Form: schämt sich, schämte sich, hat sich geschämt
   Usages:
-    - für `A`
-    - vor `D`
+    - für Akk.
+    - vor Dat.
   Meaning: to be ashamed or embarrassed, bashful
   Cambridge: to be ashamed
   Wiki: to be ashamed or embarrassed, bashful
@@ -35796,7 +35796,7 @@
 - Id: schwören
   Form: schwört, schwor, hat geschworen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to swear; to take an oath
   Cambridge: to swear
   Wiki: to swear; to take an oath; to swear by; to be convinced of; to like
@@ -35804,7 +35804,7 @@
 - Id: sehnen
   Form: sehnt sich, sehnte sich, hat sich gesehnt
   Usages:
-    - nach `D`
+    - nach Dat.
   Meaning: to yearn, to long for
   Wiki: to yearn, to long for
 
@@ -35878,14 +35878,14 @@
 - Id: spezialisieren
   Form: spezialisiert, spezialisierte, hat spezialisiert
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to specialize
   Wiki: to specialize
 
 - Id: spotten
   Form: spottet, spottete, hat gespottet
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to scoff, to jeer, to mock
   Cambridge: to mock
   Wiki: to scoff, to jeer, to mock
@@ -35893,7 +35893,7 @@
 - Id: steigern
   Form: steigert, steigerte, hat gesteigert
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to increase, to raise
   Cambridge: to increase, to improve; to compare
   Wiki: to increase, to raise; to boost, to improve, to enhance; to compare
@@ -35901,7 +35901,7 @@
 - Id: stoßen
   Form: stößt, stieß, hat gestoßen
   Usages:
-    - gegen `A`
+    - gegen Akk.
   Meaning: to shove, push, knock, bump
   Cambridge: to push, to shove; to strike; to bump; to bang yourself; to be next to, to border on
   Wiki: to push; to shove; to thrust; to bump; to knock; to strike; to hurt; to take exception (to something); to jolt; to kick; to thrust; to bump (into something); to knock (against something) or; to come (across something); to happen (upon something); to stumble (upon something); to fuck
@@ -35909,7 +35909,7 @@
 - Id: sträuben
   Form: sträubt sich, sträubte sich, hat sich gesträubt
   Usages:
-    - gegen `A`
+    - gegen Akk.
   Meaning: to bristle up, to stand on end
   Cambridge: to resist, to refuse; to ruffle (up)
   Wiki: to bristle up, to stand on end; to be reluctant, to resist (+ gegen)
@@ -35917,15 +35917,15 @@
 - Id: streben
   Form: strebt, strebte, hat gestrebt
   Usages:
-    - nach `D`
+    - nach Dat.
   Meaning: to strive
   Wiki: to strive; to aspire
 
 - Id: streiten
   Form: streitet, stritt, hat gestritten
   Usages:
-    - mit `D`
-    - um `A`
+    - mit Dat.
+    - um Akk.
   Meaning: to argue
   Cambridge: to argue, to quarrel
   Wiki: to argue; to fight; to quarrel
@@ -35933,7 +35933,7 @@
 - Id: taugen
   Form: taugt, taugte, hat getaugt
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to be fit
   Cambridge: to be suitable
   Wiki: to be fit
@@ -35941,7 +35941,7 @@
 - Id: täuschen
   Form: täuscht, täuschte, hat getäuscht
   Usages:
-    - in `D`
+    - in Dat.
   Meaning: to deceive
   Cambridge: to be wrong; to deceive; to be deceptive
   Wiki: to deceive; to be wrong, to be mistaken; to err
@@ -35949,14 +35949,14 @@
 - Id: teilhaben
   Form: hat teil, hatte teil, hat teilgehabt
   Usages:
-    - an `D`
+    - an Dat.
   Meaning: to participate
   Wiki: to participate
 
 - Id: tendieren
   Form: tendiert, tendierte, hat tendiert
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: '(tendieren zu): to tend toward/towards'
   Cambridge: to tend; to tend, to lean
   Wiki: '(tendieren zu): to tend toward/towards'
@@ -35964,7 +35964,7 @@
 - Id: trennen
   Form: trennt, trennte, hat getrennt
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to separate
   Cambridge: to separate; to divide (into syllables), to hyphenate; differentiate/distinguish between; to part company; to split up, to separate; to let go
   Wiki: to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin; to sunder; to delink, unlink, disconnect, detach; to isolate; to separate, to go apart, to secede, to break off, to break up
@@ -35976,7 +35976,7 @@
 - Id: übertreffen
   Form: übertrifft, übertraf, hat übertroffen
   Usages:
-    - in `D`
+    - in Dat.
   Meaning: to exceed, to surpass, to outdo
   Cambridge: to surpass, to beat
   Wiki: to exceed, to surpass, to outdo; to exceed (a certain standard)
@@ -35984,7 +35984,7 @@
 - Id: überzeugen
   Form: überzeugt, überzeugte, hat überzeugt
   Usages:
-    - von `D`
+    - von Dat.
   Meaning: to convince
   Cambridge: to convince, to persuade; to impress; to satisfy yourself
   Wiki: to convince; to convince oneself
@@ -35992,7 +35992,7 @@
 - Id: umwandeln
   Form: wandelt um, wandelte um, hat umgewandelt
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to convert, change, commute
   Cambridge: to transform, to change, to convert
   Wiki: to convert, change, commute; to transform, transmute
@@ -36008,8 +36008,8 @@
 - Id: unterhalten
   Form: unterhält, unterhielt, hat unterhalten
   Usages:
-    - mit `D`
-    - über `A`
+    - mit Dat.
+    - über Akk.
   Meaning: to amuse oneself, chat
   Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
   Wiki: to maintain; to entertain; to converse
@@ -36017,8 +36017,8 @@
 - Id: urteilen
   Form: urteilt, urteilte, hat geurteilt
   Usages:
-    - nach `D`
-    - über `A`
+    - nach Dat.
+    - über Akk.
   Meaning: to judge
   Cambridge: to judge
   Wiki: to judge
@@ -36026,8 +36026,8 @@
 - Id: verabreden
   Form: verabredet, verabredete, hat verabredet
   Usages:
-    - mit `D`
-    - zu `D`
+    - mit Dat.
+    - zu Dat.
   Meaning: to arrange to meet
   Cambridge: to arrange to meet; to agree
   Wiki: to arrange; to make an appointment
@@ -36035,7 +36035,7 @@
 - Id: veranlassen
   Form: veranlasst, veranlasste, hat veranlasst
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to cause, to prompt, to arrange for, to bring about
   Cambridge: to cause, to lead; to arrange for, to instigate
   Wiki: to cause, to prompt, to arrange for, to bring about
@@ -36043,7 +36043,7 @@
 - Id: verfügen
   Form: verfügt, verfügte, hat verfügt
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to decree, to order (something to happen)
   Cambridge: to have (at your disposal); to be in charge; to order, to decree
   Wiki: to decree, to order (something to happen); to have something at one's disposal, to employ, to have control over.
@@ -36051,7 +36051,7 @@
 - Id: verführen
   Form: verführt, verführte, hat verführt
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to seduce
   Cambridge: to tempt; to seduce
   Wiki: to seduce
@@ -36059,7 +36059,7 @@
 - Id: verleiten
   Form: verleitet, verleitete, hat verleitet
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to cause someone to do something detrimental, risky or imprudent, to incite
   Cambridge: to lead astray, to tempt
   Wiki: to cause someone to do something detrimental, risky or imprudent, to incite; to entice, seduce, lead astray, mislead
@@ -36067,7 +36067,7 @@
 - Id: verlieben
   Form: ist verliebt, war verliebt, ist verliebt gewesen
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to fall in love
   Cambridge: to fall in love
   Wiki: to fall in love; to fall in love with
@@ -36075,7 +36075,7 @@
 - Id: vermindern
   Form: vermindert, verminderte, hat vermindert
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to reduce, decrease, shrink, diminish
   Cambridge: to reduce, to decrease, to lessen; to decrease, to diminish
   Wiki: to reduce, decrease, shrink, diminish; to alleviate, lessen, ease; to deplete
@@ -36083,7 +36083,7 @@
 - Id: vermitteln
   Form: vermittelt, vermittelte, hat vermittelt
   Usages:
-    - zwischen `D`
+    - zwischen Dat.
   Meaning: to mediate
   Cambridge: to impart, to communicate; to convey, to give; to find, to arrange; to find jobs / a job for, to place; to act as a mediator, to mediate
   Wiki: to mediate; to convey; to broker, to supply, to provide
@@ -36091,7 +36091,7 @@
 - Id: verpflichten
   Form: verpflichtet, verpflichtete, hat verpflichtet
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to oblige somebody, make somebody promise
   Cambridge: to commit; to sign, to engage, to enlist; to oblige
   Wiki: to oblige somebody, make somebody promise; to commit, to oblige; to oblige, to swear, to be sworn; to engage; to bind somebody by contract, to oblige somebody; to be an obligation; to undertake (to commit oneself to an obligation)
@@ -36099,7 +36099,7 @@
 - Id: verringern
   Form: verringert, verringerte, hat verringert
   Usages:
-    - um `A`
+    - um Akk.
   Meaning: to abate, to reduce, to lessen
   Cambridge: to reduce; to decrease
   Wiki: to abate, to reduce, to lessen
@@ -36107,7 +36107,7 @@
 - Id: verstecken
   Form: versteckt, versteckte, hat versteckt
   Usages:
-    - vor `D`
+    - vor Dat.
   Meaning: to hide
   Cambridge: to hide
   Wiki: to conceal; to hide (oneself)
@@ -36115,7 +36115,7 @@
 - Id: verstoßen
   Form: verstößt, verstieß, hat verstoßen
   Usages:
-    - gegen `A`
+    - gegen Akk.
   Meaning: to cast out (of a community), to disown
   Cambridge: to disown
   Wiki: to cast out (of a community), to disown; to infringe, to break, to violate, to be contrary to (a law, treaty, custom, etc.); to obturate, to occlude by propping something into; to hide, to conceal; to cease to advance, to not flow anymore
@@ -36123,7 +36123,7 @@
 - Id: verteidigen
   Form: verteidigt, verteidigte, hat verteidigt
   Usages:
-    - gegen `A`
+    - gegen Akk.
   Meaning: to defend (from attack)
   Cambridge: to defend
   Wiki: to defend (from attack); to justify (an opinion, behavior, etc.)
@@ -36131,7 +36131,7 @@
 - Id: vertiefen
   Form: vertieft, vertiefte, hat vertieft
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to deepen
   Cambridge: to strengthen, to extend; to deepen; to make deeper, to deepen; to deepen, to become deeper
   Wiki: to deepen; to deepen; to delve (into sth)
@@ -36139,7 +36139,7 @@
 - Id: vertragen
   Form: verträgt, vertrug, hat vertragen
   Usages:
-    - mit `D`
+    - mit Dat.
   Meaning: to tolerate, bear
   Cambridge: to tolerate, to bear; to tolerate; to take; to get on; to make it up; to go together
   Wiki: to tolerate, bear; could do with; to get along with; to make up
@@ -36147,7 +36147,7 @@
 - Id: verwandeln
   Form: verwandelt, verwandelte, hat verwandelt
   Usages:
-    - in `A`
+    - in Akk.
   Meaning: to change (into something else), to transform, transmute
   Cambridge: to convert, to transform; to turn; to convert, to score from; to be transformed
   Wiki: to change (into something else), to transform, transmute; to change (into something else), to metamorphose; to convert (a chance into a goal/point)
@@ -36165,7 +36165,7 @@
 - Id: wehren
   Form: wehrt sich, wehrte sich, hat sich gewehrt
   Usages:
-    - gegen `A`
+    - gegen Akk.
   Meaning: to fight
   Cambridge: to defend yourself, to fight back
   Wiki: to fight; to defend
@@ -36196,7 +36196,7 @@
 - Id: wundern
   Form: wundert, wunderte, hat gewundert
   Usages:
-    - über `A`
+    - über Akk.
   Meaning: to wonder
   Cambridge: to be surprised; to surprise
   Wiki: to surprise; to be surprised; to wonder
@@ -36204,8 +36204,8 @@
 - Id: zögern
   Form: zögert, zögerte, hat gezögert
   Usages:
-    - bei `D`
-    - mit `D`
+    - bei Dat.
+    - mit Dat.
   Meaning: to hesitate, to pause before doing something.
   Cambridge: to hesitate
   Wiki: to hesitate, to pause before doing something.
@@ -36213,7 +36213,7 @@
 - Id: zurückkommen
   Form: kommt zurück, kam zurück, ist zurückgekommen
   Usages:
-    - auf `A`
+    - auf Akk.
   Meaning: to return (to come back)
   Cambridge: to come back, to return, to be returned; to come back, to return
   Wiki: to return (to come back)
@@ -36221,7 +36221,7 @@
 - Id: zwingen
   Form: zwingt, zwang, hat gezwungen
   Usages:
-    - zu `D`
+    - zu Dat.
   Meaning: to force
   Cambridge: to force; to force yourself
   Wiki: to force; to compel; to make (someone do something); to necessitate; to call for
