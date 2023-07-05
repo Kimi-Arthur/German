@@ -33424,7 +33424,7 @@
 - Id: glauben
   Level: A1
   Form: glaubt, glaubte, hat geglaubt
-  Usage: an `A`
+  Usage: an Akk.
   Meaning: to believe
   Cambridge: to believe; to think
   Wiki: to believe something; to believe in; to believe someone; to think, to believe
@@ -33452,7 +33452,7 @@
 - Id: hören
   Level: A1
   Form: hört, hörte, hat gehört
-  Usage: auf `A`; von `D`
+  Usage: auf Akk.; von Dat.
   Meaning: to hear
   Cambridge: to hear; to listen to; to listen
   Wiki: to hear; to listen to, pay attention to; to attend, to go to, to sit in on; to get, to receive; to listen; to hear; to hear
@@ -33481,7 +33481,7 @@
 - Id: kommen
   Level: A1
   Form: kommt, kam, ist gekommen
-  Usage: auf `A`; zu `D`
+  Usage: auf Akk.; zu Dat.
   Meaning: to come
   Cambridge: to come; to get; to come about; to come, to be; to go; to leave; to be on
   Wiki: to come; to arrive; to come to; to come over; to get; to make it; to go to; to be put in; to come on (Used to encourage someone to do something.); to occur; to happen; to come to be; to be played (of a song or film); to be due to; to be the result of; to come from; to orgasm; to cum; to be statistically equivalent to; to be there for; to obtain (a solution or result); to get an idea; to think of; to remember; to imagine; to lose; to forfeit; not to get; to touch inadvertently; to manage to reach (something high up etc.); to turn out (well)
@@ -33512,7 +33512,7 @@
 - Id: machen
   Level: A1
   Form: macht, machte, hat gemacht
-  Usage: an `A`; aus `D`
+  Usage: an Akk.; aus Dat.
   Meaning: to make, do
   Cambridge: to do; to make; to make, to create; to do, to make, to carry out; to be, to make
   Wiki: to make, produce, create (an object, arrangement, situation, etc.); to make, prepare; to do, perform, carry out; to do;; to go; to make; to cause; to make; to make; to make; to come to, total, cost; to make, be; to make; to be, play; to matter; to make, make oneself out to be, act, play; to do one's business, do number two or number one, go; to do; to look; to get cracking ( (“on,” “with”)), get a move on (it), to get down ( (“to”)) (something); come on, let's go
@@ -33535,7 +33535,7 @@
 - Id: sagen
   Level: A1
   Form: sagt, sagte, hat gesagt
-  Usage: von `D`; zu `D`; über `A`
+  Usage: 'etwas/nichts von Dat.: something related to sth.; zu Dat.: to say to, to comment on; über Akk.: about'
   Meaning: to say
   Cambridge: to say; to tell; to call
   Wiki: to say; to tell; to mean; to speak up
@@ -33546,6 +33546,15 @@
     - Wie sagt man „sorry“ auf Deutsch?
     - Sag mal, wie geht es dir denn?
     - Können Sie mir bitte sagen, wo hier ein Geldautomat ist?
+    - Er hat mir nichts von seinen Problemen gesagt.
+    - Warum hast du mir nichts davon gesagt?
+    - Was sagst du zu meiner neuen Frisur?
+    - Ich würde gern noch etwas zu diesem Punkt sagen.
+    - Was sagen Sie dazu?
+    - Dazu kann ich leider nichts sagen.
+    - Was hat er über mich gesagt?
+    - Können Sie vielleicht etwas darüber sagen?
+    - Was hat sie über ihn gesagt?
 
 - Id: schwimmen
   Level: A1
@@ -33588,7 +33597,7 @@
 - Id: spielen
   Level: A1
   Form: spielt, spielte, hat gespielt
-  Usage: mit `D`; um `A`
+  Usage: 'mit Dat.: with; um Akk.: for'
   Meaning: to play
   Cambridge: to play; to gamble; to play, to act; to perform; to be set; to be on/playing
   Wiki: to play; to play, to engage in (a game, a sport, etc.); to play, to perform (a piece of music, a role in theater or a movie); to play, to listen to (a radio, a recording, etc.); to play, to perform on (a musical instrument); to act like, to behave like; to take place , to be set (in a particular time or place; of fiction)
@@ -33600,11 +33609,15 @@
     - Wir haben einen großen Garten, da können die Kinder spielen.
     - Am Sonntag spielen wir gegen die Fußballmannschaft der Nachbarschule.
     - Spielen Sie ein Instrument?
+    - Willst du mit mir spielen?
+    - Ich will mit dir spielen.
+    - Wir spielen nicht um Geld.
+    - Das Team spielt um den dritten Platz.
 
 - Id: sprechen
   Level: A1
   Form: spricht, sprach, hat gesprochen
-  Usage: für `A`; gegen `A`; mit `D`; von `D`; über `A`
+  Usage: 'für Akk.; gegen Akk.; mit jmdm. über Akk.: to talk to sb. about sth.; von Dat.'
   Meaning: to speak, talk
   Cambridge: to speak; to talk; to say, to pronounce; to point (to)
   Wiki: to speak (some language, the truth, etc.); to speak, to talk, to give a speech; to say, to speak (a word, phrase, sentence, prayer, etc.); to have a pronunciation; to be pronounced (some way); to pronounce (a judgment, a verdict, etc.); to say (something); to grant, approve (a loan, funding, etc.)
@@ -34009,7 +34022,7 @@
 - Id: unterrichten
   Level: B1
   Form: unterrichtet, unterrichtete, hat unterrichtet
-  Usage: in `D`
+  Usage: in Dat.
   Meaning: to teach
   Cambridge: to teach; to inform
   Wiki: to teach, to school; to inform
@@ -34032,7 +34045,7 @@
 - Id: arbeiten
   Level: A1
   Form: arbeitet, arbeitete, hat gearbeitet
-  Usage: 'an `D`: on; bei `D`: at; für `A`: for'
+  Usage: 'an Dat.: on; bei Dat.: at; für Akk.: for'
   Meaning: to work
   Cambridge: to work
   Wiki: to work; to work, function, run, operate; to ferment; to work, execute; to make, produce; to do, perform; to work oneself (to); to work one's way; to work (translated by rephrasing to use a general “you” or with the gerund, “working”)
@@ -34078,7 +34091,7 @@
 - Id: schreiben
   Level: A1
   Form: schreibt, schrieb, hat geschrieben
-  Usage: an `A`; an `D`; von `D`; über `A`
+  Usage: 'an Akk.: to'
   Meaning: to write
   Cambridge: to write; to write (to); to get; to be spelled
   Wiki: to write, to write out; to spell; to write; to write; to be some year or date; to write, to text; to write to each other; to be spelled/spelt;
@@ -34238,7 +34251,7 @@
 - Id: leben
   Level: A1
   Form: lebt, lebte, hat gelebt
-  Usage: von `D`
+  Usage: von Dat.
   Meaning: to live
   Cambridge: to live, to be alive; to live
   Wiki: to live, to be alive; to dwell, to reside; to live, to exist, to occupy a place; to cope with, to live with, to deal with
@@ -34267,7 +34280,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
-  Usage: an `D`
+  Usage: an Dat.
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -34306,8 +34319,8 @@
 - Id: suchen
   Level: A1
   Form: sucht, suchte, hat gesucht
-  Usage: nach `D`
-  Meaning: to search for, look for
+  Usage: Akk. = nach Dat.
+  Meaning: to search, to look for
   Cambridge: to look/search (for); to look for, to want; to look/search for; to seek, to try
   Wiki: to search, to look for; to seek, strive, intend, try
   Examples:
@@ -34316,6 +34329,10 @@
     - Ich suche meine Brille.
     - Wir suchen eine größere Wohnung.
     - Wen suchen Sie?
+    - Ich habe lange nach diesem Buch gesucht und jetzt habe ich es endlich gefunden.
+    - Die Bergretter haben vergeblich nach dem vermissten Wanderer gesucht.
+    - Die Ermittler suchen nach der Ursache für das Unglück.
+    - Alle suchen nach dem großen Glück.
 
 - Id: die Jura
   Form: (Pl.)
@@ -35330,18 +35347,23 @@
 - Id: berichten
   Level: A2
   Form: berichtet, berichtete, hat berichtet
-  Usage: von `D`; über `A`
+  Usage: 'von Dat.: from knowledge, experience; über Akk.: on, about'
   Meaning: to report, to tell
   Cambridge: to report
   Wiki: to relate, to tell, to give an account of; to report (especially by the media or authorities)
   Examples:
+    - Die Zeitungen berichten über schwere Kämpfe.
+    - Warum hast du mir von deiner Reise nichts berichtet?
+    - Über diesen Fall wurde bereits im Fernsehen berichtet.
+    - Das Fernsehen hat von diesem Vorfall berichtet.
+    - Sie hat mir davon berichtet, dass es einen Unfall gegeben hat.
     - Alle Zeitungen berichten von dem Unfall.
     - Alle Zeitungen haben über den Unfall berichtet.
 
 - Id: fragen
   Level: A1
   Form: fragt, fragte, hat gefragt
-  Usage: nach `D`
+  Usage: 'nach Dat.: for'
   Meaning: to ask
   Cambridge: to ask; to wonder
   Wiki: to ask (someone something); to ask for, to ask after; to wonder (literally, to ask (oneself))
@@ -35352,6 +35374,9 @@
     - Darf ich Sie etwas fragen?
     - Hat jemand nach mir gefragt?
     - Ich frage mich, ob das richtig war.
+    - Wir mussten nach der Adresse fragen.
+    - Sie hat nach dir gefragt und wollte wissen, wie es dir geht.
+    - Wir mussten nach dem Weg fragen.
 
 - Id: der Kursteilnehmer
   Form: '-'
@@ -35469,6 +35494,20 @@
     - Dieser Satz ist sehr einfach.
     - Den letzten Satz verstehe ich nicht.
 
+- Id: achten
+  Level: B1
+  Form: achtet, achtete, hat geachtet
+  Usage: 'auf Dat.: to'
+  Meaning: to pay attention
+  Cambridge: to respect
+  Wiki: to care about, to pay attention to; to keep an eye on; to respect
+  Examples:
+    - Achtet bitte auf eure Wertgegenstände, denn hier gibt es Taschendiebe!
+    - Worauf muss man achten, wenn man eine Wohnung kaufen will?
+    - Achtet darauf, was ihr sagt!
+    - Achte besser auf deine Gesundheit!
+    - Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.
+
 - Id: das Verb
   Form: -en
   Meaning: verb
@@ -35534,28 +35573,12 @@
     - Komm schnell! Im Radio kommt ein Interview mit deinem Lieblingssänger.
     - Ich habe im Fernsehen ein interes- santes Interview mit zwei Schauspielern gesehen.
 
-- Id: (sich) verstehen
-  Level: A1
+- Id: verstehen
   Form: versteht, verstand, hat verstanden
-  Usage: '`A`; `A` unter `D`: to mean by; von `D`: about; sich mit `D`: to get along with'
-  Meaning: to understand; to get along
+  Usage: mit `D`; unter `D`; von `D`
+  Meaning: to understand
   Cambridge: to understand; to understand, to make out; to know, to understand; to get on; to be
   Wiki: to understand; to hear and interpret (speech); to comprehend, make sense of; to take, see, gather; to know, have knowledge or understanding of (through experience or study); to understand oneself, understand each other, be understood; to see oneself as, to think of oneself as; to understand one another, be able to communicate; to get along with; to be an expert (at something); to be meant, to have to be interpreted (in some way); to go without saying, to be obvious
-  Examples:
-    - Wie verstehst du dich mit deinen Eltern?
-    - Ich verstehe mich sehr gut mit ihr.
-    - Sie verstehen sich sehr gut miteinander.
-    - Ich verstehe nicht viel von Informatik.
-    - Davon verstehst du nichts!
-    - Verstehst du was davon?
-    - Was verstehen Sie unter diesem Begriff?
-    - Ich verstehe darunter etwas ganz anderes als Sie.
-    - Können Sie mich verstehen?
-    - Ich verstehe diese Aufgabe nicht.
-    - Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.
-    - Den Satz verstehe ich nicht.
-    - Ich verstehe nichts von Computern.
-    - Unsere beiden Kinder verstehen sich sehr gut.
 
 - Id: leider
   Level: A1
@@ -35847,7 +35870,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
-  Usage: an `D`
+  Usage: an Dat.
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -36568,7 +36591,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
-  Usage: an `D`
+  Usage: an Dat.
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -36738,7 +36761,7 @@
 - Id: bieten
   Level: B1
   Form: bietet, bot, hat geboten
-  Meaning: to offer
+  Meaning: to offer, to have available
   Cambridge: to bid; to offer; to offer, to provide; to present itself; to show, to perform
   Wiki: to offer; to present; to bid; to offer to pay a certain price; to arise; to occur
   Examples:
@@ -37013,7 +37036,7 @@
 - Id: zählen
   Level: B1
   Form: zählt, zählte, hat gezählt
-  Usage: auf `A`; zu `D`
+  Usage: auf Akk.; zu Dat.
   Meaning: to count
   Cambridge: to count
   Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
@@ -37025,7 +37048,7 @@
 - Id: ausgeben
   Level: A2
   Form: gibt aus, gab aus, hat ausgegeben
-  Usage: 'für `A`: for'
+  Usage: 'für Akk.: for'
   Meaning: to spend
   Cambridge: to spend; to give out; to issue
   Wiki: to spend, to expend; to pay out; to issue ( + accusative); to output, to display; to buy a drink, to get a drink (for someone else); to impersonate, to pass as, to pose as, to pretend to be
@@ -37049,7 +37072,7 @@
 - Id: bieten
   Level: B1
   Form: bietet, bot, hat geboten
-  Meaning: to offer
+  Meaning: to offer, to have available
   Cambridge: to bid; to offer; to offer, to provide; to present itself; to show, to perform
   Wiki: to offer; to present; to bid; to offer to pay a certain price; to arise; to occur
   Examples:
@@ -37106,7 +37129,7 @@
 - Id: liegen
   Level: A1
   Form: liegt, lag, hat gelegen
-  Usage: an `D`
+  Usage: an Dat.
   Meaning: to lie (place/ location)
   Cambridge: to lie; to lie, to be
   Wiki: to lie; to lie down; to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use or ); to be located, to lie somewhere (of countries, towns, houses, etc.); to be, to stand (of indices, measurements)
@@ -37357,7 +37380,7 @@
 - Id: die Anzahl
   Level: B1
   Form: -en
-  Meaning: quantity
+  Meaning: quantity, number
   Cambridge: number
   Wiki: (a) number, an amount; a few
   Examples:
@@ -37783,7 +37806,7 @@
 - Id: erwarten
   Level: B1
   Form: erwartet, erwartete, hat erwartet
-  Usage: von `D`
+  Usage: von Dat.
   Meaning: to expect
   Cambridge: to expect
   Wiki: to expect, to consider likely; to await, to expect (someone to arrive)
@@ -37903,7 +37926,7 @@
 - Id: zählen
   Level: B1
   Form: zählt, zählte, hat gezählt
-  Usage: auf `A`; zu `D`
+  Usage: auf Akk.; zu Dat.
   Meaning: to count
   Cambridge: to count
   Wiki: to count; to count; to have, comprise, span (some numerical value); to reckon, to consider, to deem; to be of significance, to matter, to count; to tell, to recount
@@ -37926,7 +37949,7 @@
 - Id: greifen
   Level: B1
   Form: greift, griff, hat gegriffen
-  Usage: nach `D`
+  Usage: nach Dat.
   Meaning: to grasp, seize, grab
   Cambridge: to seize, to grab, to snatch; to reach; to be effective, to take effect; to grip
   Wiki: to grab; to grasp; to grip (something); to grab; to seize; to snatch (in an aggressive way); to reach; to grab; to capture (someone); to strike; to take hold; to bite
@@ -38064,14 +38087,17 @@
 - Id: gehören
   Level: A1
   Form: gehört, gehörte, hat gehört
-  Usage: zu `D`
-  Meaning: to belong to
+  Usage: 'Dat.: to belong to; zu Dat.: to be part of, to be member of'
+  Meaning: to belong; to be part (of)
   Cambridge: to belong to; to be among / one of; to go; to take, to require; to be proper/becoming
   Wiki: to belong to, be the property of; to be a prerequisite for; to be a characteristic of; to belong to, be a part of; to be proper; ought to be
   Examples:
     - Wem gehört das?
     - Gehört der Stift dir?
     - Gehört Ihnen das Haus?
+    - Österreich gehört zur Europäischen Union.
+    - Sie gehören zu unserer Gruppe.
+    - Zu einem guten Frühstück gehört für mich ein leckeres Frühstücksei.
 
 - Id: die Bildung
   Form: -en
@@ -38311,7 +38337,7 @@
 
 - Id: sich orientieren
   Form: orientiert sich, orientierte sich, hat sich orientiert
-  Usage: 'an `D`: with help of'
+  Usage: 'an Dat.: with help of'
   Meaning: to orient oneself
   Cambridge: to get one’s bearings; to be based/oriented
   Wiki: to orient oneself; to orientate oneself
@@ -38411,7 +38437,7 @@
 - Id: stören
   Level: A2
   Form: stört, störte, hat gestört
-  Usage: bei `D`
+  Usage: 'jmdn. bei Dat.: to disturb sb. doing sth.'
   Meaning: to disturb
   Cambridge: to disturb; to bother, to disturb; to disrupt
   Wiki: to disturb, to interfere, to bother
@@ -38421,6 +38447,9 @@
     - Störe ich?
     - Darf ich Sie kurz stören?
     - Mach die Musik leiser! Sie stört mich.
+    - Bitte stör mich nicht bei dem Telefonat.
+    - Entschuldigung, aber Sie stören mich beim Lernen.
+    - Ich habe versucht, meine Aufgaben zu erledigen, aber ich wurde mehrmals dabei gestört.
 
 - Id: die Notiz
   Level: A2
@@ -38510,7 +38539,7 @@
 - Id: sich bewerben
   Level: A2
   Form: bewirbt sich, bewarb sich, hat sich beworben
-  Usage: 'bei `D`: to; um `A`: for'
+  Usage: 'sich bei jmdm. um Akk.: to apply to sb. for sth.; auf Akk.: to apply for a specific position'
   Meaning: to apply
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
@@ -38784,7 +38813,7 @@
 - Id: wirken
   Level: B1
   Form: wirkt, wirkte, hat gewirkt
-  Usage: auf `A`
+  Usage: auf Akk.
   Meaning: to work, have an effect
   Cambridge: to have an effect, to work; to have an effect; to seem; to work
   Wiki: to function, to be effective, to work; to appear, to seem; to perform (some action), to achieve (some effect), to work (cause to happen), to cast (a spell); to work or be active in a certain field or activity; to work (toward a goal or for a cause); to take effect, to be effective; to knit (with yarn), to brocade; to knead
