@@ -33380,3 +33380,33 @@
   Examples:
     - Wenn man ein Projekt gut findet, sollte man sich auch dafür engagieren.
     - Sie hat sich sehr dafür engagiert, dass dieses Fest auch in diesem Jahr stattfinden kann.
+
+- Id: Tschechien
+  Meaning: Czechia (the Czech Republic)
+  Wiki: Czechia (the Czech Republic)
+
+- Id: Tschechisch
+  Meaning: Czech (language)
+  Wiki: Czech (language)
+
+- Id: Athen
+  Meaning: Athens
+  Wiki: Athens
+
+- Id: Schweden
+  Meaning: Sweden
+  Wiki: Sweden
+
+- Id: Österreich
+  Level: M
+  Form: (Sg.)
+  Meaning: Austria
+  Examples:
+    - example1
+
+- Id: die Zugspitze
+  Meaning: Zugspitze (mountain)
+  Wiki: Zugspitze (mountain)
+
+- Id: der Alp
+  Form: -e
