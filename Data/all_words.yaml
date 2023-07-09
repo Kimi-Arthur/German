@@ -376,7 +376,7 @@
   Level: B1
   Form: achtet, achtete, hat geachtet
   Usages:
-    - 'auf Dat.: to'
+    - 'auf Akk.: to'
   Meaning: to pay attention
   Cambridge: to respect
   Wiki: to care about, to pay attention to; to keep an eye on; to respect
@@ -1038,6 +1038,8 @@
 - Id: anmelden
   Level: B1
   Form: meldet an, meldete an, hat angemeldet
+  Usage:
+    - 'sich für Akk.: to sign up for sth.'
   Meaning: to register, sign up
   Cambridge: to enroll; to register; to announce; to express, to declare
   Wiki: to announce, declare; to enroll; to log in; to register
@@ -3779,7 +3781,8 @@
   Level: A2
   Form: beschwert, beschwerte, hat beschwert
   Usages:
-    - 'sich bei jmdm. über Akk.: to complain to someone about something'
+    - 'sich bei jmdm.: to complain to sb.'
+    - 'über Akk.: to complain about sth.'
   Meaning: to complain
   Cambridge: to complain; to weigh down
   Wiki: to weight, to weight down; to complain
@@ -4156,8 +4159,9 @@
   Level: A2
   Form: bewirbt sich, bewarb sich, hat sich beworben
   Usages:
-    - 'sich bei jmdm. um Akk.: to apply to sb. for sth.'
-    - 'auf Akk.: to apply for a specific position'
+    - 'sich bei jmdm.: to apply to sb. (employer etc.)'
+    - 'sich um Akk.: to apply for sth.'
+    - 'sich auf Akk.: to apply for a specific position'
   Meaning: to apply
   Cambridge: to apply; to stand
   Wiki: to apply; to try to win (a favour); to court; to advertise
@@ -4169,6 +4173,8 @@
     - Ich möchte mich um diese Stelle bewerben.
     - Ich habe mich um diese Stelle beworben.
     - Ich habe mich als Kellner beworben.
+    - Er hatte vom Forschen genug und bewarb sich
+      nun auf die Stelle eines Museumspädagogen.
 
 - Id: die Bewerbung
   Level: B1
@@ -5927,7 +5933,8 @@
   Level: A2
   Form: diskutiert, diskutierte, hat diskutiert
   Usages:
-    - 'mit jmdm. über Akk.: to discuss with sb. about sth.'
+    - 'mit jmdm.: to discuss with sb.'
+    - 'über Akk.: to discuss about sth.'
   Meaning: to discuss
   Cambridge: to discuss
   Wiki: to discuss
@@ -7519,7 +7526,8 @@
   Level: A1
   Form: entschuldigt, entschuldigte, hat entschuldigt
   Usages:
-    - 'sich bei jmdm. für Akk.: to sb. for sth.'
+    - 'sich bei jmdm.: to sb.'
+    - 'für Akk.: for sth.'
   Meaning: to apologise
   Cambridge: to excuse; to excuse on the grounds of, to put down to
   Wiki: to excuse; to excuse/forgive something; to apologize, to apologise
@@ -9721,8 +9729,8 @@
   Level: A1
   Form: freut sich, freute sich, hat sich gefreut
   Usages:
-    - 'über Akk.: about sth. happened'
-    - 'auf Akk.: about sth. to happen'
+    - 'über Akk.: about sth. in the past'
+    - 'auf Akk.: about sth. in the future'
   Meaning: to be glad; to look forward
   Cambridge: to be happy/glad (about), to be pleased (with)
   Wiki: to gladden, to make glad, to make pleased; to be glad, to be pleased; to look forward
@@ -11148,8 +11156,8 @@
   Level: B1
   Form: gewöhnt, gewöhnte, hat gewöhnt
   Usages:
-    - sich an Akk.
-  Meaning: to accustom, get used to
+    - 'sich an Akk.: to'
+  Meaning: to accustom, get used
   Wiki: to get used to; to accustom oneself to; to adapt to
   Examples:
     - Wir haben uns an das Leben hier gewöhnt.
@@ -13073,8 +13081,8 @@
   Level: A2
   Form: informiert, informierte, hat informiert
   Usages:
-    - 'sich bei jmdm.: by'
-    - 'jmdn./sich über Akk.: about'
+    - 'sich bei jmdm.: to get informed by'
+    - 'jmdn. über Akk.: to inform sb. about sth.'
   Meaning: to inform
   Cambridge: to inform
   Wiki: to inform, to update; to read up on, to find out, to research, to look into, to inform oneself
@@ -24396,7 +24404,8 @@
   Level: A2
   Form: streitet, stritt, hat gestritten
   Usages:
-    - 'mit jmdm. um Akk.: to argue with sb. about sth.'
+    - 'mit jmdm.: to argue with sb.'
+    - 'um Akk.: to argue about sth.'
   Meaning: to argue
   Cambridge: to argue, to quarrel
   Wiki: to argue; to fight; to quarrel
@@ -25782,8 +25791,8 @@
   Level: A1
   Form: trifft, traf, hat getroffen
   Usages:
-    - Akk.
-    - sich mit Dat.
+    - jmdn.
+    - sich mit jmdm.
   Meaning: to meet
   Cambridge: to hit; to meet; to hit on; to hurt; to make, to take
   Wiki: to meet; to encounter; to hit; to strike; to affect; to concern; to hit the mark, to suit, to be convenient or fortunate; to cause the action implied by an abstract noun to take place, thus making the sentence passive or less direct; to effect the action
@@ -25823,7 +25832,7 @@
   Level: B1
   Form: trennt, trennte, hat getrennt
   Usages:
-    - 'von Dat.: from'
+    - 'Akk. von Dat.: from'
   Meaning: to separate
   Cambridge: to separate; to divide (into syllables), to hyphenate; differentiate/distinguish between; to part company; to split up, to separate; to let go
   Wiki: to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin; to sunder; to delink, unlink, disconnect, detach; to isolate; to separate, to go apart, to secede, to break off, to break up
@@ -26754,7 +26763,8 @@
   Level: A2
   Form: unterhält, unterhielt, hat unterhalten
   Usages:
-    - 'mit jmdm. über Akk.: to converse with sb. about sth.'
+    - 'mit jmdm.: to converse with sb.'
+    - 'über Akk.: to converse about sth.'
   Meaning: to converse; to amuse oneself
   Cambridge: to entertain; to enjoy yourself, to have a good time; to talk; to run; to support; to maintain
   Wiki: to maintain; to entertain; to converse
@@ -27054,7 +27064,7 @@
   Level: B1
   Form: verabredet, verabredete, hat verabredet
   Usages:
-    - 'mit Dat.: with someone'
+    - 'mit jmdm.: with sb.'
     - 'zu Dat.: to a meeting'
   Meaning: to arrange to meet
   Cambridge: to arrange to meet; to agree
@@ -28693,7 +28703,8 @@
   Level: A1
   Form: wartet, wartete, hat gewartet
   Usages:
-    - 'Akk. (Zeit) auf Akk.: to wait for sth. for some time'
+    - 'Akk.: to wait for some time'
+    - 'auf Akk.: to wait for sth.'
   Meaning: to wait
   Cambridge: to wait; to service
   Wiki: to wait (for); to maintain (chiefly a machine, e.g. a car or heating)
