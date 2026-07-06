@@ -39,29 +39,13 @@
   },
   {
     "id": "abgeben",
-    "raw_word": "abgeben,",
+    "raw_word": "abgeben, gibt ab, hat abgegeben",
     "details": {
       "article": null,
       "headword": "abgeben",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich muss meinen Schlüssel an der Rezeption"
-    ]
-  },
-  {
-    "id": "gibt ab",
-    "raw_word": "gibt ab, hat abgegeben",
-    "details": {
-      "article": null,
-      "headword": "gibt ab",
-      "plural": null,
       "conjugation": [
+        "gibt ab",
         "hat abgegeben"
       ],
       "synonyms": [],
@@ -70,7 +54,7 @@
       "female_form": null
     },
     "examples": [
-      "abgeben."
+      "Ich muss meinen Schlüssel an der Rezeption abgeben."
     ]
   },
   {
@@ -131,12 +115,12 @@
     ]
   },
   {
-    "id": "Achtung (Sg.)",
+    "id": "Achtung",
     "raw_word": "Achtung (Sg.)",
     "details": {
       "article": null,
-      "headword": "Achtung (Sg.)",
-      "plural": null,
+      "headword": "Achtung",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -316,12 +300,12 @@
     ]
   },
   {
-    "id": "das Alter (Sg.)",
+    "id": "das Alter",
     "raw_word": "das Alter (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Alter (Sg.)",
-      "plural": null,
+      "headword": "Alter",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -364,17 +348,22 @@
       "female_form": null
     },
     "examples": [
-      "Fahren Sie an der nächsten Kreuzung nach rechts."
+      "Fahren Sie an der nächsten Kreuzung nach rechts.",
+      "Wir treffen uns am Bahnhof/am Kino/am Stand.",
+      "Am nächsten Montag geht es leider nicht.",
+      "Das Licht war die ganze Nacht an."
     ]
   },
   {
     "id": "anbieten",
-    "raw_word": "anbieten,",
+    "raw_word": "anbieten, bietet an,",
     "details": {
       "article": null,
       "headword": "anbieten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "bietet an"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -383,21 +372,6 @@
     "examples": [
       "Darf ich Ihnen/dir ein Stück Kuchen anbieten?"
     ]
-  },
-  {
-    "id": "bietet an",
-    "raw_word": "bietet an,",
-    "details": {
-      "article": null,
-      "headword": "bietet an",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "hat angeboten",
@@ -495,29 +469,13 @@
   },
   {
     "id": "anfangen",
-    "raw_word": "anfangen,",
+    "raw_word": "anfangen, fängt an, hat angefangen",
     "details": {
       "article": null,
       "headword": "anfangen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Hier fängt die Bahnhofstraße an."
-    ]
-  },
-  {
-    "id": "fängt an",
-    "raw_word": "fängt an, hat angefangen",
-    "details": {
-      "article": null,
-      "headword": "fängt an",
-      "plural": null,
       "conjugation": [
+        "fängt an",
         "hat angefangen"
       ],
       "synonyms": [],
@@ -526,6 +484,7 @@
       "female_form": null
     },
     "examples": [
+      "Hier fängt die Bahnhofstraße an.",
       "Der Unterricht fängt gleich an.",
       "Würden Sie bitte anfangen?",
       "Ich fange im Herbst meine Ausbildung an."
@@ -569,29 +528,13 @@
   },
   {
     "id": "ankommen",
-    "raw_word": "ankommen,",
+    "raw_word": "ankommen, kommt an, ist angekommen",
     "details": {
       "article": null,
       "headword": "ankommen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wann kommt dieser Zug in Hamburg an?"
-    ]
-  },
-  {
-    "id": "kommt an",
-    "raw_word": "kommt an, ist angekommen",
-    "details": {
-      "article": null,
-      "headword": "kommt an",
-      "plural": null,
       "conjugation": [
+        "kommt an",
         "ist angekommen"
       ],
       "synonyms": [],
@@ -600,6 +543,7 @@
       "female_form": null
     },
     "examples": [
+      "Wann kommt dieser Zug in Hamburg an?",
       "Aufdiesem FahrplanstehtnurdieAnkunftder Züge."
     ]
   },
@@ -620,12 +564,15 @@
   },
   {
     "id": "anmachen",
-    "raw_word": "anmachen,",
+    "raw_word": "anmachen, macht an, hat angemacht",
     "details": {
       "article": null,
       "headword": "anmachen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "macht an",
+        "hat angemacht"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -634,23 +581,6 @@
     "examples": [
       "Mach bitte das Licht an!"
     ]
-  },
-  {
-    "id": "macht an",
-    "raw_word": "macht an, hat angemacht",
-    "details": {
-      "article": null,
-      "headword": "macht an",
-      "plural": null,
-      "conjugation": [
-        "hat angemacht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "anmelden (sich)",
@@ -804,12 +734,15 @@
   },
   {
     "id": "antworten",
-    "raw_word": "antworten,",
+    "raw_word": "antworten, antwortet, hat geantwortet",
     "details": {
       "article": null,
       "headword": "antworten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "antwortet",
+        "hat geantwortet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -818,23 +751,6 @@
     "examples": [
       "Er antwortet nicht."
     ]
-  },
-  {
-    "id": "antwortet",
-    "raw_word": "antwortet, hat geantwortet",
-    "details": {
-      "article": null,
-      "headword": "antwortet",
-      "plural": null,
-      "conjugation": [
-        "hat geantwortet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Antwort",
@@ -997,29 +913,13 @@
   },
   {
     "id": "ärgern (sich)",
-    "raw_word": "ärgern (sich),",
+    "raw_word": "ärgern (sich), ärgert, hat geärgert",
     "details": {
       "article": null,
       "headword": "ärgern (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Warum ärgerst du dich? - Ich ärgere mich, weil das"
-    ]
-  },
-  {
-    "id": "ärgert",
-    "raw_word": "ärgert, hat geärgert",
-    "details": {
-      "article": null,
-      "headword": "ärgert",
-      "plural": null,
       "conjugation": [
+        "ärgert",
         "hat geärgert"
       ],
       "synonyms": [],
@@ -1028,7 +928,7 @@
       "female_form": null
     },
     "examples": [
-      "Wetter schlecht ist."
+      "Warum ärgerst du dich? - Ich ärgere mich, weil das Wetter schlecht ist."
     ]
   },
   {
@@ -1164,29 +1064,13 @@
   },
   {
     "id": "aufhören",
-    "raw_word": "aufhören,",
+    "raw_word": "aufhören, hört auf, hat aufgehört",
     "details": {
       "article": null,
       "headword": "aufhören",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wann hört ihr mit der Arbeit auf?"
-    ]
-  },
-  {
-    "id": "hört auf",
-    "raw_word": "hört auf, hat aufgehört",
-    "details": {
-      "article": null,
-      "headword": "hört auf",
-      "plural": null,
       "conjugation": [
+        "hört auf",
         "hat aufgehört"
       ],
       "synonyms": [],
@@ -1195,18 +1079,22 @@
       "female_form": null
     },
     "examples": [
+      "Wann hört ihr mit der Arbeit auf?",
       "Kannst du bitte damit aufhören?",
       "Ich muss jetzt arbeiten."
     ]
   },
   {
     "id": "aufmachen",
-    "raw_word": "aufmachen,",
+    "raw_word": "aufmachen, macht auf, hat aufgemacht",
     "details": {
       "article": null,
       "headword": "aufmachen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "macht auf",
+        "hat aufgemacht"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1217,47 +1105,14 @@
     ]
   },
   {
-    "id": "macht auf",
-    "raw_word": "macht auf, hat aufgemacht",
-    "details": {
-      "article": null,
-      "headword": "macht auf",
-      "plural": null,
-      "conjugation": [
-        "hat aufgemacht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "aufpassen",
-    "raw_word": "aufpassen,",
+    "raw_word": "aufpassen, passt auf, hat aufgepasst",
     "details": {
       "article": null,
       "headword": "aufpassen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Pass auf, der Teller fällt gleich auf den Boden!"
-    ]
-  },
-  {
-    "id": "passt auf",
-    "raw_word": "passt auf, hat aufgepasst",
-    "details": {
-      "article": null,
-      "headword": "passt auf",
-      "plural": null,
       "conjugation": [
+        "passt auf",
         "hat aufgepasst"
       ],
       "synonyms": [],
@@ -1266,18 +1121,22 @@
       "female_form": null
     },
     "examples": [
+      "Pass auf, der Teller fällt gleich auf den Boden!",
       "Der Babysitter passt heute Abend auf die Kinder auf.",
       "Er passt im Unterricht nicht auf."
     ]
   },
   {
     "id": "aufräumen",
-    "raw_word": "aufräumen,",
+    "raw_word": "aufräumen, räumt auf, hat aufgeräumt",
     "details": {
       "article": null,
       "headword": "aufräumen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "räumt auf",
+        "hat aufgeräumt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1286,23 +1145,6 @@
     "examples": [
       "Die Kinder müssen ihr Zimmer aufräumen."
     ]
-  },
-  {
-    "id": "räumt auf",
-    "raw_word": "räumt auf, hat aufgeräumt",
-    "details": {
-      "article": null,
-      "headword": "räumt auf",
-      "plural": null,
-      "conjugation": [
-        "hat aufgeräumt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "aufregend",
@@ -1324,12 +1166,15 @@
   },
   {
     "id": "aufstehen",
-    "raw_word": "aufstehen,",
+    "raw_word": "aufstehen, steht auf, ist aufgestanden",
     "details": {
       "article": null,
       "headword": "aufstehen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "steht auf",
+        "ist aufgestanden"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1338,23 +1183,6 @@
     "examples": [
       "Ich stehe jeden Morgen um sieben Uhr auf."
     ]
-  },
-  {
-    "id": "steht auf",
-    "raw_word": "steht auf, ist aufgestanden",
-    "details": {
-      "article": null,
-      "headword": "steht auf",
-      "plural": null,
-      "conjugation": [
-        "ist aufgestanden"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Aufzug",
@@ -1449,12 +1277,15 @@
   },
   {
     "id": "ausfüllen",
-    "raw_word": "ausfüllen,",
+    "raw_word": "ausfüllen, füllt aus, hat ausgefüllt",
     "details": {
       "article": null,
       "headword": "ausfüllen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "füllt aus",
+        "hat ausgefüllt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1463,23 +1294,6 @@
     "examples": [
       "Füllen Sie/Füll bitte dieses Formular aus!"
     ]
-  },
-  {
-    "id": "füllt aus",
-    "raw_word": "füllt aus, hat ausgefüllt",
-    "details": {
-      "article": null,
-      "headword": "füllt aus",
-      "plural": null,
-      "conjugation": [
-        "hat ausgefüllt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Ausgang",
@@ -1500,29 +1314,13 @@
   },
   {
     "id": "ausgeben",
-    "raw_word": "ausgeben,",
+    "raw_word": "ausgeben, gibt aus, hat ausgegeben",
     "details": {
       "article": null,
       "headword": "ausgeben",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Agata gibt viel Geld für Bücher aus."
-    ]
-  },
-  {
-    "id": "gibt aus",
-    "raw_word": "gibt aus, hat ausgegeben",
-    "details": {
-      "article": null,
-      "headword": "gibt aus",
-      "plural": null,
       "conjugation": [
+        "gibt aus",
         "hat ausgegeben"
       ],
       "synonyms": [],
@@ -1531,34 +1329,19 @@
       "female_form": null
     },
     "examples": [
+      "Agata gibt viel Geld für Bücher aus.",
       "Ich möchte nicht so viel Geld ausgeben."
     ]
   },
   {
     "id": "ausgehen",
-    "raw_word": "ausgehen,",
+    "raw_word": "ausgehen, geht aus, ist ausgegangen",
     "details": {
       "article": null,
       "headword": "ausgehen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Gehen wir am Freitag zusammen aus?"
-    ]
-  },
-  {
-    "id": "geht aus",
-    "raw_word": "geht aus, ist ausgegangen",
-    "details": {
-      "article": null,
-      "headword": "geht aus",
-      "plural": null,
       "conjugation": [
+        "geht aus",
         "ist ausgegangen"
       ],
       "synonyms": [],
@@ -1567,6 +1350,7 @@
       "female_form": null
     },
     "examples": [
+      "Gehen wir am Freitag zusammen aus?",
       "Plötzlich ist das Licht ausgegangen."
     ]
   },
@@ -1589,12 +1373,12 @@
     ]
   },
   {
-    "id": "das Ausland (Sg.)",
+    "id": "das Ausland",
     "raw_word": "das Ausland (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Ausland (Sg.)",
-      "plural": null,
+      "headword": "Ausland",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1607,12 +1391,15 @@
   },
   {
     "id": "ausmachen",
-    "raw_word": "ausmachen,",
+    "raw_word": "ausmachen, macht aus, hat ausgemacht",
     "details": {
       "article": null,
       "headword": "ausmachen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "macht aus",
+        "hat ausgemacht"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1623,30 +1410,16 @@
     ]
   },
   {
-    "id": "macht aus",
-    "raw_word": "macht aus, hat ausgemacht",
-    "details": {
-      "article": null,
-      "headword": "macht aus",
-      "plural": null,
-      "conjugation": [
-        "hat ausgemacht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "auspacken",
-    "raw_word": "auspacken,",
+    "raw_word": "auspacken, packt aus, hat ausgepackt",
     "details": {
       "article": null,
       "headword": "auspacken",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "packt aus",
+        "hat ausgepackt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1657,48 +1430,14 @@
     ]
   },
   {
-    "id": "packt aus",
-    "raw_word": "packt aus, hat ausgepackt",
-    "details": {
-      "article": null,
-      "headword": "packt aus",
-      "plural": null,
-      "conjugation": [
-        "hat ausgepackt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "ausruhen (sich)",
-    "raw_word": "ausruhen (sich),",
+    "raw_word": "ausruhen (sich), ruht aus, hat ausgeruht",
     "details": {
       "article": null,
       "headword": "ausruhen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ruh dich erst mal aus!",
-      "Du bist sicher müde."
-    ]
-  },
-  {
-    "id": "ruht aus",
-    "raw_word": "ruht aus, hat ausgeruht",
-    "details": {
-      "article": null,
-      "headword": "ruht aus",
-      "plural": null,
       "conjugation": [
+        "ruht aus",
         "hat ausgeruht"
       ],
       "synonyms": [],
@@ -1707,34 +1446,20 @@
       "female_form": null
     },
     "examples": [
+      "Ruh dich erst mal aus!",
+      "Du bist sicher müde.",
       "Er ruht sich nach der Arbeit immer aus."
     ]
   },
   {
     "id": "aussehen",
-    "raw_word": "aussehen,",
+    "raw_word": "aussehen, sieht aus, hat ausgesehen",
     "details": {
       "article": null,
       "headword": "aussehen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wie sieht er aus? - Groß und blond."
-    ]
-  },
-  {
-    "id": "sieht aus",
-    "raw_word": "sieht aus, hat ausgesehen",
-    "details": {
-      "article": null,
-      "headword": "sieht aus",
-      "plural": null,
       "conjugation": [
+        "sieht aus",
         "hat ausgesehen"
       ],
       "synonyms": [],
@@ -1743,6 +1468,7 @@
       "female_form": null
     },
     "examples": [
+      "Wie sieht er aus? - Groß und blond.",
       "Sie sieht wie ihre Mutter aus.",
       "Das Kleid sieht hübsch aus."
     ]
@@ -1801,12 +1527,15 @@
   },
   {
     "id": "aussprechen",
-    "raw_word": "aussprechen,",
+    "raw_word": "aussprechen, spricht aus, hat ausgesprochen",
     "details": {
       "article": null,
       "headword": "aussprechen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "spricht aus",
+        "hat ausgesprochen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1817,47 +1546,14 @@
     ]
   },
   {
-    "id": "spricht aus",
-    "raw_word": "spricht aus, hat ausgesprochen",
-    "details": {
-      "article": null,
-      "headword": "spricht aus",
-      "plural": null,
-      "conjugation": [
-        "hat ausgesprochen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "aussteigen",
-    "raw_word": "aussteigen,",
+    "raw_word": "aussteigen, steigt aus, ist ausgestiegen",
     "details": {
       "article": null,
       "headword": "aussteigen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wo müssen wir aussteigen? –An der nächsten"
-    ]
-  },
-  {
-    "id": "steigt aus",
-    "raw_word": "steigt aus, ist ausgestiegen",
-    "details": {
-      "article": null,
-      "headword": "steigt aus",
-      "plural": null,
       "conjugation": [
+        "steigt aus",
         "ist ausgestiegen"
       ],
       "synonyms": [],
@@ -1866,7 +1562,7 @@
       "female_form": null
     },
     "examples": [
-      "Haltestelle."
+      "Wo müssen wir aussteigen? –An der nächsten Haltestelle."
     ]
   },
   {
@@ -1888,12 +1584,15 @@
   },
   {
     "id": "austragen",
-    "raw_word": "austragen,",
+    "raw_word": "austragen, trägt aus, hat ausgetragen",
     "details": {
       "article": null,
       "headword": "austragen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "trägt aus",
+        "hat ausgetragen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1902,23 +1601,6 @@
     "examples": [
       "Er trägt jeden Morgen die Zeitung aus."
     ]
-  },
-  {
-    "id": "trägt aus",
-    "raw_word": "trägt aus, hat ausgetragen",
-    "details": {
-      "article": null,
-      "headword": "trägt aus",
-      "plural": null,
-      "conjugation": [
-        "hat ausgetragen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Ausweis",
@@ -2044,12 +1726,15 @@
   },
   {
     "id": "backen",
-    "raw_word": "backen,",
+    "raw_word": "backen, bäckt/backt, hat gebacken",
     "details": {
       "article": null,
       "headword": "backen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "bäckt/backt",
+        "hat gebacken"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2058,25 +1743,6 @@
     "examples": [
       "Wenn du kommst, backe ich einen Kuchen."
     ]
-  },
-  {
-    "id": "bäckt/backt",
-    "raw_word": "bäckt/backt, hat gebacken",
-    "details": {
-      "article": null,
-      "headword": "bäckt",
-      "plural": null,
-      "conjugation": [
-        "hat gebacken"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "backt"
-      ],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Bäckerei",
@@ -2437,29 +2103,13 @@
   },
   {
     "id": "beantworten",
-    "raw_word": "beantworten,",
+    "raw_word": "beantworten, beantwortet, hat beantwortet",
     "details": {
       "article": null,
       "headword": "beantworten",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Können Sie meine Frage bitte beantworten?"
-    ]
-  },
-  {
-    "id": "beantwortet",
-    "raw_word": "beantwortet, hat beantwortet",
-    "details": {
-      "article": null,
-      "headword": "beantwortet",
-      "plural": null,
       "conjugation": [
+        "beantwortet",
         "hat beantwortet"
       ],
       "synonyms": [],
@@ -2468,34 +2118,19 @@
       "female_form": null
     },
     "examples": [
+      "Können Sie meine Frage bitte beantworten?",
       "Hast du die Mail schon beantwortet?"
     ]
   },
   {
     "id": "bedanken (sich)",
-    "raw_word": "bedanken (sich),",
+    "raw_word": "bedanken (sich), bedankt, hat bedankt",
     "details": {
       "article": null,
       "headword": "bedanken (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich möchte mich noch einmal sehr herzlich für Ihre"
-    ]
-  },
-  {
-    "id": "bedankt",
-    "raw_word": "bedankt, hat bedankt",
-    "details": {
-      "article": null,
-      "headword": "bedankt",
-      "plural": null,
       "conjugation": [
+        "bedankt",
         "hat bedankt"
       ],
       "synonyms": [],
@@ -2504,17 +2139,18 @@
       "female_form": null
     },
     "examples": [
-      "Hilfe bedanken."
+      "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken."
     ]
   },
   {
-    "id": "bedeutet",
-    "raw_word": "bedeutet, hat bedeutet",
+    "id": "bedeuten",
+    "raw_word": "bedeuten, bedeutet, hat bedeutet",
     "details": {
       "article": null,
-      "headword": "bedeutet",
+      "headword": "bedeuten",
       "plural": null,
       "conjugation": [
+        "bedeutet",
         "hat bedeutet"
       ],
       "synonyms": [],
@@ -2522,34 +2158,19 @@
       "variants": [],
       "female_form": null
     },
-    "examples": []
+    "examples": [
+      "Was bedeutet das Wort?"
+    ]
   },
   {
     "id": "beeilen (sich)",
-    "raw_word": "beeilen (sich),",
+    "raw_word": "beeilen (sich), beeilt, hat beeilt",
     "details": {
       "article": null,
       "headword": "beeilen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Kannst du dich bitte beeilen?",
-      "Der Bus fährt"
-    ]
-  },
-  {
-    "id": "beeilt",
-    "raw_word": "beeilt, hat beeilt",
-    "details": {
-      "article": null,
-      "headword": "beeilt",
-      "plural": null,
       "conjugation": [
+        "beeilt",
         "hat beeilt"
       ],
       "synonyms": [],
@@ -2558,17 +2179,21 @@
       "female_form": null
     },
     "examples": [
-      "gleich ab!"
+      "Kannst du dich bitte beeilen?",
+      "Der Bus fährt gleich ab!"
     ]
   },
   {
     "id": "beenden",
-    "raw_word": "beenden,",
+    "raw_word": "beenden, beendet, hat beendet",
     "details": {
       "article": null,
       "headword": "beenden",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "beendet",
+        "hat beendet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2579,30 +2204,16 @@
     ]
   },
   {
-    "id": "beendet",
-    "raw_word": "beendet, hat beendet",
-    "details": {
-      "article": null,
-      "headword": "beendet",
-      "plural": null,
-      "conjugation": [
-        "hat beendet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "beginnen",
-    "raw_word": "beginnen,",
+    "raw_word": "beginnen, beginnt, hat begonnen",
     "details": {
       "article": null,
       "headword": "beginnen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "beginnt",
+        "hat begonnen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2613,30 +2224,16 @@
     ]
   },
   {
-    "id": "beginnt",
-    "raw_word": "beginnt, hat begonnen",
-    "details": {
-      "article": null,
-      "headword": "beginnt",
-      "plural": null,
-      "conjugation": [
-        "hat begonnen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "begründen",
-    "raw_word": "begründen,",
+    "raw_word": "begründen, begründet, hat begründet",
     "details": {
       "article": null,
       "headword": "begründen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "begründet",
+        "hat begründet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2645,23 +2242,6 @@
     "examples": [
       "Bitte begründen Sie Ihre Meinung."
     ]
-  },
-  {
-    "id": "begründet",
-    "raw_word": "begründet, hat begründet",
-    "details": {
-      "article": null,
-      "headword": "begründet",
-      "plural": null,
-      "conjugation": [
-        "hat begründet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "bei",
@@ -2765,29 +2345,13 @@
   },
   {
     "id": "bekommen",
-    "raw_word": "bekommen,",
+    "raw_word": "bekommen, bekommt, hat bekommen",
     "details": {
       "article": null,
       "headword": "bekommen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Haben Sie meinen Brief bekommen?"
-    ]
-  },
-  {
-    "id": "bekommt",
-    "raw_word": "bekommt, hat bekommen",
-    "details": {
-      "article": null,
-      "headword": "bekommt",
-      "plural": null,
       "conjugation": [
+        "bekommt",
         "hat bekommen"
       ],
       "synonyms": [],
@@ -2796,6 +2360,7 @@
       "female_form": null
     },
     "examples": [
+      "Haben Sie meinen Brief bekommen?",
       "Aspirin bekommen Sie in der Apotheke."
     ]
   },
@@ -2818,12 +2383,15 @@
   },
   {
     "id": "benutzen",
-    "raw_word": "benutzen,",
+    "raw_word": "benutzen, benutzt, hat benutzt",
     "details": {
       "article": null,
       "headword": "benutzen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "benutzt",
+        "hat benutzt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2832,23 +2400,6 @@
     "examples": [
       "Die Aufzüge bitte nicht benutzen!"
     ]
-  },
-  {
-    "id": "benutzt",
-    "raw_word": "benutzt, hat benutzt",
-    "details": {
-      "article": null,
-      "headword": "benutzt",
-      "plural": null,
-      "conjugation": [
-        "hat benutzt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "bequem",
@@ -2908,12 +2459,15 @@
   },
   {
     "id": "berichten",
-    "raw_word": "berichten,",
+    "raw_word": "berichten, berichtet, hat berichtet",
     "details": {
       "article": null,
       "headword": "berichten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "berichtet",
+        "hat berichtet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2922,23 +2476,6 @@
     "examples": [
       "Alle Zeitungen berichten von dem Unfall."
     ]
-  },
-  {
-    "id": "berichtet",
-    "raw_word": "berichtet, hat berichtet",
-    "details": {
-      "article": null,
-      "headword": "berichtet",
-      "plural": null,
-      "conjugation": [
-        "hat berichtet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Beruf",
@@ -3013,12 +2550,15 @@
   },
   {
     "id": "beschreiben",
-    "raw_word": "beschreiben,",
+    "raw_word": "beschreiben, beschreibt, hat beschrieben",
     "details": {
       "article": null,
       "headword": "beschreiben",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "beschreibt",
+        "hat beschrieben"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -3029,48 +2569,14 @@
     ]
   },
   {
-    "id": "beschreibt",
-    "raw_word": "beschreibt, hat beschrieben",
-    "details": {
-      "article": null,
-      "headword": "beschreibt",
-      "plural": null,
-      "conjugation": [
-        "hat beschrieben"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "beschweren (sich)",
-    "raw_word": "beschweren (sich),",
+    "raw_word": "beschweren (sich), beschwert, hat beschwert",
     "details": {
       "article": null,
       "headword": "beschweren (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Hier ist es zu laut.",
-      "Wo können wir uns beschweren?"
-    ]
-  },
-  {
-    "id": "beschwert",
-    "raw_word": "beschwert, hat beschwert",
-    "details": {
-      "article": null,
-      "headword": "beschwert",
-      "plural": null,
       "conjugation": [
+        "beschwert",
         "hat beschwert"
       ],
       "synonyms": [],
@@ -3079,6 +2585,8 @@
       "female_form": null
     },
     "examples": [
+      "Hier ist es zu laut.",
+      "Wo können wir uns beschweren?",
       "Mein Nachbar beschwert sich immer über unsere Kinder, wenn sie im Garten spielen."
     ]
   },
@@ -3102,29 +2610,13 @@
   },
   {
     "id": "besichtigen",
-    "raw_word": "besichtigen,",
+    "raw_word": "besichtigen, besichtigt, hat besichtigt",
     "details": {
       "article": null,
       "headword": "besichtigen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich möchte gern das Schloss besichtigen."
-    ]
-  },
-  {
-    "id": "besichtigt",
-    "raw_word": "besichtigt, hat besichtigt",
-    "details": {
-      "article": null,
-      "headword": "besichtigt",
-      "plural": null,
       "conjugation": [
+        "besichtigt",
         "hat besichtigt"
       ],
       "synonyms": [],
@@ -3133,6 +2625,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich möchte gern das Schloss besichtigen.",
       "Sie können die Wohnung am Mittwochabend besichtigen."
     ]
   },
@@ -3157,12 +2650,15 @@
   },
   {
     "id": "bestätigen",
-    "raw_word": "bestätigen,",
+    "raw_word": "bestätigen, bestätigt, hat bestätigt",
     "details": {
       "article": null,
       "headword": "bestätigen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "bestätigt",
+        "hat bestätigt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -3173,47 +2669,14 @@
     ]
   },
   {
-    "id": "bestätigt",
-    "raw_word": "bestätigt, hat bestätigt",
-    "details": {
-      "article": null,
-      "headword": "bestätigt",
-      "plural": null,
-      "conjugation": [
-        "hat bestätigt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "bestehen",
-    "raw_word": "bestehen,",
+    "raw_word": "bestehen, besteht, hat bestanden",
     "details": {
       "article": null,
       "headword": "bestehen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich habe die Prüfung bestanden!"
-    ]
-  },
-  {
-    "id": "besteht",
-    "raw_word": "besteht, hat bestanden",
-    "details": {
-      "article": null,
-      "headword": "besteht",
-      "plural": null,
       "conjugation": [
+        "besteht",
         "hat bestanden"
       ],
       "synonyms": [],
@@ -3222,34 +2685,19 @@
       "female_form": null
     },
     "examples": [
+      "Ich habe die Prüfung bestanden!",
       "Die Prüfung besteht aus vier Teilen: Hören, Lesen, Schreiben und Sprechen."
     ]
   },
   {
     "id": "bestellen",
-    "raw_word": "bestellen,",
+    "raw_word": "bestellen, bestellt, hat bestellt",
     "details": {
       "article": null,
       "headword": "bestellen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir möchten bitte bestellen."
-    ]
-  },
-  {
-    "id": "bestellt",
-    "raw_word": "bestellt, hat bestellt",
-    "details": {
-      "article": null,
-      "headword": "bestellt",
-      "plural": null,
       "conjugation": [
+        "bestellt",
         "hat bestellt"
       ],
       "synonyms": [],
@@ -3258,6 +2706,7 @@
       "female_form": null
     },
     "examples": [
+      "Wir möchten bitte bestellen.",
       "Dieses Buch haben wir nicht da.",
       "Sollen wir es für Sie bestellen?"
     ]
@@ -3282,29 +2731,13 @@
   },
   {
     "id": "besuchen",
-    "raw_word": "besuchen,",
+    "raw_word": "besuchen, besucht, hat besucht",
     "details": {
       "article": null,
       "headword": "besuchen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Darf ich dich mal besuchen?"
-    ]
-  },
-  {
-    "id": "besucht",
-    "raw_word": "besucht, hat besucht",
-    "details": {
-      "article": null,
-      "headword": "besucht",
-      "plural": null,
       "conjugation": [
+        "besucht",
         "hat besucht"
       ],
       "synonyms": [],
@@ -3313,6 +2746,7 @@
       "female_form": null
     },
     "examples": [
+      "Darf ich dich mal besuchen?",
       "Möchtest du mich in den Ferien besuchen?"
     ]
   },
@@ -3335,29 +2769,13 @@
   },
   {
     "id": "bewerben (sich)",
-    "raw_word": "bewerben (sich),",
+    "raw_word": "bewerben (sich), bewirbt, hat beworben",
     "details": {
       "article": null,
       "headword": "bewerben (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich möchte mich um diese Stelle bewerben."
-    ]
-  },
-  {
-    "id": "bewirbt",
-    "raw_word": "bewirbt, hat beworben",
-    "details": {
-      "article": null,
-      "headword": "bewirbt",
-      "plural": null,
       "conjugation": [
+        "bewirbt",
         "hat beworben"
       ],
       "synonyms": [],
@@ -3366,6 +2784,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich möchte mich um diese Stelle bewerben.",
       "Kannst du mir bei meiner Bewerbung helfen?"
     ]
   },
@@ -3420,12 +2839,15 @@
   },
   {
     "id": "bezahlen",
-    "raw_word": "bezahlen,",
+    "raw_word": "bezahlen, bezahlt, hat bezahlt",
     "details": {
       "article": null,
       "headword": "bezahlen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "bezahlt",
+        "hat bezahlt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -3434,23 +2856,6 @@
     "examples": [
       "Wo kann ich bezahlen?"
     ]
-  },
-  {
-    "id": "bezahlt",
-    "raw_word": "bezahlt, hat bezahlt",
-    "details": {
-      "article": null,
-      "headword": "bezahlt",
-      "plural": null,
-      "conjugation": [
-        "hat bezahlt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Bibliothek",
@@ -3614,12 +3019,15 @@
   },
   {
     "id": "bitten",
-    "raw_word": "bitten,",
+    "raw_word": "bitten, bittet, hat gebeten",
     "details": {
       "article": null,
       "headword": "bitten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "bittet",
+        "hat gebeten"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -3630,21 +3038,21 @@
     ]
   },
   {
-    "id": "bittet",
-    "raw_word": "bittet, hat gebeten",
+    "id": "bitter",
+    "raw_word": "bitter",
     "details": {
       "article": null,
-      "headword": "bittet",
+      "headword": "bitter",
       "plural": null,
-      "conjugation": [
-        "hat gebeten"
-      ],
+      "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
-    "examples": []
+    "examples": [
+      "Kaffee ohne Zucker schmeckt bitter."
+    ]
   },
   {
     "id": "das Blatt",
@@ -3666,29 +3074,13 @@
   },
   {
     "id": "bleiben",
-    "raw_word": "bleiben,",
+    "raw_word": "bleiben, bleibt, ist geblieben",
     "details": {
       "article": null,
       "headword": "bleiben",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir bleiben drei Tage in Berlin."
-    ]
-  },
-  {
-    "id": "bleibt",
-    "raw_word": "bleibt, ist geblieben",
-    "details": {
-      "article": null,
-      "headword": "bleibt",
-      "plural": null,
       "conjugation": [
+        "bleibt",
         "ist geblieben"
       ],
       "synonyms": [],
@@ -3697,6 +3089,7 @@
       "female_form": null
     },
     "examples": [
+      "Wir bleiben drei Tage in Berlin.",
       "Bitte bleiben Sie stehen!",
       "Oh nein, meine Uhr ist stehen geblieben.",
       "Wie spät ist es?",
@@ -3843,29 +3236,13 @@
   },
   {
     "id": "braten",
-    "raw_word": "braten,",
+    "raw_word": "braten, brät, hat gebraten",
     "details": {
       "article": null,
       "headword": "braten",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Braten Sie das Fleisch in etwas Öl!"
-    ]
-  },
-  {
-    "id": "brät",
-    "raw_word": "brät, hat gebraten",
-    "details": {
-      "article": null,
-      "headword": "brät",
-      "plural": null,
       "conjugation": [
+        "brät",
         "hat gebraten"
       ],
       "synonyms": [],
@@ -3874,34 +3251,19 @@
       "female_form": null
     },
     "examples": [
+      "Braten Sie das Fleisch in etwas Öl!",
       "Der Fisch brät in der Pfanne."
     ]
   },
   {
     "id": "brauchen",
-    "raw_word": "brauchen,",
+    "raw_word": "brauchen, braucht, hat gebraucht",
     "details": {
       "article": null,
       "headword": "brauchen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich brauche ein neues Auto."
-    ]
-  },
-  {
-    "id": "braucht",
-    "raw_word": "braucht, hat gebraucht",
-    "details": {
-      "article": null,
-      "headword": "braucht",
-      "plural": null,
       "conjugation": [
+        "braucht",
         "hat gebraucht"
       ],
       "synonyms": [],
@@ -3910,6 +3272,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich brauche ein neues Auto.",
       "Brauchst du die Zeitung noch oder kann ich sie haben?",
       "Meine Großmutter ist krank.",
       "Sie braucht viel Ruhe."
@@ -3969,29 +3332,13 @@
   },
   {
     "id": "bringen",
-    "raw_word": "bringen,",
+    "raw_word": "bringen, bringt, hat gebracht",
     "details": {
       "article": null,
       "headword": "bringen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Bringen Sie mir bitte noch einen Kaffee!"
-    ]
-  },
-  {
-    "id": "bringt",
-    "raw_word": "bringt, hat gebracht",
-    "details": {
-      "article": null,
-      "headword": "bringt",
-      "plural": null,
       "conjugation": [
+        "bringt",
         "hat gebracht"
       ],
       "synonyms": [],
@@ -4000,6 +3347,7 @@
       "female_form": null
     },
     "examples": [
+      "Bringen Sie mir bitte noch einen Kaffee!",
       "Wir müssen Max ins Krankenhaus bringen."
     ]
   },
@@ -4074,12 +3422,15 @@
   },
   {
     "id": "buchen",
-    "raw_word": "buchen,",
+    "raw_word": "buchen, bucht, hat gebucht",
     "details": {
       "article": null,
       "headword": "buchen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "bucht",
+        "hat gebucht"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -4088,23 +3439,6 @@
     "examples": [
       "Morgen buche ich unsere Urlaubsreise."
     ]
-  },
-  {
-    "id": "bucht",
-    "raw_word": "bucht, hat gebucht",
-    "details": {
-      "article": null,
-      "headword": "bucht",
-      "plural": null,
-      "conjugation": [
-        "hat gebucht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Buchstabe",
@@ -4125,12 +3459,15 @@
   },
   {
     "id": "buchstabieren",
-    "raw_word": "buchstabieren,",
+    "raw_word": "buchstabieren, buchstabiert, hat buchstabiert",
     "details": {
       "article": null,
       "headword": "buchstabieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "buchstabiert",
+        "hat buchstabiert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -4139,23 +3476,6 @@
     "examples": [
       "Würden Sie bitte Ihren Namen buchstabieren?"
     ]
-  },
-  {
-    "id": "buchstabiert",
-    "raw_word": "buchstabiert, hat buchstabiert",
-    "details": {
-      "article": null,
-      "headword": "buchstabiert",
-      "plural": null,
-      "conjugation": [
-        "hat buchstabiert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "bunt",
@@ -4211,12 +3531,12 @@
     ]
   },
   {
-    "id": "die Butter (Sg.)",
+    "id": "die Butter",
     "raw_word": "die Butter (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Butter (Sg.)",
-      "plural": null,
+      "headword": "Butter",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4265,12 +3585,15 @@
   },
   {
     "id": "chatten",
-    "raw_word": "chatten,",
+    "raw_word": "chatten, chattet, hat gechattet",
     "details": {
       "article": null,
       "headword": "chatten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "chattet",
+        "hat gechattet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -4279,23 +3602,6 @@
     "examples": [
       "Luis chattet gern mit seinen Freunden im Internet."
     ]
-  },
-  {
-    "id": "chattet",
-    "raw_word": "chattet, hat gechattet",
-    "details": {
-      "article": null,
-      "headword": "chattet",
-      "plural": null,
-      "conjugation": [
-        "hat gechattet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Chef",
@@ -4575,12 +3881,12 @@
     ]
   },
   {
-    "id": "der Dank (Sg.)",
+    "id": "der Dank",
     "raw_word": "der Dank (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Dank (Sg.)",
-      "plural": null,
+      "headword": "Dank",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4644,7 +3950,8 @@
       "female_form": null
     },
     "examples": [
-      "Ich muss noch schnell zur Post, dann komme ich."
+      "Ich muss noch schnell zur Post, dann komme ich.",
+      "Wenn es nicht regnet, dann kommen wir."
     ]
   },
   {
@@ -4890,12 +4197,15 @@
   },
   {
     "id": "diskutieren",
-    "raw_word": "diskutieren,",
+    "raw_word": "diskutieren, diskutiert, hat diskutiert",
     "details": {
       "article": null,
       "headword": "diskutieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "diskutiert",
+        "hat diskutiert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -4904,23 +4214,6 @@
     "examples": [
       "Ich möchte das mit meinen Kollegen diskutieren."
     ]
-  },
-  {
-    "id": "diskutiert",
-    "raw_word": "diskutiert, hat diskutiert",
-    "details": {
-      "article": null,
-      "headword": "diskutiert",
-      "plural": null,
-      "conjugation": [
-        "hat diskutiert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "doch",
@@ -5208,31 +4501,14 @@
   },
   {
     "id": "dürfen",
-    "raw_word": "dürfen, darf,",
+    "raw_word": "dürfen, darf, durfte, hat gedurft",
     "details": {
       "article": null,
       "headword": "dürfen",
       "plural": null,
       "conjugation": [
-        "darf"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Sie dürfen hier nicht parken."
-    ]
-  },
-  {
-    "id": "durfte",
-    "raw_word": "durfte, hat gedurft",
-    "details": {
-      "article": null,
-      "headword": "durfte",
-      "plural": null,
-      "conjugation": [
+        "darf",
+        "durfte",
         "hat gedurft"
       ],
       "synonyms": [],
@@ -5241,6 +4517,7 @@
       "female_form": null
     },
     "examples": [
+      "Sie dürfen hier nicht parken.",
       "Dürfen wir heute länger fernsehen?",
       "Darf ich Sie zu einem Kaffee einladen?"
     ]
@@ -5282,29 +4559,13 @@
   },
   {
     "id": "duschen (sich)",
-    "raw_word": "duschen (sich),",
+    "raw_word": "duschen (sich), duscht, hat geduscht",
     "details": {
       "article": null,
       "headword": "duschen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich bade nicht so gern, ich dusche lieber."
-    ]
-  },
-  {
-    "id": "duscht",
-    "raw_word": "duscht, hat geduscht",
-    "details": {
-      "article": null,
-      "headword": "duscht",
-      "plural": null,
       "conjugation": [
+        "duscht",
         "hat geduscht"
       ],
       "synonyms": [],
@@ -5313,6 +4574,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich bade nicht so gern, ich dusche lieber.",
       "Möchten Sie sich duschen?",
       "Das Badezimmer ist dort hinten links."
     ]
@@ -5563,12 +4825,15 @@
   },
   {
     "id": "einkaufen",
-    "raw_word": "einkaufen,",
+    "raw_word": "einkaufen, kauft ein, hat eingekauft",
     "details": {
       "article": null,
       "headword": "einkaufen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "kauft ein",
+        "hat eingekauft"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -5577,23 +4842,6 @@
     "examples": [
       "Ich muss noch für morgen einkaufen."
     ]
-  },
-  {
-    "id": "kauft ein",
-    "raw_word": "kauft ein, hat eingekauft",
-    "details": {
-      "article": null,
-      "headword": "kauft ein",
-      "plural": null,
-      "conjugation": [
-        "hat eingekauft"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Einkaufszentrum",
@@ -5614,12 +4862,15 @@
   },
   {
     "id": "einladen",
-    "raw_word": "einladen,",
+    "raw_word": "einladen, lädt ein, hat eingeladen",
     "details": {
       "article": null,
       "headword": "einladen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "lädt ein",
+        "hat eingeladen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -5628,23 +4879,6 @@
     "examples": [
       "Darf ich Sie zu einem Kaffee einladen?"
     ]
-  },
-  {
-    "id": "lädt ein",
-    "raw_word": "lädt ein, hat eingeladen",
-    "details": {
-      "article": null,
-      "headword": "lädt ein",
-      "plural": null,
-      "conjugation": [
-        "hat eingeladen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Einladung",
@@ -5684,29 +4918,13 @@
   },
   {
     "id": "einpacken",
-    "raw_word": "einpacken,",
+    "raw_word": "einpacken, packt ein, hat eingepackt",
     "details": {
       "article": null,
       "headword": "einpacken",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Pack bitte die Handtücher ein!"
-    ]
-  },
-  {
-    "id": "packt ein",
-    "raw_word": "packt ein, hat eingepackt",
-    "details": {
-      "article": null,
-      "headword": "packt ein",
-      "plural": null,
       "conjugation": [
+        "packt ein",
         "hat eingepackt"
       ],
       "synonyms": [],
@@ -5715,34 +4933,19 @@
       "female_form": null
     },
     "examples": [
+      "Pack bitte die Handtücher ein!",
       "Soll ich Ihnen das als Geschenk einpacken?"
     ]
   },
   {
     "id": "einsteigen",
-    "raw_word": "einsteigen,",
+    "raw_word": "einsteigen, steigt ein, ist eingestiegen",
     "details": {
       "article": null,
       "headword": "einsteigen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Schnell, steig ein, der Zug fährt gleich ab."
-    ]
-  },
-  {
-    "id": "steigt ein",
-    "raw_word": "steigt ein, ist eingestiegen",
-    "details": {
-      "article": null,
-      "headword": "steigt ein",
-      "plural": null,
       "conjugation": [
+        "steigt ein",
         "ist eingestiegen"
       ],
       "synonyms": [],
@@ -5751,34 +4954,19 @@
       "female_form": null
     },
     "examples": [
+      "Schnell, steig ein, der Zug fährt gleich ab.",
       "Bitte ab 20 Uhr vorn im Bus einsteigen."
     ]
   },
   {
     "id": "eintragen (sich)",
-    "raw_word": "eintragen (sich),",
+    "raw_word": "eintragen (sich), trägt ein, hat eingetragen",
     "details": {
       "article": null,
       "headword": "eintragen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Tragen Sie sich bitte in diese Liste ein!"
-    ]
-  },
-  {
-    "id": "trägt ein",
-    "raw_word": "trägt ein, hat eingetragen",
-    "details": {
-      "article": null,
-      "headword": "trägt ein",
-      "plural": null,
       "conjugation": [
+        "trägt ein",
         "hat eingetragen"
       ],
       "synonyms": [],
@@ -5787,6 +4975,7 @@
       "female_form": null
     },
     "examples": [
+      "Tragen Sie sich bitte in diese Liste ein!",
       "Sie müssen Ihren Namen und Ihre Adresse eintragen."
     ]
   },
@@ -5872,29 +5061,13 @@
   },
   {
     "id": "einziehen",
-    "raw_word": "einziehen,",
+    "raw_word": "einziehen, zieht ein, ist eingezogen",
     "details": {
       "article": null,
       "headword": "einziehen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Im Juni ziehen unsere neuen Nachbarn ein."
-    ]
-  },
-  {
-    "id": "zieht ein",
-    "raw_word": "zieht ein, ist eingezogen",
-    "details": {
-      "article": null,
-      "headword": "zieht ein",
-      "plural": null,
       "conjugation": [
+        "zieht ein",
         "ist eingezogen"
       ],
       "synonyms": [],
@@ -5903,16 +5076,17 @@
       "female_form": null
     },
     "examples": [
+      "Im Juni ziehen unsere neuen Nachbarn ein.",
       "Wann können wir in die Wohnung einziehen?"
     ]
   },
   {
-    "id": "das Eis (Sg.)",
+    "id": "das Eis",
     "raw_word": "das Eis (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Eis (Sg.)",
-      "plural": null,
+      "headword": "Eis",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5959,12 +5133,15 @@
   },
   {
     "id": "empfehlen",
-    "raw_word": "empfehlen,",
+    "raw_word": "empfehlen, empfiehlt, hat empfohlen",
     "details": {
       "article": null,
       "headword": "empfehlen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "empfiehlt",
+        "hat empfohlen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -5973,23 +5150,6 @@
     "examples": [
       "Welchen Wein können Sie mir empfehlen?"
     ]
-  },
-  {
-    "id": "empfiehlt",
-    "raw_word": "empfiehlt, hat empfohlen",
-    "details": {
-      "article": null,
-      "headword": "empfiehlt",
-      "plural": null,
-      "conjugation": [
-        "hat empfohlen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Ende",
@@ -6086,12 +5246,15 @@
   },
   {
     "id": "(sich)",
-    "raw_word": "(sich),",
+    "raw_word": "(sich), entschuldigt, hat entschuldigt",
     "details": {
       "article": null,
       "headword": "(sich)",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "entschuldigt",
+        "hat entschuldigt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -6100,23 +5263,6 @@
     "examples": [
       "Ich möchte mich bei dir entschuldigen."
     ]
-  },
-  {
-    "id": "entschuldigt",
-    "raw_word": "entschuldigt, hat entschuldigt",
-    "details": {
-      "article": null,
-      "headword": "entschuldigt",
-      "plural": null,
-      "conjugation": [
-        "hat entschuldigt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Entschuldigung",
@@ -6172,29 +5318,13 @@
   },
   {
     "id": "erinnern (sich)",
-    "raw_word": "erinnern (sich),",
+    "raw_word": "erinnern (sich), erinnert, hat erinnert",
     "details": {
       "article": null,
       "headword": "erinnern (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Erinnerst du dich an José? - Nein, ich erinnere mich"
-    ]
-  },
-  {
-    "id": "erinnert",
-    "raw_word": "erinnert, hat erinnert",
-    "details": {
-      "article": null,
-      "headword": "erinnert",
-      "plural": null,
       "conjugation": [
+        "erinnert",
         "hat erinnert"
       ],
       "synonyms": [],
@@ -6203,7 +5333,7 @@
       "female_form": null
     },
     "examples": [
-      "nicht an ihn, tut mir leid.",
+      "Erinnerst du dich an José? - Nein, ich erinnere mich nicht an ihn, tut mir leid.",
       "Kannst du mich morgen bitte an meinen Arzttermin erinnern?"
     ]
   },
@@ -6293,12 +5423,12 @@
     ]
   },
   {
-    "id": "die Erlaubnis (Sg.)",
+    "id": "die Erlaubnis",
     "raw_word": "die Erlaubnis (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Erlaubnis (Sg.)",
-      "plural": null,
+      "headword": "Erlaubnis",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6328,29 +5458,13 @@
   },
   {
     "id": "erreichen",
-    "raw_word": "erreichen,",
+    "raw_word": "erreichen, erreicht, hat erreicht",
     "details": {
       "article": null,
       "headword": "erreichen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wenn wir uns beeilen, erreichen wir noch den Zug"
-    ]
-  },
-  {
-    "id": "erreicht",
-    "raw_word": "erreicht, hat erreicht",
-    "details": {
-      "article": null,
-      "headword": "erreicht",
-      "plural": null,
       "conjugation": [
+        "erreicht",
         "hat erreicht"
       ],
       "synonyms": [],
@@ -6359,7 +5473,7 @@
       "female_form": null
     },
     "examples": [
-      "um acht Uhr.",
+      "Wenn wir uns beeilen, erreichen wir noch den Zug um acht Uhr.",
       "Bis 18 Uhr können Sie mich im Büro erreichen."
     ]
   },
@@ -6497,29 +5611,13 @@
   },
   {
     "id": "(ab)fahren",
-    "raw_word": "(ab)fahren,",
+    "raw_word": "(ab)fahren, fährt (ab), ist (ab)gefahren",
     "details": {
       "article": null,
       "headword": "(ab)fahren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich fahre mit dem Auto zur Arbeit."
-    ]
-  },
-  {
-    "id": "fährt (ab)",
-    "raw_word": "fährt (ab), ist (ab)gefahren",
-    "details": {
-      "article": null,
-      "headword": "fährt (ab)",
-      "plural": null,
       "conjugation": [
+        "fährt (ab)",
         "ist (ab)gefahren"
       ],
       "synonyms": [],
@@ -6528,6 +5626,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich fahre mit dem Auto zur Arbeit.",
       "Achtung an Gleis 17!",
       "Der Zug München - Paris fährt jetzt ab."
     ]
@@ -6896,12 +5995,15 @@
   },
   {
     "id": "fernsehen",
-    "raw_word": "fernsehen,",
+    "raw_word": "fernsehen, sieht fern, hat ferngesehen",
     "details": {
       "article": null,
       "headword": "fernsehen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "sieht fern",
+        "hat ferngesehen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -6910,23 +6012,6 @@
     "examples": [
       "Lass uns heute Abend mal fernsehen."
     ]
-  },
-  {
-    "id": "sieht fern",
-    "raw_word": "sieht fern, hat ferngesehen",
-    "details": {
-      "article": null,
-      "headword": "sieht fern",
-      "plural": null,
-      "conjugation": [
-        "hat ferngesehen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Fernseher",
@@ -7023,12 +6108,12 @@
     ]
   },
   {
-    "id": "das Fieber (Sg.)",
+    "id": "das Fieber",
     "raw_word": "das Fieber (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Fieber (Sg.)",
-      "plural": null,
+      "headword": "Fieber",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7152,12 +6237,12 @@
     ]
   },
   {
-    "id": "das Fleisch (Sg.)",
+    "id": "das Fleisch",
     "raw_word": "das Fleisch (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Fleisch (Sg.)",
-      "plural": null,
+      "headword": "Fleisch",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7188,29 +6273,13 @@
   },
   {
     "id": "(ab)fliegen",
-    "raw_word": "(ab)fliegen,",
+    "raw_word": "(ab)fliegen, fliegt (ab), ist (ab)geflogen",
     "details": {
       "article": null,
       "headword": "(ab)fliegen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich fliege nicht gern; ich fahre lieber mit dem Zug."
-    ]
-  },
-  {
-    "id": "fliegt (ab)",
-    "raw_word": "fliegt (ab), ist (ab)geflogen",
-    "details": {
-      "article": null,
-      "headword": "fliegt (ab)",
-      "plural": null,
       "conjugation": [
+        "fliegt (ab)",
         "ist (ab)geflogen"
       ],
       "synonyms": [],
@@ -7219,6 +6288,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich fliege nicht gern; ich fahre lieber mit dem Zug.",
       "Ich fliege in den Ferien nach Spanien.",
       "Wann fliegst du ab?"
     ]
@@ -7348,12 +6418,15 @@
   },
   {
     "id": "fotografieren",
-    "raw_word": "fotografieren,",
+    "raw_word": "fotografieren, fotografiert, hat fotografiert",
     "details": {
       "article": null,
       "headword": "fotografieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "fotografiert",
+        "hat fotografiert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -7362,23 +6435,6 @@
     "examples": [
       "Ich fotografiere gern."
     ]
-  },
-  {
-    "id": "fotografiert",
-    "raw_word": "fotografiert, hat fotografiert",
-    "details": {
-      "article": null,
-      "headword": "fotografiert",
-      "plural": null,
-      "conjugation": [
-        "hat fotografiert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Foto",
@@ -7491,12 +6547,12 @@
     ]
   },
   {
-    "id": "die Freizeit (Sg.)",
+    "id": "die Freizeit",
     "raw_word": "die Freizeit (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Freizeit (Sg.)",
-      "plural": null,
+      "headword": "Freizeit",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7631,7 +6687,7 @@
     },
     "examples": [
       "Das Brot ist noch ganz frisch.",
-      "Ich habe es gerade"
+      "Ich habe es gerade gekauft."
     ]
   },
   {
@@ -7690,12 +6746,12 @@
     ]
   },
   {
-    "id": "das Frühstück (Sg.)",
+    "id": "das Frühstück",
     "raw_word": "das Frühstück (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Frühstück (Sg.)",
-      "plural": null,
+      "headword": "Frühstück",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7708,12 +6764,15 @@
   },
   {
     "id": "frühstücken",
-    "raw_word": "frühstücken,",
+    "raw_word": "frühstücken, frühstückt, hat gefrühstückt",
     "details": {
       "article": null,
       "headword": "frühstücken",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "frühstückt",
+        "hat gefrühstückt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -7724,47 +6783,14 @@
     ]
   },
   {
-    "id": "frühstückt",
-    "raw_word": "frühstückt, hat gefrühstückt",
-    "details": {
-      "article": null,
-      "headword": "frühstückt",
-      "plural": null,
-      "conjugation": [
-        "hat gefrühstückt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "fühlen (sich)",
-    "raw_word": "fühlen (sich),",
+    "raw_word": "fühlen (sich), fühlt, hat gefühlt",
     "details": {
       "article": null,
       "headword": "fühlen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wie fühlen Sie sich?"
-    ]
-  },
-  {
-    "id": "fühlt",
-    "raw_word": "fühlt, hat gefühlt",
-    "details": {
-      "article": null,
-      "headword": "fühlt",
-      "plural": null,
       "conjugation": [
+        "fühlt",
         "hat gefühlt"
       ],
       "synonyms": [],
@@ -7773,6 +6799,7 @@
       "female_form": null
     },
     "examples": [
+      "Wie fühlen Sie sich?",
       "Ich fühle mich heute nicht gut."
     ]
   },
@@ -8050,32 +7077,15 @@
   },
   {
     "id": "(jahr",
-    "raw_word": "(jahr, ort, tag),",
+    "raw_word": "(jahr, ort, tag), (-e, -e, -e)",
     "details": {
       "article": null,
       "headword": "(jahr",
       "plural": null,
       "conjugation": [
         "ort",
-        "tag)"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Bitte tragen Sie Ihren Geburtsort noch ein."
-    ]
-  },
-  {
-    "id": "(-e",
-    "raw_word": "(-e, -e, -e)",
-    "details": {
-      "article": null,
-      "headword": "(-e",
-      "plural": null,
-      "conjugation": [
+        "tag)",
+        "(-e",
         "-e",
         "-e)"
       ],
@@ -8085,6 +7095,7 @@
       "female_form": null
     },
     "examples": [
+      "Bitte tragen Sie Ihren Geburtsort noch ein.",
       "Herzlichen Glückwunsch zum Geburtstag!"
     ]
   },
@@ -8262,12 +7273,12 @@
     ]
   },
   {
-    "id": "das Geld (Sg.)",
+    "id": "das Geld",
     "raw_word": "das Geld (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Geld (Sg.)",
-      "plural": null,
+      "headword": "Geld",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8297,12 +7308,12 @@
     ]
   },
   {
-    "id": "das Gemüse (Sg.)",
+    "id": "das Gemüse",
     "raw_word": "das Gemüse (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Gemüse (Sg.)",
-      "plural": null,
+      "headword": "Gemüse",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8352,12 +7363,12 @@
     ]
   },
   {
-    "id": "das Gepäck (Sg.)",
+    "id": "das Gepäck",
     "raw_word": "das Gepäck (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Gepäck (Sg.)",
-      "plural": null,
+      "headword": "Gepäck",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8442,13 +7453,14 @@
   },
   {
     "id": "gern",
-    "raw_word": "gern, lieber,",
+    "raw_word": "gern, lieber, am liebsten",
     "details": {
       "article": null,
       "headword": "gern",
       "plural": null,
       "conjugation": [
-        "lieber"
+        "lieber",
+        "am liebsten"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -8456,23 +7468,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich helfe Ihnen gern."
-    ]
-  },
-  {
-    "id": "am liebsten",
-    "raw_word": "am liebsten",
-    "details": {
-      "article": null,
-      "headword": "am liebsten",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich helfe Ihnen gern.",
       "Kaffee oder Tee? - Ich trinke lieber einen Tee.",
       "Am liebsten trinke ich Kaffee."
     ]
@@ -8531,12 +7527,12 @@
     ]
   },
   {
-    "id": "das Geschirr (Sg.)",
+    "id": "das Geschirr",
     "raw_word": "das Geschirr (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Geschirr (Sg.)",
-      "plural": null,
+      "headword": "Geschirr",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8620,12 +7616,12 @@
     ]
   },
   {
-    "id": "die Gesundheit (Sg.)",
+    "id": "die Gesundheit",
     "raw_word": "die Gesundheit (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Gesundheit (Sg.)",
-      "plural": null,
+      "headword": "Gesundheit",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8657,29 +7653,13 @@
   },
   {
     "id": "gewinnen",
-    "raw_word": "gewinnen,",
+    "raw_word": "gewinnen, gewinnt, hat gewonnen",
     "details": {
       "article": null,
       "headword": "gewinnen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Unsere Mannschaft hat gewonnen."
-    ]
-  },
-  {
-    "id": "gewinnt",
-    "raw_word": "gewinnt, hat gewonnen",
-    "details": {
-      "article": null,
-      "headword": "gewinnt",
-      "plural": null,
       "conjugation": [
+        "gewinnt",
         "hat gewonnen"
       ],
       "synonyms": [],
@@ -8688,6 +7668,7 @@
       "female_form": null
     },
     "examples": [
+      "Unsere Mannschaft hat gewonnen.",
       "Mein Sohn will bei diesem Spiel immer gewinnen."
     ]
   },
@@ -8800,12 +7781,12 @@
     ]
   },
   {
-    "id": "das Glück (Sg.)",
+    "id": "das Glück",
     "raw_word": "das Glück (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Glück (Sg.)",
-      "plural": null,
+      "headword": "Glück",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8855,12 +7836,15 @@
   },
   {
     "id": "gratulieren",
-    "raw_word": "gratulieren,",
+    "raw_word": "gratulieren, gratuliert, hat gratuliert",
     "details": {
       "article": null,
       "headword": "gratulieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "gratuliert",
+        "hat gratuliert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -8869,23 +7853,6 @@
     "examples": [
       "Ich gratuliere dir!"
     ]
-  },
-  {
-    "id": "gratuliert",
-    "raw_word": "gratuliert, hat gratuliert",
-    "details": {
-      "article": null,
-      "headword": "gratuliert",
-      "plural": null,
-      "conjugation": [
-        "hat gratuliert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "grillen",
@@ -8908,12 +7875,12 @@
     ]
   },
   {
-    "id": "die Grippe (Sg.)",
+    "id": "die Grippe",
     "raw_word": "die Grippe (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Grippe (Sg.)",
-      "plural": null,
+      "headword": "Grippe",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9037,13 +8004,14 @@
   },
   {
     "id": "gut",
-    "raw_word": "gut, besser,",
+    "raw_word": "gut, besser, am besten",
     "details": {
       "article": null,
       "headword": "gut",
       "plural": null,
       "conjugation": [
-        "besser"
+        "besser",
+        "am besten"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -9051,23 +8019,7 @@
       "female_form": null
     },
     "examples": [
-      "Das finde ich gut."
-    ]
-  },
-  {
-    "id": "am besten",
-    "raw_word": "am besten",
-    "details": {
-      "article": null,
-      "headword": "am besten",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Das finde ich gut.",
       "Ich komme um 17 Uhr. – Gut!",
       "Guten Morgen!",
       "Ein gutes neues Jahr!",
@@ -9095,31 +8047,14 @@
   },
   {
     "id": "haben",
-    "raw_word": "haben, hat,",
+    "raw_word": "haben, hat, hatte, hat gehabt",
     "details": {
       "article": null,
       "headword": "haben",
       "plural": null,
       "conjugation": [
-        "hat"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich habe ein neues Auto."
-    ]
-  },
-  {
-    "id": "hatte",
-    "raw_word": "hatte, hat gehabt",
-    "details": {
-      "article": null,
-      "headword": "hatte",
-      "plural": null,
-      "conjugation": [
+        "hat",
+        "hatte",
         "hat gehabt"
       ],
       "synonyms": [],
@@ -9128,6 +8063,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich habe ein neues Auto.",
       "Hast du kurz Zeit?"
     ]
   },
@@ -9455,12 +8391,12 @@
     ]
   },
   {
-    "id": "die Heimat (Sg.)",
+    "id": "die Heimat",
     "raw_word": "die Heimat (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Heimat (Sg.)",
-      "plural": null,
+      "headword": "Heimat",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9625,7 +8561,10 @@
       "female_form": null
     },
     "examples": [
-      "Komm bitte mal her!"
+      "Komm bitte mal her!",
+      "Herein!",
+      "Die Tür ist offen.",
+      "Woher kommen Sie?"
     ]
   },
   {
@@ -9707,12 +8646,15 @@
   },
   {
     "id": "herstellen",
-    "raw_word": "herstellen,",
+    "raw_word": "herstellen, stellt her, hat hergestellt",
     "details": {
       "article": null,
       "headword": "herstellen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "stellt her",
+        "hat hergestellt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -9723,30 +8665,16 @@
     ]
   },
   {
-    "id": "stellt her",
-    "raw_word": "stellt her, hat hergestellt",
-    "details": {
-      "article": null,
-      "headword": "stellt her",
-      "plural": null,
-      "conjugation": [
-        "hat hergestellt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "herunterladen",
-    "raw_word": "herunterladen,",
+    "raw_word": "herunterladen, lädt herunter, hat heruntergeladen",
     "details": {
       "article": null,
       "headword": "herunterladen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "lädt herunter",
+        "hat heruntergeladen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -9755,23 +8683,6 @@
     "examples": [
       "Er lädt die Musik aus dem Internet herunter."
     ]
-  },
-  {
-    "id": "lädt herunter",
-    "raw_word": "lädt herunter, hat heruntergeladen",
-    "details": {
-      "article": null,
-      "headword": "lädt herunter",
-      "plural": null,
-      "conjugation": [
-        "hat heruntergeladen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "herzlich",
@@ -9830,12 +8741,12 @@
     ]
   },
   {
-    "id": "die Hilfe (Sg.)",
+    "id": "die Hilfe",
     "raw_word": "die Hilfe (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Hilfe (Sg.)",
-      "plural": null,
+      "headword": "Hilfe",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9849,12 +8760,12 @@
     ]
   },
   {
-    "id": "der Himmel (Sg.)",
+    "id": "der Himmel",
     "raw_word": "der Himmel (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Himmel (Sg.)",
-      "plural": null,
+      "headword": "Himmel",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10123,12 +9034,12 @@
     ]
   },
   {
-    "id": "der Hunger (Sg.)",
+    "id": "der Hunger",
     "raw_word": "der Hunger (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Hunger (Sg.)",
-      "plural": null,
+      "headword": "Hunger",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10344,30 +9255,14 @@
   },
   {
     "id": "interessieren (sich)",
-    "raw_word": "interessieren (sich),",
+    "raw_word": "interessieren (sich), interessiert, hat interessiert interessant",
     "details": {
       "article": null,
       "headword": "interessieren (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich interessiere mich für Fußball."
-    ]
-  },
-  {
-    "id": "interessiert",
-    "raw_word": "interessiert, hat interessiert",
-    "details": {
-      "article": null,
-      "headword": "interessiert",
-      "plural": null,
       "conjugation": [
-        "hat interessiert"
+        "interessiert",
+        "hat interessiert interessant"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -10375,23 +9270,8 @@
       "female_form": null
     },
     "examples": [
-      "Den Artikel über Brasilien finde ich sehr interessant."
-    ]
-  },
-  {
-    "id": "interessant",
-    "raw_word": "interessant",
-    "details": {
-      "article": null,
-      "headword": "interessant",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich interessiere mich für Fußball.",
+      "Den Artikel über Brasilien finde ich sehr interessant.",
       "Ich lese gerade ein interessantes Buch."
     ]
   },
@@ -10413,12 +9293,12 @@
     ]
   },
   {
-    "id": "das Internet (Sg.)",
+    "id": "das Internet",
     "raw_word": "das Internet (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Internet (Sg.)",
-      "plural": null,
+      "headword": "Internet",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10578,13 +9458,14 @@
   },
   {
     "id": "joggen",
-    "raw_word": "joggen, joggt,",
+    "raw_word": "joggen, joggt, ist/hat gejoggt",
     "details": {
       "article": null,
       "headword": "joggen",
       "plural": null,
       "conjugation": [
-        "joggt"
+        "joggt",
+        "ist/hat gejoggt"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -10594,23 +9475,6 @@
     "examples": [
       "Ich jogge gern im Park."
     ]
-  },
-  {
-    "id": "ist/hat gejoggt",
-    "raw_word": "ist/hat gejoggt",
-    "details": {
-      "article": null,
-      "headword": "ist gejoggt",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "hat"
-      ],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Jugendherberge",
@@ -10822,12 +9686,12 @@
     ]
   },
   {
-    "id": "der Käse (Sg.)",
+    "id": "der Käse",
     "raw_word": "der Käse (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Käse (Sg.)",
-      "plural": null,
+      "headword": "Käse",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10972,29 +9836,13 @@
   },
   {
     "id": "kennenlernen",
-    "raw_word": "kennenlernen,",
+    "raw_word": "kennenlernen, lernt kennen, hat kennengelernt",
     "details": {
       "article": null,
       "headword": "kennenlernen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wo habt ihr euch kennengelernt? –Wir haben uns"
-    ]
-  },
-  {
-    "id": "lernt kennen",
-    "raw_word": "lernt kennen, hat kennengelernt",
-    "details": {
-      "article": null,
-      "headword": "lernt kennen",
-      "plural": null,
       "conjugation": [
+        "lernt kennen",
         "hat kennengelernt"
       ],
       "synonyms": [],
@@ -11003,7 +9851,7 @@
       "female_form": null
     },
     "examples": [
-      "in München kennengelernt."
+      "Wo habt ihr euch kennengelernt? –Wir haben uns in München kennengelernt."
     ]
   },
   {
@@ -11200,12 +10048,12 @@
     ]
   },
   {
-    "id": "die Kleidung (Sg.)",
+    "id": "die Kleidung",
     "raw_word": "die Kleidung (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Kleidung (Sg.)",
-      "plural": null,
+      "headword": "Kleidung",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11371,32 +10219,14 @@
   },
   {
     "id": "können",
-    "raw_word": "können, kann,",
+    "raw_word": "können, kann, konnte, hat gekonnt",
     "details": {
       "article": null,
       "headword": "können",
       "plural": null,
       "conjugation": [
-        "kann"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich kann Deutsch und Russisch.",
-      "Aber Englisch kann"
-    ]
-  },
-  {
-    "id": "konnte",
-    "raw_word": "konnte, hat gekonnt",
-    "details": {
-      "article": null,
-      "headword": "konnte",
-      "plural": null,
-      "conjugation": [
+        "kann",
+        "konnte",
         "hat gekonnt"
       ],
       "synonyms": [],
@@ -11405,7 +10235,8 @@
       "female_form": null
     },
     "examples": [
-      "ich nicht.",
+      "Ich kann Deutsch und Russisch.",
+      "Aber Englisch kann ich nicht.",
       "Können Sie mir helfen?",
       "Du kannst durch den Park laufen, das ist am schnellsten.",
       "Kann ich jetzt nach Hause gehen?",
@@ -11449,29 +10280,13 @@
   },
   {
     "id": "kontrollieren",
-    "raw_word": "kontrollieren,",
+    "raw_word": "kontrollieren, kontrolliert, hat kontrolliert",
     "details": {
       "article": null,
       "headword": "kontrollieren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Können Sie bei meinem Auto bitte das Öl"
-    ]
-  },
-  {
-    "id": "kontrolliert",
-    "raw_word": "kontrolliert, hat kontrolliert",
-    "details": {
-      "article": null,
-      "headword": "kontrolliert",
-      "plural": null,
       "conjugation": [
+        "kontrolliert",
         "hat kontrolliert"
       ],
       "synonyms": [],
@@ -11480,7 +10295,7 @@
       "female_form": null
     },
     "examples": [
-      "kontrollieren?",
+      "Können Sie bei meinem Auto bitte das Öl kontrollieren?",
       "Bitte öffnen Sie Ihren Koffer, wir müssen Ihr Gepäck kontrollieren."
     ]
   },
@@ -11519,12 +10334,30 @@
     ]
   },
   {
-    "id": "die Kosmetik (Sg.)",
+    "id": "der Körper",
+    "raw_word": "der Körper, -",
+    "details": {
+      "article": "der",
+      "headword": "Körper",
+      "plural": "-",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Der Arzt sagt, ich muss etwas für meinen Körper tun, z.",
+      "B. schwimmen oder Fahrrad fahren."
+    ]
+  },
+  {
+    "id": "die Kosmetik",
     "raw_word": "die Kosmetik (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Kosmetik (Sg.)",
-      "plural": null,
+      "headword": "Kosmetik",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11808,30 +10641,13 @@
   },
   {
     "id": "kümmern (sich)",
-    "raw_word": "kümmern (sich),",
+    "raw_word": "kümmern (sich), kümmert, hat gekümmert",
     "details": {
       "article": null,
       "headword": "kümmern (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Sonja kann nicht arbeiten.",
-      "Sie muss sich um ihre"
-    ]
-  },
-  {
-    "id": "kümmert",
-    "raw_word": "kümmert, hat gekümmert",
-    "details": {
-      "article": null,
-      "headword": "kümmert",
-      "plural": null,
       "conjugation": [
+        "kümmert",
         "hat gekümmert"
       ],
       "synonyms": [],
@@ -11840,7 +10656,8 @@
       "female_form": null
     },
     "examples": [
-      "Tochter kümmern.",
+      "Sonja kann nicht arbeiten.",
+      "Sie muss sich um ihre Tochter kümmern.",
       "Ich habe jetzt keine Zeit.",
       "Ich muss mich um das Essen kümmern."
     ]
@@ -12323,12 +11140,15 @@
   },
   {
     "id": "leidtun/leid tun",
-    "raw_word": "leidtun/leid tun,",
+    "raw_word": "leidtun/leid tun, tut leid, hat leidgetan",
     "details": {
       "article": null,
       "headword": "leidtun tun",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "tut leid",
+        "hat leidgetan"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [
@@ -12339,23 +11159,6 @@
     "examples": [
       "Es tut mir leid, dass ich nicht kommen kann."
     ]
-  },
-  {
-    "id": "tut leid",
-    "raw_word": "tut leid, hat leidgetan",
-    "details": {
-      "article": null,
-      "headword": "tut leid",
-      "plural": null,
-      "conjugation": [
-        "hat leidgetan"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "leihen",
@@ -12710,12 +11513,12 @@
     ]
   },
   {
-    "id": "die Lust (Sg.)",
+    "id": "die Lust",
     "raw_word": "die Lust (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Lust (Sg.)",
-      "plural": null,
+      "headword": "Lust",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13273,12 +12076,12 @@
     ]
   },
   {
-    "id": "die Milch (Sg.)",
+    "id": "die Milch",
     "raw_word": "die Milch (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Milch (Sg.)",
-      "plural": null,
+      "headword": "Milch",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13310,12 +12113,12 @@
     ]
   },
   {
-    "id": "das Mineralwasser (Sg.)",
+    "id": "das Mineralwasser",
     "raw_word": "das Mineralwasser (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Mineralwasser (Sg.)",
-      "plural": null,
+      "headword": "Mineralwasser",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13479,13 +12282,15 @@
   },
   {
     "id": "möchten",
-    "raw_word": "möchten, möchte,",
+    "raw_word": "möchten, möchte, mochte, hat gemocht",
     "details": {
       "article": null,
       "headword": "möchten",
       "plural": null,
       "conjugation": [
-        "möchte"
+        "möchte",
+        "mochte",
+        "hat gemocht"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -13495,23 +12300,6 @@
     "examples": [
       "Was möchten Sie trinken?"
     ]
-  },
-  {
-    "id": "mochte",
-    "raw_word": "mochte, hat gemocht",
-    "details": {
-      "article": null,
-      "headword": "mochte",
-      "plural": null,
-      "conjugation": [
-        "hat gemocht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Mode",
@@ -13531,32 +12319,32 @@
     ]
   },
   {
-    "id": "mögen",
-    "raw_word": "mögen, mag,",
+    "id": "modern",
+    "raw_word": "modern",
     "details": {
       "article": null,
-      "headword": "mögen",
+      "headword": "modern",
       "plural": null,
-      "conjugation": [
-        "mag"
-      ],
+      "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Magst du Schokolade? - Nein, ich mag keine"
+      "Das Stadtzentrum von Frankfurt ist sehr modern."
     ]
   },
   {
-    "id": "mochte",
-    "raw_word": "mochte, hat gemocht",
+    "id": "mögen",
+    "raw_word": "mögen, mag, mochte, hat gemocht",
     "details": {
       "article": null,
-      "headword": "mochte",
+      "headword": "mögen",
       "plural": null,
       "conjugation": [
+        "mag",
+        "mochte",
         "hat gemocht"
       ],
       "synonyms": [],
@@ -13565,7 +12353,7 @@
       "female_form": null
     },
     "examples": [
-      "Süßigkeiten."
+      "Magst du Schokolade? - Nein, ich mag keine Süßigkeiten."
     ]
   },
   {
@@ -13675,12 +12463,12 @@
     ]
   },
   {
-    "id": "der Müll (Sg.)",
+    "id": "der Müll",
     "raw_word": "der Müll (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Müll (Sg.)",
-      "plural": null,
+      "headword": "Müll",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13729,12 +12517,12 @@
     ]
   },
   {
-    "id": "die Musik (Sg.)",
+    "id": "die Musik",
     "raw_word": "die Musik (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Musik (Sg.)",
-      "plural": null,
+      "headword": "Musik",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13748,13 +12536,14 @@
   },
   {
     "id": "müssen",
-    "raw_word": "müssen, muss,",
+    "raw_word": "müssen, muss, musste",
     "details": {
       "article": null,
       "headword": "müssen",
       "plural": null,
       "conjugation": [
-        "muss"
+        "muss",
+        "musste"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -13764,21 +12553,6 @@
     "examples": [
       "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
     ]
-  },
-  {
-    "id": "musste",
-    "raw_word": "musste",
-    "details": {
-      "article": null,
-      "headword": "musste",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Mütze",
@@ -13895,12 +12669,12 @@
     ]
   },
   {
-    "id": "die Nähe (Sg.)",
+    "id": "die Nähe",
     "raw_word": "die Nähe (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Nähe (Sg.)",
-      "plural": null,
+      "headword": "Nähe",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13950,12 +12724,12 @@
     ]
   },
   {
-    "id": "die Natur (Sg.)",
+    "id": "die Natur",
     "raw_word": "die Natur (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Natur (Sg.)",
-      "plural": null,
+      "headword": "Natur",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -14462,6 +13236,24 @@
     ]
   },
   {
+    "id": "das Obst",
+    "raw_word": "das Obst (Sg.)",
+    "details": {
+      "article": "das",
+      "headword": "Obst",
+      "plural": "(Sg.)",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Obst kaufe ich immer auf dem Markt.",
+      "Heute kaufe ich Äpfel und Orangen."
+    ]
+  },
+  {
     "id": "oder",
     "raw_word": "oder",
     "details": {
@@ -14645,29 +13437,13 @@
   },
   {
     "id": "organisieren",
-    "raw_word": "organisieren,",
+    "raw_word": "organisieren, organisiert, hat organisiert",
     "details": {
       "article": null,
       "headword": "organisieren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Frau Gomez organisiert unseren Ausflug."
-    ]
-  },
-  {
-    "id": "organisiert",
-    "raw_word": "organisiert, hat organisiert",
-    "details": {
-      "article": null,
-      "headword": "organisiert",
-      "plural": null,
       "conjugation": [
+        "organisiert",
         "hat organisiert"
       ],
       "synonyms": [],
@@ -14676,6 +13452,7 @@
       "female_form": null
     },
     "examples": [
+      "Frau Gomez organisiert unseren Ausflug.",
       "Hast du schon alles für deinen Urlaub organisiert?"
     ]
   },
@@ -14950,29 +13727,13 @@
   },
   {
     "id": "passieren",
-    "raw_word": "passieren,",
+    "raw_word": "passieren, passiert, ist passiert",
     "details": {
       "article": null,
       "headword": "passieren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wie ist der Unfall passiert?"
-    ]
-  },
-  {
-    "id": "passiert",
-    "raw_word": "passiert, ist passiert",
-    "details": {
-      "article": null,
-      "headword": "passiert",
-      "plural": null,
       "conjugation": [
+        "passiert",
         "ist passiert"
       ],
       "synonyms": [],
@@ -14981,6 +13742,7 @@
       "female_form": null
     },
     "examples": [
+      "Wie ist der Unfall passiert?",
       "Was ist passiert?"
     ]
   },
@@ -15182,12 +13944,12 @@
     ]
   },
   {
-    "id": "die Polizei (Sg.)",
+    "id": "die Polizei",
     "raw_word": "die Polizei (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Polizei (Sg.)",
-      "plural": null,
+      "headword": "Polizei",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15233,12 +13995,12 @@
     ]
   },
   {
-    "id": "die Post (Sg.)",
+    "id": "die Post",
     "raw_word": "die Post (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Post (Sg.)",
-      "plural": null,
+      "headword": "Post",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15429,29 +14191,13 @@
   },
   {
     "id": "probieren",
-    "raw_word": "probieren,",
+    "raw_word": "probieren, probiert, hat probiert",
     "details": {
       "article": null,
       "headword": "probieren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Möchten Sie den Käse probieren?"
-    ]
-  },
-  {
-    "id": "probiert",
-    "raw_word": "probiert, hat probiert",
-    "details": {
-      "article": null,
-      "headword": "probiert",
-      "plural": null,
       "conjugation": [
+        "probiert",
         "hat probiert"
       ],
       "synonyms": [],
@@ -15460,6 +14206,7 @@
       "female_form": null
     },
     "examples": [
+      "Möchten Sie den Käse probieren?",
       "Die Tür geht schwer auf.",
       "Probier mal!"
     ]
@@ -15663,12 +14410,12 @@
     ]
   },
   {
-    "id": "das Quiz (Sg.)",
+    "id": "das Quiz",
     "raw_word": "das Quiz (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Quiz (Sg.)",
-      "plural": null,
+      "headword": "Quiz",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15834,13 +14581,15 @@
   },
   {
     "id": "recht haben",
-    "raw_word": "recht haben, hat recht,",
+    "raw_word": "recht haben, hat recht, hatte recht, hat recht gehabt",
     "details": {
       "article": null,
       "headword": "recht haben",
       "plural": null,
       "conjugation": [
-        "hat recht"
+        "hat recht",
+        "hatte recht",
+        "hat recht gehabt"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -15850,23 +14599,6 @@
     "examples": [
       "Du hast (nicht) recht."
     ]
-  },
-  {
-    "id": "hatte recht",
-    "raw_word": "hatte recht, hat recht gehabt",
-    "details": {
-      "article": null,
-      "headword": "hatte recht",
-      "plural": null,
-      "conjugation": [
-        "hat recht gehabt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "rechts",
@@ -15907,12 +14639,12 @@
     ]
   },
   {
-    "id": "der Regen (Sg.)",
+    "id": "der Regen",
     "raw_word": "der Regen (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Regen (Sg.)",
-      "plural": null,
+      "headword": "Regen",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -16016,12 +14748,12 @@
     ]
   },
   {
-    "id": "der Reis (Sg.)",
+    "id": "der Reis",
     "raw_word": "der Reis (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Reis (Sg.)",
-      "plural": null,
+      "headword": "Reis",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -16128,12 +14860,15 @@
   },
   {
     "id": "renovieren",
-    "raw_word": "renovieren,",
+    "raw_word": "renovieren, renoviert, hat renoviert",
     "details": {
       "article": null,
       "headword": "renovieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "renoviert",
+        "hat renoviert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -16142,23 +14877,6 @@
     "examples": [
       "Wir renovieren das ganze Haus."
     ]
-  },
-  {
-    "id": "renoviert",
-    "raw_word": "renoviert, hat renoviert",
-    "details": {
-      "article": null,
-      "headword": "renoviert",
-      "plural": null,
-      "conjugation": [
-        "hat renoviert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "de Rentner",
@@ -16214,12 +14932,15 @@
   },
   {
     "id": "reparieren",
-    "raw_word": "reparieren,",
+    "raw_word": "reparieren, repariert, hat repariert",
     "details": {
       "article": null,
       "headword": "reparieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "repariert",
+        "hat repariert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -16230,64 +14951,15 @@
     ]
   },
   {
-    "id": "repariert",
-    "raw_word": "repariert, hat repariert",
-    "details": {
-      "article": null,
-      "headword": "repariert",
-      "plural": null,
-      "conjugation": [
-        "hat repariert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "reservieren",
-    "raw_word": "reservieren,",
+    "raw_word": "reservieren, reserviert, reservierte, hat reserviert",
     "details": {
       "article": null,
       "headword": "reservieren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Reservieren Sie bitte ein Doppelzimmer."
-    ]
-  },
-  {
-    "id": "reserviert",
-    "raw_word": "reserviert,",
-    "details": {
-      "article": null,
-      "headword": "reserviert",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich möchte gern einen Tisch für fünf Personen"
-    ]
-  },
-  {
-    "id": "reservierte",
-    "raw_word": "reservierte, hat reserviert",
-    "details": {
-      "article": null,
-      "headword": "reservierte",
-      "plural": null,
       "conjugation": [
+        "reserviert",
+        "reservierte",
         "hat reserviert"
       ],
       "synonyms": [],
@@ -16296,7 +14968,8 @@
       "female_form": null
     },
     "examples": [
-      "reservieren."
+      "Reservieren Sie bitte ein Doppelzimmer.",
+      "Ich möchte gern einen Tisch für fünf Personen reservieren."
     ]
   },
   {
@@ -16533,13 +15206,14 @@
   },
   {
     "id": "rufen",
-    "raw_word": "rufen, ruft,",
+    "raw_word": "rufen, ruft, hat gerufen",
     "details": {
       "article": null,
       "headword": "rufen",
       "plural": null,
       "conjugation": [
-        "ruft"
+        "ruft",
+        "hat gerufen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -16548,16 +15222,17 @@
     },
     "examples": [
       "Rufst du bitte die Kinder.",
-      "Das Essen ist fertig."
+      "Das Essen ist fertig.",
+      "Wir müssen einen Arzt rufen."
     ]
   },
   {
-    "id": "die Ruhe (Sg.)",
+    "id": "die Ruhe",
     "raw_word": "die Ruhe (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Ruhe (Sg.)",
-      "plural": null,
+      "headword": "Ruhe",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -16718,29 +15393,13 @@
   },
   {
     "id": "sammeln",
-    "raw_word": "sammeln,",
+    "raw_word": "sammeln, sammelt, hat gesammelt",
     "details": {
       "article": null,
       "headword": "sammeln",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Peter sammelt Briefmarken."
-    ]
-  },
-  {
-    "id": "sammelt",
-    "raw_word": "sammelt, hat gesammelt",
-    "details": {
-      "article": null,
-      "headword": "sammelt",
-      "plural": null,
       "conjugation": [
+        "sammelt",
         "hat gesammelt"
       ],
       "synonyms": [],
@@ -16749,6 +15408,7 @@
       "female_form": null
     },
     "examples": [
+      "Peter sammelt Briefmarken.",
       "Im Herbst sammeln wir im Wald bunte Blätter."
     ]
   },
@@ -16921,12 +15581,15 @@
   },
   {
     "id": "schenken",
-    "raw_word": "schenken,",
+    "raw_word": "schenken, schenkt, hat geschenkt",
     "details": {
       "article": null,
       "headword": "schenken",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "schenkt",
+        "hat geschenkt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -16935,23 +15598,6 @@
     "examples": [
       "Was schenken wir Michael zum Geburtstag?"
     ]
-  },
-  {
-    "id": "schenkt",
-    "raw_word": "schenkt, hat geschenkt",
-    "details": {
-      "article": null,
-      "headword": "schenkt",
-      "plural": null,
-      "conjugation": [
-        "hat geschenkt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Schere",
@@ -17028,29 +15674,13 @@
   },
   {
     "id": "schimpfen",
-    "raw_word": "schimpfen,",
+    "raw_word": "schimpfen, schimpft, hat geschimpft",
     "details": {
       "article": null,
       "headword": "schimpfen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Warum schimpfst du denn so laut? –Ich ärgere"
-    ]
-  },
-  {
-    "id": "schimpft",
-    "raw_word": "schimpft, hat geschimpft",
-    "details": {
-      "article": null,
-      "headword": "schimpft",
-      "plural": null,
       "conjugation": [
+        "schimpft",
         "hat geschimpft"
       ],
       "synonyms": [],
@@ -17059,7 +15689,7 @@
       "female_form": null
     },
     "examples": [
-      "mich über mein Auto.",
+      "Warum schimpfst du denn so laut? –Ich ärgere mich über mein Auto.",
       "Alle schimpfen über/auf das Wetter."
     ]
   },
@@ -17143,29 +15773,13 @@
   },
   {
     "id": "schließen",
-    "raw_word": "schließen,",
+    "raw_word": "schließen, schließt, hat geschlossen",
     "details": {
       "article": null,
       "headword": "schließen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Bitte schließen Sie die Tür."
-    ]
-  },
-  {
-    "id": "schließt",
-    "raw_word": "schließt, hat geschlossen",
-    "details": {
-      "article": null,
-      "headword": "schließt",
-      "plural": null,
       "conjugation": [
+        "schließt",
         "hat geschlossen"
       ],
       "synonyms": [],
@@ -17174,6 +15788,7 @@
       "female_form": null
     },
     "examples": [
+      "Bitte schließen Sie die Tür.",
       "Wir müssen uns beeilen, die Bank schließt um 18 Uhr."
     ]
   },
@@ -17251,29 +15866,13 @@
   },
   {
     "id": "schmecken",
-    "raw_word": "schmecken,",
+    "raw_word": "schmecken, schmeckt, hat geschmeckt",
     "details": {
       "article": null,
       "headword": "schmecken",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Schmeckt dir die Suppe?"
-    ]
-  },
-  {
-    "id": "schmeckt",
-    "raw_word": "schmeckt, hat geschmeckt",
-    "details": {
-      "article": null,
-      "headword": "schmeckt",
-      "plural": null,
       "conjugation": [
+        "schmeckt",
         "hat geschmeckt"
       ],
       "synonyms": [],
@@ -17282,6 +15881,7 @@
       "female_form": null
     },
     "examples": [
+      "Schmeckt dir die Suppe?",
       "Hat es Ihnen geschmeckt?",
       "Schmeckt's?"
     ]
@@ -17322,12 +15922,12 @@
     ]
   },
   {
-    "id": "der Schnee (Sg.)",
+    "id": "der Schnee",
     "raw_word": "der Schnee (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Schnee (Sg.)",
-      "plural": null,
+      "headword": "Schnee",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17340,29 +15940,13 @@
   },
   {
     "id": "schneiden (sich)",
-    "raw_word": "schneiden (sich),",
+    "raw_word": "schneiden (sich), schneidet, hat geschnitten",
     "details": {
       "article": null,
       "headword": "schneiden (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Das Messer schneidet nicht gut."
-    ]
-  },
-  {
-    "id": "schneidet",
-    "raw_word": "schneidet, hat geschnitten",
-    "details": {
-      "article": null,
-      "headword": "schneidet",
-      "plural": null,
       "conjugation": [
+        "schneidet",
         "hat geschnitten"
       ],
       "synonyms": [],
@@ -17371,6 +15955,7 @@
       "female_form": null
     },
     "examples": [
+      "Das Messer schneidet nicht gut.",
       "Wer schneidet dir die Haare?",
       "Aua!",
       "Ich habe mich geschnitten!"
@@ -17378,12 +15963,15 @@
   },
   {
     "id": "schneien",
-    "raw_word": "schneien,",
+    "raw_word": "schneien, schneit, hat geschneit",
     "details": {
       "article": null,
       "headword": "schneien",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "schneit",
+        "hat geschneit"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -17392,23 +15980,6 @@
     "examples": [
       "Morgen schneit es."
     ]
-  },
-  {
-    "id": "schneit",
-    "raw_word": "schneit, hat geschneit",
-    "details": {
-      "article": null,
-      "headword": "schneit",
-      "plural": null,
-      "conjugation": [
-        "hat geschneit"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "schnell",
@@ -17428,12 +15999,12 @@
     ]
   },
   {
-    "id": "die Schokolade (Sg.)",
+    "id": "die Schokolade",
     "raw_word": "die Schokolade (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Schokolade (Sg.)",
-      "plural": null,
+      "headword": "Schokolade",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17521,12 +16092,15 @@
   },
   {
     "id": "schreiben",
-    "raw_word": "schreiben,",
+    "raw_word": "schreiben, schreibt, hat geschrieben",
     "details": {
       "article": null,
       "headword": "schreiben",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "schreibt",
+        "hat geschrieben"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -17535,23 +16109,6 @@
     "examples": [
       "Ich schreibe dir eine E-Mail."
     ]
-  },
-  {
-    "id": "schreibt",
-    "raw_word": "schreibt, hat geschrieben",
-    "details": {
-      "article": null,
-      "headword": "schreibt",
-      "plural": null,
-      "conjugation": [
-        "hat geschrieben"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "schriftlich",
@@ -17585,7 +16142,9 @@
       "female_form": null
     },
     "examples": [
-      "Zieh die Schuhe aus!"
+      "Zieh die Schuhe aus!",
+      "Die neuen Schuhe sind mir zu eng.",
+      "Sie drücken."
     ]
   },
   {
@@ -17749,12 +16308,15 @@
   },
   {
     "id": "schwimmen",
-    "raw_word": "schwimmen,",
+    "raw_word": "schwimmen, schwimmt, ist geschwommen",
     "details": {
       "article": null,
       "headword": "schwimmen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "schwimmt",
+        "ist geschwommen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -17763,23 +16325,6 @@
     "examples": [
       "Ich schwimme täglich einen Kilometer."
     ]
-  },
-  {
-    "id": "schwimmt",
-    "raw_word": "schwimmt, ist geschwommen",
-    "details": {
-      "article": null,
-      "headword": "schwimmt",
-      "plural": null,
-      "conjugation": [
-        "ist geschwommen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der See",
@@ -18059,12 +16604,12 @@
     ]
   },
   {
-    "id": "der Service (Sg.)",
+    "id": "der Service",
     "raw_word": "der Service (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Service (Sg.)",
-      "plural": null,
+      "headword": "Service",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18078,12 +16623,15 @@
   },
   {
     "id": "setzen (sich)",
-    "raw_word": "setzen (sich),",
+    "raw_word": "setzen (sich), setzt, hat gesetzt",
     "details": {
       "article": null,
       "headword": "setzen (sich)",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "setzt",
+        "hat gesetzt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -18092,23 +16640,6 @@
     "examples": [
       "Setz dich doch!"
     ]
-  },
-  {
-    "id": "setzt",
-    "raw_word": "setzt, hat gesetzt",
-    "details": {
-      "article": null,
-      "headword": "setzt",
-      "plural": null,
-      "conjugation": [
-        "hat gesetzt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "sicher",
@@ -18284,13 +16815,14 @@
   },
   {
     "id": "sollen",
-    "raw_word": "sollen, soll,",
+    "raw_word": "sollen, soll, sollte",
     "details": {
       "article": null,
       "headword": "sollen",
       "plural": null,
       "conjugation": [
-        "soll"
+        "soll",
+        "sollte"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -18298,23 +16830,7 @@
       "female_form": null
     },
     "examples": [
-      "Wann soll ich kommen und was soll ich mitbringen?"
-    ]
-  },
-  {
-    "id": "sollte",
-    "raw_word": "sollte",
-    "details": {
-      "article": null,
-      "headword": "sollte",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Wann soll ich kommen und was soll ich mitbringen?",
       "Und, was hat der Arzt gesagt? –Ich soll drei Tage im Bett bleiben und viel Tee trinken."
     ]
   },
@@ -18409,12 +16925,12 @@
     ]
   },
   {
-    "id": "der Spaß (Sg.)",
+    "id": "der Spaß",
     "raw_word": "der Spaß (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Spaß (Sg.)",
-      "plural": null,
+      "headword": "Spaß",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18464,12 +16980,15 @@
   },
   {
     "id": "spazieren gehen",
-    "raw_word": "spazieren gehen,",
+    "raw_word": "spazieren gehen, geht spazieren, ist spazieren gegangen",
     "details": {
       "article": null,
       "headword": "spazieren gehen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "geht spazieren",
+        "ist spazieren gegangen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -18478,23 +16997,6 @@
     "examples": [
       "Wir gehen sonntags immer spazieren."
     ]
-  },
-  {
-    "id": "geht spazieren",
-    "raw_word": "geht spazieren, ist spazieren gegangen",
-    "details": {
-      "article": null,
-      "headword": "geht spazieren",
-      "plural": null,
-      "conjugation": [
-        "ist spazieren gegangen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Spaziergang",
@@ -18515,12 +17017,15 @@
   },
   {
     "id": "speichern",
-    "raw_word": "speichern,",
+    "raw_word": "speichern, speichert, hat gespeichert",
     "details": {
       "article": null,
       "headword": "speichern",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "speichert",
+        "hat gespeichert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -18529,21 +17034,6 @@
     "examples": [
       "Sie müssen die Datei speichern."
     ]
-  },
-  {
-    "id": "speichert",
-    "raw_word": "speichert,",
-    "details": {
-      "article": null,
-      "headword": "speichert",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Speisekarte",
@@ -18582,29 +17072,13 @@
   },
   {
     "id": "spielen",
-    "raw_word": "spielen,",
+    "raw_word": "spielen, spielt, hat gespielt",
     "details": {
       "article": null,
       "headword": "spielen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Die Kinder spielen draußen."
-    ]
-  },
-  {
-    "id": "spielt",
-    "raw_word": "spielt, hat gespielt",
-    "details": {
-      "article": null,
-      "headword": "spielt",
-      "plural": null,
       "conjugation": [
+        "spielt",
         "hat gespielt"
       ],
       "synonyms": [],
@@ -18613,17 +17087,18 @@
       "female_form": null
     },
     "examples": [
+      "Die Kinder spielen draußen.",
       "Spielen Sie Karten?",
       "Jakob spielt Klavier."
     ]
   },
   {
-    "id": "der Sport (Sg.)",
+    "id": "der Sport",
     "raw_word": "der Sport (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Sport (Sg.)",
-      "plural": null,
+      "headword": "Sport",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18687,12 +17162,15 @@
   },
   {
     "id": "sprechen",
-    "raw_word": "sprechen,",
+    "raw_word": "sprechen, spricht, hat gesprochen",
     "details": {
       "article": null,
       "headword": "sprechen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "spricht",
+        "hat gesprochen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -18701,23 +17179,6 @@
     "examples": [
       "Kann ich (mit) Herrn Klein sprechen?"
     ]
-  },
-  {
-    "id": "spricht",
-    "raw_word": "spricht, hat gesprochen",
-    "details": {
-      "article": null,
-      "headword": "spricht",
-      "plural": null,
-      "conjugation": [
-        "hat gesprochen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Sprechstunde",
@@ -18808,12 +17269,15 @@
   },
   {
     "id": "stattfinden",
-    "raw_word": "stattfinden,",
+    "raw_word": "stattfinden, findet statt, hat stattgefunden",
     "details": {
       "article": null,
       "headword": "stattfinden",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "findet statt",
+        "hat stattgefunden"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -18822,23 +17286,6 @@
     "examples": [
       "Das Spiel findet auch bei Regen statt."
     ]
-  },
-  {
-    "id": "findet statt",
-    "raw_word": "findet statt, hat stattgefunden",
-    "details": {
-      "article": null,
-      "headword": "findet statt",
-      "plural": null,
-      "conjugation": [
-        "hat stattgefunden"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "stehen",
@@ -19085,12 +17532,15 @@
   },
   {
     "id": "streiten (sich)",
-    "raw_word": "streiten (sich),",
+    "raw_word": "streiten (sich), streitet, hat gestritten",
     "details": {
       "article": null,
       "headword": "streiten (sich)",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "streitet",
+        "hat gestritten"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -19099,23 +17549,6 @@
     "examples": [
       "Die Kinder streiten (sich) oft."
     ]
-  },
-  {
-    "id": "streitet",
-    "raw_word": "streitet, hat gestritten",
-    "details": {
-      "article": null,
-      "headword": "streitet",
-      "plural": null,
-      "conjugation": [
-        "hat gestritten"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "streng",
@@ -19135,12 +17568,12 @@
     ]
   },
   {
-    "id": "der Stress (Sg.)",
+    "id": "der Stress",
     "raw_word": "der Stress (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Stress (Sg.)",
-      "plural": null,
+      "headword": "Stress",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19220,12 +17653,15 @@
   },
   {
     "id": "studieren",
-    "raw_word": "studieren,",
+    "raw_word": "studieren, studiert, hat studiert",
     "details": {
       "article": null,
       "headword": "studieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "studiert",
+        "hat studiert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -19236,29 +17672,12 @@
     ]
   },
   {
-    "id": "studiert",
-    "raw_word": "studiert, hat studiert",
-    "details": {
-      "article": null,
-      "headword": "studiert",
-      "plural": null,
-      "conjugation": [
-        "hat studiert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "das Studium (Sg.)",
+    "id": "das Studium",
     "raw_word": "das Studium (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Studium (Sg.)",
-      "plural": null,
+      "headword": "Studium",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19543,12 +17962,12 @@
     ]
   },
   {
-    "id": "das Taschengeld (Sg.)",
+    "id": "das Taschengeld",
     "raw_word": "das Taschengeld (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Taschengeld (Sg.)",
-      "plural": null,
+      "headword": "Taschengeld",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19578,29 +17997,13 @@
   },
   {
     "id": "(aus)tauschen",
-    "raw_word": "(aus)tauschen,",
+    "raw_word": "(aus)tauschen, tauscht (aus), hat (aus)getauscht",
     "details": {
       "article": null,
       "headword": "(aus)tauschen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Können wir bitte die Plätze tauschen?"
-    ]
-  },
-  {
-    "id": "tauscht (aus)",
-    "raw_word": "tauscht (aus), hat (aus)getauscht",
-    "details": {
-      "article": null,
-      "headword": "tauscht (aus)",
-      "plural": null,
       "conjugation": [
+        "tauscht (aus)",
         "hat (aus)getauscht"
       ],
       "synonyms": [],
@@ -19609,6 +18012,7 @@
       "female_form": null
     },
     "examples": [
+      "Können wir bitte die Plätze tauschen?",
       "Können wir unsere Adressen austauschen?"
     ]
   },
@@ -19627,6 +18031,24 @@
     },
     "examples": [
       "Bitte rufen Sie mir ein Taxi."
+    ]
+  },
+  {
+    "id": "das Team",
+    "raw_word": "das Team, -s",
+    "details": {
+      "article": "das",
+      "headword": "Team",
+      "plural": "-s",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Ich arbeite gern in einem Team.",
+      "Welches Fußballteam findest du am besten?"
     ]
   },
   {
@@ -19684,12 +18106,15 @@
   },
   {
     "id": "teilnehmen",
-    "raw_word": "teilnehmen,",
+    "raw_word": "teilnehmen, nimmt teil, hat teilgenommen",
     "details": {
       "article": null,
       "headword": "teilnehmen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "nimmt teil",
+        "hat teilgenommen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -19698,23 +18123,6 @@
     "examples": [
       "Ich möchte an dem Tanzkurs teilnehmen."
     ]
-  },
-  {
-    "id": "nimmt teil",
-    "raw_word": "nimmt teil, hat teilgenommen",
-    "details": {
-      "article": null,
-      "headword": "nimmt teil",
-      "plural": null,
-      "conjugation": [
-        "hat teilgenommen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Telefon",
@@ -19735,12 +18143,15 @@
   },
   {
     "id": "telefonieren",
-    "raw_word": "telefonieren,",
+    "raw_word": "telefonieren, telefoniert, hat telefoniert",
     "details": {
       "article": null,
       "headword": "telefonieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "telefoniert",
+        "hat telefoniert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -19749,23 +18160,6 @@
     "examples": [
       "Ich muss kurz telefonieren."
     ]
-  },
-  {
-    "id": "telefoniert",
-    "raw_word": "telefoniert, hat telefoniert",
-    "details": {
-      "article": null,
-      "headword": "telefoniert",
-      "plural": null,
-      "conjugation": [
-        "hat telefoniert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Teller",
@@ -19786,12 +18180,12 @@
     ]
   },
   {
-    "id": "das Tennis (Sg.)",
+    "id": "das Tennis",
     "raw_word": "das Tennis (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Tennis (Sg.)",
-      "plural": null,
+      "headword": "Tennis",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -20185,12 +18579,15 @@
   },
   {
     "id": "trainieren",
-    "raw_word": "trainieren,",
+    "raw_word": "trainieren, trainiert, hat trainiert",
     "details": {
       "article": null,
       "headword": "trainieren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "trainiert",
+        "hat trainiert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -20199,23 +18596,6 @@
     "examples": [
       "Wir trainieren einmal pro Woche im Sportverein."
     ]
-  },
-  {
-    "id": "trainiert",
-    "raw_word": "trainiert, hat trainiert",
-    "details": {
-      "article": null,
-      "headword": "trainiert",
-      "plural": null,
-      "conjugation": [
-        "hat trainiert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Training",
@@ -20254,29 +18634,13 @@
   },
   {
     "id": "träumen",
-    "raw_word": "träumen,",
+    "raw_word": "träumen, träumt, hat geträumt",
     "details": {
       "article": null,
       "headword": "träumen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich habe schlecht geträumt."
-    ]
-  },
-  {
-    "id": "träumt",
-    "raw_word": "träumt, hat geträumt",
-    "details": {
-      "article": null,
-      "headword": "träumt",
-      "plural": null,
       "conjugation": [
+        "träumt",
         "hat geträumt"
       ],
       "synonyms": [],
@@ -20285,6 +18649,7 @@
       "female_form": null
     },
     "examples": [
+      "Ich habe schlecht geträumt.",
       "Ich träume von einem großen Haus mit Garten."
     ]
   },
@@ -20564,12 +18929,15 @@
   },
   {
     "id": "übernachten",
-    "raw_word": "übernachten,",
+    "raw_word": "übernachten, übernachtet, hat übernachtet",
     "details": {
       "article": null,
       "headword": "übernachten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "übernachtet",
+        "hat übernachtet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -20580,30 +18948,16 @@
     ]
   },
   {
-    "id": "übernachtet",
-    "raw_word": "übernachtet, hat übernachtet",
-    "details": {
-      "article": null,
-      "headword": "übernachtet",
-      "plural": null,
-      "conjugation": [
-        "hat übernachtet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "übersetzen",
-    "raw_word": "übersetzen,",
+    "raw_word": "übersetzen, übersetzt, hat übersetzt",
     "details": {
       "article": null,
       "headword": "übersetzen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "übersetzt",
+        "hat übersetzt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -20612,23 +18966,6 @@
     "examples": [
       "Können Sie mir den Brief bitte übersetzen?"
     ]
-  },
-  {
-    "id": "übersetzt",
-    "raw_word": "übersetzt, hat übersetzt",
-    "details": {
-      "article": null,
-      "headword": "übersetzt",
-      "plural": null,
-      "conjugation": [
-        "hat übersetzt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Übersetzung",
@@ -20649,29 +18986,13 @@
   },
   {
     "id": "überweisen",
-    "raw_word": "überweisen,",
+    "raw_word": "überweisen, überweist, hat überwiesen",
     "details": {
       "article": null,
       "headword": "überweisen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Sie können das Geld auch überweisen."
-    ]
-  },
-  {
-    "id": "überweist",
-    "raw_word": "überweist, hat überwiesen",
-    "details": {
-      "article": null,
-      "headword": "überweist",
-      "plural": null,
       "conjugation": [
+        "überweist",
         "hat überwiesen"
       ],
       "synonyms": [],
@@ -20680,6 +19001,7 @@
       "female_form": null
     },
     "examples": [
+      "Sie können das Geld auch überweisen.",
       "Ich überweise dir das Geld."
     ]
   },
@@ -20721,12 +19043,15 @@
   },
   {
     "id": "umsteigen",
-    "raw_word": "umsteigen,",
+    "raw_word": "umsteigen, steigt um, ist umgestiegen",
     "details": {
       "article": null,
       "headword": "umsteigen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "steigt um",
+        "ist umgestiegen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -20737,30 +19062,16 @@
     ]
   },
   {
-    "id": "steigt um",
-    "raw_word": "steigt um, ist umgestiegen",
-    "details": {
-      "article": null,
-      "headword": "steigt um",
-      "plural": null,
-      "conjugation": [
-        "ist umgestiegen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "umziehen",
-    "raw_word": "umziehen,",
+    "raw_word": "umziehen, zieht um, ist umgezogen",
     "details": {
       "article": null,
       "headword": "umziehen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "zieht um",
+        "ist umgezogen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -20769,23 +19080,6 @@
     "examples": [
       "Nächsten Monat ziehen wir um."
     ]
-  },
-  {
-    "id": "zieht um",
-    "raw_word": "zieht um, ist umgezogen",
-    "details": {
-      "article": null,
-      "headword": "zieht um",
-      "plural": null,
-      "conjugation": [
-        "ist umgezogen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "sich umziehen",
@@ -20931,29 +19225,13 @@
   },
   {
     "id": "unterhalten (sich)",
-    "raw_word": "unterhalten (sich),",
+    "raw_word": "unterhalten (sich), unterhält, hat unterhalten",
     "details": {
       "article": null,
       "headword": "unterhalten (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Andreas und Nessrin unterhalten sich."
-    ]
-  },
-  {
-    "id": "unterhält",
-    "raw_word": "unterhält, hat unterhalten",
-    "details": {
-      "article": null,
-      "headword": "unterhält",
-      "plural": null,
       "conjugation": [
+        "unterhält",
         "hat unterhalten"
       ],
       "synonyms": [],
@@ -20962,6 +19240,7 @@
       "female_form": null
     },
     "examples": [
+      "Andreas und Nessrin unterhalten sich.",
       "Wir haben uns über das Fußballspiel unterhalten."
     ]
   },
@@ -20985,12 +19264,15 @@
   },
   {
     "id": "unternehmen",
-    "raw_word": "unternehmen,",
+    "raw_word": "unternehmen, unternimmt, hat unternommen",
     "details": {
       "article": null,
       "headword": "unternehmen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "unternimmt",
+        "hat unternommen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21001,29 +19283,12 @@
     ]
   },
   {
-    "id": "unternimmt",
-    "raw_word": "unternimmt, hat unternommen",
-    "details": {
-      "article": null,
-      "headword": "unternimmt",
-      "plural": null,
-      "conjugation": [
-        "hat unternommen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "der Unterricht (Sg.)",
+    "id": "der Unterricht",
     "raw_word": "der Unterricht (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Unterricht (Sg.)",
-      "plural": null,
+      "headword": "Unterricht",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21054,12 +19319,15 @@
   },
   {
     "id": "unterschreiben",
-    "raw_word": "unterschreiben,",
+    "raw_word": "unterschreiben, unterschreibt, hat unterschrieben",
     "details": {
       "article": null,
       "headword": "unterschreiben",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "unterschreibt",
+        "hat unterschrieben"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21068,23 +19336,6 @@
     "examples": [
       "Wo muss ich unterschreiben?"
     ]
-  },
-  {
-    "id": "unterschreibt",
-    "raw_word": "unterschreibt, hat unterschrieben",
-    "details": {
-      "article": null,
-      "headword": "unterschreibt",
-      "plural": null,
-      "conjugation": [
-        "hat unterschrieben"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Unterschrift",
@@ -21105,29 +19356,13 @@
   },
   {
     "id": "untersuchen",
-    "raw_word": "untersuchen,",
+    "raw_word": "untersuchen, untersucht, hat untersucht",
     "details": {
       "article": null,
       "headword": "untersuchen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Der Arzt hat mich untersucht."
-    ]
-  },
-  {
-    "id": "untersucht",
-    "raw_word": "untersucht, hat untersucht",
-    "details": {
-      "article": null,
-      "headword": "untersucht",
-      "plural": null,
       "conjugation": [
+        "untersucht",
         "hat untersucht"
       ],
       "synonyms": [],
@@ -21136,6 +19371,7 @@
       "female_form": null
     },
     "examples": [
+      "Der Arzt hat mich untersucht.",
       "Der Arzt muss dein Bein untersuchen."
     ]
   },
@@ -21251,12 +19487,15 @@
   },
   {
     "id": "verdienen",
-    "raw_word": "verdienen,",
+    "raw_word": "verdienen, verdient, hat verdient",
     "details": {
       "article": null,
       "headword": "verdienen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "verdient",
+        "hat verdient"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21265,23 +19504,6 @@
     "examples": [
       "Ich verdiene 1.500 Euro im Monat."
     ]
-  },
-  {
-    "id": "verdient",
-    "raw_word": "verdient, hat verdient",
-    "details": {
-      "article": null,
-      "headword": "verdient",
-      "plural": null,
-      "conjugation": [
-        "hat verdient"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Verein",
@@ -21303,12 +19525,15 @@
   },
   {
     "id": "vereinbaren",
-    "raw_word": "vereinbaren,",
+    "raw_word": "vereinbaren, vereinbart, hat vereinbart",
     "details": {
       "article": null,
       "headword": "vereinbaren",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "vereinbart",
+        "hat vereinbart"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21319,47 +19544,14 @@
     ]
   },
   {
-    "id": "vereinbart",
-    "raw_word": "vereinbart, hat vereinbart",
-    "details": {
-      "article": null,
-      "headword": "vereinbart",
-      "plural": null,
-      "conjugation": [
-        "hat vereinbart"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "vergessen",
-    "raw_word": "vergessen,",
+    "raw_word": "vergessen, vergisst, hat vergessen",
     "details": {
       "article": null,
       "headword": "vergessen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich habe meine Hausaufgaben vergessen."
-    ]
-  },
-  {
-    "id": "vergisst",
-    "raw_word": "vergisst, hat vergessen",
-    "details": {
-      "article": null,
-      "headword": "vergisst",
-      "plural": null,
       "conjugation": [
+        "vergisst",
         "hat vergessen"
       ],
       "synonyms": [],
@@ -21368,34 +19560,19 @@
       "female_form": null
     },
     "examples": [
+      "Ich habe meine Hausaufgaben vergessen.",
       "Vergiss deinen Arzttermin nicht!"
     ]
   },
   {
     "id": "vergleichen",
-    "raw_word": "vergleichen,",
+    "raw_word": "vergleichen, vergleicht, hat verglichen",
     "details": {
       "article": null,
       "headword": "vergleichen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Vergleichen Sie die Angebote!"
-    ]
-  },
-  {
-    "id": "vergleicht",
-    "raw_word": "vergleicht, hat verglichen",
-    "details": {
-      "article": null,
-      "headword": "vergleicht",
-      "plural": null,
       "conjugation": [
+        "vergleicht",
         "hat verglichen"
       ],
       "synonyms": [],
@@ -21404,17 +19581,21 @@
       "female_form": null
     },
     "examples": [
+      "Vergleichen Sie die Angebote!",
       "Können wir die Antworten vergleichen?"
     ]
   },
   {
     "id": "verkaufen",
-    "raw_word": "verkaufen,",
+    "raw_word": "verkaufen, verkauft, hat verkauft",
     "details": {
       "article": null,
       "headword": "verkaufen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "verkauft",
+        "hat verkauft"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21425,29 +19606,12 @@
     ]
   },
   {
-    "id": "verkauft",
-    "raw_word": "verkauft, hat verkauft",
-    "details": {
-      "article": null,
-      "headword": "verkauft",
-      "plural": null,
-      "conjugation": [
-        "hat verkauft"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "der Verkehr (Sg.)",
+    "id": "der Verkehr",
     "raw_word": "der Verkehr (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Verkehr (Sg.)",
-      "plural": null,
+      "headword": "Verkehr",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21477,29 +19641,13 @@
   },
   {
     "id": "verletzen (sich)",
-    "raw_word": "verletzen (sich),",
+    "raw_word": "verletzen (sich), verletzt, hat verletzt",
     "details": {
       "article": null,
       "headword": "verletzen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Sind Sie verletzt? –Ja, am Bein."
-    ]
-  },
-  {
-    "id": "verletzt",
-    "raw_word": "verletzt, hat verletzt",
-    "details": {
-      "article": null,
-      "headword": "verletzt",
-      "plural": null,
       "conjugation": [
+        "verletzt",
         "hat verletzt"
       ],
       "synonyms": [],
@@ -21508,17 +19656,21 @@
       "female_form": null
     },
     "examples": [
+      "Sind Sie verletzt? –Ja, am Bein.",
       "Haben Sie sich verletzt?"
     ]
   },
   {
     "id": "verlieben (sich)",
-    "raw_word": "verlieben (sich),",
+    "raw_word": "verlieben (sich), verliebt, hat verliebt",
     "details": {
       "article": null,
       "headword": "verlieben (sich)",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "verliebt",
+        "hat verliebt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21529,47 +19681,14 @@
     ]
   },
   {
-    "id": "verliebt",
-    "raw_word": "verliebt, hat verliebt",
-    "details": {
-      "article": null,
-      "headword": "verliebt",
-      "plural": null,
-      "conjugation": [
-        "hat verliebt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "verlieren",
-    "raw_word": "verlieren,",
+    "raw_word": "verlieren, verliert, hat verloren",
     "details": {
       "article": null,
       "headword": "verlieren",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich habe meinen Schlüssel verloren."
-    ]
-  },
-  {
-    "id": "verliert",
-    "raw_word": "verliert, hat verloren",
-    "details": {
-      "article": null,
-      "headword": "verliert",
-      "plural": null,
       "conjugation": [
+        "verliert",
         "hat verloren"
       ],
       "synonyms": [],
@@ -21578,18 +19697,22 @@
       "female_form": null
     },
     "examples": [
+      "Ich habe meinen Schlüssel verloren.",
       "Michael hat seine Arbeit verloren.",
       "Wir haben das Fußballspiel verloren."
     ]
   },
   {
     "id": "vermieten",
-    "raw_word": "vermieten,",
+    "raw_word": "vermieten, vermietet, hat vermietet",
     "details": {
       "article": null,
       "headword": "vermieten",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "vermietet",
+        "hat vermietet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21598,23 +19721,6 @@
     "examples": [
       "Die Wohnung ist schon vermietet."
     ]
-  },
-  {
-    "id": "vermietet",
-    "raw_word": "vermietet, hat vermietet",
-    "details": {
-      "article": null,
-      "headword": "vermietet",
-      "plural": null,
-      "conjugation": [
-        "hat vermietet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Vermieter",
@@ -21650,12 +19756,15 @@
   },
   {
     "id": "verpassen",
-    "raw_word": "verpassen,",
+    "raw_word": "verpassen, verpasst, hat verpasst",
     "details": {
       "article": null,
       "headword": "verpassen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "verpasst",
+        "hat verpasst"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21666,47 +19775,14 @@
     ]
   },
   {
-    "id": "verpasst",
-    "raw_word": "verpasst, hat verpasst",
-    "details": {
-      "article": null,
-      "headword": "verpasst",
-      "plural": null,
-      "conjugation": [
-        "hat verpasst"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "verreisen",
-    "raw_word": "verreisen,",
+    "raw_word": "verreisen, verreist, ist verreist",
     "details": {
       "article": null,
       "headword": "verreisen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Verreist ihr in den Ferien?"
-    ]
-  },
-  {
-    "id": "verreist",
-    "raw_word": "verreist, ist verreist",
-    "details": {
-      "article": null,
-      "headword": "verreist",
-      "plural": null,
       "conjugation": [
+        "verreist",
         "ist verreist"
       ],
       "synonyms": [],
@@ -21715,18 +19791,22 @@
       "female_form": null
     },
     "examples": [
+      "Verreist ihr in den Ferien?",
       "Frau Doktor Müller ist zur Zeit verreist.",
       "Sie kommt erst nächste Woche zurück."
     ]
   },
   {
     "id": "verschieben",
-    "raw_word": "verschieben,",
+    "raw_word": "verschieben, verschiebt, hat verschoben",
     "details": {
       "article": null,
       "headword": "verschieben",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "verschiebt",
+        "hat verschoben"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21735,23 +19815,6 @@
     "examples": [
       "Leider muss ich den Termin verschieben."
     ]
-  },
-  {
-    "id": "verschiebt",
-    "raw_word": "verschiebt, hat verschoben",
-    "details": {
-      "article": null,
-      "headword": "verschiebt",
-      "plural": null,
-      "conjugation": [
-        "hat verschoben"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "verschieden",
@@ -21790,29 +19853,13 @@
   },
   {
     "id": "verstehen",
-    "raw_word": "verstehen,",
+    "raw_word": "verstehen, versteht, hat verstanden",
     "details": {
       "article": null,
       "headword": "verstehen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Können Sie mich verstehen?"
-    ]
-  },
-  {
-    "id": "versteht",
-    "raw_word": "versteht, hat verstanden",
-    "details": {
-      "article": null,
-      "headword": "versteht",
-      "plural": null,
       "conjugation": [
+        "versteht",
         "hat verstanden"
       ],
       "synonyms": [],
@@ -21821,34 +19868,19 @@
       "female_form": null
     },
     "examples": [
+      "Können Sie mich verstehen?",
       "Ich verstehe diese Aufgabe nicht."
     ]
   },
   {
     "id": "versuchen",
-    "raw_word": "versuchen,",
+    "raw_word": "versuchen, versucht, hat versucht",
     "details": {
       "article": null,
       "headword": "versuchen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Kann ich es auch einmal versuchen?"
-    ]
-  },
-  {
-    "id": "versucht",
-    "raw_word": "versucht, hat versucht",
-    "details": {
-      "article": null,
-      "headword": "versucht",
-      "plural": null,
       "conjugation": [
+        "versucht",
         "hat versucht"
       ],
       "synonyms": [],
@@ -21857,6 +19889,7 @@
       "female_form": null
     },
     "examples": [
+      "Kann ich es auch einmal versuchen?",
       "Haben Sie es schon einmal mit diesem Mittel versucht?"
     ]
   },
@@ -21915,6 +19948,24 @@
       "Vielleicht bekomme ich diesen Job.",
       "Er besucht uns vielleicht am Wochenende.",
       "Kannst du mir vielleicht ein bisschen Geld leihen?"
+    ]
+  },
+  {
+    "id": "der Vogel",
+    "raw_word": "der Vogel, ¨-",
+    "details": {
+      "article": "der",
+      "headword": "Vogel",
+      "plural": "¨-",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Nadine mag Vögel.",
+      "Morgens singen die Vögel immer laut."
     ]
   },
   {
@@ -22009,30 +20060,13 @@
   },
   {
     "id": "vorbereiten",
-    "raw_word": "vorbereiten,",
+    "raw_word": "vorbereiten, bereitet vor, hat vorbereitet",
     "details": {
       "article": null,
       "headword": "vorbereiten",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Morgen mache ich eine Party.",
-      "Ich muss noch viel"
-    ]
-  },
-  {
-    "id": "bereitet vor",
-    "raw_word": "bereitet vor, hat vorbereitet",
-    "details": {
-      "article": null,
-      "headword": "bereitet vor",
-      "plural": null,
       "conjugation": [
+        "bereitet vor",
         "hat vorbereitet"
       ],
       "synonyms": [],
@@ -22041,7 +20075,8 @@
       "female_form": null
     },
     "examples": [
-      "dafür vorbereiten.",
+      "Morgen mache ich eine Party.",
+      "Ich muss noch viel dafür vorbereiten.",
       "Ich muss mich auf meine Prüfung vorbereiten."
     ]
   },
@@ -22170,30 +20205,13 @@
   },
   {
     "id": "vorstellen (sich)",
-    "raw_word": "vorstellen (sich),",
+    "raw_word": "vorstellen (sich), stellt vor, hat vorgestellt",
     "details": {
       "article": null,
       "headword": "vorstellen (sich)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir wollen uns kennenlernen.",
-      "Können Sie sich"
-    ]
-  },
-  {
-    "id": "stellt vor",
-    "raw_word": "stellt vor, hat vorgestellt",
-    "details": {
-      "article": null,
-      "headword": "stellt vor",
-      "plural": null,
       "conjugation": [
+        "stellt vor",
         "hat vorgestellt"
       ],
       "synonyms": [],
@@ -22202,7 +20220,8 @@
       "female_form": null
     },
     "examples": [
-      "bitte vorstellen?",
+      "Wir wollen uns kennenlernen.",
+      "Können Sie sich bitte vorstellen?",
       "Darf ich Ihnen meine Frau vorstellen?"
     ]
   },
@@ -22335,12 +20354,15 @@
   },
   {
     "id": "wandern",
-    "raw_word": "wandern,",
+    "raw_word": "wandern, wandert, ist gewandert",
     "details": {
       "article": null,
       "headword": "wandern",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "wandert",
+        "ist gewandert"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -22349,23 +20371,6 @@
     "examples": [
       "Wir gehen oft wandern."
     ]
-  },
-  {
-    "id": "wandert",
-    "raw_word": "wandert, ist gewandert",
-    "details": {
-      "article": null,
-      "headword": "wandert",
-      "plural": null,
-      "conjugation": [
-        "ist gewandert"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "wann",
@@ -22406,29 +20411,13 @@
   },
   {
     "id": "warten",
-    "raw_word": "warten,",
+    "raw_word": "warten, wartet, hat gewartet",
     "details": {
       "article": null,
       "headword": "warten",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Können Sie ein paar Minuten warten?"
-    ]
-  },
-  {
-    "id": "wartet",
-    "raw_word": "wartet, hat gewartet",
-    "details": {
-      "article": null,
-      "headword": "wartet",
-      "plural": null,
       "conjugation": [
+        "wartet",
         "hat gewartet"
       ],
       "synonyms": [],
@@ -22437,6 +20426,7 @@
       "female_form": null
     },
     "examples": [
+      "Können Sie ein paar Minuten warten?",
       "Auf wen warten Sie?"
     ]
   },
@@ -22494,12 +20484,15 @@
   },
   {
     "id": "waschen (sich)",
-    "raw_word": "waschen (sich),",
+    "raw_word": "waschen (sich), wäscht, hat gewaschen",
     "details": {
       "article": null,
       "headword": "waschen (sich)",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "wäscht",
+        "hat gewaschen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -22510,29 +20503,12 @@
     ]
   },
   {
-    "id": "wäscht",
-    "raw_word": "wäscht, hat gewaschen",
-    "details": {
-      "article": null,
-      "headword": "wäscht",
-      "plural": null,
-      "conjugation": [
-        "hat gewaschen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "das Wasser (Sg.)",
+    "id": "das Wasser",
     "raw_word": "das Wasser (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Wasser (Sg.)",
-      "plural": null,
+      "headword": "Wasser",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -22563,29 +20539,13 @@
   },
   {
     "id": "wechseln",
-    "raw_word": "wechseln,",
+    "raw_word": "wechseln, wechselt, hat gewechselt",
     "details": {
       "article": null,
       "headword": "wechseln",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir müssen den Reifen wechseln."
-    ]
-  },
-  {
-    "id": "wechselt",
-    "raw_word": "wechselt, hat gewechselt",
-    "details": {
-      "article": null,
-      "headword": "wechselt",
-      "plural": null,
       "conjugation": [
+        "wechselt",
         "hat gewechselt"
       ],
       "synonyms": [],
@@ -22594,17 +20554,21 @@
       "female_form": null
     },
     "examples": [
+      "Wir müssen den Reifen wechseln.",
       "Können Sie mir zehn Dollar wechseln?"
     ]
   },
   {
     "id": "wecken",
-    "raw_word": "wecken,",
+    "raw_word": "wecken, weckt, hat geweckt",
     "details": {
       "article": null,
       "headword": "wecken",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "weckt",
+        "hat geweckt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -22613,23 +20577,6 @@
     "examples": [
       "Bitte wecken Sie mich morgen früh um fünf."
     ]
-  },
-  {
-    "id": "weckt",
-    "raw_word": "weckt, hat geweckt",
-    "details": {
-      "article": null,
-      "headword": "weckt",
-      "plural": null,
-      "conjugation": [
-        "hat geweckt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "weg/weg-",
@@ -22748,29 +20695,13 @@
   },
   {
     "id": "wehtun",
-    "raw_word": "wehtun,",
+    "raw_word": "wehtun, tut weh, hat wehgetan",
     "details": {
       "article": null,
       "headword": "wehtun",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wo tut es weh?"
-    ]
-  },
-  {
-    "id": "tut weh",
-    "raw_word": "tut weh, hat wehgetan",
-    "details": {
-      "article": null,
-      "headword": "tut weh",
-      "plural": null,
       "conjugation": [
+        "tut weh",
         "hat wehgetan"
       ],
       "synonyms": [],
@@ -22779,6 +20710,7 @@
       "female_form": null
     },
     "examples": [
+      "Wo tut es weh?",
       "Ich will dir nicht wehtun."
     ]
   },
@@ -23097,12 +21029,12 @@
     ]
   },
   {
-    "id": "das Wetter (Sg.)",
+    "id": "das Wetter",
     "raw_word": "das Wetter (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Wetter (Sg.)",
-      "plural": null,
+      "headword": "Wetter",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23198,12 +21130,15 @@
   },
   {
     "id": "wiederholen",
-    "raw_word": "wiederholen,",
+    "raw_word": "wiederholen, wiederholt, hat wiederholt",
     "details": {
       "article": null,
       "headword": "wiederholen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "wiederholt",
+        "hat wiederholt"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -23212,23 +21147,6 @@
     "examples": [
       "Können Sie das bitte wiederholen?"
     ]
-  },
-  {
-    "id": "wiederholt",
-    "raw_word": "wiederholt, hat wiederholt",
-    "details": {
-      "article": null,
-      "headword": "wiederholt",
-      "plural": null,
-      "conjugation": [
-        "hat wiederholt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Wiederhören",
@@ -23519,13 +21437,15 @@
   },
   {
     "id": "wollen",
-    "raw_word": "wollen, will,",
+    "raw_word": "wollen, will, wollte, hat gewollt",
     "details": {
       "article": null,
       "headword": "wollen",
       "plural": null,
       "conjugation": [
-        "will"
+        "will",
+        "wollte",
+        "hat gewollt"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -23535,23 +21455,6 @@
     "examples": [
       "Wollen Sie einen Kaffee trinken?"
     ]
-  },
-  {
-    "id": "wollte",
-    "raw_word": "wollte, hat gewollt",
-    "details": {
-      "article": null,
-      "headword": "wollte",
-      "plural": null,
-      "conjugation": [
-        "hat gewollt"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "(hat wollen als Modalverb)",
@@ -23733,12 +21636,15 @@
   },
   {
     "id": "zeichnen",
-    "raw_word": "zeichnen,",
+    "raw_word": "zeichnen, zeichnet, hat gezeichnet",
     "details": {
       "article": null,
       "headword": "zeichnen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "zeichnet",
+        "hat gezeichnet"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -23748,23 +21654,6 @@
       "Caterina kann gut zeichnen.",
       "Sieh mal das Bild hier."
     ]
-  },
-  {
-    "id": "zeichnet",
-    "raw_word": "zeichnet, hat gezeichnet",
-    "details": {
-      "article": null,
-      "headword": "zeichnet",
-      "plural": null,
-      "conjugation": [
-        "hat gezeichnet"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "zeigen",
@@ -23911,55 +21800,23 @@
   },
   {
     "id": "(an-)/(aus)ziehen",
-    "raw_word": "(an-)/(aus)ziehen,",
+    "raw_word": "(an-)/(aus)ziehen, zieht (an/aus), hat/ist",
     "details": {
       "article": null,
       "headword": "(an-)/(aus)ziehen",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich ziehe (mir) eine Jacke an."
-    ]
-  },
-  {
-    "id": "zieht (an/aus)",
-    "raw_word": "zieht (an/aus),",
-    "details": {
-      "article": null,
-      "headword": "zieht (an/aus)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Er hat sein T-Shirt ausgezogen und ein Hemd"
-    ]
-  },
-  {
-    "id": "hat/ist",
-    "raw_word": "hat/ist",
-    "details": {
-      "article": null,
-      "headword": "hat",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "ist"
+      "conjugation": [
+        "zieht (an/aus)",
+        "hat/ist"
       ],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
       "female_form": null
     },
     "examples": [
-      "angezogen."
+      "Ich ziehe (mir) eine Jacke an.",
+      "Er hat sein T-Shirt ausgezogen und ein Hemd angezogen."
     ]
   },
   {
@@ -23977,6 +21834,25 @@
     },
     "examples": [
       "Die Nachbarn sind am Wochenende ausgezogen."
+    ]
+  },
+  {
+    "id": "das Ziel",
+    "raw_word": "das Ziel, -e",
+    "details": {
+      "article": "das",
+      "headword": "Ziel",
+      "plural": "-e",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "John läuft sehr schnell.",
+      "Er war als erster am Ziel.",
+      "Was ist dein Ziel im Leben?"
     ]
   },
   {
@@ -24073,12 +21949,12 @@
     ]
   },
   {
-    "id": "der Zucker (Sg.)",
+    "id": "der Zucker",
     "raw_word": "der Zucker (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Zucker (Sg.)",
-      "plural": null,
+      "headword": "Zucker",
+      "plural": "(Sg.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -24201,12 +22077,15 @@
   },
   {
     "id": "zumachen",
-    "raw_word": "zumachen,",
+    "raw_word": "zumachen, macht zu, hat zugemacht",
     "details": {
       "article": null,
       "headword": "zumachen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "macht zu",
+        "hat zugemacht"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -24215,23 +22094,6 @@
     "examples": [
       "Machst du bitte das Fenster zu?"
     ]
-  },
-  {
-    "id": "macht zu",
-    "raw_word": "macht zu, hat zugemacht",
-    "details": {
-      "article": null,
-      "headword": "macht zu",
-      "plural": null,
-      "conjugation": [
-        "hat zugemacht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "zurück",
@@ -24269,7 +22131,7 @@
   },
   {
     "id": "(fahren",
-    "raw_word": "(fahren, geben, gehen, kommen,",
+    "raw_word": "(fahren, geben, gehen, kommen, laufen)",
     "details": {
       "article": null,
       "headword": "(fahren",
@@ -24277,7 +22139,8 @@
       "conjugation": [
         "geben",
         "gehen",
-        "kommen"
+        "kommen",
+        "laufen)"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -24286,23 +22149,7 @@
     },
     "examples": [
       "Wann muss ich das Buch zurückgeben?",
-      "Wir gehen wieder zurück."
-    ]
-  },
-  {
-    "id": "laufen)",
-    "raw_word": "laufen)",
-    "details": {
-      "article": null,
-      "headword": "laufen)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Wir gehen wieder zurück.",
       "Wann kommst du zurück?",
       "Ich habe mein Buch vergessen.",
       "Ich laufe schnell nach Hause zurück."

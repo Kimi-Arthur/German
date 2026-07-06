@@ -13,6 +13,23 @@ def clean_word(w):
             return w[len(prefix):].strip()
     return w.strip()
 
+def get_clean_id(word):
+    clean = word.split(',')[0].strip()
+    clean = re.sub(r'\s*\(([Pp]l\.|[Ss]g\.)\)\s*', ' ', clean).strip()
+    clean = re.sub(r'\s+', ' ', clean)
+    return clean
+
+def join_word_parts(parts):
+    if not parts:
+        return ""
+    result = parts[0]
+    for p in parts[1:]:
+        if result.endswith("-"):
+            result = result[:-1] + p
+        else:
+            result = result + " " + p
+    return result.strip()
+
 def should_skip_word(word):
     word_clean = word.strip()
     if len(word_clean) <= 1:
@@ -74,10 +91,13 @@ def parse_word_details(raw_word):
             })
         work_str = work_str[:ref_match.start()].strip()
         
-    # 3. Check for plural only marker "(Pl.)"
-    if "(Pl.)" in work_str or "(pl.)" in work_str:
-        result["plural"] = "only plural"
-        work_str = work_str.replace("(Pl.)", "").replace("(pl.)", "").strip()
+    # 3. Check for plural only marker "(Pl.)" and singular only marker "(Sg.)"
+    if re.search(r'\([Pp]l\.\)', work_str):
+        result["plural"] = "(Pl.)"
+        work_str = re.sub(r'\s*\([Pp]l\.\)\s*', ' ', work_str).strip()
+    elif re.search(r'\([Ss]g\.\)', work_str):
+        result["plural"] = "(Sg.)"
+        work_str = re.sub(r'\s*\([Ss]g\.\)\s*', ' ', work_str).strip()
 
     # 4. Check for female counterparts like "/ die Architektin, -nen"
     female_match = re.search(r'\/\s*(die\s+[A-ZÄÖÜ].+)', work_str)
@@ -165,7 +185,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 has_open_parenthesis = prev_word_str.count("(") > prev_word_str.count(")")
                 
                 base_word_str = current_word[0].strip() if current_word else ""
-                is_reflexive = base_word_str.lower().startswith("sich ") or base_word_str.lower().startswith("(sich) ")
+                is_reflexive = bool(re.search(r'\b\(?sich\)?\b', base_word_str.lower())) and base_word_str.lower().strip() != "sich"
                 
                 if is_aux:
                     is_continuation = True
@@ -196,7 +216,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                         is_continuation = True
                     elif is_reflexive:
                         is_continuation = True
-                    elif prev_word_str.endswith("-"):
+                    elif prev_word_str.endswith("-") or prev_word_str.endswith(","):
                         is_continuation = True
                     else:
                         is_continuation = False
@@ -205,7 +225,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 
         if is_new_entry:
             if current_word:
-                word_full = " ".join(current_word).strip()
+                word_full = join_word_parts(current_word)
                 pending_article = None
                 for suffix in ["/der", "/die", "/das", "/ der", "/ die", "/ das"]:
                     if word_full.endswith(suffix):
@@ -214,12 +234,13 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                         break
                 if word_full.endswith("/"):
                     word_full = word_full[:-1].strip()
+                word_full = word_full.replace("(pl.)", "(Pl.)").replace("(sg.)", "(Sg.)")
                 examples_full = " ".join(current_examples).strip()
                 if should_skip_word(word_full):
                     pass
                 elif len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
                     entries.append({
-                        "id": word_full.split(',')[0].strip(),
+                        "id": get_clean_id(word_full),
                         "raw_word": word_full,
                         "details": parse_word_details(word_full),
                         "examples": split_examples(examples_full)
@@ -236,17 +257,18 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 current_examples.append(example_str)
             
     if current_word:
-        word_full = " ".join(current_word).strip()
+        word_full = join_word_parts(current_word)
         for suffix in ["/der", "/die", "/das", "/ der", "/ die", "/ das", "/"]:
             if word_full.endswith(suffix):
                 word_full = word_full[:-len(suffix)].strip()
                 break
+        word_full = word_full.replace("(pl.)", "(Pl.)").replace("(sg.)", "(Sg.)")
         examples_full = " ".join(current_examples).strip()
         if should_skip_word(word_full):
             pass
         elif len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
             entries.append({
-                "id": word_full.split(',')[0].strip(),
+                "id": get_clean_id(word_full),
                 "raw_word": word_full,
                 "details": parse_word_details(word_full),
                 "examples": split_examples(examples_full)
@@ -268,7 +290,7 @@ def parse_pdf_wordlist(filepath, start_page, end_page, pdf_type):
                 left_words = content_words
                 right_words = []
             else:
-                content_words = [w for w in words if 80 <= w['top'] <= 780]
+                content_words = [w for w in words if 80 <= w['top'] <= 780 and w['x0'] >= 30]
                 left_words = [w for w in content_words if w['x0'] < 300]
                 right_words = [w for w in content_words if w['x0'] >= 300]
                 
