@@ -17,8 +17,8 @@ def get_clean_id(word):
     clean = word.strip()
     # 1. Strip references starting with arrow (→ or ->)
     clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', clean).strip()
-    # 2. Strip regional markers in parentheses like (D, A) or (CH)
-    clean = re.sub(r'\s*\([A-Z\s,]+\)\s*', ' ', clean).strip()
+    # 2. Strip regional markers in parentheses like (D, A) or (CH) (allowing corrupted digits/periods inside)
+    clean = re.sub(r'\s*\([A-Z\d\s,.]+\)\s*', ' ', clean).strip()
     # 3. Strip Pl/Sg markers
     clean = re.sub(r'\s*\(([Pp]l\.|[Ss]g\.)\)\s*', ' ', clean).strip()
     # 4. Now split by comma (since commas inside parentheses are already stripped)
@@ -92,10 +92,16 @@ def parse_word_details(raw_word):
     
     work_str = raw_word.strip()
     
-    # 1. Extract regional usage in parentheses first
-    region_match = re.search(r'\s*\(([A-Z\s,]+)\)', work_str)
+    # 1. Extract regional usage in parentheses first (allowing corrupted digits/periods inside)
+    region_match = re.search(r'\s*\(([A-Z\d\s,.]+)\)', work_str)
     if region_match:
-        result["regional_usage"] = [x.strip() for x in region_match.group(1).split(",")]
+        raw_regions = region_match.group(1).split(",")
+        clean_regions = []
+        for r in raw_regions:
+            r_clean = re.sub(r'[\d.]', '', r).strip()
+            if r_clean in ["D", "A", "CH"]:
+                clean_regions.append(r_clean)
+        result["regional_usage"] = clean_regions
         work_str = work_str[:region_match.start()].strip() + " " + work_str[region_match.end():].strip()
         work_str = work_str.strip()
         
@@ -188,6 +194,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
         example_part = [w for w in line_words if w['x0'] >= word_max_x]
         
         word_str = " ".join([w['text'] for w in word_part]).strip()
+        word_str = re.sub(r'\s*\d+\.$', '', word_str).strip()
         example_str = " ".join([w['text'] for w in example_part]).strip()
         
         gap = (t - prev_top) if prev_top is not None else 0

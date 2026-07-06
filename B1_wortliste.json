@@ -1060,11 +1060,11 @@
     ]
   },
   {
-    "id": "alltäglich1.",
-    "raw_word": "alltäglich1.",
+    "id": "alltäglich",
+    "raw_word": "alltäglich",
     "details": {
       "article": null,
-      "headword": "alltäglich1.",
+      "headword": "alltäglich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -1401,11 +1401,11 @@
   },
   {
     "id": "das Angebot",
-    "raw_word": "das Angebot, -e1.",
+    "raw_word": "das Angebot, -e",
     "details": {
       "article": "das",
       "headword": "Angebot",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1557,11 +1557,11 @@
   },
   {
     "id": "der Anfang",
-    "raw_word": "der Anfang, ¨-e1.",
+    "raw_word": "der Anfang, ¨-e",
     "details": {
       "article": "der",
       "headword": "Anfang",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1879,11 +1879,11 @@
   },
   {
     "id": "die Anmeldung",
-    "raw_word": "die Anmeldung, -en1.",
+    "raw_word": "die Anmeldung, -en",
     "details": {
       "article": "die",
       "headword": "Anmeldung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -2410,11 +2410,11 @@
   },
   {
     "id": "die Anzeige",
-    "raw_word": "die Anzeige, -n1.",
+    "raw_word": "die Anzeige, -n",
     "details": {
       "article": "die",
       "headword": "Anzeige",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -2604,11 +2604,11 @@
   },
   {
     "id": "die Arbeit",
-    "raw_word": "die Arbeit, -en1.",
+    "raw_word": "die Arbeit, -en",
     "details": {
       "article": "die",
       "headword": "Arbeit",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3703,11 +3703,11 @@
   },
   {
     "id": "der Ausdruck",
-    "raw_word": "der Ausdruck, ¨-e1.",
+    "raw_word": "der Ausdruck, ¨-e",
     "details": {
       "article": "der",
       "headword": "Ausdruck",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3720,11 +3720,11 @@
   },
   {
     "id": "der Ausdruck",
-    "raw_word": "der Ausdruck, -e2.",
+    "raw_word": "der Ausdruck, -e",
     "details": {
       "article": "der",
       "headword": "Ausdruck",
-      "plural": "-e2.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4383,11 +4383,11 @@
   },
   {
     "id": "die Ausstellung",
-    "raw_word": "die Ausstellung, -en1.",
+    "raw_word": "die Ausstellung, -en",
     "details": {
       "article": "die",
       "headword": "Ausstellung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4443,11 +4443,11 @@
   },
   {
     "id": "die Auswahl",
-    "raw_word": "die Auswahl, -en1.",
+    "raw_word": "die Auswahl, -en",
     "details": {
       "article": "die",
       "headword": "Auswahl",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4551,11 +4551,11 @@
     ]
   },
   {
-    "id": "automatisch1.",
-    "raw_word": "automatisch1.",
+    "id": "automatisch",
+    "raw_word": "automatisch",
     "details": {
       "article": null,
-      "headword": "automatisch1.",
+      "headword": "automatisch",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -4681,11 +4681,11 @@
   },
   {
     "id": "das Bad",
-    "raw_word": "das Bad, ¨-er1.",
+    "raw_word": "das Bad, ¨-er",
     "details": {
       "article": "das",
       "headword": "Bad",
-      "plural": "¨-er1.",
+      "plural": "¨-er",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5185,11 +5185,11 @@
   },
   {
     "id": "der Bau",
-    "raw_word": "der Bau, Bauten1.",
+    "raw_word": "der Bau, Bauten",
     "details": {
       "article": "der",
       "headword": "Bau",
-      "plural": "Bauten1.",
+      "plural": "Bauten",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6879,11 +6879,11 @@
     ]
   },
   {
-    "id": "besonders1.",
-    "raw_word": "besonders1.",
+    "id": "besonders",
+    "raw_word": "besonders",
     "details": {
       "article": null,
-      "headword": "besonders1.",
+      "headword": "besonders",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -7120,11 +7120,11 @@
   },
   {
     "id": "der Besuch",
-    "raw_word": "der Besuch, -e1.",
+    "raw_word": "der Besuch, -e",
     "details": {
       "article": "der",
       "headword": "Besuch",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7490,11 +7490,11 @@
   },
   {
     "id": "die Bewerbung",
-    "raw_word": "die Bewerbung, -en1.",
+    "raw_word": "die Bewerbung, -en",
     "details": {
       "article": "die",
       "headword": "Bewerbung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7877,11 +7877,11 @@
     ]
   },
   {
-    "id": "bitte1.",
-    "raw_word": "bitte1.",
+    "id": "bitte",
+    "raw_word": "bitte",
     "details": {
       "article": null,
-      "headword": "bitte1.",
+      "headword": "bitte",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -8048,11 +8048,11 @@
   },
   {
     "id": "der Blitz",
-    "raw_word": "der Blitz, -e1.",
+    "raw_word": "der Blitz, -e",
     "details": {
       "article": "der",
       "headword": "Blitz",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8480,11 +8480,11 @@
   },
   {
     "id": "der Briefkasten",
-    "raw_word": "der Briefkasten, ¨-1.",
+    "raw_word": "der Briefkasten, ¨-",
     "details": {
       "article": "der",
       "headword": "Briefkasten",
-      "plural": "¨-1.",
+      "plural": "¨-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8885,11 +8885,11 @@
   },
   {
     "id": "der Buchstabe",
-    "raw_word": "der Buchstabe, -n1.",
+    "raw_word": "der Buchstabe, -n",
     "details": {
       "article": "der",
       "headword": "Buchstabe",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9600,11 +9600,11 @@
     ]
   },
   {
-    "id": "der Dank1.",
-    "raw_word": "der Dank1.",
+    "id": "der Dank",
+    "raw_word": "der Dank",
     "details": {
       "article": "der",
-      "headword": "Dank1.",
+      "headword": "Dank",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9637,11 +9637,11 @@
     ]
   },
   {
-    "id": "danke1.",
-    "raw_word": "danke1.",
+    "id": "danke",
+    "raw_word": "danke",
     "details": {
       "article": null,
-      "headword": "danke1.",
+      "headword": "danke",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9804,11 +9804,11 @@
     ]
   },
   {
-    "id": "die Dauer1.",
-    "raw_word": "die Dauer1.",
+    "id": "die Dauer",
+    "raw_word": "die Dauer",
     "details": {
       "article": "die",
-      "headword": "Dauer1.",
+      "headword": "Dauer",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9907,11 +9907,11 @@
   },
   {
     "id": "der Gedanke",
-    "raw_word": "der Gedanke, -n1.",
+    "raw_word": "der Gedanke, -n",
     "details": {
       "article": "der",
       "headword": "Gedanke",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10562,11 +10562,11 @@
     ]
   },
   {
-    "id": "Doppel-1.",
-    "raw_word": "Doppel-1.",
+    "id": "Doppel-",
+    "raw_word": "Doppel-",
     "details": {
       "article": null,
-      "headword": "Doppel-1.",
+      "headword": "Doppel-",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -10871,11 +10871,11 @@
     ]
   },
   {
-    "id": "der Druck1.",
-    "raw_word": "der Druck1.",
+    "id": "der Druck",
+    "raw_word": "der Druck",
     "details": {
       "article": "der",
-      "headword": "Druck1.",
+      "headword": "Druck",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -11117,11 +11117,11 @@
   },
   {
     "id": "die Dusche",
-    "raw_word": "die Dusche, -n1.",
+    "raw_word": "die Dusche, -n",
     "details": {
       "article": "die",
       "headword": "Dusche",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11586,11 +11586,11 @@
     ]
   },
   {
-    "id": "die Eile1.",
-    "raw_word": "die Eile1.",
+    "id": "die Eile",
+    "raw_word": "die Eile",
     "details": {
       "article": "die",
-      "headword": "Eile1.",
+      "headword": "Eile",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -12050,11 +12050,11 @@
   },
   {
     "id": "der Einkauf",
-    "raw_word": "der Einkauf, ¨-e1.",
+    "raw_word": "der Einkauf, ¨-e",
     "details": {
       "article": "der",
       "headword": "Einkauf",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12460,11 +12460,11 @@
     ]
   },
   {
-    "id": "der Eintritt1.",
-    "raw_word": "der Eintritt1.",
+    "id": "der Eintritt",
+    "raw_word": "der Eintritt",
     "details": {
       "article": "der",
-      "headword": "Eintritt1.",
+      "headword": "Eintritt",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -12830,11 +12830,11 @@
   },
   {
     "id": "der Empfang",
-    "raw_word": "der Empfang, ¨-e1.",
+    "raw_word": "der Empfang, ¨-e",
     "details": {
       "article": "der",
       "headword": "Empfang",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12925,11 +12925,11 @@
     ]
   },
   {
-    "id": "das Ende1.",
-    "raw_word": "das Ende1.",
+    "id": "das Ende",
+    "raw_word": "das Ende",
     "details": {
       "article": "das",
-      "headword": "Ende1.",
+      "headword": "Ende",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -12945,11 +12945,11 @@
     ]
   },
   {
-    "id": "endgültig1.",
-    "raw_word": "endgültig1.",
+    "id": "endgültig",
+    "raw_word": "endgültig",
     "details": {
       "article": null,
-      "headword": "endgültig1.",
+      "headword": "endgültig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -13247,11 +13247,11 @@
     ]
   },
   {
-    "id": "unentschieden1.",
-    "raw_word": "unentschieden1.",
+    "id": "unentschieden",
+    "raw_word": "unentschieden",
     "details": {
       "article": null,
-      "headword": "unentschieden1.",
+      "headword": "unentschieden",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -13638,11 +13638,11 @@
   },
   {
     "id": "die Erfahrung",
-    "raw_word": "die Erfahrung, -en1.",
+    "raw_word": "die Erfahrung, -en",
     "details": {
       "article": "die",
       "headword": "Erfahrung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -14066,11 +14066,11 @@
   },
   {
     "id": "die Erklärung",
-    "raw_word": "die Erklärung, -en1.",
+    "raw_word": "die Erklärung, -en",
     "details": {
       "article": "die",
       "headword": "Erklärung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -14740,11 +14740,11 @@
   },
   {
     "id": "das Essen",
-    "raw_word": "das Essen, -1.",
+    "raw_word": "das Essen, -",
     "details": {
       "article": "das",
       "headword": "Essen",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15121,11 +15121,11 @@
   },
   {
     "id": "der Fahrer",
-    "raw_word": "der Fahrer, -1.",
+    "raw_word": "der Fahrer, -",
     "details": {
       "article": "der",
       "headword": "Fahrer",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15164,11 +15164,11 @@
   },
   {
     "id": "der Fahrplan",
-    "raw_word": "der Fahrplan, ¨-e1.",
+    "raw_word": "der Fahrplan, ¨-e",
     "details": {
       "article": "der",
       "headword": "Fahrplan",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15789,11 +15789,11 @@
   },
   {
     "id": "der Feiertag",
-    "raw_word": "der Feiertag, -e1.",
+    "raw_word": "der Feiertag, -e",
     "details": {
       "article": "der",
       "headword": "Feiertag",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -16686,11 +16686,11 @@
     "examples": []
   },
   {
-    "id": "fließend1.",
-    "raw_word": "fließend1.",
+    "id": "fließend",
+    "raw_word": "fließend",
     "details": {
       "article": null,
-      "headword": "fließend1.",
+      "headword": "fließend",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -16884,11 +16884,11 @@
     ]
   },
   {
-    "id": "folgend1.",
-    "raw_word": "folgend1.",
+    "id": "folgend",
+    "raw_word": "folgend",
     "details": {
       "article": null,
-      "headword": "folgend1.",
+      "headword": "folgend",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -17249,11 +17249,11 @@
   },
   {
     "id": "die Frage",
-    "raw_word": "die Frage, -n1.",
+    "raw_word": "die Frage, -n",
     "details": {
       "article": "die",
       "headword": "Frage",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17488,11 +17488,11 @@
     ]
   },
   {
-    "id": "freundlich1.",
-    "raw_word": "freundlich1.",
+    "id": "freundlich",
+    "raw_word": "freundlich",
     "details": {
       "article": null,
-      "headword": "freundlich1.",
+      "headword": "freundlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -17678,11 +17678,11 @@
     ]
   },
   {
-    "id": "fröhlich1.",
-    "raw_word": "fröhlich1.",
+    "id": "fröhlich",
+    "raw_word": "fröhlich",
     "details": {
       "article": null,
-      "headword": "fröhlich1.",
+      "headword": "fröhlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -17800,11 +17800,11 @@
     ]
   },
   {
-    "id": "das Frühstück1.",
-    "raw_word": "das Frühstück1.",
+    "id": "das Frühstück",
+    "raw_word": "das Frühstück",
     "details": {
       "article": "das",
-      "headword": "Frühstück1.",
+      "headword": "Frühstück",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -17892,15 +17892,15 @@
   },
   {
     "id": "der Führerschein",
-    "raw_word": "der Führerschein, -e (D, A)1. →CH: Führerausweis2.",
+    "raw_word": "der Führerschein, -e (D, A) →CH: Führerausweis",
     "details": {
       "article": "der",
       "headword": "Führerschein",
-      "plural": "-e 1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Führerausweis2.",
+          "word": "Führerausweis",
           "regional_usage": [
             "CH"
           ]
@@ -17920,11 +17920,11 @@
   },
   {
     "id": "die Führung",
-    "raw_word": "die Führung, -en1.",
+    "raw_word": "die Führung, -en",
     "details": {
       "article": "die",
       "headword": "Führung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18058,11 +18058,11 @@
   },
   {
     "id": "der Fußball",
-    "raw_word": "der Fußball, ¨-e1.",
+    "raw_word": "der Fußball, ¨-e",
     "details": {
       "article": "der",
       "headword": "Fußball",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18707,11 +18707,11 @@
     ]
   },
   {
-    "id": "gefährlich1.",
-    "raw_word": "gefährlich1.",
+    "id": "gefährlich",
+    "raw_word": "gefährlich",
     "details": {
       "article": null,
-      "headword": "gefährlich1.",
+      "headword": "gefährlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -18826,11 +18826,11 @@
   },
   {
     "id": "der Gegner",
-    "raw_word": "der Gegner, -1.",
+    "raw_word": "der Gegner, -",
     "details": {
       "article": "der",
       "headword": "Gegner",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19879,11 +19879,11 @@
     ]
   },
   {
-    "id": "die Gesundheit1.",
-    "raw_word": "die Gesundheit1.",
+    "id": "die Gesundheit",
+    "raw_word": "die Gesundheit",
     "details": {
       "article": "die",
-      "headword": "Gesundheit1.",
+      "headword": "Gesundheit",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -20419,11 +20419,11 @@
     ]
   },
   {
-    "id": "glücklich1.",
-    "raw_word": "glücklich1.",
+    "id": "glücklich",
+    "raw_word": "glücklich",
     "details": {
       "article": null,
-      "headword": "glücklich1.",
+      "headword": "glücklich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -20771,11 +20771,11 @@
   },
   {
     "id": "die Größe",
-    "raw_word": "die Größe, -n1.",
+    "raw_word": "die Größe, -n",
     "details": {
       "article": "die",
       "headword": "Größe",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -20903,11 +20903,11 @@
   },
   {
     "id": "der Gruß",
-    "raw_word": "der Gruß, ¨-e1.",
+    "raw_word": "der Gruß, ¨-e",
     "details": {
       "article": "der",
       "headword": "Gruß",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -22121,11 +22121,11 @@
     ]
   },
   {
-    "id": "die Hilfe1.",
-    "raw_word": "die Hilfe1.",
+    "id": "die Hilfe",
+    "raw_word": "die Hilfe",
     "details": {
       "article": "die",
-      "headword": "Hilfe1.",
+      "headword": "Hilfe",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -23569,11 +23569,11 @@
   },
   {
     "id": "die Information",
-    "raw_word": "die Information, -en1.",
+    "raw_word": "die Information, -en",
     "details": {
       "article": "die",
       "headword": "Information",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23671,11 +23671,11 @@
     ]
   },
   {
-    "id": "innerhalb1.",
-    "raw_word": "innerhalb1.",
+    "id": "innerhalb",
+    "raw_word": "innerhalb",
     "details": {
       "article": null,
-      "headword": "innerhalb1.",
+      "headword": "innerhalb",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -23924,11 +23924,11 @@
     ]
   },
   {
-    "id": "interessant1.",
-    "raw_word": "interessant1.",
+    "id": "interessant",
+    "raw_word": "interessant",
     "details": {
       "article": null,
-      "headword": "interessant1.",
+      "headword": "interessant",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -24844,11 +24844,11 @@
     ]
   },
   {
-    "id": "kaputtgehen1.",
-    "raw_word": "kaputtgehen1.",
+    "id": "kaputtgehen",
+    "raw_word": "kaputtgehen",
     "details": {
       "article": null,
-      "headword": "kaputtgehen1.",
+      "headword": "kaputtgehen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -26689,11 +26689,11 @@
   },
   {
     "id": "die Kontrolle",
-    "raw_word": "die Kontrolle, -n1.",
+    "raw_word": "die Kontrolle, -n",
     "details": {
       "article": "die",
       "headword": "Kontrolle",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -27034,11 +27034,11 @@
     ]
   },
   {
-    "id": "kräftig1.",
-    "raw_word": "kräftig1.",
+    "id": "kräftig",
+    "raw_word": "kräftig",
     "details": {
       "article": null,
-      "headword": "kräftig1.",
+      "headword": "kräftig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -27222,11 +27222,11 @@
   },
   {
     "id": "die Krankheit",
-    "raw_word": "die Krankheit, -en1.",
+    "raw_word": "die Krankheit, -en",
     "details": {
       "article": "die",
       "headword": "Krankheit",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -27475,11 +27475,11 @@
   },
   {
     "id": "die Kritik",
-    "raw_word": "die Kritik, -en1.",
+    "raw_word": "die Kritik, -en",
     "details": {
       "article": "die",
       "headword": "Kritik",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -28641,11 +28641,11 @@
     ]
   },
   {
-    "id": "das Leben1.",
-    "raw_word": "das Leben1.",
+    "id": "das Leben",
+    "raw_word": "das Leben",
     "details": {
       "article": "das",
-      "headword": "Leben1.",
+      "headword": "Leben",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -28676,11 +28676,11 @@
     ]
   },
   {
-    "id": "die Lebensmittel 1.",
-    "raw_word": "die Lebensmittel (Pl.)1.",
+    "id": "die Lebensmittel",
+    "raw_word": "die Lebensmittel (Pl.)",
     "details": {
       "article": "die",
-      "headword": "Lebensmittel 1.",
+      "headword": "Lebensmittel",
       "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
@@ -29086,11 +29086,11 @@
   },
   {
     "id": "die Leitung",
-    "raw_word": "die Leitung, -en1.",
+    "raw_word": "die Leitung, -en",
     "details": {
       "article": "die",
       "headword": "Leitung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -29214,11 +29214,11 @@
   },
   {
     "id": "der Leser",
-    "raw_word": "der Leser, -1.",
+    "raw_word": "der Leser, -",
     "details": {
       "article": "der",
       "headword": "Leser",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -29361,11 +29361,11 @@
     ]
   },
   {
-    "id": "die Liebe1.",
-    "raw_word": "die Liebe1.",
+    "id": "die Liebe",
+    "raw_word": "die Liebe",
     "details": {
       "article": "die",
-      "headword": "Liebe1.",
+      "headword": "Liebe",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -30157,11 +30157,11 @@
   },
   {
     "id": "der Maler",
-    "raw_word": "der Maler, -1.",
+    "raw_word": "der Maler, -",
     "details": {
       "article": "der",
       "headword": "Maler",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -30726,11 +30726,11 @@
     ]
   },
   {
-    "id": "mehrere1.",
-    "raw_word": "mehrere1.",
+    "id": "mehrere",
+    "raw_word": "mehrere",
     "details": {
       "article": null,
-      "headword": "mehrere1.",
+      "headword": "mehrere",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -31215,11 +31215,11 @@
   },
   {
     "id": "die Miete",
-    "raw_word": "die Miete, -n1.",
+    "raw_word": "die Miete, -n",
     "details": {
       "article": "die",
       "headword": "Miete",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -31898,11 +31898,11 @@
     ]
   },
   {
-    "id": "möglichst1.",
-    "raw_word": "möglichst1.",
+    "id": "möglichst",
+    "raw_word": "möglichst",
     "details": {
       "article": null,
-      "headword": "möglichst1.",
+      "headword": "möglichst",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -32201,11 +32201,11 @@
     ]
   },
   {
-    "id": "musikalisch1.",
-    "raw_word": "musikalisch1.",
+    "id": "musikalisch",
+    "raw_word": "musikalisch",
     "details": {
       "article": null,
-      "headword": "musikalisch1.",
+      "headword": "musikalisch",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -33623,11 +33623,11 @@
   },
   {
     "id": "der Notfall",
-    "raw_word": "der Notfall, ¨-e1.",
+    "raw_word": "der Notfall, ¨-e",
     "details": {
       "article": "der",
       "headword": "Notfall",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -34129,11 +34129,11 @@
     ]
   },
   {
-    "id": "die Öffentlichkeit1.",
-    "raw_word": "die Öffentlichkeit1.",
+    "id": "die Öffentlichkeit",
+    "raw_word": "die Öffentlichkeit",
     "details": {
       "article": "die",
-      "headword": "Öffentlichkeit1.",
+      "headword": "Öffentlichkeit",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -34601,11 +34601,11 @@
     ]
   },
   {
-    "id": "die Ordnung1.",
-    "raw_word": "die Ordnung1.",
+    "id": "die Ordnung",
+    "raw_word": "die Ordnung",
     "details": {
       "article": "die",
-      "headword": "Ordnung1.",
+      "headword": "Ordnung",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -34642,11 +34642,11 @@
   },
   {
     "id": "die Organisation",
-    "raw_word": "die Organisation, -en1.",
+    "raw_word": "die Organisation, -en",
     "details": {
       "article": "die",
       "headword": "Organisation",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -35343,24 +35343,25 @@
     ]
   },
   {
-    "id": "in Pension gehen/sein (D",
-    "raw_word": "in Pension gehen/sein (D,1. A) →D: in Rente2.",
+    "id": "in Pension gehen/sein",
+    "raw_word": "in Pension gehen/sein (D, A) →D: in Rente",
     "details": {
       "article": null,
-      "headword": "in Pension gehen/sein (D",
+      "headword": "in Pension gehen/sein",
       "plural": null,
-      "conjugation": [
-        "1. A)"
-      ],
+      "conjugation": [],
       "synonyms": [
         {
-          "word": "in Rente2.",
+          "word": "in Rente",
           "regional_usage": [
             "D"
           ]
         }
       ],
-      "regional_usage": [],
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "variants": [],
       "female_form": null
     },
@@ -35391,16 +35392,16 @@
     ]
   },
   {
-    "id": "pensioniert werden/sein1.",
-    "raw_word": "pensioniert werden/sein1. (D, CH) →D, A: in Pension2.",
+    "id": "pensioniert werden/sein",
+    "raw_word": "pensioniert werden/sein (D, CH) →D, A: in Pension",
     "details": {
       "article": null,
-      "headword": "pensioniert werden/sein1.",
+      "headword": "pensioniert werden/sein",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "in Pension2.",
+          "word": "in Pension",
           "regional_usage": [
             "D",
             "A"
@@ -35578,11 +35579,11 @@
     ]
   },
   {
-    "id": "persönlich1.",
-    "raw_word": "persönlich1.",
+    "id": "persönlich",
+    "raw_word": "persönlich",
     "details": {
       "article": null,
-      "headword": "persönlich1.",
+      "headword": "persönlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -35992,11 +35993,11 @@
   },
   {
     "id": "der Plan",
-    "raw_word": "der Plan, ¨-e1.",
+    "raw_word": "der Plan, ¨-e",
     "details": {
       "article": "der",
       "headword": "Plan",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -36130,11 +36131,11 @@
     "examples": []
   },
   {
-    "id": "politisch1.",
-    "raw_word": "politisch1.",
+    "id": "politisch",
+    "raw_word": "politisch",
     "details": {
       "article": null,
-      "headword": "politisch1.",
+      "headword": "politisch",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -36750,11 +36751,11 @@
   },
   {
     "id": "das Produkt",
-    "raw_word": "das Produkt, -e1.",
+    "raw_word": "das Produkt, -e",
     "details": {
       "article": "das",
       "headword": "Produkt",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -37101,11 +37102,11 @@
     ]
   },
   {
-    "id": "pünktlich1.",
-    "raw_word": "pünktlich1.",
+    "id": "pünktlich",
+    "raw_word": "pünktlich",
     "details": {
       "article": null,
-      "headword": "pünktlich1.",
+      "headword": "pünktlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -37578,11 +37579,11 @@
   },
   {
     "id": "der Raucher",
-    "raw_word": "der Raucher, -1.",
+    "raw_word": "der Raucher, -",
     "details": {
       "article": "der",
       "headword": "Raucher",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -37595,11 +37596,11 @@
   },
   {
     "id": "die Raucherin",
-    "raw_word": "die Raucherin, -nen2.",
+    "raw_word": "die Raucherin, -nen",
     "details": {
       "article": "die",
       "headword": "Raucherin",
-      "plural": "-nen2.",
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -37820,11 +37821,11 @@
   },
   {
     "id": "die Rechnung",
-    "raw_word": "die Rechnung, -en1.",
+    "raw_word": "die Rechnung, -en",
     "details": {
       "article": "die",
       "headword": "Rechnung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -38334,11 +38335,11 @@
   },
   {
     "id": "die Reinigung",
-    "raw_word": "die Reinigung, -en1.",
+    "raw_word": "die Reinigung, -en",
     "details": {
       "article": "die",
       "headword": "Reinigung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -38390,11 +38391,11 @@
   },
   {
     "id": "die Reise",
-    "raw_word": "die Reise, -n1.",
+    "raw_word": "die Reise, -n",
     "details": {
       "article": "die",
       "headword": "Reise",
-      "plural": "-n1.",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -38563,7 +38564,7 @@
   },
   {
     "id": "in Rente gehen/sein",
-    "raw_word": "in Rente gehen/sein (D) →1.",
+    "raw_word": "in Rente gehen/sein (D) → D, A: in Pension",
     "details": {
       "article": null,
       "headword": "in Rente gehen/sein",
@@ -38571,8 +38572,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "1.",
-          "regional_usage": []
+          "word": "in Pension",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -38582,25 +38586,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich gehe Ende des Jahres in Rente."
-    ]
-  },
-  {
-    "id": "D",
-    "raw_word": "D, A: in Pension2.",
-    "details": {
-      "article": null,
-      "headword": "D",
-      "plural": null,
-      "conjugation": [
-        "A: in Pension2."
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich gehe Ende des Jahres in Rente.",
       "Mein Nachbar ist seit zehn Jahren in"
     ]
   },
@@ -39386,11 +39372,11 @@
     ]
   },
   {
-    "id": "ruhig1.",
-    "raw_word": "ruhig1.",
+    "id": "ruhig",
+    "raw_word": "ruhig",
     "details": {
       "article": null,
-      "headword": "ruhig1.",
+      "headword": "ruhig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -39994,11 +39980,11 @@
   },
   {
     "id": "der Schalter",
-    "raw_word": "der Schalter, -1.",
+    "raw_word": "der Schalter, -",
     "details": {
       "article": "der",
       "headword": "Schalter",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -40505,11 +40491,11 @@
     ]
   },
   {
-    "id": "der Schlaf1.",
-    "raw_word": "der Schlaf1.",
+    "id": "der Schlaf",
+    "raw_word": "der Schlaf",
     "details": {
       "article": "der",
-      "headword": "Schlaf1.",
+      "headword": "Schlaf",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -40875,11 +40861,11 @@
     ]
   },
   {
-    "id": "schmutzig1.",
-    "raw_word": "schmutzig1.",
+    "id": "schmutzig",
+    "raw_word": "schmutzig",
     "details": {
       "article": null,
-      "headword": "schmutzig1.",
+      "headword": "schmutzig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -41153,11 +41139,11 @@
     ]
   },
   {
-    "id": "schrecklich1.",
-    "raw_word": "schrecklich1.",
+    "id": "schrecklich",
+    "raw_word": "schrecklich",
     "details": {
       "article": null,
-      "headword": "schrecklich1.",
+      "headword": "schrecklich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -41270,11 +41256,11 @@
     ]
   },
   {
-    "id": "schriftlich1.",
-    "raw_word": "schriftlich1.",
+    "id": "schriftlich",
+    "raw_word": "schriftlich",
     "details": {
       "article": null,
-      "headword": "schriftlich1.",
+      "headword": "schriftlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -41579,11 +41565,11 @@
     ]
   },
   {
-    "id": "der Schutz1.",
-    "raw_word": "der Schutz1.",
+    "id": "der Schutz",
+    "raw_word": "der Schutz",
     "details": {
       "article": "der",
-      "headword": "Schutz1.",
+      "headword": "Schutz",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -42316,11 +42302,11 @@
   },
   {
     "id": "der Sender",
-    "raw_word": "der Sender, -1.",
+    "raw_word": "der Sender, -",
     "details": {
       "article": "der",
       "headword": "Sender",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -42334,11 +42320,11 @@
   },
   {
     "id": "die Sendung",
-    "raw_word": "die Sendung, -en1.",
+    "raw_word": "die Sendung, -en",
     "details": {
       "article": "die",
       "headword": "Sendung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -43510,11 +43496,11 @@
     ]
   },
   {
-    "id": "sparsam1.",
-    "raw_word": "sparsam1.",
+    "id": "sparsam",
+    "raw_word": "sparsam",
     "details": {
       "article": null,
-      "headword": "sparsam1.",
+      "headword": "sparsam",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -43810,11 +43796,11 @@
   },
   {
     "id": "das Spiel",
-    "raw_word": "das Spiel, -e1.",
+    "raw_word": "das Spiel, -e",
     "details": {
       "article": "das",
       "headword": "Spiel",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -43828,11 +43814,11 @@
   },
   {
     "id": "der Spieler",
-    "raw_word": "der Spieler, -1.",
+    "raw_word": "der Spieler, -",
     "details": {
       "article": "der",
       "headword": "Spieler",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -43980,11 +43966,11 @@
     "examples": []
   },
   {
-    "id": "sportlich1.",
-    "raw_word": "sportlich1.",
+    "id": "sportlich",
+    "raw_word": "sportlich",
     "details": {
       "article": null,
-      "headword": "sportlich1.",
+      "headword": "sportlich",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -45918,11 +45904,11 @@
     ]
   },
   {
-    "id": "süchtig1.",
-    "raw_word": "süchtig1.",
+    "id": "süchtig",
+    "raw_word": "süchtig",
     "details": {
       "article": null,
-      "headword": "süchtig1.",
+      "headword": "süchtig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -46597,11 +46583,11 @@
     ]
   },
   {
-    "id": "technisch1.",
-    "raw_word": "technisch1.",
+    "id": "technisch",
+    "raw_word": "technisch",
     "details": {
       "article": null,
-      "headword": "technisch1.",
+      "headword": "technisch",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -46708,11 +46694,11 @@
   },
   {
     "id": "der Teil",
-    "raw_word": "der Teil, -e1.",
+    "raw_word": "der Teil, -e",
     "details": {
       "article": "der",
       "headword": "Teil",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -46838,11 +46824,11 @@
   },
   {
     "id": "das Telefon",
-    "raw_word": "das Telefon, -e1.",
+    "raw_word": "das Telefon, -e",
     "details": {
       "article": "das",
       "headword": "Telefon",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -47745,11 +47731,11 @@
   },
   {
     "id": "das Training",
-    "raw_word": "das Training, -s1.",
+    "raw_word": "das Training, -s",
     "details": {
       "article": "das",
       "headword": "Training",
-      "plural": "-s1.",
+      "plural": "-s",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48015,11 +48001,11 @@
   },
   {
     "id": "die Trennung",
-    "raw_word": "die Trennung, -en1.",
+    "raw_word": "die Trennung, -en",
     "details": {
       "article": "die",
       "headword": "Trennung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48413,11 +48399,11 @@
     ]
   },
   {
-    "id": "typisch1.",
-    "raw_word": "typisch1.",
+    "id": "typisch",
+    "raw_word": "typisch",
     "details": {
       "article": null,
-      "headword": "typisch1.",
+      "headword": "typisch",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -48467,11 +48453,11 @@
   },
   {
     "id": "die Übung",
-    "raw_word": "die Übung, -en1.",
+    "raw_word": "die Übung, -en",
     "details": {
       "article": "die",
       "headword": "Übung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48746,11 +48732,11 @@
   },
   {
     "id": "die Überraschung",
-    "raw_word": "die Überraschung,-en1.",
+    "raw_word": "die Überraschung,-en",
     "details": {
       "article": "die",
       "headword": "Überraschung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48950,11 +48936,11 @@
   },
   {
     "id": "die Überweisung",
-    "raw_word": "die Überweisung, - en1.",
+    "raw_word": "die Überweisung, - en",
     "details": {
       "article": "die",
       "headword": "Überweisung",
-      "plural": "- en1.",
+      "plural": "- en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -50630,11 +50616,11 @@
   },
   {
     "id": "die Verbindung",
-    "raw_word": "die Verbindung, -en1.",
+    "raw_word": "die Verbindung, -en",
     "details": {
       "article": "die",
       "headword": "Verbindung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -50763,11 +50749,11 @@
     ]
   },
   {
-    "id": "verdächtig1.",
-    "raw_word": "verdächtig1.",
+    "id": "verdächtig",
+    "raw_word": "verdächtig",
     "details": {
       "article": null,
-      "headword": "verdächtig1.",
+      "headword": "verdächtig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -50919,11 +50905,11 @@
   },
   {
     "id": "der Vergleich",
-    "raw_word": "der Vergleich, -e1.",
+    "raw_word": "der Vergleich, -e",
     "details": {
       "article": "der",
       "headword": "Vergleich",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -50958,11 +50944,11 @@
   },
   {
     "id": "das Vergnügen",
-    "raw_word": "das Vergnügen, -1.",
+    "raw_word": "das Vergnügen, -",
     "details": {
       "article": "das",
       "headword": "Vergnügen",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -51972,11 +51958,11 @@
   },
   {
     "id": "die Versicherung",
-    "raw_word": "die Versicherung, -en1.",
+    "raw_word": "die Versicherung, -en",
     "details": {
       "article": "die",
       "headword": "Versicherung",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -52131,11 +52117,11 @@
   },
   {
     "id": "der Versuch",
-    "raw_word": "der Versuch, -e1.",
+    "raw_word": "der Versuch, -e",
     "details": {
       "article": "der",
       "headword": "Versuch",
-      "plural": "-e1.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -52246,11 +52232,11 @@
   },
   {
     "id": "der Vertreter",
-    "raw_word": "der Vertreter, -1.",
+    "raw_word": "der Vertreter, -",
     "details": {
       "article": "der",
       "headword": "Vertreter",
-      "plural": "-1.",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -53451,11 +53437,11 @@
   },
   {
     "id": "die Wahl",
-    "raw_word": "die Wahl, -en1.",
+    "raw_word": "die Wahl, -en",
     "details": {
       "article": "die",
       "headword": "Wahl",
-      "plural": "-en1.",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -53826,11 +53812,11 @@
     ]
   },
   {
-    "id": "die Wäsche1.",
-    "raw_word": "die Wäsche1.",
+    "id": "die Wäsche",
+    "raw_word": "die Wäsche",
     "details": {
       "article": "die",
-      "headword": "Wäsche1.",
+      "headword": "Wäsche",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -54246,11 +54232,11 @@
     ]
   },
   {
-    "id": "weltweit1.",
-    "raw_word": "weltweit1.",
+    "id": "weltweit",
+    "raw_word": "weltweit",
     "details": {
       "article": null,
-      "headword": "weltweit1.",
+      "headword": "weltweit",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -54996,11 +54982,11 @@
     ]
   },
   {
-    "id": "die Wirklichkeit1.",
-    "raw_word": "die Wirklichkeit1.",
+    "id": "die Wirklichkeit",
+    "raw_word": "die Wirklichkeit",
     "details": {
       "article": "die",
-      "headword": "Wirklichkeit1.",
+      "headword": "Wirklichkeit",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -55088,11 +55074,11 @@
     ]
   },
   {
-    "id": "das Wissen1.",
-    "raw_word": "das Wissen1.",
+    "id": "das Wissen",
+    "raw_word": "das Wissen",
     "details": {
       "article": "das",
-      "headword": "Wissen1.",
+      "headword": "Wissen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -55533,11 +55519,11 @@
     ]
   },
   {
-    "id": "wunderbar1.",
-    "raw_word": "wunderbar1.",
+    "id": "wunderbar",
+    "raw_word": "wunderbar",
     "details": {
       "article": null,
-      "headword": "wunderbar1.",
+      "headword": "wunderbar",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -55551,11 +55537,11 @@
     ]
   },
   {
-    "id": "wunderschön1.",
-    "raw_word": "wunderschön1.",
+    "id": "wunderschön",
+    "raw_word": "wunderschön",
     "details": {
       "article": null,
-      "headword": "wunderschön1.",
+      "headword": "wunderschön",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -55615,11 +55601,11 @@
   },
   {
     "id": "der Wunsch",
-    "raw_word": "der Wunsch, ¨-e1.",
+    "raw_word": "der Wunsch, ¨-e",
     "details": {
       "article": "der",
       "headword": "Wunsch",
-      "plural": "¨-e1.",
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -56552,11 +56538,11 @@
     ]
   },
   {
-    "id": "zufällig1.",
-    "raw_word": "zufällig1.",
+    "id": "zufällig",
+    "raw_word": "zufällig",
     "details": {
       "article": null,
-      "headword": "zufällig1.",
+      "headword": "zufällig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
