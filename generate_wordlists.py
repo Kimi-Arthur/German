@@ -9,6 +9,35 @@ def normalize_char(c):
 def clean_word_spaces(text):
     return re.sub(r'\b(der|die|das|der/die|die/das|der/das)([A-ZÄÖÜ])', r'\1 \2', text)
 
+def clean_empty_fields(d):
+    if not d:
+        return {}
+    cleaned = {}
+    for k, v in d.items():
+        if v is None:
+            continue
+        if isinstance(v, list) and len(v) == 0:
+            continue
+        if isinstance(v, dict):
+            v_clean = clean_empty_fields(v)
+            if v_clean:
+                cleaned[k] = v_clean
+            continue
+        cleaned[k] = v
+    return cleaned
+
+def clean_entry_dict(entry):
+    cleaned = {
+        "id": entry["id"],
+        "raw_word": entry["raw_word"]
+    }
+    details_clean = clean_empty_fields(entry["details"])
+    if details_clean:
+        cleaned["details"] = details_clean
+    if entry["examples"]:
+        cleaned["examples"] = entry["examples"]
+    return cleaned
+
 def clean_word(w):
     w_lower = w.lower()
     for prefix in ["der ", "die ", "das ", "sich ", "(sich) "]:
@@ -38,7 +67,7 @@ def join_word_parts(parts):
         p_clean = p.strip()
         if not p_clean:
             continue
-        if result.endswith("-"):
+        if result.endswith("-") and not result.endswith(" -") and not result.endswith(",-") and not result.endswith(", -"):
             result = result[:-1] + p_clean
         elif p_clean.startswith("die ") and "der " in result.lower():
             result = result + " / " + p_clean
@@ -155,9 +184,14 @@ def parse_word_details(raw_word):
             part_clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', part_clean).strip()
             
             if is_female:
-                result["female_form"] = parse_word_details(clean_part_for_check)
+                fem_details = parse_word_details(clean_part_for_check)
                 if syn_reg:
-                    result["female_form"]["regional_usage"] = list(set(syn_reg))
+                    fem_details["regional_usage"] = list(set(syn_reg))
+                result["female_form"] = {
+                    "id": get_clean_id(clean_part_for_check),
+                    "raw_word": clean_part_for_check,
+                    "details": fem_details
+                }
             else:
                 result["synonyms"].append({
                     "word": part_clean,
@@ -177,7 +211,11 @@ def parse_word_details(raw_word):
     female_match = re.search(r'(?:\/|,)\s*(die\s+[A-ZÄÖÜ][a-zA-ZäöüßÄÖÜ]+(?:\s*,\s*-\w+)?)', work_str)
     if female_match:
         female_raw = female_match.group(1).strip()
-        result["female_form"] = parse_word_details(female_raw)
+        result["female_form"] = {
+            "id": get_clean_id(female_raw),
+            "raw_word": female_raw,
+            "details": parse_word_details(female_raw)
+        }
         work_str = work_str[:female_match.start()].strip()
         
     # 5. Extract articles (der, die, das, der/die, der/das)
@@ -408,21 +446,24 @@ def parse_pdf_wordlist(filepath, start_page, end_page, pdf_type):
 def main():
     # A1 list
     a1_entries = parse_pdf_wordlist("A1_SD1_Wortliste_02.pdf", 9, 27, "A1")
+    a1_clean = [clean_entry_dict(e) for e in a1_entries]
     with open("A1_wortliste.json", "w", encoding="utf-8") as f:
-        json.dump(a1_entries, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(a1_entries)} A1 entries to A1_wortliste.json")
+        json.dump(a1_clean, f, ensure_ascii=False, indent=2)
+    print(f"Saved {len(a1_clean)} A1 entries to A1_wortliste.json")
     
     # A2 list
     a2_entries = parse_pdf_wordlist("Goethe-Zertifikat_A2_Wortliste.pdf", 8, 31, "A2")
+    a2_clean = [clean_entry_dict(e) for e in a2_entries]
     with open("A2_wortliste.json", "w", encoding="utf-8") as f:
-        json.dump(a2_entries, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(a2_entries)} A2 entries to A2_wortliste.json")
+        json.dump(a2_clean, f, ensure_ascii=False, indent=2)
+    print(f"Saved {len(a2_clean)} A2 entries to A2_wortliste.json")
     
     # B1 list
     b1_entries = parse_pdf_wordlist("Goethe-Zertifikat_B1_Wortliste.pdf", 16, 102, "B1")
+    b1_clean = [clean_entry_dict(e) for e in b1_entries]
     with open("B1_wortliste.json", "w", encoding="utf-8") as f:
-        json.dump(b1_entries, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(b1_entries)} B1 entries to B1_wortliste.json")
+        json.dump(b1_clean, f, ensure_ascii=False, indent=2)
+    print(f"Saved {len(b1_clean)} B1 entries to B1_wortliste.json")
 
 if __name__ == "__main__":
     main()
