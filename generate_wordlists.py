@@ -137,57 +137,31 @@ def parse_column_words(column_words, word_max_x, pdf_type):
         
         is_new_entry = False
         if word_str:
-            if pdf_type == "A1":
+            if not current_word:
                 is_new_entry = True
-                if current_word:
-                    prev_w = current_word[-1].strip()
-                    clean_curr = clean_word(word_str)
-                    clean_base = clean_word(current_word[0])
-                    if prev_w.endswith("-") or prev_w.endswith("/"):
-                        if word_str[0].islower() and normalize_char(word_str[0]) != normalize_char(clean_base[0].lower()):
-                            is_new_entry = False
-                    elif clean_curr and clean_curr[0].islower() and normalize_char(clean_curr[0]) != normalize_char(clean_base[0].lower()):
-                        is_new_entry = False
             else:
-                if not current_word:
-                    is_new_entry = True
-                else:
+                word_lower = word_str.lower()
+                is_aux = word_lower.startswith(("hat ", "ist ", "hat/ist ", "war ", "wurde ", "und "))
+                starts_with_article = word_lower.startswith(("der ", "die ", "das ", "der/die ", "die/das ", "der/das ", "der/die/das "))
+                
+                if is_aux:
+                    is_continuation = True
+                elif starts_with_article:
                     is_continuation = False
-                    
-                    # Heuristic 0: very small vertical gap indicates consecutive lines of same entry (for A2/B1)
-                    if gap < 13.0:
+                elif gap >= 13.0:
+                    is_continuation = False
+                else:
+                    prev_word_str = current_word[-1].strip() if current_word else ""
+                    is_prefix_entry = prev_word_str.endswith("-") and " " not in prev_word_str
+                    if is_prefix_entry:
+                        is_continuation = False
+                    elif prev_word_str.endswith("-") or prev_word_str.endswith("/"):
                         is_continuation = True
-                    
-                    # Heuristic 1: starts with auxiliary verb
-                    if not is_continuation:
-                        word_lower = word_str.lower()
-                        if word_lower.startswith(("hat ", "ist ", "hat/ist ", "war ", "wurde ", "und ")):
-                            is_continuation = True
-                    
-                    # Heuristic 2: lowercase inflection
-                    if not is_continuation:
-                        base_word = current_word[0].split(',')[0].strip()
-                        clean_base = clean_word(base_word)
-                        clean_curr = clean_word(word_str)
-                        if clean_curr and clean_curr[0].islower():
-                            if clean_base and normalize_char(clean_curr[0]) != normalize_char(clean_base[0].lower()):
-                                is_continuation = True
-                    
-                    # Heuristic 3: example column continues with lowercase letter
-                    if not is_continuation and example_str:
-                        first_char = example_str[0]
-                        if first_char.islower() and not first_char.isdigit():
-                            is_continuation = True
-                            
-                    # Heuristic 4: large vertical gap
-                    if not is_continuation:
-                        if gap >= 13.0:
-                            is_new_entry = True
-                        else:
-                            is_new_entry = False
                     else:
-                        is_new_entry = False
-                    
+                        is_continuation = False
+                
+                is_new_entry = not is_continuation
+                
         if is_new_entry:
             if current_word:
                 word_full = " ".join(current_word).strip()
@@ -217,8 +191,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 "details": parse_word_details(word_full),
                 "examples": split_examples(examples_full)
             })
-
-        
+            
     return entries
 
 def parse_pdf_wordlist(filepath, start_page, end_page, pdf_type):

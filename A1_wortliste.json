@@ -1061,11 +1061,11 @@
   },
   {
     "id": "der Ausländer",
-    "raw_word": "der Ausländer, -",
+    "raw_word": "der Ausländer, - ausländisch",
     "details": {
       "article": "der",
       "headword": "Ausländer",
-      "plural": "-",
+      "plural": "- ausländisch",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1073,23 +1073,7 @@
       "female_form": null
     },
     "examples": [
-      "SInd Sie Ausländerin?"
-    ]
-  },
-  {
-    "id": "ausländisch",
-    "raw_word": "ausländisch",
-    "details": {
-      "article": null,
-      "headword": "ausländisch",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "SInd Sie Ausländerin?",
       "Leider habe ich nur ausländisches Geld."
     ]
   },
@@ -1630,11 +1614,11 @@
   },
   {
     "id": "das Beispiel",
-    "raw_word": "das Beispiel, -e zum Beispiel/z. B.",
+    "raw_word": "das Beispiel, -e",
     "details": {
       "article": "das",
       "headword": "Beispiel",
-      "plural": "-e zum Beispiel/z. B.",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1642,17 +1626,50 @@
       "female_form": null
     },
     "examples": [
-      "Kannst du mir ein Beispiel sagen?",
+      "Kannst du mir ein Beispiel sagen?"
+    ]
+  },
+  {
+    "id": "zum Beispiel/z. B.",
+    "raw_word": "zum Beispiel/z. B.",
+    "details": {
+      "article": null,
+      "headword": "zum Beispiel/z. B.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Viele meiner Verwandten, z.",
       "B. meine beiden Brüder, arbeiten auch hier."
     ]
   },
   {
-    "id": "bekannt der/die Bekannte",
-    "raw_word": "bekannt der/die Bekannte, -n",
+    "id": "bekannt",
+    "raw_word": "bekannt",
     "details": {
       "article": null,
-      "headword": "bekannt der",
+      "headword": "bekannt",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Picasso ist sehr bekannt."
+    ]
+  },
+  {
+    "id": "der/die Bekannte",
+    "raw_word": "der/die Bekannte, -n",
+    "details": {
+      "article": "der",
+      "headword": "der/die Bekannte, -n",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -1670,7 +1687,6 @@
       }
     },
     "examples": [
-      "Picasso ist sehr bekannt.",
       "Ein Bekannter von mir heißt Klaus."
     ]
   },
@@ -2349,11 +2365,11 @@
     ]
   },
   {
-    "id": "die Butter c",
-    "raw_word": "die Butter c",
+    "id": "die Butter",
+    "raw_word": "die Butter",
     "details": {
       "article": "die",
-      "headword": "Butter c",
+      "headword": "Butter",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -2963,11 +2979,11 @@
     ]
   },
   {
-    "id": "die Dusche e",
-    "raw_word": "die Dusche e",
+    "id": "die Dusche",
+    "raw_word": "die Dusche",
     "details": {
       "article": "die",
-      "headword": "Dusche e",
+      "headword": "Dusche",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -2998,11 +3014,26 @@
   },
   {
     "id": "die Ehefrau",
-    "raw_word": "die Ehefrau, -en/ der Ehemann, ä, er",
+    "raw_word": "die Ehefrau, -en/",
     "details": {
       "article": "die",
       "headword": "Ehefrau",
-      "plural": "-en/ der Ehemann",
+      "plural": "-en/",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
+  },
+  {
+    "id": "der Ehemann",
+    "raw_word": "der Ehemann, ä, er",
+    "details": {
+      "article": "der",
+      "headword": "Ehemann",
+      "plural": "ä",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3942,11 +3973,11 @@
     ]
   },
   {
-    "id": "fliegen abfliegen",
-    "raw_word": "fliegen abfliegen",
+    "id": "fliegen",
+    "raw_word": "fliegen",
     "details": {
       "article": null,
-      "headword": "fliegen abfliegen",
+      "headword": "fliegen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -3956,7 +3987,23 @@
     },
     "examples": [
       "Ich fliege nicht gern.",
-      "Deshalb fahre ich mit dem Zug.",
+      "Deshalb fahre ich mit dem Zug."
+    ]
+  },
+  {
+    "id": "abfliegen",
+    "raw_word": "abfliegen",
+    "details": {
+      "article": null,
+      "headword": "abfliegen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Wann fliegst du ab?"
     ]
   },
@@ -5141,11 +5188,11 @@
   },
   {
     "id": "das Hähnchen",
-    "raw_word": "das Hähnchen, - die Halbpension",
+    "raw_word": "das Hähnchen, -",
     "details": {
       "article": "das",
       "headword": "Hähnchen",
-      "plural": "- die Halbpension",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5153,7 +5200,23 @@
       "female_form": null
     },
     "examples": [
-      "Ein Hähnchen mit Pommes bitte!",
+      "Ein Hähnchen mit Pommes bitte!"
+    ]
+  },
+  {
+    "id": "die Halbpension",
+    "raw_word": "die Halbpension",
+    "details": {
+      "article": "die",
+      "headword": "Halbpension",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Möchten Sie Vollpension oder Halbpension?"
     ]
   },
@@ -5298,11 +5361,26 @@
   },
   {
     "id": "die Hausfrau",
-    "raw_word": "die Hausfrau, -en/ der Hausmann",
+    "raw_word": "die Hausfrau, -en/",
     "details": {
       "article": "die",
       "headword": "Hausfrau",
-      "plural": "-en/ der Hausmann",
+      "plural": "-en/",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
+  },
+  {
+    "id": "der Hausmann",
+    "raw_word": "der Hausmann",
+    "details": {
+      "article": "der",
+      "headword": "Hausmann",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6897,11 +6975,28 @@
     ]
   },
   {
-    "id": "letzt- die Leute",
-    "raw_word": "letzt- die Leute (Pl.)",
+    "id": "letzt-",
+    "raw_word": "letzt-",
     "details": {
       "article": null,
-      "headword": "letzt- die Leute",
+      "headword": "letzt-",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Morgen ist der letzte Kurstag."
+    ]
+  },
+  {
+    "id": "die Leute",
+    "raw_word": "die Leute (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Leute",
       "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
@@ -6910,7 +7005,6 @@
       "female_form": null
     },
     "examples": [
-      "Morgen ist der letzte Kurstag.",
       "In der Disko sind viele Leute."
     ]
   },
@@ -6983,22 +7077,36 @@
     ]
   },
   {
-    "id": "Lieblings- das Lied",
-    "raw_word": "Lieblings- das Lied, -er",
+    "id": "Lieblings-",
+    "raw_word": "Lieblings-",
     "details": {
       "article": null,
-      "headword": "Lieblings- das Lied",
+      "headword": "Lieblings-",
       "plural": null,
-      "conjugation": [
-        "-er"
-      ],
+      "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Mein Lieblingsfilm ist „Schwarze Augen“.",
+      "Mein Lieblingsfilm ist „Schwarze Augen“."
+    ]
+  },
+  {
+    "id": "das Lied",
+    "raw_word": "das Lied, -er",
+    "details": {
+      "article": "das",
+      "headword": "Lied",
+      "plural": "-er",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Welches ist dein Lieblingslied?"
     ]
   },
@@ -7089,11 +7197,11 @@
     ]
   },
   {
-    "id": "lustig m machen",
-    "raw_word": "lustig m machen",
+    "id": "lustig",
+    "raw_word": "lustig",
     "details": {
       "article": null,
-      "headword": "lustig m machen",
+      "headword": "lustig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -7103,7 +7211,23 @@
     },
     "examples": [
       "Frau Mertens ist lustig.",
-      "Sie lacht immer.",
+      "Sie lacht immer."
+    ]
+  },
+  {
+    "id": "machen",
+    "raw_word": "machen",
+    "details": {
+      "article": null,
+      "headword": "machen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Was machst du heute Abend?",
       "Ich muss jetzt das Essen machen."
     ]
@@ -7245,22 +7369,36 @@
     ]
   },
   {
-    "id": "meist- der Mensch",
-    "raw_word": "meist- der Mensch, -en",
+    "id": "meist-",
+    "raw_word": "meist-",
     "details": {
       "article": null,
-      "headword": "meist- der Mensch",
+      "headword": "meist-",
       "plural": null,
-      "conjugation": [
-        "-en"
-      ],
+      "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Die meisten Norddeutschen sind sehr groß.",
+      "Die meisten Norddeutschen sind sehr groß."
+    ]
+  },
+  {
+    "id": "der Mensch",
+    "raw_word": "der Mensch, -en",
+    "details": {
+      "article": "der",
+      "headword": "Mensch",
+      "plural": "-en",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Die Menschen sind hier anders als bei uns."
     ]
   },
@@ -7609,22 +7747,36 @@
     ]
   },
   {
-    "id": "nächst- der Name",
-    "raw_word": "nächst- der Name, -n",
+    "id": "nächst-",
+    "raw_word": "nächst-",
     "details": {
       "article": null,
-      "headword": "nächst- der Name",
+      "headword": "nächst-",
       "plural": null,
-      "conjugation": [
-        "-n"
-      ],
+      "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Sehen wir uns nächste Woche?",
+      "Sehen wir uns nächste Woche?"
+    ]
+  },
+  {
+    "id": "der Name",
+    "raw_word": "der Name, -n",
+    "details": {
+      "article": "der",
+      "headword": "Name",
+      "plural": "-n",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Mein Name ist Thomas Schmidt.",
       "Mein Vorname ist Thomas; Schmidt ist der Familienname."
     ]
@@ -7794,11 +7946,11 @@
     ]
   },
   {
-    "id": "nur o oben",
-    "raw_word": "nur o oben",
+    "id": "nur",
+    "raw_word": "nur",
     "details": {
       "article": null,
-      "headword": "nur o oben",
+      "headword": "nur",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -7807,7 +7959,23 @@
       "female_form": null
     },
     "examples": [
-      "Ich möchte nur ein Glas Wasser.",
+      "Ich möchte nur ein Glas Wasser."
+    ]
+  },
+  {
+    "id": "oben",
+    "raw_word": "oben",
+    "details": {
+      "article": null,
+      "headword": "oben",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Ich wohne oben."
     ]
   },
@@ -7846,11 +8014,11 @@
     ]
   },
   {
-    "id": "öffnen geöffnet",
-    "raw_word": "öffnen geöffnet",
+    "id": "öffnen",
+    "raw_word": "öffnen",
     "details": {
       "article": null,
-      "headword": "öffnen geöffnet",
+      "headword": "öffnen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -7859,7 +8027,24 @@
       "female_form": null
     },
     "examples": [
-      "Ich öffne die Tür. Der Laden ist samstags bis 16.00 Uhr geöffnet."
+      "Ich öffne die Tür."
+    ]
+  },
+  {
+    "id": "geöffnet",
+    "raw_word": "geöffnet",
+    "details": {
+      "article": null,
+      "headword": "geöffnet",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Der Laden ist samstags bis 16.00 Uhr geöffnet."
     ]
   },
   {
@@ -8017,25 +8202,31 @@
   },
   {
     "id": "der Partner",
-    "raw_word": "der Partner, -/ die Partnerin, -nen",
+    "raw_word": "der Partner, -/",
     "details": {
       "article": "der",
       "headword": "Partner",
-      "plural": "-",
+      "plural": "-/",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": {
-        "article": "die",
-        "headword": "Partnerin",
-        "plural": "-nen",
-        "conjugation": [],
-        "synonyms": [],
-        "regional_usage": [],
-        "variants": [],
-        "female_form": null
-      }
+      "female_form": null
+    },
+    "examples": []
+  },
+  {
+    "id": "die Partnerin",
+    "raw_word": "die Partnerin, -nen",
+    "details": {
+      "article": "die",
+      "headword": "Partnerin",
+      "plural": "-nen",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
     },
     "examples": [
       "Sie ist meine Partnerin."
@@ -8624,11 +8815,11 @@
     ]
   },
   {
-    "id": "ruhig s",
-    "raw_word": "ruhig s",
+    "id": "ruhig",
+    "raw_word": "ruhig",
     "details": {
       "article": null,
-      "headword": "ruhig s",
+      "headword": "ruhig",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -8867,11 +9058,11 @@
     ]
   },
   {
-    "id": "schließen geschlossen",
-    "raw_word": "schließen geschlossen",
+    "id": "schließen",
+    "raw_word": "schließen",
     "details": {
       "article": null,
-      "headword": "schließen geschlossen",
+      "headword": "schließen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -8880,7 +9071,23 @@
       "female_form": null
     },
     "examples": [
-      "Bitte, schließen Sie die Tür.",
+      "Bitte, schließen Sie die Tür."
+    ]
+  },
+  {
+    "id": "geschlossen",
+    "raw_word": "geschlossen",
+    "details": {
+      "article": null,
+      "headword": "geschlossen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Die Bank hat am Samstag geschlossen."
     ]
   },
@@ -9161,11 +9368,11 @@
     ]
   },
   {
-    "id": "sehen die",
-    "raw_word": "sehen die",
+    "id": "sehen",
+    "raw_word": "sehen",
     "details": {
       "article": null,
-      "headword": "sehen die",
+      "headword": "sehen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9175,7 +9382,24 @@
     },
     "examples": [
       "Ich kann dich nicht sehen.",
-      "Ich habe diesen Jungen schon einmal gesehen. -en Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+      "Ich habe diesen Jungen schon einmal gesehen."
+    ]
+  },
+  {
+    "id": "die",
+    "raw_word": "die",
+    "details": {
+      "article": "die",
+      "headword": "die",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "-en Welche Sehenswürdigkeiten gibt es in Frankfurt?"
     ]
   },
   {
@@ -9197,11 +9421,11 @@
     ]
   },
   {
-    "id": "sein an sein auf sein weg sein zu sein",
-    "raw_word": "sein an sein auf sein weg sein zu sein",
+    "id": "sein",
+    "raw_word": "sein",
     "details": {
       "article": null,
-      "headword": "sein an sein auf sein weg sein zu sein",
+      "headword": "sein",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9212,10 +9436,74 @@
     "examples": [
       "Herr Müller ist in seinem Zimmer.",
       "Mir ist kalt.",
-      "Ich bin dreiundzwanzig.",
-      "Das Licht ist noch an.",
-      "Das Fenster ist noch auf.",
-      "Herr Meier ist schon weg.",
+      "Ich bin dreiundzwanzig."
+    ]
+  },
+  {
+    "id": "an sein",
+    "raw_word": "an sein",
+    "details": {
+      "article": null,
+      "headword": "an sein",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Das Licht ist noch an."
+    ]
+  },
+  {
+    "id": "auf sein",
+    "raw_word": "auf sein",
+    "details": {
+      "article": null,
+      "headword": "auf sein",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Das Fenster ist noch auf."
+    ]
+  },
+  {
+    "id": "weg sein",
+    "raw_word": "weg sein",
+    "details": {
+      "article": null,
+      "headword": "weg sein",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Herr Meier ist schon weg."
+    ]
+  },
+  {
+    "id": "zu sein",
+    "raw_word": "zu sein",
+    "details": {
+      "article": null,
+      "headword": "zu sein",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Die Tür ist zu."
     ]
   },
@@ -10130,11 +10418,11 @@
     ]
   },
   {
-    "id": "tun u über übernachten überweisen",
-    "raw_word": "tun u über übernachten überweisen",
+    "id": "tun",
+    "raw_word": "tun",
     "details": {
       "article": null,
-      "headword": "tun u über übernachten überweisen",
+      "headword": "tun",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -10144,11 +10432,59 @@
     },
     "examples": [
       "Ich habe noch etwas zu tun.",
-      "Was tut Ihr Mann?",
+      "Was tut Ihr Mann?"
+    ]
+  },
+  {
+    "id": "über",
+    "raw_word": "über",
+    "details": {
+      "article": null,
+      "headword": "über",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Gehen Sie hier über die Straße.",
       "Er wohnt im zweiten Stock über Familie Meier.",
-      "Sind Sie über 18?",
-      "Du kannst bei mir übernachten.",
+      "Sind Sie über 18?"
+    ]
+  },
+  {
+    "id": "übernachten",
+    "raw_word": "übernachten",
+    "details": {
+      "article": null,
+      "headword": "übernachten",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Du kannst bei mir übernachten."
+    ]
+  },
+  {
+    "id": "überweisen",
+    "raw_word": "überweisen",
+    "details": {
+      "article": null,
+      "headword": "überweisen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Sie können das Geld auch überweisen."
     ]
   },
@@ -10652,11 +10988,11 @@
     ]
   },
   {
-    "id": "die Vorwahl w wandern wann warten warum was was für ein (sich) waschen",
-    "raw_word": "die Vorwahl w wandern wann warten warum was was für ein (sich) waschen",
+    "id": "die Vorwahl",
+    "raw_word": "die Vorwahl",
     "details": {
       "article": "die",
-      "headword": "Vorwahl w wandern wann warten warum was was für ein (sich) waschen",
+      "headword": "Vorwahl",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -10665,17 +11001,129 @@
       "female_form": null
     },
     "examples": [
-      "Wie ist die Vorwahl von München?",
-      "Wir wandern um den Chiemsee.",
+      "Wie ist die Vorwahl von München?"
+    ]
+  },
+  {
+    "id": "wandern",
+    "raw_word": "wandern",
+    "details": {
+      "article": null,
+      "headword": "wandern",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Wir wandern um den Chiemsee."
+    ]
+  },
+  {
+    "id": "wann",
+    "raw_word": "wann",
+    "details": {
+      "article": null,
+      "headword": "wann",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Wann bist du fertig?",
       "Wann kann ich Sie anrufen?",
-      "Wann sind Sie geboren?",
+      "Wann sind Sie geboren?"
+    ]
+  },
+  {
+    "id": "warten",
+    "raw_word": "warten",
+    "details": {
+      "article": null,
+      "headword": "warten",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Können Sie ein paar Minuten warten?",
-      "Auf wen warten Sie?",
-      "Warum kommt er nicht?",
+      "Auf wen warten Sie?"
+    ]
+  },
+  {
+    "id": "warum",
+    "raw_word": "warum",
+    "details": {
+      "article": null,
+      "headword": "warum",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Warum kommt er nicht?"
+    ]
+  },
+  {
+    "id": "was",
+    "raw_word": "was",
+    "details": {
+      "article": null,
+      "headword": "was",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Was ist das?",
-      "Was möchten Sie?",
-      "Was für eine Farbe möchten Sie?",
+      "Was möchten Sie?"
+    ]
+  },
+  {
+    "id": "was für ein",
+    "raw_word": "was für ein",
+    "details": {
+      "article": null,
+      "headword": "was für ein",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Was für eine Farbe möchten Sie?"
+    ]
+  },
+  {
+    "id": "(sich) waschen",
+    "raw_word": "(sich) waschen",
+    "details": {
+      "article": null,
+      "headword": "(sich) waschen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Wo kann ich mir die Hände waschen?",
       "Ich muss morgen waschen."
     ]
@@ -10784,11 +11232,11 @@
     ]
   },
   {
-    "id": "welch- die Welt",
-    "raw_word": "welch- die Welt",
+    "id": "welch-",
+    "raw_word": "welch-",
     "details": {
       "article": null,
-      "headword": "welch- die Welt",
+      "headword": "welch-",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -10797,7 +11245,23 @@
       "female_form": null
     },
     "examples": [
-      "Welches Buch möchtest du?",
+      "Welches Buch möchtest du?"
+    ]
+  },
+  {
+    "id": "die Welt",
+    "raw_word": "die Welt",
+    "details": {
+      "article": "die",
+      "headword": "Welt",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Es gibt viele Probleme auf der Welt."
     ]
   },
@@ -11170,11 +11634,11 @@
     ]
   },
   {
-    "id": "wunderbar z zahlen",
-    "raw_word": "wunderbar z zahlen",
+    "id": "wunderbar",
+    "raw_word": "wunderbar",
     "details": {
       "article": null,
-      "headword": "wunderbar z zahlen",
+      "headword": "wunderbar",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -11183,7 +11647,23 @@
       "female_form": null
     },
     "examples": [
-      "Das Essen schmeckt wunderbar.",
+      "Das Essen schmeckt wunderbar."
+    ]
+  },
+  {
+    "id": "zahlen",
+    "raw_word": "zahlen",
+    "details": {
+      "article": null,
+      "headword": "zahlen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Zahlen, bitte!"
     ]
   },
