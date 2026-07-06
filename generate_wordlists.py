@@ -496,21 +496,21 @@ def parse_pdf_wordlist(filepath, start_page, end_page, pdf_type):
 
 def main():
     # A1 list
-    a1_entries = parse_pdf_wordlist("A1_SD1_Wortliste_02.pdf", 9, 27, "A1")
+    a1_entries = parse_pdf_wordlist("../Books/A1_SD1_Wortliste_02.pdf", 9, 27, "A1")
     a1_clean = [clean_entry_dict(e) for e in a1_entries]
     with open("A1_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(a1_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(a1_clean)} A1 entries to A1_wortliste.json")
     
     # A2 list
-    a2_entries = parse_pdf_wordlist("Goethe-Zertifikat_A2_Wortliste.pdf", 8, 31, "A2")
+    a2_entries = parse_pdf_wordlist("../Books/Goethe-Zertifikat_A2_Wortliste.pdf", 8, 31, "A2")
     a2_clean = [clean_entry_dict(e) for e in a2_entries]
     with open("A2_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(a2_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(a2_clean)} A2 entries to A2_wortliste.json")
     
     # B1 list
-    b1_entries = parse_pdf_wordlist("Goethe-Zertifikat_B1_Wortliste.pdf", 16, 102, "B1")
+    b1_entries = parse_pdf_wordlist("../Books/Goethe-Zertifikat_B1_Wortliste.pdf", 16, 102, "B1")
     b1_clean = [clean_entry_dict(e) for e in b1_entries]
     with open("B1_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(b1_clean, f, ensure_ascii=False, indent=2)
