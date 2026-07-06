@@ -8562,9 +8562,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Kuvert; CH: Couvert",
+          "word": "Kuvert",
           "regional_usage": [
             "A"
+          ]
+        },
+        {
+          "word": "Couvert",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -8586,10 +8592,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Portemonnaie/Portmonee; A: Geldbörse",
+          "word": "Portemonnaie/Portmonee",
           "regional_usage": [
             "D",
             "CH"
+          ]
+        },
+        {
+          "word": "Geldbörse",
+          "regional_usage": [
+            "A"
           ]
         }
       ],
@@ -8687,9 +8699,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Semmel; CH: Brötli",
+          "word": "Semmel",
           "regional_usage": [
             "A"
+          ]
+        },
+        {
+          "word": "Brötli",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -8713,9 +8731,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Brötchen; A: Semmel",
+          "word": "Brötchen",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "Semmel",
+          "regional_usage": [
+            "A"
           ]
         }
       ],
@@ -9344,8 +9368,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Briefumschlag; A: Kuvert",
+          "word": "Briefumschlag",
           "regional_usage": []
+        },
+        {
+          "word": "Kuvert",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -15190,10 +15220,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Rad; CH: Velo",
+          "word": "Rad",
           "regional_usage": [
             "D",
             "A"
+          ]
+        },
+        {
+          "word": "Velo",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -15378,7 +15414,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Personenstand;",
+          "word": "Personenstand",
           "regional_usage": []
         }
       ],
@@ -15538,9 +15574,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Karneval; CH: Fasnacht",
+          "word": "Karneval",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "Fasnacht",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -15565,10 +15607,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Fasching; D: Karneval",
+          "word": "Fasching",
           "regional_usage": [
             "D",
             "A"
+          ]
+        },
+        {
+          "word": "Karneval",
+          "regional_usage": [
+            "D"
           ]
         }
       ],
@@ -16798,8 +16846,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Gang; D, CH: Korridor",
+          "word": "Gang",
           "regional_usage": []
+        },
+        {
+          "word": "Korridor",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [],
@@ -19117,8 +19172,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Brieftasche; D, CH: Portemonnaie/Portmonee",
+          "word": "Brieftasche",
           "regional_usage": []
+        },
+        {
+          "word": "Portemonnaie/Portmonee",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -21138,10 +21200,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Hend(e)l; Poulet, -s (CH)",
+          "word": "Hend(e)l",
           "regional_usage": [
             "A"
           ]
+        },
+        {
+          "word": "Poulet, -s (CH)",
+          "regional_usage": []
         }
       ],
       "regional_usage": [
@@ -22185,10 +22251,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Hähnchen/Hühnchen; CH:",
+          "word": "Hähnchen/Hühnchen",
           "regional_usage": [
             "D"
           ]
+        },
+        {
+          "word": "CH:",
+          "regional_usage": []
         }
       ],
       "regional_usage": [
@@ -24166,9 +24236,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Imbiss; CH: Znüni/Zvieri",
+          "word": "Imbiss",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "Znüni/Zvieri",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -24888,10 +24964,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Fasching; CH: Fasnacht",
+          "word": "Fasching",
           "regional_usage": [
             "D",
             "A"
+          ]
+        },
+        {
+          "word": "Fasnacht",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -24915,9 +24997,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Möhre; CH: Rüebli",
+          "word": "Möhre",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "Rüebli",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -25327,10 +25415,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Ober; CH: Serviceangestellter",
+          "word": "Ober",
           "regional_usage": [
             "D",
             "A"
+          ]
+        },
+        {
+          "word": "Serviceangestellter",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -26875,8 +26969,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Gang; D: Flur",
+          "word": "Gang",
           "regional_usage": []
+        },
+        {
+          "word": "Flur",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -31925,8 +32025,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Karotte; CH: Rüebli",
+          "word": "Karotte",
           "regional_usage": []
+        },
+        {
+          "word": "Rüebli",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -33943,7 +34049,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Kellner;",
+          "word": "Kellner",
           "regional_usage": []
         }
       ],
@@ -33983,9 +34089,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Schlag-)Sahne; CH: (Schlag-)Rahm",
+          "word": "(Schlag-)Sahne",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "(Schlag-)Rahm",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -35344,7 +35456,7 @@
   },
   {
     "id": "in Pension gehen/sein",
-    "raw_word": "in Pension gehen/sein (D, A) →D: in Rente",
+    "raw_word": "in Pension gehen/sein (D, A) →D: in Rente gehen/sein; D, CH: pensioniert werden/sein",
     "details": {
       "article": null,
       "headword": "in Pension gehen/sein",
@@ -35352,9 +35464,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "in Rente",
+          "word": "in Rente gehen/sein",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "pensioniert werden/sein",
+          "regional_usage": [
+            "D",
+            "CH"
           ]
         }
       ],
@@ -35367,33 +35486,12 @@
     },
     "examples": [
       "Ich gehe Ende des Jahres in Pension.",
-      "Mein Nachbar ist seit zehn Jahren in"
-    ]
-  },
-  {
-    "id": "gehen/sein; D",
-    "raw_word": "gehen/sein; D, CH: pensioniert werden/sein",
-    "details": {
-      "article": null,
-      "headword": "gehen; D",
-      "plural": null,
-      "conjugation": [
-        "CH: pensioniert werden/sein"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "sein"
-      ],
-      "female_form": null
-    },
-    "examples": [
-      "Pension."
+      "Mein Nachbar ist seit zehn Jahren in Pension."
     ]
   },
   {
     "id": "pensioniert werden/sein",
-    "raw_word": "pensioniert werden/sein (D, CH) →D, A: in Pension",
+    "raw_word": "pensioniert werden/sein (D, CH) →D, A: in Pension gehen/sein; D: in Rente gehen/sein",
     "details": {
       "article": null,
       "headword": "pensioniert werden/sein",
@@ -35401,10 +35499,16 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "in Pension",
+          "word": "in Pension gehen/sein",
           "regional_usage": [
             "D",
             "A"
+          ]
+        },
+        {
+          "word": "in Rente gehen/sein",
+          "regional_usage": [
+            "D"
           ]
         }
       ],
@@ -35417,44 +35521,8 @@
     },
     "examples": [
       "Ich werde Ende des Jahres pensioniert.",
-      "Mein Nachbar ist seit zehn Jahren pen-"
+      "Mein Nachbar ist seit zehn Jahren pensioniert."
     ]
-  },
-  {
-    "id": "gehen/sein; D: in Rente",
-    "raw_word": "gehen/sein; D: in Rente",
-    "details": {
-      "article": null,
-      "headword": "gehen; D: in Rente",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "sein"
-      ],
-      "female_form": null
-    },
-    "examples": [
-      "sioniert."
-    ]
-  },
-  {
-    "id": "gehen/sein",
-    "raw_word": "gehen/sein",
-    "details": {
-      "article": null,
-      "headword": "gehen",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "sein"
-      ],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Pensionist",
@@ -35623,7 +35691,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Familienstand;",
+          "word": "Familienstand",
           "regional_usage": [
             "D",
             "A"
@@ -36244,8 +36312,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Brieftasche; A: Geldbörse",
+          "word": "Brieftasche",
           "regional_usage": []
+        },
+        {
+          "word": "Geldbörse",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -36375,10 +36449,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Hähnchen/Hühnchen; A:",
+          "word": "Hähnchen/Hühnchen",
           "regional_usage": [
             "D"
           ]
+        },
+        {
+          "word": "A:",
+          "regional_usage": []
         }
       ],
       "regional_usage": [
@@ -37314,8 +37392,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Fahrrad; CH: Velo",
+          "word": "Fahrrad",
           "regional_usage": []
+        },
+        {
+          "word": "Velo",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -38564,7 +38648,7 @@
   },
   {
     "id": "in Rente gehen/sein",
-    "raw_word": "in Rente gehen/sein (D) → D, A: in Pension",
+    "raw_word": "in Rente gehen/sein (D) → D, A: in Pension gehen/sein; CH, D: pensioniert werden/sein",
     "details": {
       "article": null,
       "headword": "in Rente gehen/sein",
@@ -38572,10 +38656,17 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "in Pension",
+          "word": "in Pension gehen/sein",
           "regional_usage": [
             "D",
             "A"
+          ]
+        },
+        {
+          "word": "pensioniert werden/sein",
+          "regional_usage": [
+            "CH",
+            "D"
           ]
         }
       ],
@@ -38587,28 +38678,7 @@
     },
     "examples": [
       "Ich gehe Ende des Jahres in Rente.",
-      "Mein Nachbar ist seit zehn Jahren in"
-    ]
-  },
-  {
-    "id": "gehen/sein; CH",
-    "raw_word": "gehen/sein; CH, D: pensioniert werden/sein",
-    "details": {
-      "article": null,
-      "headword": "gehen; CH",
-      "plural": null,
-      "conjugation": [
-        "D: pensioniert werden/sein"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "sein"
-      ],
-      "female_form": null
-    },
-    "examples": [
-      "Rente."
+      "Mein Nachbar ist seit zehn Jahren in Rente."
     ]
   },
   {
@@ -39299,8 +39369,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Karotte; D: Möhre",
+          "word": "Karotte",
           "regional_usage": []
+        },
+        {
+          "word": "Möhre",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -39548,10 +39624,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Schlag-)Obers; CH:",
+          "word": "(Schlag-)Obers",
           "regional_usage": [
             "A"
           ]
+        },
+        {
+          "word": "CH:",
+          "regional_usage": []
         }
       ],
       "regional_usage": [
@@ -40541,9 +40621,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Schlag-)Sahne; CH: (Schlag-)Rahm",
+          "word": "(Schlag-)Sahne",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "(Schlag-)Rahm",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -42244,9 +42330,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Brötchen; CH: Brötli",
+          "word": "Brötchen",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "Brötli",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -42433,8 +42525,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Kellner; D, A: Ober",
+          "word": "Kellner",
           "regional_usage": []
+        },
+        {
+          "word": "Ober",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -45429,8 +45528,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Zündholz; A: Zünder",
+          "word": "Zündholz",
           "regional_usage": []
+        },
+        {
+          "word": "Zünder",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -50334,8 +50439,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Fahrrad; D, A: Rad",
+          "word": "Fahrrad",
           "regional_usage": []
+        },
+        {
+          "word": "Rad",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -56372,8 +56484,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Personenstand; D, A: Familienstand",
+          "word": "Personenstand",
           "regional_usage": []
+        },
+        {
+          "word": "Familienstand",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -56837,7 +56956,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Streichholz; Zündholz",
+          "word": "Streichholz",
+          "regional_usage": []
+        },
+        {
+          "word": "Zündholz",
           "regional_usage": []
         }
       ],
@@ -56861,8 +56984,14 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Streichholz; A: Zünder",
+          "word": "Streichholz",
           "regional_usage": []
+        },
+        {
+          "word": "Zünder",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -57297,9 +57426,15 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Imbiss; A: Jause",
+          "word": "Imbiss",
           "regional_usage": [
             "D"
+          ]
+        },
+        {
+          "word": "Jause",
+          "regional_usage": [
+            "A"
           ]
         }
       ],

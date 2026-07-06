@@ -109,19 +109,21 @@ def parse_word_details(raw_word):
     ref_match = re.search(r'(?:[→\u2192]|->)\s*(.+)$', work_str)
     if ref_match:
         ref_text = ref_match.group(1).strip()
-        syn_reg_match = re.match(r'^([A-Z\s,]+):\s*(.+)$', ref_text)
-        if syn_reg_match:
-            syn_reg = [x.strip() for x in syn_reg_match.group(1).split(",")]
-            syn_val = syn_reg_match.group(2).strip()
-            result["synonyms"].append({
-                "word": syn_val,
-                "regional_usage": syn_reg
-            })
-        else:
-            result["synonyms"].append({
-                "word": ref_text,
-                "regional_usage": []
-            })
+        syn_parts = [p.strip() for p in ref_text.split(";") if p.strip()]
+        for part in syn_parts:
+            syn_reg_match = re.match(r'^([A-Z\s,]+):\s*(.+)$', part)
+            if syn_reg_match:
+                syn_reg = [x.strip() for x in syn_reg_match.group(1).split(",")]
+                syn_val = syn_reg_match.group(2).strip()
+                result["synonyms"].append({
+                    "word": syn_val,
+                    "regional_usage": syn_reg
+                })
+            else:
+                result["synonyms"].append({
+                    "word": part,
+                    "regional_usage": []
+                })
         work_str = work_str[:ref_match.start()].strip()
         
     # 3. Check for plural only marker "(Pl.)" and singular only marker "(Sg.)"
@@ -214,6 +216,8 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 is_plural_marker = (word_str.startswith("-") or word_str.startswith("¨-") or word_str.lower() in ["(pl.)", "(sg.)"]) and len(word_str) <= 6
                 is_gewesen = word_str.lower() == "gewesen"
                 
+                is_verb_phrase_wrap = word_str.startswith(("gehen/sein", "werden/sein", "haben/sein"))
+                
                 # Check for structural indicators from previous parsed word
                 prev_word_str = current_word[-1].strip() if current_word else ""
                 has_open_parenthesis = prev_word_str.count("(") > prev_word_str.count(")")
@@ -222,6 +226,8 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 is_reflexive = bool(re.search(r'\b\(?sich\)?\b', base_word_str.lower())) and base_word_str.lower().strip() != "sich"
                 
                 if is_aux:
+                    is_continuation = True
+                elif is_verb_phrase_wrap:
                     is_continuation = True
                 elif is_gewesen:
                     is_continuation = True
