@@ -327,7 +327,7 @@
     ]
   },
   {
-    "id": "das Abitur (D)→A",
+    "id": "das Abitur",
     "raw_word": "das Abitur (D)→A, CH: Matura",
     "details": {
       "article": "das",
@@ -11224,7 +11224,7 @@
     ]
   },
   {
-    "id": "die e-card (A) →D:dieVersichertenkarte",
+    "id": "die e-card",
     "raw_word": "die e-card (A) →D:dieVersichertenkarte",
     "details": {
       "article": "die",
@@ -11268,7 +11268,7 @@
     ]
   },
   {
-    "id": "die ec-Karte/EC-Karte → A: Bankomat-Karte",
+    "id": "die ec-Karte/EC-Karte",
     "raw_word": "die ec-Karte/EC-Karte → A: Bankomat-Karte",
     "details": {
       "article": "die",
@@ -12678,7 +12678,7 @@
     ]
   },
   {
-    "id": "das Eis (D",
+    "id": "das Eis",
     "raw_word": "das Eis (D, A) →CH: Glace/Glacé",
     "details": {
       "article": "das",
@@ -15369,7 +15369,7 @@
     ]
   },
   {
-    "id": "der Familienstand (D",
+    "id": "der Familienstand",
     "raw_word": "der Familienstand (D, A) → Personenstand;",
     "details": {
       "article": "der",
@@ -15502,7 +15502,7 @@
     ]
   },
   {
-    "id": "das Faschierte (A) →D",
+    "id": "das Faschierte",
     "raw_word": "das Faschierte (A) →D, CH: Hackfleisch",
     "details": {
       "article": "das",
@@ -15556,7 +15556,7 @@
     ]
   },
   {
-    "id": "die Fasnacht (CH) →D",
+    "id": "die Fasnacht",
     "raw_word": "die Fasnacht (CH) →D, A: Fasching; D: Karneval",
     "details": {
       "article": "die",
@@ -15840,7 +15840,7 @@
     ]
   },
   {
-    "id": "die Ferien (CH) →D",
+    "id": "die Ferien",
     "raw_word": "die Ferien (Pl.) (CH) →D, A: Urlaub",
     "details": {
       "article": "die",
@@ -17713,7 +17713,7 @@
     ]
   },
   {
-    "id": "Früchte (CH) →D",
+    "id": "Früchte",
     "raw_word": "Früchte (CH) →D, A: Obst",
     "details": {
       "article": null,
@@ -19036,7 +19036,7 @@
     ]
   },
   {
-    "id": "der Gehsteig (D",
+    "id": "der Gehsteig",
     "raw_word": "der Gehsteig (D, A) →CH: Trottoir",
     "details": {
       "article": "der",
@@ -21064,7 +21064,7 @@
     ]
   },
   {
-    "id": "das Hackfleisch (D",
+    "id": "das Hackfleisch",
     "raw_word": "das Hackfleisch (D, CH) → A: Faschierte",
     "details": {
       "article": "das",
@@ -30522,7 +30522,7 @@
     ]
   },
   {
-    "id": "die Matura (A",
+    "id": "die Matura",
     "raw_word": "die Matura (A, CH) →D: Abitur",
     "details": {
       "article": "die",
@@ -33974,7 +33974,7 @@
     "examples": []
   },
   {
-    "id": "das/der (Schlag-)Obers (A) →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "id": "das/der (Schlag-)Obers",
     "raw_word": "das/der (Schlag-)Obers (A) →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": "das",
@@ -34000,7 +34000,7 @@
     ]
   },
   {
-    "id": "das Obst (D",
+    "id": "das Obst",
     "raw_word": "das Obst (D, A) →CH: Früchte",
     "details": {
       "article": "das",
@@ -34967,7 +34967,7 @@
     ]
   },
   {
-    "id": "geparkt (D",
+    "id": "geparkt",
     "raw_word": "geparkt (D, A) →CH: parkieren",
     "details": {
       "article": null,
@@ -35391,7 +35391,7 @@
     ]
   },
   {
-    "id": "pensioniert werden/sein1. (D",
+    "id": "pensioniert werden/sein1.",
     "raw_word": "pensioniert werden/sein1. (D, CH) →D, A: in Pension2.",
     "details": {
       "article": null,
@@ -35613,7 +35613,7 @@
     ]
   },
   {
-    "id": "der Personenstand →D",
+    "id": "der Personenstand",
     "raw_word": "der Personenstand →D, A: Familienstand;",
     "details": {
       "article": "der",
@@ -37380,7 +37380,7 @@
     ]
   },
   {
-    "id": "der (Schlag-)Rahm (CH) → D: (Schlag-)Sahne",
+    "id": "der (Schlag-)Rahm",
     "raw_word": "der (Schlag-)Rahm (CH) → D: (Schlag-)Sahne, A: (Schlag-)Obers",
     "details": {
       "article": "der",
@@ -38562,7 +38562,7 @@
     ]
   },
   {
-    "id": "in Rente gehen/sein (D) →1.",
+    "id": "in Rente gehen/sein",
     "raw_word": "in Rente gehen/sein (D) →1.",
     "details": {
       "article": null,
@@ -39553,7 +39553,7 @@
     ]
   },
   {
-    "id": "die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH:",
+    "id": "die (Schlag-)Sahne",
     "raw_word": "die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH:",
     "details": {
       "article": "die",
@@ -40546,7 +40546,7 @@
     ]
   },
   {
-    "id": "der/das (Schlag-)Obers (A) →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "id": "der/das (Schlag-)Obers",
     "raw_word": "der/das (Schlag-)Obers (A) →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": "der/das",
@@ -45143,7 +45143,7 @@
     ]
   },
   {
-    "id": "der Stock →D",
+    "id": "der Stock",
     "raw_word": "der Stock →D, CH: Etage",
     "details": {
       "article": "der",
@@ -56377,7 +56377,7 @@
     ]
   },
   {
-    "id": "der Zivilstand (CH) →Personenstand; D",
+    "id": "der Zivilstand",
     "raw_word": "der Zivilstand (CH) →Personenstand; D, A: Familienstand",
     "details": {
       "article": "der",
@@ -56842,7 +56842,7 @@
     ]
   },
   {
-    "id": "die Zünder (A) → Streichholz; Zündholz",
+    "id": "die Zünder",
     "raw_word": "die Zünder (A) (Pl.) → Streichholz; Zündholz",
     "details": {
       "article": "die",

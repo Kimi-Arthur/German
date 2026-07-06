@@ -14,8 +14,16 @@ def clean_word(w):
     return w.strip()
 
 def get_clean_id(word):
-    clean = word.split(',')[0].strip()
+    clean = word.strip()
+    # 1. Strip references starting with arrow (→ or ->)
+    clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', clean).strip()
+    # 2. Strip regional markers in parentheses like (D, A) or (CH)
+    clean = re.sub(r'\s*\([A-Z\s,]+\)\s*', ' ', clean).strip()
+    # 3. Strip Pl/Sg markers
     clean = re.sub(r'\s*\(([Pp]l\.|[Ss]g\.)\)\s*', ' ', clean).strip()
+    # 4. Now split by comma (since commas inside parentheses are already stripped)
+    clean = clean.split(',')[0].strip()
+    # Clean up double spaces
     clean = re.sub(r'\s+', ' ', clean)
     return clean
 
