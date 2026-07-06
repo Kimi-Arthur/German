@@ -30,6 +30,17 @@ def join_word_parts(parts):
             result = result + " " + p
     return result.strip()
 
+def join_example_lines(lines):
+    if not lines:
+        return ""
+    result = lines[0]
+    for l in lines[1:]:
+        if result.endswith("-"):
+            result = result[:-1] + l
+        else:
+            result = result + "\n" + l
+    return result.strip()
+
 def should_skip_word(word):
     word_clean = word.strip()
     if len(word_clean) <= 1:
@@ -43,12 +54,20 @@ def should_skip_word(word):
 def split_examples(examples_str):
     if not examples_str:
         return []
-    text = re.sub(r'\s+', ' ', examples_str).strip()
-    if re.search(r'^\d+\.', text) or re.search(r'\s+\d+\.', text):
-        parts = re.split(r'\b\d+\.\s+', text)
-        return [p.strip() for p in parts if p.strip()]
+    # If it has numbered examples (like "1. ... 2. ...")
+    if re.search(r'^\d+\.', examples_str) or re.search(r'\s+\d+\.', examples_str):
+        parts = re.split(r'\b\d+\.\s+', examples_str)
+        return [p.replace("\n", " ").strip() for p in parts if p.strip()]
     else:
-        return [s.strip() for s in re.split(r'(?<=[.!?])\s+(?=[A-Z])', text) if s.strip()]
+        # Split on sentence boundaries at newlines (which indicates logical paragraph break)
+        parts = re.split(r'(?<=[.!?])\s*\n\s*(?=[A-ZÄÖÜ])', examples_str)
+        cleaned_parts = []
+        for p in parts:
+            p_clean = p.replace("\n", " ").strip()
+            p_clean = re.sub(r'\s+', ' ', p_clean)
+            if p_clean:
+                cleaned_parts.append(p_clean)
+        return cleaned_parts
 
 
 def parse_word_details(raw_word):
@@ -235,7 +254,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 if word_full.endswith("/"):
                     word_full = word_full[:-1].strip()
                 word_full = word_full.replace("(pl.)", "(Pl.)").replace("(sg.)", "(Sg.)")
-                examples_full = " ".join(current_examples).strip()
+                examples_full = join_example_lines(current_examples)
                 if should_skip_word(word_full):
                     pass
                 elif len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
@@ -263,7 +282,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 word_full = word_full[:-len(suffix)].strip()
                 break
         word_full = word_full.replace("(pl.)", "(Pl.)").replace("(sg.)", "(Sg.)")
-        examples_full = " ".join(current_examples).strip()
+        examples_full = join_example_lines(current_examples)
         if should_skip_word(word_full):
             pass
         elif len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
