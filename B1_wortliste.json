@@ -5962,8 +5962,8 @@
         {
           "word": "Portemonnaie/Portmonee",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         },
         {
@@ -7418,8 +7418,8 @@
         {
           "word": "Büchse",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ]
@@ -7899,8 +7899,8 @@
         {
           "word": "Ecke",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -10792,8 +10792,8 @@
         {
           "word": "Hackfleisch",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -10928,8 +10928,8 @@
         {
           "word": "Sessel",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -11714,8 +11714,8 @@
         {
           "word": "Korridor",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ]
@@ -13359,8 +13359,8 @@
         {
           "word": "Portemonnaie/Portmonee",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -17501,8 +17501,8 @@
         {
           "word": "Kiste",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -17525,8 +17525,8 @@
         {
           "word": "Schrank",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -18863,8 +18863,8 @@
         {
           "word": "probieren",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -21205,8 +21205,8 @@
         {
           "word": "Aprikose",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -23633,8 +23633,8 @@
     "id": "das/der (Schlag-)Obers",
     "raw_word": "das/der (Schlag-)Obers (A); →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
-      "article": "das",
-      "headword": "/der (Schlag-)Obers",
+      "article": "das/der",
+      "headword": "(Schlag-)Obers",
       "synonyms": [
         {
           "word": "(Schlag-)Sahne",
@@ -24594,8 +24594,8 @@
         {
           "word": "Rente",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -24623,8 +24623,8 @@
         {
           "word": "pensioniert werden/sein",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -24691,8 +24691,8 @@
         {
           "word": "Rentner",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -26877,8 +26877,8 @@
         {
           "word": "pensioniert werden/sein",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -27237,8 +27237,8 @@
         {
           "word": "(Back-)Ofen",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -29535,21 +29535,11 @@
   },
   {
     "id": "der Serviceangestellte",
-    "raw_word": "der Serviceangestellte, -n",
+    "raw_word": "der Serviceangestellte, -n; / die Serviceangestellte, - n (CH) →Kellner; D, A: Ober",
     "details": {
       "article": "der",
       "headword": "Serviceangestellte",
-      "plural": "-n"
-    },
-    "examples": [
-      "Ich bin Serviceangestellte von Beruf."
-    ]
-  },
-  {
-    "id": "/ die Serviceangestellte",
-    "raw_word": "/ die Serviceangestellte, - n (CH) →Kellner; D, A: Ober",
-    "details": {
-      "headword": "/ die Serviceangestellte, - n (CH) →Kellner; D, A: Ober",
+      "plural": "-n",
       "synonyms": [
         {
           "word": "Kellner",
@@ -29574,7 +29564,10 @@
           "headword": "Serviceangestellte"
         }
       }
-    }
+    },
+    "examples": [
+      "Ich bin Serviceangestellte von Beruf."
+    ]
   },
   {
     "id": "der Sessel",
@@ -29612,8 +29605,8 @@
         {
           "word": "Stuhl",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -31317,8 +31310,8 @@
         {
           "word": "Treppe",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -31342,8 +31335,8 @@
         {
           "word": "Treppenhaus",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -31420,8 +31413,8 @@
         {
           "word": "Etage",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ]
@@ -39817,8 +39810,8 @@
     "id": "das/der Zvieri/Znüni",
     "raw_word": "das/der Zvieri/Znüni, -s (CH) →D: Imbiss; A: Jause",
     "details": {
-      "article": "das",
-      "headword": "/der Zvieri/Znüni",
+      "article": "das/der",
+      "headword": "Zvieri",
       "plural": "-s",
       "synonyms": [
         {
@@ -39836,6 +39829,9 @@
       ],
       "regional_usage": [
         "CH"
+      ],
+      "variants": [
+        "Znüni"
       ]
     },
     "examples": [

@@ -259,8 +259,8 @@ def parse_word_details(raw_word):
         }
         work_str = work_str[:female_match.start()].strip()
         
-    # 5. Extract articles (der, die, das, der/die, der/das)
-    article_match = re.match(r'^(der/die/das|der/die|der/das|die/das|der|die|das)\b', work_str, re.IGNORECASE)
+    # 5. Extract articles (der, die, das, der/die, der/das, etc.)
+    article_match = re.match(r'^((?:der|die|das)(?:\/(?:der|die|das))*)\b', work_str, re.IGNORECASE)
     if article_match:
         result["article"] = article_match.group(1).lower()
         work_str = work_str[article_match.end():].strip()
@@ -283,6 +283,11 @@ def parse_word_details(raw_word):
             if len(parts) > 1:
                 result["conjugation"] = parts[1:]
                 
+    if result["female_form"] and result["headword"] == raw_word:
+        fem_headword = result["female_form"]["details"]["headword"]
+        if fem_headword:
+            result["headword"] = fem_headword
+            
     return result
 
 def parse_column_words(column_words, word_max_x, pdf_type):
@@ -353,12 +358,15 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 base_word_str = current_word[0].strip() if current_word else ""
                 is_reflexive = bool(re.search(r'\b\(?sich\)?\b', base_word_str.lower())) and base_word_str.lower().strip() != "sich"
                 
+                starts_with_slash = word_str.strip().startswith(("/", ","))
                 has_arrow = any(("→" in w or "->" in w) for w in current_word)
                 if is_aux:
                     is_continuation = True
                 elif is_verb_phrase_wrap:
                     is_continuation = True
                 elif is_female_wrap:
+                    is_continuation = True
+                elif starts_with_slash:
                     is_continuation = True
                 elif is_capitalized_no_article and gap < 13.0 and has_arrow:
                     is_continuation = True
@@ -378,7 +386,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                     is_continuation = False
                 else:
                     is_prefix_entry = prev_word_str.endswith("-") and " " not in prev_word_str
-                    is_article = prev_word_str.lower() in ["der", "die", "das", "der/die", "die/das", "der/das", "der/die/das"]
+                    is_article = bool(re.match(r'^((?:der|die|das)(?:\/(?:der|die|das))*)$', prev_word_str.strip(), re.IGNORECASE))
                     is_reference = "→" in prev_word_str and (prev_word_str.endswith("→") or prev_word_str.endswith(":") or prev_word_str.endswith(";"))
                     
                     if is_prefix_entry:
