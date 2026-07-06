@@ -13,6 +13,16 @@ def clean_word(w):
             return w[len(prefix):].strip()
     return w.strip()
 
+def should_skip_word(word):
+    word_clean = word.strip()
+    if len(word_clean) <= 1:
+        return True
+    if "_" in word_clean or re.match(r'^\d+$', word_clean):
+        return True
+    if word_clean.isupper():
+        return True
+    return False
+
 def split_examples(examples_str):
     if not examples_str:
         return []
@@ -121,6 +131,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
     current_word = []
     current_examples = []
     prev_top = None
+    pending_article = None
     
     for t in sorted_tops:
         line_words = sorted(lines[t], key=lambda x: x['x0'])
@@ -143,18 +154,39 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 word_lower = word_str.lower()
                 is_aux = word_lower.startswith(("hat ", "ist ", "hat/ist ", "war ", "wurde ", "und "))
                 starts_with_article = word_lower.startswith(("der ", "die ", "das ", "der/die ", "die/das ", "der/das ", "der/die/das "))
+                # Check for structural indicators on the current line
+                starts_with_arrow = word_str.startswith("→")
+                starts_with_regional = word_str.startswith("(") and any(x in word_str[:6] for x in ["D", "A", "CH", "Sg.", "Pl.", "Sg", "Pl"])
+                is_plural_marker = (word_str.startswith("-") or word_str.startswith("¨-") or word_str.lower() in ["(pl.)", "(sg.)"]) and len(word_str) <= 6
+                is_gewesen = word_str.lower() == "gewesen"
+                
+                # Check for structural indicators from previous parsed word
+                prev_word_str = current_word[-1].strip() if current_word else ""
+                has_open_parenthesis = prev_word_str.count("(") > prev_word_str.count(")")
+                
+                base_word_str = current_word[0].strip() if current_word else ""
+                is_reflexive = base_word_str.lower().startswith("sich ") or base_word_str.lower().startswith("(sich) ")
                 
                 if is_aux:
+                    is_continuation = True
+                elif is_gewesen:
+                    is_continuation = True
+                elif starts_with_arrow:
+                    is_continuation = True
+                elif starts_with_regional:
+                    is_continuation = True
+                elif is_plural_marker:
+                    is_continuation = True
+                elif has_open_parenthesis:
                     is_continuation = True
                 elif starts_with_article:
                     is_continuation = False
                 elif gap >= 13.0:
                     is_continuation = False
                 else:
-                    prev_word_str = current_word[-1].strip() if current_word else ""
                     is_prefix_entry = prev_word_str.endswith("-") and " " not in prev_word_str
                     is_article = prev_word_str.lower() in ["der", "die", "das", "der/die", "die/das", "der/das", "der/die/das"]
-                    is_reference = "→" in prev_word_str and (prev_word_str.endswith("→") or prev_word_str.endswith(":"))
+                    is_reference = "→" in prev_word_str and (prev_word_str.endswith("→") or prev_word_str.endswith(":") or prev_word_str.endswith(";"))
                     
                     if is_prefix_entry:
                         is_continuation = False
@@ -162,7 +194,9 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                         is_continuation = True
                     elif is_reference:
                         is_continuation = True
-                    elif prev_word_str.endswith("-") or prev_word_str.endswith("/"):
+                    elif is_reflexive:
+                        is_continuation = True
+                    elif prev_word_str.endswith("-"):
                         is_continuation = True
                     else:
                         is_continuation = False
@@ -172,14 +206,27 @@ def parse_column_words(column_words, word_max_x, pdf_type):
         if is_new_entry:
             if current_word:
                 word_full = " ".join(current_word).strip()
+                pending_article = None
+                for suffix in ["/der", "/die", "/das", "/ der", "/ die", "/ das"]:
+                    if word_full.endswith(suffix):
+                        pending_article = suffix.split("/")[-1].strip()
+                        word_full = word_full[:-len(suffix)].strip()
+                        break
+                if word_full.endswith("/"):
+                    word_full = word_full[:-1].strip()
                 examples_full = " ".join(current_examples).strip()
-                if len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
+                if should_skip_word(word_full):
+                    pass
+                elif len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
                     entries.append({
                         "id": word_full.split(',')[0].strip(),
                         "raw_word": word_full,
                         "details": parse_word_details(word_full),
                         "examples": split_examples(examples_full)
                     })
+            if pending_article and not word_str.lower().startswith(("der ", "die ", "das ")):
+                word_str = pending_article + " " + word_str
+            pending_article = None
             current_word = [word_str]
             current_examples = [example_str] if example_str else []
         else:
@@ -190,8 +237,14 @@ def parse_column_words(column_words, word_max_x, pdf_type):
             
     if current_word:
         word_full = " ".join(current_word).strip()
+        for suffix in ["/der", "/die", "/das", "/ der", "/ die", "/ das", "/"]:
+            if word_full.endswith(suffix):
+                word_full = word_full[:-len(suffix)].strip()
+                break
         examples_full = " ".join(current_examples).strip()
-        if len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
+        if should_skip_word(word_full):
+            pass
+        elif len(word_full) > 1 or word_full.lower() not in "abcdefghijklmnopqrstuvwxyzäöüß":
             entries.append({
                 "id": word_full.split(',')[0].strip(),
                 "raw_word": word_full,

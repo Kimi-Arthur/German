@@ -1,22 +1,5 @@
 [
   {
-    "id": "ALPHABETISCHER",
-    "raw_word": "ALPHABETISCHER",
-    "details": {
-      "article": null,
-      "headword": "ALPHABETISCHER",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "WORTSCHATZ"
-    ]
-  },
-  {
     "id": "ab",
     "raw_word": "ab",
     "details": {
@@ -382,25 +365,6 @@
     },
     "examples": [
       "Fahren Sie an der nächsten Kreuzung nach rechts."
-    ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir treffen uns am Bahnhof/am Kino/am Stand.",
-      "Am nächsten Montag geht es leider nicht.",
-      "Das Licht war die ganze Nacht an."
     ]
   },
   {
@@ -1163,11 +1127,11 @@
     ]
   },
   {
-    "id": "auf jeden/ keinen Fall",
-    "raw_word": "auf jeden/ keinen Fall",
+    "id": "auf jeden",
+    "raw_word": "auf jeden",
     "details": {
       "article": null,
-      "headword": "auf jeden/ keinen Fall",
+      "headword": "auf jeden",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -1176,7 +1140,24 @@
       "female_form": null
     },
     "examples": [
-      "Ich möchte auf jeden Fall den neuen James-Bond-Film sehen. - Wirklich?",
+      "Ich möchte auf jeden Fall den neuen James-Bond-"
+    ]
+  },
+  {
+    "id": "keinen Fall",
+    "raw_word": "keinen Fall",
+    "details": {
+      "article": null,
+      "headword": "keinen Fall",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Film sehen. - Wirklich?",
       "Ich finde James-Bond-Filme langweilig.",
       "Ich sehe ihn auf keinen Fall an!"
     ]
@@ -1368,21 +1349,6 @@
       "conjugation": [
         "ist aufgestanden"
       ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -2542,23 +2508,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A bedeuten",
-    "raw_word": "616002_30_etsiltroW_2A bedeuten,",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A bedeuten",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Was bedeutet das Wort?"
-    ]
-  },
-  {
     "id": "bedeutet",
     "raw_word": "bedeutet, hat bedeutet",
     "details": {
@@ -3698,23 +3647,6 @@
     "examples": []
   },
   {
-    "id": "616002_30_etsiltroW_2A bitter",
-    "raw_word": "616002_30_etsiltroW_2A bitter",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A bitter",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Kaffee ohne Zucker schmeckt bitter."
-    ]
-  },
-  {
     "id": "das Blatt",
     "raw_word": "das Blatt, ¨-er",
     "details": {
@@ -4367,11 +4299,11 @@
   },
   {
     "id": "der Chef",
-    "raw_word": "der Chef, -s /",
+    "raw_word": "der Chef, -s",
     "details": {
       "article": "der",
       "headword": "Chef",
-      "plural": "-s /",
+      "plural": "-s",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4399,11 +4331,11 @@
   },
   {
     "id": "der Club",
-    "raw_word": "der Club, -s / Klub, -s",
+    "raw_word": "der Club, -s",
     "details": {
       "article": "der",
       "headword": "Club",
-      "plural": "-s / Klub",
+      "plural": "-s",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4411,7 +4343,25 @@
       "female_form": null
     },
     "examples": [
-      "Gibt es hier einen Tennis-Club/Klub?",
+      "Gibt es hier einen Tennis-Club/Klub?"
+    ]
+  },
+  {
+    "id": "Klub",
+    "raw_word": "Klub, -s",
+    "details": {
+      "article": null,
+      "headword": "Klub",
+      "plural": null,
+      "conjugation": [
+        "-s"
+      ],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
       "Ich möchte gern tanzen gehen.",
       "Wo gibt es hier einen Club/Klub mit guter Musik?"
     ]
@@ -4492,35 +4442,21 @@
   },
   {
     "id": "da(r) (Bsp. darauf",
-    "raw_word": "da(r) (Bsp. darauf,",
+    "raw_word": "da(r) (Bsp. darauf, darüber)",
     "details": {
       "article": null,
       "headword": "da(r) (Bsp. darauf",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "darüber)"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Darauf fällt mir keine Antwort ein."
-    ]
-  },
-  {
-    "id": "darüber)",
-    "raw_word": "darüber)",
-    "details": {
-      "article": null,
-      "headword": "darüber)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Darauf fällt mir keine Antwort ein.",
       "Darüber spreche ich nicht gern."
     ]
   },
@@ -4549,7 +4485,7 @@
   },
   {
     "id": "dafür/dagegen sein",
-    "raw_word": "dafür/dagegen sein, ist dafür/dagegen, war dafür/dagegen, ist dafür/ dagegen gewesen",
+    "raw_word": "dafür/dagegen sein, ist dafür/dagegen, war dafür/dagegen, ist dafür",
     "details": {
       "article": null,
       "headword": "dafür sein",
@@ -4557,7 +4493,7 @@
       "conjugation": [
         "ist dafür/dagegen",
         "war dafür/dagegen",
-        "ist dafür/ dagegen gewesen"
+        "ist dafür"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -4569,6 +4505,21 @@
     "examples": [
       "Ich bin dafür/dagegen."
     ]
+  },
+  {
+    "id": "dagegen gewesen",
+    "raw_word": "dagegen gewesen",
+    "details": {
+      "article": null,
+      "headword": "dagegen gewesen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
   },
   {
     "id": "damals",
@@ -4694,23 +4645,6 @@
     },
     "examples": [
       "Ich muss noch schnell zur Post, dann komme ich."
-    ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wenn es nicht regnet, dann kommen wir."
     ]
   },
   {
@@ -4924,11 +4858,11 @@
   },
   {
     "id": "die Disco",
-    "raw_word": "die Disco, -s /",
+    "raw_word": "die Disco, -s",
     "details": {
       "article": "die",
       "headword": "Disco",
-      "plural": "-s /",
+      "plural": "-s",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5458,11 +5392,11 @@
   },
   {
     "id": "die Ehefrau",
-    "raw_word": "die Ehefrau, -en/",
+    "raw_word": "die Ehefrau, -en",
     "details": {
       "article": "die",
       "headword": "Ehefrau",
-      "plural": "-en/",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5473,11 +5407,11 @@
   },
   {
     "id": "der Ehemann",
-    "raw_word": "der Ehemann,¨-er/",
+    "raw_word": "der Ehemann,¨-er",
     "details": {
       "article": "der",
       "headword": "Ehemann",
-      "plural": "¨-er/",
+      "plural": "¨-er",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5608,21 +5542,6 @@
     "examples": [
       "Der Eingang ist um die Ecke."
     ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "einig-",
@@ -5910,7 +5829,7 @@
   },
   {
     "id": "sein",
-    "raw_word": "sein, ist einverstanden, war einverstanden, ist einverstanden",
+    "raw_word": "sein, ist einverstanden, war einverstanden, ist einverstanden gewesen",
     "details": {
       "article": null,
       "headword": "sein",
@@ -5918,7 +5837,7 @@
       "conjugation": [
         "ist einverstanden",
         "war einverstanden",
-        "ist einverstanden"
+        "ist einverstanden gewesen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -5929,21 +5848,6 @@
       "bin) einverstanden.",
       "Bist du einverstanden, wenn wir bald nach Hause gehen?"
     ]
-  },
-  {
-    "id": "gewesen",
-    "raw_word": "gewesen",
-    "details": {
-      "article": null,
-      "headword": "gewesen",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "einzel-",
@@ -6305,7 +6209,7 @@
   },
   {
     "id": "erkältet sein",
-    "raw_word": "erkältet sein, ist erkältet, war erkältet, ist erkältet",
+    "raw_word": "erkältet sein, ist erkältet, war erkältet, ist erkältet gewesen",
     "details": {
       "article": null,
       "headword": "erkältet sein",
@@ -6313,7 +6217,7 @@
       "conjugation": [
         "ist erkältet",
         "war erkältet",
-        "ist erkältet"
+        "ist erkältet gewesen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -6324,21 +6228,6 @@
       "Lisa ist erkältet.",
       "Sie kann heute nicht zur Schule gehen."
     ]
-  },
-  {
-    "id": "gewesen",
-    "raw_word": "gewesen",
-    "details": {
-      "article": null,
-      "headword": "gewesen",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "erklären",
@@ -6679,21 +6568,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "der Fahrplan",
     "raw_word": "der Fahrplan, ¨-e",
     "details": {
@@ -6947,12 +6821,14 @@
   },
   {
     "id": "(z. B. Feierabend",
-    "raw_word": "(z. B. Feierabend,",
+    "raw_word": "(z. B. Feierabend, Feiertag)",
     "details": {
       "article": null,
       "headword": "(z. B. Feierabend",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "Feiertag)"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -6961,21 +6837,6 @@
     "examples": [
       "Am ersten Mai ist ein Feiertag."
     ]
-  },
-  {
-    "id": "Feiertag)",
-    "raw_word": "Feiertag)",
-    "details": {
-      "article": null,
-      "headword": "Feiertag)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "feiern",
@@ -7774,23 +7635,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gekauft."
-    ]
-  },
-  {
     "id": "froh",
     "raw_word": "froh",
     "details": {
@@ -7969,27 +7813,10 @@
   },
   {
     "id": "die Fundsachen",
-    "raw_word": "die Fundsachen",
+    "raw_word": "die Fundsachen (Pl.)",
     "details": {
       "article": "die",
       "headword": "Fundsachen",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Haben Sie meinen Schirm gefunden? - Sie können"
-    ]
-  },
-  {
-    "id": "",
-    "raw_word": "(Pl.)",
-    "details": {
-      "article": null,
-      "headword": "(Pl.)",
       "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
@@ -7998,7 +7825,7 @@
       "female_form": null
     },
     "examples": [
-      "dort bei den Fundsachen schauen."
+      "Haben Sie meinen Schirm gefunden? - Sie können dort bei den Fundsachen schauen."
     ]
   },
   {
@@ -8775,21 +8602,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "gesund",
     "raw_word": "gesund",
     "details": {
@@ -8808,11 +8620,11 @@
     ]
   },
   {
-    "id": "die Gesundheit",
-    "raw_word": "die Gesundheit",
+    "id": "die Gesundheit (Sg.)",
+    "raw_word": "die Gesundheit (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Gesundheit",
+      "headword": "Gesundheit (Sg.)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -8824,21 +8636,6 @@
       "Gesundheit!",
       "Sind Sie erkältet?"
     ]
-  },
-  {
-    "id": "(Sg.)",
-    "raw_word": "(Sg.)",
-    "details": {
-      "article": null,
-      "headword": "(Sg.)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Getränk",
@@ -9514,14 +9311,14 @@
   },
   {
     "id": "hängen",
-    "raw_word": "hängen, hängt, hat gehangen/ gehängt",
+    "raw_word": "hängen, hängt, hat gehangen",
     "details": {
       "article": null,
       "headword": "hängen",
       "plural": null,
       "conjugation": [
         "hängt",
-        "hat gehangen/ gehängt"
+        "hat gehangen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -9530,7 +9327,24 @@
     },
     "examples": [
       "Im Museum hängen moderne Bilder.",
-      "Warum hast du das Bild noch nicht an die Wand gehängt?",
+      "Warum hast du das Bild noch nicht an die Wand"
+    ]
+  },
+  {
+    "id": "gehängt",
+    "raw_word": "gehängt",
+    "details": {
+      "article": null,
+      "headword": "gehängt",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "gehängt?",
       "Das Bild von meiner Tochter hat im Wohnzimmer gehangen."
     ]
   },
@@ -9812,25 +9626,6 @@
     },
     "examples": [
       "Komm bitte mal her!"
-    ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Herein!",
-      "Die Tür ist offen.",
-      "Woher kommen Sie?"
     ]
   },
   {
@@ -10458,29 +10253,13 @@
   },
   {
     "id": "(sich) (über)",
-    "raw_word": "(sich) (über),",
+    "raw_word": "(sich) (über), informiert, hat informiert",
     "details": {
       "article": null,
       "headword": "(sich) (über)",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "informieren."
-    ]
-  },
-  {
-    "id": "informiert",
-    "raw_word": "informiert, hat informiert",
-    "details": {
-      "article": null,
-      "headword": "informiert",
-      "plural": null,
       "conjugation": [
+        "informiert",
         "hat informiert"
       ],
       "synonyms": [],
@@ -10489,6 +10268,7 @@
       "female_form": null
     },
     "examples": [
+      "informieren.",
       "Hast du dich über die Prüfung informiert?"
     ]
   },
@@ -10828,21 +10608,6 @@
       "variants": [
         "hat"
       ],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
       "female_form": null
     },
     "examples": []
@@ -11531,11 +11296,11 @@
   },
   {
     "id": "der Kollege",
-    "raw_word": "der Kollege, -n /",
+    "raw_word": "der Kollege, -n",
     "details": {
       "article": "der",
       "headword": "Kollege",
-      "plural": "-n /",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11751,26 +11516,6 @@
     },
     "examples": [
       "Mein Kopf tut weh!"
-    ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A der Körper",
-    "raw_word": "616002_30_etsiltroW_2A der Körper, -",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A der Körper",
-      "plural": null,
-      "conjugation": [
-        "-"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Der Arzt sagt, ich muss etwas für meinen Körper tun, z.",
-      "B. schwimmen oder Fahrrad fahren."
     ]
   },
   {
@@ -12102,11 +11847,11 @@
   },
   {
     "id": "der Kunde",
-    "raw_word": "der Kunde, -n /",
+    "raw_word": "der Kunde, -n",
     "details": {
       "article": "der",
       "headword": "Kunde",
-      "plural": "-n /",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12814,21 +12559,6 @@
     "examples": [
       "Zum Geburtstag singen wir dir ein Lied."
     ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "liefern",
@@ -13801,23 +13531,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A modern",
-    "raw_word": "616002_30_etsiltroW_2A modern",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A modern",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Das Stadtzentrum von Frankfurt ist sehr modern."
-    ]
-  },
-  {
     "id": "mögen",
     "raw_word": "mögen, mag,",
     "details": {
@@ -14749,24 +14462,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A das Obst (Sg.)",
-    "raw_word": "616002_30_etsiltroW_2A das Obst (Sg.)",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A das Obst (Sg.)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Obst kaufe ich immer auf dem Markt.",
-      "Heute kaufe ich Äpfel und Orangen."
-    ]
-  },
-  {
     "id": "oder",
     "raw_word": "oder",
     "details": {
@@ -15505,11 +15200,11 @@
   },
   {
     "id": "die Pommes frites",
-    "raw_word": "die Pommes frites",
+    "raw_word": "die Pommes frites (Pl.)",
     "details": {
       "article": "die",
       "headword": "Pommes frites",
-      "plural": null,
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15519,21 +15214,6 @@
     "examples": [
       "Die Kinder essen Bratwurst mit Pommes frites."
     ]
-  },
-  {
-    "id": "",
-    "raw_word": "(Pl.)",
-    "details": {
-      "article": null,
-      "headword": "(Pl.)",
-      "plural": "(Pl.)",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Portion",
@@ -15783,21 +15463,6 @@
       "Die Tür geht schwer auf.",
       "Probier mal!"
     ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Problem",
@@ -16497,13 +16162,13 @@
   },
   {
     "id": "de Rentner",
-    "raw_word": "de Rentner, - /",
+    "raw_word": "de Rentner, -",
     "details": {
       "article": null,
       "headword": "de Rentner",
       "plural": null,
       "conjugation": [
-        "- /"
+        "-"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -16884,23 +16549,6 @@
     "examples": [
       "Rufst du bitte die Kinder.",
       "Das Essen ist fertig."
-    ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A hat gerufen",
-    "raw_word": "616002_30_etsiltroW_2A hat gerufen",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A hat gerufen",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir müssen einen Arzt rufen."
     ]
   },
   {
@@ -17780,11 +17428,11 @@
     ]
   },
   {
-    "id": "die Schokolade",
-    "raw_word": "die Schokolade",
+    "id": "die Schokolade (Sg.)",
+    "raw_word": "die Schokolade (Sg.)",
     "details": {
       "article": "die",
-      "headword": "Schokolade",
+      "headword": "Schokolade (Sg.)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -17795,21 +17443,6 @@
     "examples": [
       "Julia liebt Schokolade."
     ]
-  },
-  {
-    "id": "(Sg.)",
-    "raw_word": "(Sg.)",
-    "details": {
-      "article": null,
-      "headword": "(Sg.)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "schon",
@@ -17956,24 +17589,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Die neuen Schuhe sind mir zu eng.",
-      "Sie drücken."
-    ]
-  },
-  {
     "id": "die Schule",
     "raw_word": "die Schule, -n",
     "details": {
@@ -17993,11 +17608,11 @@
   },
   {
     "id": "der Schüler",
-    "raw_word": "der Schüler, - /",
+    "raw_word": "der Schüler, -",
     "details": {
       "article": "der",
       "headword": "Schüler",
-      "plural": "- /",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18931,21 +18546,6 @@
     "examples": []
   },
   {
-    "id": "616002_30_etsiltroW_2A hat gespeichert",
-    "raw_word": "616002_30_etsiltroW_2A hat gespeichert",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A hat gespeichert",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "die Speisekarte",
     "raw_word": "die Speisekarte, -n",
     "details": {
@@ -19802,27 +19402,10 @@
   },
   {
     "id": "die Süßigkeiten",
-    "raw_word": "die Süßigkeiten",
+    "raw_word": "die Süßigkeiten (Pl.)",
     "details": {
       "article": "die",
       "headword": "Süßigkeiten",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Welche Süßigkeiten isst du am liebsten?"
-    ]
-  },
-  {
-    "id": "",
-    "raw_word": "(Pl.)",
-    "details": {
-      "article": null,
-      "headword": "(Pl.)",
       "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
@@ -19831,7 +19414,7 @@
       "female_form": null
     },
     "examples": [
-      "- Schokolade und Eis."
+      "Welche Süßigkeiten isst du am liebsten? - Schokolade und Eis."
     ]
   },
   {
@@ -19960,11 +19543,11 @@
     ]
   },
   {
-    "id": "das Taschengeld",
-    "raw_word": "das Taschengeld",
+    "id": "das Taschengeld (Sg.)",
+    "raw_word": "das Taschengeld (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Taschengeld",
+      "headword": "Taschengeld (Sg.)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -19975,21 +19558,6 @@
     "examples": [
       "Wie viel Taschengeld bekommen deine Kinder?"
     ]
-  },
-  {
-    "id": "(Sg.)",
-    "raw_word": "(Sg.)",
-    "details": {
-      "article": null,
-      "headword": "(Sg.)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Tasse",
@@ -20059,26 +19627,6 @@
     },
     "examples": [
       "Bitte rufen Sie mir ein Taxi."
-    ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A das Team",
-    "raw_word": "616002_30_etsiltroW_2A das Team, -s",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A das Team",
-      "plural": null,
-      "conjugation": [
-        "-s"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich arbeite gern in einem Team.",
-      "Welches Fußballteam findest du am besten?"
     ]
   },
   {
@@ -21240,28 +20788,17 @@
     "examples": []
   },
   {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "sich umziehen",
-    "raw_word": "sich umziehen,",
+    "raw_word": "sich umziehen, zieht sich um, zog sich um, hat sich umgezogen",
     "details": {
       "article": null,
       "headword": "sich umziehen",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "zieht sich um",
+        "zog sich um",
+        "hat sich umgezogen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21270,38 +20807,6 @@
     "examples": [
       "Warte bitte, ich muss mich noch umziehen."
     ]
-  },
-  {
-    "id": "zieht sich um",
-    "raw_word": "zieht sich um,",
-    "details": {
-      "article": null,
-      "headword": "zieht sich um",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "zog sich um",
-    "raw_word": "zog sich um, hat sich umgezogen",
-    "details": {
-      "article": null,
-      "headword": "zog sich um",
-      "plural": null,
-      "conjugation": [
-        "hat sich umgezogen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Umzug",
@@ -21713,11 +21218,11 @@
     ]
   },
   {
-    "id": "verbieten / verboten sein",
-    "raw_word": "verbieten / verboten sein",
+    "id": "verbieten",
+    "raw_word": "verbieten",
     "details": {
       "article": null,
-      "headword": "verbieten / verboten sein",
+      "headword": "verbieten",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -21728,6 +21233,21 @@
     "examples": [
       "Hier ist Rauchen verboten."
     ]
+  },
+  {
+    "id": "verboten sein",
+    "raw_word": "verboten sein",
+    "details": {
+      "article": null,
+      "headword": "verboten sein",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
   },
   {
     "id": "verdienen",
@@ -22098,11 +21618,11 @@
   },
   {
     "id": "der Vermieter",
-    "raw_word": "der Vermieter, - /",
+    "raw_word": "der Vermieter, -",
     "details": {
       "article": "der",
       "headword": "Vermieter",
-      "plural": "- /",
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -22395,24 +21915,6 @@
       "Vielleicht bekomme ich diesen Job.",
       "Er besucht uns vielleicht am Wochenende.",
       "Kannst du mir vielleicht ein bisschen Geld leihen?"
-    ]
-  },
-  {
-    "id": "der Vogel",
-    "raw_word": "der Vogel, ¨- 616002_30_etsiltroW_2A",
-    "details": {
-      "article": "der",
-      "headword": "Vogel",
-      "plural": "¨- 616002_30_etsiltroW_2A",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Nadine mag Vögel.",
-      "Morgens singen die Vögel immer laut."
     ]
   },
   {
@@ -23150,11 +22652,11 @@
     ]
   },
   {
-    "id": "(wegbringen/ -fahren/-gehen/ -laufen/-machen/ -nehmen/-werfen)",
-    "raw_word": "(wegbringen/ -fahren/-gehen/ -laufen/-machen/ -nehmen/-werfen)",
+    "id": "(wegbringen/ -fahren/-gehen",
+    "raw_word": "(wegbringen/ -fahren/-gehen",
     "details": {
       "article": null,
-      "headword": "(wegbringen/ -fahren/-gehen/ -laufen/-machen/ -nehmen/-werfen)",
+      "headword": "(wegbringen/ -fahren/-gehen",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -23164,8 +22666,44 @@
     },
     "examples": [
       "Bringst du bitte den Müll weg?",
-      "Können Sie Ihr Auto bitte wegfahren?",
-      "Ich gehe jetzt weg.",
+      "Können Sie Ihr Auto bitte wegfahren?"
+    ]
+  },
+  {
+    "id": "-laufen/-machen",
+    "raw_word": "-laufen/-machen",
+    "details": {
+      "article": null,
+      "headword": "-laufen",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [
+        "-machen"
+      ],
+      "female_form": null
+    },
+    "examples": [
+      "Ich gehe jetzt weg."
+    ]
+  },
+  {
+    "id": "-nehmen/-werfen)",
+    "raw_word": "-nehmen/-werfen)",
+    "details": {
+      "article": null,
+      "headword": "-nehmen)",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [
+        "-werfen"
+      ],
+      "female_form": null
+    },
+    "examples": [
       "Unser Hund ist weggelaufen.",
       "Kannst du das bitte wegmachen?",
       "Warum hast du dem Kind den Ball weggenommen?",
@@ -23427,21 +22965,6 @@
       "Die Studenten kommen aus vielen Ländern.",
       "Sie kommen aus der ganzen Welt."
     ]
-  },
-  {
-    "id": "616002_30_etsiltroW_2A",
-    "raw_word": "616002_30_etsiltroW_2A",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "wenig",
@@ -24457,27 +23980,6 @@
     ]
   },
   {
-    "id": "616002_30_etsiltroW_2A das Ziel",
-    "raw_word": "616002_30_etsiltroW_2A das Ziel, -e",
-    "details": {
-      "article": null,
-      "headword": "616002_30_etsiltroW_2A das Ziel",
-      "plural": null,
-      "conjugation": [
-        "-e"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "John läuft sehr schnell.",
-      "Er war als erster am Ziel.",
-      "Was ist dein Ziel im Leben?"
-    ]
-  },
-  {
     "id": "das Zimmer",
     "raw_word": "das Zimmer, -",
     "details": {
@@ -24767,31 +24269,14 @@
   },
   {
     "id": "(fahren",
-    "raw_word": "(fahren, geben,",
+    "raw_word": "(fahren, geben, gehen, kommen,",
     "details": {
       "article": null,
       "headword": "(fahren",
       "plural": null,
       "conjugation": [
-        "geben"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wann muss ich das Buch zurückgeben?"
-    ]
-  },
-  {
-    "id": "gehen",
-    "raw_word": "gehen, kommen,",
-    "details": {
-      "article": null,
-      "headword": "gehen",
-      "plural": null,
-      "conjugation": [
+        "geben",
+        "gehen",
         "kommen"
       ],
       "synonyms": [],
@@ -24800,6 +24285,7 @@
       "female_form": null
     },
     "examples": [
+      "Wann muss ich das Buch zurückgeben?",
       "Wir gehen wieder zurück."
     ]
   },
