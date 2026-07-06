@@ -1,0 +1,7547 @@
+[
+  {
+    "id": "ab",
+    "raw_word": "ab",
+    "details": {
+      "headword": "ab"
+    },
+    "examples": [
+      "Ab morgen muss ich arbeiten."
+    ]
+  },
+  {
+    "id": "aber",
+    "raw_word": "aber",
+    "details": {
+      "headword": "aber"
+    },
+    "examples": [
+      "Ich bin oft im Büro, aber nur für wenige Stunden."
+    ]
+  },
+  {
+    "id": "abfahren",
+    "raw_word": "abfahren",
+    "details": {
+      "headword": "abfahren"
+    },
+    "examples": [
+      "Wir fahren um zwölf Uhr ab."
+    ]
+  },
+  {
+    "id": "die Abfahrt",
+    "raw_word": "die Abfahrt",
+    "details": {
+      "article": "die",
+      "headword": "Abfahrt"
+    },
+    "examples": [
+      "Vor der Abfahrt rufe ich an."
+    ]
+  },
+  {
+    "id": "abgeben",
+    "raw_word": "abgeben",
+    "details": {
+      "headword": "abgeben"
+    },
+    "examples": [
+      "Ich muss meine Schlüssel abgeben."
+    ]
+  },
+  {
+    "id": "abholen",
+    "raw_word": "abholen",
+    "details": {
+      "headword": "abholen"
+    },
+    "examples": [
+      "Wann kann ich den Schrank bei dir abholen?",
+      "Wir müssen noch meinen Bruder abholen."
+    ]
+  },
+  {
+    "id": "der Absender",
+    "raw_word": "der Absender",
+    "details": {
+      "article": "der",
+      "headword": "Absender"
+    },
+    "examples": [
+      "Da ist ein Brief für dich ohne Absender."
+    ]
+  },
+  {
+    "id": "Achtung",
+    "raw_word": "Achtung",
+    "details": {
+      "headword": "Achtung"
+    },
+    "examples": [
+      "Achtung! Das dürfen Sie nicht tun."
+    ]
+  },
+  {
+    "id": "die Adresse",
+    "raw_word": "die Adresse,-en",
+    "details": {
+      "article": "die",
+      "headword": "Adresse",
+      "plural": "-en"
+    },
+    "examples": [
+      "Können Sie mir seine Adresse sagen?"
+    ]
+  },
+  {
+    "id": "all-",
+    "raw_word": "all-",
+    "details": {
+      "headword": "all-"
+    },
+    "examples": [
+      "Alles Gute!",
+      "Das ist alles.",
+      "Sind alle da?",
+      "Alle Freunde kommen.",
+      "Hast du alles?"
+    ]
+  },
+  {
+    "id": "allein",
+    "raw_word": "allein",
+    "details": {
+      "headword": "allein"
+    },
+    "examples": [
+      "Er kommt allein."
+    ]
+  },
+  {
+    "id": "also",
+    "raw_word": "also",
+    "details": {
+      "headword": "also"
+    },
+    "examples": [
+      "Also, es ist so: ...",
+      "Er hat Zeit, also muss er uns helfen."
+    ]
+  },
+  {
+    "id": "alt",
+    "raw_word": "alt",
+    "details": {
+      "headword": "alt"
+    },
+    "examples": [
+      "Wie alt sind Sie?",
+      "Sie sehen aber nicht so alt aus.",
+      "Mein Auto ist schon sehr alt.",
+      "Wir wohnen in einem sehr alten Haus.",
+      "Köln ist eine alte Stadt."
+    ]
+  },
+  {
+    "id": "das Alter",
+    "raw_word": "das Alter",
+    "details": {
+      "article": "das",
+      "headword": "Alter"
+    },
+    "examples": [
+      "Alter: 26 Jahre."
+    ]
+  },
+  {
+    "id": "an",
+    "raw_word": "an",
+    "details": {
+      "headword": "an"
+    },
+    "examples": [
+      "Fahren Sie an der nächsten Straße nach rechts.",
+      "Wir treffen uns am Bahnhof.",
+      "Am nächsten Montag geht es leider nicht."
+    ]
+  },
+  {
+    "id": "anbieten",
+    "raw_word": "anbieten",
+    "details": {
+      "headword": "anbieten"
+    },
+    "examples": [
+      "Was darf ich dir anbieten?"
+    ]
+  },
+  {
+    "id": "das Angebot",
+    "raw_word": "das Angebot, -e",
+    "details": {
+      "article": "das",
+      "headword": "Angebot",
+      "plural": "-e"
+    },
+    "examples": [
+      "Heute sind Sportschuhe im Angebot."
+    ]
+  },
+  {
+    "id": "ander-",
+    "raw_word": "ander-",
+    "details": {
+      "headword": "ander-"
+    },
+    "examples": [
+      "WiIlst du diese Jacke? – Nein, ich möchte die andere."
+    ]
+  },
+  {
+    "id": "anfangen",
+    "raw_word": "anfangen",
+    "details": {
+      "headword": "anfangen"
+    },
+    "examples": [
+      "Hier fängt die Bahnhofstraße an.",
+      "Der Unterricht fängt gleich an."
+    ]
+  },
+  {
+    "id": "der Anfang",
+    "raw_word": "der Anfang",
+    "details": {
+      "article": "der",
+      "headword": "Anfang"
+    },
+    "examples": [
+      "Sie wohnt am Anfang der Straße.",
+      "Wir machen Anfang Juli Urlaub."
+    ]
+  },
+  {
+    "id": "anklicken",
+    "raw_word": "anklicken",
+    "details": {
+      "headword": "anklicken"
+    },
+    "examples": [
+      "Da musst du dieses Wort anklicken."
+    ]
+  },
+  {
+    "id": "ankommen",
+    "raw_word": "ankommen",
+    "details": {
+      "headword": "ankommen"
+    },
+    "examples": [
+      "Wann kommt dieser Zug in Hamburg an?"
+    ]
+  },
+  {
+    "id": "die Ankunft",
+    "raw_word": "die Ankunft",
+    "details": {
+      "article": "die",
+      "headword": "Ankunft"
+    },
+    "examples": [
+      "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge."
+    ]
+  },
+  {
+    "id": "ankreuzen",
+    "raw_word": "ankreuzen",
+    "details": {
+      "headword": "ankreuzen"
+    },
+    "examples": [
+      "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen."
+    ]
+  },
+  {
+    "id": "anmachen",
+    "raw_word": "anmachen",
+    "details": {
+      "headword": "anmachen"
+    },
+    "examples": [
+      "Mach bitte das Licht an!"
+    ]
+  },
+  {
+    "id": "(sich) anmelden",
+    "raw_word": "(sich) anmelden",
+    "details": {
+      "headword": "(sich) anmelden"
+    },
+    "examples": [
+      "Wo kann ich mich anmelden?"
+    ]
+  },
+  {
+    "id": "die Anmeldung",
+    "raw_word": "die Anmeldung",
+    "details": {
+      "article": "die",
+      "headword": "Anmeldung"
+    },
+    "examples": [
+      "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
+    ]
+  },
+  {
+    "id": "die Anrede",
+    "raw_word": "die Anrede",
+    "details": {
+      "article": "die",
+      "headword": "Anrede"
+    },
+    "examples": [
+      "Schreiben Sie auch eine Anrede und einen Gruß."
+    ]
+  },
+  {
+    "id": "anrufen",
+    "raw_word": "anrufen",
+    "details": {
+      "headword": "anrufen"
+    },
+    "examples": [
+      "Kann man Sie anrufen?",
+      "Peter ruft kurz seine Freundin an."
+    ]
+  },
+  {
+    "id": "der Anruf",
+    "raw_word": "der Anruf, -e",
+    "details": {
+      "article": "der",
+      "headword": "Anruf",
+      "plural": "-e"
+    },
+    "examples": [
+      "Sie bekommt viele Anrufe auf ihrem Handy."
+    ]
+  },
+  {
+    "id": "der Anrufbeantworter",
+    "raw_word": "der Anrufbeantworter",
+    "details": {
+      "article": "der",
+      "headword": "Anrufbeantworter"
+    },
+    "examples": [
+      "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
+    ]
+  },
+  {
+    "id": "die Ansage",
+    "raw_word": "die Ansage, -n",
+    "details": {
+      "article": "die",
+      "headword": "Ansage",
+      "plural": "-n"
+    },
+    "examples": [
+      "Hören Sie die Ansagen."
+    ]
+  },
+  {
+    "id": "der Anschluss",
+    "raw_word": "der Anschluss",
+    "details": {
+      "article": "der",
+      "headword": "Anschluss"
+    },
+    "examples": [
+      "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+      "Ist das die Anmeldung für einen Telefonanschluss?"
+    ]
+  },
+  {
+    "id": "an sein",
+    "raw_word": "an sein",
+    "details": {
+      "headword": "an sein"
+    },
+    "examples": [
+      "Heute Nacht war das Licht an."
+    ]
+  },
+  {
+    "id": "antworten",
+    "raw_word": "antworten",
+    "details": {
+      "headword": "antworten"
+    },
+    "examples": [
+      "Er antwortet nicht."
+    ]
+  },
+  {
+    "id": "die Antwort",
+    "raw_word": "die Antwort, -en",
+    "details": {
+      "article": "die",
+      "headword": "Antwort",
+      "plural": "-en"
+    },
+    "examples": [
+      "Er gibt leider keine Antwort."
+    ]
+  },
+  {
+    "id": "die Anzeige",
+    "raw_word": "die Anzeige, -n",
+    "details": {
+      "article": "die",
+      "headword": "Anzeige",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe Ihre Anzeige in der Zeitung gelesen."
+    ]
+  },
+  {
+    "id": "(sich) anziehen",
+    "raw_word": "(sich) anziehen",
+    "details": {
+      "headword": "(sich) anziehen"
+    },
+    "examples": [
+      "Ich muss mich noch anziehen."
+    ]
+  },
+  {
+    "id": "das Apartment",
+    "raw_word": "das Apartment, -s",
+    "details": {
+      "article": "das",
+      "headword": "Apartment",
+      "plural": "-s"
+    },
+    "examples": [
+      "Wir haben ein Apartment gemietet."
+    ]
+  },
+  {
+    "id": "der Apfel",
+    "raw_word": "der Apfel, -Ä",
+    "details": {
+      "article": "der",
+      "headword": "Apfel",
+      "plural": "-Ä"
+    },
+    "examples": [
+      "Ein Pfund Äpfel bitte."
+    ]
+  },
+  {
+    "id": "der Appetit",
+    "raw_word": "der Appetit",
+    "details": {
+      "article": "der",
+      "headword": "Appetit"
+    },
+    "examples": [
+      "Guten Appetit!"
+    ]
+  },
+  {
+    "id": "arbeiten",
+    "raw_word": "arbeiten",
+    "details": {
+      "headword": "arbeiten"
+    },
+    "examples": [
+      "Wo arbeiten Sie?"
+    ]
+  },
+  {
+    "id": "die Arbeit",
+    "raw_word": "die Arbeit, -en",
+    "details": {
+      "article": "die",
+      "headword": "Arbeit",
+      "plural": "-en"
+    },
+    "examples": [
+      "Mein Bruder sucht Arbeit."
+    ]
+  },
+  {
+    "id": "arbeitslos",
+    "raw_word": "arbeitslos",
+    "details": {
+      "headword": "arbeitslos"
+    },
+    "examples": [
+      "Es gibt bei uns viele Leute, die schon lange arbeitslos sind."
+    ]
+  },
+  {
+    "id": "der Arbeitsplatz",
+    "raw_word": "der Arbeitsplatz, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Arbeitsplatz",
+      "plural": "-ä"
+    },
+    "examples": [
+      "An meinem Arbeitsplatz fehlt ein Drucker."
+    ]
+  },
+  {
+    "id": "der Arm",
+    "raw_word": "der Arm, -e",
+    "details": {
+      "article": "der",
+      "headword": "Arm",
+      "plural": "-e"
+    },
+    "examples": [
+      "Mein Arm tut weh."
+    ]
+  },
+  {
+    "id": "der Arzt",
+    "raw_word": "der Arzt, -Ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Arzt",
+      "plural": "-Ä"
+    },
+    "examples": [
+      "Morgen habe ich einen Termin bei meiner Ärztin."
+    ]
+  },
+  {
+    "id": "auch",
+    "raw_word": "auch",
+    "details": {
+      "headword": "auch"
+    },
+    "examples": [
+      "Ich bin auch Spanier."
+    ]
+  },
+  {
+    "id": "auf",
+    "raw_word": "auf",
+    "details": {
+      "headword": "auf"
+    },
+    "examples": [
+      "Die Kinder spielen auf der Straße.",
+      "Auf Wiedersehen.",
+      "Wie heißt das auf Deutsch?"
+    ]
+  },
+  {
+    "id": "die Aufgabe",
+    "raw_word": "die Aufgabe, -n",
+    "details": {
+      "article": "die",
+      "headword": "Aufgabe",
+      "plural": "-n"
+    },
+    "examples": [
+      "Das ist eine schwere Aufgabe."
+    ]
+  },
+  {
+    "id": "aufhören",
+    "raw_word": "aufhören",
+    "details": {
+      "headword": "aufhören"
+    },
+    "examples": [
+      "Der Kurs hört in einer Woche auf.",
+      "Hier hört die Bahnhofstraße auf."
+    ]
+  },
+  {
+    "id": "auf sein",
+    "raw_word": "auf sein",
+    "details": {
+      "headword": "auf sein"
+    },
+    "examples": [
+      "Du brauchst den Schlüssel nicht. Die Wohnung ist auf."
+    ]
+  },
+  {
+    "id": "aufstehen",
+    "raw_word": "aufstehen",
+    "details": {
+      "headword": "aufstehen"
+    },
+    "examples": [
+      "Ich muss immer um vier Uhr aufstehen.",
+      "Soll ich aufstehen?"
+    ]
+  },
+  {
+    "id": "der Aufzug",
+    "raw_word": "der Aufzug, -ü, e",
+    "details": {
+      "article": "der",
+      "headword": "Aufzug",
+      "plural": "-ü"
+    },
+    "examples": [
+      "In diesem Haus gibt es keinen Aufzug."
+    ]
+  },
+  {
+    "id": "das Auge",
+    "raw_word": "das Auge, -n",
+    "details": {
+      "article": "das",
+      "headword": "Auge",
+      "plural": "-n"
+    },
+    "examples": [
+      "Er hat blaue Augen."
+    ]
+  },
+  {
+    "id": "aus",
+    "raw_word": "aus",
+    "details": {
+      "headword": "aus"
+    },
+    "examples": [
+      "Er kommt aus Brasilien."
+    ]
+  },
+  {
+    "id": "der Ausflug",
+    "raw_word": "der Ausflug",
+    "details": {
+      "article": "der",
+      "headword": "Ausflug"
+    },
+    "examples": [
+      "Morgen machen wir einen Ausflug nach Heidelberg."
+    ]
+  },
+  {
+    "id": "ausfüllen",
+    "raw_word": "ausfüllen",
+    "details": {
+      "headword": "ausfüllen"
+    },
+    "examples": [
+      "Füllen Sie bitte dieses Formular aus."
+    ]
+  },
+  {
+    "id": "der Ausgang",
+    "raw_word": "der Ausgang",
+    "details": {
+      "article": "der",
+      "headword": "Ausgang"
+    },
+    "examples": [
+      "Wo ist der Ausgang?"
+    ]
+  },
+  {
+    "id": "die Auskunft",
+    "raw_word": "die Auskunft, -ü, e",
+    "details": {
+      "article": "die",
+      "headword": "Auskunft",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Können Sie mir eine Auskunft geben?"
+    ]
+  },
+  {
+    "id": "das Ausland",
+    "raw_word": "das Ausland",
+    "details": {
+      "article": "das",
+      "headword": "Ausland"
+    },
+    "examples": [
+      "Fahren Sie ins Ausland?"
+    ]
+  },
+  {
+    "id": "der Ausländer",
+    "raw_word": "der Ausländer, - ausländisch",
+    "details": {
+      "article": "der",
+      "headword": "Ausländer",
+      "plural": "- ausländisch"
+    },
+    "examples": [
+      "SInd Sie Ausländerin?",
+      "Leider habe ich nur ausländisches Geld."
+    ]
+  },
+  {
+    "id": "ausmachen",
+    "raw_word": "ausmachen",
+    "details": {
+      "headword": "ausmachen"
+    },
+    "examples": [
+      "Mach bitte das Licht aus!"
+    ]
+  },
+  {
+    "id": "die Aussage",
+    "raw_word": "die Aussage, -n",
+    "details": {
+      "article": "die",
+      "headword": "Aussage",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ist die Aussage richtig oder falsch?"
+    ]
+  },
+  {
+    "id": "aussehen",
+    "raw_word": "aussehen",
+    "details": {
+      "headword": "aussehen"
+    },
+    "examples": [
+      "Das sieht schön aus."
+    ]
+  },
+  {
+    "id": "aus sein",
+    "raw_word": "aus sein",
+    "details": {
+      "headword": "aus sein"
+    },
+    "examples": [
+      "Das Licht ist aus.",
+      "Die Schule ist aus."
+    ]
+  },
+  {
+    "id": "aussteigen",
+    "raw_word": "aussteigen",
+    "details": {
+      "headword": "aussteigen"
+    },
+    "examples": [
+      "Wo muss ich aussteigen?"
+    ]
+  },
+  {
+    "id": "der Ausweis",
+    "raw_word": "der Ausweis",
+    "details": {
+      "article": "der",
+      "headword": "Ausweis"
+    },
+    "examples": [
+      "Hier ist mein Ausweis."
+    ]
+  },
+  {
+    "id": "(sich) ausziehen",
+    "raw_word": "(sich) ausziehen",
+    "details": {
+      "headword": "(sich) ausziehen"
+    },
+    "examples": [
+      "Zieh die Schuhe aus, bitte!"
+    ]
+  },
+  {
+    "id": "das Auto",
+    "raw_word": "das Auto, -s",
+    "details": {
+      "article": "das",
+      "headword": "Auto",
+      "plural": "-s"
+    },
+    "examples": [
+      "Er kommt mit dem Auto."
+    ]
+  },
+  {
+    "id": "die Autobahn",
+    "raw_word": "die Autobahn, -en",
+    "details": {
+      "article": "die",
+      "headword": "Autobahn",
+      "plural": "-en"
+    },
+    "examples": [
+      "Wo geht‘s hier bitte zur Autobahn?"
+    ]
+  },
+  {
+    "id": "der Automat",
+    "raw_word": "der Automat",
+    "details": {
+      "article": "der",
+      "headword": "Automat"
+    },
+    "examples": [
+      "Die Fahrkarten gibt es nur am Automaten."
+    ]
+  },
+  {
+    "id": "automatisch",
+    "raw_word": "automatisch",
+    "details": {
+      "headword": "automatisch"
+    },
+    "examples": [
+      "Du musst nichts machen. Das geht automatisch."
+    ]
+  },
+  {
+    "id": "das Baby",
+    "raw_word": "das Baby, -s",
+    "details": {
+      "article": "das",
+      "headword": "Baby",
+      "plural": "-s"
+    },
+    "examples": [
+      "Mein Kind ist noch ein Baby."
+    ]
+  },
+  {
+    "id": "die Bäckerei",
+    "raw_word": "die Bäckerei",
+    "details": {
+      "article": "die",
+      "headword": "Bäckerei"
+    },
+    "examples": [
+      "Ich geh mal schnell zur Bäckerei."
+    ]
+  },
+  {
+    "id": "das Bad",
+    "raw_word": "das Bad",
+    "details": {
+      "article": "das",
+      "headword": "Bad"
+    },
+    "examples": [
+      "Wir haben kein großes Bad."
+    ]
+  },
+  {
+    "id": "baden",
+    "raw_word": "baden",
+    "details": {
+      "headword": "baden"
+    },
+    "examples": [
+      "Ich bade nicht so gern, ich dusche lieber."
+    ]
+  },
+  {
+    "id": "die Bahn",
+    "raw_word": "die Bahn",
+    "details": {
+      "article": "die",
+      "headword": "Bahn"
+    },
+    "examples": [
+      "Wir fahren lieber mit der Bahn.",
+      "Ich nehme die nächste Bahn."
+    ]
+  },
+  {
+    "id": "der Bahnhof",
+    "raw_word": "der Bahnhof",
+    "details": {
+      "article": "der",
+      "headword": "Bahnhof"
+    },
+    "examples": [
+      "Komme ich hier zum Bahnhof?"
+    ]
+  },
+  {
+    "id": "der Bahnsteig",
+    "raw_word": "der Bahnsteig",
+    "details": {
+      "article": "der",
+      "headword": "Bahnsteig"
+    },
+    "examples": [
+      "Auf welchem Bahnsteig fährt der Zug?"
+    ]
+  },
+  {
+    "id": "bald",
+    "raw_word": "bald",
+    "details": {
+      "headword": "bald"
+    },
+    "examples": [
+      "Ich komme bald."
+    ]
+  },
+  {
+    "id": "der Balkon",
+    "raw_word": "der Balkon",
+    "details": {
+      "article": "der",
+      "headword": "Balkon"
+    },
+    "examples": [
+      "Die Wohnung hat auch einen kleinen Balkon."
+    ]
+  },
+  {
+    "id": "die Banane",
+    "raw_word": "die Banane, -n",
+    "details": {
+      "article": "die",
+      "headword": "Banane",
+      "plural": "-n"
+    },
+    "examples": [
+      "Drei Bananen, bitte!"
+    ]
+  },
+  {
+    "id": "die Bank",
+    "raw_word": "die Bank",
+    "details": {
+      "article": "die",
+      "headword": "Bank"
+    },
+    "examples": [
+      "Die Bank schließt schon um vier Uhr.",
+      "Er sitzt im Park auf einer Bank und liest."
+    ]
+  },
+  {
+    "id": "bar",
+    "raw_word": "bar",
+    "details": {
+      "headword": "bar"
+    },
+    "examples": [
+      "Muss ich bar zahlen oder geht‘s auch mit Karte?"
+    ]
+  },
+  {
+    "id": "der Bauch",
+    "raw_word": "der Bauch",
+    "details": {
+      "article": "der",
+      "headword": "Bauch"
+    },
+    "examples": [
+      "Seit gestern tut mir der Bauch weh."
+    ]
+  },
+  {
+    "id": "der Baum",
+    "raw_word": "der Baum, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Baum",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Vorsicht, fahr nicht an den Baum!"
+    ]
+  },
+  {
+    "id": "der Beamte",
+    "raw_word": "der Beamte, -n",
+    "details": {
+      "article": "der",
+      "headword": "Beamte",
+      "plural": "-n"
+    },
+    "examples": [
+      "Fragen Sie die Beamtin an Schalter acht!"
+    ]
+  },
+  {
+    "id": "bedeuten",
+    "raw_word": "bedeuten",
+    "details": {
+      "headword": "bedeuten"
+    },
+    "examples": [
+      "Was bedeutet das Wort?"
+    ]
+  },
+  {
+    "id": "beginnen",
+    "raw_word": "beginnen",
+    "details": {
+      "headword": "beginnen"
+    },
+    "examples": [
+      "Das Spiel beginnt um 15.30 Uhr."
+    ]
+  },
+  {
+    "id": "bei",
+    "raw_word": "bei",
+    "details": {
+      "headword": "bei"
+    },
+    "examples": [
+      "Offenbach liegt bei Frankfurt.",
+      "Ich wohne bei meinen Eltern.",
+      "Bei uns regnet es heute.",
+      "Er arbeitet bei der Polizei."
+    ]
+  },
+  {
+    "id": "beide",
+    "raw_word": "beide",
+    "details": {
+      "headword": "beide"
+    },
+    "examples": [
+      "Beide Eltern arbeiten.",
+      "Wir kommen beide."
+    ]
+  },
+  {
+    "id": "das Bein",
+    "raw_word": "das Bein, -e",
+    "details": {
+      "article": "das",
+      "headword": "Bein",
+      "plural": "-e"
+    },
+    "examples": [
+      "Mein rechtes Bein tut weh."
+    ]
+  },
+  {
+    "id": "das Beispiel",
+    "raw_word": "das Beispiel, -e",
+    "details": {
+      "article": "das",
+      "headword": "Beispiel",
+      "plural": "-e"
+    },
+    "examples": [
+      "Kannst du mir ein Beispiel sagen?"
+    ]
+  },
+  {
+    "id": "zum Beispiel/z. B.",
+    "raw_word": "zum Beispiel/z. B.",
+    "details": {
+      "headword": "zum Beispiel/z. B."
+    },
+    "examples": [
+      "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
+    ]
+  },
+  {
+    "id": "bekannt",
+    "raw_word": "bekannt",
+    "details": {
+      "headword": "bekannt"
+    },
+    "examples": [
+      "Picasso ist sehr bekannt."
+    ]
+  },
+  {
+    "id": "der/die Bekannte",
+    "raw_word": "der/die Bekannte, -n",
+    "details": {
+      "article": "der",
+      "headword": "Bekannte",
+      "female_form": {
+        "id": "die Bekannte",
+        "raw_word": "die Bekannte, -n",
+        "details": {
+          "article": "die",
+          "headword": "Bekannte",
+          "plural": "-n"
+        }
+      }
+    },
+    "examples": [
+      "Ein Bekannter von mir heißt Klaus."
+    ]
+  },
+  {
+    "id": "bekommen",
+    "raw_word": "bekommen",
+    "details": {
+      "headword": "bekommen"
+    },
+    "examples": [
+      "Haben Sie meinen Brief bekommen?",
+      "Was bekommen Sie?",
+      "Dieses Medikament bekommen Sie in der Apotheke."
+    ]
+  },
+  {
+    "id": "benutzen",
+    "raw_word": "benutzen",
+    "details": {
+      "headword": "benutzen"
+    },
+    "examples": [
+      "Die Aufzüge bitte nicht benutzen!"
+    ]
+  },
+  {
+    "id": "der Beruf",
+    "raw_word": "der Beruf, -e",
+    "details": {
+      "article": "der",
+      "headword": "Beruf",
+      "plural": "-e"
+    },
+    "examples": [
+      "Was sind Sie von Beruf?",
+      "Was ist Ihr Beruf?"
+    ]
+  },
+  {
+    "id": "besetzt",
+    "raw_word": "besetzt",
+    "details": {
+      "headword": "besetzt"
+    },
+    "examples": [
+      "Die Nummer ist immer besetzt.",
+      "Der Platz ist besetzt."
+    ]
+  },
+  {
+    "id": "besichtigen",
+    "raw_word": "besichtigen",
+    "details": {
+      "headword": "besichtigen"
+    },
+    "examples": [
+      "Ich möchte gern den Dom besichtigen."
+    ]
+  },
+  {
+    "id": "besser",
+    "raw_word": "besser",
+    "details": {
+      "headword": "besser"
+    },
+    "examples": [
+      "Es geht mir schon besser."
+    ]
+  },
+  {
+    "id": "best-",
+    "raw_word": "best-",
+    "details": {
+      "headword": "best-"
+    },
+    "examples": [
+      "Am besten treffen wir uns morgen."
+    ]
+  },
+  {
+    "id": "bestellen",
+    "raw_word": "bestellen",
+    "details": {
+      "headword": "bestellen"
+    },
+    "examples": [
+      "Wir möchten bestellen, bitte.",
+      "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?"
+    ]
+  },
+  {
+    "id": "besuchen",
+    "raw_word": "besuchen",
+    "details": {
+      "headword": "besuchen"
+    },
+    "examples": [
+      "Darf ich dich besuchen?"
+    ]
+  },
+  {
+    "id": "das Bett",
+    "raw_word": "das Bett, -en",
+    "details": {
+      "article": "das",
+      "headword": "Bett",
+      "plural": "-en"
+    },
+    "examples": [
+      "Wir brauchen noch ein Kinderbett."
+    ]
+  },
+  {
+    "id": "bezahlen",
+    "raw_word": "bezahlen",
+    "details": {
+      "headword": "bezahlen"
+    },
+    "examples": [
+      "Wo muss ich bezahlen?"
+    ]
+  },
+  {
+    "id": "das Bier",
+    "raw_word": "das Bier",
+    "details": {
+      "article": "das",
+      "headword": "Bier"
+    },
+    "examples": [
+      "Noch ein Bier bitte."
+    ]
+  },
+  {
+    "id": "das Bild",
+    "raw_word": "das Bild, -er",
+    "details": {
+      "article": "das",
+      "headword": "Bild",
+      "plural": "-er"
+    },
+    "examples": [
+      "Hast du ein Bild von deinem Sohn?"
+    ]
+  },
+  {
+    "id": "billig",
+    "raw_word": "billig",
+    "details": {
+      "headword": "billig"
+    },
+    "examples": [
+      "Die Jacke kostet nur 10 Euro! Die ist aber billig!"
+    ]
+  },
+  {
+    "id": "die Birne",
+    "raw_word": "die Birne, -n",
+    "details": {
+      "article": "die",
+      "headword": "Birne",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ein Kilo Birnen, bitte!"
+    ]
+  },
+  {
+    "id": "bis",
+    "raw_word": "bis",
+    "details": {
+      "headword": "bis"
+    },
+    "examples": [
+      "Ich fahre nur bis Stuttgart.",
+      "Ich warte bis morgen."
+    ]
+  },
+  {
+    "id": "bisschen",
+    "raw_word": "bisschen",
+    "details": {
+      "headword": "bisschen"
+    },
+    "examples": [
+      "Ich spreche Englisch, Französisch und ein bisschen Deutsch."
+    ]
+  },
+  {
+    "id": "bitte",
+    "raw_word": "bitte",
+    "details": {
+      "headword": "bitte"
+    },
+    "examples": [
+      "Eine Tasse Kaffee, bitte!",
+      "Sprechen Sie bitte leise!"
+    ]
+  },
+  {
+    "id": "die Bitte",
+    "raw_word": "die Bitte, -n",
+    "details": {
+      "article": "die",
+      "headword": "Bitte",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe noch eine Bitte."
+    ]
+  },
+  {
+    "id": "bitten",
+    "raw_word": "bitten",
+    "details": {
+      "headword": "bitten"
+    },
+    "examples": [
+      "Darf ich Sie um etwas bitten?"
+    ]
+  },
+  {
+    "id": "bitter",
+    "raw_word": "bitter",
+    "details": {
+      "headword": "bitter"
+    },
+    "examples": [
+      "Der Kaffee schmeckt bitter."
+    ]
+  },
+  {
+    "id": "bleiben",
+    "raw_word": "bleiben",
+    "details": {
+      "headword": "bleiben"
+    },
+    "examples": [
+      "Ich bleibe heute zu Hause.",
+      "Wir bleiben nur bis morgen."
+    ]
+  },
+  {
+    "id": "der Bleistift",
+    "raw_word": "der Bleistift, -e",
+    "details": {
+      "article": "der",
+      "headword": "Bleistift",
+      "plural": "-e"
+    },
+    "examples": [
+      "Hast du einen Bleistift?"
+    ]
+  },
+  {
+    "id": "der Blick",
+    "raw_word": "der Blick",
+    "details": {
+      "article": "der",
+      "headword": "Blick"
+    },
+    "examples": [
+      "Von diesem Hotel hat man einen guten Blick auf den Rhein."
+    ]
+  },
+  {
+    "id": "die Blume",
+    "raw_word": "die Blume, -n",
+    "details": {
+      "article": "die",
+      "headword": "Blume",
+      "plural": "-n"
+    },
+    "examples": [
+      "Gefallen dir die Blumen?"
+    ]
+  },
+  {
+    "id": "der Bogen",
+    "raw_word": "der Bogen",
+    "details": {
+      "article": "der",
+      "headword": "Bogen"
+    },
+    "examples": [
+      "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen."
+    ]
+  },
+  {
+    "id": "böse",
+    "raw_word": "böse",
+    "details": {
+      "headword": "böse"
+    },
+    "examples": [
+      "Sie ist böse auf mich."
+    ]
+  },
+  {
+    "id": "brauchen",
+    "raw_word": "brauchen",
+    "details": {
+      "headword": "brauchen"
+    },
+    "examples": [
+      "Brauchst du die Zeitung noch?"
+    ]
+  },
+  {
+    "id": "breit",
+    "raw_word": "breit",
+    "details": {
+      "headword": "breit"
+    },
+    "examples": [
+      "Wie breit ist der Schrank?"
+    ]
+  },
+  {
+    "id": "der Brief",
+    "raw_word": "der Brief, -e",
+    "details": {
+      "article": "der",
+      "headword": "Brief",
+      "plural": "-e"
+    },
+    "examples": [
+      "Haben Sie einen Brief für mich?"
+    ]
+  },
+  {
+    "id": "die Briefmarke",
+    "raw_word": "die Briefmarke, -n",
+    "details": {
+      "article": "die",
+      "headword": "Briefmarke",
+      "plural": "-n"
+    },
+    "examples": [
+      "Kaufst du bitte Briefmarken bei der Post."
+    ]
+  },
+  {
+    "id": "bringen",
+    "raw_word": "bringen",
+    "details": {
+      "headword": "bringen"
+    },
+    "examples": [
+      "Bringen Sie mir bitte noch einen Kaffee!",
+      "Wir müssen ihn zum Arzt bringen."
+    ]
+  },
+  {
+    "id": "das Brot",
+    "raw_word": "das Brot, -e",
+    "details": {
+      "article": "das",
+      "headword": "Brot",
+      "plural": "-e"
+    },
+    "examples": [
+      "Haben Sie auch Weißbrot?",
+      "Nimm noch ein paar Brote für die Fahrt mit."
+    ]
+  },
+  {
+    "id": "das Brötchen",
+    "raw_word": "das Brötchen, –",
+    "details": {
+      "article": "das",
+      "headword": "Brötchen",
+      "plural": "–"
+    },
+    "examples": [
+      "Möchtest du Brötchen zum Frühstück?"
+    ]
+  },
+  {
+    "id": "der Bruder",
+    "raw_word": "der Bruder, -ü",
+    "details": {
+      "article": "der",
+      "headword": "Bruder",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Sein Bruder arbeitet auch hier."
+    ]
+  },
+  {
+    "id": "das Buch",
+    "raw_word": "das Buch, -ü, er",
+    "details": {
+      "article": "das",
+      "headword": "Buch",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
+    ]
+  },
+  {
+    "id": "der Buchstabe",
+    "raw_word": "der Buchstabe, -n",
+    "details": {
+      "article": "der",
+      "headword": "Buchstabe",
+      "plural": "-n"
+    },
+    "examples": [
+      "Diesen Buchstaben gibt es in meiner Sprache nicht."
+    ]
+  },
+  {
+    "id": "buchstabieren",
+    "raw_word": "buchstabieren",
+    "details": {
+      "headword": "buchstabieren"
+    },
+    "examples": [
+      "Bitte buchstabieren Sie Ihren Namen."
+    ]
+  },
+  {
+    "id": "der Bus",
+    "raw_word": "der Bus, -se",
+    "details": {
+      "article": "der",
+      "headword": "Bus",
+      "plural": "-se"
+    },
+    "examples": [
+      "Wann kommt der nächste Bus?"
+    ]
+  },
+  {
+    "id": "die Butter",
+    "raw_word": "die Butter",
+    "details": {
+      "article": "die",
+      "headword": "Butter"
+    },
+    "examples": [
+      "Für mich bitte ein Brötchen mit Butter und Käse."
+    ]
+  },
+  {
+    "id": "das Café",
+    "raw_word": "das Café, -s",
+    "details": {
+      "article": "das",
+      "headword": "Café",
+      "plural": "-s"
+    },
+    "examples": [
+      "Sollen wir uns im Café treffen?"
+    ]
+  },
+  {
+    "id": "die CD",
+    "raw_word": "die CD, -s",
+    "details": {
+      "article": "die",
+      "headword": "CD",
+      "plural": "-s"
+    },
+    "examples": [
+      "Bring bitte deine Lieblings-CD mit."
+    ]
+  },
+  {
+    "id": "der Chef",
+    "raw_word": "der Chef",
+    "details": {
+      "article": "der",
+      "headword": "Chef"
+    },
+    "examples": [
+      "Wir haben eine neue Chefin."
+    ]
+  },
+  {
+    "id": "circa/ca.",
+    "raw_word": "circa/ca.",
+    "details": {
+      "headword": "circa.",
+      "variants": [
+        "ca"
+      ]
+    },
+    "examples": [
+      "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer."
+    ]
+  },
+  {
+    "id": "der Computer",
+    "raw_word": "der Computer, –",
+    "details": {
+      "article": "der",
+      "headword": "Computer",
+      "plural": "–"
+    },
+    "examples": [
+      "Wann bekommst du deinen neuen Computer?"
+    ]
+  },
+  {
+    "id": "da",
+    "raw_word": "da",
+    "details": {
+      "headword": "da"
+    },
+    "examples": [
+      "Da hinten ist er ja.",
+      "Wir sprechen gerade über Paul. Da kommt er ja gerade.",
+      "Ich nehme das da.",
+      "Ist Herr Klein schon da?"
+    ]
+  },
+  {
+    "id": "die Dame",
+    "raw_word": "die Dame, -n",
+    "details": {
+      "article": "die",
+      "headword": "Dame",
+      "plural": "-n"
+    },
+    "examples": [
+      "Damen (an der Toilette) Sehr geehrte Damen und Herren!"
+    ]
+  },
+  {
+    "id": "daneben",
+    "raw_word": "daneben",
+    "details": {
+      "headword": "daneben"
+    },
+    "examples": [
+      "Du kennst doch die Post. Daneben ist die Bank."
+    ]
+  },
+  {
+    "id": "danken",
+    "raw_word": "danken",
+    "details": {
+      "headword": "danken"
+    },
+    "examples": [
+      "Ich danke Ihnen für die Einladung."
+    ]
+  },
+  {
+    "id": "der Dank",
+    "raw_word": "der Dank",
+    "details": {
+      "article": "der",
+      "headword": "Dank"
+    },
+    "examples": [
+      "Vielen Dank!",
+      "Herzlichen Dank!"
+    ]
+  },
+  {
+    "id": "danke",
+    "raw_word": "danke",
+    "details": {
+      "headword": "danke"
+    },
+    "examples": [
+      "Soll ich Ihnen helfen? - Nein, danke!"
+    ]
+  },
+  {
+    "id": "dann",
+    "raw_word": "dann",
+    "details": {
+      "headword": "dann"
+    },
+    "examples": [
+      "Ich muss noch schnell zur Post, dann komme ich."
+    ]
+  },
+  {
+    "id": "das Datum",
+    "raw_word": "das Datum",
+    "details": {
+      "article": "das",
+      "headword": "Datum"
+    },
+    "examples": [
+      "Bitte schreiben Sie noch das Datum auf das Formular."
+    ]
+  },
+  {
+    "id": "dauern",
+    "raw_word": "dauern",
+    "details": {
+      "headword": "dauern"
+    },
+    "examples": [
+      "Wie lange dauert der Film?"
+    ]
+  },
+  {
+    "id": "dein-",
+    "raw_word": "dein-",
+    "details": {
+      "headword": "dein-"
+    },
+    "examples": [
+      "Ist das dein Auto?",
+      "Ist das deins?"
+    ]
+  },
+  {
+    "id": "denn",
+    "raw_word": "denn",
+    "details": {
+      "headword": "denn"
+    },
+    "examples": [
+      "Ich kann nicht kommen, denn ich bin krank."
+    ]
+  },
+  {
+    "id": "der",
+    "raw_word": "der, die, das",
+    "details": {
+      "article": "der",
+      "headword": "die",
+      "plural": "das"
+    },
+    "examples": [
+      "Ich nehme das da.",
+      "Hier ist der Brief, den du suchst.",
+      "Die Fahrkarte bekommst du am Bahnhof."
+    ]
+  },
+  {
+    "id": "dich",
+    "raw_word": "dich",
+    "details": {
+      "headword": "dich"
+    },
+    "examples": [
+      "Die Blumen sind für dich."
+    ]
+  },
+  {
+    "id": "dies-",
+    "raw_word": "dies-",
+    "details": {
+      "headword": "dies-"
+    },
+    "examples": [
+      "Ich nehme lieber diesen Kuchen."
+    ]
+  },
+  {
+    "id": "dir",
+    "raw_word": "dir",
+    "details": {
+      "headword": "dir"
+    },
+    "examples": [
+      "Gefallen dir die Blumen?"
+    ]
+  },
+  {
+    "id": "die Disco",
+    "raw_word": "die Disco",
+    "details": {
+      "article": "die",
+      "headword": "Disco"
+    },
+    "examples": [
+      "Heute abend gehen wir in die Disco tanzen."
+    ]
+  },
+  {
+    "id": "der Doktor",
+    "raw_word": "der Doktor",
+    "details": {
+      "article": "der",
+      "headword": "Doktor"
+    },
+    "examples": [
+      "Meine Tochter ist krank. Wir gehen zum Doktor."
+    ]
+  },
+  {
+    "id": "das Doppelzimmer",
+    "raw_word": "das Doppelzimmer",
+    "details": {
+      "article": "das",
+      "headword": "Doppelzimmer"
+    },
+    "examples": [
+      "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
+    ]
+  },
+  {
+    "id": "das Dorf",
+    "raw_word": "das Dorf, -ö, er",
+    "details": {
+      "article": "das",
+      "headword": "Dorf",
+      "plural": "-ö"
+    },
+    "examples": [
+      "Meine Familie lebt in einem Dorf."
+    ]
+  },
+  {
+    "id": "dort",
+    "raw_word": "dort, -her, -hin",
+    "details": {
+      "headword": "dort",
+      "conjugation": [
+        "-her",
+        "-hin"
+      ]
+    },
+    "examples": [
+      "Deine Tasche kannst du dorthin stellen.",
+      "Dort ist unser Haus."
+    ]
+  },
+  {
+    "id": "draußen",
+    "raw_word": "draußen",
+    "details": {
+      "headword": "draußen"
+    },
+    "examples": [
+      "Wollen wir draußen sitzen?"
+    ]
+  },
+  {
+    "id": "drucken",
+    "raw_word": "drucken",
+    "details": {
+      "headword": "drucken"
+    },
+    "examples": [
+      "Bitte drucke das Formular für mich."
+    ]
+  },
+  {
+    "id": "der Drucker",
+    "raw_word": "der Drucker, –",
+    "details": {
+      "article": "der",
+      "headword": "Drucker",
+      "plural": "–"
+    },
+    "examples": [
+      "Mein Drucker ist kaputt."
+    ]
+  },
+  {
+    "id": "drücken",
+    "raw_word": "drücken",
+    "details": {
+      "headword": "drücken"
+    },
+    "examples": [
+      "Drück hier, dann geht der Computer an."
+    ]
+  },
+  {
+    "id": "durch",
+    "raw_word": "durch",
+    "details": {
+      "headword": "durch"
+    },
+    "examples": [
+      "Am besten gehen Sie durch die Breite Straße."
+    ]
+  },
+  {
+    "id": "die Durchsage",
+    "raw_word": "die Durchsage, -n",
+    "details": {
+      "article": "die",
+      "headword": "Durchsage",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe die Durchsage nicht verstanden."
+    ]
+  },
+  {
+    "id": "dürfen",
+    "raw_word": "dürfen",
+    "details": {
+      "headword": "dürfen"
+    },
+    "examples": [
+      "Sie dürfen hier nicht rauchen.",
+      "Darf ich Sie zu einem Kaffee einladen?",
+      "Es darf nicht mehr als 15 Euro kosten."
+    ]
+  },
+  {
+    "id": "der Durst",
+    "raw_word": "der Durst",
+    "details": {
+      "article": "der",
+      "headword": "Durst"
+    },
+    "examples": [
+      "Hast du etwas zu trinken? Ich habe großen Durst."
+    ]
+  },
+  {
+    "id": "(sich) duschen",
+    "raw_word": "(sich) duschen",
+    "details": {
+      "headword": "(sich) duschen"
+    },
+    "examples": [
+      "Ich bade nicht so gern, ich dusche lieber."
+    ]
+  },
+  {
+    "id": "die Dusche",
+    "raw_word": "die Dusche",
+    "details": {
+      "article": "die",
+      "headword": "Dusche"
+    },
+    "examples": [
+      "Unsere Wohnung hat nur eine Dusche."
+    ]
+  },
+  {
+    "id": "die Ecke",
+    "raw_word": "die Ecke, -n",
+    "details": {
+      "article": "die",
+      "headword": "Ecke",
+      "plural": "-n"
+    },
+    "examples": [
+      "An der nächsten Ecke links."
+    ]
+  },
+  {
+    "id": "die Ehefrau",
+    "raw_word": "die Ehefrau, -en",
+    "details": {
+      "article": "die",
+      "headword": "Ehefrau",
+      "plural": "-en"
+    }
+  },
+  {
+    "id": "der Ehemann",
+    "raw_word": "der Ehemann, ä, er",
+    "details": {
+      "article": "der",
+      "headword": "Ehemann",
+      "plural": "ä"
+    },
+    "examples": [
+      "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau."
+    ]
+  },
+  {
+    "id": "das Ei",
+    "raw_word": "das Ei, -er",
+    "details": {
+      "article": "das",
+      "headword": "Ei",
+      "plural": "-er"
+    },
+    "examples": [
+      "Möchtest du ein Ei zum Frühstück?"
+    ]
+  },
+  {
+    "id": "eilig",
+    "raw_word": "eilig",
+    "details": {
+      "headword": "eilig"
+    },
+    "examples": [
+      "Hast du es eilig?"
+    ]
+  },
+  {
+    "id": "ein-",
+    "raw_word": "ein-",
+    "details": {
+      "headword": "ein-"
+    },
+    "examples": [
+      "Ich nehme ein Bier. Willst du auch eins?",
+      "Ist hier einer, der das kann?"
+    ]
+  },
+  {
+    "id": "einfach",
+    "raw_word": "einfach",
+    "details": {
+      "headword": "einfach"
+    },
+    "examples": [
+      "Die Prüfung ist ganz einfach.",
+      "Hin und zurück? – Nein, bitte nur einfach.",
+      "Ich brauche nur ein einfaches Zimmer."
+    ]
+  },
+  {
+    "id": "der Eingang",
+    "raw_word": "der Eingang",
+    "details": {
+      "article": "der",
+      "headword": "Eingang"
+    },
+    "examples": [
+      "Der Eingang ist um die Ecke."
+    ]
+  },
+  {
+    "id": "einkaufen",
+    "raw_word": "einkaufen",
+    "details": {
+      "headword": "einkaufen"
+    },
+    "examples": [
+      "Ich muss noch für morgen einkaufen."
+    ]
+  },
+  {
+    "id": "einladen",
+    "raw_word": "einladen",
+    "details": {
+      "headword": "einladen"
+    },
+    "examples": [
+      "Darf ich Sie zu einem Kaffee einladen?"
+    ]
+  },
+  {
+    "id": "die Einladung",
+    "raw_word": "die Einladung",
+    "details": {
+      "article": "die",
+      "headword": "Einladung"
+    },
+    "examples": [
+      "Danke für die Einladung!"
+    ]
+  },
+  {
+    "id": "einmal",
+    "raw_word": "einmal",
+    "details": {
+      "headword": "einmal"
+    },
+    "examples": [
+      "Diese Prüfung mache ich nicht noch einmal."
+    ]
+  },
+  {
+    "id": "einsteigen",
+    "raw_word": "einsteigen",
+    "details": {
+      "headword": "einsteigen"
+    },
+    "examples": [
+      "Schnell, steig ein, der Zug fährt gleich."
+    ]
+  },
+  {
+    "id": "der Eintritt",
+    "raw_word": "der Eintritt",
+    "details": {
+      "article": "der",
+      "headword": "Eintritt"
+    },
+    "examples": [
+      "Der Preis für den Eintritt ist 5 Euro."
+    ]
+  },
+  {
+    "id": "das Einzelzimmer",
+    "raw_word": "das Einzelzimmer",
+    "details": {
+      "article": "das",
+      "headword": "Einzelzimmer"
+    },
+    "examples": [
+      "Haben Sie noch ein Einzelzimmer?"
+    ]
+  },
+  {
+    "id": "die Eltern",
+    "raw_word": "die Eltern (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Eltern",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Meine Eltern leben in Spanien."
+    ]
+  },
+  {
+    "id": "die E-Mail",
+    "raw_word": "die E-Mail, -s",
+    "details": {
+      "article": "die",
+      "headword": "E-Mail",
+      "plural": "-s"
+    },
+    "examples": [
+      "Ich habe Ihre E-Mail nicht bekommen."
+    ]
+  },
+  {
+    "id": "der Empfänger",
+    "raw_word": "der Empfänger, –",
+    "details": {
+      "article": "der",
+      "headword": "Empfänger",
+      "plural": "–"
+    },
+    "examples": [
+      "Auf dem Brief steht dein Name, also bist du der Empfänger."
+    ]
+  },
+  {
+    "id": "empfehlen",
+    "raw_word": "empfehlen",
+    "details": {
+      "headword": "empfehlen"
+    },
+    "examples": [
+      "Welchen Wein können Sie mir empfehlen?"
+    ]
+  },
+  {
+    "id": "enden",
+    "raw_word": "enden",
+    "details": {
+      "headword": "enden"
+    },
+    "examples": [
+      "Die Straße endet hier."
+    ]
+  },
+  {
+    "id": "das Ende",
+    "raw_word": "das Ende",
+    "details": {
+      "article": "das",
+      "headword": "Ende"
+    },
+    "examples": [
+      "Sie wohnt am Ende der Straße.",
+      "Er bekommt sein Geld am Ende des Monats."
+    ]
+  },
+  {
+    "id": "entschuldigen",
+    "raw_word": "entschuldigen",
+    "details": {
+      "headword": "entschuldigen"
+    },
+    "examples": [
+      "Entschuldigen Sie bitte!"
+    ]
+  },
+  {
+    "id": "die Entschuldigung",
+    "raw_word": "die Entschuldigung",
+    "details": {
+      "article": "die",
+      "headword": "Entschuldigung"
+    },
+    "examples": [
+      "Entschuldigung! – Bitte."
+    ]
+  },
+  {
+    "id": "er",
+    "raw_word": "er",
+    "details": {
+      "headword": "er"
+    },
+    "examples": [
+      "Er heißt Ali."
+    ]
+  },
+  {
+    "id": "das Ergebnis",
+    "raw_word": "das Ergebnis, -se",
+    "details": {
+      "article": "das",
+      "headword": "Ergebnis",
+      "plural": "-se"
+    },
+    "examples": [
+      "Das Ergebnis des Tests bekommen Sie in zwei Wochen."
+    ]
+  },
+  {
+    "id": "erklären",
+    "raw_word": "erklären",
+    "details": {
+      "headword": "erklären"
+    },
+    "examples": [
+      "Kannst du mir das erklären?"
+    ]
+  },
+  {
+    "id": "erlauben",
+    "raw_word": "erlauben",
+    "details": {
+      "headword": "erlauben"
+    },
+    "examples": [
+      "Rauchen ist hier nicht erlaubt."
+    ]
+  },
+  {
+    "id": "der Erwachsene",
+    "raw_word": "der Erwachsene, -n",
+    "details": {
+      "article": "der",
+      "headword": "Erwachsene",
+      "plural": "-n"
+    },
+    "examples": [
+      "Dieser Film ist nur für Erwachsene."
+    ]
+  },
+  {
+    "id": "erzählen",
+    "raw_word": "erzählen",
+    "details": {
+      "headword": "erzählen"
+    },
+    "examples": [
+      "Wir müssen euch etwas erzählen!"
+    ]
+  },
+  {
+    "id": "es",
+    "raw_word": "es",
+    "details": {
+      "headword": "es"
+    },
+    "examples": [
+      "Es regnet."
+    ]
+  },
+  {
+    "id": "essen",
+    "raw_word": "essen",
+    "details": {
+      "headword": "essen"
+    },
+    "examples": [
+      "Was gibt es zu essen?"
+    ]
+  },
+  {
+    "id": "das Essen",
+    "raw_word": "das Essen",
+    "details": {
+      "article": "das",
+      "headword": "Essen"
+    },
+    "examples": [
+      "Das Essen ist heute sehr gut."
+    ]
+  },
+  {
+    "id": "euer",
+    "raw_word": "euer",
+    "details": {
+      "headword": "euer"
+    },
+    "examples": [
+      "Euer Kurs beginnt heute."
+    ]
+  },
+  {
+    "id": "fahren",
+    "raw_word": "fahren",
+    "details": {
+      "headword": "fahren"
+    },
+    "examples": [
+      "Ich fahre mit dem Auto zur Arbeit."
+    ]
+  },
+  {
+    "id": "der Fahrer",
+    "raw_word": "der Fahrer",
+    "details": {
+      "article": "der",
+      "headword": "Fahrer"
+    },
+    "examples": [
+      "Bitte nicht mit dem Fahrer sprechen!"
+    ]
+  },
+  {
+    "id": "die Fahrkarte",
+    "raw_word": "die Fahrkarte, -n",
+    "details": {
+      "article": "die",
+      "headword": "Fahrkarte",
+      "plural": "-n"
+    },
+    "examples": [
+      "Hast du schon eine Fahrkarte?"
+    ]
+  },
+  {
+    "id": "das Fahrrad",
+    "raw_word": "das Fahrrad, -ä, er",
+    "details": {
+      "article": "das",
+      "headword": "Fahrrad",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Fährst du mit dem Fahrrad oder mit dem Auto?"
+    ]
+  },
+  {
+    "id": "falsch",
+    "raw_word": "falsch",
+    "details": {
+      "headword": "falsch"
+    },
+    "examples": [
+      "Das ist falsch."
+    ]
+  },
+  {
+    "id": "die Familie",
+    "raw_word": "die Familie, -n",
+    "details": {
+      "article": "die",
+      "headword": "Familie",
+      "plural": "-n"
+    },
+    "examples": [
+      "Meine Familie lebt in Spanien."
+    ]
+  },
+  {
+    "id": "der Familienname",
+    "raw_word": "der Familienname",
+    "details": {
+      "article": "der",
+      "headword": "Familienname"
+    },
+    "examples": [
+      "Meine Familiennamen sind García González."
+    ]
+  },
+  {
+    "id": "der Familienstand",
+    "raw_word": "der Familienstand",
+    "details": {
+      "article": "der",
+      "headword": "Familienstand"
+    },
+    "examples": [
+      "Bei „Familienstand“ musst du „ledig“ ankreuzen."
+    ]
+  },
+  {
+    "id": "die Farbe",
+    "raw_word": "die Farbe, -n",
+    "details": {
+      "article": "die",
+      "headword": "Farbe",
+      "plural": "-n"
+    },
+    "examples": [
+      "Die Farbe gefällt mir gut."
+    ]
+  },
+  {
+    "id": "das Fax",
+    "raw_word": "das Fax, -e",
+    "details": {
+      "article": "das",
+      "headword": "Fax",
+      "plural": "-e"
+    },
+    "examples": [
+      "Schicken Sie uns einfach ein Fax!"
+    ]
+  },
+  {
+    "id": "Feier-",
+    "raw_word": "Feier-",
+    "details": {
+      "headword": "Feier-"
+    },
+    "examples": [
+      "z. B. Feierabend, Feiertag Am Montag ist Feiertag."
+    ]
+  },
+  {
+    "id": "feiern",
+    "raw_word": "feiern",
+    "details": {
+      "headword": "feiern"
+    },
+    "examples": [
+      "Wir feiern heute meinen Geburtstag."
+    ]
+  },
+  {
+    "id": "fehlen",
+    "raw_word": "fehlen",
+    "details": {
+      "headword": "fehlen"
+    },
+    "examples": [
+      "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+      "Was fehlt Ihnen?"
+    ]
+  },
+  {
+    "id": "der Fehler",
+    "raw_word": "der Fehler, –",
+    "details": {
+      "article": "der",
+      "headword": "Fehler",
+      "plural": "–"
+    },
+    "examples": [
+      "Diesen Fehler mache ich immer."
+    ]
+  },
+  {
+    "id": "fernsehen",
+    "raw_word": "fernsehen",
+    "details": {
+      "headword": "fernsehen"
+    },
+    "examples": [
+      "Wollen wir heute Abend mal fernsehen?"
+    ]
+  },
+  {
+    "id": "fertig",
+    "raw_word": "fertig",
+    "details": {
+      "headword": "fertig"
+    },
+    "examples": [
+      "Bist du fertig?",
+      "Ist mein Auto schon fertig?"
+    ]
+  },
+  {
+    "id": "das Feuer",
+    "raw_word": "das Feuer",
+    "details": {
+      "article": "das",
+      "headword": "Feuer"
+    },
+    "examples": [
+      "Haben Sie Feuer?"
+    ]
+  },
+  {
+    "id": "das Fieber",
+    "raw_word": "das Fieber",
+    "details": {
+      "article": "das",
+      "headword": "Fieber"
+    },
+    "examples": [
+      "Mein Mann hat noch immer Fieber."
+    ]
+  },
+  {
+    "id": "der Film",
+    "raw_word": "der Film, -e",
+    "details": {
+      "article": "der",
+      "headword": "Film",
+      "plural": "-e"
+    },
+    "examples": [
+      "Ich möchte gern diesen Film sehen."
+    ]
+  },
+  {
+    "id": "finden",
+    "raw_word": "finden",
+    "details": {
+      "headword": "finden"
+    },
+    "examples": [
+      "Wir müssen den Schlüssel finden."
+    ]
+  },
+  {
+    "id": "die Firma",
+    "raw_word": "die Firma",
+    "details": {
+      "article": "die",
+      "headword": "Firma"
+    },
+    "examples": [
+      "Er arbeitet jetzt bei einer anderen Firma."
+    ]
+  },
+  {
+    "id": "der Fisch",
+    "raw_word": "der Fisch, -e",
+    "details": {
+      "article": "der",
+      "headword": "Fisch",
+      "plural": "-e"
+    },
+    "examples": [
+      "Ich esse gern Fisch. Fleisch mag ich nicht."
+    ]
+  },
+  {
+    "id": "die Flasche",
+    "raw_word": "die Flasche, -n",
+    "details": {
+      "article": "die",
+      "headword": "Flasche",
+      "plural": "-n"
+    },
+    "examples": [
+      "Eine Flasche Bier, bitte."
+    ]
+  },
+  {
+    "id": "das Fleisch",
+    "raw_word": "das Fleisch",
+    "details": {
+      "article": "das",
+      "headword": "Fleisch"
+    },
+    "examples": [
+      "Fleisch mag ich nicht."
+    ]
+  },
+  {
+    "id": "fliegen",
+    "raw_word": "fliegen",
+    "details": {
+      "headword": "fliegen"
+    },
+    "examples": [
+      "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug."
+    ]
+  },
+  {
+    "id": "abfliegen",
+    "raw_word": "abfliegen",
+    "details": {
+      "headword": "abfliegen"
+    },
+    "examples": [
+      "Wann fliegst du ab?"
+    ]
+  },
+  {
+    "id": "der Abflug",
+    "raw_word": "der Abflug",
+    "details": {
+      "article": "der",
+      "headword": "Abflug"
+    },
+    "examples": [
+      "Der Abflug ist um 11.20 Uhr."
+    ]
+  },
+  {
+    "id": "der Flughafen",
+    "raw_word": "der Flughafen",
+    "details": {
+      "article": "der",
+      "headword": "Flughafen"
+    },
+    "examples": [
+      "Kannst du mich zum Flughafen bringen?"
+    ]
+  },
+  {
+    "id": "das Flugzeug",
+    "raw_word": "das Flugzeug",
+    "details": {
+      "article": "das",
+      "headword": "Flugzeug"
+    },
+    "examples": [
+      "Das Flugzeug aus Berlin kommt heute später an."
+    ]
+  },
+  {
+    "id": "das Formular",
+    "raw_word": "das Formular, -e",
+    "details": {
+      "article": "das",
+      "headword": "Formular",
+      "plural": "-e"
+    },
+    "examples": [
+      "Sie müssen dieses Formular ausfüllen."
+    ]
+  },
+  {
+    "id": "das Foto",
+    "raw_word": "das Foto, -s",
+    "details": {
+      "article": "das",
+      "headword": "Foto",
+      "plural": "-s"
+    },
+    "examples": [
+      "Darf ich ein Foto machen?"
+    ]
+  },
+  {
+    "id": "fragen",
+    "raw_word": "fragen",
+    "details": {
+      "headword": "fragen"
+    },
+    "examples": [
+      "Er möchte Sie etwas fragen. Wann kommen Sie?"
+    ]
+  },
+  {
+    "id": "die Frage",
+    "raw_word": "die Frage, -n",
+    "details": {
+      "article": "die",
+      "headword": "Frage",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe eine Frage."
+    ]
+  },
+  {
+    "id": "die Frau",
+    "raw_word": "die Frau, -en",
+    "details": {
+      "article": "die",
+      "headword": "Frau",
+      "plural": "-en"
+    },
+    "examples": [
+      "Das ist Frau Becker.",
+      "Guten Tag, Frau Schmitt!",
+      "Hier arbeiten mehr Frauen als Männer."
+    ]
+  },
+  {
+    "id": "frei",
+    "raw_word": "frei",
+    "details": {
+      "headword": "frei"
+    },
+    "examples": [
+      "Ist der Platz noch frei?"
+    ]
+  },
+  {
+    "id": "die Freizeit",
+    "raw_word": "die Freizeit",
+    "details": {
+      "article": "die",
+      "headword": "Freizeit"
+    },
+    "examples": [
+      "In meiner Freizeit spiele ich oft Fußball."
+    ]
+  },
+  {
+    "id": "fremd",
+    "raw_word": "fremd",
+    "details": {
+      "headword": "fremd"
+    },
+    "examples": [
+      "Das weiß ich nicht; ich bin fremd hier."
+    ]
+  },
+  {
+    "id": "(sich) freuen",
+    "raw_word": "(sich) freuen",
+    "details": {
+      "headword": "(sich) freuen"
+    },
+    "examples": [
+      "Ich freue mich auf den Urlaub."
+    ]
+  },
+  {
+    "id": "der Freund",
+    "raw_word": "der Freund, -e",
+    "details": {
+      "article": "der",
+      "headword": "Freund",
+      "plural": "-e"
+    },
+    "examples": [
+      "Das ist ein Freund von mir.",
+      "Das ist meine Freundin."
+    ]
+  },
+  {
+    "id": "früher",
+    "raw_word": "früher",
+    "details": {
+      "headword": "früher"
+    },
+    "examples": [
+      "Früher waren wir oft zusammen im Kino."
+    ]
+  },
+  {
+    "id": "frühstücken",
+    "raw_word": "frühstücken",
+    "details": {
+      "headword": "frühstücken"
+    },
+    "examples": [
+      "Am Sonntag frühstücke ich gern im Bett."
+    ]
+  },
+  {
+    "id": "das Frühstück",
+    "raw_word": "das Frühstück",
+    "details": {
+      "article": "das",
+      "headword": "Frühstück"
+    },
+    "examples": [
+      "Möchtest du ein Ei zum Frühstück?"
+    ]
+  },
+  {
+    "id": "die Führung",
+    "raw_word": "die Führung",
+    "details": {
+      "article": "die",
+      "headword": "Führung"
+    },
+    "examples": [
+      "Die Führung durch das Haus beginnt in 3 Minuten."
+    ]
+  },
+  {
+    "id": "für",
+    "raw_word": "für",
+    "details": {
+      "headword": "für"
+    },
+    "examples": [
+      "Das ist für Sie.",
+      "Das ist der Schlüssel für die Haustür.",
+      "Das ist das Brot für morgen."
+    ]
+  },
+  {
+    "id": "der Fuß",
+    "raw_word": "der Fuß, -ü, e",
+    "details": {
+      "article": "der",
+      "headword": "Fuß",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Der linke Fuß tut mir weh."
+    ]
+  },
+  {
+    "id": "der Fußball",
+    "raw_word": "der Fußball",
+    "details": {
+      "article": "der",
+      "headword": "Fußball"
+    },
+    "examples": [
+      "Spielt ihr gerne Fußball?"
+    ]
+  },
+  {
+    "id": "der Garten",
+    "raw_word": "der Garten",
+    "details": {
+      "article": "der",
+      "headword": "Garten"
+    },
+    "examples": [
+      "Wir haben leider keinen Garten."
+    ]
+  },
+  {
+    "id": "der Gast",
+    "raw_word": "der Gast, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Gast",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Am Wochenende haben wir mehrere Gäste."
+    ]
+  },
+  {
+    "id": "geben",
+    "raw_word": "geben",
+    "details": {
+      "headword": "geben"
+    },
+    "examples": [
+      "Kannst du mir bitte deinen Kugelschreiber geben?",
+      "Es gibt keine Karten mehr."
+    ]
+  },
+  {
+    "id": "geboren",
+    "raw_word": "geboren",
+    "details": {
+      "headword": "geboren"
+    },
+    "examples": [
+      "Ich bin in Zagreb geboren."
+    ]
+  },
+  {
+    "id": "das Geburtsjahr",
+    "raw_word": "das Geburtsjahr",
+    "details": {
+      "article": "das",
+      "headword": "Geburtsjahr"
+    },
+    "examples": [
+      "Das Geburtsjahr Ihres Sohnes, bitte?"
+    ]
+  },
+  {
+    "id": "der Geburtsort",
+    "raw_word": "der Geburtsort",
+    "details": {
+      "article": "der",
+      "headword": "Geburtsort"
+    },
+    "examples": [
+      "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
+    ]
+  },
+  {
+    "id": "der Geburtstag",
+    "raw_word": "der Geburtstag",
+    "details": {
+      "article": "der",
+      "headword": "Geburtstag"
+    },
+    "examples": [
+      "Herzlichen Glückwunsch zum Geburtstag!"
+    ]
+  },
+  {
+    "id": "gefallen",
+    "raw_word": "gefallen",
+    "details": {
+      "headword": "gefallen"
+    },
+    "examples": [
+      "Das gefällt mir."
+    ]
+  },
+  {
+    "id": "gegen",
+    "raw_word": "gegen",
+    "details": {
+      "headword": "gegen"
+    },
+    "examples": [
+      "Fahr nicht gegen den Baum!",
+      "Ich bin gegen diese Lösung.",
+      "Wer spielt gegen wen?"
+    ]
+  },
+  {
+    "id": "gehen",
+    "raw_word": "gehen",
+    "details": {
+      "headword": "gehen"
+    },
+    "examples": [
+      "Ich weiß nicht, wie das geht.",
+      "Wie geht‘s?",
+      "Jetzt muss ich (aber) leider gehen.",
+      "Ich muss zum Arzt gehen.",
+      "Das geht nicht!"
+    ]
+  },
+  {
+    "id": "gehören",
+    "raw_word": "gehören",
+    "details": {
+      "headword": "gehören"
+    },
+    "examples": [
+      "Wem gehört das?"
+    ]
+  },
+  {
+    "id": "das Geld",
+    "raw_word": "das Geld",
+    "details": {
+      "article": "das",
+      "headword": "Geld"
+    },
+    "examples": [
+      "Hast du noch Geld?"
+    ]
+  },
+  {
+    "id": "das Gemüse",
+    "raw_word": "das Gemüse",
+    "details": {
+      "article": "das",
+      "headword": "Gemüse"
+    },
+    "examples": [
+      "Gemüse brauchen wir auch noch."
+    ]
+  },
+  {
+    "id": "das Gepäck",
+    "raw_word": "das Gepäck",
+    "details": {
+      "article": "das",
+      "headword": "Gepäck"
+    },
+    "examples": [
+      "Wollen Sie Ihr Gepäck mitnehmen?"
+    ]
+  },
+  {
+    "id": "gerade",
+    "raw_word": "gerade",
+    "details": {
+      "headword": "gerade"
+    },
+    "examples": [
+      "Da kommt er ja gerade."
+    ]
+  },
+  {
+    "id": "geradeaus",
+    "raw_word": "geradeaus",
+    "details": {
+      "headword": "geradeaus"
+    },
+    "examples": [
+      "Gehen Sie immer geradeaus!"
+    ]
+  },
+  {
+    "id": "gern(e)",
+    "raw_word": "gern(e)",
+    "details": {
+      "headword": "gern(e)"
+    },
+    "examples": [
+      "Ich gehe gerne einkaufen."
+    ]
+  },
+  {
+    "id": "das Geschäft",
+    "raw_word": "das Geschäft, -e",
+    "details": {
+      "article": "das",
+      "headword": "Geschäft",
+      "plural": "-e"
+    },
+    "examples": [
+      "Die Geschäfte schließen um 18.30 Uhr."
+    ]
+  },
+  {
+    "id": "das Geschenk",
+    "raw_word": "das Geschenk, -e",
+    "details": {
+      "article": "das",
+      "headword": "Geschenk",
+      "plural": "-e"
+    },
+    "examples": [
+      "Danke für das schöne Geschenk."
+    ]
+  },
+  {
+    "id": "die Geschwister",
+    "raw_word": "die Geschwister (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Geschwister",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Ich habe leider keine Geschwister."
+    ]
+  },
+  {
+    "id": "das Gespräch",
+    "raw_word": "das Gespräch, -e",
+    "details": {
+      "article": "das",
+      "headword": "Gespräch",
+      "plural": "-e"
+    },
+    "examples": [
+      "Das Gespräch mit Frau Kunz ist um 14 Uhr."
+    ]
+  },
+  {
+    "id": "gestern",
+    "raw_word": "gestern",
+    "details": {
+      "headword": "gestern"
+    },
+    "examples": [
+      "Gestern war ich krank."
+    ]
+  },
+  {
+    "id": "gestorben",
+    "raw_word": "gestorben",
+    "details": {
+      "headword": "gestorben"
+    },
+    "examples": [
+      "Meine Frau ist gestern gestorben."
+    ]
+  },
+  {
+    "id": "das Getränk",
+    "raw_word": "das Getränk, -e",
+    "details": {
+      "article": "das",
+      "headword": "Getränk",
+      "plural": "-e"
+    },
+    "examples": [
+      "Mein Lieblingsgetränk ist Tomatensaft."
+    ]
+  },
+  {
+    "id": "das Gewicht",
+    "raw_word": "das Gewicht",
+    "details": {
+      "article": "das",
+      "headword": "Gewicht"
+    },
+    "examples": [
+      "Bei „Gewicht“ schreibst du: 62 Kilo."
+    ]
+  },
+  {
+    "id": "gewinnen",
+    "raw_word": "gewinnen",
+    "details": {
+      "headword": "gewinnen"
+    },
+    "examples": [
+      "Wer gewinnt das Spiel?"
+    ]
+  },
+  {
+    "id": "das Glas",
+    "raw_word": "das Glas, -ä, er",
+    "details": {
+      "article": "das",
+      "headword": "Glas",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Bitte noch ein Glas Wein!",
+      "Wir brauchen noch drei Gläser."
+    ]
+  },
+  {
+    "id": "glauben",
+    "raw_word": "glauben",
+    "details": {
+      "headword": "glauben"
+    },
+    "examples": [
+      "Sie können mir glauben, es ist so.",
+      "Ich glaube, er kommt gleich."
+    ]
+  },
+  {
+    "id": "gleich",
+    "raw_word": "gleich",
+    "details": {
+      "headword": "gleich"
+    },
+    "examples": [
+      "Das ist mir gleich.",
+      "Das ist der gleiche Preis.",
+      "Ich komme gleich."
+    ]
+  },
+  {
+    "id": "das Gleis",
+    "raw_word": "das Gleis, -e",
+    "details": {
+      "article": "das",
+      "headword": "Gleis",
+      "plural": "-e"
+    },
+    "examples": [
+      "Der ICE nach Berlin hält heute an Gleis 12."
+    ]
+  },
+  {
+    "id": "das Glück",
+    "raw_word": "das Glück",
+    "details": {
+      "article": "das",
+      "headword": "Glück"
+    },
+    "examples": [
+      "Viel Glück!"
+    ]
+  },
+  {
+    "id": "glücklich",
+    "raw_word": "glücklich",
+    "details": {
+      "headword": "glücklich"
+    },
+    "examples": [
+      "Meine Kinder sind glücklich verheiratet."
+    ]
+  },
+  {
+    "id": "der Glückwunsch",
+    "raw_word": "der Glückwunsch",
+    "details": {
+      "article": "der",
+      "headword": "Glückwunsch"
+    },
+    "examples": [
+      "Herzlichen Glückwunsch zum Geburtstag."
+    ]
+  },
+  {
+    "id": "Grad (Celsius)",
+    "raw_word": "Grad (Celsius)",
+    "details": {
+      "headword": "Grad (Celsius)"
+    },
+    "examples": [
+      "Heute haben wir dreißig Grad."
+    ]
+  },
+  {
+    "id": "gratulieren",
+    "raw_word": "gratulieren",
+    "details": {
+      "headword": "gratulieren"
+    },
+    "examples": [
+      "Ich gratuliere dir!"
+    ]
+  },
+  {
+    "id": "grillen",
+    "raw_word": "grillen",
+    "details": {
+      "headword": "grillen"
+    },
+    "examples": [
+      "Heute grillen wir im Garten."
+    ]
+  },
+  {
+    "id": "groß",
+    "raw_word": "groß",
+    "details": {
+      "headword": "groß"
+    },
+    "examples": [
+      "Mein Bruder und ich sind gleich groß.",
+      "Frankfurt ist eine große Stadt."
+    ]
+  },
+  {
+    "id": "die Größe",
+    "raw_word": "die Größe",
+    "details": {
+      "article": "die",
+      "headword": "Größe"
+    },
+    "examples": [
+      "Haben Sie das auch in Größe 40?"
+    ]
+  },
+  {
+    "id": "die Großeltern",
+    "raw_word": "die Großeltern (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Großeltern",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Meine Großeltern leben in Japan."
+    ]
+  },
+  {
+    "id": "die Großmutter",
+    "raw_word": "die Großmutter",
+    "details": {
+      "article": "die",
+      "headword": "Großmutter"
+    },
+    "examples": [
+      "Meine Großmutter heißt Eva."
+    ]
+  },
+  {
+    "id": "der Großvater",
+    "raw_word": "der Großvater",
+    "details": {
+      "article": "der",
+      "headword": "Großvater"
+    },
+    "examples": [
+      "Mein Großvater ist schon 80."
+    ]
+  },
+  {
+    "id": "die Gruppe",
+    "raw_word": "die Gruppe, -n",
+    "details": {
+      "article": "die",
+      "headword": "Gruppe",
+      "plural": "-n"
+    },
+    "examples": [
+      "Die erste Gruppe beginnt um 16 Uhr."
+    ]
+  },
+  {
+    "id": "der Gruß",
+    "raw_word": "der Gruß, -ü, e",
+    "details": {
+      "article": "der",
+      "headword": "Gruß",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Viele Grüße an Ihre Frau.",
+      "Mit freundlichen Grüßen"
+    ]
+  },
+  {
+    "id": "gültig",
+    "raw_word": "gültig",
+    "details": {
+      "headword": "gültig"
+    },
+    "examples": [
+      "Der Pass ist nicht mehr gültig."
+    ]
+  },
+  {
+    "id": "günstig",
+    "raw_word": "günstig",
+    "details": {
+      "headword": "günstig"
+    },
+    "examples": [
+      "Dort gibt es günstige Angebote."
+    ]
+  },
+  {
+    "id": "gut",
+    "raw_word": "gut",
+    "details": {
+      "headword": "gut"
+    },
+    "examples": [
+      "Das finde ich gut.",
+      "Ich komme um 13 Uhr. – Gut!",
+      "Guten Morgen!",
+      "Ein gutes neues Jahr!",
+      "Guten Appetit!"
+    ]
+  },
+  {
+    "id": "das Haar",
+    "raw_word": "das Haar, -e",
+    "details": {
+      "article": "das",
+      "headword": "Haar",
+      "plural": "-e"
+    },
+    "examples": [
+      "Sie hat lange Haare."
+    ]
+  },
+  {
+    "id": "haben",
+    "raw_word": "haben",
+    "details": {
+      "headword": "haben"
+    },
+    "examples": [
+      "Ich habe ein neues Auto."
+    ]
+  },
+  {
+    "id": "das Hähnchen",
+    "raw_word": "das Hähnchen, -",
+    "details": {
+      "article": "das",
+      "headword": "Hähnchen",
+      "plural": "-"
+    },
+    "examples": [
+      "Ein Hähnchen mit Pommes bitte!"
+    ]
+  },
+  {
+    "id": "die Halbpension",
+    "raw_word": "die Halbpension",
+    "details": {
+      "article": "die",
+      "headword": "Halbpension"
+    },
+    "examples": [
+      "Möchten Sie Vollpension oder Halbpension?"
+    ]
+  },
+  {
+    "id": "die Halle",
+    "raw_word": "die Halle",
+    "details": {
+      "article": "die",
+      "headword": "Halle"
+    },
+    "examples": [
+      "Wir treffen uns in Halle B"
+    ]
+  },
+  {
+    "id": "hallo",
+    "raw_word": "hallo",
+    "details": {
+      "headword": "hallo"
+    },
+    "examples": [
+      "Hallo Inge! Wie geht’s?"
+    ]
+  },
+  {
+    "id": "halten",
+    "raw_word": "halten",
+    "details": {
+      "headword": "halten"
+    },
+    "examples": [
+      "Dieser Zug hält nicht in Rüdesheim."
+    ]
+  },
+  {
+    "id": "die Haltestelle",
+    "raw_word": "die Haltestelle",
+    "details": {
+      "article": "die",
+      "headword": "Haltestelle"
+    },
+    "examples": [
+      "An der nächsten Haltestelle müssen Sie aussteigen."
+    ]
+  },
+  {
+    "id": "die Hand",
+    "raw_word": "die Hand, -ä, e",
+    "details": {
+      "article": "die",
+      "headword": "Hand",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Er gibt mir die Hand."
+    ]
+  },
+  {
+    "id": "das Handy",
+    "raw_word": "das Handy, -s",
+    "details": {
+      "article": "das",
+      "headword": "Handy",
+      "plural": "-s"
+    },
+    "examples": [
+      "In der Schule bitte die Handys ausmachen!"
+    ]
+  },
+  {
+    "id": "das Haus",
+    "raw_word": "das Haus, -ä, er",
+    "details": {
+      "article": "das",
+      "headword": "Haus",
+      "plural": "-ä"
+    },
+    "examples": [
+      "In welchem Haus wohnst du?",
+      "Ich gehe jetzt nach Hause.",
+      "Paul ist nicht zu Hause."
+    ]
+  },
+  {
+    "id": "die Hausaufgabe",
+    "raw_word": "die Hausaufgabe,-n",
+    "details": {
+      "article": "die",
+      "headword": "Hausaufgabe",
+      "plural": "-n"
+    },
+    "examples": [
+      "Kannst du mir bei den Hausaufgaben helfen?"
+    ]
+  },
+  {
+    "id": "die Hausfrau",
+    "raw_word": "die Hausfrau, -en",
+    "details": {
+      "article": "die",
+      "headword": "Hausfrau",
+      "plural": "-en"
+    }
+  },
+  {
+    "id": "der Hausmann",
+    "raw_word": "der Hausmann",
+    "details": {
+      "article": "der",
+      "headword": "Hausmann"
+    },
+    "examples": [
+      "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein."
+    ]
+  },
+  {
+    "id": "die Heimat",
+    "raw_word": "die Heimat",
+    "details": {
+      "article": "die",
+      "headword": "Heimat"
+    },
+    "examples": [
+      "Ich komme aus der Schweiz. Das ist meine Heimat."
+    ]
+  },
+  {
+    "id": "heiraten",
+    "raw_word": "heiraten",
+    "details": {
+      "headword": "heiraten"
+    },
+    "examples": [
+      "Meine Schwester heiratet einen Japaner."
+    ]
+  },
+  {
+    "id": "heißen",
+    "raw_word": "heißen",
+    "details": {
+      "headword": "heißen"
+    },
+    "examples": [
+      "Ich heiße Charlotte Meier.",
+      "Wie heißt das auf Deutsch?"
+    ]
+  },
+  {
+    "id": "helfen",
+    "raw_word": "helfen",
+    "details": {
+      "headword": "helfen"
+    },
+    "examples": [
+      "Können Sie mir helfen, bitte?"
+    ]
+  },
+  {
+    "id": "hell",
+    "raw_word": "hell",
+    "details": {
+      "headword": "hell"
+    },
+    "examples": [
+      "Im Sommer ist es bis 21 Uhr hell."
+    ]
+  },
+  {
+    "id": "der Herd",
+    "raw_word": "der Herd",
+    "details": {
+      "article": "der",
+      "headword": "Herd"
+    },
+    "examples": [
+      "In der neuen Küche fehlt noch der Herd."
+    ]
+  },
+  {
+    "id": "der Herr",
+    "raw_word": "der Herr, -en",
+    "details": {
+      "article": "der",
+      "headword": "Herr",
+      "plural": "-en"
+    },
+    "examples": [
+      "Guten Tag, Herr Sommer!"
+    ]
+  },
+  {
+    "id": "herzlich",
+    "raw_word": "herzlich",
+    "details": {
+      "headword": "herzlich"
+    },
+    "examples": [
+      "Herzlichen Glückwunsch!"
+    ]
+  },
+  {
+    "id": "heute",
+    "raw_word": "heute",
+    "details": {
+      "headword": "heute"
+    },
+    "examples": [
+      "Heute ist ein schöner Tag."
+    ]
+  },
+  {
+    "id": "hier",
+    "raw_word": "hier",
+    "details": {
+      "headword": "hier"
+    },
+    "examples": [
+      "Hier ist 06131-553221, Pamela Linke.",
+      "Hier wohne ich."
+    ]
+  },
+  {
+    "id": "die Hilfe",
+    "raw_word": "die Hilfe",
+    "details": {
+      "article": "die",
+      "headword": "Hilfe"
+    },
+    "examples": [
+      "Hilfe! Bitte helfen Sie mir!",
+      "Brauchen Sie meine Hilfe?"
+    ]
+  },
+  {
+    "id": "hinten",
+    "raw_word": "hinten",
+    "details": {
+      "headword": "hinten"
+    },
+    "examples": [
+      "Die Tür zum Aussteigen ist hinten."
+    ]
+  },
+  {
+    "id": "das Hobby",
+    "raw_word": "das Hobby, -s",
+    "details": {
+      "article": "das",
+      "headword": "Hobby",
+      "plural": "-s"
+    },
+    "examples": [
+      "Meine Hobbys sind Wandern und Schwimmen."
+    ]
+  },
+  {
+    "id": "hoch",
+    "raw_word": "hoch",
+    "details": {
+      "headword": "hoch"
+    },
+    "examples": [
+      "Der Mount Everest ist 8.880 Meter hoch."
+    ]
+  },
+  {
+    "id": "die Hochzeit",
+    "raw_word": "die Hochzeit",
+    "details": {
+      "article": "die",
+      "headword": "Hochzeit"
+    },
+    "examples": [
+      "Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
+    ]
+  },
+  {
+    "id": "holen",
+    "raw_word": "holen",
+    "details": {
+      "headword": "holen"
+    },
+    "examples": [
+      "Ich hole zwei Flaschen Wasser aus der Küche."
+    ]
+  },
+  {
+    "id": "hören",
+    "raw_word": "hören",
+    "details": {
+      "headword": "hören"
+    },
+    "examples": [
+      "Hör mal! Was ist das?",
+      "Ich habe das Lied schon mal gehört."
+    ]
+  },
+  {
+    "id": "das Hotel",
+    "raw_word": "das Hotel, -s",
+    "details": {
+      "article": "das",
+      "headword": "Hotel",
+      "plural": "-s"
+    },
+    "examples": [
+      "Im Urlaub sind wir in einem Hotel am Meer."
+    ]
+  },
+  {
+    "id": "der Hund",
+    "raw_word": "der Hund, -e",
+    "details": {
+      "article": "der",
+      "headword": "Hund",
+      "plural": "-e"
+    },
+    "examples": [
+      "Der Hund ist noch jung."
+    ]
+  },
+  {
+    "id": "der Hunger",
+    "raw_word": "der Hunger",
+    "details": {
+      "article": "der",
+      "headword": "Hunger"
+    },
+    "examples": [
+      "Ich habe Hunger! Wann ist das Essen fertig?"
+    ]
+  },
+  {
+    "id": "ich",
+    "raw_word": "ich",
+    "details": {
+      "headword": "ich"
+    },
+    "examples": [
+      "Ich heiße Veronika."
+    ]
+  },
+  {
+    "id": "ihr/ihm/ihn",
+    "raw_word": "ihr/ihm/ihn",
+    "details": {
+      "headword": "ihr/ihn",
+      "variants": [
+        "ihm"
+      ]
+    },
+    "examples": [
+      "Gib ihr/ihm bitte das Buch.",
+      "Ruf ihn bitte an."
+    ]
+  },
+  {
+    "id": "immer",
+    "raw_word": "immer",
+    "details": {
+      "headword": "immer"
+    },
+    "examples": [
+      "Frau Bast kommt immer zu spät."
+    ]
+  },
+  {
+    "id": "in",
+    "raw_word": "in",
+    "details": {
+      "headword": "in"
+    },
+    "examples": [
+      "Ich wohne in Wiesbaden.",
+      "Der Zug kommt in fünf Minuten.",
+      "Frau Rausch arbeitet in einem Geschäft.",
+      "Komm, wir gehen ins Kino."
+    ]
+  },
+  {
+    "id": "die Information",
+    "raw_word": "die Information, -en",
+    "details": {
+      "article": "die",
+      "headword": "Information",
+      "plural": "-en"
+    },
+    "examples": [
+      "Wenn Sie Fragen haben, gehen Sie zur Information.",
+      "Wir haben hier wichtige Informationen für Sie."
+    ]
+  },
+  {
+    "id": "international",
+    "raw_word": "international",
+    "details": {
+      "headword": "international"
+    },
+    "examples": [
+      "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ..."
+    ]
+  },
+  {
+    "id": "das Internet",
+    "raw_word": "das Internet",
+    "details": {
+      "article": "das",
+      "headword": "Internet"
+    },
+    "examples": [
+      "Das findest du im Internet."
+    ]
+  },
+  {
+    "id": "ja",
+    "raw_word": "ja",
+    "details": {
+      "headword": "ja"
+    },
+    "examples": [
+      "Sind Sie Herr Watanabe? – Ja."
+    ]
+  },
+  {
+    "id": "die Jacke",
+    "raw_word": "die Jacke, -n",
+    "details": {
+      "article": "die",
+      "headword": "Jacke",
+      "plural": "-n"
+    },
+    "examples": [
+      "Zieh dir eine Jacke an. Es ist kalt."
+    ]
+  },
+  {
+    "id": "jed-",
+    "raw_word": "jed-",
+    "details": {
+      "headword": "jed-"
+    },
+    "examples": [
+      "Blumen kannst du in jedem Bahnhof kaufen."
+    ]
+  },
+  {
+    "id": "jetzt",
+    "raw_word": "jetzt",
+    "details": {
+      "headword": "jetzt"
+    },
+    "examples": [
+      "Jetzt machen wir eine Pause."
+    ]
+  },
+  {
+    "id": "der Job",
+    "raw_word": "der Job, -s",
+    "details": {
+      "article": "der",
+      "headword": "Job",
+      "plural": "-s"
+    },
+    "examples": [
+      "Jenny hat einen neuen Job bei der Post."
+    ]
+  },
+  {
+    "id": "der Jugendliche",
+    "raw_word": "der Jugendliche, -n",
+    "details": {
+      "article": "der",
+      "headword": "Jugendliche",
+      "plural": "-n"
+    },
+    "examples": [
+      "Viele Jugendliche kaufen gern ein."
+    ]
+  },
+  {
+    "id": "jung",
+    "raw_word": "jung",
+    "details": {
+      "headword": "jung"
+    },
+    "examples": [
+      "Claudia ist",
+      "– Was? Noch so jung?"
+    ]
+  },
+  {
+    "id": "der Junge",
+    "raw_word": "der Junge, -n",
+    "details": {
+      "article": "der",
+      "headword": "Junge",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe zwei Kinder. Einen Jungen und ein Mädchen."
+    ]
+  },
+  {
+    "id": "der Kaffee",
+    "raw_word": "der Kaffee",
+    "details": {
+      "article": "der",
+      "headword": "Kaffee"
+    },
+    "examples": [
+      "Zum Frühstück trinke ich immer Kaffee."
+    ]
+  },
+  {
+    "id": "kaputt",
+    "raw_word": "kaputt",
+    "details": {
+      "headword": "kaputt"
+    },
+    "examples": [
+      "Das Glas war teuer. Es geht sehr leicht kaputt."
+    ]
+  },
+  {
+    "id": "die Karte",
+    "raw_word": "die Karte, -n",
+    "details": {
+      "article": "die",
+      "headword": "Karte",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.",
+      "Wollen wir Karten spielen?",
+      "Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte."
+    ]
+  },
+  {
+    "id": "(Kredit)-Karte",
+    "raw_word": "(Kredit)-Karte, -n",
+    "details": {
+      "headword": "(Kredit)-Karte",
+      "conjugation": [
+        "-n"
+      ]
+    },
+    "examples": [
+      "Kann ich auch mit Karte (be-) zahlen?"
+    ]
+  },
+  {
+    "id": "die Kartoffel",
+    "raw_word": "die Kartoffel, -n",
+    "details": {
+      "article": "die",
+      "headword": "Kartoffel",
+      "plural": "-n"
+    },
+    "examples": [
+      "Für Pommes frites braucht man Kartoffeln."
+    ]
+  },
+  {
+    "id": "die Kasse",
+    "raw_word": "die Kasse",
+    "details": {
+      "article": "die",
+      "headword": "Kasse"
+    },
+    "examples": [
+      "Zahlen Sie bitte an der Kasse."
+    ]
+  },
+  {
+    "id": "kaufen",
+    "raw_word": "kaufen",
+    "details": {
+      "headword": "kaufen"
+    },
+    "examples": [
+      "Tim kauft sich ein neues Auto."
+    ]
+  },
+  {
+    "id": "kein",
+    "raw_word": "kein",
+    "details": {
+      "headword": "kein"
+    },
+    "examples": [
+      "Es gibt keine Eintrittskarten mehr."
+    ]
+  },
+  {
+    "id": "kennen",
+    "raw_word": "kennen",
+    "details": {
+      "headword": "kennen"
+    },
+    "examples": [
+      "Kennen Sie diese Frau? – Nein, leider nicht."
+    ]
+  },
+  {
+    "id": "kennenlernen",
+    "raw_word": "kennenlernen",
+    "details": {
+      "headword": "kennenlernen"
+    },
+    "examples": [
+      "Wir sind neu hier. Wir möchten Sie kennenlernen."
+    ]
+  },
+  {
+    "id": "das Kind",
+    "raw_word": "das Kind, -er",
+    "details": {
+      "article": "das",
+      "headword": "Kind",
+      "plural": "-er"
+    },
+    "examples": [
+      "Wie viele Kinder haben Sie?"
+    ]
+  },
+  {
+    "id": "der Kindergarten",
+    "raw_word": "der Kindergarten",
+    "details": {
+      "article": "der",
+      "headword": "Kindergarten"
+    },
+    "examples": [
+      "Die kleine Laura geht schon in den Kindergarten."
+    ]
+  },
+  {
+    "id": "das Kino",
+    "raw_word": "das Kino, -s",
+    "details": {
+      "article": "das",
+      "headword": "Kino",
+      "plural": "-s"
+    },
+    "examples": [
+      "Wir sehen heute Abend im Kino einen schönen Film."
+    ]
+  },
+  {
+    "id": "der Kiosk",
+    "raw_word": "der Kiosk",
+    "details": {
+      "article": "der",
+      "headword": "Kiosk"
+    },
+    "examples": [
+      "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen."
+    ]
+  },
+  {
+    "id": "klar",
+    "raw_word": "klar",
+    "details": {
+      "headword": "klar"
+    },
+    "examples": [
+      "Kommst du mit? – Klar!"
+    ]
+  },
+  {
+    "id": "die Klasse",
+    "raw_word": "die Klasse",
+    "details": {
+      "article": "die",
+      "headword": "Klasse"
+    },
+    "examples": [
+      "In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer",
+      "Klasse."
+    ]
+  },
+  {
+    "id": "die Kleidung",
+    "raw_word": "die Kleidung",
+    "details": {
+      "article": "die",
+      "headword": "Kleidung"
+    },
+    "examples": [
+      "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
+    ]
+  },
+  {
+    "id": "klein",
+    "raw_word": "klein",
+    "details": {
+      "headword": "klein"
+    },
+    "examples": [
+      "Eltville ist eine kleine Stadt am Rhein."
+    ]
+  },
+  {
+    "id": "kochen",
+    "raw_word": "kochen",
+    "details": {
+      "headword": "kochen"
+    },
+    "examples": [
+      "Herr Georgi kann gut kochen."
+    ]
+  },
+  {
+    "id": "der Koffer",
+    "raw_word": "der Koffer, –",
+    "details": {
+      "article": "der",
+      "headword": "Koffer",
+      "plural": "–"
+    },
+    "examples": [
+      "Ist das Ihr Koffer?"
+    ]
+  },
+  {
+    "id": "der Kollege",
+    "raw_word": "der Kollege, -n",
+    "details": {
+      "article": "der",
+      "headword": "Kollege",
+      "plural": "-n"
+    },
+    "examples": [
+      "Wie heißt die neue Kollegin?"
+    ]
+  },
+  {
+    "id": "kommen",
+    "raw_word": "kommen",
+    "details": {
+      "headword": "kommen"
+    },
+    "examples": [
+      "Woher kommen Sie? – Aus Frankreich.",
+      "Kommst du mit ins Schwimmbad?"
+    ]
+  },
+  {
+    "id": "können",
+    "raw_word": "können",
+    "details": {
+      "headword": "können"
+    },
+    "examples": [
+      "Ich kann Deutsch und Russisch.",
+      "Können Sie mir helfen?"
+    ]
+  },
+  {
+    "id": "das Konto",
+    "raw_word": "das Konto",
+    "details": {
+      "article": "das",
+      "headword": "Konto"
+    },
+    "examples": [
+      "Das Geld überweisen wir am ersten März auf Ihr Konto."
+    ]
+  },
+  {
+    "id": "der Kopf",
+    "raw_word": "der Kopf",
+    "details": {
+      "article": "der",
+      "headword": "Kopf"
+    },
+    "examples": [
+      "Mein Kopf tut weh!"
+    ]
+  },
+  {
+    "id": "kosten",
+    "raw_word": "kosten",
+    "details": {
+      "headword": "kosten"
+    },
+    "examples": [
+      "Wie viel kostet das? – 10 Euro."
+    ]
+  },
+  {
+    "id": "krank",
+    "raw_word": "krank",
+    "details": {
+      "headword": "krank"
+    },
+    "examples": [
+      "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
+    ]
+  },
+  {
+    "id": "kriegen",
+    "raw_word": "kriegen",
+    "details": {
+      "headword": "kriegen"
+    },
+    "examples": [
+      "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+    ]
+  },
+  {
+    "id": "die Küche",
+    "raw_word": "die Küche",
+    "details": {
+      "article": "die",
+      "headword": "Küche"
+    },
+    "examples": [
+      "Der neue Herd kommt in die Küche."
+    ]
+  },
+  {
+    "id": "der Kuchen",
+    "raw_word": "der Kuchen",
+    "details": {
+      "article": "der",
+      "headword": "Kuchen"
+    },
+    "examples": [
+      "Ich nehme ein Stück Kuchen."
+    ]
+  },
+  {
+    "id": "der Kugelschreiber",
+    "raw_word": "der Kugelschreiber",
+    "details": {
+      "article": "der",
+      "headword": "Kugelschreiber"
+    },
+    "examples": [
+      "Hast du einen Kugelschreiber für mich?"
+    ]
+  },
+  {
+    "id": "der Kühlschrank",
+    "raw_word": "der Kühlschrank",
+    "details": {
+      "article": "der",
+      "headword": "Kühlschrank"
+    },
+    "examples": [
+      "Haben wir noch Milch? – Ja, im Kühlschrank."
+    ]
+  },
+  {
+    "id": "kulturell",
+    "raw_word": "kulturell",
+    "details": {
+      "headword": "kulturell"
+    },
+    "examples": [
+      "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+    ]
+  },
+  {
+    "id": "sich kümmern",
+    "raw_word": "sich kümmern",
+    "details": {
+      "headword": "sich kümmern"
+    },
+    "examples": [
+      "Jede Mutter kümmert sich um ihre kleinen Kinder."
+    ]
+  },
+  {
+    "id": "der Kunde",
+    "raw_word": "der Kunde, -n",
+    "details": {
+      "article": "der",
+      "headword": "Kunde",
+      "plural": "-n"
+    },
+    "examples": [
+      "Einen Moment, bitte. Ich habe eine Kundin."
+    ]
+  },
+  {
+    "id": "der Kurs",
+    "raw_word": "der Kurs, -e",
+    "details": {
+      "article": "der",
+      "headword": "Kurs",
+      "plural": "-e"
+    },
+    "examples": [
+      "Der Deutschkurs geht bis zum Sommer."
+    ]
+  },
+  {
+    "id": "kurz",
+    "raw_word": "kurz",
+    "details": {
+      "headword": "kurz"
+    },
+    "examples": [
+      "Ricardo hat kurzes Haar."
+    ]
+  },
+  {
+    "id": "lachen",
+    "raw_word": "lachen",
+    "details": {
+      "headword": "lachen"
+    },
+    "examples": [
+      "Die Kinder lachen viel."
+    ]
+  },
+  {
+    "id": "der Laden",
+    "raw_word": "der Laden, -ä",
+    "details": {
+      "article": "der",
+      "headword": "Laden",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Im Buchladen können Sie Bücher kaufen."
+    ]
+  },
+  {
+    "id": "das Land",
+    "raw_word": "das Land, -ä, er",
+    "details": {
+      "article": "das",
+      "headword": "Land",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Italien ist ein schönes Land."
+    ]
+  },
+  {
+    "id": "lang",
+    "raw_word": "lang",
+    "details": {
+      "headword": "lang"
+    },
+    "examples": [
+      "Die Jeans ist zu lang."
+    ]
+  },
+  {
+    "id": "lange",
+    "raw_word": "lange",
+    "details": {
+      "headword": "lange"
+    },
+    "examples": [
+      "Wie lange fährt der Zug von Hamburg nach Berlin?"
+    ]
+  },
+  {
+    "id": "langsam",
+    "raw_word": "langsam",
+    "details": {
+      "headword": "langsam"
+    },
+    "examples": [
+      "Könnten Sie bitte etwas langsamer sprechen?"
+    ]
+  },
+  {
+    "id": "laufen",
+    "raw_word": "laufen",
+    "details": {
+      "headword": "laufen"
+    },
+    "examples": [
+      "Ich möchte nicht Auto fahren, ich möchte laufen."
+    ]
+  },
+  {
+    "id": "laut",
+    "raw_word": "laut",
+    "details": {
+      "headword": "laut"
+    },
+    "examples": [
+      "Nicht so laut! Das Baby schläft."
+    ]
+  },
+  {
+    "id": "leben",
+    "raw_word": "leben",
+    "details": {
+      "headword": "leben"
+    },
+    "examples": [
+      "Sie lebt bei ihrer Schwester.",
+      "Ihre Eltern leben nicht mehr."
+    ]
+  },
+  {
+    "id": "das Leben",
+    "raw_word": "das Leben",
+    "details": {
+      "article": "das",
+      "headword": "Leben"
+    },
+    "examples": [
+      "Das Leben in diesem Land ist teuer."
+    ]
+  },
+  {
+    "id": "die Lebensmittel",
+    "raw_word": "die Lebensmittel (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Lebensmittel",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Lebensmittel bekommen Sie im Supermarkt."
+    ]
+  },
+  {
+    "id": "ledig",
+    "raw_word": "ledig",
+    "details": {
+      "headword": "ledig"
+    },
+    "examples": [
+      "Sind Sie verheiratet? – Nein. Ledig."
+    ]
+  },
+  {
+    "id": "legen",
+    "raw_word": "legen",
+    "details": {
+      "headword": "legen"
+    },
+    "examples": [
+      "Legen Sie das Buch auf den Tisch."
+    ]
+  },
+  {
+    "id": "der Lehrer",
+    "raw_word": "der Lehrer, –",
+    "details": {
+      "article": "der",
+      "headword": "Lehrer",
+      "plural": "–"
+    },
+    "examples": [
+      "Unsere Deutschlehrerin heißt Frau Müller."
+    ]
+  },
+  {
+    "id": "leicht",
+    "raw_word": "leicht",
+    "details": {
+      "headword": "leicht"
+    },
+    "examples": [
+      "Der Koffer ist leicht.",
+      "Deutsch ist nicht leicht."
+    ]
+  },
+  {
+    "id": "leider",
+    "raw_word": "leider",
+    "details": {
+      "headword": "leider"
+    },
+    "examples": [
+      "Leider kann ich nicht kommen. Ich muss zum Arzt."
+    ]
+  },
+  {
+    "id": "leise",
+    "raw_word": "leise",
+    "details": {
+      "headword": "leise"
+    },
+    "examples": [
+      "Seid leise. Die anderen schlafen schon."
+    ]
+  },
+  {
+    "id": "lernen",
+    "raw_word": "lernen",
+    "details": {
+      "headword": "lernen"
+    },
+    "examples": [
+      "Wie lange lernen Sie schon Deutsch?"
+    ]
+  },
+  {
+    "id": "lesen",
+    "raw_word": "lesen",
+    "details": {
+      "headword": "lesen"
+    },
+    "examples": [
+      "Ich lese ein Buch von García Márquez."
+    ]
+  },
+  {
+    "id": "letzt-",
+    "raw_word": "letzt-",
+    "details": {
+      "headword": "letzt-"
+    },
+    "examples": [
+      "Morgen ist der letzte Kurstag."
+    ]
+  },
+  {
+    "id": "die Leute",
+    "raw_word": "die Leute (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Leute",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "In der Disko sind viele Leute."
+    ]
+  },
+  {
+    "id": "das Licht",
+    "raw_word": "das Licht",
+    "details": {
+      "article": "das",
+      "headword": "Licht"
+    },
+    "examples": [
+      "Wo macht man hier das Licht an?"
+    ]
+  },
+  {
+    "id": "lieb-",
+    "raw_word": "lieb-",
+    "details": {
+      "headword": "lieb-"
+    },
+    "examples": [
+      "Liebe Susanne, lieber Hans,"
+    ]
+  },
+  {
+    "id": "lieben",
+    "raw_word": "lieben",
+    "details": {
+      "headword": "lieben"
+    },
+    "examples": [
+      "Ich liebe dich!"
+    ]
+  },
+  {
+    "id": "lieber",
+    "raw_word": "lieber",
+    "details": {
+      "headword": "lieber"
+    },
+    "examples": [
+      "Sie fährt lieber mit der Bahn."
+    ]
+  },
+  {
+    "id": "Lieblings-",
+    "raw_word": "Lieblings-",
+    "details": {
+      "headword": "Lieblings-"
+    },
+    "examples": [
+      "Mein Lieblingsfilm ist „Schwarze Augen“."
+    ]
+  },
+  {
+    "id": "das Lied",
+    "raw_word": "das Lied, -er",
+    "details": {
+      "article": "das",
+      "headword": "Lied",
+      "plural": "-er"
+    },
+    "examples": [
+      "Welches ist dein Lieblingslied?"
+    ]
+  },
+  {
+    "id": "liegen",
+    "raw_word": "liegen",
+    "details": {
+      "headword": "liegen"
+    },
+    "examples": [
+      "Um neun Uhr liegt Judith noch im Bett.",
+      "Frankfurt liegt am Main."
+    ]
+  },
+  {
+    "id": "links",
+    "raw_word": "links",
+    "details": {
+      "headword": "links"
+    },
+    "examples": [
+      "Gehen Sie die nächste Straße links."
+    ]
+  },
+  {
+    "id": "der Lkw",
+    "raw_word": "der Lkw, -s",
+    "details": {
+      "article": "der",
+      "headword": "Lkw",
+      "plural": "-s"
+    },
+    "examples": [
+      "Dieser Lastkraftwagen ist sehr groß."
+    ]
+  },
+  {
+    "id": "das Lokal",
+    "raw_word": "das Lokal",
+    "details": {
+      "article": "das",
+      "headword": "Lokal"
+    },
+    "examples": [
+      "In unserer Straße gibt es ein neues Lokal."
+    ]
+  },
+  {
+    "id": "die Lösung",
+    "raw_word": "die Lösung, -en",
+    "details": {
+      "article": "die",
+      "headword": "Lösung",
+      "plural": "-en"
+    },
+    "examples": [
+      "Die Lösung ist ganz einfach."
+    ]
+  },
+  {
+    "id": "lustig",
+    "raw_word": "lustig",
+    "details": {
+      "headword": "lustig"
+    },
+    "examples": [
+      "Frau Mertens ist lustig. Sie lacht immer."
+    ]
+  },
+  {
+    "id": "machen",
+    "raw_word": "machen",
+    "details": {
+      "headword": "machen"
+    },
+    "examples": [
+      "Was machst du heute Abend?",
+      "Ich muss jetzt das Essen machen."
+    ]
+  },
+  {
+    "id": "das Mädchen",
+    "raw_word": "das Mädchen, –",
+    "details": {
+      "article": "das",
+      "headword": "Mädchen",
+      "plural": "–"
+    },
+    "examples": [
+      "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+    ]
+  },
+  {
+    "id": "man",
+    "raw_word": "man",
+    "details": {
+      "headword": "man"
+    },
+    "examples": [
+      "Hier darf man nicht rauchen."
+    ]
+  },
+  {
+    "id": "der Mann",
+    "raw_word": "der Mann, -ä, er",
+    "details": {
+      "article": "der",
+      "headword": "Mann",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Mein Mann arbeitet bei der Polizei."
+    ]
+  },
+  {
+    "id": "männlich",
+    "raw_word": "männlich",
+    "details": {
+      "headword": "männlich"
+    },
+    "examples": [
+      "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+    ]
+  },
+  {
+    "id": "die Maschine",
+    "raw_word": "die Maschine, -n",
+    "details": {
+      "article": "die",
+      "headword": "Maschine",
+      "plural": "-n"
+    },
+    "examples": [
+      "Die Waschmaschine ist günstig."
+    ]
+  },
+  {
+    "id": "das Meer",
+    "raw_word": "das Meer",
+    "details": {
+      "article": "das",
+      "headword": "Meer"
+    },
+    "examples": [
+      "Wir machen Urlaub am Meer."
+    ]
+  },
+  {
+    "id": "mehr",
+    "raw_word": "mehr",
+    "details": {
+      "headword": "mehr"
+    },
+    "examples": [
+      "Dieses Auto kostet 1.000 Euro mehr als das andere."
+    ]
+  },
+  {
+    "id": "mein",
+    "raw_word": "mein",
+    "details": {
+      "headword": "mein"
+    },
+    "examples": [
+      "Mein Vater ist Arzt."
+    ]
+  },
+  {
+    "id": "meist-",
+    "raw_word": "meist-",
+    "details": {
+      "headword": "meist-"
+    },
+    "examples": [
+      "Die meisten Norddeutschen sind sehr groß."
+    ]
+  },
+  {
+    "id": "der Mensch",
+    "raw_word": "der Mensch, -en",
+    "details": {
+      "article": "der",
+      "headword": "Mensch",
+      "plural": "-en"
+    },
+    "examples": [
+      "Die Menschen sind hier anders als bei uns."
+    ]
+  },
+  {
+    "id": "mieten",
+    "raw_word": "mieten",
+    "details": {
+      "headword": "mieten"
+    },
+    "examples": [
+      "Ich möchte ein Auto mieten."
+    ]
+  },
+  {
+    "id": "die Miete",
+    "raw_word": "die Miete",
+    "details": {
+      "article": "die",
+      "headword": "Miete"
+    },
+    "examples": [
+      "Die Miete für diese Wohnung ist 600 Euro."
+    ]
+  },
+  {
+    "id": "die Milch",
+    "raw_word": "die Milch",
+    "details": {
+      "article": "die",
+      "headword": "Milch"
+    },
+    "examples": [
+      "Die Milch steht im Kühlschrank."
+    ]
+  },
+  {
+    "id": "mit",
+    "raw_word": "mit",
+    "details": {
+      "headword": "mit"
+    },
+    "examples": [
+      "Trinken Sie den Kaffee mit Milch?"
+    ]
+  },
+  {
+    "id": "mitbringen",
+    "raw_word": "mitbringen",
+    "details": {
+      "headword": "mitbringen"
+    },
+    "examples": [
+      "Ich gehe einkaufen. Soll ich dir was mitbringen?"
+    ]
+  },
+  {
+    "id": "mitkommen",
+    "raw_word": "mitkommen",
+    "details": {
+      "headword": "mitkommen"
+    },
+    "examples": [
+      "Ich gehe ins Kino. Kommst du mit?"
+    ]
+  },
+  {
+    "id": "mitmachen",
+    "raw_word": "mitmachen",
+    "details": {
+      "headword": "mitmachen"
+    },
+    "examples": [
+      "Warum macht ihr nicht mit?"
+    ]
+  },
+  {
+    "id": "mitnehmen",
+    "raw_word": "mitnehmen",
+    "details": {
+      "headword": "mitnehmen"
+    },
+    "examples": [
+      "Nehmen wir meine Schwester ins Kino mit?"
+    ]
+  },
+  {
+    "id": "die Mitte",
+    "raw_word": "die Mitte",
+    "details": {
+      "article": "die",
+      "headword": "Mitte"
+    },
+    "examples": [
+      "Der Lehrer steht in der Mitte des Klassenzimmers."
+    ]
+  },
+  {
+    "id": "die Möbel",
+    "raw_word": "die Möbel (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Möbel",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Sind die Möbel neu?"
+    ]
+  },
+  {
+    "id": "möchten",
+    "raw_word": "möchten",
+    "details": {
+      "headword": "möchten"
+    },
+    "examples": [
+      "Was möchten Sie trinken?"
+    ]
+  },
+  {
+    "id": "mögen",
+    "raw_word": "mögen",
+    "details": {
+      "headword": "mögen"
+    },
+    "examples": [
+      "Magst du Kaffee oder Tee?"
+    ]
+  },
+  {
+    "id": "möglich",
+    "raw_word": "möglich",
+    "details": {
+      "headword": "möglich"
+    },
+    "examples": [
+      "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
+    ]
+  },
+  {
+    "id": "der Moment",
+    "raw_word": "der Moment",
+    "details": {
+      "article": "der",
+      "headword": "Moment"
+    },
+    "examples": [
+      "Moment mal bitte!",
+      "Einen Moment bitte."
+    ]
+  },
+  {
+    "id": "morgen",
+    "raw_word": "morgen",
+    "details": {
+      "headword": "morgen"
+    },
+    "examples": [
+      "Morgen beginnt die Schule um 10 Uhr."
+    ]
+  },
+  {
+    "id": "müde",
+    "raw_word": "müde",
+    "details": {
+      "headword": "müde"
+    },
+    "examples": [
+      "Ich bin müde. Ich gehe schlafen."
+    ]
+  },
+  {
+    "id": "der Mund",
+    "raw_word": "der Mund",
+    "details": {
+      "article": "der",
+      "headword": "Mund"
+    },
+    "examples": [
+      "Öffnen Sie den Mund."
+    ]
+  },
+  {
+    "id": "müssen",
+    "raw_word": "müssen",
+    "details": {
+      "headword": "müssen"
+    },
+    "examples": [
+      "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
+    ]
+  },
+  {
+    "id": "die Mutter",
+    "raw_word": "die Mutter, -ü",
+    "details": {
+      "article": "die",
+      "headword": "Mutter",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Frau Berghäuser ist die Mutter von Michaela."
+    ]
+  },
+  {
+    "id": "nach",
+    "raw_word": "nach",
+    "details": {
+      "headword": "nach"
+    },
+    "examples": [
+      "Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12."
+    ]
+  },
+  {
+    "id": "nächst-",
+    "raw_word": "nächst-",
+    "details": {
+      "headword": "nächst-"
+    },
+    "examples": [
+      "Sehen wir uns nächste Woche?"
+    ]
+  },
+  {
+    "id": "der Name",
+    "raw_word": "der Name, -n",
+    "details": {
+      "article": "der",
+      "headword": "Name",
+      "plural": "-n"
+    },
+    "examples": [
+      "Mein Name ist Thomas Schmidt.",
+      "Mein Vorname ist Thomas; Schmidt ist der Familienname."
+    ]
+  },
+  {
+    "id": "nehmen",
+    "raw_word": "nehmen",
+    "details": {
+      "headword": "nehmen"
+    },
+    "examples": [
+      "Heute gibt es Hähnchen. Das nehme ich.",
+      "Ich nehme den Bus."
+    ]
+  },
+  {
+    "id": "nein",
+    "raw_word": "nein",
+    "details": {
+      "headword": "nein"
+    },
+    "examples": [
+      "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+    ]
+  },
+  {
+    "id": "neu",
+    "raw_word": "neu",
+    "details": {
+      "headword": "neu"
+    },
+    "examples": [
+      "Ich bin der neue Kollege.",
+      "Wir haben eine neue Wohnung."
+    ]
+  },
+  {
+    "id": "nicht",
+    "raw_word": "nicht",
+    "details": {
+      "headword": "nicht"
+    },
+    "examples": [
+      "Das stimmt nicht.",
+      "Das ist doch schön, nicht?"
+    ]
+  },
+  {
+    "id": "nichts",
+    "raw_word": "nichts",
+    "details": {
+      "headword": "nichts"
+    },
+    "examples": [
+      "Das macht nichts.",
+      "Hier kaufe ich nichts. Der Laden gefällt mir nicht."
+    ]
+  },
+  {
+    "id": "nie",
+    "raw_word": "nie",
+    "details": {
+      "headword": "nie"
+    },
+    "examples": [
+      "Er kommt nie pünktlich."
+    ]
+  },
+  {
+    "id": "noch",
+    "raw_word": "noch",
+    "details": {
+      "headword": "noch"
+    },
+    "examples": [
+      "Vielleicht kommt er noch.",
+      "Wir warten noch fünf Minuten.",
+      "Ich habe noch 20 Euro."
+    ]
+  },
+  {
+    "id": "normal",
+    "raw_word": "normal",
+    "details": {
+      "headword": "normal"
+    },
+    "examples": [
+      "75 kg. Sein Gewicht ist normal."
+    ]
+  },
+  {
+    "id": "die Nummer",
+    "raw_word": "die Nummer, -n",
+    "details": {
+      "article": "die",
+      "headword": "Nummer",
+      "plural": "-n"
+    },
+    "examples": [
+      "Sie haben Zimmer Nummer zwölf.",
+      "Welche Hausnummer haben Sie?",
+      "Können Sie mir Ihre Nummer geben?"
+    ]
+  },
+  {
+    "id": "nur",
+    "raw_word": "nur",
+    "details": {
+      "headword": "nur"
+    },
+    "examples": [
+      "Ich möchte nur ein Glas Wasser."
+    ]
+  },
+  {
+    "id": "oben",
+    "raw_word": "oben",
+    "details": {
+      "headword": "oben"
+    },
+    "examples": [
+      "Ich wohne oben."
+    ]
+  },
+  {
+    "id": "das Obst",
+    "raw_word": "das Obst",
+    "details": {
+      "article": "das",
+      "headword": "Obst"
+    },
+    "examples": [
+      "Im Sommer ist das Obst billig."
+    ]
+  },
+  {
+    "id": "oder",
+    "raw_word": "oder",
+    "details": {
+      "headword": "oder"
+    },
+    "examples": [
+      "Wann können Sie kommen – heute oder morgen?"
+    ]
+  },
+  {
+    "id": "öffnen",
+    "raw_word": "öffnen",
+    "details": {
+      "headword": "öffnen"
+    },
+    "examples": [
+      "Ich öffne die Tür."
+    ]
+  },
+  {
+    "id": "geöffnet",
+    "raw_word": "geöffnet",
+    "details": {
+      "headword": "geöffnet"
+    },
+    "examples": [
+      "Der Laden ist samstags bis 16.00 Uhr geöffnet."
+    ]
+  },
+  {
+    "id": "oft",
+    "raw_word": "oft",
+    "details": {
+      "headword": "oft"
+    },
+    "examples": [
+      "Petra treffe ich oft."
+    ]
+  },
+  {
+    "id": "ohne",
+    "raw_word": "ohne",
+    "details": {
+      "headword": "ohne"
+    },
+    "examples": [
+      "Ohne Geld kann er nichts kaufen."
+    ]
+  },
+  {
+    "id": "das Öl",
+    "raw_word": "das Öl",
+    "details": {
+      "article": "das",
+      "headword": "Öl"
+    },
+    "examples": [
+      "Den Salat machen wir ohne Öl."
+    ]
+  },
+  {
+    "id": "die Oma",
+    "raw_word": "die Oma, -s",
+    "details": {
+      "article": "die",
+      "headword": "Oma",
+      "plural": "-s"
+    },
+    "examples": [
+      "Meine Oma ist schon tot."
+    ]
+  },
+  {
+    "id": "der Opa",
+    "raw_word": "der Opa, -s",
+    "details": {
+      "article": "der",
+      "headword": "Opa",
+      "plural": "-s"
+    },
+    "examples": [
+      "Mein Opa heißt Hans."
+    ]
+  },
+  {
+    "id": "die Ordnung",
+    "raw_word": "die Ordnung",
+    "details": {
+      "article": "die",
+      "headword": "Ordnung"
+    },
+    "examples": [
+      "Das ist in Ordnung."
+    ]
+  },
+  {
+    "id": "der Ort",
+    "raw_word": "der Ort, -e",
+    "details": {
+      "article": "der",
+      "headword": "Ort",
+      "plural": "-e"
+    },
+    "examples": [
+      "Der Ort liegt am Meer."
+    ]
+  },
+  {
+    "id": "das Papier",
+    "raw_word": "das Papier",
+    "details": {
+      "article": "das",
+      "headword": "Papier"
+    },
+    "examples": [
+      "Hier sind Papier und Bleistift."
+    ]
+  },
+  {
+    "id": "die Papiere",
+    "raw_word": "die Papiere (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Papiere",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Haben Sie Ihre Papiere dabei?"
+    ]
+  },
+  {
+    "id": "der Partner",
+    "raw_word": "der Partner, -/ / die Partnerin, -nen",
+    "details": {
+      "article": "der",
+      "headword": "Partner",
+      "plural": "-/",
+      "female_form": {
+        "id": "die Partnerin",
+        "raw_word": "die Partnerin, -nen",
+        "details": {
+          "article": "die",
+          "headword": "Partnerin",
+          "plural": "-nen"
+        }
+      }
+    },
+    "examples": [
+      "Sie ist meine Partnerin."
+    ]
+  },
+  {
+    "id": "die Party",
+    "raw_word": "die Party",
+    "details": {
+      "article": "die",
+      "headword": "Party"
+    },
+    "examples": [
+      "Heute Abend machen wir eine Party."
+    ]
+  },
+  {
+    "id": "der Pass",
+    "raw_word": "der Pass, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Pass",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Im Hotel brauchst du deinen Pass."
+    ]
+  },
+  {
+    "id": "die Pause",
+    "raw_word": "die Pause, -n",
+    "details": {
+      "article": "die",
+      "headword": "Pause",
+      "plural": "-n"
+    },
+    "examples": [
+      "Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
+    ]
+  },
+  {
+    "id": "der Plan",
+    "raw_word": "der Plan, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Plan",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Ich kaufe mir einen Stadtplan."
+    ]
+  },
+  {
+    "id": "der Platz",
+    "raw_word": "der Platz, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Platz",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5."
+    ]
+  },
+  {
+    "id": "die Polizei",
+    "raw_word": "die Polizei",
+    "details": {
+      "article": "die",
+      "headword": "Polizei"
+    },
+    "examples": [
+      "Holen Sie die Polizei!"
+    ]
+  },
+  {
+    "id": "die Pommes frites",
+    "raw_word": "die Pommes frites (Pl.)",
+    "details": {
+      "article": "die",
+      "headword": "Pommes frites",
+      "plural": "(Pl.)"
+    },
+    "examples": [
+      "Die Kinder essen Hähnchen mit Pommes frites."
+    ]
+  },
+  {
+    "id": "die Post",
+    "raw_word": "die Post",
+    "details": {
+      "article": "die",
+      "headword": "Post"
+    },
+    "examples": [
+      "Wo ist die Post, bitte?",
+      "Ist Post da?"
+    ]
+  },
+  {
+    "id": "die Postleitzahl",
+    "raw_word": "die Postleitzahl",
+    "details": {
+      "article": "die",
+      "headword": "Postleitzahl"
+    },
+    "examples": [
+      "Wie ist Ihre Postleitzahl?"
+    ]
+  },
+  {
+    "id": "das Praktikum",
+    "raw_word": "das Praktikum",
+    "details": {
+      "article": "das",
+      "headword": "Praktikum"
+    },
+    "examples": [
+      "Ich mache ein Praktikum bei Siemens."
+    ]
+  },
+  {
+    "id": "die Praxis",
+    "raw_word": "die Praxis",
+    "details": {
+      "article": "die",
+      "headword": "Praxis"
+    },
+    "examples": [
+      "Die Praxis ist ab acht Uhr geöffnet."
+    ]
+  },
+  {
+    "id": "der Preis",
+    "raw_word": "der Preis, -e",
+    "details": {
+      "article": "der",
+      "headword": "Preis",
+      "plural": "-e"
+    },
+    "examples": [
+      "Die Preise sind hoch."
+    ]
+  },
+  {
+    "id": "das Problem",
+    "raw_word": "das Problem, -e",
+    "details": {
+      "article": "das",
+      "headword": "Problem",
+      "plural": "-e"
+    },
+    "examples": [
+      "Mein Problem ist die Sprache."
+    ]
+  },
+  {
+    "id": "der Prospekt",
+    "raw_word": "der Prospekt, -e",
+    "details": {
+      "article": "der",
+      "headword": "Prospekt",
+      "plural": "-e"
+    },
+    "examples": [
+      "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+    ]
+  },
+  {
+    "id": "die Prüfung",
+    "raw_word": "die Prüfung",
+    "details": {
+      "article": "die",
+      "headword": "Prüfung"
+    },
+    "examples": [
+      "Die Prüfung ist am Montag um 8.00 Uhr."
+    ]
+  },
+  {
+    "id": "pünktlich",
+    "raw_word": "pünktlich",
+    "details": {
+      "headword": "pünktlich"
+    },
+    "examples": [
+      "Der Bus fährt pünktlich um acht Uhr.",
+      "Herr Müller ist immer pünktlich."
+    ]
+  },
+  {
+    "id": "Rad fahren",
+    "raw_word": "Rad fahren",
+    "details": {
+      "headword": "Rad fahren"
+    },
+    "examples": [
+      "Das Kind kann schon Rad fahren."
+    ]
+  },
+  {
+    "id": "rauchen",
+    "raw_word": "rauchen",
+    "details": {
+      "headword": "rauchen"
+    },
+    "examples": [
+      "Ich rauche nicht."
+    ]
+  },
+  {
+    "id": "der Raum",
+    "raw_word": "der Raum, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Raum",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Der Unterricht ist in Raum 332."
+    ]
+  },
+  {
+    "id": "die Rechnung",
+    "raw_word": "die Rechnung, -en",
+    "details": {
+      "article": "die",
+      "headword": "Rechnung",
+      "plural": "-en"
+    },
+    "examples": [
+      "Die Rechnung, bitte."
+    ]
+  },
+  {
+    "id": "rechts",
+    "raw_word": "rechts",
+    "details": {
+      "headword": "rechts"
+    },
+    "examples": [
+      "Die Schillerstraße ist hier rechts."
+    ]
+  },
+  {
+    "id": "regnen",
+    "raw_word": "regnen",
+    "details": {
+      "headword": "regnen"
+    },
+    "examples": [
+      "Heute regnet es."
+    ]
+  },
+  {
+    "id": "der Regen",
+    "raw_word": "der Regen",
+    "details": {
+      "article": "der",
+      "headword": "Regen"
+    },
+    "examples": [
+      "Bei diesem Regen gehe ich nicht raus."
+    ]
+  },
+  {
+    "id": "der Reis",
+    "raw_word": "der Reis",
+    "details": {
+      "article": "der",
+      "headword": "Reis"
+    },
+    "examples": [
+      "Ich esse gern Reis."
+    ]
+  },
+  {
+    "id": "reisen",
+    "raw_word": "reisen",
+    "details": {
+      "headword": "reisen"
+    },
+    "examples": [
+      "Ich reise gern."
+    ]
+  },
+  {
+    "id": "die Reise",
+    "raw_word": "die Reise",
+    "details": {
+      "article": "die",
+      "headword": "Reise"
+    },
+    "examples": [
+      "Wir machen eine Reise nach Österreich."
+    ]
+  },
+  {
+    "id": "das Reisebüro",
+    "raw_word": "das Reisebüro, -s",
+    "details": {
+      "article": "das",
+      "headword": "Reisebüro",
+      "plural": "-s"
+    },
+    "examples": [
+      "Mein Mann arbeitet im Reisebüro."
+    ]
+  },
+  {
+    "id": "der Reiseführer",
+    "raw_word": "der Reiseführer",
+    "details": {
+      "article": "der",
+      "headword": "Reiseführer"
+    },
+    "examples": [
+      "Ich kaufe mir einen Reiseführer von Berlin.",
+      "Unser Reiseführer heißt Peter."
+    ]
+  },
+  {
+    "id": "reparieren",
+    "raw_word": "reparieren",
+    "details": {
+      "headword": "reparieren"
+    },
+    "examples": [
+      "Er hat das Fahrrad repariert."
+    ]
+  },
+  {
+    "id": "die Reparatur",
+    "raw_word": "die Reparatur",
+    "details": {
+      "article": "die",
+      "headword": "Reparatur"
+    },
+    "examples": [
+      "Die Reparatur ist sehr teuer."
+    ]
+  },
+  {
+    "id": "das Restaurant",
+    "raw_word": "das Restaurant, -s",
+    "details": {
+      "article": "das",
+      "headword": "Restaurant",
+      "plural": "-s"
+    },
+    "examples": [
+      "Wir essen heute in einem Restaurant."
+    ]
+  },
+  {
+    "id": "die Rezeption",
+    "raw_word": "die Rezeption",
+    "details": {
+      "article": "die",
+      "headword": "Rezeption"
+    },
+    "examples": [
+      "Fragen Sie bitte im Hotel an der Rezeption."
+    ]
+  },
+  {
+    "id": "richtig",
+    "raw_word": "richtig",
+    "details": {
+      "headword": "richtig"
+    },
+    "examples": [
+      "Habe ich das richtig verstanden?",
+      "Das ist richtig."
+    ]
+  },
+  {
+    "id": "riechen",
+    "raw_word": "riechen",
+    "details": {
+      "headword": "riechen"
+    },
+    "examples": [
+      "Dieser Wein riecht gut."
+    ]
+  },
+  {
+    "id": "ruhig",
+    "raw_word": "ruhig",
+    "details": {
+      "headword": "ruhig"
+    },
+    "examples": [
+      "Ich möchte ein ruhiges Zimmer."
+    ]
+  },
+  {
+    "id": "der Saft",
+    "raw_word": "der Saft",
+    "details": {
+      "article": "der",
+      "headword": "Saft"
+    },
+    "examples": [
+      "Möchtest du einen Apfelsaft?"
+    ]
+  },
+  {
+    "id": "sagen",
+    "raw_word": "sagen",
+    "details": {
+      "headword": "sagen"
+    },
+    "examples": [
+      "Sag mal, wie geht es dir denn?"
+    ]
+  },
+  {
+    "id": "der Salat",
+    "raw_word": "der Salat",
+    "details": {
+      "article": "der",
+      "headword": "Salat"
+    },
+    "examples": [
+      "Wie schmeckt dir der Salat?"
+    ]
+  },
+  {
+    "id": "das Salz",
+    "raw_word": "das Salz",
+    "details": {
+      "article": "das",
+      "headword": "Salz"
+    },
+    "examples": [
+      "Herr Ober, kann ich bitte Salz haben?"
+    ]
+  },
+  {
+    "id": "Satz",
+    "raw_word": "Satz, -ä, e",
+    "details": {
+      "headword": "Satz",
+      "conjugation": [
+        "-ä",
+        "e"
+      ]
+    },
+    "examples": [
+      "Dieser Satz ist sehr einfach."
+    ]
+  },
+  {
+    "id": "die S-Bahn",
+    "raw_word": "die S-Bahn",
+    "details": {
+      "article": "die",
+      "headword": "S-Bahn"
+    },
+    "examples": [
+      "Ich nehme lieber die S-Bahn."
+    ]
+  },
+  {
+    "id": "der Schalter",
+    "raw_word": "der Schalter",
+    "details": {
+      "article": "der",
+      "headword": "Schalter"
+    },
+    "examples": [
+      "Gehen Sie bitte zum Schalter drei!"
+    ]
+  },
+  {
+    "id": "scheinen",
+    "raw_word": "scheinen",
+    "details": {
+      "headword": "scheinen"
+    },
+    "examples": [
+      "Die Sonne scheint."
+    ]
+  },
+  {
+    "id": "schicken",
+    "raw_word": "schicken",
+    "details": {
+      "headword": "schicken"
+    },
+    "examples": [
+      "Bitte schicken Sie mir eine E-Mail."
+    ]
+  },
+  {
+    "id": "das Schild",
+    "raw_word": "das Schild, -er",
+    "details": {
+      "article": "das",
+      "headword": "Schild",
+      "plural": "-er"
+    },
+    "examples": [
+      "Haben Sie nicht das Schild gesehen?"
+    ]
+  },
+  {
+    "id": "der Schinken",
+    "raw_word": "der Schinken, –",
+    "details": {
+      "article": "der",
+      "headword": "Schinken",
+      "plural": "–"
+    },
+    "examples": [
+      "Ich möchte gern ein Schinkenbrot."
+    ]
+  },
+  {
+    "id": "schlafen",
+    "raw_word": "schlafen",
+    "details": {
+      "headword": "schlafen"
+    },
+    "examples": [
+      "Ich schlafe meistens acht Stunden."
+    ]
+  },
+  {
+    "id": "schlecht",
+    "raw_word": "schlecht",
+    "details": {
+      "headword": "schlecht"
+    },
+    "examples": [
+      "Mir ist schlecht!",
+      "Sie sehen schlecht aus.",
+      "Wir haben schlechtes Wetter."
+    ]
+  },
+  {
+    "id": "schließen",
+    "raw_word": "schließen",
+    "details": {
+      "headword": "schließen"
+    },
+    "examples": [
+      "Bitte, schließen Sie die Tür."
+    ]
+  },
+  {
+    "id": "geschlossen",
+    "raw_word": "geschlossen",
+    "details": {
+      "headword": "geschlossen"
+    },
+    "examples": [
+      "Die Bank hat am Samstag geschlossen."
+    ]
+  },
+  {
+    "id": "der Schluss",
+    "raw_word": "der Schluss",
+    "details": {
+      "article": "der",
+      "headword": "Schluss"
+    },
+    "examples": [
+      "Ich muss jetzt Schluss machen.",
+      "Zum Schluss gibt er uns allen die Hand."
+    ]
+  },
+  {
+    "id": "der Schlüssel",
+    "raw_word": "der Schlüssel, –",
+    "details": {
+      "article": "der",
+      "headword": "Schlüssel",
+      "plural": "–"
+    },
+    "examples": [
+      "Ich gebe Ihnen noch den Zimmerschlüssel."
+    ]
+  },
+  {
+    "id": "schmecken",
+    "raw_word": "schmecken",
+    "details": {
+      "headword": "schmecken"
+    },
+    "examples": [
+      "Schmeckt das gut?"
+    ]
+  },
+  {
+    "id": "schnell",
+    "raw_word": "schnell",
+    "details": {
+      "headword": "schnell"
+    },
+    "examples": [
+      "Er fährt schnell."
+    ]
+  },
+  {
+    "id": "schon",
+    "raw_word": "schon",
+    "details": {
+      "headword": "schon"
+    },
+    "examples": [
+      "Ist das Essen schon fertig?"
+    ]
+  },
+  {
+    "id": "schön",
+    "raw_word": "schön",
+    "details": {
+      "headword": "schön"
+    },
+    "examples": [
+      "Schönen Urlaub!",
+      "Das ist sehr schön."
+    ]
+  },
+  {
+    "id": "der Schrank",
+    "raw_word": "der Schrank, -ä, e",
+    "details": {
+      "article": "der",
+      "headword": "Schrank",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Die Gläser stehen im Schrank."
+    ]
+  },
+  {
+    "id": "schreiben",
+    "raw_word": "schreiben",
+    "details": {
+      "headword": "schreiben"
+    },
+    "examples": [
+      "Er schreibt jeden Tag fünfzig E-Mails."
+    ]
+  },
+  {
+    "id": "der Schuh",
+    "raw_word": "der Schuh, -e",
+    "details": {
+      "article": "der",
+      "headword": "Schuh",
+      "plural": "-e"
+    },
+    "examples": [
+      "Zieh die Schuhe aus!"
+    ]
+  },
+  {
+    "id": "die Schule",
+    "raw_word": "die Schule",
+    "details": {
+      "article": "die",
+      "headword": "Schule"
+    },
+    "examples": [
+      "Meine Tochter geht schon in die Schule.",
+      "Die Schule ist gleich hier um die Ecke."
+    ]
+  },
+  {
+    "id": "der Schüler",
+    "raw_word": "der Schüler, –",
+    "details": {
+      "article": "der",
+      "headword": "Schüler",
+      "plural": "–"
+    },
+    "examples": [
+      "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
+    ]
+  },
+  {
+    "id": "schwer",
+    "raw_word": "schwer",
+    "details": {
+      "headword": "schwer"
+    },
+    "examples": [
+      "Ist Ihr Gepäck sehr schwer?",
+      "Das ist eine schwere Arbeit."
+    ]
+  },
+  {
+    "id": "die Schwester",
+    "raw_word": "die Schwester, -n",
+    "details": {
+      "article": "die",
+      "headword": "Schwester",
+      "plural": "-n"
+    },
+    "examples": [
+      "Meine Schwester kommt am Dienstag."
+    ]
+  },
+  {
+    "id": "schwimmen",
+    "raw_word": "schwimmen",
+    "details": {
+      "headword": "schwimmen"
+    },
+    "examples": [
+      "Ich schwimme jeden Tag einen Kilometer."
+    ]
+  },
+  {
+    "id": "das Schwimmbad",
+    "raw_word": "das Schwimmbad",
+    "details": {
+      "article": "das",
+      "headword": "Schwimmbad"
+    },
+    "examples": [
+      "Kommst du mit ins Schwimmbad?"
+    ]
+  },
+  {
+    "id": "der See",
+    "raw_word": "der See",
+    "details": {
+      "article": "der",
+      "headword": "See"
+    },
+    "examples": [
+      "Komm, wir fahren zum Starnberger See."
+    ]
+  },
+  {
+    "id": "sehen",
+    "raw_word": "sehen",
+    "details": {
+      "headword": "sehen"
+    },
+    "examples": [
+      "Ich kann dich nicht sehen.",
+      "Ich habe diesen Jungen schon einmal gesehen."
+    ]
+  },
+  {
+    "id": "die Sehenswürdigkeit",
+    "raw_word": "die Sehenswürdigkeit, -en",
+    "details": {
+      "article": "die",
+      "headword": "Sehenswürdigkeit",
+      "plural": "-en"
+    },
+    "examples": [
+      "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+    ]
+  },
+  {
+    "id": "sehr",
+    "raw_word": "sehr",
+    "details": {
+      "headword": "sehr"
+    },
+    "examples": [
+      "Danke sehr!",
+      "Das ist sehr schwer."
+    ]
+  },
+  {
+    "id": "sein",
+    "raw_word": "sein",
+    "details": {
+      "headword": "sein"
+    },
+    "examples": [
+      "Herr Müller ist in seinem Zimmer.",
+      "Mir ist kalt.",
+      "Ich bin dreiundzwanzig."
+    ]
+  },
+  {
+    "id": "an sein",
+    "raw_word": "an sein",
+    "details": {
+      "headword": "an sein"
+    },
+    "examples": [
+      "Das Licht ist noch an."
+    ]
+  },
+  {
+    "id": "auf sein",
+    "raw_word": "auf sein",
+    "details": {
+      "headword": "auf sein"
+    },
+    "examples": [
+      "Das Fenster ist noch auf."
+    ]
+  },
+  {
+    "id": "weg sein",
+    "raw_word": "weg sein",
+    "details": {
+      "headword": "weg sein"
+    },
+    "examples": [
+      "Herr Meier ist schon weg."
+    ]
+  },
+  {
+    "id": "zu sein",
+    "raw_word": "zu sein",
+    "details": {
+      "headword": "zu sein"
+    },
+    "examples": [
+      "Die Tür ist zu."
+    ]
+  },
+  {
+    "id": "seit",
+    "raw_word": "seit",
+    "details": {
+      "headword": "seit"
+    },
+    "examples": [
+      "Ich wohne seit drei Jahren in Köln."
+    ]
+  },
+  {
+    "id": "selbstständig",
+    "raw_word": "selbstständig",
+    "details": {
+      "headword": "selbstständig"
+    },
+    "examples": [
+      "Er ist selbstständig."
+    ]
+  },
+  {
+    "id": "sich",
+    "raw_word": "sich",
+    "details": {
+      "headword": "sich"
+    },
+    "examples": [
+      "Sie müssen sich erst anmelden."
+    ]
+  },
+  {
+    "id": "sie",
+    "raw_word": "sie",
+    "details": {
+      "headword": "sie"
+    },
+    "examples": [
+      "Wie heißt sie?"
+    ]
+  },
+  {
+    "id": "Sie",
+    "raw_word": "Sie",
+    "details": {
+      "headword": "Sie"
+    },
+    "examples": [
+      "Wie heißen Sie, bitte?"
+    ]
+  },
+  {
+    "id": "sitzen",
+    "raw_word": "sitzen",
+    "details": {
+      "headword": "sitzen"
+    },
+    "examples": [
+      "Wo sitzen Sie?"
+    ]
+  },
+  {
+    "id": "so",
+    "raw_word": "so",
+    "details": {
+      "headword": "so"
+    },
+    "examples": [
+      "Sie müssen das so machen!",
+      "Fahren Sie bitte nicht so schnell!",
+      "Meine Frau ist so groß wie ich.",
+      "So, das war‘s/wär‘s!"
+    ]
+  },
+  {
+    "id": "das Sofa",
+    "raw_word": "das Sofa",
+    "details": {
+      "article": "das",
+      "headword": "Sofa"
+    },
+    "examples": [
+      "Das Sofa ist neu."
+    ]
+  },
+  {
+    "id": "sofort",
+    "raw_word": "sofort",
+    "details": {
+      "headword": "sofort"
+    },
+    "examples": [
+      "Bitte antworten Sie sofort."
+    ]
+  },
+  {
+    "id": "der Sohn",
+    "raw_word": "der Sohn, -ö, e",
+    "details": {
+      "article": "der",
+      "headword": "Sohn",
+      "plural": "-ö"
+    },
+    "examples": [
+      "Das ist Hans, mein Sohn."
+    ]
+  },
+  {
+    "id": "sollen",
+    "raw_word": "sollen",
+    "details": {
+      "headword": "sollen"
+    },
+    "examples": [
+      "Soll ich kommen?",
+      "Was soll ich mitbringen?"
+    ]
+  },
+  {
+    "id": "die Sonne",
+    "raw_word": "die Sonne",
+    "details": {
+      "article": "die",
+      "headword": "Sonne"
+    },
+    "examples": [
+      "Die Sonne scheint."
+    ]
+  },
+  {
+    "id": "spät",
+    "raw_word": "spät",
+    "details": {
+      "headword": "spät"
+    },
+    "examples": [
+      "Es ist schon spät, ich muss gehen."
+    ]
+  },
+  {
+    "id": "später",
+    "raw_word": "später",
+    "details": {
+      "headword": "später"
+    },
+    "examples": [
+      "Das können wir später machen."
+    ]
+  },
+  {
+    "id": "die Speisekarte",
+    "raw_word": "die Speisekarte",
+    "details": {
+      "article": "die",
+      "headword": "Speisekarte"
+    },
+    "examples": [
+      "Bringen Sie mir die Speisekarte, bitte."
+    ]
+  },
+  {
+    "id": "spielen",
+    "raw_word": "spielen",
+    "details": {
+      "headword": "spielen"
+    },
+    "examples": [
+      "Die Kinder spielen draußen.",
+      "Spielen Sie Karten?"
+    ]
+  },
+  {
+    "id": "der Sport",
+    "raw_word": "der Sport",
+    "details": {
+      "article": "der",
+      "headword": "Sport"
+    },
+    "examples": [
+      "Ich mache viel Sport."
+    ]
+  },
+  {
+    "id": "die Sprache",
+    "raw_word": "die Sprache, -n",
+    "details": {
+      "article": "die",
+      "headword": "Sprache",
+      "plural": "-n"
+    },
+    "examples": [
+      "Welche Sprachen sprichst du?"
+    ]
+  },
+  {
+    "id": "sprechen",
+    "raw_word": "sprechen",
+    "details": {
+      "headword": "sprechen"
+    },
+    "examples": [
+      "Kann ich (mit) Herrn Klein sprechen?"
+    ]
+  },
+  {
+    "id": "die Stadt",
+    "raw_word": "die Stadt, -ä, e",
+    "details": {
+      "article": "die",
+      "headword": "Stadt",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Heidelberg ist eine alte Stadt."
+    ]
+  },
+  {
+    "id": "stehen",
+    "raw_word": "stehen",
+    "details": {
+      "headword": "stehen"
+    },
+    "examples": [
+      "Ich glaube es nicht, aber es steht in der Zeitung.",
+      "Der Bus steht schon an der Haltestelle."
+    ]
+  },
+  {
+    "id": "die Stelle",
+    "raw_word": "die Stelle, -n",
+    "details": {
+      "article": "die",
+      "headword": "Stelle",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe eine neue Stelle."
+    ]
+  },
+  {
+    "id": "stellen",
+    "raw_word": "stellen",
+    "details": {
+      "headword": "stellen"
+    },
+    "examples": [
+      "Stell die Tasche rechts in die Ecke!"
+    ]
+  },
+  {
+    "id": "der Stock",
+    "raw_word": "der Stock",
+    "details": {
+      "article": "der",
+      "headword": "Stock"
+    },
+    "examples": [
+      "Unsere Wohnung liegt im ersten Stock."
+    ]
+  },
+  {
+    "id": "die Straße",
+    "raw_word": "die Straße, -n",
+    "details": {
+      "article": "die",
+      "headword": "Straße",
+      "plural": "-n"
+    },
+    "examples": [
+      "In welcher Straße wohnen Sie?"
+    ]
+  },
+  {
+    "id": "die Straßenbahn",
+    "raw_word": "die Straßenbahn",
+    "details": {
+      "article": "die",
+      "headword": "Straßenbahn"
+    },
+    "examples": [
+      "Wo fährt die Straßenbahn ab?"
+    ]
+  },
+  {
+    "id": "studieren",
+    "raw_word": "studieren",
+    "details": {
+      "headword": "studieren"
+    },
+    "examples": [
+      "Ich studiere in Mainz."
+    ]
+  },
+  {
+    "id": "das Studium",
+    "raw_word": "das Studium",
+    "details": {
+      "article": "das",
+      "headword": "Studium"
+    },
+    "examples": [
+      "Das Studium beginnt im Oktober."
+    ]
+  },
+  {
+    "id": "der Student",
+    "raw_word": "der Student, -en",
+    "details": {
+      "article": "der",
+      "headword": "Student",
+      "plural": "-en"
+    },
+    "examples": [
+      "Ich bin Studentin."
+    ]
+  },
+  {
+    "id": "die Stunde",
+    "raw_word": "die Stunde, -n",
+    "details": {
+      "article": "die",
+      "headword": "Stunde",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich bin in einer Stunde zurück."
+    ]
+  },
+  {
+    "id": "suchen",
+    "raw_word": "suchen",
+    "details": {
+      "headword": "suchen"
+    },
+    "examples": [
+      "Suchst du etwas?"
+    ]
+  },
+  {
+    "id": "tanzen",
+    "raw_word": "tanzen",
+    "details": {
+      "headword": "tanzen"
+    },
+    "examples": [
+      "Tanzen Sie gern?"
+    ]
+  },
+  {
+    "id": "die Tasche",
+    "raw_word": "die Tasche, -n",
+    "details": {
+      "article": "die",
+      "headword": "Tasche",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich habe die Schlüssel in der Tasche."
+    ]
+  },
+  {
+    "id": "das Taxi",
+    "raw_word": "das Taxi, -s",
+    "details": {
+      "article": "das",
+      "headword": "Taxi",
+      "plural": "-s"
+    },
+    "examples": [
+      "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
+    ]
+  },
+  {
+    "id": "der Tee",
+    "raw_word": "der Tee",
+    "details": {
+      "article": "der",
+      "headword": "Tee"
+    },
+    "examples": [
+      "Ich trinke morgens immer Tee."
+    ]
+  },
+  {
+    "id": "der Teil",
+    "raw_word": "der Teil, -e",
+    "details": {
+      "article": "der",
+      "headword": "Teil",
+      "plural": "-e"
+    },
+    "examples": [
+      "Lies bitte auch den zweiten Teil."
+    ]
+  },
+  {
+    "id": "telefonieren",
+    "raw_word": "telefonieren",
+    "details": {
+      "headword": "telefonieren"
+    },
+    "examples": [
+      "Darf ich mal telefonieren?"
+    ]
+  },
+  {
+    "id": "das Telefon",
+    "raw_word": "das Telefon",
+    "details": {
+      "article": "das",
+      "headword": "Telefon"
+    },
+    "examples": [
+      "Haben Sie Telefon?"
+    ]
+  },
+  {
+    "id": "der Termin",
+    "raw_word": "der Termin, -e",
+    "details": {
+      "article": "der",
+      "headword": "Termin",
+      "plural": "-e"
+    },
+    "examples": [
+      "Am besten machen wir sofort einen Termin."
+    ]
+  },
+  {
+    "id": "der Test",
+    "raw_word": "der Test",
+    "details": {
+      "article": "der",
+      "headword": "Test"
+    },
+    "examples": [
+      "Der Test war einfach."
+    ]
+  },
+  {
+    "id": "teuer",
+    "raw_word": "teuer",
+    "details": {
+      "headword": "teuer"
+    },
+    "examples": [
+      "Das ist mir zu teuer."
+    ]
+  },
+  {
+    "id": "der Text",
+    "raw_word": "der Text, -e",
+    "details": {
+      "article": "der",
+      "headword": "Text",
+      "plural": "-e"
+    },
+    "examples": [
+      "Lesen Sie bitte diesen Text."
+    ]
+  },
+  {
+    "id": "das Thema",
+    "raw_word": "das Thema",
+    "details": {
+      "article": "das",
+      "headword": "Thema"
+    },
+    "examples": [
+      "Wir sprechen heute über das Thema „Essen und Trinken“."
+    ]
+  },
+  {
+    "id": "das Ticket",
+    "raw_word": "das Ticket, -s",
+    "details": {
+      "article": "das",
+      "headword": "Ticket",
+      "plural": "-s"
+    },
+    "examples": [
+      "Wie viel kostet das Ticket?"
+    ]
+  },
+  {
+    "id": "der Tisch",
+    "raw_word": "der Tisch, -e",
+    "details": {
+      "article": "der",
+      "headword": "Tisch",
+      "plural": "-e"
+    },
+    "examples": [
+      "Die Fotos liegen auf dem Tisch."
+    ]
+  },
+  {
+    "id": "die Tochter",
+    "raw_word": "die Tochter, -ö",
+    "details": {
+      "article": "die",
+      "headword": "Tochter",
+      "plural": "-ö"
+    },
+    "examples": [
+      "Das ist meine Tochter Katharina."
+    ]
+  },
+  {
+    "id": "die Toilette",
+    "raw_word": "die Toilette, -en",
+    "details": {
+      "article": "die",
+      "headword": "Toilette",
+      "plural": "-en"
+    },
+    "examples": [
+      "Wo ist die Toilette, bitte?"
+    ]
+  },
+  {
+    "id": "die Tomate",
+    "raw_word": "die Tomate, -n",
+    "details": {
+      "article": "die",
+      "headword": "Tomate",
+      "plural": "-n"
+    },
+    "examples": [
+      "Die Tomate ist noch grün."
+    ]
+  },
+  {
+    "id": "tot",
+    "raw_word": "tot",
+    "details": {
+      "headword": "tot"
+    },
+    "examples": [
+      "Sein Vater ist schon lange tot."
+    ]
+  },
+  {
+    "id": "(sich) treffen",
+    "raw_word": "(sich) treffen",
+    "details": {
+      "headword": "(sich) treffen"
+    },
+    "examples": [
+      "Ich treffe in der Stadt einen Kollegen.",
+      "Wir treffen uns immer freitags."
+    ]
+  },
+  {
+    "id": "die Treppe",
+    "raw_word": "die Treppe, -n",
+    "details": {
+      "article": "die",
+      "headword": "Treppe",
+      "plural": "-n"
+    },
+    "examples": [
+      "Die Toilette? Die Treppe hoch und dann links."
+    ]
+  },
+  {
+    "id": "trinken",
+    "raw_word": "trinken",
+    "details": {
+      "headword": "trinken"
+    },
+    "examples": [
+      "Möchtest du etwas trinken?"
+    ]
+  },
+  {
+    "id": "tschüss",
+    "raw_word": "tschüss",
+    "details": {
+      "headword": "tschüss"
+    },
+    "examples": [
+      "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“."
+    ]
+  },
+  {
+    "id": "tun",
+    "raw_word": "tun",
+    "details": {
+      "headword": "tun"
+    },
+    "examples": [
+      "Ich habe noch etwas zu tun.",
+      "Was tut Ihr Mann?"
+    ]
+  },
+  {
+    "id": "über",
+    "raw_word": "über",
+    "details": {
+      "headword": "über"
+    },
+    "examples": [
+      "Gehen Sie hier über die Straße.",
+      "Er wohnt im zweiten Stock über Familie Meier.",
+      "Sind Sie über 18?"
+    ]
+  },
+  {
+    "id": "übernachten",
+    "raw_word": "übernachten",
+    "details": {
+      "headword": "übernachten"
+    },
+    "examples": [
+      "Du kannst bei mir übernachten."
+    ]
+  },
+  {
+    "id": "überweisen",
+    "raw_word": "überweisen",
+    "details": {
+      "headword": "überweisen"
+    },
+    "examples": [
+      "Sie können das Geld auch überweisen."
+    ]
+  },
+  {
+    "id": "die Uhr",
+    "raw_word": "die Uhr",
+    "details": {
+      "article": "die",
+      "headword": "Uhr"
+    },
+    "examples": [
+      "Es ist vier Uhr."
+    ]
+  },
+  {
+    "id": "um",
+    "raw_word": "um",
+    "details": {
+      "headword": "um"
+    },
+    "examples": [
+      "Er kommt um sieben Uhr.",
+      "Da kommt er gerade um die Ecke."
+    ]
+  },
+  {
+    "id": "umziehen",
+    "raw_word": "umziehen",
+    "details": {
+      "headword": "umziehen"
+    },
+    "examples": [
+      "Nächsten Monat ziehen wir um."
+    ]
+  },
+  {
+    "id": "und",
+    "raw_word": "und",
+    "details": {
+      "headword": "und"
+    },
+    "examples": [
+      "Peter und Helmut sind meine Söhne."
+    ]
+  },
+  {
+    "id": "unser-",
+    "raw_word": "unser-",
+    "details": {
+      "headword": "unser-"
+    },
+    "examples": [
+      "Das ist unsere Lehrerin."
+    ]
+  },
+  {
+    "id": "unten",
+    "raw_word": "unten",
+    "details": {
+      "headword": "unten"
+    },
+    "examples": [
+      "Er wohnt ganz unten im Haus."
+    ]
+  },
+  {
+    "id": "unter",
+    "raw_word": "unter",
+    "details": {
+      "headword": "unter"
+    },
+    "examples": [
+      "Unter uns wohnt eine Familie mit drei Kindern."
+    ]
+  },
+  {
+    "id": "der Unterricht",
+    "raw_word": "der Unterricht",
+    "details": {
+      "article": "der",
+      "headword": "Unterricht"
+    },
+    "examples": [
+      "Wir haben Unterricht von 8.00 bis 12.00 Uhr."
+    ]
+  },
+  {
+    "id": "unterschreiben",
+    "raw_word": "unterschreiben",
+    "details": {
+      "headword": "unterschreiben"
+    },
+    "examples": [
+      "Wo muss ich unterschreiben?"
+    ]
+  },
+  {
+    "id": "die Unterschrift",
+    "raw_word": "die Unterschrift",
+    "details": {
+      "article": "die",
+      "headword": "Unterschrift"
+    },
+    "examples": [
+      "Hier fehlt noch Ihre Unterschrift."
+    ]
+  },
+  {
+    "id": "der Urlaub",
+    "raw_word": "der Urlaub",
+    "details": {
+      "article": "der",
+      "headword": "Urlaub"
+    },
+    "examples": [
+      "Ich nehme im September Urlaub."
+    ]
+  },
+  {
+    "id": "der Vater",
+    "raw_word": "der Vater, -ä",
+    "details": {
+      "article": "der",
+      "headword": "Vater",
+      "plural": "-ä"
+    },
+    "examples": [
+      "Mein Vater ist Arbeiter."
+    ]
+  },
+  {
+    "id": "verboten",
+    "raw_word": "verboten",
+    "details": {
+      "headword": "verboten"
+    },
+    "examples": [
+      "Hier ist Rauchen verboten."
+    ]
+  },
+  {
+    "id": "verdienen",
+    "raw_word": "verdienen",
+    "details": {
+      "headword": "verdienen"
+    },
+    "examples": [
+      "Ich verdiene 1.500 Euro im Monat."
+    ]
+  },
+  {
+    "id": "der Verein",
+    "raw_word": "der Verein",
+    "details": {
+      "article": "der",
+      "headword": "Verein"
+    },
+    "examples": [
+      "Es gibt einen neuen Sportverein in der Stadt."
+    ]
+  },
+  {
+    "id": "verheiratet",
+    "raw_word": "verheiratet",
+    "details": {
+      "headword": "verheiratet"
+    },
+    "examples": [
+      "Ich bin verheiratet und habe drei Kinder."
+    ]
+  },
+  {
+    "id": "verkaufen",
+    "raw_word": "verkaufen",
+    "details": {
+      "headword": "verkaufen"
+    },
+    "examples": [
+      "Er verkauft sein altes Auto."
+    ]
+  },
+  {
+    "id": "der Verkäufer",
+    "raw_word": "der Verkäufer, –",
+    "details": {
+      "article": "der",
+      "headword": "Verkäufer",
+      "plural": "–"
+    },
+    "examples": [
+      "Meine Mutter ist Verkäuferin im Kaufhaus."
+    ]
+  },
+  {
+    "id": "vermieten",
+    "raw_word": "vermieten",
+    "details": {
+      "headword": "vermieten"
+    },
+    "examples": [
+      "Die Wohnung ist schon vermietet."
+    ]
+  },
+  {
+    "id": "der Vermieter",
+    "raw_word": "der Vermieter",
+    "details": {
+      "article": "der",
+      "headword": "Vermieter"
+    },
+    "examples": [
+      "Unser Vermieter heißt Huber. Er wohnt auch hier."
+    ]
+  },
+  {
+    "id": "verstehen",
+    "raw_word": "verstehen",
+    "details": {
+      "headword": "verstehen"
+    },
+    "examples": [
+      "Können Sie mich verstehen?"
+    ]
+  },
+  {
+    "id": "der Verwandte",
+    "raw_word": "der Verwandte, -n",
+    "details": {
+      "article": "der",
+      "headword": "Verwandte",
+      "plural": "-n"
+    },
+    "examples": [
+      "Peter besucht seine Verwandten in Polen."
+    ]
+  },
+  {
+    "id": "viel",
+    "raw_word": "viel",
+    "details": {
+      "headword": "viel"
+    },
+    "examples": [
+      "Hier regnet es viel."
+    ]
+  },
+  {
+    "id": "vielleicht",
+    "raw_word": "vielleicht",
+    "details": {
+      "headword": "vielleicht"
+    },
+    "examples": [
+      "Ich komme vielleicht mit dem Bus."
+    ]
+  },
+  {
+    "id": "von",
+    "raw_word": "von",
+    "details": {
+      "headword": "von"
+    },
+    "examples": [
+      "Das Auto von Felix ist kaputt.",
+      "Er kommt gerade von Köln/von zu Hause."
+    ]
+  },
+  {
+    "id": "vor",
+    "raw_word": "vor",
+    "details": {
+      "headword": "vor"
+    },
+    "examples": [
+      "Der Termin war vor einer Stunde.",
+      "Das Auto steht vor der Tür."
+    ]
+  },
+  {
+    "id": "der Vorname",
+    "raw_word": "der Vorname, -n",
+    "details": {
+      "article": "der",
+      "headword": "Vorname",
+      "plural": "-n"
+    },
+    "examples": [
+      "Ich heiße Müller, mein Vorname ist Eva."
+    ]
+  },
+  {
+    "id": "die Vorsicht",
+    "raw_word": "die Vorsicht",
+    "details": {
+      "article": "die",
+      "headword": "Vorsicht"
+    },
+    "examples": [
+      "Vorsicht! Da kommt ein Auto."
+    ]
+  },
+  {
+    "id": "(sich) vorstellen",
+    "raw_word": "(sich) vorstellen",
+    "details": {
+      "headword": "(sich) vorstellen"
+    },
+    "examples": [
+      "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?"
+    ]
+  },
+  {
+    "id": "die Vorwahl",
+    "raw_word": "die Vorwahl",
+    "details": {
+      "article": "die",
+      "headword": "Vorwahl"
+    },
+    "examples": [
+      "Wie ist die Vorwahl von München?"
+    ]
+  },
+  {
+    "id": "wandern",
+    "raw_word": "wandern",
+    "details": {
+      "headword": "wandern"
+    },
+    "examples": [
+      "Wir wandern um den Chiemsee."
+    ]
+  },
+  {
+    "id": "wann",
+    "raw_word": "wann",
+    "details": {
+      "headword": "wann"
+    },
+    "examples": [
+      "Wann bist du fertig?",
+      "Wann kann ich Sie anrufen?",
+      "Wann sind Sie geboren?"
+    ]
+  },
+  {
+    "id": "warten",
+    "raw_word": "warten",
+    "details": {
+      "headword": "warten"
+    },
+    "examples": [
+      "Können Sie ein paar Minuten warten?",
+      "Auf wen warten Sie?"
+    ]
+  },
+  {
+    "id": "warum",
+    "raw_word": "warum",
+    "details": {
+      "headword": "warum"
+    },
+    "examples": [
+      "Warum kommt er nicht?"
+    ]
+  },
+  {
+    "id": "was",
+    "raw_word": "was",
+    "details": {
+      "headword": "was"
+    },
+    "examples": [
+      "Was ist das?",
+      "Was möchten Sie?"
+    ]
+  },
+  {
+    "id": "was für ein",
+    "raw_word": "was für ein",
+    "details": {
+      "headword": "was für ein"
+    },
+    "examples": [
+      "Was für eine Farbe möchten Sie?"
+    ]
+  },
+  {
+    "id": "(sich) waschen",
+    "raw_word": "(sich) waschen",
+    "details": {
+      "headword": "(sich) waschen"
+    },
+    "examples": [
+      "Wo kann ich mir die Hände waschen?",
+      "Ich muss morgen waschen."
+    ]
+  },
+  {
+    "id": "das Wasser",
+    "raw_word": "das Wasser",
+    "details": {
+      "article": "das",
+      "headword": "Wasser"
+    },
+    "examples": [
+      "Ein Glas Wasser, bitte."
+    ]
+  },
+  {
+    "id": "weh tun",
+    "raw_word": "weh tun",
+    "details": {
+      "headword": "weh tun"
+    },
+    "examples": [
+      "Ich muss zum Arzt. Mein Bein tut weh."
+    ]
+  },
+  {
+    "id": "weiblich",
+    "raw_word": "weiblich",
+    "details": {
+      "headword": "weiblich"
+    },
+    "examples": [
+      "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+    ]
+  },
+  {
+    "id": "der Wein",
+    "raw_word": "der Wein",
+    "details": {
+      "article": "der",
+      "headword": "Wein"
+    },
+    "examples": [
+      "Nein danke, ich möchte keinen Wein."
+    ]
+  },
+  {
+    "id": "weit",
+    "raw_word": "weit",
+    "details": {
+      "headword": "weit"
+    },
+    "examples": [
+      "Zum Bahnhof ist es nicht weit."
+    ]
+  },
+  {
+    "id": "weiter",
+    "raw_word": "weiter",
+    "details": {
+      "headword": "weiter"
+    },
+    "examples": [
+      "Der Bus fährt nicht weiter."
+    ]
+  },
+  {
+    "id": "welch-",
+    "raw_word": "welch-",
+    "details": {
+      "headword": "welch-"
+    },
+    "examples": [
+      "Welches Buch möchtest du?"
+    ]
+  },
+  {
+    "id": "die Welt",
+    "raw_word": "die Welt",
+    "details": {
+      "article": "die",
+      "headword": "Welt"
+    },
+    "examples": [
+      "Es gibt viele Probleme auf der Welt."
+    ]
+  },
+  {
+    "id": "wenig",
+    "raw_word": "wenig",
+    "details": {
+      "headword": "wenig"
+    },
+    "examples": [
+      "Ich habe leider nur wenig verstanden.",
+      "Er verdient wenig."
+    ]
+  },
+  {
+    "id": "wer",
+    "raw_word": "wer",
+    "details": {
+      "headword": "wer"
+    },
+    "examples": [
+      "Wer ist das?"
+    ]
+  },
+  {
+    "id": "werden",
+    "raw_word": "werden",
+    "details": {
+      "headword": "werden"
+    },
+    "examples": [
+      "Mein Sohn will Arzt werden."
+    ]
+  },
+  {
+    "id": "das Wetter",
+    "raw_word": "das Wetter",
+    "details": {
+      "article": "das",
+      "headword": "Wetter"
+    },
+    "examples": [
+      "Wir hatten schlechtes Wetter."
+    ]
+  },
+  {
+    "id": "wichtig",
+    "raw_word": "wichtig",
+    "details": {
+      "headword": "wichtig"
+    },
+    "examples": [
+      "Dieses Formular ist sehr wichtig."
+    ]
+  },
+  {
+    "id": "wie",
+    "raw_word": "wie",
+    "details": {
+      "headword": "wie"
+    },
+    "examples": [
+      "Wie heißt du?",
+      "Er schreibt wie ein Kind.",
+      "Meine Frau ist so groß wie ich.",
+      "Wie soll ich das machen?",
+      "Wie groß ist die Wohnung?",
+      "Wie bitte?",
+      "Wie lange bist du schon hier?"
+    ]
+  },
+  {
+    "id": "wiederholen",
+    "raw_word": "wiederholen",
+    "details": {
+      "headword": "wiederholen"
+    },
+    "examples": [
+      "Können Sie das bitte wiederholen?"
+    ]
+  },
+  {
+    "id": "das Wiederhören",
+    "raw_word": "das Wiederhören",
+    "details": {
+      "article": "das",
+      "headword": "Wiederhören"
+    },
+    "examples": [
+      "Wir müssen jetzt Schluss machen.",
+      "Also auf Wiederhören!"
+    ]
+  },
+  {
+    "id": "das Wiedersehen",
+    "raw_word": "das Wiedersehen",
+    "details": {
+      "article": "das",
+      "headword": "Wiedersehen"
+    },
+    "examples": [
+      "Auf Wiedersehen!"
+    ]
+  },
+  {
+    "id": "wie viel",
+    "raw_word": "wie viel",
+    "details": {
+      "headword": "wie viel"
+    },
+    "examples": [
+      "Wie viel Milch nehmen Sie?"
+    ]
+  },
+  {
+    "id": "willkommen",
+    "raw_word": "willkommen",
+    "details": {
+      "headword": "willkommen"
+    },
+    "examples": [
+      "Herzlich willkommen!"
+    ]
+  },
+  {
+    "id": "der Wind",
+    "raw_word": "der Wind",
+    "details": {
+      "article": "der",
+      "headword": "Wind"
+    },
+    "examples": [
+      "Der Wind kommt aus Osten."
+    ]
+  },
+  {
+    "id": "wir",
+    "raw_word": "wir",
+    "details": {
+      "headword": "wir"
+    },
+    "examples": [
+      "Wir lernen Deutsch."
+    ]
+  },
+  {
+    "id": "wissen",
+    "raw_word": "wissen",
+    "details": {
+      "headword": "wissen"
+    },
+    "examples": [
+      "Weißt du, wie er heißt?"
+    ]
+  },
+  {
+    "id": "wo",
+    "raw_word": "wo",
+    "details": {
+      "headword": "wo"
+    },
+    "examples": [
+      "Wo waren Sie im Urlaub?",
+      "Wo ist die Post?",
+      "Wo sind Sie geboren?"
+    ]
+  },
+  {
+    "id": "woher",
+    "raw_word": "woher",
+    "details": {
+      "headword": "woher"
+    },
+    "examples": [
+      "Woher kommen Sie?"
+    ]
+  },
+  {
+    "id": "wohin",
+    "raw_word": "wohin",
+    "details": {
+      "headword": "wohin"
+    },
+    "examples": [
+      "Wohin fährt dieser Bus?",
+      "Wohin wollen Sie am Wochenende?"
+    ]
+  },
+  {
+    "id": "wohnen",
+    "raw_word": "wohnen",
+    "details": {
+      "headword": "wohnen"
+    },
+    "examples": [
+      "Ich wohne in München."
+    ]
+  },
+  {
+    "id": "die Wohnung",
+    "raw_word": "die Wohnung, -en",
+    "details": {
+      "article": "die",
+      "headword": "Wohnung",
+      "plural": "-en"
+    },
+    "examples": [
+      "Seit wann haben Sie diese Wohnung?"
+    ]
+  },
+  {
+    "id": "wollen",
+    "raw_word": "wollen",
+    "details": {
+      "headword": "wollen"
+    },
+    "examples": [
+      "Wollen Sie einen Kaffee trinken?"
+    ]
+  },
+  {
+    "id": "das Wort",
+    "raw_word": "das Wort, -ö, er/-e",
+    "details": {
+      "article": "das",
+      "headword": "Wort",
+      "plural": "-ö"
+    },
+    "examples": [
+      "Ich kenne das Wort nicht."
+    ]
+  },
+  {
+    "id": "wunderbar",
+    "raw_word": "wunderbar",
+    "details": {
+      "headword": "wunderbar"
+    },
+    "examples": [
+      "Das Essen schmeckt wunderbar."
+    ]
+  },
+  {
+    "id": "zahlen",
+    "raw_word": "zahlen",
+    "details": {
+      "headword": "zahlen"
+    },
+    "examples": [
+      "Zahlen, bitte!"
+    ]
+  },
+  {
+    "id": "die Zeit",
+    "raw_word": "die Zeit",
+    "details": {
+      "article": "die",
+      "headword": "Zeit"
+    },
+    "examples": [
+      "Ich habe heute keine Zeit."
+    ]
+  },
+  {
+    "id": "zurzeit",
+    "raw_word": "zurzeit",
+    "details": {
+      "headword": "zurzeit"
+    },
+    "examples": [
+      "Zurzeit habe ich sehr viel zu tun."
+    ]
+  },
+  {
+    "id": "die Zeitung",
+    "raw_word": "die Zeitung, -en",
+    "details": {
+      "article": "die",
+      "headword": "Zeitung",
+      "plural": "-en"
+    },
+    "examples": [
+      "Ich lese gern Zeitung."
+    ]
+  },
+  {
+    "id": "die Zigarette",
+    "raw_word": "die Zigarette, -n",
+    "details": {
+      "article": "die",
+      "headword": "Zigarette",
+      "plural": "-n"
+    },
+    "examples": [
+      "Wie teuer sind die Zigaretten?"
+    ]
+  },
+  {
+    "id": "das Zimmer",
+    "raw_word": "das Zimmer, –",
+    "details": {
+      "article": "das",
+      "headword": "Zimmer",
+      "plural": "–"
+    },
+    "examples": [
+      "Das Zimmer ist groß.",
+      "Öffne im Schlafzimmer das Fenster, bitte!",
+      "Die Wohnung hat drei Zimmer.",
+      "Ich habe ein Zimmer bestellt."
+    ]
+  },
+  {
+    "id": "der Zoll",
+    "raw_word": "der Zoll",
+    "details": {
+      "article": "der",
+      "headword": "Zoll"
+    },
+    "examples": [
+      "Wir müssen noch durch den Zoll."
+    ]
+  },
+  {
+    "id": "zu",
+    "raw_word": "zu",
+    "details": {
+      "headword": "zu"
+    },
+    "examples": [
+      "Der Bus fährt zum Bahnhof.",
+      "Ich gehe zu Fuß.",
+      "Ich bin zu Hause."
+    ]
+  },
+  {
+    "id": "zufrieden",
+    "raw_word": "zufrieden",
+    "details": {
+      "headword": "zufrieden"
+    },
+    "examples": [
+      "Ich bin mit der Wohnung zufrieden."
+    ]
+  },
+  {
+    "id": "der Zug",
+    "raw_word": "der Zug, -ü, e",
+    "details": {
+      "article": "der",
+      "headword": "Zug",
+      "plural": "-ü"
+    },
+    "examples": [
+      "Ich fahre gern mit dem Zug."
+    ]
+  },
+  {
+    "id": "zurück",
+    "raw_word": "zurück",
+    "details": {
+      "headword": "zurück"
+    },
+    "examples": [
+      "Einmal Frankfurt und zurück.",
+      "Wann kommst du zurück?"
+    ]
+  },
+  {
+    "id": "zusammen",
+    "raw_word": "zusammen",
+    "details": {
+      "headword": "zusammen"
+    },
+    "examples": [
+      "Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80."
+    ]
+  },
+  {
+    "id": "zwischen",
+    "raw_word": "zwischen",
+    "details": {
+      "headword": "zwischen"
+    },
+    "examples": [
+      "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+      "Zwischen 8 und 10 Uhr bin ich zu Hause."
+    ]
+  }
+]
