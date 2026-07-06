@@ -71,7 +71,7 @@
     },
     "examples": [
       "Unser Urlaub war ein tolles Abenteuer.",
-      "Die Kinder lieben Aben- teuergeschichten."
+      "Die Kinder lieben Abenteuergeschichten."
     ]
   },
   {
@@ -170,12 +170,12 @@
     ]
   },
   {
-    "id": "Abgase (Pl.)",
+    "id": "Abgase",
     "raw_word": "Abgase (Pl.)",
     "details": {
       "article": null,
       "headword": "Abgase",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -804,7 +804,7 @@
       "female_form": null
     },
     "examples": [
-      "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktiv- itäten."
+      "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten."
     ]
   },
   {
@@ -2160,7 +2160,7 @@
   },
   {
     "id": "anwenden",
-    "raw_word": "anwenden, wendet an, wandte an, hat ange- wandt/angewendet",
+    "raw_word": "anwenden, wendet an, wandte an, hat angewandt/angewendet",
     "details": {
       "article": null,
       "headword": "anwenden",
@@ -2168,7 +2168,7 @@
       "conjugation": [
         "wendet an",
         "wandte an",
-        "hat ange- wandt/angewendet"
+        "hat angewandt/angewendet"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -2198,7 +2198,7 @@
   },
   {
     "id": "antworten",
-    "raw_word": "antworten, antwortet, antwortete, hat geant- wortet",
+    "raw_word": "antworten, antwortet, antwortete, hat geantwortet",
     "details": {
       "article": null,
       "headword": "antworten",
@@ -2206,7 +2206,7 @@
       "conjugation": [
         "antwortet",
         "antwortete",
-        "hat geant- wortet"
+        "hat geantwortet"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -3198,7 +3198,7 @@
       "female_form": null
     },
     "examples": [
-      "Vor meinem Urlaub muss ich unbed- ingt noch meinen Schreibtisch aufräumen."
+      "Vor meinem Urlaub muss ich unbedingt noch meinen Schreibtisch aufräumen."
     ]
   },
   {
@@ -3398,7 +3398,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich wollte gerade parken. In dem Au- genblick ist ein Wagen aus der Ausfahrt gekommen.",
+      "Ich wollte gerade parken. In dem Augenblick ist ein Wagen aus der Ausfahrt gekommen.",
       "Einen Augenblick, bitte!",
       "Im Augenblick sind keine Plätze frei."
     ]
@@ -3586,7 +3586,7 @@
       "female_form": null
     },
     "examples": [
-      "Am Wochenende machen wir mit Fre- unden einen Ausflug nach Heidelberg."
+      "Am Wochenende machen wir mit Freunden einen Ausflug nach Heidelberg."
     ]
   },
   {
@@ -3756,7 +3756,7 @@
       "female_form": null
     },
     "examples": [
-      "Wir fahren im Urlaub meistens ins Aus- land."
+      "Wir fahren im Urlaub meistens ins Ausland."
     ]
   },
   {
@@ -3821,14 +3821,14 @@
   },
   {
     "id": "ausreichen",
-    "raw_word": "ausreichen, reicht aus, re- ichte aus, hat ausgereicht",
+    "raw_word": "ausreichen, reicht aus, reichte aus, hat ausgereicht",
     "details": {
       "article": null,
       "headword": "ausreichen",
       "plural": null,
       "conjugation": [
         "reicht aus",
-        "re- ichte aus",
+        "reichte aus",
         "hat ausgereicht"
       ],
       "synonyms": [],
@@ -4980,13 +4980,13 @@
   },
   {
     "id": "beantworten",
-    "raw_word": "beantworten, beant- wortet, beantwortete, hat beantwortet",
+    "raw_word": "beantworten, beantwortet, beantwortete, hat beantwortet",
     "details": {
       "article": null,
       "headword": "beantworten",
       "plural": null,
       "conjugation": [
-        "beant- wortet",
+        "beantwortet",
         "beantwortete",
         "hat beantwortet"
       ],
@@ -5017,7 +5017,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich möchte mich noch einmal sehr her- zlich für Ihre Hilfe bedanken."
+      "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken."
     ]
   },
   {
@@ -5488,7 +5488,7 @@
       "female_form": null
     },
     "examples": [
-      "Bitte parken Sie so, dass Sie nieman- den behindern.",
+      "Bitte parken Sie so, dass Sie niemanden behindern.",
       "Seit dem Unfall ist das Kind unserer Freunde behindert."
     ]
   },
@@ -6429,7 +6429,7 @@
       "female_form": null
     },
     "examples": [
-      "Im Urlaub haben wir Schloss Schön- brunn besichtigt.",
+      "Im Urlaub haben wir Schloss Schönbrunn besichtigt.",
       "Besitzt Ihre Frau ein eigenes Auto?"
     ]
   },
@@ -6608,7 +6608,7 @@
     },
     "examples": [
       "Wir haben Pizza bestellt.",
-      "Ich bin für 16 Uhr zum Vorstellungs- gespräch bestellt.",
+      "Ich bin für 16 Uhr zum Vorstellungsgespräch bestellt.",
       "Ich soll Ihnen Grüße von Frau Meier bestellen."
     ]
   },
@@ -6688,7 +6688,7 @@
     },
     "examples": [
       "Wir bekommen Besuch.",
-      "Ich mache einen Besuch im Kranken- haus.",
+      "Ich mache einen Besuch im Krankenhaus.",
       "Ich bin hier nur zu Besuch."
     ]
   },
@@ -7827,7 +7827,7 @@
   },
   {
     "id": "die Brieftasche",
-    "raw_word": "die Brieftasche, -n →D, CH: Portemonnaie/Port- monee; A: Geldbörse",
+    "raw_word": "die Brieftasche, -n →D, CH: Portemonnaie/Portmonee; A: Geldbörse",
     "details": {
       "article": "die",
       "headword": "Brieftasche",
@@ -7835,7 +7835,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Portemonnaie/Port- monee; A: Geldbörse",
+          "word": "Portemonnaie/Portmonee; A: Geldbörse",
           "regional_usage": [
             "D",
             "CH"
@@ -8113,13 +8113,13 @@
   },
   {
     "id": "buchstabieren",
-    "raw_word": "buchstabieren, buchsta- biert, buchstabierte, hat buchstabiert",
+    "raw_word": "buchstabieren, buchstabiert, buchstabierte, hat buchstabiert",
     "details": {
       "article": null,
       "headword": "buchstabieren",
       "plural": null,
       "conjugation": [
-        "buchsta- biert",
+        "buchstabiert",
         "buchstabierte",
         "hat buchstabiert"
       ],
@@ -10068,7 +10068,7 @@
     },
     "examples": [
       "Wir sind mit dem Fahrrad durch den Wald gefahren.",
-      "Wenn Sie zum Bahnhof gehen, kom- men Sie durch die Goethestraße."
+      "Wenn Sie zum Bahnhof gehen, kommen Sie durch die Goethestraße."
     ]
   },
   {
@@ -11213,7 +11213,7 @@
     },
     "examples": [
       "Ich habe meine Wohnung selbst eingerichtet.",
-      "Wenn Sie Fragen haben, rufen Sie uns an. Wir haben eine extra Telefon-num- mer eingerichtet."
+      "Wenn Sie Fragen haben, rufen Sie uns an. Wir haben eine extra Telefon-nummer eingerichtet."
     ]
   },
   {
@@ -11503,7 +11503,7 @@
     },
     "examples": [
       "Dieses Mineralwasser gibt es nur als Sechserpack, nicht einzeln.",
-      "Die Schüler mussten einzeln zum Schu- larzt kommen. z. B. Einzelkind, Einzelzimmer"
+      "Die Schüler mussten einzeln zum Schularzt kommen. z. B. Einzelkind, Einzelzimmer"
     ]
   },
   {
@@ -11645,12 +11645,12 @@
     ]
   },
   {
-    "id": "die Eltern (Pl.)",
+    "id": "die Eltern",
     "raw_word": "die Eltern (Pl.)",
     "details": {
       "article": "die",
       "headword": "Eltern",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11935,14 +11935,14 @@
   },
   {
     "id": "enthalten",
-    "raw_word": "enthalten, enthält, en- thielt, hat enthalten",
+    "raw_word": "enthalten, enthält, enthielt, hat enthalten",
     "details": {
       "article": null,
       "headword": "enthalten",
       "plural": null,
       "conjugation": [
         "enthält",
-        "en- thielt",
+        "enthielt",
         "hat enthalten"
       ],
       "synonyms": [],
@@ -12186,13 +12186,13 @@
       "female_form": null
     },
     "examples": [
-      "Hier entsteht ein neues Einkaufs- zentrum.",
+      "Hier entsteht ein neues Einkaufszentrum.",
       "Andere Kosten entstehen nicht."
     ]
   },
   {
     "id": "enttäuschen",
-    "raw_word": "enttäuschen, enttäuscht, enttäuschte, hat ent- täuscht",
+    "raw_word": "enttäuschen, enttäuscht, enttäuschte, hat enttäuscht",
     "details": {
       "article": null,
       "headword": "enttäuschen",
@@ -12200,7 +12200,7 @@
       "conjugation": [
         "enttäuscht",
         "enttäuschte",
-        "hat ent- täuscht"
+        "hat enttäuscht"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -12443,7 +12443,7 @@
       "female_form": null
     },
     "examples": [
-      "Das Rad wurde vor ca. 6000 Jahren er- funden."
+      "Das Rad wurde vor ca. 6000 Jahren erfunden."
     ]
   },
   {
@@ -12512,7 +12512,7 @@
       "female_form": null
     },
     "examples": [
-      "Hier ist die Liste der erforderlichen Zu- taten für den Kuchen.",
+      "Hier ist die Liste der erforderlichen Zutaten für den Kuchen.",
       "Es ist erforderlich, dass man den Pass persönlich abholt."
     ]
   },
@@ -12892,7 +12892,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie hätten ihn vorher um Erlaubnis bit- ten müssen."
+      "Sie hätten ihn vorher um Erlaubnis bitten müssen."
     ]
   },
   {
@@ -13148,7 +13148,7 @@
       "female_form": null
     },
     "examples": [
-      "Nach dem Sport bin ich immer sehr er- schöpft."
+      "Nach dem Sport bin ich immer sehr erschöpft."
     ]
   },
   {
@@ -13174,7 +13174,7 @@
     "examples": [
       "Du hast richtig krank ausgesehen. Ich war ganz erschrocken.",
       "Hast du mich aber erschreckt!",
-      "Entschuldigung. Ich wollte Sie nicht er- schrecken."
+      "Entschuldigung. Ich wollte Sie nicht erschrecken."
     ]
   },
   {
@@ -13718,12 +13718,12 @@
     ]
   },
   {
-    "id": "die Fachleute (Pl.)",
+    "id": "die Fachleute",
     "raw_word": "die Fachleute (Pl.)",
     "details": {
       "article": "die",
       "headword": "Fachleute",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13946,7 +13946,7 @@
       "female_form": null
     },
     "examples": [
-      "Die Creme hat einen hohen Sonnen- schutzfaktor."
+      "Die Creme hat einen hohen Sonnenschutzfaktor."
     ]
   },
   {
@@ -14408,7 +14408,7 @@
     },
     "examples": [
       "Ich glaube, da haben Sie einen Fehler gemacht.",
-      "Die Schülerin hat den Fehler sofort ge- funden."
+      "Die Schülerin hat den Fehler sofort gefunden."
     ]
   },
   {
@@ -14519,12 +14519,12 @@
     ]
   },
   {
-    "id": "die Ferien (Pl.) (CH) →D",
+    "id": "die Ferien (CH) →D",
     "raw_word": "die Ferien (Pl.) (CH) →D, A: Urlaub Ferien-",
     "details": {
       "article": "die",
       "headword": "Ferien",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [
         {
@@ -14758,14 +14758,14 @@
   },
   {
     "id": "festsetzen",
-    "raw_word": "festsetzen, setzt fest, set- zte fest, hat festgesetzt",
+    "raw_word": "festsetzen, setzt fest, setzte fest, hat festgesetzt",
     "details": {
       "article": null,
       "headword": "festsetzen",
       "plural": null,
       "conjugation": [
         "setzt fest",
-        "set- zte fest",
+        "setzte fest",
         "hat festgesetzt"
       ],
       "synonyms": [],
@@ -15630,14 +15630,14 @@
   },
   {
     "id": "fortsetzen",
-    "raw_word": "fortsetzen, setzt fort, set- zte fort, hat fortgesetzt",
+    "raw_word": "fortsetzen, setzt fort, setzte fort, hat fortgesetzt",
     "details": {
       "article": null,
       "headword": "fortsetzen",
       "plural": null,
       "conjugation": [
         "setzt fort",
-        "set- zte fort",
+        "setzte fort",
         "hat fortgesetzt"
       ],
       "synonyms": [],
@@ -15981,7 +15981,7 @@
     "examples": [
       "Es freut mich, dass alles so gut geklappt hat.",
       "Ich habe mich über Ihr Geschenk sehr gefreut.",
-      "Ich freue mich schon auf meinen näch- sten Urlaub."
+      "Ich freue mich schon auf meinen nächsten Urlaub."
     ]
   },
   {
@@ -16400,13 +16400,13 @@
   },
   {
     "id": "funktionieren",
-    "raw_word": "funktionieren, funktion- iert, funktionierte, hat funktioniert",
+    "raw_word": "funktionieren, funktioniert, funktionierte, hat funktioniert",
     "details": {
       "article": null,
       "headword": "funktionieren",
       "plural": null,
       "conjugation": [
-        "funktion- iert",
+        "funktioniert",
         "funktionierte",
         "hat funktioniert"
       ],
@@ -17491,7 +17491,7 @@
   },
   {
     "id": "die Geldbörse",
-    "raw_word": "die Geldbörse, -n (A) → Brieftasche; D, CH: Porte- monnaie/Portmonee",
+    "raw_word": "die Geldbörse, -n (A) → Brieftasche; D, CH: Portemonnaie/Portmonee",
     "details": {
       "article": "die",
       "headword": "Geldbörse",
@@ -17499,7 +17499,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Brieftasche; D, CH: Porte- monnaie/Portmonee",
+          "word": "Brieftasche; D, CH: Portemonnaie/Portmonee",
           "regional_usage": []
         }
       ],
@@ -17605,7 +17605,7 @@
       "female_form": null
     },
     "examples": [
-      "Rauchen ist in den Gemeinschafts-räu- men nicht erlaubt."
+      "Rauchen ist in den Gemeinschafts-räumen nicht erlaubt."
     ]
   },
   {
@@ -18104,11 +18104,11 @@
     ]
   },
   {
-    "id": "die Geschwindigkeits- beschränkung",
-    "raw_word": "die Geschwindigkeits- beschränkung, -en",
+    "id": "die Geschwindigkeitsbeschränkung",
+    "raw_word": "die Geschwindigkeitsbeschränkung, -en",
     "details": {
       "article": "die",
-      "headword": "Geschwindigkeits- beschränkung",
+      "headword": "Geschwindigkeitsbeschränkung",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -18121,12 +18121,12 @@
     ]
   },
   {
-    "id": "die Geschwister (Pl.)",
+    "id": "die Geschwister",
     "raw_word": "die Geschwister (Pl.)",
     "details": {
       "article": "die",
       "headword": "Geschwister",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19258,7 +19258,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich suche eine günstige Ferien- wohnung."
+      "Ich suche eine günstige Ferienwohnung."
     ]
   },
   {
@@ -19982,11 +19982,11 @@
     ]
   },
   {
-    "id": "die Hausfrau/der Haus- mann",
-    "raw_word": "die Hausfrau/der Haus- mann",
+    "id": "die Hausfrau/der Hausmann",
+    "raw_word": "die Hausfrau/der Hausmann",
     "details": {
       "article": "die",
-      "headword": "Hausfrau Haus- mann",
+      "headword": "Hausfrau Hausmann",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -20680,7 +20680,7 @@
     "examples": [
       "Hier wohne ich.",
       "Von hier hat man eine herrliche Aussicht.",
-      "Hier sind die Schlüssel für meine Woh- nung. Kannst Du meine Blumen gießen?",
+      "Hier sind die Schlüssel für meine Wohnung. Kannst Du meine Blumen gießen?",
       "Hier ist Pamela Linke. Bitte hinterlassen Sie eine Nachricht."
     ]
   },
@@ -21131,7 +21131,7 @@
     },
     "examples": [
       "Wir haben eine hübsche Wohnung gefunden.",
-      "Dietmars neue Freundin ist sehr hüb- sch."
+      "Dietmars neue Freundin ist sehr hübsch."
     ]
   },
   {
@@ -21740,14 +21740,14 @@
   },
   {
     "id": "integrieren",
-    "raw_word": "integrieren, integriert, in- tegrierte, hat integriert",
+    "raw_word": "integrieren, integriert, integrierte, hat integriert",
     "details": {
       "article": null,
       "headword": "integrieren",
       "plural": null,
       "conjugation": [
         "integriert",
-        "in- tegrierte",
+        "integrierte",
         "hat integriert"
       ],
       "synonyms": [],
@@ -21901,7 +21901,7 @@
     },
     "examples": [
       "Mein Nachbar zieht nächsten Monat aus.",
-      "Sind Sie noch an der Wohnung in- teressiert?"
+      "Sind Sie noch an der Wohnung interessiert?"
     ]
   },
   {
@@ -21953,7 +21953,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe im Fernsehen ein interes- santes Interview mit zwei Schauspiel- ern gesehen."
+      "Ich habe im Fernsehen ein interessantes Interview mit zwei Schauspielern gesehen."
     ]
   },
   {
@@ -22074,7 +22074,7 @@
   },
   {
     "id": "die Jause",
-    "raw_word": "die Jause, -n (A) →D: Im- biss; CH: Znüni/Zvieri",
+    "raw_word": "die Jause, -n (A) →D: Imbiss; CH: Znüni/Zvieri",
     "details": {
       "article": "die",
       "headword": "Jause",
@@ -22082,7 +22082,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Im- biss; CH: Znüni/Zvieri",
+          "word": "Imbiss; CH: Znüni/Zvieri",
           "regional_usage": [
             "D"
           ]
@@ -22134,12 +22134,12 @@
     ]
   },
   {
-    "id": "die Jeans (Pl.)",
+    "id": "die Jeans",
     "raw_word": "die Jeans (Pl.)",
     "details": {
       "article": "die",
       "headword": "Jeans",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -22275,7 +22275,7 @@
     "examples": [
       "Ich muss jetzt gehen.",
       "Bis jetzt hat alles gut geklappt.",
-      "Ab jetzt werde ich wieder öfter ins Fit- ness-Studio gehen.",
+      "Ab jetzt werde ich wieder öfter ins Fitness-Studio gehen.",
       "Ich habe jetzt schon dreimal bei meinem Bruder angerufen. Aber er ist nie da.",
       "Über viele Dinge denke ich jetzt anders als früher."
     ]
@@ -22431,7 +22431,7 @@
       "female_form": null
     },
     "examples": [
-      "Wo ist das Kabel für das Aufnahme- gerät?",
+      "Wo ist das Kabel für das Aufnahmegerät?",
       "Mit Kabel bekommen Sie über 30 Fernsehkanäle."
     ]
   },
@@ -22468,7 +22468,7 @@
     "examples": [
       "Bring bitte noch eine Packung Kaffee mit.",
       "Zum Frühstück trinke ich gerne Kaffee.",
-      "Wir sind bei Müllers zum Kaffee einge- laden.",
+      "Wir sind bei Müllers zum Kaffee eingeladen.",
       "Einen Kaffee, bitte."
     ]
   },
@@ -22723,7 +22723,7 @@
     "examples": [
       "Unsere Waschmaschine ist kaputt.",
       "Ich bin noch ganz kaputt von der Reise. Pass bitte mit diesem Glas auf. Es geht leicht kaputt.",
-      "Der Fernseher ist gestern kaputt- gegangen."
+      "Der Fernseher ist gestern kaputtgegangen."
     ]
   },
   {
@@ -22745,7 +22745,7 @@
   },
   {
     "id": "der Karneval",
-    "raw_word": "der Karneval, -s/-e (D) → D, A: Fasching; CH: Fas- nacht",
+    "raw_word": "der Karneval, -s/-e (D) → D, A: Fasching; CH: Fasnacht",
     "details": {
       "article": "der",
       "headword": "Karneval",
@@ -22753,7 +22753,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Fasching; CH: Fas- nacht",
+          "word": "Fasching; CH: Fasnacht",
           "regional_usage": [
             "D",
             "A"
@@ -22830,7 +22830,7 @@
       "Diese Karte gilt nur für die",
       "Klasse.",
       "Hast du schon die Karten für das Konzert abgeholt?",
-      "Haben Sie eine Karte von Nord- deutschland?",
+      "Haben Sie eine Karte von Norddeutschland?",
       "Herr Ober, bitte die Speisekarte.",
       "Spielen Sie Karten?"
     ]
@@ -22878,7 +22878,7 @@
   },
   {
     "id": "die Kartoffel",
-    "raw_word": "die Kartoffel, -n →A: Er- dapfel",
+    "raw_word": "die Kartoffel, -n →A: Erdapfel",
     "details": {
       "article": "die",
       "headword": "Kartoffel",
@@ -22886,7 +22886,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Er- dapfel",
+          "word": "Erdapfel",
           "regional_usage": [
             "A"
           ]
@@ -23194,12 +23194,12 @@
     ]
   },
   {
-    "id": "die Kenntnisse (Pl.)",
+    "id": "die Kenntnisse",
     "raw_word": "die Kenntnisse (Pl.)",
     "details": {
       "article": "die",
       "headword": "Kenntnisse",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23364,7 +23364,7 @@
     },
     "examples": [
       "Diese Kirche ist aus dem",
-      "Jahrhun- dert."
+      "Jahrhundert."
     ]
   },
   {
@@ -23556,7 +23556,7 @@
       "female_form": null
     },
     "examples": [
-      "Mein Sohn schreibt bei Klassenar- beiten immer gute Noten."
+      "Mein Sohn schreibt bei Klassenarbeiten immer gute Noten."
     ]
   },
   {
@@ -24126,7 +24126,7 @@
       "Woher kommen Sie? – Aus Frankreich.",
       "Wir gehen heute Abend ins Konzert. Kommen Sie auch?",
       "Kommen Sie doch mal wieder zu uns.",
-      "Wenn Sie mal nach Köln kommen, be- suchen Sie uns.",
+      "Wenn Sie mal nach Köln kommen, besuchen Sie uns.",
       "Steffi kommt im Herbst in die Schule.",
       "Die Straßenbahn muss gleich kommen.",
       "Wer kommt als Nächster dran?",
@@ -24255,7 +24255,7 @@
     },
     "examples": [
       "Das ist ein alter Konflikt.",
-      "Ich habe einen Konflikt mit meinen El- tern."
+      "Ich habe einen Konflikt mit meinen Eltern."
     ]
   },
   {
@@ -24290,7 +24290,7 @@
     },
     "examples": [
       "Die Reparatur ist mir hier zu teuer. Bei der Konkurrenz bekomme ich sie für die Hälfte.",
-      "Es ist schwer, ein Geschäft aufzu- machen. Die Konkurrenz ist groß."
+      "Es ist schwer, ein Geschäft aufzumachen. Die Konkurrenz ist groß."
     ]
   },
   {
@@ -24636,14 +24636,14 @@
   },
   {
     "id": "korrigieren",
-    "raw_word": "korrigieren, korrigiert, ko- rrigierte, hat korrigiert",
+    "raw_word": "korrigieren, korrigiert, korrigierte, hat korrigiert",
     "details": {
       "article": null,
       "headword": "korrigieren",
       "plural": null,
       "conjugation": [
         "korrigiert",
-        "ko- rrigierte",
+        "korrigierte",
         "hat korrigiert"
       ],
       "synonyms": [],
@@ -24679,12 +24679,12 @@
     ]
   },
   {
-    "id": "die Kosten (Pl.)",
+    "id": "die Kosten",
     "raw_word": "die Kosten (Pl.)",
     "details": {
       "article": "die",
       "headword": "Kosten",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -24913,7 +24913,7 @@
       "female_form": null
     },
     "examples": [
-      "Meine Cousine möchte gern Kranken- schwester werden."
+      "Meine Cousine möchte gern Krankenschwester werden."
     ]
   },
   {
@@ -25455,7 +25455,7 @@
       "female_form": null
     },
     "examples": [
-      "In diesem Stadtteil wohnen viele Kün- stlerinnen.",
+      "In diesem Stadtteil wohnen viele Künstlerinnen.",
       "Neben uns wohnt eine Musikerin."
     ]
   },
@@ -25627,7 +25627,7 @@
   },
   {
     "id": "das Kuvert",
-    "raw_word": "das Kuvert, -s (A) →der Briefumschlag; CH: Cou- vert",
+    "raw_word": "das Kuvert, -s (A) →der Briefumschlag; CH: Couvert",
     "details": {
       "article": "das",
       "headword": "Kuvert",
@@ -25635,7 +25635,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "der Briefumschlag; CH: Cou- vert",
+          "word": "der Briefumschlag; CH: Couvert",
           "regional_usage": []
         }
       ],
@@ -26366,7 +26366,7 @@
       "female_form": null
     },
     "examples": [
-      "Die Lehrerin hat heute viele Hausauf- gaben gegeben."
+      "Die Lehrerin hat heute viele Hausaufgaben gegeben."
     ]
   },
   {
@@ -26723,12 +26723,12 @@
     ]
   },
   {
-    "id": "die Leute (Pl.)",
+    "id": "die Leute",
     "raw_word": "die Leute (Pl.)",
     "details": {
       "article": "die",
       "headword": "Leute",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -27996,12 +27996,12 @@
     ]
   },
   {
-    "id": "die Medien (Pl.)",
+    "id": "die Medien",
     "raw_word": "die Medien (Pl.)",
     "details": {
       "article": "die",
       "headword": "Medien",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -28530,7 +28530,7 @@
   },
   {
     "id": "der Metzger",
-    "raw_word": "der Metzger, - →A: Fleis- chhauer",
+    "raw_word": "der Metzger, - →A: Fleischhauer",
     "details": {
       "article": "der",
       "headword": "Metzger",
@@ -28538,7 +28538,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Fleis- chhauer",
+          "word": "Fleischhauer",
           "regional_usage": [
             "A"
           ]
@@ -28899,7 +28899,7 @@
       "female_form": null
     },
     "examples": [
-      "Haben Sie ein Mittel gegen Magen- schmerzen?",
+      "Haben Sie ein Mittel gegen Magenschmerzen?",
       "Der Arzt hat mir ein Mittel gegen Grippe verschrieben.",
       "Das neue Waschmittel ist sehr gut."
     ]
@@ -28954,7 +28954,7 @@
     },
     "examples": [
       "Am Anfang war die Arbeit schwer.",
-      "Mit- tlerweile habe ich mich daran gewöhnt."
+      "Mittlerweile habe ich mich daran gewöhnt."
     ]
   },
   {
@@ -29758,7 +29758,7 @@
     "examples": [
       "Ich habe eine gute Nachricht für Sie. Sie haben die Prüfung bestanden.",
       "Ich habe im Radio die Nachrichten gehört.",
-      "Im Moment bin ich nicht zu Hause. Aber Sie können eine Nachricht hinter- lassen."
+      "Im Moment bin ich nicht zu Hause. Aber Sie können eine Nachricht hinterlassen."
     ]
   },
   {
@@ -30029,7 +30029,7 @@
     "examples": [
       "Mein Vorname ist Thomas.",
       "Ich muss leider gehen.",
-      "Ich habe näm- lich noch einen Termin beim Zahnarzt."
+      "Ich habe nämlich noch einen Termin beim Zahnarzt."
     ]
   },
   {
@@ -30210,7 +30210,7 @@
     },
     "examples": [
       "Mein Freund studiert Geschichte. Und nebenbei arbeitet er in einer Kneipe.",
-      "Ich mache die Hausarbeit und neben- bei höre ich Radio."
+      "Ich mache die Hausarbeit und nebenbei höre ich Radio."
     ]
   },
   {
@@ -30383,7 +30383,7 @@
     "examples": [
       "Bitte bring ein Netz Orangen.",
       "Der Ball berührte das Netz.",
-      "Seid ihr schon ans Netz ange- schlossen?"
+      "Seid ihr schon ans Netz angeschlossen?"
     ]
   },
   {
@@ -30566,7 +30566,7 @@
       "Der Chef ist nie da.",
       "Warum bist du nie zufrieden?",
       "Bis morgen Abend schaffe ich die Arbeit nie.",
-      "Ich gehe nie wieder in dieses Restau- rant."
+      "Ich gehe nie wieder in dieses Restaurant."
     ]
   },
   {
@@ -31175,7 +31175,7 @@
   },
   {
     "id": "der (Back-)Ofen",
-    "raw_word": "der (Back-)Ofen, ¨- (D, CH) →A: (Back-)Rohr offen öffentlich die veröffentlichen, veröf- fentlicht, veröffentlichte, hat veröffentlicht offenbar offiziell",
+    "raw_word": "der (Back-)Ofen, ¨- (D, CH) →A: (Back-)Rohr offen öffentlich die veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht offenbar offiziell",
     "details": {
       "article": "der",
       "headword": "(Back-)Ofen",
@@ -31183,7 +31183,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Back-)Rohr offen öffentlich die veröffentlichen, veröf- fentlicht, veröffentlichte, hat veröffentlicht offenbar offiziell",
+          "word": "(Back-)Rohr offen öffentlich die veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht offenbar offiziell",
           "regional_usage": [
             "A"
           ]
@@ -31732,7 +31732,7 @@
       "female_form": null
     },
     "examples": [
-      "Dieses Schiff fährt über den Atlantis- chen Ozean."
+      "Dieses Schiff fährt über den Atlantischen Ozean."
     ]
   },
   {
@@ -31847,7 +31847,7 @@
   },
   {
     "id": "der Paradeiser",
-    "raw_word": "der Paradeiser, - (A) →To- mate",
+    "raw_word": "der Paradeiser, - (A) →Tomate",
     "details": {
       "article": "der",
       "headword": "Paradeiser",
@@ -31855,7 +31855,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "To- mate",
+          "word": "Tomate",
           "regional_usage": []
         }
       ],
@@ -32196,7 +32196,7 @@
   },
   {
     "id": "die Pension",
-    "raw_word": "die Pension, -en (A, CH) → D, CH: Rente in Pension gehen/sein A) →D: in gehen/sein; D, CH: pen- sioniert werden/sein",
+    "raw_word": "die Pension, -en (A, CH) → D, CH: Rente in Pension gehen/sein A) →D: in gehen/sein; D, CH: pensioniert werden/sein",
     "details": {
       "article": "die",
       "headword": "Pension",
@@ -32204,7 +32204,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Rente in Pension gehen/sein A) →D: in gehen/sein; D, CH: pen- sioniert werden/sein",
+          "word": "Rente in Pension gehen/sein A) →D: in gehen/sein; D, CH: pensioniert werden/sein",
           "regional_usage": [
             "D",
             "CH"
@@ -32250,7 +32250,7 @@
     },
     "examples": [
       "Ich werde Ende des Jahres pensioniert.",
-      "Mein Nachbar ist seit zehn Jahren pen- sioniert."
+      "Mein Nachbar ist seit zehn Jahren pensioniert."
     ]
   },
   {
@@ -32370,12 +32370,12 @@
     ]
   },
   {
-    "id": "die Personalien (Pl.)",
+    "id": "die Personalien",
     "raw_word": "die Personalien (Pl.)",
     "details": {
       "article": "die",
       "headword": "Personalien",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -32884,12 +32884,12 @@
     ]
   },
   {
-    "id": "die Pommes frites (Pl.)",
+    "id": "die Pommes frites",
     "raw_word": "die Pommes frites (Pl.)",
     "details": {
       "article": "die",
       "headword": "Pommes frites",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -32918,8 +32918,8 @@
     ]
   },
   {
-    "id": "das Portemonnaie/Port- monee",
-    "raw_word": "das Portemonnaie/Port- monee, -s (D, CH) →Brief- tasche; A: Geldbörse",
+    "id": "das Portemonnaie/Portmonee",
+    "raw_word": "das Portemonnaie/Portmonee, -s (D, CH) →Brieftasche; A: Geldbörse",
     "details": {
       "article": "das",
       "headword": "Portemonnaie monee",
@@ -32927,7 +32927,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Brief- tasche; A: Geldbörse",
+          "word": "Brieftasche; A: Geldbörse",
           "regional_usage": []
         }
       ],
@@ -33017,7 +33017,7 @@
   },
   {
     "id": "der Pöstler",
-    "raw_word": "der Pöstler, - / die Pöst- lerin, -nen (CH) → Briefträger",
+    "raw_word": "der Pöstler, - / die Pöstlerin, -nen (CH) → Briefträger",
     "details": {
       "article": "der",
       "headword": "Pöstler",
@@ -33035,7 +33035,7 @@
       "variants": [],
       "female_form": {
         "article": "die",
-        "headword": "Pöst- lerin",
+        "headword": "Pöstlerin",
         "plural": "-nen",
         "conjugation": [],
         "synonyms": [],
@@ -33703,7 +33703,7 @@
     "examples": [
       "Das Konzert beginnt um Punkt 20 Uhr.",
       "Beim letzten Satz fehlt der Punkt.",
-      "Diesen Punkt haben wir noch nicht be- sprochen. Seien Sie bitte pünktlich.",
+      "Diesen Punkt haben wir noch nicht besprochen. Seien Sie bitte pünktlich.",
       "Der Bus fährt pünktlich um acht Uhr."
     ]
   },
@@ -35105,7 +35105,7 @@
   },
   {
     "id": "die Rente",
-    "raw_word": "die Rente, -n (D, CH) →A, CH: Pension in Rente gehen/sein (D) D, A: in gehen/sein; CH, D: pen- sioniert werden/sein",
+    "raw_word": "die Rente, -n (D, CH) →A, CH: Pension in Rente gehen/sein (D) D, A: in gehen/sein; CH, D: pensioniert werden/sein",
     "details": {
       "article": "die",
       "headword": "Rente",
@@ -35113,7 +35113,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Pension in Rente gehen/sein (D) D, A: in gehen/sein; CH, D: pen- sioniert werden/sein",
+          "word": "Pension in Rente gehen/sein (D) D, A: in gehen/sein; CH, D: pensioniert werden/sein",
           "regional_usage": [
             "A",
             "CH"
@@ -35287,7 +35287,7 @@
     },
     "examples": [
       "Ich habe großen Respekt vor meinem Lehrer.",
-      "Du solltest ihr mehr Respekt entgegen- bringen.",
+      "Du solltest ihr mehr Respekt entgegenbringen.",
       "Ich habe bei der Prüfung alle Punkte erreicht! – Respekt!"
     ]
   },
@@ -36007,7 +36007,7 @@
     },
     "examples": [
       "Urlaub in den Schulferien ist immer teurer.",
-      "Das ist die Saison mit den höch- sten Preisen."
+      "Das ist die Saison mit den höchsten Preisen."
     ]
   },
   {
@@ -36349,7 +36349,7 @@
       "female_form": null
     },
     "examples": [
-      "Kannst du mir helfen, die Party vorzu- bereiten?",
+      "Kannst du mir helfen, die Party vorzubereiten?",
       "Ich schaffe das nicht allein."
     ]
   },
@@ -36372,7 +36372,7 @@
     },
     "examples": [
       "Schalten Sie bitte das Licht aus, wenn Sie gehen.",
-      "Kannst du bitte den Fernseher ein- schalten. Jetzt kommen gleich die Nachrichten.",
+      "Kannst du bitte den Fernseher einschalten. Jetzt kommen gleich die Nachrichten.",
       "Du musst jetzt in den ersten Gang schalten."
     ]
   },
@@ -36663,7 +36663,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe meinen Freunden eine Ein- ladung zur Hochzeit geschickt.",
+      "Ich habe meinen Freunden eine Einladung zur Hochzeit geschickt.",
       "Schick mir doch eine E-Mail.",
       "Ich habe die Kinder einkaufen geschickt. Wir haben keine Milch mehr zu Hause."
     ]
@@ -36686,7 +36686,7 @@
       "female_form": null
     },
     "examples": [
-      "Leider ist mein Fahrrad kaputt- gegangen. Ich musste es nach Hause schieben.",
+      "Leider ist mein Fahrrad kaputtgegangen. Ich musste es nach Hause schieben.",
       "Wir können den Schrank links an die Wand schieben; dann haben wir mehr Platz."
     ]
   },
@@ -37558,12 +37558,12 @@
     ]
   },
   {
-    "id": "die Schulden (Pl.)",
+    "id": "die Schulden",
     "raw_word": "die Schulden (Pl.)",
     "details": {
       "article": "die",
       "headword": "Schulden",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -37788,7 +37788,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie dürfen während der Schwanger- schaft nicht rauchen."
+      "Sie dürfen während der Schwangerschaft nicht rauchen."
     ]
   },
   {
@@ -38138,7 +38138,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich bin vor zwei Jahren nach Deutsch- land gekommen.",
+      "Ich bin vor zwei Jahren nach Deutschland gekommen.",
       "Seitdem lerne ich Deutsch."
     ]
   },
@@ -38260,7 +38260,7 @@
       "female_form": null
     },
     "examples": [
-      "Selbstverständlich sagen wir Ihnen so- fort Bescheid."
+      "Selbstverständlich sagen wir Ihnen sofort Bescheid."
     ]
   },
   {
@@ -38403,12 +38403,12 @@
     ]
   },
   {
-    "id": "die Senioren (Pl.)",
+    "id": "die Senioren",
     "raw_word": "die Senioren (Pl.)",
     "details": {
       "article": "die",
       "headword": "Senioren",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -38468,7 +38468,7 @@
     },
     "examples": [
       "Rufst du beim Pizza-Service an?",
-      "Ich war mit dem Service in der Werk- statt nicht zufrieden."
+      "Ich war mit dem Service in der Werkstatt nicht zufrieden."
     ]
   },
   {
@@ -39034,7 +39034,7 @@
       "female_form": null
     },
     "examples": [
-      "Studenten, die lange studieren, sind so- genannte Langzeitstudierende.",
+      "Studenten, die lange studieren, sind sogenannte Langzeitstudierende.",
       "Wo bleiben denn deine sogenannten Freunde?"
     ]
   },
@@ -39146,7 +39146,7 @@
       "female_form": null
     },
     "examples": [
-      "Das ist ein Sonderangebot: 25 % re- duziert."
+      "Das ist ein Sonderangebot: 25 % reduziert."
     ]
   },
   {
@@ -39826,7 +39826,7 @@
     },
     "examples": [
       "Sie ist eine gute Sportlerin. Ich bin nicht sehr sportlich.",
-      "Ich mag bequeme und sportliche Klei- dung."
+      "Ich mag bequeme und sportliche Kleidung."
     ]
   },
   {
@@ -40633,7 +40633,7 @@
     },
     "examples": [
       "Der Poststempel trägt das Datum von letzter Woche.",
-      "Das Paket war lange un- terwegs."
+      "Das Paket war lange unterwegs."
     ]
   },
   {
@@ -41427,7 +41427,7 @@
       "female_form": null
     },
     "examples": [
-      "Wir führen eine Studie über Arbeits- losigkeit durch.",
+      "Wir führen eine Studie über Arbeitslosigkeit durch.",
       "Eine aktuelle Studie zeigt, dass die Umweltverschmutzung zunimmt."
     ]
   },
@@ -41536,7 +41536,7 @@
     },
     "examples": [
       "Vorsicht, Stufe!",
-      "Die Volkshochschule bietet Sprach- kurse auf verschiedenen Stufen an."
+      "Die Volkshochschule bietet Sprachkurse auf verschiedenen Stufen an."
     ]
   },
   {
@@ -41741,7 +41741,7 @@
       "female_form": null
     },
     "examples": [
-      "Donnerstags gehe ich immer in den Su- permarkt."
+      "Donnerstags gehe ich immer in den Supermarkt."
     ]
   },
   {
@@ -42785,7 +42785,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe die theoretische Prüfung be- standen.",
+      "Ich habe die theoretische Prüfung bestanden.",
       "Nach der praktischen habe ich den Führerschein."
     ]
   },
@@ -43093,7 +43093,7 @@
   },
   {
     "id": "die Tomate",
-    "raw_word": "die Tomate, -n →A: Pa- radeiser",
+    "raw_word": "die Tomate, -n →A: Paradeiser",
     "details": {
       "article": "die",
       "headword": "Tomate",
@@ -43101,7 +43101,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Pa- radeiser",
+          "word": "Paradeiser",
           "regional_usage": [
             "A"
           ]
@@ -43403,7 +43403,7 @@
   },
   {
     "id": "die Träne",
-    "raw_word": "die Träne, -n transportieren, trans- portiert, transportierte, hat transportiert",
+    "raw_word": "die Träne, -n transportieren, transportiert, transportierte, hat transportiert",
     "details": {
       "article": "die",
       "headword": "Träne",
@@ -43785,12 +43785,12 @@
     ]
   },
   {
-    "id": "die Tropfen (Pl.)",
+    "id": "die Tropfen",
     "raw_word": "die Tropfen (Pl.)",
     "details": {
       "article": "die",
       "headword": "Tropfen",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -44207,7 +44207,7 @@
       "female_form": null
     },
     "examples": [
-      "In diesem Hotel kostet die Übernach- tung mit Frühstück 90 Euro."
+      "In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro."
     ]
   },
   {
@@ -44330,7 +44330,7 @@
       "female_form": null
     },
     "examples": [
-      "Der Artikel erschien unter der folgen- den Überschrift: „…“",
+      "Der Artikel erschien unter der folgenden Überschrift: „…“",
       "Die Überschrift passt überhaupt nicht zum Inhalt des Artikels."
     ]
   },
@@ -44465,7 +44465,7 @@
     },
     "examples": [
       "Sie können bar oder per Überweisung bezahlen.",
-      "Der Hausarzt hat mir eine Über- weisung fürs Krankenhaus gegeben."
+      "Der Hausarzt hat mir eine Überweisung fürs Krankenhaus gegeben."
     ]
   },
   {
@@ -44828,11 +44828,11 @@
     ]
   },
   {
-    "id": "die Umweltver- schmutzung",
-    "raw_word": "die Umweltver- schmutzung, -en",
+    "id": "die Umweltverschmutzung",
+    "raw_word": "die Umweltverschmutzung, -en",
     "details": {
       "article": "die",
-      "headword": "Umweltver- schmutzung",
+      "headword": "Umweltverschmutzung",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -45161,13 +45161,13 @@
   },
   {
     "id": "(sich) unterhalten",
-    "raw_word": "(sich) unterhalten, unter- hält, unterhielt, hat unterhalten",
+    "raw_word": "(sich) unterhalten, unterhält, unterhielt, hat unterhalten",
     "details": {
       "article": null,
       "headword": "(sich) unterhalten",
       "plural": null,
       "conjugation": [
-        "unter- hält",
+        "unterhält",
         "unterhielt",
         "hat unterhalten"
       ],
@@ -45217,12 +45217,12 @@
     ]
   },
   {
-    "id": "die Unterlagen (Pl.)",
+    "id": "die Unterlagen",
     "raw_word": "die Unterlagen (Pl.)",
     "details": {
       "article": "die",
       "headword": "Unterlagen",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -45251,18 +45251,18 @@
       "female_form": null
     },
     "examples": [
-      "Das Rauchen auf den Gängen ist zu un- terlassen."
+      "Das Rauchen auf den Gängen ist zu unterlassen."
     ]
   },
   {
     "id": "unternehmen",
-    "raw_word": "unternehmen, untern- immt, unternahm, hat unternommen",
+    "raw_word": "unternehmen, unternimmt, unternahm, hat unternommen",
     "details": {
       "article": null,
       "headword": "unternehmen",
       "plural": null,
       "conjugation": [
-        "untern- immt",
+        "unternimmt",
         "unternahm",
         "hat unternommen"
       ],
@@ -45349,13 +45349,13 @@
   },
   {
     "id": "unterscheiden",
-    "raw_word": "unterscheiden, unter- scheidet, unterschied, hat unterschieden",
+    "raw_word": "unterscheiden, unterscheidet, unterschied, hat unterschieden",
     "details": {
       "article": null,
       "headword": "unterscheiden",
       "plural": null,
       "conjugation": [
-        "unter- scheidet",
+        "unterscheidet",
         "unterschied",
         "hat unterschieden"
       ],
@@ -45407,13 +45407,13 @@
   },
   {
     "id": "unterschreiben",
-    "raw_word": "unterschreiben, unter- schreibt, unterschrieb, hat unterschrieben",
+    "raw_word": "unterschreiben, unterschreibt, unterschrieb, hat unterschrieben",
     "details": {
       "article": null,
       "headword": "unterschreiben",
       "plural": null,
       "conjugation": [
-        "unter- schreibt",
+        "unterschreibt",
         "unterschrieb",
         "hat unterschrieben"
       ],
@@ -45445,13 +45445,13 @@
   },
   {
     "id": "unterstreichen",
-    "raw_word": "unterstreichen, unterstre- icht, unterstrich, hat unterstrichen",
+    "raw_word": "unterstreichen, unterstreicht, unterstrich, hat unterstrichen",
     "details": {
       "article": null,
       "headword": "unterstreichen",
       "plural": null,
       "conjugation": [
-        "unterstre- icht",
+        "unterstreicht",
         "unterstrich",
         "hat unterstrichen"
       ],
@@ -45847,7 +45847,7 @@
       "female_form": null
     },
     "examples": [
-      "Am Samstag ist unser Lokal geschlos- sen.",
+      "Am Samstag ist unser Lokal geschlossen.",
       "Wir haben eine Veranstaltung."
     ]
   },
@@ -46787,14 +46787,14 @@
   },
   {
     "id": "vermieten",
-    "raw_word": "vermieten, vermietet, ver- mietete, hat vermietet",
+    "raw_word": "vermieten, vermietet, vermietete, hat vermietet",
     "details": {
       "article": null,
       "headword": "vermieten",
       "plural": null,
       "conjugation": [
         "vermietet",
-        "ver- mietete",
+        "vermietete",
         "hat vermietet"
       ],
       "synonyms": [],
@@ -47076,7 +47076,7 @@
       "female_form": null
     },
     "examples": [
-      "Der Minister hielt bei der Versamm- lung eine Rede."
+      "Der Minister hielt bei der Versammlung eine Rede."
     ]
   },
   {
@@ -47136,7 +47136,7 @@
     },
     "examples": [
       "Unsere beiden Kinder sind sehr verschieden.",
-      "Wir haben dieses Kleid in verschiede- nen Farben."
+      "Wir haben dieses Kleid in verschiedenen Farben."
     ]
   },
   {
@@ -47245,7 +47245,7 @@
     },
     "examples": [
       "Sie sollten eine Versicherung für Ihr Gepäck abschließen.",
-      "Sie müssen den Unfall der Ver- sicherung melden."
+      "Sie müssen den Unfall der Versicherung melden."
     ]
   },
   {
@@ -47262,7 +47262,7 @@
       "female_form": null
     },
     "examples": [
-      "Unser Zug hatte 10 Minuten Verspä- tung."
+      "Unser Zug hatte 10 Minuten Verspätung."
     ]
   },
   {
@@ -47404,7 +47404,7 @@
       "female_form": null
     },
     "examples": [
-      "In der Forschung werden viele Ver- suche gemacht.",
+      "In der Forschung werden viele Versuche gemacht.",
       "Mein Versuch, etwas zu ändern, blieb ohne Erfolg."
     ]
   },
@@ -47443,7 +47443,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie beide müssen den Vertrag unter- schreiben."
+      "Sie beide müssen den Vertrag unterschreiben."
     ]
   },
   {
@@ -47638,7 +47638,7 @@
   },
   {
     "id": "verwenden",
-    "raw_word": "verwenden, verwendet, verwendete, hat verwen- det",
+    "raw_word": "verwenden, verwendet, verwendete, hat verwendet",
     "details": {
       "article": null,
       "headword": "verwenden",
@@ -47646,7 +47646,7 @@
       "conjugation": [
         "verwendet",
         "verwendete",
-        "hat verwen- det"
+        "hat verwendet"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -48010,7 +48010,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich bin vor einer Woche zurück- gekommen.",
+      "Ich bin vor einer Woche zurückgekommen.",
       "Das Auto steht vor der Tür.",
       "Ich konnte vor Schmerzen nicht schlafen."
     ]
@@ -48064,7 +48064,7 @@
       "female_form": null
     },
     "examples": [
-      "Gesunde Ernährung ist die Vorausset- zung für ein langes Leben.",
+      "Gesunde Ernährung ist die Voraussetzung für ein langes Leben.",
       "Er will die Arbeit nur unter der Voraussetzung annehmen, dass ihm die Firma eine Wohnung organisiert."
     ]
   },
@@ -48124,8 +48124,8 @@
       "female_form": null
     },
     "examples": [
-      "Am Sonntag machen wir ein kleines Fest. Ich muss noch viel dafür vor- bereiten.",
-      "Ich muss mich auf meine Prüfung vor- bereiten."
+      "Am Sonntag machen wir ein kleines Fest. Ich muss noch viel dafür vorbereiten.",
+      "Ich muss mich auf meine Prüfung vorbereiten."
     ]
   },
   {
@@ -48388,7 +48388,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich mache dir einen Vorschlag: Du hil- fst mir beim Deutschlernen, und ich lade dich zum Essen ein."
+      "Ich mache dir einen Vorschlag: Du hilfst mir beim Deutschlernen, und ich lade dich zum Essen ein."
     ]
   },
   {
@@ -48497,7 +48497,7 @@
       "female_form": null
     },
     "examples": [
-      "Wann hast du dein Vorstellungs- gespräch?"
+      "Wann hast du dein Vorstellungsgespräch?"
     ]
   },
   {
@@ -48659,7 +48659,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe meinen Wagen in die Werk- statt gebracht.",
+      "Ich habe meinen Wagen in die Werkstatt gebracht.",
       "Im zweiten Wagen befindet sich das Zugrestaurant."
     ]
   },
@@ -49639,7 +49639,7 @@
       "female_form": null
     },
     "examples": [
-      "Mein Wagen ist zurzeit in der Werk- statt."
+      "Mein Wagen ist zurzeit in der Werkstatt."
     ]
   },
   {
@@ -49761,7 +49761,7 @@
       "female_form": null
     },
     "examples": [
-      "Meine Tochter hat bei einem Wettbe- werb gewonnen.",
+      "Meine Tochter hat bei einem Wettbewerb gewonnen.",
       "Sie hat das beste Bild gemalt."
     ]
   },
@@ -49921,7 +49921,7 @@
       "Wann kommst du wieder?",
       "Meine Mutter war krank. Jetzt ist sie aber wieder gesund.",
       "Mein Bruder kommt schon wieder zu spät.",
-      "Meine Eltern sind zu Besuch gekom- men. Morgen fahren sie wieder zurück."
+      "Meine Eltern sind zu Besuch gekommen. Morgen fahren sie wieder zurück."
     ]
   },
   {
@@ -50162,7 +50162,7 @@
       "female_form": null
     },
     "examples": [
-      "Welche Wirkungen hat dieses Medika- ment?",
+      "Welche Wirkungen hat dieses Medikament?",
       "Muss ich vorsichtig sein?"
     ]
   },
@@ -50636,7 +50636,7 @@
     },
     "examples": [
       "Ich bin mit dem Fahrrad gestürzt. Es war ein Wunder, dass nichts Schlimmes passiert ist.",
-      "Du isst zu viel Schokolade. Kein Wunder, dass die Hose nicht mehr passt. Im ganzen Urlaub hatten wir wunder- bares Wetter.",
+      "Du isst zu viel Schokolade. Kein Wunder, dass die Hose nicht mehr passt. Im ganzen Urlaub hatten wir wunderbares Wetter.",
       "Diese Schokolade schmeckt wunderbar."
     ]
   },
@@ -50976,7 +50976,7 @@
     "examples": [
       "Ich habe heute keine Zeit.",
       "Es ist noch früh. Wir haben noch viel Zeit.",
-      "Um welche Zeit sind Sie normaler- weise zu Hause?",
+      "Um welche Zeit sind Sie normalerweise zu Hause?",
       "Um diese Zeit ist hier wenig los."
     ]
   },
@@ -50995,7 +50995,7 @@
     },
     "examples": [
       "Er ist krank.",
-      "Das ist kein guter Zeit- punkt für einen Besuch."
+      "Das ist kein guter Zeitpunkt für einen Besuch."
     ]
   },
   {
@@ -51118,7 +51118,7 @@
       "female_form": null
     },
     "examples": [
-      "Im Zentrum gibt es fast keine Park- plätze.",
+      "Im Zentrum gibt es fast keine Parkplätze.",
       "Es gibt ein neues Zentrum mit vielen Geschäften. Es wird am Samstag eröffnet."
     ]
   },
@@ -51322,7 +51322,7 @@
     },
     "examples": [
       "Die Wohnung hat drei Zimmer.",
-      "Ich habe ein Zimmer im Hotel Eden re- serviert."
+      "Ich habe ein Zimmer im Hotel Eden reserviert."
     ]
   },
   {
@@ -51377,8 +51377,8 @@
     ]
   },
   {
-    "id": "der Zivilstand (CH) →Per- sonenstand; D",
-    "raw_word": "der Zivilstand (CH) →Per- sonenstand; D, A: Fami- lienstand",
+    "id": "der Zivilstand (CH) →Personenstand; D",
+    "raw_word": "der Zivilstand (CH) →Personenstand; D, A: Familienstand",
     "details": {
       "article": "der",
       "headword": "Zivilstand",
@@ -51386,7 +51386,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Per- sonenstand; D, A: Fami- lienstand",
+          "word": "Personenstand; D, A: Familienstand",
           "regional_usage": []
         }
       ],
@@ -51474,7 +51474,7 @@
       "Das Kleid ist mir zu teuer.",
       "Bitte zwanzig Briefmarken zu 55 Cent.",
       "Ich trinke zum Essen ein Bier.",
-      "Unsere Mannschaft hat 2 zu 1 gewon- nen.",
+      "Unsere Mannschaft hat 2 zu 1 gewonnen.",
       "Ich habe vor, mir ein neues Auto zu kaufen. 10.Hast du etwas zu trinken für mich?"
     ]
   },
@@ -51813,12 +51813,12 @@
     ]
   },
   {
-    "id": "die Zünder (A) (Pl.) → Streichholz; Zündholz",
+    "id": "die Zünder (A) → Streichholz; Zündholz",
     "raw_word": "die Zünder (A) (Pl.) → Streichholz; Zündholz",
     "details": {
       "article": "die",
       "headword": "Zünder",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [
         {
@@ -51838,7 +51838,7 @@
   },
   {
     "id": "das Zündholz",
-    "raw_word": "das Zündholz, ¨-er →Stre- ichholz; A: Zünder",
+    "raw_word": "das Zündholz, ¨-er →Streichholz; A: Zünder",
     "details": {
       "article": "das",
       "headword": "Zündholz",
@@ -51846,7 +51846,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Stre- ichholz; A: Zünder",
+          "word": "Streichholz; A: Zünder",
           "regional_usage": []
         }
       ],
@@ -51876,7 +51876,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe im Urlaub 1 Kilo zugenom- men."
+      "Ich habe im Urlaub 1 Kilo zugenommen."
     ]
   },
   {
@@ -51980,7 +51980,7 @@
       "Wir haben als Kinder oft zusammen gespielt.",
       "Zahlen bitte. - Zusammen oder getrennt?",
       "Das macht zusammen 10 Euro",
-      "Fuß und Ball musst du zusammen- schreiben – Fußball!"
+      "Fuß und Ball musst du zusammenschreiben – Fußball!"
     ]
   },
   {
@@ -52209,12 +52209,12 @@
     ]
   },
   {
-    "id": "die Zutaten (Pl.)",
+    "id": "die Zutaten",
     "raw_word": "die Zutaten (Pl.)",
     "details": {
       "article": "die",
       "headword": "Zutaten",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],

@@ -526,11 +526,11 @@
     ]
   },
   {
-    "id": "der Anruf- beantworter",
-    "raw_word": "der Anruf- beantworter",
+    "id": "der Anrufbeantworter",
+    "raw_word": "der Anrufbeantworter",
     "details": {
       "article": "der",
-      "headword": "Anruf- beantworter",
+      "headword": "Anrufbeantworter",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -3222,12 +3222,12 @@
     ]
   },
   {
-    "id": "die Eltern (pl.)",
+    "id": "die Eltern",
     "raw_word": "die Eltern (pl.)",
     "details": {
       "article": "die",
       "headword": "Eltern",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4637,12 +4637,12 @@
     ]
   },
   {
-    "id": "die Geschwister (pl.)",
+    "id": "die Geschwister",
     "raw_word": "die Geschwister (pl.)",
     "details": {
       "article": "die",
       "headword": "Geschwister",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4965,12 +4965,12 @@
     ]
   },
   {
-    "id": "die Großeltern (pl.)",
+    "id": "die Großeltern",
     "raw_word": "die Großeltern (pl.)",
     "details": {
       "article": "die",
       "headword": "Großeltern",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6740,12 +6740,12 @@
     ]
   },
   {
-    "id": "die Lebens- mittel (pl.)",
-    "raw_word": "die Lebens- mittel (pl.)",
+    "id": "die Lebensmittel",
+    "raw_word": "die Lebensmittel (pl.)",
     "details": {
       "article": "die",
-      "headword": "Lebens- mittel",
-      "plural": "only plural",
+      "headword": "Lebensmittel",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6897,12 +6897,12 @@
     ]
   },
   {
-    "id": "letzt- die Leute (pl.)",
+    "id": "letzt- die Leute",
     "raw_word": "letzt- die Leute (pl.)",
     "details": {
       "article": null,
       "headword": "letzt- die Leute",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7420,12 +7420,12 @@
     ]
   },
   {
-    "id": "die Möbel (pl.)",
+    "id": "die Möbel",
     "raw_word": "die Möbel (pl.)",
     "details": {
       "article": "die",
       "headword": "Möbel",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7999,12 +7999,12 @@
     ]
   },
   {
-    "id": "die Papiere (pl.)",
+    "id": "die Papiere",
     "raw_word": "die Papiere (pl.)",
     "details": {
       "article": "die",
       "headword": "Papiere",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],

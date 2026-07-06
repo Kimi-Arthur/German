@@ -576,11 +576,11 @@
     ]
   },
   {
-    "id": "der Anruf- beantworter",
-    "raw_word": "der Anruf- beantworter, -",
+    "id": "der Anrufbeantworter",
+    "raw_word": "der Anrufbeantworter, -",
     "details": {
       "article": "der",
-      "headword": "Anruf- beantworter",
+      "headword": "Anrufbeantworter",
       "plural": "-",
       "conjugation": [],
       "synonyms": [],
@@ -648,7 +648,7 @@
       "In Mannheim haben Sie Anschluss nach Saarbrücken.",
       "In Stuttgart erreichen Sie alle Anschlüsse.",
       "Auch der Zug nach Paris wartet.",
-      "Gibt es in der Wohnung einen Waschmaschinen- anschluss?"
+      "Gibt es in der Wohnung einen Waschmaschinenanschluss?"
     ]
   },
   {
@@ -950,7 +950,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich möchte auf jeden Fall den neuen James-Bond- Film sehen. - Wirklich?",
+      "Ich möchte auf jeden Fall den neuen James-Bond-Film sehen. - Wirklich?",
       "Ich finde James-Bond-Filme langweilig.",
       "Ich sehe ihn auf keinen Fall an!"
     ]
@@ -4456,11 +4456,11 @@
     ]
   },
   {
-    "id": "das Einkaufs- zentrum",
-    "raw_word": "das Einkaufs- zentrum, -en",
+    "id": "das Einkaufszentrum",
+    "raw_word": "das Einkaufszentrum, -en",
     "details": {
       "article": "das",
-      "headword": "Einkaufs- zentrum",
+      "headword": "Einkaufszentrum",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -4842,11 +4842,11 @@
     ]
   },
   {
-    "id": "die Entschuldi- gung",
-    "raw_word": "die Entschuldi- gung, -en",
+    "id": "die Entschuldigung",
+    "raw_word": "die Entschuldigung, -en",
     "details": {
       "article": "die",
-      "headword": "Entschuldi- gung",
+      "headword": "Entschuldigung",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -5250,11 +5250,11 @@
     ]
   },
   {
-    "id": "der Familien- name",
-    "raw_word": "der Familien- name, -n",
+    "id": "der Familienname",
+    "raw_word": "der Familienname, -n",
     "details": {
       "article": "der",
-      "headword": "Familien- name",
+      "headword": "Familienname",
       "plural": "-n",
       "conjugation": [],
       "synonyms": [],
@@ -5353,7 +5353,7 @@
       "female_form": null
     },
     "examples": [
-      "Heute sind wir faul: Wir machen keine Hausauf- gaben und arbeiten nicht."
+      "Heute sind wir faul: Wir machen keine Hausaufgaben und arbeiten nicht."
     ]
   },
   {
@@ -5451,12 +5451,12 @@
     ]
   },
   {
-    "id": "die Ferien (Pl.)",
+    "id": "die Ferien",
     "raw_word": "die Ferien (Pl.)",
     "details": {
       "article": "die",
       "headword": "Ferien",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5691,7 +5691,7 @@
     },
     "examples": [
       "Tom will fit sein.",
-      "Er geht jeden Tag ins Fitness- studio."
+      "Er geht jeden Tag ins Fitnessstudio."
     ]
   },
   {
@@ -6246,11 +6246,11 @@
     ]
   },
   {
-    "id": "der Führer- schein",
-    "raw_word": "der Führer- schein, -e",
+    "id": "der Führerschein",
+    "raw_word": "der Führerschein, -e",
     "details": {
       "article": "der",
-      "headword": "Führer- schein",
+      "headword": "Führerschein",
       "plural": "-e",
       "conjugation": [],
       "synonyms": [],
@@ -6281,12 +6281,12 @@
     ]
   },
   {
-    "id": "die Fundsachen (Pl.)",
+    "id": "die Fundsachen",
     "raw_word": "die Fundsachen (Pl.)",
     "details": {
       "article": "die",
       "headword": "Fundsachen",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7228,11 +7228,11 @@
     ]
   },
   {
-    "id": "der Glück- wunsch",
-    "raw_word": "der Glück- wunsch, ¨-e",
+    "id": "der Glückwunsch",
+    "raw_word": "der Glückwunsch, ¨-e",
     "details": {
       "article": "der",
-      "headword": "Glück- wunsch",
+      "headword": "Glückwunsch",
       "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
@@ -8725,12 +8725,12 @@
     ]
   },
   {
-    "id": "die Jeans (Pl.)",
+    "id": "die Jeans",
     "raw_word": "die Jeans (Pl.)",
     "details": {
       "article": "die",
       "headword": "Jeans",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8817,14 +8817,14 @@
   },
   {
     "id": "joggen",
-    "raw_word": "joggen, joggt, ist/hat gejoggt 616002_30_etsiltroW_2A die Jugend- herberge, -n der/die Jugendliche, -n",
+    "raw_word": "joggen, joggt, ist/hat gejoggt 616002_30_etsiltroW_2A die Jugendherberge, -n der/die Jugendliche, -n",
     "details": {
       "article": null,
       "headword": "joggen",
       "plural": null,
       "conjugation": [
         "joggt",
-        "ist/hat gejoggt 616002_30_etsiltroW_2A die Jugend- herberge",
+        "ist/hat gejoggt 616002_30_etsiltroW_2A die Jugendherberge",
         "-n der"
       ],
       "synonyms": [],
@@ -9731,11 +9731,11 @@
     ]
   },
   {
-    "id": "das Kranken- haus",
-    "raw_word": "das Kranken- haus, ¨-er",
+    "id": "das Krankenhaus",
+    "raw_word": "das Krankenhaus, ¨-er",
     "details": {
       "article": "das",
-      "headword": "Kranken- haus",
+      "headword": "Krankenhaus",
       "plural": "¨-er",
       "conjugation": [],
       "synonyms": [],
@@ -9749,11 +9749,11 @@
     ]
   },
   {
-    "id": "die Kranken- kasse",
-    "raw_word": "die Kranken- kasse, -n",
+    "id": "die Krankenkasse",
+    "raw_word": "die Krankenkasse, -n",
     "details": {
       "article": "die",
-      "headword": "Kranken- kasse",
+      "headword": "Krankenkasse",
       "plural": "-n",
       "conjugation": [],
       "synonyms": [],
@@ -9911,11 +9911,11 @@
     ]
   },
   {
-    "id": "der Kühl- schrank",
-    "raw_word": "der Kühl- schrank, ¨-e",
+    "id": "der Kühlschrank",
+    "raw_word": "der Kühlschrank, ¨-e",
     "details": {
       "article": "der",
-      "headword": "Kühl- schrank",
+      "headword": "Kühlschrank",
       "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
@@ -10335,12 +10335,12 @@
     ]
   },
   {
-    "id": "die Lebens- mittel (Pl.)",
-    "raw_word": "die Lebens- mittel (Pl.)",
+    "id": "die Lebensmittel",
+    "raw_word": "die Lebensmittel (Pl.)",
     "details": {
       "article": "die",
-      "headword": "Lebens- mittel",
-      "plural": "only plural",
+      "headword": "Lebensmittel",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10544,12 +10544,12 @@
     ]
   },
   {
-    "id": "die Leute (Pl.)",
+    "id": "die Leute",
     "raw_word": "die Leute (Pl.)",
     "details": {
       "article": "die",
       "headword": "Leute",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11349,11 +11349,11 @@
     ]
   },
   {
-    "id": "das Mineral- wasser (Sg.)",
-    "raw_word": "das Mineral- wasser (Sg.)",
+    "id": "das Mineralwasser (Sg.)",
+    "raw_word": "das Mineralwasser (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Mineral- wasser (Sg.)",
+      "headword": "Mineralwasser (Sg.)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -11463,12 +11463,12 @@
     ]
   },
   {
-    "id": "die Möbel (Pl.)",
+    "id": "die Möbel",
     "raw_word": "die Möbel (Pl.)",
     "details": {
       "article": "die",
       "headword": "Möbel",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11480,11 +11480,11 @@
     ]
   },
   {
-    "id": "das Mobil- telefon",
-    "raw_word": "das Mobil- telefon, -e",
+    "id": "das Mobiltelefon",
+    "raw_word": "das Mobiltelefon, -e",
     "details": {
       "article": "das",
-      "headword": "Mobil- telefon",
+      "headword": "Mobiltelefon",
       "plural": "-e",
       "conjugation": [],
       "synonyms": [],
@@ -11869,7 +11869,7 @@
     "examples": [
       "Wie ist Ihr Name?",
       "Mein Name ist Thomas Schmidt.",
-      "Mein Vorname ist Thomas; Schmidt ist der Familien- name."
+      "Mein Vorname ist Thomas; Schmidt ist der Familienname."
     ]
   },
   {
@@ -12510,12 +12510,12 @@
     ]
   },
   {
-    "id": "die Papiere (Pl.)",
+    "id": "die Papiere",
     "raw_word": "die Papiere (Pl.)",
     "details": {
       "article": "die",
       "headword": "Papiere",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12890,12 +12890,12 @@
     ]
   },
   {
-    "id": "die Pommes frites (Pl.)",
+    "id": "die Pommes frites",
     "raw_word": "die Pommes frites (Pl.)",
     "details": {
       "article": "die",
       "headword": "Pommes frites",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12976,11 +12976,11 @@
     ]
   },
   {
-    "id": "die Postleit- zahl",
-    "raw_word": "die Postleit- zahl, -en",
+    "id": "die Postleitzahl",
+    "raw_word": "die Postleitzahl, -en",
     "details": {
       "article": "die",
-      "headword": "Postleit- zahl",
+      "headword": "Postleitzahl",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -14353,7 +14353,7 @@
     "examples": [
       "Zitronen sind mir zu sauer.",
       "Was ist los? –Ich bin sauer.",
-      "Ich muss am Wochen- ende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen."
+      "Ich muss am Wochenende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen."
     ]
   },
   {
@@ -15173,11 +15173,11 @@
     ]
   },
   {
-    "id": "das Schwimm- bad",
-    "raw_word": "das Schwimm- bad, ¨-er",
+    "id": "das Schwimmbad",
+    "raw_word": "das Schwimmbad, ¨-er",
     "details": {
       "article": "das",
-      "headword": "Schwimm- bad",
+      "headword": "Schwimmbad",
       "plural": "¨-er",
       "conjugation": [],
       "synonyms": [],
@@ -15270,11 +15270,11 @@
     ]
   },
   {
-    "id": "die Sehens- würdigkeit",
-    "raw_word": "die Sehens- würdigkeit, -en",
+    "id": "die Sehenswürdigkeit",
+    "raw_word": "die Sehenswürdigkeit, -en",
     "details": {
       "article": "die",
-      "headword": "Sehens- würdigkeit",
+      "headword": "Sehenswürdigkeit",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -15818,11 +15818,11 @@
     ]
   },
   {
-    "id": "der Spazier- gang",
-    "raw_word": "der Spazier- gang, ¨-e",
+    "id": "der Spaziergang",
+    "raw_word": "der Spaziergang, ¨-e",
     "details": {
       "article": "der",
-      "headword": "Spazier- gang",
+      "headword": "Spaziergang",
       "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
@@ -15999,11 +15999,11 @@
     ]
   },
   {
-    "id": "die Sprech- stunde",
-    "raw_word": "die Sprech- stunde, -n",
+    "id": "die Sprechstunde",
+    "raw_word": "die Sprechstunde, -n",
     "details": {
       "article": "die",
-      "headword": "Sprech- stunde",
+      "headword": "Sprechstunde",
       "plural": "-n",
       "conjugation": [],
       "synonyms": [],
@@ -16224,11 +16224,11 @@
     ]
   },
   {
-    "id": "das Stipen- dium",
-    "raw_word": "das Stipen- dium, -en",
+    "id": "das Stipendium",
+    "raw_word": "das Stipendium, -en",
     "details": {
       "article": "das",
-      "headword": "Stipen- dium",
+      "headword": "Stipendium",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -16332,11 +16332,11 @@
     ]
   },
   {
-    "id": "die Straßen- bahn",
-    "raw_word": "die Straßen- bahn, -en",
+    "id": "die Straßenbahn",
+    "raw_word": "die Straßenbahn, -en",
     "details": {
       "article": "die",
-      "headword": "Straßen- bahn",
+      "headword": "Straßenbahn",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -16606,12 +16606,12 @@
     ]
   },
   {
-    "id": "die Süßigkeiten (Pl.)",
+    "id": "die Süßigkeiten",
     "raw_word": "die Süßigkeiten (Pl.)",
     "details": {
       "article": "die",
       "headword": "Süßigkeiten",
-      "plural": "only plural",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17709,11 +17709,11 @@
     ]
   },
   {
-    "id": "die Über- setzung",
-    "raw_word": "die Über- setzung, -en",
+    "id": "die Übersetzung",
+    "raw_word": "die Übersetzung, -en",
     "details": {
       "article": "die",
-      "headword": "Über- setzung",
+      "headword": "Übersetzung",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -18144,11 +18144,11 @@
     ]
   },
   {
-    "id": "die Veranstal- tung",
-    "raw_word": "die Veranstal- tung, -en",
+    "id": "die Veranstaltung",
+    "raw_word": "die Veranstaltung, -en",
     "details": {
       "article": "die",
-      "headword": "Veranstal- tung",
+      "headword": "Veranstaltung",
       "plural": "-en",
       "conjugation": [],
       "synonyms": [],
@@ -18316,11 +18316,11 @@
     ]
   },
   {
-    "id": "das Verkehrs- mittel",
-    "raw_word": "das Verkehrs- mittel, -",
+    "id": "das Verkehrsmittel",
+    "raw_word": "das Verkehrsmittel, -",
     "details": {
       "article": "das",
-      "headword": "Verkehrs- mittel",
+      "headword": "Verkehrsmittel",
       "plural": "-",
       "conjugation": [],
       "synonyms": [],
@@ -19424,11 +19424,11 @@
     ]
   },
   {
-    "id": "weiter (z. B. weiter- machen/-helfen)",
-    "raw_word": "weiter (z. B. weiter- machen/-helfen)",
+    "id": "weiter (z. B. weitermachen/-helfen)",
+    "raw_word": "weiter (z. B. weitermachen/-helfen)",
     "details": {
       "article": null,
-      "headword": "weiter (z. B. weiter- machen/-helfen)",
+      "headword": "weiter (z. B. weitermachen/-helfen)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
