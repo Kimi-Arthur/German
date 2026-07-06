@@ -338,8 +338,8 @@
         {
           "word": "Matura",
           "regional_usage": [
-            "A",
-            "CH"
+            "CH",
+            "A"
           ]
         }
       ],
@@ -8515,7 +8515,7 @@
   },
   {
     "id": "der Briefträger",
-    "raw_word": "der Briefträger, →CH:dieBriefträgerin,-nen",
+    "raw_word": "der Briefträger, →CH:die Briefträgerin,-nen",
     "details": {
       "article": "der",
       "headword": "Briefträger",
@@ -8523,7 +8523,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "dieBriefträgerin,-nen",
+          "word": "die Briefträgerin",
           "regional_usage": [
             "CH"
           ]
@@ -8594,8 +8594,8 @@
         {
           "word": "Portemonnaie/Portmonee",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         },
         {
@@ -9782,12 +9782,21 @@
     "details": {
       "article": "das",
       "headword": "Datum",
-      "plural": "die Daten",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Daten",
+        "plural": null,
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Welches Datum haben wir heute?",
@@ -10673,8 +10682,8 @@
         {
           "word": "Büchse",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -11255,7 +11264,7 @@
   },
   {
     "id": "die e-card",
-    "raw_word": "die e-card (A) →D:dieVersichertenkarte",
+    "raw_word": "die e-card (A) →D:die Versichertenkarte",
     "details": {
       "article": "die",
       "headword": "e-card",
@@ -11263,7 +11272,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "dieVersichertenkarte",
+          "word": "die Versichertenkarte",
           "regional_usage": [
             "D"
           ]
@@ -11364,8 +11373,8 @@
         {
           "word": "Ecke",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -15549,8 +15558,8 @@
         {
           "word": "Hackfleisch",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -15721,8 +15730,8 @@
         {
           "word": "Sessel",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -16852,8 +16861,8 @@
         {
           "word": "Korridor",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -19147,8 +19156,8 @@
         {
           "word": "Bancomat/Bankomat",
           "regional_usage": [
-            "A",
-            "CH"
+            "CH",
+            "A"
           ]
         }
       ],
@@ -19178,8 +19187,8 @@
         {
           "word": "Portemonnaie/Portmonee",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -21206,8 +21215,10 @@
           ]
         },
         {
-          "word": "Poulet, -s (CH)",
-          "regional_usage": []
+          "word": "Poulet",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -23471,7 +23482,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Jause, CH: Znüni/Zvieri",
+          "word": "Jause",
           "regional_usage": [
             "A"
           ]
@@ -24596,8 +24607,8 @@
         {
           "word": "Bub",
           "regional_usage": [
-            "A",
-            "CH"
+            "CH",
+            "A"
           ]
         }
       ],
@@ -25183,8 +25194,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Kiste (A, D)",
-          "regional_usage": []
+          "word": "Kiste",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -25209,8 +25223,8 @@
         {
           "word": "Schrank",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -27084,8 +27098,8 @@
         {
           "word": "probieren",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -30494,8 +30508,8 @@
         {
           "word": "Aprikose",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -35438,8 +35452,8 @@
         {
           "word": "Rente",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -35472,8 +35486,8 @@
         {
           "word": "pensioniert werden/sein",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -35553,8 +35567,8 @@
         {
           "word": "Rentner",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -37474,7 +37488,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Schlag-)Sahne, A: (Schlag-)Obers",
+          "word": "(Schlag-)Sahne",
           "regional_usage": [
             "D"
           ]
@@ -38630,8 +38644,8 @@
         {
           "word": "Pension",
           "regional_usage": [
-            "A",
-            "CH"
+            "CH",
+            "A"
           ]
         }
       ],
@@ -39174,8 +39188,8 @@
         {
           "word": "(Back-)Ofen",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -41191,8 +41205,8 @@
         {
           "word": "Kasten",
           "regional_usage": [
-            "A",
-            "CH"
+            "CH",
+            "A"
           ]
         }
       ],
@@ -42543,7 +42557,7 @@
       "female_form": {
         "article": "die",
         "headword": "Serviceangestellte",
-        "plural": "n",
+        "plural": null,
         "conjugation": [],
         "synonyms": [],
         "regional_usage": [],
@@ -42565,8 +42579,8 @@
         {
           "word": "Fauteuil",
           "regional_usage": [
-            "A",
-            "CH"
+            "CH",
+            "A"
           ]
         }
       ],
@@ -42593,8 +42607,8 @@
         {
           "word": "Stuhl",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -45107,8 +45121,8 @@
         {
           "word": "Treppe",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -45135,8 +45149,8 @@
         {
           "word": "Treppenhaus",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -45239,8 +45253,8 @@
         {
           "word": "Etage",
           "regional_usage": [
-            "D",
-            "CH"
+            "CH",
+            "D"
           ]
         }
       ],
@@ -48340,8 +48354,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Gehsteig (D, A)",
-          "regional_usage": []
+          "word": "Gehsteig",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -55222,16 +55239,25 @@
   },
   {
     "id": "der Wissenschaftler",
-    "raw_word": "der Wissenschaftler, dieWissenschaftlerin,-nen",
+    "raw_word": "der Wissenschaftler, die Wissenschaftlerin,-nen",
     "details": {
       "article": "der",
       "headword": "Wissenschaftler",
-      "plural": "dieWissenschaftlerin",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Wissenschaftlerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Sie ist Wissenschaftlerin an der Universität."

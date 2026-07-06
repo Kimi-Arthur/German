@@ -6,6 +6,9 @@ def normalize_char(c):
     c = c.lower()
     return {'ä': 'a', 'ö': 'o', 'ü': 'u'}.get(c, c)
 
+def clean_word_spaces(text):
+    return re.sub(r'\b(der|die|das|der/die|die/das|der/das)([A-ZÄÖÜ])', r'\1 \2', text)
+
 def clean_word(w):
     w_lower = w.lower()
     for prefix in ["der ", "die ", "das ", "sich ", "(sich) "]:
@@ -111,19 +114,34 @@ def parse_word_details(raw_word):
         ref_text = ref_match.group(1).strip()
         syn_parts = [p.strip() for p in ref_text.split(";") if p.strip()]
         for part in syn_parts:
-            syn_reg_match = re.match(r'^([A-Z\s,]+):\s*(.+)$', part)
-            if syn_reg_match:
-                syn_reg = [x.strip() for x in syn_reg_match.group(1).split(",")]
-                syn_val = syn_reg_match.group(2).strip()
-                result["synonyms"].append({
-                    "word": syn_val,
-                    "regional_usage": syn_reg
-                })
-            else:
-                result["synonyms"].append({
-                    "word": part,
-                    "regional_usage": []
-                })
+            # 1. Extract trailing regional marker (e.g. "Poulet (CH)")
+            syn_reg = []
+            suffix_match = re.search(r'\s*\(([A-Z\d\s,.]+)\)$', part)
+            if suffix_match:
+                raw_regs = suffix_match.group(1).split(",")
+                for r in raw_regs:
+                    r_clean = re.sub(r'[\d.]', '', r).strip()
+                    if r_clean in ["D", "A", "CH"]:
+                        syn_reg.append(r_clean)
+                part = part[:suffix_match.start()].strip()
+                
+            # 2. Check for prefix regional marker (e.g. "A: Hend(e)l")
+            prefix_match = re.match(r'^([A-Z\s,]+):\s*(.+)$', part)
+            if prefix_match:
+                prefix_regs = [x.strip() for x in prefix_match.group(1).split(",")]
+                syn_reg.extend(prefix_regs)
+                part = prefix_match.group(2).strip()
+                
+            # 3. Strip trailing form changes (e.g. "Poulet, -s" -> "Poulet")
+            part_clean = part.split(',')[0].strip()
+            
+            # 4. Clean up any remaining reference arrows in the synonym itself
+            part_clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', part_clean).strip()
+            
+            result["synonyms"].append({
+                "word": part_clean,
+                "regional_usage": list(set(syn_reg))
+            })
         work_str = work_str[:ref_match.start()].strip()
         
     # 3. Check for plural only marker "(Pl.)" and singular only marker "(Sg.)"
@@ -134,8 +152,8 @@ def parse_word_details(raw_word):
         result["plural"] = "(Sg.)"
         work_str = re.sub(r'\s*\([Ss]g\.\)\s*', ' ', work_str).strip()
 
-    # 4. Check for female counterparts like "/ die Architektin, -nen"
-    female_match = re.search(r'\/\s*(die\s+[A-ZÄÖÜ].+)', work_str)
+    # 4. Check for female counterparts like "/ die Architektin, -nen" or ", die Wissenschaftlerin, -nen"
+    female_match = re.search(r'(?:\/|,)\s*(die\s+[A-ZÄÖÜ][a-zA-ZäöüßÄÖÜ]+(?:\s*,\s*-\w+)?)', work_str)
     if female_match:
         female_raw = female_match.group(1).strip()
         result["female_form"] = parse_word_details(female_raw)
@@ -265,7 +283,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 
         if is_new_entry:
             if current_word:
-                word_full = join_word_parts(current_word)
+                word_full = clean_word_spaces(join_word_parts(current_word))
                 pending_article = None
                 for suffix in ["/der", "/die", "/das", "/ der", "/ die", "/ das"]:
                     if word_full.endswith(suffix):
@@ -297,7 +315,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 current_examples.append(example_str)
             
     if current_word:
-        word_full = join_word_parts(current_word)
+        word_full = clean_word_spaces(join_word_parts(current_word))
         for suffix in ["/der", "/die", "/das", "/ der", "/ die", "/ das", "/"]:
             if word_full.endswith(suffix):
                 word_full = word_full[:-len(suffix)].strip()
