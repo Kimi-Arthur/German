@@ -227,7 +227,7 @@ def parse_word_details(raw_word):
                 if is_female:
                     fem_details = parse_word_details(clean_part_for_check)
                     if syn_reg:
-                        fem_details["regional_usage"] = list(set(syn_reg))
+                        fem_details["regional_usage"] = sorted(list(set(syn_reg)))
                     result["female_form"] = {
                         "id": get_clean_id(clean_part_for_check),
                         "raw_word": clean_part_for_check,
@@ -236,7 +236,7 @@ def parse_word_details(raw_word):
                 else:
                     result["synonyms"].append({
                         "word": part_clean,
-                        "regional_usage": list(set(syn_reg))
+                        "regional_usage": sorted(list(set(syn_reg)))
                     })
         work_str = work_str[:ref_match.start()].strip().rstrip(";,")
         
