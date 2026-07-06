@@ -1,5 +1,22 @@
 [
   {
+    "id": "ALPHABETISCHER",
+    "raw_word": "ALPHABETISCHER",
+    "details": {
+      "article": null,
+      "headword": "ALPHABETISCHER",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "WORTSCHATZ"
+    ]
+  },
+  {
     "id": "ab",
     "raw_word": "ab",
     "details": {
@@ -708,12 +725,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Anmeldung",
+    "raw_word": "die Anmeldung,-en",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Anmeldung",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1431,12 +1448,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Ausbildung",
+    "raw_word": "die Ausbildung,-en",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Ausbildung",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1835,27 +1852,14 @@
   },
   {
     "id": "spricht aus",
-    "raw_word": "spricht aus,",
+    "raw_word": "spricht aus, hat ausgesprochen",
     "details": {
       "article": null,
       "headword": "spricht aus",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "hat",
-    "raw_word": "hat",
-    "details": {
-      "article": null,
-      "headword": "hat",
-      "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "hat ausgesprochen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -1900,12 +1904,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Ausstellung",
+    "raw_word": "die Ausstellung,-en",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Ausstellung",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -2358,11 +2362,11 @@
   },
   {
     "id": "der Basketball",
-    "raw_word": "der Basketball,",
+    "raw_word": "der Basketball, ¨-e",
     "details": {
       "article": "der",
       "headword": "Basketball",
-      "plural": null,
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3418,11 +3422,11 @@
   },
   {
     "id": "die Bewerbung",
-    "raw_word": "die Bewerbung,",
+    "raw_word": "die Bewerbung, -en",
     "details": {
       "article": "die",
       "headword": "Bewerbung",
-      "plural": null,
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3501,11 +3505,11 @@
   },
   {
     "id": "die Bibliothek",
-    "raw_word": "die Bibliothek,",
+    "raw_word": "die Bibliothek, -en",
     "details": {
       "article": "die",
       "headword": "Bibliothek",
-      "plural": null,
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4544,13 +4548,17 @@
     ]
   },
   {
-    "id": "dafür/dagegen ist dafür/dagegen",
-    "raw_word": "dafür/dagegen ist dafür/dagegen,",
+    "id": "dafür/dagegen sein",
+    "raw_word": "dafür/dagegen sein, ist dafür/dagegen, war dafür/dagegen, ist dafür/ dagegen gewesen",
     "details": {
       "article": null,
-      "headword": "dafür ist dafür/dagegen",
+      "headword": "dafür sein",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "ist dafür/dagegen",
+        "war dafür/dagegen",
+        "ist dafür/ dagegen gewesen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [
@@ -4561,21 +4569,6 @@
     "examples": [
       "Ich bin dafür/dagegen."
     ]
-  },
-  {
-    "id": "war ist dafür/ dagegen gewesen",
-    "raw_word": "war ist dafür/ dagegen gewesen",
-    "details": {
-      "article": null,
-      "headword": "war ist dafür/ dagegen gewesen",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "damals",
@@ -5016,11 +5009,11 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Doppelzimmer",
+    "raw_word": "das Doppelzimmer,",
     "details": {
       "article": "das",
-      "headword": "das",
+      "headword": "Doppelzimmer",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -5465,11 +5458,26 @@
   },
   {
     "id": "die Ehefrau",
-    "raw_word": "die Ehefrau, -en/ der",
+    "raw_word": "die Ehefrau, -en/",
     "details": {
       "article": "die",
       "headword": "Ehefrau",
-      "plural": "-en/ der",
+      "plural": "-en/",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
+  },
+  {
+    "id": "der Ehemann",
+    "raw_word": "der Ehemann,¨-er/",
+    "details": {
+      "article": "der",
+      "headword": "Ehemann",
+      "plural": "¨-er/",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5902,12 +5910,14 @@
   },
   {
     "id": "sein",
-    "raw_word": "sein, ist einverstanden,",
+    "raw_word": "sein, ist einverstanden, war einverstanden, ist einverstanden",
     "details": {
       "article": null,
       "headword": "sein",
       "plural": null,
       "conjugation": [
+        "ist einverstanden",
+        "war einverstanden",
         "ist einverstanden"
       ],
       "synonyms": [],
@@ -5917,24 +5927,7 @@
     },
     "examples": [
       "bin) einverstanden.",
-      "Bist du einverstanden, wenn wir bald nach Hause"
-    ]
-  },
-  {
-    "id": "war ist einverstanden",
-    "raw_word": "war ist einverstanden",
-    "details": {
-      "article": null,
-      "headword": "war ist einverstanden",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gehen?"
+      "Bist du einverstanden, wenn wir bald nach Hause gehen?"
     ]
   },
   {
@@ -6240,12 +6233,12 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Erdgeschoss",
+    "raw_word": "das Erdgeschoss,-e",
     "details": {
       "article": "das",
-      "headword": "das",
-      "plural": null,
+      "headword": "Erdgeschoss",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6258,11 +6251,11 @@
   },
   {
     "id": "die Erfahrung",
-    "raw_word": "die Erfahrung,",
+    "raw_word": "die Erfahrung, -en",
     "details": {
       "article": "die",
       "headword": "Erfahrung",
-      "plural": null,
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6391,7 +6384,7 @@
   },
   {
     "id": "erlaubt sein",
-    "raw_word": "erlaubt sein, ist erlaubt, war erlaubt, ist erlaubt",
+    "raw_word": "erlaubt sein, ist erlaubt, war erlaubt, ist erlaubt gewesen",
     "details": {
       "article": null,
       "headword": "erlaubt sein",
@@ -6399,7 +6392,7 @@
       "conjugation": [
         "ist erlaubt",
         "war erlaubt",
-        "ist erlaubt"
+        "ist erlaubt gewesen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -6428,12 +6421,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Ermäßigung",
+    "raw_word": "die Ermäßigung,-enFür",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Ermäßigung",
+      "plural": "-enFür",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6500,12 +6493,12 @@
     ]
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Erwachsene",
+    "raw_word": "der Erwachsene,-n",
     "details": {
       "article": "der",
-      "headword": "der",
-      "plural": null,
+      "headword": "Erwachsene",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6719,11 +6712,11 @@
   },
   {
     "id": "das (Fahr)Rad",
-    "raw_word": "das (Fahr)Rad,",
+    "raw_word": "das (Fahr)Rad, ¨-er",
     "details": {
       "article": "das",
       "headword": "(Fahr)Rad",
-      "plural": null,
+      "plural": "¨-er",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7477,11 +7470,11 @@
   },
   {
     "id": "der Fotoapparat",
-    "raw_word": "der Fotoapparat,",
+    "raw_word": "der Fotoapparat, -eIch",
     "details": {
       "article": "der",
       "headword": "Fotoapparat",
-      "plural": null,
+      "plural": "-eIch",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7729,11 +7722,11 @@
   },
   {
     "id": "die Freundin",
-    "raw_word": "die Freundin,",
+    "raw_word": "die Freundin, -nen",
     "details": {
       "article": "die",
       "headword": "Freundin",
-      "plural": null,
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -7853,11 +7846,11 @@
     ]
   },
   {
-    "id": "das Frühstück",
-    "raw_word": "das Frühstück",
+    "id": "das Frühstück (Sg.)",
+    "raw_word": "das Frühstück (Sg.)",
     "details": {
       "article": "das",
-      "headword": "Frühstück",
+      "headword": "Frühstück (Sg.)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9486,11 +9479,11 @@
   },
   {
     "id": "das Handtuch",
-    "raw_word": "das Handtuch,",
+    "raw_word": "das Handtuch, ¨-er",
     "details": {
       "article": "das",
       "headword": "Handtuch",
-      "plural": null,
+      "plural": "¨-er",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9579,11 +9572,11 @@
   },
   {
     "id": "die Hauptstadt",
-    "raw_word": "die Hauptstadt,",
+    "raw_word": "die Hauptstadt, ¨-e",
     "details": {
       "article": "die",
       "headword": "Hauptstadt",
-      "plural": null,
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9970,27 +9963,14 @@
   },
   {
     "id": "lädt herunter",
-    "raw_word": "lädt herunter,",
+    "raw_word": "lädt herunter, hat heruntergeladen",
     "details": {
       "article": null,
       "headword": "lädt herunter",
       "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "hat",
-    "raw_word": "hat",
-    "details": {
-      "article": null,
-      "headword": "hat",
-      "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "hat heruntergeladen"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -10442,12 +10422,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Information",
+    "raw_word": "die Information,-en",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Information",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10532,11 +10512,11 @@
   },
   {
     "id": "das Instrument",
-    "raw_word": "das Instrument,",
+    "raw_word": "das Instrument, -e",
     "details": {
       "article": "das",
       "headword": "Instrument",
-      "plural": null,
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10583,11 +10563,11 @@
     ]
   },
   {
-    "id": "interessieren",
-    "raw_word": "interessieren",
+    "id": "interessieren (sich)",
+    "raw_word": "interessieren (sich),",
     "details": {
       "article": null,
-      "headword": "interessieren",
+      "headword": "interessieren (sich)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -11263,11 +11243,11 @@
   },
   {
     "id": "die Kenntnisse",
-    "raw_word": "die Kenntnisse",
+    "raw_word": "die Kenntnisse (Pl.)",
     "details": {
       "article": "die",
       "headword": "Kenntnisse",
-      "plural": null,
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11314,12 +11294,12 @@
     ]
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Kindergarten",
+    "raw_word": "der Kindergarten,¨-Die",
     "details": {
       "article": "der",
-      "headword": "der",
-      "plural": null,
+      "headword": "Kindergarten",
+      "plural": "¨-Die",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12303,11 +12283,11 @@
   },
   {
     "id": "die Landschaft",
-    "raw_word": "die Landschaft,",
+    "raw_word": "die Landschaft, -en",
     "details": {
       "article": "die",
       "headword": "Landschaft",
-      "plural": null,
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13236,12 +13216,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Mannschaft",
+    "raw_word": "die Mannschaft,-enMeine",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Mannschaft",
+      "plural": "-enMeine",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13306,12 +13286,12 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Medikament",
+    "raw_word": "das Medikament,-e",
     "details": {
       "article": "das",
-      "headword": "das",
-      "plural": null,
+      "headword": "Medikament",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13617,11 +13597,11 @@
     ]
   },
   {
-    "id": "mit (+ mitbringen/",
-    "raw_word": "mit (+ mitbringen/",
+    "id": "mit (+ mitbringen/ -kommen/-machen/Fahren",
+    "raw_word": "mit (+ mitbringen/ -kommen/-machen/Fahren",
     "details": {
       "article": null,
-      "headword": "mit (+ mitbringen/",
+      "headword": "mit (+ mitbringen/ -kommen/-machen/Fahren",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -13630,7 +13610,26 @@
       "female_form": null
     },
     "examples": [
-      "Trinken Sie den Kaffee mit oder ohne Zucker? wir mit dem Auto oder mit dem Zug nach Hamburg?",
+      "Trinken Sie den Kaffee mit oder ohne Zucker? wir mit dem Auto oder mit dem Zug nach"
+    ]
+  },
+  {
+    "id": "-nehmen/-spielen)",
+    "raw_word": "-nehmen/-spielen)",
+    "details": {
+      "article": null,
+      "headword": "-nehmen)",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [
+        "-spielen"
+      ],
+      "female_form": null
+    },
+    "examples": [
+      "Hamburg?",
       "Ich komme mit meinem Freund.",
       "Ich gehe einkaufen.",
       "Soll ich dir was mitbringen?",
@@ -14123,12 +14122,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Nachbarin",
+    "raw_word": "die Nachbarin,-nen",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Nachbarin",
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15185,11 +15184,11 @@
   },
   {
     "id": "die Partnerin",
-    "raw_word": "die Partnerin,",
+    "raw_word": "die Partnerin, -nen",
     "details": {
       "article": "die",
       "headword": "Partnerin",
-      "plural": null,
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -16518,11 +16517,11 @@
   },
   {
     "id": "die Rentnerin",
-    "raw_word": "die Rentnerin,",
+    "raw_word": "die Rentnerin, -nen",
     "details": {
       "article": "die",
       "headword": "Rentnerin",
-      "plural": null,
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18867,13 +18866,13 @@
   },
   {
     "id": "geht spazieren",
-    "raw_word": "geht spazieren, ist spazieren",
+    "raw_word": "geht spazieren, ist spazieren gegangen",
     "details": {
       "article": null,
       "headword": "geht spazieren",
       "plural": null,
       "conjugation": [
-        "ist spazieren"
+        "ist spazieren gegangen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -18948,11 +18947,11 @@
   },
   {
     "id": "die Speisekarte",
-    "raw_word": "die Speisekarte,",
+    "raw_word": "die Speisekarte, -n",
     "details": {
       "article": "die",
       "headword": "Speisekarte",
-      "plural": null,
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19606,11 +19605,11 @@
   },
   {
     "id": "die Studentin",
-    "raw_word": "die Studentin,",
+    "raw_word": "die Studentin, -nen",
     "details": {
       "article": "die",
       "headword": "Studentin",
-      "plural": null,
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19729,11 +19728,11 @@
   },
   {
     "id": "der Supermarkt",
-    "raw_word": "der Supermarkt,",
+    "raw_word": "der Supermarkt, ¨-eIch",
     "details": {
       "article": "der",
       "headword": "Supermarkt",
-      "plural": null,
+      "plural": "¨-eIch",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21289,13 +21288,13 @@
   },
   {
     "id": "zog sich um",
-    "raw_word": "zog sich um, hat sich",
+    "raw_word": "zog sich um, hat sich umgezogen",
     "details": {
       "article": null,
       "headword": "zog sich um",
       "plural": null,
       "conjugation": [
-        "hat sich"
+        "hat sich umgezogen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -21376,11 +21375,11 @@
   },
   {
     "id": "die Universität",
-    "raw_word": "die Universität,",
+    "raw_word": "die Universität, -en",
     "details": {
       "article": "die",
       "headword": "Universität",
-      "plural": null,
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21463,11 +21462,11 @@
   },
   {
     "id": "die Unterkunft",
-    "raw_word": "die Unterkunft,",
+    "raw_word": "die Unterkunft, ¨-e",
     "details": {
       "article": "die",
       "headword": "Unterkunft",
-      "plural": null,
+      "plural": "¨-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21514,11 +21513,11 @@
     "examples": []
   },
   {
-    "id": "der Unterricht",
-    "raw_word": "der Unterricht",
+    "id": "der Unterricht (Sg.)",
+    "raw_word": "der Unterricht (Sg.)",
     "details": {
       "article": "der",
-      "headword": "Unterricht",
+      "headword": "Unterricht (Sg.)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -21532,11 +21531,11 @@
   },
   {
     "id": "der Unterschied",
-    "raw_word": "der Unterschied,",
+    "raw_word": "der Unterschied, -e",
     "details": {
       "article": "der",
       "headword": "Unterschied",
-      "plural": null,
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21567,12 +21566,14 @@
   },
   {
     "id": "unterschreibt",
-    "raw_word": "unterschreibt,",
+    "raw_word": "unterschreibt, hat unterschrieben",
     "details": {
       "article": null,
       "headword": "unterschreibt",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "hat unterschrieben"
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -21581,27 +21582,12 @@
     "examples": []
   },
   {
-    "id": "hat",
-    "raw_word": "hat",
-    "details": {
-      "article": null,
-      "headword": "hat",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Unterschrift",
+    "raw_word": "die Unterschrift,-en",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Unterschrift",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21650,7 +21636,7 @@
   },
   {
     "id": "unterwegs sein",
-    "raw_word": "unterwegs sein, ist unterwegs, war unterwegs, ist unterwegs",
+    "raw_word": "unterwegs sein, ist unterwegs, war unterwegs, ist unterwegs gewesen",
     "details": {
       "article": null,
       "headword": "unterwegs sein",
@@ -21658,7 +21644,7 @@
       "conjugation": [
         "ist unterwegs",
         "war unterwegs",
-        "ist unterwegs"
+        "ist unterwegs gewesen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -21689,7 +21675,7 @@
   },
   {
     "id": "verabredet sein",
-    "raw_word": "verabredet sein, ist verabredet, war verabredet, ist verabredet",
+    "raw_word": "verabredet sein, ist verabredet, war verabredet, ist verabredet gewesen",
     "details": {
       "article": null,
       "headword": "verabredet sein",
@@ -21697,7 +21683,7 @@
       "conjugation": [
         "ist verabredet",
         "war verabredet",
-        "ist verabredet"
+        "ist verabredet gewesen"
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -22129,11 +22115,11 @@
   },
   {
     "id": "die Vermieterin",
-    "raw_word": "die Vermieterin,",
+    "raw_word": "die Vermieterin, -nen",
     "details": {
       "article": "die",
       "headword": "Vermieterin",
-      "plural": null,
+      "plural": "-nen",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -22266,12 +22252,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Verspätung",
+    "raw_word": "die Verspätung,-en",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Verspätung",
+      "plural": "-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23554,11 +23540,11 @@
   },
   {
     "id": "die Werkstatt",
-    "raw_word": "die Werkstatt,",
+    "raw_word": "die Werkstatt, ¨-en",
     "details": {
       "article": "die",
       "headword": "Werkstatt",
-      "plural": null,
+      "plural": "¨-en",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23572,11 +23558,11 @@
   },
   {
     "id": "der Wettbewerb",
-    "raw_word": "der Wettbewerb,",
+    "raw_word": "der Wettbewerb, -eMein",
     "details": {
       "article": "der",
       "headword": "Wettbewerb",
-      "plural": null,
+      "plural": "-eMein",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23723,11 +23709,11 @@
   },
   {
     "id": "das Wiederhören",
-    "raw_word": "das Wiederhören,",
+    "raw_word": "das Wiederhören, -",
     "details": {
       "article": "das",
       "headword": "Wiederhören",
-      "plural": null,
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23741,11 +23727,11 @@
   },
   {
     "id": "das Wiedersehen",
-    "raw_word": "das Wiedersehen,",
+    "raw_word": "das Wiedersehen, -",
     "details": {
       "article": "das",
       "headword": "Wiedersehen",
-      "plural": null,
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23976,11 +23962,11 @@
   },
   {
     "id": "das Wohnzimmer",
-    "raw_word": "das Wohnzimmer,",
+    "raw_word": "das Wohnzimmer, -",
     "details": {
       "article": "das",
       "headword": "Wohnzimmer",
-      "plural": null,
+      "plural": "-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -24045,11 +24031,11 @@
     "examples": []
   },
   {
-    "id": "(hat wollen als",
-    "raw_word": "(hat wollen als",
+    "id": "(hat wollen als Modalverb)",
+    "raw_word": "(hat wollen als Modalverb)",
     "details": {
       "article": null,
-      "headword": "(hat wollen als",
+      "headword": "(hat wollen als Modalverb)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],

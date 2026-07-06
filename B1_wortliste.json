@@ -1224,6 +1224,24 @@
     ]
   },
   {
+    "id": "alltäglich1.",
+    "raw_word": "alltäglich1.",
+    "details": {
+      "article": null,
+      "headword": "alltäglich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Das alltägliche Leben ist manchmal langweilig.",
+      "Der Roman erzählt eine ganz alltägliche Geschichte."
+    ]
+  },
+  {
     "id": "das Alphabet",
     "raw_word": "das Alphabet, -e",
     "details": {
@@ -1599,11 +1617,11 @@
   },
   {
     "id": "das Angebot",
-    "raw_word": "das Angebot,",
+    "raw_word": "das Angebot, -e1.",
     "details": {
       "article": "das",
       "headword": "Angebot",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -1788,11 +1806,11 @@
   },
   {
     "id": "der Anfang",
-    "raw_word": "der Anfang,",
+    "raw_word": "der Anfang, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Anfang",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -2179,11 +2197,11 @@
   },
   {
     "id": "die Anmeldung",
-    "raw_word": "die Anmeldung,",
+    "raw_word": "die Anmeldung, -en1.",
     "details": {
       "article": "die",
       "headword": "Anmeldung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -2877,11 +2895,11 @@
   },
   {
     "id": "die Anzeige",
-    "raw_word": "die Anzeige,",
+    "raw_word": "die Anzeige, -n1.",
     "details": {
       "article": "die",
       "headword": "Anzeige",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3104,11 +3122,11 @@
   },
   {
     "id": "die Arbeit",
-    "raw_word": "die Arbeit,",
+    "raw_word": "die Arbeit, -en1.",
     "details": {
       "article": "die",
       "headword": "Arbeit",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4454,11 +4472,11 @@
   },
   {
     "id": "der Ausdruck",
-    "raw_word": "der Ausdruck,",
+    "raw_word": "der Ausdruck, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Ausdruck",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -4471,11 +4489,11 @@
   },
   {
     "id": "der Ausdruck",
-    "raw_word": "der Ausdruck,",
+    "raw_word": "der Ausdruck, -e2.",
     "details": {
       "article": "der",
       "headword": "Ausdruck",
-      "plural": null,
+      "plural": "-e2.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5313,11 +5331,11 @@
   },
   {
     "id": "die Ausstellung",
-    "raw_word": "die Ausstellung,",
+    "raw_word": "die Ausstellung, -en1.",
     "details": {
       "article": "die",
       "headword": "Ausstellung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5407,11 +5425,11 @@
   },
   {
     "id": "die Auswahl",
-    "raw_word": "die Auswahl,",
+    "raw_word": "die Auswahl, -en1.",
     "details": {
       "article": "die",
       "headword": "Auswahl",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -5527,7 +5545,24 @@
     },
     "examples": [
       "Zigaretten bekommst du am Automaten.",
-      "Der Fahrkartenautomat ist auf dem Bahnsteig. Die Tür schließt automatisch.",
+      "Der Fahrkartenautomat ist auf dem Bahnsteig."
+    ]
+  },
+  {
+    "id": "automatisch1.",
+    "raw_word": "automatisch1.",
+    "details": {
+      "article": null,
+      "headword": "automatisch1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Die Tür schließt automatisch.",
       "Das Zeugnis bekommen Sie automatisch zugeschickt."
     ]
   },
@@ -5661,11 +5696,11 @@
   },
   {
     "id": "das Bad",
-    "raw_word": "das Bad,",
+    "raw_word": "das Bad, ¨-er1.",
     "details": {
       "article": "das",
       "headword": "Bad",
-      "plural": null,
+      "plural": "¨-er1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -6069,11 +6104,11 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das BargeldIch",
+    "raw_word": "das BargeldIch",
     "details": {
       "article": "das",
-      "headword": "das",
+      "headword": "BargeldIch",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -6215,11 +6250,11 @@
   },
   {
     "id": "der Bau",
-    "raw_word": "der Bau,",
+    "raw_word": "der Bau, Bauten1.",
     "details": {
       "article": "der",
       "headword": "Bau",
-      "plural": null,
+      "plural": "Bauten1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8485,7 +8520,24 @@
       "female_form": null
     },
     "examples": [
-      "Meine Eltern wollten uns mit dieser Reise eine ganz besondere Freude machen. Ich habe heute ein besonders günstiges Angebot gesehen.",
+      "Meine Eltern wollten uns mit dieser Reise eine ganz besondere Freude machen."
+    ]
+  },
+  {
+    "id": "besonders1.",
+    "raw_word": "besonders1.",
+    "details": {
+      "article": null,
+      "headword": "besonders1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Ich habe heute ein besonders günstiges Angebot gesehen.",
       "Durch den Sturm gab es besonders in Süddeutschland schwere Schäden.",
       "Wie geht’s? – Nicht besonders."
     ]
@@ -8828,11 +8880,11 @@
   },
   {
     "id": "der Besuch",
-    "raw_word": "der Besuch,",
+    "raw_word": "der Besuch, -e1.",
     "details": {
       "article": "der",
       "headword": "Besuch",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9285,11 +9337,11 @@
   },
   {
     "id": "die Bewerbung",
-    "raw_word": "die Bewerbung,",
+    "raw_word": "die Bewerbung, -en1.",
     "details": {
       "article": "die",
       "headword": "Bewerbung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9684,7 +9736,25 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe eine Bitte. Kann ich mal Ihr Handy benutzen? Eine Tasse Kaffee, bitte!",
+      "Ich habe eine Bitte.",
+      "Kann ich mal Ihr Handy benutzen?"
+    ]
+  },
+  {
+    "id": "bitte1.",
+    "raw_word": "bitte1.",
+    "details": {
+      "article": null,
+      "headword": "bitte1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Eine Tasse Kaffee, bitte!",
       "Bitte schön!",
       "Wie bitte? Was haben Sie gesagt?",
       "Sprechen Sie bitte langsam."
@@ -9844,11 +9914,11 @@
   },
   {
     "id": "der Blitz",
-    "raw_word": "der Blitz,",
+    "raw_word": "der Blitz, -e1.",
     "details": {
       "article": "der",
       "headword": "Blitz",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10312,11 +10382,11 @@
   },
   {
     "id": "der Briefkasten",
-    "raw_word": "der Briefkasten,",
+    "raw_word": "der Briefkasten, ¨-1.",
     "details": {
       "article": "der",
       "headword": "Briefkasten",
-      "plural": null,
+      "plural": "¨-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -10746,11 +10816,11 @@
   },
   {
     "id": "der Buchstabe",
-    "raw_word": "der Buchstabe,",
+    "raw_word": "der Buchstabe, -n1.",
     "details": {
       "article": "der",
       "headword": "Buchstabe",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11481,11 +11551,11 @@
     ]
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Dank1.",
+    "raw_word": "der Dank1.",
     "details": {
       "article": "der",
-      "headword": "der",
+      "headword": "Dank1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -11514,7 +11584,24 @@
       "female_form": null
     },
     "examples": [
-      "Ich bin Ihnen sehr dankbar für Ihre Hilfe. Soll ich Ihnen helfen? Nein, danke, nicht nötig.",
+      "Ich bin Ihnen sehr dankbar für Ihre Hilfe."
+    ]
+  },
+  {
+    "id": "danke1.",
+    "raw_word": "danke1.",
+    "details": {
+      "article": null,
+      "headword": "danke1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Soll ich Ihnen helfen? Nein, danke, nicht nötig.",
       "Guten Appetit! – Danke gleichfalls."
     ]
   },
@@ -11685,11 +11772,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Dauer1.",
+    "raw_word": "die Dauer1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Dauer1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -11805,11 +11892,11 @@
   },
   {
     "id": "der Gedanke",
-    "raw_word": "der Gedanke,",
+    "raw_word": "der Gedanke, -n1.",
     "details": {
       "article": "der",
       "headword": "Gedanke",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -12528,7 +12615,24 @@
       "female_form": null
     },
     "examples": [
-      "Das Buch habe ich doppelt. Wir hätten gern ein Doppelbett.",
+      "Das Buch habe ich doppelt."
+    ]
+  },
+  {
+    "id": "Doppel-1.",
+    "raw_word": "Doppel-1.",
+    "details": {
+      "article": null,
+      "headword": "Doppel-1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Wir hätten gern ein Doppelbett.",
       "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
     ]
   },
@@ -12824,11 +12928,11 @@
     ]
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Druck1.",
+    "raw_word": "der Druck1.",
     "details": {
       "article": "der",
-      "headword": "der",
+      "headword": "Druck1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -13105,11 +13209,11 @@
   },
   {
     "id": "die Dusche",
-    "raw_word": "die Dusche,",
+    "raw_word": "die Dusche, -n1.",
     "details": {
       "article": "die",
       "headword": "Dusche",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13611,11 +13715,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Eile1.",
+    "raw_word": "die Eile1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Eile1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -14177,11 +14281,11 @@
   },
   {
     "id": "der Einkauf",
-    "raw_word": "der Einkauf,",
+    "raw_word": "der Einkauf, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Einkauf",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -14702,11 +14806,11 @@
     ]
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Eintritt1.",
+    "raw_word": "der Eintritt1.",
     "details": {
       "article": "der",
-      "headword": "der",
+      "headword": "Eintritt1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -15127,11 +15231,11 @@
   },
   {
     "id": "der Empfang",
-    "raw_word": "der Empfang,",
+    "raw_word": "der Empfang, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Empfang",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -15237,11 +15341,11 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Ende1.",
+    "raw_word": "das Ende1.",
     "details": {
       "article": "das",
-      "headword": "das",
+      "headword": "Ende1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -15253,7 +15357,24 @@
       "Ich wohne am Ende der Straße.",
       "Die nächste Prüfung findet Ende August statt.",
       "Rinaldo ist Ende fünfzig.",
-      "Am Dienstag gehen die Ferien zu Ende. Damit ist das Problem endgültig gelöst.",
+      "Am Dienstag gehen die Ferien zu Ende."
+    ]
+  },
+  {
+    "id": "endgültig1.",
+    "raw_word": "endgültig1.",
+    "details": {
+      "article": null,
+      "headword": "endgültig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Damit ist das Problem endgültig gelöst.",
       "Der endgültige Termin steht noch nicht fest.",
       "Das Ergebnis ist noch nicht endgültig."
     ]
@@ -15607,7 +15728,24 @@
       "female_form": null
     },
     "examples": [
-      "Diese wichtige Entscheidung möchte ich zuerst mit meinem Mann besprechen. Es steht unentschieden zwischen den beiden Mannschaften.",
+      "Diese wichtige Entscheidung möchte ich zuerst mit meinem Mann besprechen."
+    ]
+  },
+  {
+    "id": "unentschieden1.",
+    "raw_word": "unentschieden1.",
+    "details": {
+      "article": null,
+      "headword": "unentschieden1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Es steht unentschieden zwischen den beiden Mannschaften.",
       "Ich bin noch immer unentschieden, was ich morgen tun soll."
     ]
   },
@@ -16128,11 +16266,11 @@
   },
   {
     "id": "die Erfahrung",
-    "raw_word": "die Erfahrung,",
+    "raw_word": "die Erfahrung, -en1.",
     "details": {
       "article": "die",
       "headword": "Erfahrung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -16671,11 +16809,11 @@
   },
   {
     "id": "die Erklärung",
-    "raw_word": "die Erklärung,",
+    "raw_word": "die Erklärung, -en1.",
     "details": {
       "article": "die",
       "headword": "Erklärung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17545,11 +17683,11 @@
   },
   {
     "id": "das Essen",
-    "raw_word": "das Essen,",
+    "raw_word": "das Essen, -1.",
     "details": {
       "article": "das",
       "headword": "Essen",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17928,11 +18066,11 @@
   },
   {
     "id": "der Fahrer",
-    "raw_word": "der Fahrer,",
+    "raw_word": "der Fahrer, -1.",
     "details": {
       "article": "der",
       "headword": "Fahrer",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -17988,11 +18126,11 @@
   },
   {
     "id": "der Fahrplan",
-    "raw_word": "der Fahrplan,",
+    "raw_word": "der Fahrplan, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Fahrplan",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -18643,11 +18781,11 @@
   },
   {
     "id": "der Feiertag",
-    "raw_word": "der Feiertag,",
+    "raw_word": "der Feiertag, -e1.",
     "details": {
       "article": "der",
       "headword": "Feiertag",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -19680,6 +19818,21 @@
       "variants": [],
       "female_form": null
     },
+    "examples": []
+  },
+  {
+    "id": "fließend1.",
+    "raw_word": "fließend1.",
+    "details": {
+      "article": null,
+      "headword": "fließend1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
     "examples": [
       "Mein Kollege spricht fließend Deutsch.",
       "Zimmer mit fließendem Wasser."
@@ -19862,7 +20015,24 @@
       "female_form": null
     },
     "examples": [
-      "Die Folgen des Unfalls waren schlimm. Mehr Informationen auf den folgenden Seiten.",
+      "Die Folgen des Unfalls waren schlimm."
+    ]
+  },
+  {
+    "id": "folgend1.",
+    "raw_word": "folgend1.",
+    "details": {
+      "article": null,
+      "headword": "folgend1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Mehr Informationen auf den folgenden Seiten.",
       "Das Geschäft hat folgende Angebote: …"
     ]
   },
@@ -20229,11 +20399,11 @@
   },
   {
     "id": "die Frage",
-    "raw_word": "die Frage,",
+    "raw_word": "die Frage, -n1.",
     "details": {
       "article": "die",
       "headword": "Frage",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -20481,7 +20651,24 @@
       "female_form": null
     },
     "examples": [
-      "Ich sehe meine Freunde nur am Wochenende. Er hat uns sehr freundlich begrüßt.",
+      "Ich sehe meine Freunde nur am Wochenende."
+    ]
+  },
+  {
+    "id": "freundlich1.",
+    "raw_word": "freundlich1.",
+    "details": {
+      "article": null,
+      "headword": "freundlich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Er hat uns sehr freundlich begrüßt.",
       "Der Mann ist sehr freundlich zu mir.",
       "Mit freundlichen Grüßen"
     ]
@@ -20670,7 +20857,24 @@
     },
     "examples": [
       "Ich bin froh, dass alles so gut geklappt hat.",
-      "Frohes Fest! Die Musik klingt fröhlich.",
+      "Frohes Fest!"
+    ]
+  },
+  {
+    "id": "fröhlich1.",
+    "raw_word": "fröhlich1.",
+    "details": {
+      "article": null,
+      "headword": "fröhlich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Die Musik klingt fröhlich.",
       "Sie ist ein fröhlicher Mensch."
     ]
   },
@@ -20794,11 +20998,11 @@
     "examples": []
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Frühstück1.",
+    "raw_word": "das Frühstück1.",
     "details": {
       "article": "das",
-      "headword": "das",
+      "headword": "Frühstück1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -20901,14 +21105,17 @@
   },
   {
     "id": "der Führerschein",
-    "raw_word": "der Führerschein, -e (D,",
+    "raw_word": "der Führerschein, -e (D, A)1.",
     "details": {
       "article": "der",
       "headword": "Führerschein",
-      "plural": "-e (D",
+      "plural": "-e 1.",
       "conjugation": [],
       "synonyms": [],
-      "regional_usage": [],
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "variants": [],
       "female_form": null
     },
@@ -20917,17 +21124,19 @@
     ]
   },
   {
-    "id": "→CH:",
-    "raw_word": "→CH:",
+    "id": "→CH: Führerausweis2.",
+    "raw_word": "→CH: Führerausweis2.",
     "details": {
       "article": null,
-      "headword": "→CH:",
+      "headword": "→CH: Führerausweis2.",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Führerausweis2.",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [],
@@ -20940,11 +21149,11 @@
   },
   {
     "id": "die Führung",
-    "raw_word": "die Führung,",
+    "raw_word": "die Führung, -en1.",
     "details": {
       "article": "die",
       "headword": "Führung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21094,11 +21303,11 @@
   },
   {
     "id": "der Fußball",
-    "raw_word": "der Fußball,",
+    "raw_word": "der Fußball, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Fußball",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -21790,7 +21999,24 @@
       "female_form": null
     },
     "examples": [
-      "Betreten der Baustelle auf eigene Gefahr. Achtung, hier ist eine gefährliche Kurve!",
+      "Betreten der Baustelle auf eigene Gefahr."
+    ]
+  },
+  {
+    "id": "gefährlich1.",
+    "raw_word": "gefährlich1.",
+    "details": {
+      "article": null,
+      "headword": "gefährlich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Achtung, hier ist eine gefährliche Kurve!",
       "Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich."
     ]
   },
@@ -21942,11 +22168,11 @@
   },
   {
     "id": "der Gegner",
-    "raw_word": "der Gegner,",
+    "raw_word": "der Gegner, -1.",
     "details": {
       "article": "der",
       "headword": "Gegner",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -23047,11 +23273,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Gesundheit1.",
+    "raw_word": "die Gesundheit1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Gesundheit1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -23651,7 +23877,24 @@
     "examples": [
       "Du hast dich nicht verletzt. Da hast du Glück gehabt.",
       "Viel Glück bei der Prüfung!",
-      "Es hat geregnet. Zum Glück hatte ich einen Regenschirm dabei. Meine Schwester hat geheiratet und ist sehr glücklich.",
+      "Es hat geregnet. Zum Glück hatte ich einen Regenschirm dabei."
+    ]
+  },
+  {
+    "id": "glücklich1.",
+    "raw_word": "glücklich1.",
+    "details": {
+      "article": null,
+      "headword": "glücklich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Meine Schwester hat geheiratet und ist sehr glücklich.",
       "Ich wünsche Ihnen ein glückliches neues Jahr.",
       "Ich bin glücklich verheiratet."
     ]
@@ -24055,11 +24298,11 @@
   },
   {
     "id": "die Größe",
-    "raw_word": "die Größe,",
+    "raw_word": "die Größe, -n1.",
     "details": {
       "article": "die",
       "headword": "Größe",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -24204,11 +24447,11 @@
   },
   {
     "id": "der Gruß",
-    "raw_word": "der Gruß,",
+    "raw_word": "der Gruß, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Gruß",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -25529,11 +25772,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Hilfe1.",
+    "raw_word": "die Hilfe1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Hilfe1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -27088,11 +27331,11 @@
   },
   {
     "id": "die Information",
-    "raw_word": "die Information,",
+    "raw_word": "die Information, -en1.",
     "details": {
       "article": "die",
       "headword": "Information",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -27186,7 +27429,25 @@
       "female_form": null
     },
     "examples": [
-      "Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben. Diese Fahrkarte gilt nur innerhalb der Stadt.",
+      "Wir müssen Sie untersuchen.",
+      "Es kann sein, dass Sie innere Verletzungen haben."
+    ]
+  },
+  {
+    "id": "innerhalb1.",
+    "raw_word": "innerhalb1.",
+    "details": {
+      "article": null,
+      "headword": "innerhalb1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Diese Fahrkarte gilt nur innerhalb der Stadt.",
       "Nach dem Umzug müssen Sie sich innerhalb einer Woche ummelden."
     ]
   },
@@ -27458,7 +27719,24 @@
     },
     "examples": [
       "interessiert mich sehr.",
-      "Ich interessiere mich sehr für Fußball. Ich habe einen interessanten Bericht gelesen.",
+      "Ich interessiere mich sehr für Fußball."
+    ]
+  },
+  {
+    "id": "interessant1.",
+    "raw_word": "interessant1.",
+    "details": {
+      "article": null,
+      "headword": "interessant1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Ich habe einen interessanten Bericht gelesen.",
       "Den Artikel über Brasilien finde ich sehr interessant."
     ]
   },
@@ -28396,7 +28674,24 @@
     },
     "examples": [
       "Unsere Waschmaschine ist kaputt.",
-      "Ich bin noch ganz kaputt von der Reise. Pass bitte mit diesem Glas auf. Es geht leicht kaputt.",
+      "Ich bin noch ganz kaputt von der Reise."
+    ]
+  },
+  {
+    "id": "kaputtgehen1.",
+    "raw_word": "kaputtgehen1.",
+    "details": {
+      "article": null,
+      "headword": "kaputtgehen1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Pass bitte mit diesem Glas auf. Es geht leicht kaputt.",
       "Der Fernseher ist gestern kaputtgegangen."
     ]
   },
@@ -30411,11 +30706,11 @@
   },
   {
     "id": "die Kontrolle",
-    "raw_word": "die Kontrolle,",
+    "raw_word": "die Kontrolle, -n1.",
     "details": {
       "article": "die",
       "headword": "Kontrolle",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -30786,7 +31081,24 @@
       "female_form": null
     },
     "examples": [
-      "Für diese Arbeit braucht man viel Kraft. Der Mann ist kräftig. Er macht viel Sport und isst viel.",
+      "Für diese Arbeit braucht man viel Kraft."
+    ]
+  },
+  {
+    "id": "kräftig1.",
+    "raw_word": "kräftig1.",
+    "details": {
+      "article": null,
+      "headword": "kräftig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Der Mann ist kräftig. Er macht viel Sport und isst viel.",
       "Die Suppe musst du kräftig würzen."
     ]
   },
@@ -30961,11 +31273,11 @@
   },
   {
     "id": "die Krankheit",
-    "raw_word": "die Krankheit,",
+    "raw_word": "die Krankheit, -en1.",
     "details": {
       "article": "die",
       "headword": "Krankheit",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -31229,11 +31541,11 @@
   },
   {
     "id": "die Kritik",
-    "raw_word": "die Kritik,",
+    "raw_word": "die Kritik, -en1.",
     "details": {
       "article": "die",
       "headword": "Kritik",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -32450,11 +32762,11 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Leben1.",
+    "raw_word": "das Leben1.",
     "details": {
       "article": "das",
-      "headword": "das",
+      "headword": "Leben1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -32485,12 +32797,12 @@
     ]
   },
   {
-    "id": "die Lebensmittel",
-    "raw_word": "die Lebensmittel",
+    "id": "die Lebensmittel 1.",
+    "raw_word": "die Lebensmittel (Pl.)1.",
     "details": {
       "article": "die",
-      "headword": "Lebensmittel",
-      "plural": null,
+      "headword": "Lebensmittel 1.",
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -32895,11 +33207,11 @@
   },
   {
     "id": "die Leitung",
-    "raw_word": "die Leitung,",
+    "raw_word": "die Leitung, -en1.",
     "details": {
       "article": "die",
       "headword": "Leitung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -33024,11 +33336,11 @@
   },
   {
     "id": "der Leser",
-    "raw_word": "der Leser,",
+    "raw_word": "der Leser, -1.",
     "details": {
       "article": "der",
       "headword": "Leser",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -33171,11 +33483,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Liebe1.",
+    "raw_word": "die Liebe1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Liebe1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -34007,11 +34319,11 @@
   },
   {
     "id": "der Maler",
-    "raw_word": "der Maler,",
+    "raw_word": "der Maler, -1.",
     "details": {
       "article": "der",
       "headword": "Maler",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -34593,7 +34905,24 @@
     },
     "examples": [
       "Ich habe diesmal mehr gelernt als bei der letzten Prüfung.",
-      "Mehr kann ich nicht essen! Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.",
+      "Mehr kann ich nicht essen!"
+    ]
+  },
+  {
+    "id": "mehrere1.",
+    "raw_word": "mehrere1.",
+    "details": {
+      "article": null,
+      "headword": "mehrere1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.",
       "Viele Wörter haben mehrere Bedeutungen."
     ]
   },
@@ -35069,11 +35398,11 @@
   },
   {
     "id": "die Miete",
-    "raw_word": "die Miete,",
+    "raw_word": "die Miete, -n1.",
     "details": {
       "article": "die",
       "headword": "Miete",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -35767,7 +36096,25 @@
       "female_form": null
     },
     "examples": [
-      "Sie wollen ans Meer? Da gibt es mehrere Möglichkeiten. Sagen Sie mir bitte möglichst bald, ob Ihnen der Termin passt.",
+      "Sie wollen ans Meer?",
+      "Da gibt es mehrere Möglichkeiten."
+    ]
+  },
+  {
+    "id": "möglichst1.",
+    "raw_word": "möglichst1.",
+    "details": {
+      "article": null,
+      "headword": "möglichst1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Sagen Sie mir bitte möglichst bald, ob Ihnen der Termin passt.",
       "Wir suchen eine Wohnung, möglichst im Erdgeschoss."
     ]
   },
@@ -36057,7 +36404,24 @@
     "examples": [
       "Wie findest du die Musik?",
       "Spanische Musik mag ich sehr.",
-      "Was für Musik hörst du gern? Sie ist sehr musikalisch: Sie spielt Klavier, Flöte und Geige.",
+      "Was für Musik hörst du gern?"
+    ]
+  },
+  {
+    "id": "musikalisch1.",
+    "raw_word": "musikalisch1.",
+    "details": {
+      "article": null,
+      "headword": "musikalisch1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Sie ist sehr musikalisch: Sie spielt Klavier, Flöte und Geige.",
       "Das musikalische Angebot gefällt mir."
     ]
   },
@@ -37542,11 +37906,11 @@
   },
   {
     "id": "der Notfall",
-    "raw_word": "der Notfall,",
+    "raw_word": "der Notfall, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Notfall",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -38083,11 +38447,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Öffentlichkeit1.",
+    "raw_word": "die Öffentlichkeit1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Öffentlichkeit1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -38571,11 +38935,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Ordnung1.",
+    "raw_word": "die Ordnung1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Ordnung1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -38629,11 +38993,11 @@
   },
   {
     "id": "die Organisation",
-    "raw_word": "die Organisation,",
+    "raw_word": "die Organisation, -en1.",
     "details": {
       "article": "die",
       "headword": "Organisation",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -39381,13 +39745,15 @@
     ]
   },
   {
-    "id": "in Pension gehen/sein",
-    "raw_word": "in Pension gehen/sein",
+    "id": "in Pension gehen/sein (D",
+    "raw_word": "in Pension gehen/sein (D,1.",
     "details": {
       "article": null,
-      "headword": "in Pension gehen/sein",
+      "headword": "in Pension gehen/sein (D",
       "plural": null,
-      "conjugation": [],
+      "conjugation": [
+        "1."
+      ],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
@@ -39398,8 +39764,8 @@
     ]
   },
   {
-    "id": "A) →D: in",
-    "raw_word": "A) →D: in",
+    "id": "A) →D: in Rente2.",
+    "raw_word": "A) →D: in Rente2.",
     "details": {
       "article": null,
       "headword": "A)",
@@ -39407,7 +39773,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "in",
+          "word": "in Rente2.",
           "regional_usage": [
             "D"
           ]
@@ -39443,11 +39809,11 @@
     ]
   },
   {
-    "id": "pensioniert",
-    "raw_word": "pensioniert",
+    "id": "pensioniert werden/sein1.",
+    "raw_word": "pensioniert werden/sein1.",
     "details": {
       "article": null,
-      "headword": "pensioniert",
+      "headword": "pensioniert werden/sein1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -39461,15 +39827,15 @@
   },
   {
     "id": "(D",
-    "raw_word": "(D, CH) →D, A: in",
+    "raw_word": "(D, CH) →D, A: in Pension2.",
     "details": {
       "article": null,
-      "headword": "(D, CH) →D, A: in",
+      "headword": "(D, CH) →D, A: in Pension2.",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "in",
+          "word": "in Pension2.",
           "regional_usage": [
             "D",
             "A"
@@ -39656,7 +40022,24 @@
       "female_form": null
     },
     "examples": [
-      "Eintritt pro Person: 2 Euro. Hier gibt es zu viele Autos. Das ist meine persönliche Meinung.",
+      "Eintritt pro Person: 2 Euro."
+    ]
+  },
+  {
+    "id": "persönlich1.",
+    "raw_word": "persönlich1.",
+    "details": {
+      "article": null,
+      "headword": "persönlich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Hier gibt es zu viele Autos. Das ist meine persönliche Meinung.",
       "Ich muss Herrn Meier persönlich sprechen."
     ]
   },
@@ -40077,11 +40460,11 @@
   },
   {
     "id": "der Plan",
-    "raw_word": "der Plan,",
+    "raw_word": "der Plan, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Plan",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -40207,6 +40590,21 @@
       "article": "die",
       "headword": "Politikerin",
       "plural": "-nen",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
+  },
+  {
+    "id": "politisch1.",
+    "raw_word": "politisch1.",
+    "details": {
+      "article": null,
+      "headword": "politisch1.",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -40882,11 +41280,11 @@
   },
   {
     "id": "das Produkt",
-    "raw_word": "das Produkt,",
+    "raw_word": "das Produkt, -e1.",
     "details": {
       "article": "das",
       "headword": "Produkt",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -41250,7 +41648,24 @@
     "examples": [
       "Das Konzert beginnt um Punkt 20 Uhr.",
       "Beim letzten Satz fehlt der Punkt.",
-      "Diesen Punkt haben wir noch nicht besprochen. Seien Sie bitte pünktlich.",
+      "Diesen Punkt haben wir noch nicht besprochen."
+    ]
+  },
+  {
+    "id": "pünktlich1.",
+    "raw_word": "pünktlich1.",
+    "details": {
+      "article": null,
+      "headword": "pünktlich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Seien Sie bitte pünktlich.",
       "Der Bus fährt pünktlich um acht Uhr."
     ]
   },
@@ -41764,11 +42179,11 @@
   },
   {
     "id": "der Raucher",
-    "raw_word": "der Raucher,",
+    "raw_word": "der Raucher, -1.",
     "details": {
       "article": "der",
       "headword": "Raucher",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -41781,11 +42196,11 @@
   },
   {
     "id": "die Raucherin",
-    "raw_word": "die Raucherin,",
+    "raw_word": "die Raucherin, -nen2.",
     "details": {
       "article": "die",
       "headword": "Raucherin",
-      "plural": null,
+      "plural": "-nen2.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -42058,11 +42473,11 @@
   },
   {
     "id": "die Rechnung",
-    "raw_word": "die Rechnung,",
+    "raw_word": "die Rechnung, -en1.",
     "details": {
       "article": "die",
       "headword": "Rechnung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -42624,11 +43039,11 @@
   },
   {
     "id": "die Reinigung",
-    "raw_word": "die Reinigung,",
+    "raw_word": "die Reinigung, -en1.",
     "details": {
       "article": "die",
       "headword": "Reinigung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -42680,11 +43095,11 @@
   },
   {
     "id": "die Reise",
-    "raw_word": "die Reise,",
+    "raw_word": "die Reise, -n1.",
     "details": {
       "article": "die",
       "headword": "Reise",
-      "plural": null,
+      "plural": "-n1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -42866,14 +43281,19 @@
     ]
   },
   {
-    "id": "in Rente gehen/sein (D)",
-    "raw_word": "in Rente gehen/sein (D)",
+    "id": "in Rente gehen/sein (D) →1.",
+    "raw_word": "in Rente gehen/sein (D) →1.",
     "details": {
       "article": null,
       "headword": "in Rente gehen/sein",
       "plural": null,
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "1.",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D"
       ],
@@ -42886,13 +43306,13 @@
   },
   {
     "id": "D",
-    "raw_word": "D, A: in",
+    "raw_word": "D, A: in Pension2.",
     "details": {
       "article": null,
       "headword": "D",
       "plural": null,
       "conjugation": [
-        "A: in"
+        "A: in Pension2."
       ],
       "synonyms": [],
       "regional_usage": [],
@@ -43733,7 +44153,24 @@
     "examples": [
       "Ruhe, bitte!",
       "Lass mich jetzt endlich in Ruhe!",
-      "Ich brauche meine Ruhe. Ich suche ein ruhiges Zimmer.",
+      "Ich brauche meine Ruhe."
+    ]
+  },
+  {
+    "id": "ruhig1.",
+    "raw_word": "ruhig1.",
+    "details": {
+      "article": null,
+      "headword": "ruhig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Ich suche ein ruhiges Zimmer.",
       "Nachts ist es hier in der Straße sehr ruhig.",
       "Du kannst ruhig rauchen."
     ]
@@ -44380,11 +44817,11 @@
   },
   {
     "id": "der Schalter",
-    "raw_word": "der Schalter,",
+    "raw_word": "der Schalter, -1.",
     "details": {
       "article": "der",
       "headword": "Schalter",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -44979,11 +45416,11 @@
     ]
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Schlaf1.",
+    "raw_word": "der Schlaf1.",
     "details": {
       "article": "der",
-      "headword": "der",
+      "headword": "Schlaf1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -45411,7 +45848,24 @@
       "female_form": null
     },
     "examples": [
-      "Du hast Schmutz an deinen Schuhen. Leg bitte die schmutzige Wäsche in die Waschmaschine.",
+      "Du hast Schmutz an deinen Schuhen."
+    ]
+  },
+  {
+    "id": "schmutzig1.",
+    "raw_word": "schmutzig1.",
+    "details": {
+      "article": null,
+      "headword": "schmutzig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Leg bitte die schmutzige Wäsche in die Waschmaschine.",
       "Das Handtuch ist schmutzig."
     ]
   },
@@ -45716,7 +46170,24 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe einen großen Schreck bekommen. Heute ist eine schreckliche Hitze.",
+      "Ich habe einen großen Schreck bekommen."
+    ]
+  },
+  {
+    "id": "schrecklich1.",
+    "raw_word": "schrecklich1.",
+    "details": {
+      "article": null,
+      "headword": "schrecklich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Heute ist eine schreckliche Hitze.",
       "Das Restaurant war schrecklich voll.",
       "Ich finde dieses Kleid schrecklich.",
       "Auf der Autobahn ist ein schrecklicher Unfall passiert."
@@ -45832,7 +46303,24 @@
       "female_form": null
     },
     "examples": [
-      "Ich kann leider deine Schrift nicht lesen. Die schriftliche Prüfung dauert einen halben Tag.",
+      "Ich kann leider deine Schrift nicht lesen."
+    ]
+  },
+  {
+    "id": "schriftlich1.",
+    "raw_word": "schriftlich1.",
+    "details": {
+      "article": null,
+      "headword": "schriftlich1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Die schriftliche Prüfung dauert einen halben Tag.",
       "Wir brauchen von Ihnen eine schriftliche Bestätigung.",
       "Sie müssen sich schriftlich anmelden."
     ]
@@ -46162,11 +46650,11 @@
     "examples": []
   },
   {
-    "id": "der",
-    "raw_word": "der",
+    "id": "der Schutz1.",
+    "raw_word": "der Schutz1.",
     "details": {
       "article": "der",
-      "headword": "der",
+      "headword": "Schutz1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -46970,11 +47458,11 @@
   },
   {
     "id": "der Sender",
-    "raw_word": "der Sender,",
+    "raw_word": "der Sender, -1.",
     "details": {
       "article": "der",
       "headword": "Sender",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -46988,11 +47476,11 @@
   },
   {
     "id": "die Sendung",
-    "raw_word": "die Sendung,",
+    "raw_word": "die Sendung, -en1.",
     "details": {
       "article": "die",
       "headword": "Sendung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48213,7 +48701,24 @@
     },
     "examples": [
       "sparen.",
-      "Um Strom zu sparen, schalten wir die Heizung nachts aus. Wir haben fünf Kinder. Wir müssen sehr sparsam sein.",
+      "Um Strom zu sparen, schalten wir die Heizung nachts aus."
+    ]
+  },
+  {
+    "id": "sparsam1.",
+    "raw_word": "sparsam1.",
+    "details": {
+      "article": null,
+      "headword": "sparsam1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Wir haben fünf Kinder. Wir müssen sehr sparsam sein.",
       "Mein Auto ist sehr sparsam. Es verbraucht nur 5 Liter auf 100 km."
     ]
   },
@@ -48516,11 +49021,11 @@
   },
   {
     "id": "das Spiel",
-    "raw_word": "das Spiel,",
+    "raw_word": "das Spiel, -e1.",
     "details": {
       "article": "das",
       "headword": "Spiel",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48534,11 +49039,11 @@
   },
   {
     "id": "der Spieler",
-    "raw_word": "der Spieler,",
+    "raw_word": "der Spieler, -1.",
     "details": {
       "article": "der",
       "headword": "Spieler",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -48677,6 +49182,21 @@
       "article": "die",
       "headword": "Sportlerin",
       "plural": "-nen",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": []
+  },
+  {
+    "id": "sportlich1.",
+    "raw_word": "sportlich1.",
+    "details": {
+      "article": null,
+      "headword": "sportlich1.",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -50724,7 +51244,24 @@
     "examples": [
       "Die Sucht nach Medikamenten nimmt zu.",
       "Er kämpft gegen seine Alkoholsucht.",
-      "Das Internet kann zur Sucht werden. Ich bin süchtig nach Schokolade.",
+      "Das Internet kann zur Sucht werden."
+    ]
+  },
+  {
+    "id": "süchtig1.",
+    "raw_word": "süchtig1.",
+    "details": {
+      "article": null,
+      "headword": "süchtig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Ich bin süchtig nach Schokolade.",
       "Fernsehen kann süchtig machen."
     ]
   },
@@ -51421,7 +51958,24 @@
     },
     "examples": [
       "Ich verstehe nicht viel von Technik.",
-      "Um die Aufgaben zu lösen, brauchst du eine gute Arbeitstechnik. Es gab ein technisches Problem.",
+      "Um die Aufgaben zu lösen, brauchst du eine gute Arbeitstechnik."
+    ]
+  },
+  {
+    "id": "technisch1.",
+    "raw_word": "technisch1.",
+    "details": {
+      "article": null,
+      "headword": "technisch1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Es gab ein technisches Problem.",
       "Sind Sie technisch interessiert?"
     ]
   },
@@ -51519,11 +52073,11 @@
   },
   {
     "id": "der Teil",
-    "raw_word": "der Teil,",
+    "raw_word": "der Teil, -e1.",
     "details": {
       "article": "der",
       "headword": "Teil",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -51682,11 +52236,11 @@
   },
   {
     "id": "das Telefon",
-    "raw_word": "das Telefon,",
+    "raw_word": "das Telefon, -e1.",
     "details": {
       "article": "das",
       "headword": "Telefon",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -52611,11 +53165,11 @@
   },
   {
     "id": "das Training",
-    "raw_word": "das Training,",
+    "raw_word": "das Training, -s1.",
     "details": {
       "article": "das",
       "headword": "Training",
-      "plural": null,
+      "plural": "-s1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -52911,11 +53465,11 @@
   },
   {
     "id": "die Trennung",
-    "raw_word": "die Trennung,",
+    "raw_word": "die Trennung, -en1.",
     "details": {
       "article": "die",
       "headword": "Trennung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -53335,7 +53889,24 @@
     "examples": [
       "Mein Nachbar ist ein netter Typ.",
       "Was für ein Typ bist du? Was machst du gerne?",
-      "Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto? Im Hotel gab es typisch deutsches Essen.",
+      "Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?"
+    ]
+  },
+  {
+    "id": "typisch1.",
+    "raw_word": "typisch1.",
+    "details": {
+      "article": null,
+      "headword": "typisch1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Im Hotel gab es typisch deutsches Essen.",
       "Er kommt wieder zu spät, das ist typisch.",
       "Diese Musik ist typisch für dieses Land."
     ]
@@ -53377,11 +53948,11 @@
   },
   {
     "id": "die Übung",
-    "raw_word": "die Übung,",
+    "raw_word": "die Übung, -en1.",
     "details": {
       "article": "die",
       "headword": "Übung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -53790,12 +54361,12 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Überraschung",
+    "raw_word": "die Überraschung,-en1.",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
+      "headword": "Überraschung",
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -54063,11 +54634,11 @@
   },
   {
     "id": "die Überweisung",
-    "raw_word": "die Überweisung, -",
+    "raw_word": "die Überweisung, - en1.",
     "details": {
       "article": "die",
       "headword": "Überweisung",
-      "plural": "-",
+      "plural": "- en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -56090,11 +56661,11 @@
   },
   {
     "id": "die Verbindung",
-    "raw_word": "die Verbindung,",
+    "raw_word": "die Verbindung, -en1.",
     "details": {
       "article": "die",
       "headword": "Verbindung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -56264,7 +56835,24 @@
     },
     "examples": [
       "Wer hat das Geld aus der Kasse genommen? – Ich weiß es nicht, aber ich habe einen Verdacht.",
-      "Wen haben Sie in Verdacht? Die Tür war nicht abgeschlossen. Das ist verdächtig.",
+      "Wen haben Sie in Verdacht?"
+    ]
+  },
+  {
+    "id": "verdächtig1.",
+    "raw_word": "verdächtig1.",
+    "details": {
+      "article": null,
+      "headword": "verdächtig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Die Tür war nicht abgeschlossen. Das ist verdächtig.",
       "Haben Sie etwas Verdächtiges gesehen?"
     ]
   },
@@ -56469,11 +57057,11 @@
   },
   {
     "id": "der Vergleich",
-    "raw_word": "der Vergleich,",
+    "raw_word": "der Vergleich, -e1.",
     "details": {
       "article": "der",
       "headword": "Vergleich",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -56540,11 +57128,11 @@
   },
   {
     "id": "das Vergnügen",
-    "raw_word": "das Vergnügen,",
+    "raw_word": "das Vergnügen, -1.",
     "details": {
       "article": "das",
       "headword": "Vergnügen",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -57964,11 +58552,11 @@
   },
   {
     "id": "die Versicherung",
-    "raw_word": "die Versicherung,",
+    "raw_word": "die Versicherung, -en1.",
     "details": {
       "article": "die",
       "headword": "Versicherung",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -58191,11 +58779,11 @@
   },
   {
     "id": "der Versuch",
-    "raw_word": "der Versuch,",
+    "raw_word": "der Versuch, -e1.",
     "details": {
       "article": "der",
       "headword": "Versuch",
-      "plural": null,
+      "plural": "-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -58339,11 +58927,11 @@
   },
   {
     "id": "der Vertreter",
-    "raw_word": "der Vertreter,",
+    "raw_word": "der Vertreter, -1.",
     "details": {
       "article": "der",
       "headword": "Vertreter",
-      "plural": null,
+      "plural": "-1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -59749,11 +60337,11 @@
   },
   {
     "id": "die Wahl",
-    "raw_word": "die Wahl,",
+    "raw_word": "die Wahl, -en1.",
     "details": {
       "article": "die",
       "headword": "Wahl",
-      "plural": null,
+      "plural": "-en1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -60158,11 +60746,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Wäsche1.",
+    "raw_word": "die Wäsche1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Wäsche1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -60624,6 +61212,24 @@
     "examples": [
       "Überall auf der Welt gibt es Probleme.",
       "Ich habe die besten Eltern der Welt."
+    ]
+  },
+  {
+    "id": "weltweit1.",
+    "raw_word": "weltweit1.",
+    "details": {
+      "article": null,
+      "headword": "weltweit1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Unsere Firma produziert für den weltweiten Markt.",
+      "Das Zertifikat B1 wird weltweit angeboten."
     ]
   },
   {
@@ -61422,11 +62028,11 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die Wirklichkeit1.",
+    "raw_word": "die Wirklichkeit1.",
     "details": {
       "article": "die",
-      "headword": "die",
+      "headword": "Wirklichkeit1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -61514,11 +62120,11 @@
     ]
   },
   {
-    "id": "das",
-    "raw_word": "das",
+    "id": "das Wissen1.",
+    "raw_word": "das Wissen1.",
     "details": {
       "article": "das",
-      "headword": "das",
+      "headword": "Wissen1.",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -61971,8 +62577,43 @@
     },
     "examples": [
       "Ich bin mit dem Fahrrad gestürzt. Es war ein Wunder, dass nichts Schlimmes passiert ist.",
-      "Du isst zu viel Schokolade. Kein Wunder, dass die Hose nicht mehr passt. Im ganzen Urlaub hatten wir wunderbares Wetter.",
+      "Du isst zu viel Schokolade. Kein Wunder, dass die Hose nicht mehr passt."
+    ]
+  },
+  {
+    "id": "wunderbar1.",
+    "raw_word": "wunderbar1.",
+    "details": {
+      "article": null,
+      "headword": "wunderbar1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Im ganzen Urlaub hatten wir wunderbares Wetter.",
       "Diese Schokolade schmeckt wunderbar."
+    ]
+  },
+  {
+    "id": "wunderschön1.",
+    "raw_word": "wunderschön1.",
+    "details": {
+      "article": null,
+      "headword": "wunderschön1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Wir haben einen Ausflug gemacht. Es war wunderschön.",
+      "Ich habe mir ein wunderschönes Kleid gekauft."
     ]
   },
   {
@@ -62069,11 +62710,11 @@
   },
   {
     "id": "der Wunsch",
-    "raw_word": "der Wunsch,",
+    "raw_word": "der Wunsch, ¨-e1.",
     "details": {
       "article": "der",
       "headword": "Wunsch",
-      "plural": null,
+      "plural": "¨-e1.",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -63054,7 +63695,24 @@
     },
     "examples": [
       "So ein Zufall, dass ich dich hier treffe.",
-      "Durch Zufall habe ich gehört, dass die Wohnung frei ist. Wir haben uns zufällig am Bahnhof getroffen.",
+      "Durch Zufall habe ich gehört, dass die Wohnung frei ist."
+    ]
+  },
+  {
+    "id": "zufällig1.",
+    "raw_word": "zufällig1.",
+    "details": {
+      "article": null,
+      "headword": "zufällig1.",
+      "plural": null,
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Wir haben uns zufällig am Bahnhof getroffen.",
       "Hast du zufällig meine Brille gesehen?"
     ]
   },

@@ -126,8 +126,8 @@ def parse_column_words(column_words, word_max_x, pdf_type):
         line_words = sorted(lines[t], key=lambda x: x['x0'])
         
         # Split line_words into word part and example part
-        word_part = [w for w in line_words if w['x1'] <= word_max_x]
-        example_part = [w for w in line_words if w['x0'] > word_max_x]
+        word_part = [w for w in line_words if w['x0'] < word_max_x]
+        example_part = [w for w in line_words if w['x0'] >= word_max_x]
         
         word_str = " ".join([w['text'] for w in word_part]).strip()
         example_str = " ".join([w['text'] for w in example_part]).strip()
@@ -226,7 +226,7 @@ def parse_pdf_wordlist(filepath, start_page, end_page, pdf_type):
                 left_word_max_x = 100
                 right_word_max_x = 370
             else: # A1
-                left_word_max_x = 230
+                left_word_max_x = 235
                 right_word_max_x = 999
                 
             left_entries = parse_column_words(left_words, left_word_max_x, pdf_type)

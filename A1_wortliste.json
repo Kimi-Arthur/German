@@ -8336,11 +8336,11 @@
   },
   {
     "id": "die Pommes frites",
-    "raw_word": "die Pommes frites",
+    "raw_word": "die Pommes frites (Pl.)",
     "details": {
       "article": "die",
       "headword": "Pommes frites",
-      "plural": null,
+      "plural": "(Pl.)",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -9386,10 +9386,27 @@
     ]
   },
   {
-    "id": "die sehr",
-    "raw_word": "die sehr",
+    "id": "die Sehenswürdigkeit",
+    "raw_word": "die Sehenswürdigkeit, -en",
     "details": {
       "article": "die",
+      "headword": "Sehenswürdigkeit",
+      "plural": "-en",
+      "conjugation": [],
+      "synonyms": [],
+      "regional_usage": [],
+      "variants": [],
+      "female_form": null
+    },
+    "examples": [
+      "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+    ]
+  },
+  {
+    "id": "sehr",
+    "raw_word": "sehr",
+    "details": {
+      "article": null,
       "headword": "sehr",
       "plural": null,
       "conjugation": [],
@@ -9399,7 +9416,6 @@
       "female_form": null
     },
     "examples": [
-      "-en Welche Sehenswürdigkeiten gibt es in Frankfurt?",
       "Danke sehr!",
       "Das ist sehr schwer."
     ]
