@@ -2785,38 +2785,30 @@
     ]
   },
   {
-    "id": "der/die",
-    "raw_word": "der/die",
+    "id": "der/die Bekannte",
+    "raw_word": "der/die Bekannte, -n",
     "details": {
-      "article": "der/die",
-      "headword": "der/die",
+      "article": "der",
+      "headword": "der/die Bekannte, -n",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Bekannte",
+        "plural": "-n",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Ein Bekannter von mir heißt Klaus."
     ]
-  },
-  {
-    "id": "Bekannte",
-    "raw_word": "Bekannte, -n",
-    "details": {
-      "article": null,
-      "headword": "Bekannte",
-      "plural": null,
-      "conjugation": [
-        "-n"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "bekommen",
@@ -10893,38 +10885,29 @@
     ]
   },
   {
-    "id": "der/die",
-    "raw_word": "der/die",
+    "id": "der/die Jugendliche",
+    "raw_word": "der/die Jugendliche, -n",
     "details": {
-      "article": "der/die",
-      "headword": "der/die",
+      "article": "der",
+      "headword": "der/die Jugendliche, -n",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Jugendliche",
+        "plural": "-n",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Viele Jugendliche hören den ganzen Tag Musik."
-    ]
-  },
-  {
-    "id": "Jugendliche",
-    "raw_word": "Jugendliche, -n",
-    "details": {
-      "article": null,
-      "headword": "Jugendliche",
-      "plural": null,
-      "conjugation": [
-        "-n"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Viele Jugendliche hören den ganzen Tag Musik.",
       "Der Eintritt für Kinder und Jugendliche bis 16 Jahre ist frei."
     ]
   },

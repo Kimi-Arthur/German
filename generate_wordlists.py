@@ -153,8 +153,15 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 else:
                     prev_word_str = current_word[-1].strip() if current_word else ""
                     is_prefix_entry = prev_word_str.endswith("-") and " " not in prev_word_str
+                    is_article = prev_word_str.lower() in ["der", "die", "das", "der/die", "die/das", "der/das", "der/die/das"]
+                    is_reference = "→" in prev_word_str and (prev_word_str.endswith("→") or prev_word_str.endswith(":"))
+                    
                     if is_prefix_entry:
                         is_continuation = False
+                    elif is_article:
+                        is_continuation = True
+                    elif is_reference:
+                        is_continuation = True
                     elif prev_word_str.endswith("-") or prev_word_str.endswith("/"):
                         is_continuation = True
                     else:

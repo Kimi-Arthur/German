@@ -377,7 +377,7 @@
   },
   {
     "id": "das Abitur (D)→A",
-    "raw_word": "das Abitur (D)→A, CH:",
+    "raw_word": "das Abitur (D)→A, CH: Matura",
     "details": {
       "article": "das",
       "headword": "Abitur",
@@ -385,8 +385,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A, CH:",
-          "regional_usage": []
+          "word": "Matura",
+          "regional_usage": [
+            "A",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -396,24 +399,7 @@
       "female_form": null
     },
     "examples": [
-      "Meine Tochter hat gerade Abitur"
-    ]
-  },
-  {
-    "id": "Matura",
-    "raw_word": "Matura",
-    "details": {
-      "article": null,
-      "headword": "Matura",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gemacht."
+      "Meine Tochter hat gerade Abitur gemacht."
     ]
   },
   {
@@ -801,13 +787,21 @@
   },
   {
     "id": "die Abwartin",
-    "raw_word": "die Abwartin, -nen (CH) →",
+    "raw_word": "die Abwartin, -nen (CH) → D, A: Hausmeister",
     "details": {
       "article": "die",
       "headword": "Abwartin",
-      "plural": "-nen →",
+      "plural": "-nen",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Hausmeister",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -817,23 +811,6 @@
     "examples": [
       "Schrank in die Wohnung zu tragen."
     ]
-  },
-  {
-    "id": "D",
-    "raw_word": "D, A: Hausmeister",
-    "details": {
-      "article": null,
-      "headword": "D",
-      "plural": null,
-      "conjugation": [
-        "A: Hausmeister"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "abwärts",
@@ -1357,70 +1334,46 @@
   },
   {
     "id": "das Altenheim",
-    "raw_word": "das Altenheim, -e →",
+    "raw_word": "das Altenheim, -e → Altersheim",
     "details": {
       "article": "das",
       "headword": "Altenheim",
-      "plural": "-e →",
+      "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Altersheim",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Die Großeltern unserer Nachbarn sind"
-    ]
-  },
-  {
-    "id": "Altersheim",
-    "raw_word": "Altersheim",
-    "details": {
-      "article": null,
-      "headword": "Altersheim",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "im Altenheim."
+      "Die Großeltern unserer Nachbarn sind im Altenheim."
     ]
   },
   {
     "id": "das Altersheim",
-    "raw_word": "das Altersheim, -e →",
+    "raw_word": "das Altersheim, -e → Altenheim",
     "details": {
       "article": "das",
       "headword": "Altersheim",
-      "plural": "-e →",
+      "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Altenheim",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Die Großeltern unserer Nachbarn sind"
-    ]
-  },
-  {
-    "id": "Altenheim",
-    "raw_word": "Altenheim",
-    "details": {
-      "article": null,
-      "headword": "Altenheim",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "im Altersheim."
+      "Die Großeltern unserer Nachbarn sind im Altersheim."
     ]
   },
   {
@@ -3086,13 +3039,20 @@
   },
   {
     "id": "die Aprikose",
-    "raw_word": "die Aprikose, -n (D, CH) →",
+    "raw_word": "die Aprikose, -n (D, CH) → A: Marille",
     "details": {
       "article": "die",
       "headword": "Aprikose",
-      "plural": "-n →",
+      "plural": "-n",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Marille",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [
         "D",
         "CH"
@@ -3103,21 +3063,6 @@
     "examples": [
       "Schmecken dir die Aprikosen?"
     ]
-  },
-  {
-    "id": "A: Marille",
-    "raw_word": "A: Marille",
-    "details": {
-      "article": null,
-      "headword": "A: Marille",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "arbeiten",
@@ -4352,13 +4297,18 @@
   },
   {
     "id": "der Aufzug",
-    "raw_word": "der Aufzug, ¨-e (D, A) →",
+    "raw_word": "der Aufzug, ¨-e (D, A) → Lift",
     "details": {
       "article": "der",
       "headword": "Aufzug",
-      "plural": "¨-e →",
+      "plural": "¨-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Lift",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D",
         "A"
@@ -4369,21 +4319,6 @@
     "examples": [
       "Im Büro ist leider der Aufzug kaputt."
     ]
-  },
-  {
-    "id": "Lift",
-    "raw_word": "Lift",
-    "details": {
-      "article": null,
-      "headword": "Lift",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Auge",
@@ -5848,13 +5783,20 @@
   },
   {
     "id": "der Bahnsteig",
-    "raw_word": "der Bahnsteig, -e (D, A) →",
+    "raw_word": "der Bahnsteig, -e (D, A) → CH: Perron",
     "details": {
       "article": "der",
       "headword": "Bahnsteig",
-      "plural": "-e →",
+      "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Perron",
+          "regional_usage": [
+            "CH"
+          ]
+        }
+      ],
       "regional_usage": [
         "D",
         "A"
@@ -5863,24 +5805,7 @@
       "female_form": null
     },
     "examples": [
-      "Auf Hauptbahnhöfen gibt es meist"
-    ]
-  },
-  {
-    "id": "CH: Perron",
-    "raw_word": "CH: Perron",
-    "details": {
-      "article": null,
-      "headword": "CH: Perron",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "viele Bahnsteige."
+      "Auf Hauptbahnhöfen gibt es meist viele Bahnsteige."
     ]
   },
   {
@@ -6025,7 +5950,7 @@
   },
   {
     "id": "-en (A",
-    "raw_word": "-en (A, CH) →D:",
+    "raw_word": "-en (A, CH) →D: Geldautomat",
     "details": {
       "article": null,
       "headword": "-en",
@@ -6033,8 +5958,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Geldautomat",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -6047,21 +5974,6 @@
     "examples": [
       "Bankomaten."
     ]
-  },
-  {
-    "id": "Geldautomat",
-    "raw_word": "Geldautomat",
-    "details": {
-      "article": null,
-      "headword": "Geldautomat",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Bankleitzahl",
@@ -9569,7 +9481,7 @@
   },
   {
     "id": "das Billett",
-    "raw_word": "das Billett, -e/-s →D, A:",
+    "raw_word": "das Billett, -e/-s →D, A: Fahrkarte",
     "details": {
       "article": "das",
       "headword": "Billett",
@@ -9577,8 +9489,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Fahrkarte",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -9586,24 +9501,7 @@
       "female_form": null
     },
     "examples": [
-      "Ein Billett können Sie am Schalter"
-    ]
-  },
-  {
-    "id": "Fahrkarte",
-    "raw_word": "Fahrkarte",
-    "details": {
-      "article": null,
-      "headword": "Fahrkarte",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "kaufen."
+      "Ein Billett können Sie am Schalter kaufen."
     ]
   },
   {
@@ -10503,36 +10401,26 @@
   },
   {
     "id": "der Briefumschlag",
-    "raw_word": "der Briefumschlag, ¨-e →",
+    "raw_word": "der Briefumschlag, ¨-e → A: Kuvert; CH: Couvert",
     "details": {
       "article": "der",
       "headword": "Briefumschlag",
-      "plural": "¨-e →",
+      "plural": "¨-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Kuvert; CH: Couvert",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern 50 Briefumschläge und"
-    ]
-  },
-  {
-    "id": "A: Kuvert; CH: Couvert",
-    "raw_word": "A: Kuvert; CH: Couvert",
-    "details": {
-      "article": null,
-      "headword": "A: Kuvert; CH: Couvert",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Briefmarken dazu."
+      "Ich hätte gern 50 Briefumschläge und Briefmarken dazu."
     ]
   },
   {
@@ -10652,7 +10540,7 @@
   },
   {
     "id": "das Brötchen",
-    "raw_word": "das Brötchen, - (D) →A:",
+    "raw_word": "das Brötchen, - (D) →A: Semmel; CH: Brötli",
     "details": {
       "article": "das",
       "headword": "Brötchen",
@@ -10660,8 +10548,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Semmel; CH: Brötli",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -10671,29 +10561,12 @@
       "female_form": null
     },
     "examples": [
-      "Ich hole schnell ein paar Brötchen zum"
-    ]
-  },
-  {
-    "id": "Semmel; CH: Brötli",
-    "raw_word": "Semmel; CH: Brötli",
-    "details": {
-      "article": null,
-      "headword": "Semmel; CH: Brötli",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Frühstück."
+      "Ich hole schnell ein paar Brötchen zum Frühstück."
     ]
   },
   {
     "id": "das Brötli",
-    "raw_word": "das Brötli, - (CH) →D:",
+    "raw_word": "das Brötli, - (CH) →D: Brötchen; A: Semmel",
     "details": {
       "article": "das",
       "headword": "Brötli",
@@ -10701,8 +10574,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Brötchen; A: Semmel",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -10712,24 +10587,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hole schnell ein paar Brötli zum"
-    ]
-  },
-  {
-    "id": "Brötchen; A: Semmel",
-    "raw_word": "Brötchen; A: Semmel",
-    "details": {
-      "article": null,
-      "headword": "Brötchen; A: Semmel",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Frühstück."
+      "Ich hole schnell ein paar Brötli zum Frühstück."
     ]
   },
   {
@@ -10785,7 +10643,7 @@
   },
   {
     "id": "der Bub",
-    "raw_word": "der Bub, -en (A, CH) →D:",
+    "raw_word": "der Bub, -en (A, CH) →D: Junge",
     "details": {
       "article": "der",
       "headword": "Bub",
@@ -10793,8 +10651,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Junge",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -10805,24 +10665,7 @@
       "female_form": null
     },
     "examples": [
-      "In der Schulklasse sind 15 Buben und"
-    ]
-  },
-  {
-    "id": "Junge",
-    "raw_word": "Junge",
-    "details": {
-      "article": null,
-      "headword": "Junge",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "10 Mädchen."
+      "In der Schulklasse sind 15 Buben und 10 Mädchen."
     ]
   },
   {
@@ -10922,13 +10765,20 @@
   },
   {
     "id": "die Büchse",
-    "raw_word": "die Büchse, -n (D, CH) →",
+    "raw_word": "die Büchse, -n (D, CH) → A: Dose",
     "details": {
       "article": "die",
       "headword": "Büchse",
-      "plural": "-n →",
+      "plural": "-n",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Dose",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [
         "D",
         "CH"
@@ -10939,21 +10789,6 @@
     "examples": [
       "Ich habe noch eine Büchse Bohnen."
     ]
-  },
-  {
-    "id": "A: Dose",
-    "raw_word": "A: Dose",
-    "details": {
-      "article": null,
-      "headword": "A: Dose",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Buffet",
@@ -11379,13 +11214,18 @@
   },
   {
     "id": "das Couvert",
-    "raw_word": "das Couvert, -s (CH) →",
+    "raw_word": "das Couvert, -s (CH) → Briefumschlag; A: Kuvert",
     "details": {
       "article": "das",
       "headword": "Couvert",
-      "plural": "-s →",
+      "plural": "-s",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Briefumschlag; A: Kuvert",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -11393,24 +11233,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern 50 Couverts und"
-    ]
-  },
-  {
-    "id": "Briefumschlag; A: Kuvert",
-    "raw_word": "Briefumschlag; A: Kuvert",
-    "details": {
-      "article": null,
-      "headword": "Briefumschlag; A: Kuvert",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Briefmarken dazu."
+      "Ich hätte gern 50 Couverts und Briefmarken dazu."
     ]
   },
   {
@@ -12092,7 +11915,7 @@
   },
   {
     "id": "das Dessert",
-    "raw_word": "das Dessert, -s →D, A:",
+    "raw_word": "das Dessert, -s →D, A: Nachspeise",
     "details": {
       "article": "das",
       "headword": "Dessert",
@@ -12100,8 +11923,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Nachspeise",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -12109,24 +11935,7 @@
       "female_form": null
     },
     "examples": [
-      "Nach dem Essen gab es noch ein"
-    ]
-  },
-  {
-    "id": "Nachspeise",
-    "raw_word": "Nachspeise",
-    "details": {
-      "article": null,
-      "headword": "Nachspeise",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "leckeres Dessert."
+      "Nach dem Essen gab es noch ein leckeres Dessert."
     ]
   },
   {
@@ -12777,7 +12586,7 @@
   },
   {
     "id": "die Dose",
-    "raw_word": "die Dose, -n →D, CH:",
+    "raw_word": "die Dose, -n →D, CH: Büchse",
     "details": {
       "article": "die",
       "headword": "Dose",
@@ -12785,8 +12594,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, CH:",
-          "regional_usage": []
+          "word": "Büchse",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [],
@@ -12796,21 +12608,6 @@
     "examples": [
       "Ich habe noch eine Dose Bohnen."
     ]
-  },
-  {
-    "id": "Büchse",
-    "raw_word": "Büchse",
-    "details": {
-      "article": null,
-      "headword": "Büchse",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "draußen",
@@ -13475,14 +13272,21 @@
     ]
   },
   {
-    "id": "die ec-Karte/EC-Karte →",
-    "raw_word": "die ec-Karte/EC-Karte →",
+    "id": "die ec-Karte/EC-Karte → A: Bankomat-Karte",
+    "raw_word": "die ec-Karte/EC-Karte → A: Bankomat-Karte",
     "details": {
       "article": "die",
-      "headword": "ec-Karte →",
+      "headword": "ec-Karte",
       "plural": null,
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Bankomat-Karte",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [],
       "variants": [
         "EC-Karte"
@@ -13491,29 +13295,12 @@
     },
     "examples": [
       "Bezahlen Sie bar?",
-      "Sie können auch mit"
-    ]
-  },
-  {
-    "id": "A: Bankomat-Karte",
-    "raw_word": "A: Bankomat-Karte",
-    "details": {
-      "article": null,
-      "headword": "A: Bankomat-Karte",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "der ec-Karte zahlen."
+      "Sie können auch mit der ec-Karte zahlen."
     ]
   },
   {
     "id": "die Ecke",
-    "raw_word": "die Ecke, -n (D, CH) →A:",
+    "raw_word": "die Ecke, -n (D, CH) →A: Eck",
     "details": {
       "article": "die",
       "headword": "Ecke",
@@ -13521,8 +13308,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Eck",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -13533,30 +13322,14 @@
       "female_form": null
     },
     "examples": [
-      "Das Regal stellen wir hier in die Ecke."
-    ]
-  },
-  {
-    "id": "Eck",
-    "raw_word": "Eck",
-    "details": {
-      "article": null,
-      "headword": "Eck",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Das Regal stellen wir hier in die Ecke.",
       "Das bekommen Sie im Kiosk an der Ecke.",
       "Wo ist die Apotheke? − Gleich um die Ecke."
     ]
   },
   {
     "id": "das Eck",
-    "raw_word": "das Eck, -en (A) →D, CH:",
+    "raw_word": "das Eck, -en (A) →D, CH: Ecke",
     "details": {
       "article": "das",
       "headword": "Eck",
@@ -13564,8 +13337,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, CH:",
-          "regional_usage": []
+          "word": "Ecke",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -13575,23 +13351,7 @@
       "female_form": null
     },
     "examples": [
-      "Das Regal stellen wir hier ins Eck."
-    ]
-  },
-  {
-    "id": "Ecke",
-    "raw_word": "Ecke",
-    "details": {
-      "article": null,
-      "headword": "Ecke",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Das Regal stellen wir hier ins Eck.",
       "Das bekommen Sie im Kiosk am Eck.",
       "Wo ist die Apotheke? − Gleich ums Eck."
     ]
@@ -15198,7 +14958,7 @@
   },
   {
     "id": "das Eis (D",
-    "raw_word": "das Eis (D, A) →CH:",
+    "raw_word": "das Eis (D, A) →CH: Glace/Glacé",
     "details": {
       "article": "das",
       "headword": "Eis",
@@ -15206,8 +14966,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Glace/Glacé",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -15220,23 +14982,6 @@
     "examples": [
       "Zum Nachtisch gibt es Schokoladeneis."
     ]
-  },
-  {
-    "id": "Glace/Glacé",
-    "raw_word": "Glace/Glacé",
-    "details": {
-      "article": null,
-      "headword": "Glaceé",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "Glac"
-      ],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Eisenbahn",
@@ -16250,13 +15995,18 @@
   },
   {
     "id": "der Erdapfel",
-    "raw_word": "der Erdapfel, ¨- (A) →",
+    "raw_word": "der Erdapfel, ¨- (A) → Kartoffel",
     "details": {
       "article": "der",
       "headword": "Erdapfel",
-      "plural": "¨- →",
+      "plural": "¨-",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Kartoffel",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -16264,24 +16014,7 @@
       "female_form": null
     },
     "examples": [
-      "Kann ich bitte noch Erdäpfel"
-    ]
-  },
-  {
-    "id": "Kartoffel",
-    "raw_word": "Kartoffel",
-    "details": {
-      "article": null,
-      "headword": "Kartoffel",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "bekommen?"
+      "Kann ich bitte noch Erdäpfel bekommen?"
     ]
   },
   {
@@ -17847,13 +17580,18 @@
   },
   {
     "id": "die Etage",
-    "raw_word": "die Etage, -n (D, CH) →",
+    "raw_word": "die Etage, -n (D, CH) → Stock",
     "details": {
       "article": "die",
       "headword": "Etage",
-      "plural": "-n →",
+      "plural": "-n",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Stock",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D",
         "CH"
@@ -17863,24 +17601,7 @@
     },
     "examples": [
       "Das Büro ist in der",
-      "Etage,"
-    ]
-  },
-  {
-    "id": "Stock",
-    "raw_word": "Stock",
-    "details": {
-      "article": null,
-      "headword": "Stock",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Zimmer 305."
+      "Etage, Zimmer 305."
     ]
   },
   {
@@ -18285,7 +18006,7 @@
   },
   {
     "id": "das Fahrrad",
-    "raw_word": "das Fahrrad, ¨-er →D, A:",
+    "raw_word": "das Fahrrad, ¨-er →D, A: Rad; CH: Velo",
     "details": {
       "article": "das",
       "headword": "Fahrrad",
@@ -18293,8 +18014,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Rad; CH: Velo",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -18302,24 +18026,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie fährt jeden Morgen mit dem"
-    ]
-  },
-  {
-    "id": "Rad; CH: Velo",
-    "raw_word": "Rad; CH: Velo",
-    "details": {
-      "article": null,
-      "headword": "Rad; CH: Velo",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Fahrrad zur Arbeit."
+      "Sie fährt jeden Morgen mit dem Fahrrad zur Arbeit."
     ]
   },
   {
@@ -18487,13 +18194,18 @@
   },
   {
     "id": "der Familienstand (D",
-    "raw_word": "der Familienstand (D, A) →",
+    "raw_word": "der Familienstand (D, A) → Personenstand;",
     "details": {
       "article": "der",
-      "headword": "Familienstand →",
+      "headword": "Familienstand",
       "plural": null,
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Personenstand;",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D",
         "A"
@@ -18502,24 +18214,7 @@
       "female_form": null
     },
     "examples": [
-      "Bei „Familienstand“ musst du „ledig“"
-    ]
-  },
-  {
-    "id": "Personenstand;",
-    "raw_word": "Personenstand;",
-    "details": {
-      "article": null,
-      "headword": "Personenstand;",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "ankreuzen."
+      "Bei „Familienstand“ musst du „ledig“ ankreuzen."
     ]
   },
   {
@@ -18672,7 +18367,7 @@
   },
   {
     "id": "der Fasching",
-    "raw_word": "der Fasching, - (D, A) →D:",
+    "raw_word": "der Fasching, - (D, A) →D: Karneval; CH: Fasnacht",
     "details": {
       "article": "der",
       "headword": "Fasching",
@@ -18680,8 +18375,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Karneval; CH: Fasnacht",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -18692,29 +18389,12 @@
       "female_form": null
     },
     "examples": [
-      "Dort hängt mein Kostüm für den"
-    ]
-  },
-  {
-    "id": "Karneval; CH: Fasnacht",
-    "raw_word": "Karneval; CH: Fasnacht",
-    "details": {
-      "article": null,
-      "headword": "Karneval; CH: Fasnacht",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Faschings(um)zug."
+      "Dort hängt mein Kostüm für den Faschings(um)zug."
     ]
   },
   {
     "id": "die Fasnacht (CH) →D",
-    "raw_word": "die Fasnacht (CH) →D, A:",
+    "raw_word": "die Fasnacht (CH) →D, A: Fasching; D: Karneval",
     "details": {
       "article": "die",
       "headword": "Fasnacht",
@@ -18722,8 +18402,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Fasching; D: Karneval",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -18733,24 +18416,7 @@
       "female_form": null
     },
     "examples": [
-      "Dort hängt mein Kostüm für den"
-    ]
-  },
-  {
-    "id": "Fasching; D: Karneval",
-    "raw_word": "Fasching; D: Karneval",
-    "details": {
-      "article": null,
-      "headword": "Fasching; D: Karneval",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Fasnachtsumzug."
+      "Dort hängt mein Kostüm für den Fasnachtsumzug."
     ]
   },
   {
@@ -18851,13 +18517,21 @@
   },
   {
     "id": "der Fauteuil",
-    "raw_word": "der Fauteuil, -s (A, CH) →",
+    "raw_word": "der Fauteuil, -s (A, CH) → D, CH: Sessel",
     "details": {
       "article": "der",
       "headword": "Fauteuil",
-      "plural": "-s →",
+      "plural": "-s",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Sessel",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
+        }
+      ],
       "regional_usage": [
         "A",
         "CH"
@@ -18866,26 +18540,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern einen bequemen"
-    ]
-  },
-  {
-    "id": "D",
-    "raw_word": "D, CH: Sessel",
-    "details": {
-      "article": null,
-      "headword": "D",
-      "plural": null,
-      "conjugation": [
-        "CH: Sessel"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Fauteuil."
+      "Ich hätte gern einen bequemen Fauteuil."
     ]
   },
   {
@@ -20117,7 +19772,7 @@
   },
   {
     "id": "der Flur",
-    "raw_word": "der Flur, -e →Gang; D, CH:",
+    "raw_word": "der Flur, -e →Gang; D, CH: Korridor",
     "details": {
       "article": "der",
       "headword": "Flur",
@@ -20125,7 +19780,7 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Gang; D, CH:",
+          "word": "Gang; D, CH: Korridor",
           "regional_usage": []
         }
       ],
@@ -20136,21 +19791,6 @@
     "examples": [
       "Wir warten draußen im Flur."
     ]
-  },
-  {
-    "id": "Korridor",
-    "raw_word": "Korridor",
-    "details": {
-      "article": null,
-      "headword": "Korridor",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Fluss",
@@ -22515,7 +22155,7 @@
   },
   {
     "id": "der Gehsteig (D",
-    "raw_word": "der Gehsteig (D, A) →CH:",
+    "raw_word": "der Gehsteig (D, A) →CH: Trottoir",
     "details": {
       "article": "der",
       "headword": "Gehsteig",
@@ -22523,8 +22163,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Trottoir",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -22535,24 +22177,7 @@
       "female_form": null
     },
     "examples": [
-      "Das Fahrradfahren auf dem Gehsteig"
-    ]
-  },
-  {
-    "id": "Trottoir",
-    "raw_word": "Trottoir",
-    "details": {
-      "article": null,
-      "headword": "Trottoir",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "ist nicht erlaubt."
+      "Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt."
     ]
   },
   {
@@ -22594,16 +22219,19 @@
   },
   {
     "id": "→A",
-    "raw_word": "→A, CH:",
+    "raw_word": "→A, CH: Bancomat/Bankomat",
     "details": {
       "article": null,
-      "headword": "→A, CH:",
+      "headword": "→A, CH: Bancomat/Bankomat",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A, CH:",
-          "regional_usage": []
+          "word": "Bancomat/Bankomat",
+          "regional_usage": [
+            "A",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [],
@@ -22613,31 +22241,19 @@
     "examples": []
   },
   {
-    "id": "Bancomat/Bankomat",
-    "raw_word": "Bancomat/Bankomat",
-    "details": {
-      "article": null,
-      "headword": "Bancomat",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "Bankomat"
-      ],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "die Geldbörse",
-    "raw_word": "die Geldbörse, -n (A) →",
+    "raw_word": "die Geldbörse, -n (A) → Brieftasche; D, CH: Portemonnaie/Portmonee",
     "details": {
       "article": "die",
       "headword": "Geldbörse",
-      "plural": "-n →",
+      "plural": "-n",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Brieftasche; D, CH: Portemonnaie/Portmonee",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -22645,26 +22261,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe nur Kleingeld in meiner"
-    ]
-  },
-  {
-    "id": "Brieftasche; D",
-    "raw_word": "Brieftasche; D, CH: Portemonnaie/Portmonee",
-    "details": {
-      "article": null,
-      "headword": "Brieftasche; D",
-      "plural": null,
-      "conjugation": [
-        "CH: Portemonnaie/Portmonee"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Geldbörse."
+      "Ich habe nur Kleingeld in meiner Geldbörse."
     ]
   },
   {
@@ -24769,13 +24366,20 @@
   },
   {
     "id": "das Hackfleisch (D",
-    "raw_word": "das Hackfleisch (D, CH) →",
+    "raw_word": "das Hackfleisch (D, CH) → A: Faschierte",
     "details": {
       "article": "das",
-      "headword": "Hackfleisch →",
+      "headword": "Hackfleisch",
       "plural": null,
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Faschierte",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [
         "D",
         "CH"
@@ -24786,21 +24390,6 @@
     "examples": [
       "Geben Sie mir bitte 500g Hackfleisch."
     ]
-  },
-  {
-    "id": "A: Faschierte",
-    "raw_word": "A: Faschierte",
-    "details": {
-      "article": null,
-      "headword": "A: Faschierte",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Hafen",
@@ -25996,7 +25585,7 @@
   },
   {
     "id": "das Hend(e)l",
-    "raw_word": "das Hend(e)l, - (A) →D:",
+    "raw_word": "das Hend(e)l, - (A) →D: Hähnchen/Hühnchen; CH:",
     "details": {
       "article": "das",
       "headword": "Hend(e)l",
@@ -26004,8 +25593,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Hähnchen/Hühnchen; CH:",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -26015,26 +25606,7 @@
       "female_form": null
     },
     "examples": [
-      "Zum Mittagessen gibt es Hendl mit"
-    ]
-  },
-  {
-    "id": "Hähnchen/Hühnchen; CH:",
-    "raw_word": "Hähnchen/Hühnchen; CH:",
-    "details": {
-      "article": null,
-      "headword": "Hähnchen; CH:",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "Hühnchen"
-      ],
-      "female_form": null
-    },
-    "examples": [
-      "Reis."
+      "Zum Mittagessen gibt es Hendl mit Reis."
     ]
   },
   {
@@ -27322,7 +26894,7 @@
   },
   {
     "id": "der Imbiss",
-    "raw_word": "der Imbiss, -e (D) →A:",
+    "raw_word": "der Imbiss, -e (D) →A: Jause, CH: Znüni/Zvieri",
     "details": {
       "article": "der",
       "headword": "Imbiss",
@@ -27330,8 +26902,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Jause, CH: Znüni/Zvieri",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -27343,23 +26917,6 @@
     "examples": [
       "Es ist Zeit für einen kleinen Imbiss."
     ]
-  },
-  {
-    "id": "Jause",
-    "raw_word": "Jause, CH: Znüni/Zvieri",
-    "details": {
-      "article": null,
-      "headword": "Jause",
-      "plural": null,
-      "conjugation": [
-        "CH: Znüni/Zvieri"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "immer",
@@ -28494,7 +28051,7 @@
   },
   {
     "id": "der Junge",
-    "raw_word": "der Junge, -n (D) →A, CH:",
+    "raw_word": "der Junge, -n (D) →A, CH: Bub",
     "details": {
       "article": "der",
       "headword": "Junge",
@@ -28502,8 +28059,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A, CH:",
-          "regional_usage": []
+          "word": "Bub",
+          "regional_usage": [
+            "A",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -28513,24 +28073,7 @@
       "female_form": null
     },
     "examples": [
-      "In der Schulklasse sind 15 Jungen und"
-    ]
-  },
-  {
-    "id": "Bub",
-    "raw_word": "Bub",
-    "details": {
-      "article": null,
-      "headword": "Bub",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "10 Mädchen."
+      "In der Schulklasse sind 15 Jungen und 10 Mädchen."
     ]
   },
   {
@@ -28876,13 +28419,21 @@
   },
   {
     "id": "der Karneval",
-    "raw_word": "der Karneval, -s/-e (D) →",
+    "raw_word": "der Karneval, -s/-e (D) → D, A: Fasching; CH: Fasnacht",
     "details": {
       "article": "der",
       "headword": "Karneval",
-      "plural": "-s/-e →",
+      "plural": "-s/-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Fasching; CH: Fasnacht",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [
         "D"
       ],
@@ -28890,31 +28441,12 @@
       "female_form": null
     },
     "examples": [
-      "Dort hängt mein Kostüm für den"
-    ]
-  },
-  {
-    "id": "D",
-    "raw_word": "D, A: Fasching; CH: Fasnacht",
-    "details": {
-      "article": null,
-      "headword": "D",
-      "plural": null,
-      "conjugation": [
-        "A: Fasching; CH: Fasnacht"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Karnevals(um)zug."
+      "Dort hängt mein Kostüm für den Karnevals(um)zug."
     ]
   },
   {
     "id": "die Karotte",
-    "raw_word": "die Karotte, -n →D:",
+    "raw_word": "die Karotte, -n →D: Möhre; CH: Rüebli",
     "details": {
       "article": "die",
       "headword": "Karotte",
@@ -28922,8 +28454,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Möhre; CH: Rüebli",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [],
@@ -28933,21 +28467,6 @@
     "examples": [
       "Hasen fressen gern Karotten."
     ]
-  },
-  {
-    "id": "Möhre; CH: Rüebli",
-    "raw_word": "Möhre; CH: Rüebli",
-    "details": {
-      "article": null,
-      "headword": "Möhre; CH: Rüebli",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Karriere",
@@ -29009,7 +28528,7 @@
   },
   {
     "id": "die Fahrkarte",
-    "raw_word": "die Fahrkarte, -n →CH:",
+    "raw_word": "die Fahrkarte, -n →CH: Billett",
     "details": {
       "article": "die",
       "headword": "Fahrkarte",
@@ -29017,8 +28536,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Billett",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [],
@@ -29026,24 +28547,7 @@
       "female_form": null
     },
     "examples": [
-      "Fahrkarten können Sie am Schalter"
-    ]
-  },
-  {
-    "id": "Billett",
-    "raw_word": "Billett",
-    "details": {
-      "article": null,
-      "headword": "Billett",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "kaufen."
+      "Fahrkarten können Sie am Schalter kaufen."
     ]
   },
   {
@@ -29692,7 +29196,7 @@
   },
   {
     "id": "die Kiste",
-    "raw_word": "die Kiste, -n (A, D) →D:",
+    "raw_word": "die Kiste, -n (A, D) →D: Kasten",
     "details": {
       "article": "die",
       "headword": "Kiste",
@@ -29700,8 +29204,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Kasten",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -29714,21 +29220,6 @@
     "examples": [
       "Ich habe zwei Kisten Bier gekauft."
     ]
-  },
-  {
-    "id": "Kasten",
-    "raw_word": "Kasten",
-    "details": {
-      "article": null,
-      "headword": "Kasten",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Kissen",
@@ -30232,7 +29723,7 @@
   },
   {
     "id": "der Kloß",
-    "raw_word": "der Kloß, ¨-e (D) →D, A:",
+    "raw_word": "der Kloß, ¨-e (D) →D, A: Knödel",
     "details": {
       "article": "der",
       "headword": "Kloß",
@@ -30240,8 +29731,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Knödel",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -30251,24 +29745,7 @@
       "female_form": null
     },
     "examples": [
-      "Möchten Sie zum Fleisch Kartoffeln"
-    ]
-  },
-  {
-    "id": "Knödel",
-    "raw_word": "Knödel",
-    "details": {
-      "article": null,
-      "headword": "Knödel",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "oder Klöße? – Klöße, bitte."
+      "Möchten Sie zum Fleisch Kartoffeln oder Klöße? – Klöße, bitte."
     ]
   },
   {
@@ -30368,7 +29845,7 @@
   },
   {
     "id": "der Knödel",
-    "raw_word": "der Knödel, - (D, A) →D:",
+    "raw_word": "der Knödel, - (D, A) →D: Kloß",
     "details": {
       "article": "der",
       "headword": "Knödel",
@@ -30376,8 +29853,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Kloß",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -30388,24 +29867,7 @@
       "female_form": null
     },
     "examples": [
-      "Möchten Sie zum Fleisch Erdäpfel oder"
-    ]
-  },
-  {
-    "id": "Kloß",
-    "raw_word": "Kloß",
-    "details": {
-      "article": null,
-      "headword": "Kloß",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Knödel? – Knödel bitte."
+      "Möchten Sie zum Fleisch Erdäpfel oder Knödel? – Knödel bitte."
     ]
   },
   {
@@ -31160,13 +30622,18 @@
   },
   {
     "id": "der Korridor",
-    "raw_word": "der Korridor, -e (D, CH) →",
+    "raw_word": "der Korridor, -e (D, CH) → Gang; D: Flur",
     "details": {
       "article": "der",
       "headword": "Korridor",
-      "plural": "-e →",
+      "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Gang; D: Flur",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D",
         "CH"
@@ -31177,21 +30644,6 @@
     "examples": [
       "Wir warten draußen im Korridor."
     ]
-  },
-  {
-    "id": "Gang; D: Flur",
-    "raw_word": "Gang; D: Flur",
-    "details": {
-      "article": null,
-      "headword": "Gang; D: Flur",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "korrigieren",
@@ -31274,7 +30726,7 @@
   },
   {
     "id": "kosten",
-    "raw_word": "kosten, kostet, kostete, hat gekostet (A) →D, CH:",
+    "raw_word": "kosten, kostet, kostete, hat gekostet (A) →D, CH: probieren",
     "details": {
       "article": null,
       "headword": "kosten",
@@ -31286,8 +30738,11 @@
       ],
       "synonyms": [
         {
-          "word": "D, CH:",
-          "regional_usage": []
+          "word": "probieren",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -31299,21 +30754,6 @@
     "examples": [
       "Möchten Sie den Käse mal kosten?"
     ]
-  },
-  {
-    "id": "probieren",
-    "raw_word": "probieren",
-    "details": {
-      "article": null,
-      "headword": "probieren",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Kostüm",
@@ -34796,7 +34236,7 @@
   },
   {
     "id": "die Marille",
-    "raw_word": "die Marille, -n (A) →D, CH:",
+    "raw_word": "die Marille, -n (A) →D, CH: Aprikose",
     "details": {
       "article": "die",
       "headword": "Marille",
@@ -34804,8 +34244,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, CH:",
-          "regional_usage": []
+          "word": "Aprikose",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -34817,21 +34260,6 @@
     "examples": [
       "Schmecken dir die Marillen?"
     ]
-  },
-  {
-    "id": "Aprikose",
-    "raw_word": "Aprikose",
-    "details": {
-      "article": null,
-      "headword": "Aprikose",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Marke",
@@ -34965,7 +34393,7 @@
   },
   {
     "id": "die Matura (A",
-    "raw_word": "die Matura (A, CH) →D:",
+    "raw_word": "die Matura (A, CH) →D: Abitur",
     "details": {
       "article": "die",
       "headword": "Matura",
@@ -34973,8 +34401,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Abitur",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -34985,24 +34415,7 @@
       "female_form": null
     },
     "examples": [
-      "Meine Tocher hat gerade die Matura"
-    ]
-  },
-  {
-    "id": "Abitur",
-    "raw_word": "Abitur",
-    "details": {
-      "article": null,
-      "headword": "Abitur",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gemacht."
+      "Meine Tocher hat gerade die Matura gemacht."
     ]
   },
   {
@@ -36360,13 +35773,18 @@
   },
   {
     "id": "die Möhre",
-    "raw_word": "die Möhre, -n (D) →",
+    "raw_word": "die Möhre, -n (D) → Karotte; CH: Rüebli",
     "details": {
       "article": "die",
       "headword": "Möhre",
-      "plural": "-n →",
+      "plural": "-n",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Karotte; CH: Rüebli",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D"
       ],
@@ -36376,21 +35794,6 @@
     "examples": [
       "Hasen fressen gern Möhren."
     ]
-  },
-  {
-    "id": "Karotte; CH: Rüebli",
-    "raw_word": "Karotte; CH: Rüebli",
-    "details": {
-      "article": null,
-      "headword": "Karotte; CH: Rüebli",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Moment",
@@ -38453,13 +37856,18 @@
   },
   {
     "id": "der Ober",
-    "raw_word": "der Ober, - (D, A) →",
+    "raw_word": "der Ober, - (D, A) → Kellner;",
     "details": {
       "article": "der",
       "headword": "Ober",
-      "plural": "- →",
+      "plural": "-",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Kellner;",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D",
         "A"
@@ -38470,21 +37878,6 @@
     "examples": [
       "Ich bin Ober von Beruf."
     ]
-  },
-  {
-    "id": "Kellner;",
-    "raw_word": "Kellner;",
-    "details": {
-      "article": null,
-      "headword": "Kellner;",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "CH: Serviceangestellter",
@@ -38521,16 +37914,16 @@
     ]
   },
   {
-    "id": "→D: (Schlag-)Sahne; CH:",
-    "raw_word": "→D: (Schlag-)Sahne; CH:",
+    "id": "→D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "raw_word": "→D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": null,
-      "headword": "→D: (Schlag-)Sahne; CH:",
+      "headword": "→D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Schlag-)Sahne; CH:",
+          "word": "(Schlag-)Sahne; CH: (Schlag-)Rahm",
           "regional_usage": [
             "D"
           ]
@@ -38545,23 +37938,8 @@
     ]
   },
   {
-    "id": "(Schlag-)Rahm",
-    "raw_word": "(Schlag-)Rahm",
-    "details": {
-      "article": null,
-      "headword": "(Schlag-)Rahm",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "das Obst (D",
-    "raw_word": "das Obst (D, A) →CH:",
+    "raw_word": "das Obst (D, A) →CH: Früchte",
     "details": {
       "article": "das",
       "headword": "Obst",
@@ -38569,8 +37947,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Früchte",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -38581,24 +37961,7 @@
       "female_form": null
     },
     "examples": [
-      "Obst kaufe ich am liebsten auf dem"
-    ]
-  },
-  {
-    "id": "Früchte",
-    "raw_word": "Früchte",
-    "details": {
-      "article": null,
-      "headword": "Früchte",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Markt."
+      "Obst kaufe ich am liebsten auf dem Markt."
     ]
   },
   {
@@ -39121,13 +38484,18 @@
   },
   {
     "id": "die Ordination",
-    "raw_word": "die Ordination, -en (A) →",
+    "raw_word": "die Ordination, -en (A) → Praxis",
     "details": {
       "article": "die",
       "headword": "Ordination",
-      "plural": "-en →",
+      "plural": "-en",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Praxis",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -39136,35 +38504,23 @@
     },
     "examples": [
       "Die Ordination bleibt bis zum",
-      "Jänner"
-    ]
-  },
-  {
-    "id": "Praxis",
-    "raw_word": "Praxis",
-    "details": {
-      "article": null,
-      "headword": "Praxis",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "geschlossen."
+      "Jänner geschlossen."
     ]
   },
   {
     "id": "die Ordination",
-    "raw_word": "die Ordination, -en (A) →",
+    "raw_word": "die Ordination, -en (A) → Sprechstunde",
     "details": {
       "article": "die",
       "headword": "Ordination",
-      "plural": "-en →",
+      "plural": "-en",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Sprechstunde",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -39173,24 +38529,7 @@
     },
     "examples": [
       "Frau Dr.",
-      "Berger hat von 8 bis 12 Uhr"
-    ]
-  },
-  {
-    "id": "Sprechstunde",
-    "raw_word": "Sprechstunde",
-    "details": {
-      "article": null,
-      "headword": "Sprechstunde",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ordination."
+      "Berger hat von 8 bis 12 Uhr Ordination."
     ]
   },
   {
@@ -39617,7 +38956,7 @@
   },
   {
     "id": "geparkt (D",
-    "raw_word": "geparkt (D, A) →CH:",
+    "raw_word": "geparkt (D, A) →CH: parkieren",
     "details": {
       "article": null,
       "headword": "geparkt",
@@ -39625,8 +38964,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "parkieren",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -39639,21 +38980,6 @@
     "examples": [
       "Hier ist das Parken verboten."
     ]
-  },
-  {
-    "id": "parkieren",
-    "raw_word": "parkieren",
-    "details": {
-      "article": null,
-      "headword": "parkieren",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "parkieren",
@@ -40028,13 +39354,21 @@
   },
   {
     "id": "die Pension",
-    "raw_word": "die Pension, -en (A, CH) →",
+    "raw_word": "die Pension, -en (A, CH) → D, CH: Rente",
     "details": {
       "article": "die",
       "headword": "Pension",
-      "plural": "-en →",
+      "plural": "-en",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Rente",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
+        }
+      ],
       "regional_usage": [
         "A",
         "CH"
@@ -40043,26 +39377,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie ist 67 und bekommt jetzt eine gute"
-    ]
-  },
-  {
-    "id": "D",
-    "raw_word": "D, CH: Rente",
-    "details": {
-      "article": null,
-      "headword": "D",
-      "plural": null,
-      "conjugation": [
-        "CH: Rente"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Pension."
+      "Sie ist 67 und bekommt jetzt eine gute Pension."
     ]
   },
   {
@@ -40302,7 +39617,7 @@
   },
   {
     "id": "der Perron",
-    "raw_word": "der Perron, -s (CH) →D, A:",
+    "raw_word": "der Perron, -s (CH) →D, A: Bahnsteig",
     "details": {
       "article": "der",
       "headword": "Perron",
@@ -40310,8 +39625,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Bahnsteig",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -40321,24 +39639,7 @@
       "female_form": null
     },
     "examples": [
-      "Auf Hauptbahnhöfen gibt es meist"
-    ]
-  },
-  {
-    "id": "Bahnsteig",
-    "raw_word": "Bahnsteig",
-    "details": {
-      "article": null,
-      "headword": "Bahnsteig",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "viele Perrons."
+      "Auf Hauptbahnhöfen gibt es meist viele Perrons."
     ]
   },
   {
@@ -40378,7 +39679,7 @@
   },
   {
     "id": "der Personenstand →D",
-    "raw_word": "der Personenstand →D, A:",
+    "raw_word": "der Personenstand →D, A: Familienstand;",
     "details": {
       "article": "der",
       "headword": "Personenstand",
@@ -40386,8 +39687,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Familienstand;",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -40395,24 +39699,7 @@
       "female_form": null
     },
     "examples": [
-      "Bei „Personenstand“ musst du „ledig“"
-    ]
-  },
-  {
-    "id": "Familienstand;",
-    "raw_word": "Familienstand;",
-    "details": {
-      "article": null,
-      "headword": "Familienstand;",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "ankreuzen."
+      "Bei „Personenstand“ musst du „ledig“ ankreuzen."
     ]
   },
   {
@@ -40449,7 +39736,7 @@
   },
   {
     "id": "die Pfanne",
-    "raw_word": "die Pfanne, -n (CH) →D, A:",
+    "raw_word": "die Pfanne, -n (CH) →D, A: Topf",
     "details": {
       "article": "die",
       "headword": "Pfanne",
@@ -40457,8 +39744,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, A:",
-          "regional_usage": []
+          "word": "Topf",
+          "regional_usage": [
+            "D",
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -40469,24 +39759,7 @@
     },
     "examples": [
       "Hast du keine größere Pfanne?",
-      "Ich"
-    ]
-  },
-  {
-    "id": "Topf",
-    "raw_word": "Topf",
-    "details": {
-      "article": null,
-      "headword": "Topf",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "möchte Kartoffeln kochen."
+      "Ich möchte Kartoffeln kochen."
     ]
   },
   {
@@ -40724,13 +39997,20 @@
   },
   {
     "id": "der Pilz",
-    "raw_word": "der Pilz, -e →",
+    "raw_word": "der Pilz, -e → A: Schwammerl",
     "details": {
       "article": "der",
       "headword": "Pilz",
-      "plural": "-e →",
+      "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Schwammerl",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [],
       "variants": [],
       "female_form": null
@@ -40738,21 +40018,6 @@
     "examples": [
       "Haben Sie frische Pilze?"
     ]
-  },
-  {
-    "id": "A: Schwammerl",
-    "raw_word": "A: Schwammerl",
-    "details": {
-      "article": null,
-      "headword": "A: Schwammerl",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Pizza",
@@ -41140,13 +40405,18 @@
   },
   {
     "id": "der Pöstler",
-    "raw_word": "der Pöstler, - / die Pöstlerin, -nen (CH) →",
+    "raw_word": "der Pöstler, - / die Pöstlerin, -nen (CH) → Briefträger",
     "details": {
       "article": "der",
       "headword": "Pöstler",
       "plural": "-",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Briefträger",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -41154,7 +40424,7 @@
       "female_form": {
         "article": "die",
         "headword": "Pöstlerin",
-        "plural": "-nen →",
+        "plural": "-nen",
         "conjugation": [],
         "synonyms": [],
         "regional_usage": [],
@@ -41167,23 +40437,8 @@
     ]
   },
   {
-    "id": "Briefträger",
-    "raw_word": "Briefträger",
-    "details": {
-      "article": null,
-      "headword": "Briefträger",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
     "id": "das Poulet",
-    "raw_word": "das Poulet, -s (CH) →D:",
+    "raw_word": "das Poulet, -s (CH) →D: Hähnchen/Hühnchen; A:",
     "details": {
       "article": "das",
       "headword": "Poulet",
@@ -41191,8 +40446,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Hähnchen/Hühnchen; A:",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -41202,26 +40459,7 @@
       "female_form": null
     },
     "examples": [
-      "Zum Mittagessen gibt es Poulet mit"
-    ]
-  },
-  {
-    "id": "Hähnchen/Hühnchen; A:",
-    "raw_word": "Hähnchen/Hühnchen; A:",
-    "details": {
-      "article": null,
-      "headword": "Hähnchen; A:",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [
-        "Hühnchen"
-      ],
-      "female_form": null
-    },
-    "examples": [
-      "Reis."
+      "Zum Mittagessen gibt es Poulet mit Reis."
     ]
   },
   {
@@ -41363,7 +40601,7 @@
   },
   {
     "id": "die Praxis",
-    "raw_word": "die Praxis, Praxen →A:",
+    "raw_word": "die Praxis, Praxen →A: Ordination",
     "details": {
       "article": "die",
       "headword": "Praxis",
@@ -41371,8 +40609,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Ordination",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -41381,24 +40621,7 @@
     },
     "examples": [
       "Die Arztpraxis bleibt bis zum",
-      "Januar"
-    ]
-  },
-  {
-    "id": "Ordination",
-    "raw_word": "Ordination",
-    "details": {
-      "article": null,
-      "headword": "Ordination",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "geschlossen."
+      "Januar geschlossen."
     ]
   },
   {
@@ -42233,13 +41456,18 @@
   },
   {
     "id": "das Rad",
-    "raw_word": "das Rad, ¨-er (D, A) →",
+    "raw_word": "das Rad, ¨-er (D, A) → Fahrrad; CH: Velo",
     "details": {
       "article": "das",
       "headword": "Rad",
-      "plural": "¨-er →",
+      "plural": "¨-er",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Fahrrad; CH: Velo",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "D",
         "A"
@@ -42248,24 +41476,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie fährt jeden Morgen mit dem Rad"
-    ]
-  },
-  {
-    "id": "Fahrrad; CH: Velo",
-    "raw_word": "Fahrrad; CH: Velo",
-    "details": {
-      "article": null,
-      "headword": "Fahrrad; CH: Velo",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "zur Arbeit.",
+      "Sie fährt jeden Morgen mit dem Rad zur Arbeit.",
       "Am Sonntag fahren wir oft Rad."
     ]
   },
@@ -42321,14 +41532,21 @@
     ]
   },
   {
-    "id": "der (Schlag-)Rahm (CH) →",
-    "raw_word": "der (Schlag-)Rahm (CH) →",
+    "id": "der (Schlag-)Rahm (CH) → D: (Schlag-)Sahne",
+    "raw_word": "der (Schlag-)Rahm (CH) → D: (Schlag-)Sahne,",
     "details": {
       "article": "der",
-      "headword": "(Schlag-)Rahm →",
+      "headword": "(Schlag-)Rahm",
       "plural": null,
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "(Schlag-)Sahne,",
+          "regional_usage": [
+            "D"
+          ]
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -42336,24 +41554,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern ein Stück Torte mit"
-    ]
-  },
-  {
-    "id": "D: (Schlag-)Sahne",
-    "raw_word": "D: (Schlag-)Sahne,",
-    "details": {
-      "article": null,
-      "headword": "D: (Schlag-)Sahne",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "(Schlag-)Rahm."
+      "Ich hätte gern ein Stück Torte mit (Schlag-)Rahm."
     ]
   },
   {
@@ -44256,13 +43457,21 @@
   },
   {
     "id": "das (Back-)Rohr",
-    "raw_word": "das (Back-)Rohr, -e (A) →",
+    "raw_word": "das (Back-)Rohr, -e (A) → D, CH: (Back-)Ofen",
     "details": {
       "article": "das",
       "headword": "(Back-)Rohr",
-      "plural": "-e →",
+      "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "(Back-)Ofen",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -44270,25 +43479,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe gerade eine Pizza gemacht."
-    ]
-  },
-  {
-    "id": "D",
-    "raw_word": "D, CH: (Back-)Ofen",
-    "details": {
-      "article": null,
-      "headword": "D",
-      "plural": null,
-      "conjugation": [
-        "CH: (Back-)Ofen"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich habe gerade eine Pizza gemacht.",
       "Sie ist ganz frisch aus dem Rohr."
     ]
   },
@@ -44464,13 +43655,18 @@
   },
   {
     "id": "das Rüebli",
-    "raw_word": "das Rüebli, - (CH) →",
+    "raw_word": "das Rüebli, - (CH) → Karotte; D: Möhre",
     "details": {
       "article": "das",
       "headword": "Rüebli",
-      "plural": "- →",
+      "plural": "-",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Karotte; D: Möhre",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -44480,21 +43676,6 @@
     "examples": [
       "Hasen fressen gern Rüebli."
     ]
-  },
-  {
-    "id": "Karotte; D: Möhre",
-    "raw_word": "Karotte; D: Möhre",
-    "details": {
-      "article": null,
-      "headword": "Karotte; D: Möhre",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "rufen",
@@ -44706,14 +43887,21 @@
     ]
   },
   {
-    "id": "die (Schlag-)Sahne (D) →",
-    "raw_word": "die (Schlag-)Sahne (D) →",
+    "id": "die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH:",
+    "raw_word": "die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH:",
     "details": {
       "article": "die",
-      "headword": "(Schlag-)Sahne →",
+      "headword": "(Schlag-)Sahne",
       "plural": null,
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "(Schlag-)Obers; CH:",
+          "regional_usage": [
+            "A"
+          ]
+        }
+      ],
       "regional_usage": [
         "D"
       ],
@@ -44721,24 +43909,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern ein Stück Torte mit"
-    ]
-  },
-  {
-    "id": "A: (Schlag-)Obers; CH:",
-    "raw_word": "A: (Schlag-)Obers; CH:",
-    "details": {
-      "article": null,
-      "headword": "A: (Schlag-)Obers; CH:",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Sahne."
+      "Ich hätte gern ein Stück Torte mit Sahne."
     ]
   },
   {
@@ -45868,16 +45039,16 @@
     ]
   },
   {
-    "id": "→D: (Schlag-)Sahne; CH:",
-    "raw_word": "→D: (Schlag-)Sahne; CH:",
+    "id": "→D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "raw_word": "→D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": null,
-      "headword": "→D: (Schlag-)Sahne; CH:",
+      "headword": "→D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "(Schlag-)Sahne; CH:",
+          "word": "(Schlag-)Sahne; CH: (Schlag-)Rahm",
           "regional_usage": [
             "D"
           ]
@@ -45890,21 +45061,6 @@
     "examples": [
       "Schlagobers."
     ]
-  },
-  {
-    "id": "(Schlag-)Rahm",
-    "raw_word": "(Schlag-)Rahm",
-    "details": {
-      "article": null,
-      "headword": "(Schlag-)Rahm",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Schlange",
@@ -46520,13 +45676,21 @@
   },
   {
     "id": "der Schrank",
-    "raw_word": "der Schrank, ¨-e (D, CH) →",
+    "raw_word": "der Schrank, ¨-e (D, CH) → A, CH: Kasten",
     "details": {
       "article": "der",
       "headword": "Schrank",
-      "plural": "¨-e →",
+      "plural": "¨-e",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Kasten",
+          "regional_usage": [
+            "A",
+            "CH"
+          ]
+        }
+      ],
       "regional_usage": [
         "D",
         "CH"
@@ -46537,23 +45701,6 @@
     "examples": [
       "Die Handtücher liegen im Schrank."
     ]
-  },
-  {
-    "id": "A",
-    "raw_word": "A, CH: Kasten",
-    "details": {
-      "article": null,
-      "headword": "A",
-      "plural": null,
-      "conjugation": [
-        "CH: Kasten"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Schreck(en)",
@@ -46850,13 +45997,20 @@
   },
   {
     "id": "die Schularbeit",
-    "raw_word": "die Schularbeit, -en (A) →",
+    "raw_word": "die Schularbeit, -en (A) → D: Klassenarbeit",
     "details": {
       "article": "die",
       "headword": "Schularbeit",
-      "plural": "-en →",
+      "plural": "-en",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Klassenarbeit",
+          "regional_usage": [
+            "D"
+          ]
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -46864,24 +46018,7 @@
       "female_form": null
     },
     "examples": [
-      "Mein Sohn schreibt bei Schularbeiten"
-    ]
-  },
-  {
-    "id": "D: Klassenarbeit",
-    "raw_word": "D: Klassenarbeit",
-    "details": {
-      "article": null,
-      "headword": "D: Klassenarbeit",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "immer gute Noten."
+      "Mein Sohn schreibt bei Schularbeiten immer gute Noten."
     ]
   },
   {
@@ -47062,13 +46199,18 @@
   },
   {
     "id": "das Schwammerl",
-    "raw_word": "das Schwammerl, -n (A) →",
+    "raw_word": "das Schwammerl, -n (A) → Pilz",
     "details": {
       "article": "das",
       "headword": "Schwammerl",
-      "plural": "-n →",
+      "plural": "-n",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Pilz",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -47078,21 +46220,6 @@
     "examples": [
       "Haben Sie frische Schwammerln?"
     ]
-  },
-  {
-    "id": "Pilz",
-    "raw_word": "Pilz",
-    "details": {
-      "article": null,
-      "headword": "Pilz",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "schwanger",
@@ -47758,7 +46885,7 @@
   },
   {
     "id": "die Semmel",
-    "raw_word": "die Semmel, -n (A) →D:",
+    "raw_word": "die Semmel, -n (A) →D: Brötchen; CH: Brötli",
     "details": {
       "article": "die",
       "headword": "Semmel",
@@ -47766,8 +46893,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D:",
-          "regional_usage": []
+          "word": "Brötchen; CH: Brötli",
+          "regional_usage": [
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -47777,24 +46906,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hole schnell ein paar Semmeln zum"
-    ]
-  },
-  {
-    "id": "Brötchen; CH: Brötli",
-    "raw_word": "Brötchen; CH: Brötli",
-    "details": {
-      "article": null,
-      "headword": "Brötchen; CH: Brötli",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Frühstück."
+      "Ich hole schnell ein paar Semmeln zum Frühstück."
     ]
   },
   {
@@ -47981,15 +47093,15 @@
   },
   {
     "id": "/ die Serviceangestellte",
-    "raw_word": "/ die Serviceangestellte, - n (CH) →Kellner; D, A:",
+    "raw_word": "/ die Serviceangestellte, - n (CH) →Kellner; D, A: Ober",
     "details": {
       "article": null,
-      "headword": "/ die Serviceangestellte, - n (CH) →Kellner; D, A:",
+      "headword": "/ die Serviceangestellte, - n (CH) →Kellner; D, A: Ober",
       "plural": null,
       "conjugation": [],
       "synonyms": [
         {
-          "word": "Kellner; D, A:",
+          "word": "Kellner; D, A: Ober",
           "regional_usage": []
         }
       ],
@@ -48007,21 +47119,6 @@
         "variants": [],
         "female_form": null
       }
-    },
-    "examples": []
-  },
-  {
-    "id": "Ober",
-    "raw_word": "Ober",
-    "details": {
-      "article": null,
-      "headword": "Ober",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
     },
     "examples": []
   },
@@ -48067,7 +47164,7 @@
   },
   {
     "id": "der Sessel",
-    "raw_word": "der Sessel, - (A) →D, CH:",
+    "raw_word": "der Sessel, - (A) →D, CH: Stuhl",
     "details": {
       "article": "der",
       "headword": "Sessel",
@@ -48075,8 +47172,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, CH:",
-          "regional_usage": []
+          "word": "Stuhl",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -48088,21 +47188,6 @@
     "examples": [
       "Da hinten ist noch ein Sessel frei."
     ]
-  },
-  {
-    "id": "Stuhl",
-    "raw_word": "Stuhl",
-    "details": {
-      "article": null,
-      "headword": "Stuhl",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "(sich) setzen",
@@ -49695,7 +48780,7 @@
   },
   {
     "id": "die Sprechstunde",
-    "raw_word": "die Sprechstunde, -n →A:",
+    "raw_word": "die Sprechstunde, -n →A: Ordination",
     "details": {
       "article": "die",
       "headword": "Sprechstunde",
@@ -49703,8 +48788,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Ordination",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [],
@@ -49713,24 +48800,7 @@
     },
     "examples": [
       "Frau Dr.",
-      "Berger hat von 8 bis 12 Uhr"
-    ]
-  },
-  {
-    "id": "Ordination",
-    "raw_word": "Ordination",
-    "details": {
-      "article": null,
-      "headword": "Ordination",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Sprechstunde."
+      "Berger hat von 8 bis 12 Uhr Sprechstunde."
     ]
   },
   {
@@ -50688,7 +49758,7 @@
   },
   {
     "id": "die Stiege",
-    "raw_word": "die Stiege, -n (A) →D, CH:",
+    "raw_word": "die Stiege, -n (A) →D, CH: Treppe",
     "details": {
       "article": "die",
       "headword": "Stiege",
@@ -50696,8 +49766,11 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "D, CH:",
-          "regional_usage": []
+          "word": "Treppe",
+          "regional_usage": [
+            "D",
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -50707,24 +49780,7 @@
       "female_form": null
     },
     "examples": [
-      "Wo ist die Toilette? – Die Stiege hoch"
-    ]
-  },
-  {
-    "id": "Treppe",
-    "raw_word": "Treppe",
-    "details": {
-      "article": null,
-      "headword": "Treppe",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "und dann links.",
+      "Wo ist die Toilette? – Die Stiege hoch und dann links.",
       "Meine Oma kann nicht gut Stiegen steigen."
     ]
   },
@@ -51158,36 +50214,24 @@
   },
   {
     "id": "das Streichholz",
-    "raw_word": "das Streichholz, ¨-er →",
+    "raw_word": "das Streichholz, ¨-er → Zündholz; A: Zünder",
     "details": {
       "article": "das",
       "headword": "Streichholz",
-      "plural": "¨-er →",
+      "plural": "¨-er",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Zündholz; A: Zünder",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [],
       "variants": [],
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern eine Schachtel"
-    ]
-  },
-  {
-    "id": "Zündholz; A: Zünder",
-    "raw_word": "Zündholz; A: Zünder",
-    "details": {
-      "article": null,
-      "headword": "Zündholz; A: Zünder",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Streichhölzer."
+      "Ich hätte gern eine Schachtel Streichhölzer."
     ]
   },
   {
@@ -53260,7 +52304,7 @@
   },
   {
     "id": "der Topf",
-    "raw_word": "der Topf, ¨-e (D, A) →CH:",
+    "raw_word": "der Topf, ¨-e (D, A) →CH: Pfanne",
     "details": {
       "article": "der",
       "headword": "Topf",
@@ -53268,8 +52312,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Pfanne",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -53280,24 +52326,7 @@
       "female_form": null
     },
     "examples": [
-      "Dieses Jahr haben wir keine Töpfe mit"
-    ]
-  },
-  {
-    "id": "Pfanne",
-    "raw_word": "Pfanne",
-    "details": {
-      "article": null,
-      "headword": "Pfanne",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Blumen auf dem Balkon.",
+      "Dieses Jahr haben wir keine Töpfe mit Blumen auf dem Balkon.",
       "Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen. →(CH: Pfanne)"
     ]
   },
@@ -53917,7 +52946,7 @@
   },
   {
     "id": "die Treppe",
-    "raw_word": "die Treppe, -n (D, CH) →A:",
+    "raw_word": "die Treppe, -n (D, CH) →A: Stiege",
     "details": {
       "article": "die",
       "headword": "Treppe",
@@ -53925,8 +52954,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Stiege",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -53937,24 +52968,7 @@
       "female_form": null
     },
     "examples": [
-      "Wo ist die Toilette? – Die Treppe hoch"
-    ]
-  },
-  {
-    "id": "Stiege",
-    "raw_word": "Stiege",
-    "details": {
-      "article": null,
-      "headword": "Stiege",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "und dann links.",
+      "Wo ist die Toilette? – Die Treppe hoch und dann links.",
       "Meine Oma kann nicht gut Treppen steigen."
     ]
   },
@@ -54151,13 +53165,18 @@
   },
   {
     "id": "das Trottoir",
-    "raw_word": "das Trottoir, -s (CH) →",
+    "raw_word": "das Trottoir, -s (CH) → Gehsteig (D, A)",
     "details": {
       "article": "das",
       "headword": "Trottoir",
-      "plural": "-s →",
+      "plural": "-s",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Gehsteig (D, A)",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -54165,27 +53184,7 @@
       "female_form": null
     },
     "examples": [
-      "Das Velofahren auf dem Trottoir ist"
-    ]
-  },
-  {
-    "id": "Gehsteig (D",
-    "raw_word": "Gehsteig (D, A)",
-    "details": {
-      "article": null,
-      "headword": "Gehsteig",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [
-        "D",
-        "A"
-      ],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "nicht erlaubt."
+      "Das Velofahren auf dem Trottoir ist nicht erlaubt."
     ]
   },
   {
@@ -56514,7 +55513,7 @@
   },
   {
     "id": "der Urlaub",
-    "raw_word": "der Urlaub, -e (D, A) →CH:",
+    "raw_word": "der Urlaub, -e (D, A) →CH: Ferien",
     "details": {
       "article": "der",
       "headword": "Urlaub",
@@ -56522,8 +55521,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Ferien",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -56536,21 +55537,6 @@
     "examples": [
       "Ich habe noch drei Tage Urlaub."
     ]
-  },
-  {
-    "id": "Ferien",
-    "raw_word": "Ferien",
-    "details": {
-      "article": null,
-      "headword": "Ferien",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Ursache",
@@ -56699,13 +55685,18 @@
   },
   {
     "id": "das Velo",
-    "raw_word": "das Velo, -s (CH) →",
+    "raw_word": "das Velo, -s (CH) → Fahrrad; D, A: Rad",
     "details": {
       "article": "das",
       "headword": "Velo",
-      "plural": "-s →",
+      "plural": "-s",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Fahrrad; D, A: Rad",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "CH"
       ],
@@ -56713,26 +55704,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie fährt jeden Morgen mit dem Velo"
-    ]
-  },
-  {
-    "id": "Fahrrad; D",
-    "raw_word": "Fahrrad; D, A: Rad",
-    "details": {
-      "article": null,
-      "headword": "Fahrrad; D",
-      "plural": null,
-      "conjugation": [
-        "A: Rad"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "zur Arbeit.",
+      "Sie fährt jeden Morgen mit dem Velo zur Arbeit.",
       "Am Sonntag fahren wir oft Velo."
     ]
   },
@@ -59755,7 +58727,7 @@
   },
   {
     "id": "das Viertel",
-    "raw_word": "das Viertel, - (D, A) →CH:",
+    "raw_word": "das Viertel, - (D, A) →CH: Quartier",
     "details": {
       "article": "das",
       "headword": "Viertel",
@@ -59763,8 +58735,10 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Quartier",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -59777,21 +58751,6 @@
     "examples": [
       "Wir wohnen in einem schönen Viertel."
     ]
-  },
-  {
-    "id": "Quartier",
-    "raw_word": "Quartier",
-    "details": {
-      "article": null,
-      "headword": "Quartier",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "virtuell",
@@ -64405,14 +63364,19 @@
     ]
   },
   {
-    "id": "die Zünder (A) →",
-    "raw_word": "die Zünder (A) (Pl.) →",
+    "id": "die Zünder (A) → Streichholz; Zündholz",
+    "raw_word": "die Zünder (A) (Pl.) → Streichholz; Zündholz",
     "details": {
       "article": "die",
-      "headword": "Zünder  →",
+      "headword": "Zünder",
       "plural": "(Pl.)",
       "conjugation": [],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "Streichholz; Zündholz",
+          "regional_usage": []
+        }
+      ],
       "regional_usage": [
         "A"
       ],
@@ -64422,21 +63386,6 @@
     "examples": [
       "Ich hätte gern eine Schachtel Zünder."
     ]
-  },
-  {
-    "id": "Streichholz; Zündholz",
-    "raw_word": "Streichholz; Zündholz",
-    "details": {
-      "article": null,
-      "headword": "Streichholz; Zündholz",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Zündholz",

@@ -9386,27 +9386,10 @@
     ]
   },
   {
-    "id": "die",
-    "raw_word": "die",
+    "id": "die sehr",
+    "raw_word": "die sehr",
     "details": {
       "article": "die",
-      "headword": "die",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "-en Welche Sehenswürdigkeiten gibt es in Frankfurt?"
-    ]
-  },
-  {
-    "id": "sehr",
-    "raw_word": "sehr",
-    "details": {
-      "article": null,
       "headword": "sehr",
       "plural": null,
       "conjugation": [],
@@ -9416,6 +9399,7 @@
       "female_form": null
     },
     "examples": [
+      "-en Welche Sehenswürdigkeiten gibt es in Frankfurt?",
       "Danke sehr!",
       "Das ist sehr schwer."
     ]
