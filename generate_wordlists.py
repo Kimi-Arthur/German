@@ -57,24 +57,31 @@ def get_clean_id(word):
     clean = clean.split(',')[0].strip()
     # Clean up double spaces
     clean = re.sub(r'\s+', ' ', clean)
+    clean = clean.rstrip(";, ")
     return clean
 
 def join_word_parts(parts):
     if not parts:
         return ""
     result = parts[0]
+    articles = {"der", "die", "das", "der/die", "die/das", "der/das", "der/die/das"}
     for p in parts[1:]:
         p_clean = p.strip()
         if not p_clean:
             continue
+        result_last = result.split()[-1].lower().rstrip("/;,") if result.split() else ""
         if result.endswith("-") and not result.endswith(" -") and not result.endswith(",-") and not result.endswith(", -"):
             result = result[:-1] + p_clean
         elif p_clean.startswith("die ") and "der " in result.lower():
             result = result + " / " + p_clean
+        elif result_last in articles:
+            result = result + " " + p_clean
         elif p_clean[0].islower():
             result = result + " " + p_clean
         elif p_clean.startswith(",") or p_clean.startswith("-") or p_clean.startswith("("):
             result = result + " " + p_clean
+        elif result.endswith("/"):
+            result = result + p_clean
         elif result.endswith((",", ":", "→", "->")):
             result = result + " " + p_clean
         elif p_clean.startswith(("gehen/sein", "werden/sein", "haben/sein", "sein", "haben")):
@@ -154,50 +161,84 @@ def parse_word_details(raw_word):
     ref_match = re.search(r'(?:[→\u2192]|->)\s*(.+)$', work_str)
     if ref_match:
         ref_text = ref_match.group(1).strip()
-        syn_parts = [p.strip() for p in ref_text.split(";") if p.strip()]
-        for part in syn_parts:
-            # 1. Extract trailing regional marker (e.g. "Poulet (CH)")
-            syn_reg = []
-            suffix_match = re.search(r'\s*\(([A-Z\d\s,.]+)\)$', part)
-            if suffix_match:
-                raw_regs = suffix_match.group(1).split(",")
+        
+        # Segment ref_text by regional prefixes
+        prefix_pattern = r'\b((?:CH|D|A)(?:\s*,\s*(?:CH|D|A))*)\s*:'
+        matches = list(re.finditer(prefix_pattern, ref_text))
+        
+        chunks = []
+        if not matches:
+            chunks.append((ref_text, []))
+        else:
+            if matches[0].start() > 0:
+                pre_text = ref_text[:matches[0].start()].strip()
+                if pre_text:
+                    chunks.append((pre_text, []))
+            
+            for idx, match in enumerate(matches):
+                start_idx = match.end()
+                end_idx = matches[idx + 1].start() if idx + 1 < len(matches) else len(ref_text)
+                chunk_text = ref_text[start_idx:end_idx].strip()
+                
+                raw_regs = match.group(1).split(",")
+                chunk_regs = []
                 for r in raw_regs:
-                    r_clean = re.sub(r'[\d.]', '', r).strip()
+                    r_clean = r.strip()
                     if r_clean in ["D", "A", "CH"]:
-                        syn_reg.append(r_clean)
-                part = part[:suffix_match.start()].strip()
+                        chunk_regs.append(r_clean)
+                chunks.append((chunk_text, chunk_regs))
                 
-            # 2. Check for prefix regional marker (e.g. "A: Hend(e)l")
-            prefix_match = re.match(r'^([A-Z\s,]+):\s*(.+)$', part)
-            if prefix_match:
-                prefix_regs = [x.strip() for x in prefix_match.group(1).split(",")]
-                syn_reg.extend(prefix_regs)
-                part = prefix_match.group(2).strip()
+        active_regs = []
+        for chunk_text, chunk_regs in chunks:
+            if chunk_regs:
+                active_regs = chunk_regs
+            syn_parts = [p.strip() for p in chunk_text.split(";") if p.strip()]
+            for part in syn_parts:
+                part = part.strip().strip(",").strip()
+                if not part:
+                    continue
                 
-            clean_part_for_check = clean_word_spaces(part)
-            is_female = clean_part_for_check.startswith("die ") and clean_part_for_check.split(',')[0].strip().endswith("in")
-            
-            # 3. Strip trailing form changes (e.g. "Poulet, -s" -> "Poulet")
-            part_clean = part.split(',')[0].strip()
-            
-            # 4. Clean up any remaining reference arrows in the synonym itself
-            part_clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', part_clean).strip()
-            
-            if is_female:
-                fem_details = parse_word_details(clean_part_for_check)
-                if syn_reg:
-                    fem_details["regional_usage"] = list(set(syn_reg))
-                result["female_form"] = {
-                    "id": get_clean_id(clean_part_for_check),
-                    "raw_word": clean_part_for_check,
-                    "details": fem_details
-                }
-            else:
-                result["synonyms"].append({
-                    "word": part_clean,
-                    "regional_usage": list(set(syn_reg))
-                })
-        work_str = work_str[:ref_match.start()].strip()
+                syn_reg = list(active_regs)
+                suffix_match = re.search(r'\s*\(([A-Z\d\s,.]+)\)$', part)
+                if suffix_match:
+                    raw_regs = suffix_match.group(1).split(",")
+                    syn_reg = []
+                    for r in raw_regs:
+                        r_clean = re.sub(r'[\d.]', '', r).strip()
+                        if r_clean in ["D", "A", "CH"]:
+                            syn_reg.append(r_clean)
+                    part = part[:suffix_match.start()].strip()
+                    
+                prefix_match = re.match(r'^([A-Z\s,]+):\s*(.+)$', part)
+                if prefix_match:
+                    prefix_regs = [x.strip() for x in prefix_match.group(1).split(",")]
+                    syn_reg = []
+                    for r in prefix_regs:
+                        if r in ["D", "A", "CH"]:
+                            syn_reg.append(r)
+                    part = prefix_match.group(2).strip()
+                    
+                clean_part_for_check = clean_word_spaces(part)
+                is_female = clean_part_for_check.startswith("die ") and clean_part_for_check.split(',')[0].strip().endswith("in")
+                
+                part_clean = part.split(',')[0].strip()
+                part_clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', part_clean).strip()
+                
+                if is_female:
+                    fem_details = parse_word_details(clean_part_for_check)
+                    if syn_reg:
+                        fem_details["regional_usage"] = list(set(syn_reg))
+                    result["female_form"] = {
+                        "id": get_clean_id(clean_part_for_check),
+                        "raw_word": clean_part_for_check,
+                        "details": fem_details
+                    }
+                else:
+                    result["synonyms"].append({
+                        "word": part_clean,
+                        "regional_usage": list(set(syn_reg))
+                    })
+        work_str = work_str[:ref_match.start()].strip().rstrip(";,")
         
     # 3. Check for plural only marker "(Pl.)" and singular only marker "(Sg.)"
     if re.search(r'\([Pp]l\.\)', work_str):
@@ -231,6 +272,7 @@ def parse_word_details(raw_word):
         work_str = variant_match.group(1) + work_str[variant_match.end():]
         
     # 7. Split word and its inflections/plural
+    work_str = work_str.rstrip(";,")
     parts = [p.strip() for p in work_str.split(",") if p.strip()]
     if parts:
         result["headword"] = parts[0]
@@ -311,13 +353,14 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 base_word_str = current_word[0].strip() if current_word else ""
                 is_reflexive = bool(re.search(r'\b\(?sich\)?\b', base_word_str.lower())) and base_word_str.lower().strip() != "sich"
                 
+                has_arrow = any(("→" in w or "->" in w) for w in current_word)
                 if is_aux:
                     is_continuation = True
                 elif is_verb_phrase_wrap:
                     is_continuation = True
                 elif is_female_wrap:
                     is_continuation = True
-                elif is_capitalized_no_article and gap < 13.0:
+                elif is_capitalized_no_article and gap < 13.0 and has_arrow:
                     is_continuation = True
                 elif is_gewesen:
                     is_continuation = True
@@ -346,7 +389,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                         is_continuation = True
                     elif is_reflexive:
                         is_continuation = True
-                    elif prev_word_str.endswith("-") or prev_word_str.endswith(","):
+                    elif prev_word_str.endswith("-") or prev_word_str.endswith(",") or prev_word_str.endswith(":") or prev_word_str.endswith(";"):
                         is_continuation = True
                     else:
                         is_continuation = False

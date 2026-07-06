@@ -5903,7 +5903,9 @@
       "synonyms": [
         {
           "word": "Pöstler",
-          "regional_usage": []
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "female_form": {
@@ -5960,8 +5962,8 @@
         {
           "word": "Portemonnaie/Portmonee",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         },
         {
@@ -6456,7 +6458,7 @@
     "details": {
       "article": "die",
       "headword": "Coiffeuse",
-      "plural": "-n ;",
+      "plural": "-n",
       "synonyms": [
         {
           "word": "Friseur",
@@ -7416,8 +7418,8 @@
         {
           "word": "Büchse",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ]
@@ -7806,11 +7808,11 @@
     ]
   },
   {
-    "id": "die e-card ;",
+    "id": "die e-card",
     "raw_word": "die e-card (A); →D:die Versichertenkarte",
     "details": {
       "article": "die",
-      "headword": "e-card ;",
+      "headword": "e-card",
       "synonyms": [
         {
           "word": "die Versichertenkarte",
@@ -7897,8 +7899,8 @@
         {
           "word": "Ecke",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -7947,15 +7949,24 @@
   },
   {
     "id": "die Ehefrau",
-    "raw_word": "die Ehefrau, -en/der; Ehemann, ¨-er",
+    "raw_word": "die Ehefrau, -en",
     "details": {
       "article": "die",
       "headword": "Ehefrau",
-      "plural": "-en/der; Ehemann"
+      "plural": "-en"
     },
     "examples": [
       "Wie heißt Ihre Ehefrau mit Vornamen?"
     ]
+  },
+  {
+    "id": "der Ehemann",
+    "raw_word": "der Ehemann, ¨-er",
+    "details": {
+      "article": "der",
+      "headword": "Ehemann",
+      "plural": "¨-er"
+    }
   },
   {
     "id": "das Ehepaar",
@@ -9400,15 +9411,27 @@
     ]
   },
   {
-    "id": "das Erdgeschoss/; Ergeschoß",
-    "raw_word": "das Erdgeschoss/; Ergeschoß, -e",
+    "id": "das Erdgeschoss",
+    "raw_word": "das Erdgeschoss",
     "details": {
       "article": "das",
-      "headword": "Erdgeschoss/; Ergeschoß",
-      "plural": "-e"
+      "headword": "Erdgeschoss"
     },
     "examples": [
-      "Unsere Wohnung befindet sich im Erdgeschoss."
+      "Unsere Wohnung befindet sich im"
+    ]
+  },
+  {
+    "id": "Ergeschoß",
+    "raw_word": "Ergeschoß, -e",
+    "details": {
+      "headword": "Ergeschoß",
+      "conjugation": [
+        "-e"
+      ]
+    },
+    "examples": [
+      "Erdgeschoss."
     ]
   },
   {
@@ -10505,7 +10528,7 @@
     "details": {
       "article": "die",
       "headword": "Fahrkarte",
-      "plural": "-n;",
+      "plural": "-n",
       "synonyms": [
         {
           "word": "Billet",
@@ -10769,8 +10792,8 @@
         {
           "word": "Hackfleisch",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -10905,8 +10928,8 @@
         {
           "word": "Sessel",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -11043,7 +11066,10 @@
         },
         {
           "word": "Ferien-",
-          "regional_usage": []
+          "regional_usage": [
+            "A",
+            "D"
+          ]
         }
       ],
       "regional_usage": [
@@ -11688,8 +11714,8 @@
         {
           "word": "Korridor",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ]
@@ -12436,7 +12462,7 @@
     "details": {
       "article": "der",
       "headword": "Führerausweis",
-      "plural": "-e ;",
+      "plural": "-e",
       "synonyms": [
         {
           "word": "Führerschein",
@@ -12460,7 +12486,7 @@
     "details": {
       "article": "der",
       "headword": "Führerschein",
-      "plural": "-e ;",
+      "plural": "-e",
       "synonyms": [
         {
           "word": "Führerausweis",
@@ -13300,7 +13326,7 @@
     "details": {
       "article": "der",
       "headword": "Geldautomat",
-      "plural": "-en ;",
+      "plural": "-en",
       "synonyms": [
         {
           "word": "Bancomat/Bankomat",
@@ -13333,8 +13359,8 @@
         {
           "word": "Portemonnaie/Portmonee",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -14380,7 +14406,7 @@
       "conjugation": [
         "grillt",
         "grillte",
-        "hat gegrillt ;"
+        "hat gegrillt"
       ],
       "synonyms": [
         {
@@ -14407,7 +14433,7 @@
       "conjugation": [
         "grilliert",
         "grillierte",
-        "hat grilliert ;"
+        "hat grilliert"
       ],
       "synonyms": [
         {
@@ -16073,7 +16099,7 @@
     "details": {
       "article": "der",
       "headword": "Hörer",
-      "plural": "-;",
+      "plural": "-",
       "female_form": {
         "id": "die Hörerin",
         "raw_word": "die Hörerin, -nen",
@@ -16285,6 +16311,12 @@
           "word": "Jause",
           "regional_usage": [
             "A"
+          ]
+        },
+        {
+          "word": "Znüni/Zvieri",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -17469,8 +17501,8 @@
         {
           "word": "Kiste",
           "regional_usage": [
-            "A",
-            "D"
+            "D",
+            "A"
           ]
         }
       ],
@@ -17493,8 +17525,8 @@
         {
           "word": "Schrank",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -17945,7 +17977,7 @@
     "details": {
       "article": "die",
       "headword": "Klassenarbeit",
-      "plural": "-en ;",
+      "plural": "-en",
       "synonyms": [
         {
           "word": "Schularbeit",
@@ -18831,8 +18863,8 @@
         {
           "word": "probieren",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -21173,8 +21205,8 @@
         {
           "word": "Aprikose",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -23598,11 +23630,11 @@
     ]
   },
   {
-    "id": "das/der (Schlag-)Obers ;",
+    "id": "das/der (Schlag-)Obers",
     "raw_word": "das/der (Schlag-)Obers (A); →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": "das",
-      "headword": "/der (Schlag-)Obers ;",
+      "headword": "/der (Schlag-)Obers",
       "synonyms": [
         {
           "word": "(Schlag-)Sahne",
@@ -23675,7 +23707,7 @@
     "details": {
       "article": "der",
       "headword": "(Back-)Ofen",
-      "plural": "¨- ;",
+      "plural": "¨-",
       "synonyms": [
         {
           "word": "(Back-)Rohr",
@@ -24562,8 +24594,8 @@
         {
           "word": "Rente",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -24591,8 +24623,8 @@
         {
           "word": "pensioniert werden/sein",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -24638,17 +24670,29 @@
   },
   {
     "id": "der Pensionist",
-    "raw_word": "der Pensionist, -en / die; Pensionistin, -nen (A) →D, CH: Rentner",
+    "raw_word": "der Pensionist, -en",
     "details": {
       "article": "der",
       "headword": "Pensionist",
-      "plural": "-en / die; Pensionistin",
+      "plural": "-en"
+    },
+    "examples": [
+      "Meine Großmutter arbeitet nicht mehr."
+    ]
+  },
+  {
+    "id": "die Pensionistin",
+    "raw_word": "die Pensionistin, -nen (A) →D, CH: Rentner",
+    "details": {
+      "article": "die",
+      "headword": "Pensionistin",
+      "plural": "-nen",
       "synonyms": [
         {
           "word": "Rentner",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -24657,7 +24701,6 @@
       ]
     },
     "examples": [
-      "Meine Großmutter arbeitet nicht mehr.",
       "Sie ist Pensionistin."
     ]
   },
@@ -26001,6 +26044,12 @@
           "regional_usage": [
             "D"
           ]
+        },
+        {
+          "word": "(Schlag-)Obers",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -27188,8 +27237,8 @@
         {
           "word": "(Back-)Ofen",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -27502,7 +27551,7 @@
   },
   {
     "id": "die (Schlag-)Sahne",
-    "raw_word": "die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH:",
+    "raw_word": "die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH: (Schlag-)Rahm",
     "details": {
       "article": "die",
       "headword": "(Schlag-)Sahne",
@@ -27514,8 +27563,10 @@
           ]
         },
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "(Schlag-)Rahm",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -27525,13 +27576,6 @@
     "examples": [
       "Ich hätte gern ein Stück Torte mit Sahne."
     ]
-  },
-  {
-    "id": "(Schlag-)Rahm",
-    "raw_word": "(Schlag-)Rahm",
-    "details": {
-      "headword": "(Schlag-)Rahm"
-    }
   },
   {
     "id": "die Saison",
@@ -28186,11 +28230,11 @@
     ]
   },
   {
-    "id": "der/das (Schlag-)Obers ;",
+    "id": "der/das (Schlag-)Obers",
     "raw_word": "der/das (Schlag-)Obers (A); →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": "der/das",
-      "headword": "(Schlag-)Obers ;",
+      "headword": "(Schlag-)Obers",
       "synonyms": [
         {
           "word": "(Schlag-)Sahne",
@@ -29568,8 +29612,8 @@
         {
           "word": "Stuhl",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -31273,8 +31317,8 @@
         {
           "word": "Treppe",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -31293,13 +31337,13 @@
     "details": {
       "article": "das",
       "headword": "Stiegenhaus",
-      "plural": "¨-er ;",
+      "plural": "¨-er",
       "synonyms": [
         {
           "word": "Treppenhaus",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ],
@@ -31376,8 +31420,8 @@
         {
           "word": "Etage",
           "regional_usage": [
-            "CH",
-            "D"
+            "D",
+            "CH"
           ]
         }
       ]

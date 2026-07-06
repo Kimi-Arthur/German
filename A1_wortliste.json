@@ -62,14 +62,23 @@
     ]
   },
   {
-    "id": "der Absender; Achtung",
-    "raw_word": "der Absender; Achtung",
+    "id": "der Absender",
+    "raw_word": "der Absender",
     "details": {
       "article": "der",
-      "headword": "Absender; Achtung"
+      "headword": "Absender"
     },
     "examples": [
-      "Da ist ein Brief für dich ohne Absender.",
+      "Da ist ein Brief für dich ohne Absender."
+    ]
+  },
+  {
+    "id": "Achtung",
+    "raw_word": "Achtung",
+    "details": {
+      "headword": "Achtung"
+    },
+    "examples": [
       "Achtung! Das dürfen Sie nicht tun."
     ]
   },
@@ -2367,14 +2376,24 @@
   },
   {
     "id": "das Fax",
-    "raw_word": "das Fax, -e; Feier-",
+    "raw_word": "das Fax, -e",
     "details": {
       "article": "das",
       "headword": "Fax",
-      "plural": "-e; Feier-"
+      "plural": "-e"
     },
     "examples": [
-      "Schicken Sie uns einfach ein Fax! z. B. Feierabend, Feiertag Am Montag ist Feiertag."
+      "Schicken Sie uns einfach ein Fax!"
+    ]
+  },
+  {
+    "id": "Feier-",
+    "raw_word": "Feier-",
+    "details": {
+      "headword": "Feier-"
+    },
+    "examples": [
+      "z. B. Feierabend, Feiertag Am Montag ist Feiertag."
     ]
   },
   {
@@ -3122,14 +3141,23 @@
     ]
   },
   {
-    "id": "der Glückwunsch; Grad (Celsius)",
-    "raw_word": "der Glückwunsch; Grad (Celsius)",
+    "id": "der Glückwunsch",
+    "raw_word": "der Glückwunsch",
     "details": {
       "article": "der",
-      "headword": "Glückwunsch; Grad (Celsius)"
+      "headword": "Glückwunsch"
     },
     "examples": [
-      "Herzlichen Glückwunsch zum Geburtstag.",
+      "Herzlichen Glückwunsch zum Geburtstag."
+    ]
+  },
+  {
+    "id": "Grad (Celsius)",
+    "raw_word": "Grad (Celsius)",
+    "details": {
+      "headword": "Grad (Celsius)"
+    },
+    "examples": [
       "Heute haben wir dreißig Grad."
     ]
   },
@@ -4473,13 +4501,22 @@
     ]
   },
   {
-    "id": "lieber; Lieblings-",
-    "raw_word": "lieber; Lieblings-",
+    "id": "lieber",
+    "raw_word": "lieber",
     "details": {
-      "headword": "lieber; Lieblings-"
+      "headword": "lieber"
     },
     "examples": [
-      "Sie fährt lieber mit der Bahn.",
+      "Sie fährt lieber mit der Bahn."
+    ]
+  },
+  {
+    "id": "Lieblings-",
+    "raw_word": "Lieblings-",
+    "details": {
+      "headword": "Lieblings-"
+    },
+    "examples": [
       "Mein Lieblingsfilm ist „Schwarze Augen“."
     ]
   },
@@ -5383,10 +5420,10 @@
     ]
   },
   {
-    "id": "r; Rad fahren",
-    "raw_word": "r; Rad fahren",
+    "id": "Rad fahren",
+    "raw_word": "Rad fahren",
     "details": {
-      "headword": "r; Rad fahren"
+      "headword": "Rad fahren"
     },
     "examples": [
       "Das Kind kann schon Rad fahren."
@@ -5621,15 +5658,27 @@
     ]
   },
   {
-    "id": "das Salz; Satz",
-    "raw_word": "das Salz; Satz, -ä, e",
+    "id": "das Salz",
+    "raw_word": "das Salz",
     "details": {
       "article": "das",
-      "headword": "Salz; Satz",
-      "plural": "-ä"
+      "headword": "Salz"
     },
     "examples": [
-      "Herr Ober, kann ich bitte Salz haben?",
+      "Herr Ober, kann ich bitte Salz haben?"
+    ]
+  },
+  {
+    "id": "Satz",
+    "raw_word": "Satz, -ä, e",
+    "details": {
+      "headword": "Satz",
+      "conjugation": [
+        "-ä",
+        "e"
+      ]
+    },
+    "examples": [
       "Dieser Satz ist sehr einfach."
     ]
   },
@@ -6036,13 +6085,22 @@
     ]
   },
   {
-    "id": "sie; Sie",
-    "raw_word": "sie; Sie",
+    "id": "sie",
+    "raw_word": "sie",
     "details": {
-      "headword": "sie; Sie"
+      "headword": "sie"
     },
     "examples": [
-      "Wie heißt sie?",
+      "Wie heißt sie?"
+    ]
+  },
+  {
+    "id": "Sie",
+    "raw_word": "Sie",
+    "details": {
+      "headword": "Sie"
+    },
+    "examples": [
       "Wie heißen Sie, bitte?"
     ]
   },

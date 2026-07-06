@@ -1573,12 +1573,20 @@
     ]
   },
   {
-    "id": "der/die; Bekannte",
-    "raw_word": "der/die; Bekannte, -n",
+    "id": "der/die Bekannte",
+    "raw_word": "der/die Bekannte, -n",
     "details": {
-      "article": "der/die",
-      "headword": "; Bekannte",
-      "plural": "-n"
+      "article": "der",
+      "headword": "der/die Bekannte, -n",
+      "female_form": {
+        "id": "die Bekannte",
+        "raw_word": "die Bekannte, -n",
+        "details": {
+          "article": "die",
+          "headword": "Bekannte",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
       "Ein Bekannter von mir heißt Klaus."
@@ -2463,14 +2471,26 @@
   },
   {
     "id": "der Club",
-    "raw_word": "der Club, -s /; Klub, -s",
+    "raw_word": "der Club, -s",
     "details": {
       "article": "der",
       "headword": "Club",
-      "plural": "-s /; Klub"
+      "plural": "-s"
     },
     "examples": [
-      "Gibt es hier einen Tennis-Club/Klub?",
+      "Gibt es hier einen Tennis-Club/Klub?"
+    ]
+  },
+  {
+    "id": "Klub",
+    "raw_word": "Klub, -s",
+    "details": {
+      "headword": "Klub",
+      "conjugation": [
+        "-s"
+      ]
+    },
+    "examples": [
       "Ich möchte gern tanzen gehen. Wo gibt es hier einen Club/Klub mit guter Musik?"
     ]
   },
@@ -6399,12 +6419,20 @@
     ]
   },
   {
-    "id": "der/die; Jugendliche",
-    "raw_word": "der/die; Jugendliche, -n",
+    "id": "der/die Jugendliche",
+    "raw_word": "der/die Jugendliche, -n",
     "details": {
-      "article": "der/die",
-      "headword": "; Jugendliche",
-      "plural": "-n"
+      "article": "der",
+      "headword": "der/die Jugendliche, -n",
+      "female_form": {
+        "id": "die Jugendliche",
+        "raw_word": "die Jugendliche, -n",
+        "details": {
+          "article": "die",
+          "headword": "Jugendliche",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
       "Viele Jugendliche hören den ganzen Tag Musik.",
@@ -11739,7 +11767,7 @@
     "details": {
       "article": "der",
       "headword": "Stock",
-      "plural": "¨-e;"
+      "plural": "¨-e"
     },
     "examples": [
       "Unsere Wohnung liegt im ersten Stock."
