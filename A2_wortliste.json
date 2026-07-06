@@ -2299,26 +2299,17 @@
     ]
   },
   {
-    "id": "der/die Bekannte",
-    "raw_word": "der/die Bekannte, -n",
+    "id": "der/die; Bekannte",
+    "raw_word": "der/die; Bekannte, -n",
     "details": {
-      "article": "der",
-      "headword": "der/die Bekannte, -n",
-      "plural": null,
+      "article": "der/die",
+      "headword": "; Bekannte",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": {
-        "article": "die",
-        "headword": "Bekannte",
-        "plural": "-n",
-        "conjugation": [],
-        "synonyms": [],
-        "regional_usage": [],
-        "variants": [],
-        "female_form": null
-      }
+      "female_form": null
     },
     "examples": [
       "Ein Bekannter von mir heißt Klaus."
@@ -3577,31 +3568,25 @@
   },
   {
     "id": "der Chef",
-    "raw_word": "der Chef, -s",
+    "raw_word": "der Chef, -s / / die Chefin,-nen",
     "details": {
       "article": "der",
       "headword": "Chef",
-      "plural": "-s",
+      "plural": "-s /",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "die Chefin",
-    "raw_word": "die Chefin,-nen",
-    "details": {
-      "article": "die",
-      "headword": "Chefin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Chefin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Wir haben eine neue Chefin."
@@ -3609,11 +3594,11 @@
   },
   {
     "id": "der Club",
-    "raw_word": "der Club, -s",
+    "raw_word": "der Club, -s /; Klub, -s",
     "details": {
       "article": "der",
       "headword": "Club",
-      "plural": "-s",
+      "plural": "-s /; Klub",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3621,25 +3606,7 @@
       "female_form": null
     },
     "examples": [
-      "Gibt es hier einen Tennis-Club/Klub?"
-    ]
-  },
-  {
-    "id": "Klub",
-    "raw_word": "Klub, -s",
-    "details": {
-      "article": null,
-      "headword": "Klub",
-      "plural": null,
-      "conjugation": [
-        "-s"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Gibt es hier einen Tennis-Club/Klub?",
       "Ich möchte gern tanzen gehen. Wo gibt es hier einen Club/Klub mit guter Musik?"
     ]
   },
@@ -6559,7 +6526,7 @@
   },
   {
     "id": "der Freund",
-    "raw_word": "der Freund, -e,",
+    "raw_word": "der Freund, -e, / die Freundin, -nen",
     "details": {
       "article": "der",
       "headword": "Freund",
@@ -6568,26 +6535,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Freundin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Das ist ein Freund von mir."
-    ]
-  },
-  {
-    "id": "die Freundin",
-    "raw_word": "die Freundin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Freundin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Das ist ein Freund von mir.",
       "Das ist meine Freundin Susanne."
     ]
   },
@@ -9399,26 +9359,17 @@
     ]
   },
   {
-    "id": "der/die Jugendliche",
-    "raw_word": "der/die Jugendliche, -n",
+    "id": "der/die; Jugendliche",
+    "raw_word": "der/die; Jugendliche, -n",
     "details": {
-      "article": "der",
-      "headword": "der/die Jugendliche, -n",
-      "plural": null,
+      "article": "der/die",
+      "headword": "; Jugendliche",
+      "plural": "-n",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": {
-        "article": "die",
-        "headword": "Jugendliche",
-        "plural": "-n",
-        "conjugation": [],
-        "synonyms": [],
-        "regional_usage": [],
-        "variants": [],
-        "female_form": null
-      }
+      "female_form": null
     },
     "examples": [
       "Viele Jugendliche hören den ganzen Tag Musik.",
@@ -10044,35 +9995,29 @@
   },
   {
     "id": "der Kollege",
-    "raw_word": "der Kollege, -n",
+    "raw_word": "der Kollege, -n / / die Kollegin, -nen",
     "details": {
       "article": "der",
       "headword": "Kollege",
-      "plural": "-n",
+      "plural": "-n /",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Kollegin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Wie heißt die neue Kollegin?"
     ]
-  },
-  {
-    "id": "die Kollegin",
-    "raw_word": "die Kollegin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Kollegin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "komisch",
@@ -10554,35 +10499,29 @@
   },
   {
     "id": "der Kunde",
-    "raw_word": "der Kunde, -n",
+    "raw_word": "der Kunde, -n / / die Kundin, -nen",
     "details": {
       "article": "der",
       "headword": "Kunde",
-      "plural": "-n",
+      "plural": "-n /",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Kundin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Einen Moment, bitte. Ich habe eine Kundin."
     ]
-  },
-  {
-    "id": "die Kundin",
-    "raw_word": "die Kundin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Kundin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "kündigen",
@@ -12456,7 +12395,7 @@
   },
   {
     "id": "der Nachbar",
-    "raw_word": "der Nachbar, -n,",
+    "raw_word": "der Nachbar, -n, / die Nachbarin,-nen",
     "details": {
       "article": "der",
       "headword": "Nachbar",
@@ -12465,27 +12404,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Nachbarin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Mein Nachbar kommt aus Brasilien und meine"
-    ]
-  },
-  {
-    "id": "die Nachbarin",
-    "raw_word": "die Nachbarin,-nen",
-    "details": {
-      "article": "die",
-      "headword": "Nachbarin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Nachbarin ist Italienerin.",
+      "Mein Nachbar kommt aus Brasilien und meine Nachbarin ist Italienerin.",
       "Die neuen Nachbarn sind sehr nett."
     ]
   },
@@ -13491,35 +13422,29 @@
   },
   {
     "id": "der Partner",
-    "raw_word": "der Partner, -",
+    "raw_word": "der Partner, die Partnerin, -nen",
     "details": {
       "article": "der",
       "headword": "Partner",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Partnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Veronika ist meine Partnerin."
     ]
-  },
-  {
-    "id": "die Partnerin",
-    "raw_word": "die Partnerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Partnerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Party",
@@ -15982,36 +15907,28 @@
   },
   {
     "id": "der Schüler",
-    "raw_word": "der Schüler, -",
+    "raw_word": "der Schüler, - / / die Schülerin, -nen",
     "details": {
       "article": "der",
       "headword": "Schüler",
-      "plural": "-",
+      "plural": "- /",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Schülerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "In meinem Kurs sind acht Schülerinnen und fünf"
-    ]
-  },
-  {
-    "id": "die Schülerin",
-    "raw_word": "die Schülerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Schülerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Schüler."
+      "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
     ]
   },
   {
@@ -17423,7 +17340,7 @@
   },
   {
     "id": "der Student",
-    "raw_word": "der Student, -en,",
+    "raw_word": "der Student, -en, / die Studentin, -nen",
     "details": {
       "article": "der",
       "headword": "Student",
@@ -17432,26 +17349,20 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Studentin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Ich bin Studentin."
     ]
-  },
-  {
-    "id": "die Studentin",
-    "raw_word": "die Studentin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Studentin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "studieren",
@@ -18324,7 +18235,7 @@
   },
   {
     "id": "der Tourist",
-    "raw_word": "der Tourist, -en,",
+    "raw_word": "der Tourist, -en, / die Touristin, -nen",
     "details": {
       "article": "der",
       "headword": "Tourist",
@@ -18333,26 +18244,20 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Touristin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Im Sommer kommen viele Touristen in diese Stadt."
     ]
-  },
-  {
-    "id": "die Touristin",
-    "raw_word": "die Touristin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Touristin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "tragen",
@@ -19516,35 +19421,29 @@
   },
   {
     "id": "der Vermieter",
-    "raw_word": "der Vermieter, -",
+    "raw_word": "der Vermieter, - / / die Vermieterin, -nen",
     "details": {
       "article": "der",
       "headword": "Vermieter",
-      "plural": "-",
+      "plural": "- /",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Vermieterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Unser Vermieter ist nett."
     ]
-  },
-  {
-    "id": "die Vermieterin",
-    "raw_word": "die Vermieterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Vermieterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "verpassen",

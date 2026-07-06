@@ -530,36 +530,28 @@
   },
   {
     "id": "der Absender",
-    "raw_word": "der Absender, -",
+    "raw_word": "der Absender, die Absenderin, -nen",
     "details": {
       "article": "der",
       "headword": "Absender",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Absenderin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Schicken Sie das Paket an den"
-    ]
-  },
-  {
-    "id": "die Absenderin",
-    "raw_word": "die Absenderin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Absenderin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Absender zurück."
+      "Schicken Sie das Paket an den Absender zurück."
     ]
   },
   {
@@ -638,35 +630,18 @@
   },
   {
     "id": "der Abwart",
-    "raw_word": "der Abwart, -e",
+    "raw_word": "der Abwart, -e / die Abwartin, -nen (CH) → D, A: Hausmeister",
     "details": {
       "article": "der",
       "headword": "Abwart",
       "plural": "-e",
       "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Der Abwart hat mir geholfen, den"
-    ]
-  },
-  {
-    "id": "die Abwartin",
-    "raw_word": "die Abwartin, -nen (CH) → D, A: Hausmeister",
-    "details": {
-      "article": "die",
-      "headword": "Abwartin",
-      "plural": "-nen",
-      "conjugation": [],
       "synonyms": [
         {
           "word": "Hausmeister",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -674,10 +649,19 @@
         "CH"
       ],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Abwartin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Schrank in die Wohnung zu tragen."
+      "Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen."
     ]
   },
   {
@@ -2355,7 +2339,7 @@
   },
   {
     "id": "der Anwalt",
-    "raw_word": "der Anwalt, ¨-e",
+    "raw_word": "der Anwalt, ¨-e / die Anwältin, -nen",
     "details": {
       "article": "der",
       "headword": "Anwalt",
@@ -2364,27 +2348,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Anwältin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich werde das nicht bezahlen. Ich"
-    ]
-  },
-  {
-    "id": "die Anwältin",
-    "raw_word": "die Anwältin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Anwältin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "möchte zuerst mit meinem Anwalt sprechen."
+      "Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen."
     ]
   },
   {
@@ -2622,36 +2598,28 @@
   },
   {
     "id": "der Arbeiter",
-    "raw_word": "der Arbeiter, -",
+    "raw_word": "der Arbeiter, die Arbeiterin, -nen",
     "details": {
       "article": "der",
       "headword": "Arbeiter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Arbeiterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Maria ist seit zwei Jahren Arbeiterin"
-    ]
-  },
-  {
-    "id": "die Arbeiterin",
-    "raw_word": "die Arbeiterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Arbeiterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "bei Siemens."
+      "Maria ist seit zwei Jahren Arbeiterin bei Siemens."
     ]
   },
   {
@@ -2741,7 +2709,7 @@
   },
   {
     "id": "der Architekt",
-    "raw_word": "der Architekt, -en",
+    "raw_word": "der Architekt, -en / die Architektin, -nen",
     "details": {
       "article": "der",
       "headword": "Architekt",
@@ -2750,27 +2718,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Architektin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Dieses Haus hat eine berühmte"
-    ]
-  },
-  {
-    "id": "die Architektin",
-    "raw_word": "die Architektin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Architektin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Architektin gebaut."
+      "Dieses Haus hat eine berühmte Architektin gebaut."
     ]
   },
   {
@@ -2904,7 +2864,7 @@
   },
   {
     "id": "der Arzt",
-    "raw_word": "der Arzt, ¨-e",
+    "raw_word": "der Arzt, ¨-e / die Ärztin, -nen",
     "details": {
       "article": "der",
       "headword": "Arzt",
@@ -2913,26 +2873,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Ärztin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich muss heute zum Arzt."
-    ]
-  },
-  {
-    "id": "die Ärztin",
-    "raw_word": "die Ärztin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Ärztin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich muss heute zum Arzt.",
       "Wann warst du beim Zahnarzt?"
     ]
   },
@@ -3980,36 +3933,28 @@
   },
   {
     "id": "der Ausländer",
-    "raw_word": "der Ausländer, -",
+    "raw_word": "der Ausländer, die Ausländerin, -nen",
     "details": {
       "article": "der",
       "headword": "Ausländer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Ausländerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Viele Ausländer und Ausländerinnen"
-    ]
-  },
-  {
-    "id": "die Ausländerin",
-    "raw_word": "die Ausländerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Ausländerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "lernen in der Volkshochschule Deutsch."
+      "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch."
     ]
   },
   {
@@ -4570,7 +4515,7 @@
   },
   {
     "id": "der Autor",
-    "raw_word": "der Autor, -en",
+    "raw_word": "der Autor, -en / die Autorin, -nen",
     "details": {
       "article": "der",
       "headword": "Autor",
@@ -4579,27 +4524,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Autorin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Diese Autorin hat in diesem Jahr schon"
-    ]
-  },
-  {
-    "id": "die Autorin",
-    "raw_word": "die Autorin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Autorin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "zwei Bücher geschrieben."
+      "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben."
     ]
   },
   {
@@ -5275,7 +5212,7 @@
   },
   {
     "id": "der Beamte",
-    "raw_word": "der Beamte, -n",
+    "raw_word": "der Beamte, -n / die Beamtin, -nen",
     "details": {
       "article": "der",
       "headword": "Beamte",
@@ -5284,26 +5221,20 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Beamtin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Meine Frau ist Beamtin bei der Polizei."
     ]
-  },
-  {
-    "id": "die Beamtin",
-    "raw_word": "die Beamtin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Beamtin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "beantragen",
@@ -7198,35 +7129,29 @@
   },
   {
     "id": "der Betreuer",
-    "raw_word": "der Betreuer, -",
+    "raw_word": "der Betreuer, die Betreuerin, -nen",
     "details": {
       "article": "der",
       "headword": "Betreuer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Betreuerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Die Betreuerin der Kinder ist sehr nett."
     ]
-  },
-  {
-    "id": "die Betreuerin",
-    "raw_word": "die Betreuerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Betreuerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Betreuung",
@@ -7266,7 +7191,7 @@
   },
   {
     "id": "der Betriebsrat",
-    "raw_word": "der Betriebsrat, ¨-e",
+    "raw_word": "der Betriebsrat, ¨-e / die Betriebsrätin, -nen",
     "details": {
       "article": "der",
       "headword": "Betriebsrat",
@@ -7275,27 +7200,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Betriebsrätin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Der Betriebsrat wird Sie über die"
-    ]
-  },
-  {
-    "id": "die Betriebsrätin",
-    "raw_word": "die Betriebsrätin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Betriebsrätin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "neuen Arbeitszeiten informieren."
+      "Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren."
     ]
   },
   {
@@ -7508,36 +7425,28 @@
   },
   {
     "id": "der Bewohner",
-    "raw_word": "der Bewohner, -",
+    "raw_word": "der Bewohner, die Bewohnerin, -nen",
     "details": {
       "article": "der",
       "headword": "Bewohner",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Bewohnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich kenne die anderen Hausbewohner"
-    ]
-  },
-  {
-    "id": "die Bewohnerin",
-    "raw_word": "die Bewohnerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Bewohnerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "nicht."
+      "Ich kenne die anderen Hausbewohner nicht."
     ]
   },
   {
@@ -7681,8 +7590,8 @@
         {
           "word": "Fahrkarte",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -8515,7 +8424,7 @@
   },
   {
     "id": "der Briefträger",
-    "raw_word": "der Briefträger, →CH:die Briefträgerin,-nen",
+    "raw_word": "der Briefträger, →CH:die Briefträgerin,-nen; Pöstler",
     "details": {
       "article": "der",
       "headword": "Briefträger",
@@ -8523,34 +8432,28 @@
       "conjugation": [],
       "synonyms": [
         {
-          "word": "die Briefträgerin",
-          "regional_usage": [
-            "CH"
-          ]
+          "word": "Pöstler",
+          "regional_usage": []
         }
       ],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Briefträgerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [
+          "CH"
+        ],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "War die Briefträgerin schon da?"
     ]
-  },
-  {
-    "id": "Pöstler",
-    "raw_word": "Pöstler",
-    "details": {
-      "article": null,
-      "headword": "Pöstler",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Briefumschlag",
@@ -9023,36 +8926,28 @@
   },
   {
     "id": "der Bürger",
-    "raw_word": "der Bürger, -",
+    "raw_word": "der Bürger, die Bürgerin, -nen",
     "details": {
       "article": "der",
       "headword": "Bürger",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Bürgerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "EU-Bürgerinnen und Bürger können"
-    ]
-  },
-  {
-    "id": "die Bürgerin",
-    "raw_word": "die Bürgerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Bürgerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "überall in Europa arbeiten."
+      "EU-Bürgerinnen und Bürger können überall in Europa arbeiten."
     ]
   },
   {
@@ -9195,7 +9090,7 @@
   },
   {
     "id": "der Chef",
-    "raw_word": "der Chef, -s",
+    "raw_word": "der Chef, -s / die Chefin, -nen",
     "details": {
       "article": "der",
       "headword": "Chef",
@@ -9204,27 +9099,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Chefin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Das kann ich nicht allein entscheiden,"
-    ]
-  },
-  {
-    "id": "die Chefin",
-    "raw_word": "die Chefin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Chefin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "da muss ich erst die Chefin fragen."
+      "Das kann ich nicht allein entscheiden, da muss ich erst die Chefin fragen."
     ]
   },
   {
@@ -9265,18 +9152,18 @@
   },
   {
     "id": "die Coiffeuse",
-    "raw_word": "die Coiffeuse, -n (CH) →D, A: Friseur",
+    "raw_word": "die Coiffeuse, -n (CH); →D, A: Friseur",
     "details": {
       "article": "die",
       "headword": "Coiffeuse",
-      "plural": "-n",
+      "plural": "-n ;",
       "conjugation": [],
       "synonyms": [
         {
           "word": "Friseur",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -10049,8 +9936,8 @@
         {
           "word": "Nachspeise",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -10367,7 +10254,7 @@
   },
   {
     "id": "der Direktor",
-    "raw_word": "der Direktor, -en",
+    "raw_word": "der Direktor, -en / die Direktorin, -nen",
     "details": {
       "article": "der",
       "headword": "Direktor",
@@ -10376,27 +10263,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Direktorin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich möchte gern mit dem Direktor"
-    ]
-  },
-  {
-    "id": "die Direktorin",
-    "raw_word": "die Direktorin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Direktorin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "sprechen."
+      "Ich möchte gern mit dem Direktor sprechen."
     ]
   },
   {
@@ -10494,7 +10373,7 @@
   },
   {
     "id": "der Doktor",
-    "raw_word": "der Doktor, -en",
+    "raw_word": "der Doktor, -en / die Doktorin, -nen",
     "details": {
       "article": "der",
       "headword": "Doktor",
@@ -10503,26 +10382,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Doktorin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ist Frau Dr. Müller da?"
-    ]
-  },
-  {
-    "id": "die Doktorin",
-    "raw_word": "die Doktorin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Doktorin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ist Frau Dr. Müller da?",
       "Meine Tochter ist krank. Wir gehen zum Doktor."
     ]
   },
@@ -11263,11 +11135,11 @@
     ]
   },
   {
-    "id": "die e-card",
-    "raw_word": "die e-card (A) →D:die Versichertenkarte",
+    "id": "die e-card ;",
+    "raw_word": "die e-card (A); →D:die Versichertenkarte",
     "details": {
       "article": "die",
-      "headword": "e-card",
+      "headword": "e-card ;",
       "plural": null,
       "conjugation": [],
       "synonyms": [
@@ -11444,11 +11316,11 @@
   },
   {
     "id": "die Ehefrau",
-    "raw_word": "die Ehefrau, -en",
+    "raw_word": "die Ehefrau, -en/der; Ehemann, ¨-er",
     "details": {
       "article": "die",
       "headword": "Ehefrau",
-      "plural": "-en",
+      "plural": "-en/der; Ehemann",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -11458,21 +11330,6 @@
     "examples": [
       "Wie heißt Ihre Ehefrau mit Vornamen?"
     ]
-  },
-  {
-    "id": "der Ehemann",
-    "raw_word": "der Ehemann, ¨-er",
-    "details": {
-      "article": "der",
-      "headword": "Ehemann",
-      "plural": "¨-er",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Ehepaar",
@@ -11717,35 +11574,29 @@
   },
   {
     "id": "der Einbrecher",
-    "raw_word": "der Einbrecher, -",
+    "raw_word": "der Einbrecher, die Einbrecherin, -nen",
     "details": {
       "article": "der",
       "headword": "Einbrecher",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Einbrecherin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Die Einbrecher haben nichts gestohlen."
     ]
-  },
-  {
-    "id": "die Einbrecherin",
-    "raw_word": "die Einbrecherin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Einbrecherin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Einbruch",
@@ -12537,36 +12388,28 @@
   },
   {
     "id": "der Einwohner",
-    "raw_word": "der Einwohner, -",
+    "raw_word": "der Einwohner, die Einwohnerin, -nen",
     "details": {
       "article": "der",
       "headword": "Einwohner",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Einwohnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Berlin hat über drei Millionen"
-    ]
-  },
-  {
-    "id": "die Einwohnerin",
-    "raw_word": "die Einwohnerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Einwohnerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Einwohner."
+      "Berlin hat über drei Millionen Einwohner."
     ]
   },
   {
@@ -13058,36 +12901,28 @@
   },
   {
     "id": "der Enkel",
-    "raw_word": "der Enkel, -",
+    "raw_word": "der Enkel, die Enkelin, -nen",
     "details": {
       "article": "der",
       "headword": "Enkel",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Enkelin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Alle meine Enkel gehen schon zur"
-    ]
-  },
-  {
-    "id": "die Enkelin",
-    "raw_word": "die Enkelin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Enkelin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Schule."
+      "Alle meine Enkel gehen schon zur Schule."
     ]
   },
   {
@@ -13580,12 +13415,12 @@
     ]
   },
   {
-    "id": "das Erdgeschoss",
-    "raw_word": "das Erdgeschoss",
+    "id": "das Erdgeschoss/; Ergeschoß",
+    "raw_word": "das Erdgeschoss/; Ergeschoß, -e",
     "details": {
       "article": "das",
-      "headword": "Erdgeschoss",
-      "plural": null,
+      "headword": "Erdgeschoss/; Ergeschoß",
+      "plural": "-e",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -13593,26 +13428,7 @@
       "female_form": null
     },
     "examples": [
-      "Unsere Wohnung befindet sich im"
-    ]
-  },
-  {
-    "id": "Ergeschoß",
-    "raw_word": "Ergeschoß, -e",
-    "details": {
-      "article": null,
-      "headword": "Ergeschoß",
-      "plural": null,
-      "conjugation": [
-        "-e"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Erdgeschoss."
+      "Unsere Wohnung befindet sich im Erdgeschoss."
     ]
   },
   {
@@ -15179,11 +14995,11 @@
   },
   {
     "id": "die Fahrkarte",
-    "raw_word": "die Fahrkarte, -n →CH: Billet",
+    "raw_word": "die Fahrkarte, -n; →CH: Billet",
     "details": {
       "article": "die",
       "headword": "Fahrkarte",
-      "plural": "-n",
+      "plural": "-n;",
       "conjugation": [],
       "synonyms": [
         {
@@ -15231,8 +15047,8 @@
         {
           "word": "Rad",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         },
         {
@@ -15415,7 +15231,7 @@
   },
   {
     "id": "der Familienstand",
-    "raw_word": "der Familienstand (D, A) → Personenstand;",
+    "raw_word": "der Familienstand (D, A) → Personenstand;; CH: Zivilstand",
     "details": {
       "article": "der",
       "headword": "Familienstand",
@@ -15425,6 +15241,12 @@
         {
           "word": "Personenstand",
           "regional_usage": []
+        },
+        {
+          "word": "Zivilstand",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -15437,21 +15259,6 @@
     "examples": [
       "Bei „Familienstand“ musst du „ledig“ ankreuzen."
     ]
-  },
-  {
-    "id": "CH: Zivilstand",
-    "raw_word": "CH: Zivilstand",
-    "details": {
-      "article": null,
-      "headword": "CH: Zivilstand",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "fangen",
@@ -15618,8 +15425,8 @@
         {
           "word": "Fasching",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         },
         {
@@ -15898,7 +15705,7 @@
   },
   {
     "id": "die Ferien",
-    "raw_word": "die Ferien (Pl.) (CH) →D, A: Urlaub",
+    "raw_word": "die Ferien (Pl.) (CH) →D, A: Urlaub; Ferien-",
     "details": {
       "article": "die",
       "headword": "Ferien",
@@ -15908,9 +15715,13 @@
         {
           "word": "Urlaub",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
+        },
+        {
+          "word": "Ferien-",
+          "regional_usage": []
         }
       ],
       "regional_usage": [
@@ -15920,23 +15731,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich habe noch drei Tage Ferien."
-    ]
-  },
-  {
-    "id": "Ferien-",
-    "raw_word": "Ferien-",
-    "details": {
-      "article": null,
-      "headword": "Ferien-",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich habe noch drei Tage Ferien.",
       "Ich suche eine günstige Ferienwohnung."
     ]
   },
@@ -16572,28 +16367,11 @@
   },
   {
     "id": "der Fleischhauer",
-    "raw_word": "der Fleischhauer, -",
+    "raw_word": "der Fleischhauer, die Fleischhauerin, -nen (A) →Metzger",
     "details": {
       "article": "der",
       "headword": "Fleischhauer",
-      "plural": "-",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Dieser Fleischhauer macht sehr gute"
-    ]
-  },
-  {
-    "id": "die Fleischhauerin",
-    "raw_word": "die Fleischhauerin, -nen (A) →Metzger",
-    "details": {
-      "article": "die",
-      "headword": "Fleischhauerin",
-      "plural": "-nen",
+      "plural": null,
       "conjugation": [],
       "synonyms": [
         {
@@ -16605,10 +16383,19 @@
         "A"
       ],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Fleischhauerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Wurst."
+      "Dieser Fleischhauer macht sehr gute Wurst."
     ]
   },
   {
@@ -17647,28 +17434,11 @@
   },
   {
     "id": "der Friseur",
-    "raw_word": "der Friseur, -e",
+    "raw_word": "der Friseur, -e / die Friseurin, -nen (D, A); →CH: Coiffeur",
     "details": {
       "article": "der",
       "headword": "Friseur",
       "plural": "-e",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Du siehst toll aus! Wer ist dein Friseur?"
-    ]
-  },
-  {
-    "id": "die Friseurin",
-    "raw_word": "die Friseurin, -nen (D, A) →CH: Coiffeur",
-    "details": {
-      "article": "die",
-      "headword": "Friseurin",
-      "plural": "-nen",
       "conjugation": [],
       "synonyms": [
         {
@@ -17683,9 +17453,19 @@
         "A"
       ],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Friseurin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
+      "Du siehst toll aus! Wer ist dein Friseur?",
       "Meine Tochter will Friseurin werden."
     ]
   },
@@ -17788,8 +17568,8 @@
         {
           "word": "Obst",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -17929,18 +17709,18 @@
   },
   {
     "id": "der Führerausweis",
-    "raw_word": "der Führerausweis, -e (CH) →D, A: Führerschein",
+    "raw_word": "der Führerausweis, -e (CH); →D, A: Führerschein",
     "details": {
       "article": "der",
       "headword": "Führerausweis",
-      "plural": "-e",
+      "plural": "-e ;",
       "conjugation": [],
       "synonyms": [
         {
           "word": "Führerschein",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -17956,11 +17736,11 @@
   },
   {
     "id": "der Führerschein",
-    "raw_word": "der Führerschein, -e (D, A) →CH: Führerausweis",
+    "raw_word": "der Führerschein, -e (D, A); →CH: Führerausweis",
     "details": {
       "article": "der",
       "headword": "Führerschein",
-      "plural": "-e",
+      "plural": "-e ;",
       "conjugation": [],
       "synonyms": [
         {
@@ -18140,35 +17920,29 @@
   },
   {
     "id": "der Fußgänger",
-    "raw_word": "der Fußgänger, -",
+    "raw_word": "der Fußgänger, die Fußgängerin, -nen",
     "details": {
       "article": "der",
       "headword": "Fußgänger",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Fußgängerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Dieser Weg ist nur für Fußgänger."
     ]
-  },
-  {
-    "id": "die Fußgängerin",
-    "raw_word": "die Fußgängerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Fußgängerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Fußgängerzone",
@@ -19146,11 +18920,11 @@
   },
   {
     "id": "der Geldautomat",
-    "raw_word": "der Geldautomat, -en (D) →A, CH: Bancomat/Bankomat",
+    "raw_word": "der Geldautomat, -en (D); →A, CH: Bancomat/Bankomat",
     "details": {
       "article": "der",
       "headword": "Geldautomat",
-      "plural": "-en",
+      "plural": "-en ;",
       "conjugation": [],
       "synonyms": [
         {
@@ -20306,8 +20080,8 @@
         {
           "word": "Eis",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -20708,7 +20482,7 @@
   },
   {
     "id": "grillen",
-    "raw_word": "grillen, grillt, grillte, hat gegrillt (D, A) →CH: grillieren",
+    "raw_word": "grillen, grillt, grillte, hat gegrillt (D, A); →CH: grillieren",
     "details": {
       "article": null,
       "headword": "grillen",
@@ -20716,7 +20490,7 @@
       "conjugation": [
         "grillt",
         "grillte",
-        "hat gegrillt"
+        "hat gegrillt ;"
       ],
       "synonyms": [
         {
@@ -20739,7 +20513,7 @@
   },
   {
     "id": "grillieren",
-    "raw_word": "grillieren, grilliert, grillierte, hat grilliert (CH) →D, A: grillen",
+    "raw_word": "grillieren, grilliert, grillierte, hat grilliert (CH); →D, A: grillen",
     "details": {
       "article": null,
       "headword": "grillieren",
@@ -20747,14 +20521,14 @@
       "conjugation": [
         "grilliert",
         "grillierte",
-        "hat grilliert"
+        "hat grilliert ;"
       ],
       "synonyms": [
         {
           "word": "grillen",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -21201,7 +20975,7 @@
   },
   {
     "id": "das Hähnchen/Hühnchen",
-    "raw_word": "das Hähnchen/Hühnchen, - (D) →A: Hend(e)l; Poulet, -s (CH)",
+    "raw_word": "das Hähnchen/Hühnchen, - (D) →A: Hend(e)l;; Poulet, -s (CH)",
     "details": {
       "article": "das",
       "headword": "Hähnchen",
@@ -21507,35 +21281,28 @@
   },
   {
     "id": "der Handwerker",
-    "raw_word": "der Handwerker, -",
+    "raw_word": "der Handwerker, die Handwerkerin, -nen",
     "details": {
       "article": "der",
       "headword": "Handwerker",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Handwerkerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Morgen sind bei uns die Handwerker."
-    ]
-  },
-  {
-    "id": "die Handwerkerin",
-    "raw_word": "die Handwerkerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Handwerkerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Morgen sind bei uns die Handwerker.",
       "Wir bekommen eine neue Badewanne."
     ]
   },
@@ -21581,36 +21348,28 @@
   },
   {
     "id": "der Händler",
-    "raw_word": "der Händler, -",
+    "raw_word": "der Händler, die Händlerin, -nen",
     "details": {
       "article": "der",
       "headword": "Händler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Händlerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich gehe zum Gemüsehändler, soll ich"
-    ]
-  },
-  {
-    "id": "die Händlerin",
-    "raw_word": "die Händlerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Händlerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "dir etwas mitbringen?"
+      "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?"
     ]
   },
   {
@@ -21855,28 +21614,11 @@
   },
   {
     "id": "der Hausmeister",
-    "raw_word": "der Hausmeister, -",
+    "raw_word": "der Hausmeister, die Hausmeisterin, -nen (D, A) →CH: Abwart",
     "details": {
       "article": "der",
       "headword": "Hausmeister",
-      "plural": "-",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Der Hausmeister hat mir geholfen, den"
-    ]
-  },
-  {
-    "id": "die Hausmeisterin",
-    "raw_word": "die Hausmeisterin, -nen (D, A) →CH: Abwart",
-    "details": {
-      "article": "die",
-      "headword": "Hausmeisterin",
-      "plural": "-nen",
+      "plural": null,
       "conjugation": [],
       "synonyms": [
         {
@@ -21891,10 +21633,19 @@
         "A"
       ],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Hausmeisterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Schrank in die Wohnung zu tragen."
+      "Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen."
     ]
   },
   {
@@ -22143,7 +21894,7 @@
   },
   {
     "id": "der Held",
-    "raw_word": "der Held, -en",
+    "raw_word": "der Held, -en / die Heldin, -nen",
     "details": {
       "article": "der",
       "headword": "Held",
@@ -22152,26 +21903,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Heldin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Er spielt gern den Helden."
-    ]
-  },
-  {
-    "id": "die Heldin",
-    "raw_word": "die Heldin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Heldin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Er spielt gern den Helden.",
       "Sie ist die Heldin des Tages."
     ]
   },
@@ -22254,7 +21998,7 @@
   },
   {
     "id": "das Hend(e)l",
-    "raw_word": "das Hend(e)l, - (A) →D: Hähnchen/Hühnchen; CH:",
+    "raw_word": "das Hend(e)l, - (A) →D: Hähnchen/Hühnchen; CH: Poulet",
     "details": {
       "article": "das",
       "headword": "Hend(e)l",
@@ -22268,8 +22012,10 @@
           ]
         },
         {
-          "word": "CH:",
-          "regional_usage": []
+          "word": "Poulet",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -22281,21 +22027,6 @@
     "examples": [
       "Zum Mittagessen gibt es Hendl mit Reis."
     ]
-  },
-  {
-    "id": "Poulet",
-    "raw_word": "Poulet",
-    "details": {
-      "article": null,
-      "headword": "Poulet",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "her/her-",
@@ -23160,7 +22891,7 @@
   },
   {
     "id": "der Hörer",
-    "raw_word": "der Hörer, -;",
+    "raw_word": "der Hörer, -; / die Hörerin, -nen",
     "details": {
       "article": "der",
       "headword": "Hörer",
@@ -23169,27 +22900,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Hörerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Sendung hat viele Hörer und"
-    ]
-  },
-  {
-    "id": "die Hörerin",
-    "raw_word": "die Hörerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Hörerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Hörerinnen."
+      "Die Sendung hat viele Hörer und Hörerinnen."
     ]
   },
   {
@@ -24470,7 +24193,7 @@
   },
   {
     "id": "der Journalist",
-    "raw_word": "der Journalist, -en",
+    "raw_word": "der Journalist, -en / die Journalistin, -nen",
     "details": {
       "article": "der",
       "headword": "Journalist",
@@ -24479,27 +24202,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Journalistin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Meine Tochter möchte Journalistin"
-    ]
-  },
-  {
-    "id": "die Journalistin",
-    "raw_word": "die Journalistin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Journalistin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "werden."
+      "Meine Tochter möchte Journalistin werden."
     ]
   },
   {
@@ -24977,8 +24692,8 @@
         {
           "word": "Fasching",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         },
         {
@@ -25196,8 +24911,8 @@
         {
           "word": "Kiste",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -25314,36 +25029,28 @@
   },
   {
     "id": "der Käufer",
-    "raw_word": "der Käufer, -",
+    "raw_word": "der Käufer, die Käuferin, -nen",
     "details": {
       "article": "der",
       "headword": "Käufer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Käuferin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich habe schon einen Käufer für den"
-    ]
-  },
-  {
-    "id": "die Käuferin",
-    "raw_word": "die Käuferin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Käuferin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "alten Tisch."
+      "Ich habe schon einen Käufer für den alten Tisch."
     ]
   },
   {
@@ -25404,35 +25111,18 @@
   },
   {
     "id": "der Kellner",
-    "raw_word": "der Kellner,-",
+    "raw_word": "der Kellner,die Kellnerin, -nen; →D, A: Ober;; CH: Serviceangestellter",
     "details": {
       "article": "der",
       "headword": "Kellner",
-      "plural": "-",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Ich bin Kellnerin von Beruf."
-    ]
-  },
-  {
-    "id": "die Kellnerin",
-    "raw_word": "die Kellnerin, -nen →D, A: Ober; CH: Serviceangestellter",
-    "details": {
-      "article": "die",
-      "headword": "Kellnerin",
-      "plural": "-nen",
+      "plural": null,
       "conjugation": [],
       "synonyms": [
         {
           "word": "Ober",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         },
         {
@@ -25444,9 +25134,20 @@
       ],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Kellnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
-    "examples": []
+    "examples": [
+      "Ich bin Kellnerin von Beruf."
+    ]
   },
   {
     "id": "kennen",
@@ -25851,11 +25552,11 @@
   },
   {
     "id": "die Klassenarbeit",
-    "raw_word": "die Klassenarbeit, -en (D) →A: Schularbeit",
+    "raw_word": "die Klassenarbeit, -en (D); →A: Schularbeit",
     "details": {
       "article": "die",
       "headword": "Klassenarbeit",
-      "plural": "-en",
+      "plural": "-en ;",
       "conjugation": [],
       "synonyms": [
         {
@@ -26172,8 +25873,8 @@
         {
           "word": "Knödel",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -26350,7 +26051,7 @@
   },
   {
     "id": "der Koch",
-    "raw_word": "der Koch, ¨-e",
+    "raw_word": "der Koch, ¨-e / die Köchin, -nen",
     "details": {
       "article": "der",
       "headword": "Koch",
@@ -26359,27 +26060,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Köchin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ein Freund von mir ist Koch in einem"
-    ]
-  },
-  {
-    "id": "die Köchin",
-    "raw_word": "die Köchin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Köchin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "teuren Restaurant."
+      "Ein Freund von mir ist Koch in einem teuren Restaurant."
     ]
   },
   {
@@ -26401,7 +26094,7 @@
   },
   {
     "id": "der Kollege",
-    "raw_word": "der Kollege, -n",
+    "raw_word": "der Kollege, -n / die Kollegin, -nen",
     "details": {
       "article": "der",
       "headword": "Kollege",
@@ -26410,27 +26103,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Kollegin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich habe guten Kontakt zu meinen"
-    ]
-  },
-  {
-    "id": "die Kollegin",
-    "raw_word": "die Kollegin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Kollegin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Kollegen.",
+      "Ich habe guten Kontakt zu meinen Kollegen.",
       "Mein neuer Kollege ist sehr nett."
     ]
   },
@@ -27783,7 +27468,7 @@
   },
   {
     "id": "der Kunde",
-    "raw_word": "der Kunde, -n",
+    "raw_word": "der Kunde, -n / die Kundin, -nen",
     "details": {
       "article": "der",
       "headword": "Kunde",
@@ -27792,27 +27477,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Kundin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Sie ist schon lange bei mir Kundin. Ich"
-    ]
-  },
-  {
-    "id": "die Kundin",
-    "raw_word": "die Kundin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Kundin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "habe ihr einen Sonderpreis gegeben.",
+      "Sie ist schon lange bei mir Kundin. Ich habe ihr einen Sonderpreis gegeben.",
       "Einen Augenblick, bitte. Ich habe einen Kunden."
     ]
   },
@@ -27876,36 +27553,28 @@
   },
   {
     "id": "der Künstler",
-    "raw_word": "der Künstler, -",
+    "raw_word": "der Künstler, die Künstlerin, -nen",
     "details": {
       "article": "der",
       "headword": "Künstler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Künstlerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "In diesem Stadtteil wohnen viele Kün-"
-    ]
-  },
-  {
-    "id": "die Künstlerin",
-    "raw_word": "die Künstlerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Künstlerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "stlerinnen. Neben uns wohnt eine Musikerin."
+      "In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin."
     ]
   },
   {
@@ -28109,7 +27778,7 @@
   },
   {
     "id": "das Kuvert",
-    "raw_word": "das Kuvert, -s (A) →der",
+    "raw_word": "das Kuvert, -s (A) →der; Briefumschlag; CH: Couvert",
     "details": {
       "article": "das",
       "headword": "Kuvert",
@@ -28119,6 +27788,16 @@
         {
           "word": "der",
           "regional_usage": []
+        },
+        {
+          "word": "Briefumschlag",
+          "regional_usage": []
+        },
+        {
+          "word": "Couvert",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -28128,24 +27807,7 @@
       "female_form": null
     },
     "examples": [
-      "Ich hätte gern 50 Kuverts und"
-    ]
-  },
-  {
-    "id": "Briefumschlag; CH: Couvert",
-    "raw_word": "Briefumschlag; CH: Couvert",
-    "details": {
-      "article": null,
-      "headword": "Briefumschlag; CH: Couvert",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Briefmarken dazu."
+      "Ich hätte gern 50 Kuverts und Briefmarken dazu."
     ]
   },
   {
@@ -28934,36 +28596,28 @@
   },
   {
     "id": "der Lehrer",
-    "raw_word": "der Lehrer, -",
+    "raw_word": "der Lehrer, die Lehrerin, -nen",
     "details": {
       "article": "der",
       "headword": "Lehrer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Lehrerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Lehrerin hat heute viele Hausauf-"
-    ]
-  },
-  {
-    "id": "die Lehrerin",
-    "raw_word": "die Lehrerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Lehrerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gaben gegeben."
+      "Die Lehrerin hat heute viele Hausaufgaben gegeben."
     ]
   },
   {
@@ -29168,35 +28822,29 @@
   },
   {
     "id": "der Leiter",
-    "raw_word": "der Leiter, -",
+    "raw_word": "der Leiter, die Leiterin, -nen",
     "details": {
       "article": "der",
       "headword": "Leiter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Leiterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Wie heißt die Leiterin der Schule?"
     ]
-  },
-  {
-    "id": "die Leiterin",
-    "raw_word": "die Leiterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Leiterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Leitung",
@@ -29273,35 +28921,29 @@
   },
   {
     "id": "der Lerner",
-    "raw_word": "der Lerner, -",
+    "raw_word": "der Lerner, die Lernerin, -nen",
     "details": {
       "article": "der",
       "headword": "Lerner",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Lernerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Sie ist eine fleißige Lernerin."
     ]
-  },
-  {
-    "id": "die Lernerin",
-    "raw_word": "die Lernerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Lernerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "lesen",
@@ -29328,36 +28970,28 @@
   },
   {
     "id": "der Leser",
-    "raw_word": "der Leser, -",
+    "raw_word": "der Leser, die Leserin, -nen",
     "details": {
       "article": "der",
       "headword": "Leser",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Leserin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Leserinnen und Leser sind mit der"
-    ]
-  },
-  {
-    "id": "die Leserin",
-    "raw_word": "die Leserin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Leserin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Zeitung zufrieden.",
+      "Die Leserinnen und Leser sind mit der Zeitung zufrieden.",
       "Ich werde einen Leserbrief schreiben."
     ]
   },
@@ -29618,8 +29252,8 @@
         {
           "word": "Aufzug",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -30271,36 +29905,28 @@
   },
   {
     "id": "der Maler",
-    "raw_word": "der Maler, -",
+    "raw_word": "der Maler, die Malerin, -nen",
     "details": {
       "article": "der",
       "headword": "Maler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Malerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Wir haben die Maler im Haus. Wir"
-    ]
-  },
-  {
-    "id": "die Malerin",
-    "raw_word": "die Malerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Malerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "lassen die Wände neu streichen.",
+      "Wir haben die Maler im Haus. Wir lassen die Wände neu streichen.",
       "Picasso ist vielleicht der bekannteste Maler der Welt."
     ]
   },
@@ -30699,36 +30325,28 @@
   },
   {
     "id": "der Mechaniker",
-    "raw_word": "der Mechaniker, -",
+    "raw_word": "der Mechaniker, die Mechanikerin, -nen",
     "details": {
       "article": "der",
       "headword": "Mechaniker",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Mechanikerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Das kann nur ein Mechaniker"
-    ]
-  },
-  {
-    "id": "die Mechanikerin",
-    "raw_word": "die Mechanikerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Mechanikerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "reparieren.",
+      "Das kann nur ein Mechaniker reparieren.",
       "Karim ist Automechaniker. Er arbeitet bei Opel."
     ]
   },
@@ -31347,41 +30965,33 @@
   },
   {
     "id": "der Mieter",
-    "raw_word": "der Mieter, -",
+    "raw_word": "der Mieter, die Mieterin, -nen",
     "details": {
       "article": "der",
       "headword": "Mieter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Mieterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Sie hat heute neue Mieter für die"
-    ]
-  },
-  {
-    "id": "die Mieterin",
-    "raw_word": "die Mieterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Mieterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wohnung gefunden."
+      "Sie hat heute neue Mieter für die Wohnung gefunden."
     ]
   },
   {
     "id": "der Migrant",
-    "raw_word": "der Migrant, -en",
+    "raw_word": "der Migrant, -en / die Migrantin, -nen",
     "details": {
       "article": "der",
       "headword": "Migrant",
@@ -31390,27 +31000,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Migrantin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Viele Migranten kommen aus"
-    ]
-  },
-  {
-    "id": "die Migrantin",
-    "raw_word": "die Migrantin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Migrantin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Osteuropa."
+      "Viele Migranten kommen aus Osteuropa."
     ]
   },
   {
@@ -31598,35 +31200,29 @@
   },
   {
     "id": "der Mitarbeiter",
-    "raw_word": "der Mitarbeiter, -",
+    "raw_word": "der Mitarbeiter, die Mitarbeiterin, -nen",
     "details": {
       "article": "der",
       "headword": "Mitarbeiter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Mitarbeiterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Unsere Firma hat sieben Mitarbeiter."
     ]
-  },
-  {
-    "id": "die Mitarbeiterin",
-    "raw_word": "die Mitarbeiterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Mitarbeiterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "miteinander",
@@ -32340,35 +31936,29 @@
   },
   {
     "id": "der Musiker",
-    "raw_word": "der Musiker, -",
+    "raw_word": "der Musiker, die Musikerin, nen",
     "details": {
       "article": "der",
       "headword": "Musiker",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Musikerin",
+        "plural": null,
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Mein Bruder möchte Musiker werden."
     ]
-  },
-  {
-    "id": "die Musikerin",
-    "raw_word": "die Musikerin, nen",
-    "details": {
-      "article": "die",
-      "headword": "Musikerin",
-      "plural": "nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Muskel",
@@ -32504,7 +32094,7 @@
   },
   {
     "id": "der Nachbar",
-    "raw_word": "der Nachbar, -n",
+    "raw_word": "der Nachbar, -n / die Nachbarin, nen",
     "details": {
       "article": "der",
       "headword": "Nachbar",
@@ -32513,26 +32103,20 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Nachbarin",
+        "plural": null,
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Meine neue Nachbarin ist sehr nett."
     ]
-  },
-  {
-    "id": "die Nachbarin",
-    "raw_word": "die Nachbarin, nen",
-    "details": {
-      "article": "die",
-      "headword": "Nachbarin",
-      "plural": "nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "nachdem",
@@ -33454,36 +33038,28 @@
   },
   {
     "id": "der Nichtraucher",
-    "raw_word": "der Nichtraucher, -",
+    "raw_word": "der Nichtraucher, die Nichtraucherin, -nen",
     "details": {
       "article": "der",
       "headword": "Nichtraucher",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Nichtraucherin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "In unserer Familie sind alle"
-    ]
-  },
-  {
-    "id": "die Nichtraucherin",
-    "raw_word": "die Nichtraucherin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Nichtraucherin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Nichtraucher.",
+      "In unserer Familie sind alle Nichtraucher.",
       "Möchten Sie einen Tisch im Nichtraucherbereich?"
     ]
   },
@@ -34055,7 +33631,7 @@
   },
   {
     "id": "der Ober",
-    "raw_word": "der Ober, - (D, A) → Kellner;",
+    "raw_word": "der Ober, - (D, A) → Kellner;; CH: Serviceangestellter",
     "details": {
       "article": "der",
       "headword": "Ober",
@@ -34065,6 +33641,12 @@
         {
           "word": "Kellner",
           "regional_usage": []
+        },
+        {
+          "word": "Serviceangestellter",
+          "regional_usage": [
+            "CH"
+          ]
         }
       ],
       "regional_usage": [
@@ -34079,26 +33661,11 @@
     ]
   },
   {
-    "id": "CH: Serviceangestellter",
-    "raw_word": "CH: Serviceangestellter",
-    "details": {
-      "article": null,
-      "headword": "CH: Serviceangestellter",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "das/der (Schlag-)Obers",
-    "raw_word": "das/der (Schlag-)Obers (A) →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "id": "das/der (Schlag-)Obers ;",
+    "raw_word": "das/der (Schlag-)Obers (A); →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": "das",
-      "headword": "/der (Schlag-)Obers",
+      "headword": "/der (Schlag-)Obers ;",
       "plural": null,
       "conjugation": [],
       "synonyms": [
@@ -34189,11 +33756,11 @@
   },
   {
     "id": "der (Back-)Ofen",
-    "raw_word": "der (Back-)Ofen, ¨- (D, CH) →A: (Back-)Rohr",
+    "raw_word": "der (Back-)Ofen, ¨- (D, CH); →A: (Back-)Rohr",
     "details": {
       "article": "der",
       "headword": "(Back-)Ofen",
-      "plural": "¨-",
+      "plural": "¨- ;",
       "conjugation": [],
       "synonyms": [
         {
@@ -35135,8 +34702,8 @@
         {
           "word": "parken",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -35153,36 +34720,28 @@
   },
   {
     "id": "der Partner",
-    "raw_word": "der Partner, -",
+    "raw_word": "der Partner, die Partnerin, -nen",
     "details": {
       "article": "der",
       "headword": "Partner",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Partnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Wir haben das Geschäft zusammen."
-    ]
-  },
-  {
-    "id": "die Partnerin",
-    "raw_word": "die Partnerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Partnerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Wir sind Partner.",
+      "Wir haben das Geschäft zusammen. Wir sind Partner.",
       "Beide Partner kümmern sich um die Kinder.",
       "Herr Aydin ist mein Geschäftspartner."
     ]
@@ -35224,7 +34783,7 @@
   },
   {
     "id": "der Passagier",
-    "raw_word": "der Passagier, -e",
+    "raw_word": "der Passagier, -e / die Passagierin, -nen",
     "details": {
       "article": "der",
       "headword": "Passagier",
@@ -35233,27 +34792,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Passagierin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Passagiere Schulz und Kaufmann"
-    ]
-  },
-  {
-    "id": "die Passagierin",
-    "raw_word": "die Passagierin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Passagierin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "sollen bitte zur Information kommen."
+      "Die Passagiere Schulz und Kaufmann sollen bitte zur Information kommen."
     ]
   },
   {
@@ -35321,7 +34872,7 @@
   },
   {
     "id": "der Patient",
-    "raw_word": "der Patient, -en",
+    "raw_word": "der Patient, -en / die Patientin, -nen",
     "details": {
       "article": "der",
       "headword": "Patient",
@@ -35330,27 +34881,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Patientin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich bin Patientin bei Dr. Hausner. Ich"
-    ]
-  },
-  {
-    "id": "die Patientin",
-    "raw_word": "die Patientin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Patientin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "möchte bitte einen Termin."
+      "Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin."
     ]
   },
   {
@@ -35515,8 +35058,8 @@
         {
           "word": "in Pension gehen/sein",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         },
         {
@@ -35540,28 +35083,11 @@
   },
   {
     "id": "der Pensionist",
-    "raw_word": "der Pensionist, -en",
+    "raw_word": "der Pensionist, -en / die; Pensionistin, -nen (A) →D, CH: Rentner",
     "details": {
       "article": "der",
       "headword": "Pensionist",
-      "plural": "-en",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Meine Großmutter arbeitet nicht mehr."
-    ]
-  },
-  {
-    "id": "die Pensionistin",
-    "raw_word": "die Pensionistin, -nen (A) →D, CH: Rentner",
-    "details": {
-      "article": "die",
-      "headword": "Pensionistin",
-      "plural": "-nen",
+      "plural": "-en / die; Pensionistin",
       "conjugation": [],
       "synonyms": [
         {
@@ -35579,6 +35105,7 @@
       "female_form": null
     },
     "examples": [
+      "Meine Großmutter arbeitet nicht mehr.",
       "Sie ist Pensionistin."
     ]
   },
@@ -35628,8 +35155,8 @@
         {
           "word": "Bahnsteig",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -35697,7 +35224,7 @@
   },
   {
     "id": "der Personenstand",
-    "raw_word": "der Personenstand →D, A: Familienstand;",
+    "raw_word": "der Personenstand →D, A: Familienstand;; CH: Zivilstand",
     "details": {
       "article": "der",
       "headword": "Personenstand",
@@ -35707,8 +35234,14 @@
         {
           "word": "Familienstand",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
+          ]
+        },
+        {
+          "word": "Zivilstand",
+          "regional_usage": [
+            "CH"
           ]
         }
       ],
@@ -35719,21 +35252,6 @@
     "examples": [
       "Bei „Personenstand“ musst du „ledig“ ankreuzen."
     ]
-  },
-  {
-    "id": "CH: Zivilstand",
-    "raw_word": "CH: Zivilstand",
-    "details": {
-      "article": null,
-      "headword": "CH: Zivilstand",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Personal",
@@ -35764,8 +35282,8 @@
         {
           "word": "Topf",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -35891,36 +35409,28 @@
   },
   {
     "id": "der Pfleger",
-    "raw_word": "der Pfleger, -",
+    "raw_word": "der Pfleger, die Pflegerin, -nen",
     "details": {
       "article": "der",
       "headword": "Pfleger",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Pflegerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Meine Freundin ist Pflegerin in einem"
-    ]
-  },
-  {
-    "id": "die Pflegerin",
-    "raw_word": "die Pflegerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Pflegerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Altersheim."
+      "Meine Freundin ist Pflegerin in einem Altersheim."
     ]
   },
   {
@@ -36182,35 +35692,29 @@
   },
   {
     "id": "der Politiker",
-    "raw_word": "der Politiker, -",
+    "raw_word": "der Politiker, die Politikerin, -nen",
     "details": {
       "article": "der",
       "headword": "Politiker",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Politikerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Weißt du, wie dieser Politiker heißt?"
     ]
-  },
-  {
-    "id": "die Politikerin",
-    "raw_word": "die Politikerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Politikerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "politisch",
@@ -36250,7 +35754,7 @@
   },
   {
     "id": "der Polizist",
-    "raw_word": "der Polizist, -en",
+    "raw_word": "der Polizist, -en / die Polizistin, -nen",
     "details": {
       "article": "der",
       "headword": "Polizist",
@@ -36259,27 +35763,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Polizistin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Ampel war kaputt. Ein Polizist hat"
-    ]
-  },
-  {
-    "id": "die Polizistin",
-    "raw_word": "die Polizistin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Polizistin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "den Verkehr geregelt."
+      "Die Ampel war kaputt. Ein Polizist hat den Verkehr geregelt."
     ]
   },
   {
@@ -36455,7 +35951,7 @@
   },
   {
     "id": "das Poulet",
-    "raw_word": "das Poulet, -s (CH) →D: Hähnchen/Hühnchen; A:",
+    "raw_word": "das Poulet, -s (CH) →D: Hähnchen/Hühnchen; A: Hend(e)l",
     "details": {
       "article": "das",
       "headword": "Poulet",
@@ -36469,8 +35965,10 @@
           ]
         },
         {
-          "word": "A:",
-          "regional_usage": []
+          "word": "Hend(e)l",
+          "regional_usage": [
+            "A"
+          ]
         }
       ],
       "regional_usage": [
@@ -36482,21 +35980,6 @@
     "examples": [
       "Zum Mittagessen gibt es Poulet mit Reis."
     ]
-  },
-  {
-    "id": "Hend(e)l",
-    "raw_word": "Hend(e)l",
-    "details": {
-      "article": null,
-      "headword": "Hend(e)l",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Praktikum",
@@ -36517,7 +36000,7 @@
   },
   {
     "id": "der Praktikant",
-    "raw_word": "der Praktikant, -en",
+    "raw_word": "der Praktikant, -en / die Praktikantin, -nen",
     "details": {
       "article": "der",
       "headword": "Praktikant",
@@ -36526,27 +36009,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Praktikantin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Bei dieser Firma habe ich zwei Jahre"
-    ]
-  },
-  {
-    "id": "die Praktikantin",
-    "raw_word": "die Praktikantin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Praktikantin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "als Praktikantin gearbeitet."
+      "Bei dieser Firma habe ich zwei Jahre als Praktikantin gearbeitet."
     ]
   },
   {
@@ -36878,7 +36353,7 @@
   },
   {
     "id": "der Professor",
-    "raw_word": "der Professor, -en",
+    "raw_word": "der Professor, -en / die Professorin, -nen",
     "details": {
       "article": "der",
       "headword": "Professor",
@@ -36887,27 +36362,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Professorin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Unsere Nachbarin ist Professorin an"
-    ]
-  },
-  {
-    "id": "die Professorin",
-    "raw_word": "die Professorin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Professorin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "der Universität."
+      "Unsere Nachbarin ist Professorin an der Universität."
     ]
   },
   {
@@ -36929,36 +36396,28 @@
   },
   {
     "id": "der Profisportler",
-    "raw_word": "der Profisportler, -",
+    "raw_word": "der Profisportler, die Profisportlerin, -nen",
     "details": {
       "article": "der",
       "headword": "Profisportler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Profisportlerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Mein Sohn möchte Profisportler"
-    ]
-  },
-  {
-    "id": "die Profisportlerin",
-    "raw_word": "die Profisportlerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Profisportlerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "werden."
+      "Mein Sohn möchte Profisportler werden."
     ]
   },
   {
@@ -37296,8 +36755,8 @@
         {
           "word": "Viertel",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -37430,35 +36889,29 @@
   },
   {
     "id": "der Radfahrer",
-    "raw_word": "der Radfahrer, -",
+    "raw_word": "der Radfahrer, die Radfahrerin, -nen",
     "details": {
       "article": "der",
       "headword": "Radfahrer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Radfahrerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Achtung! Da kommt eine Radfahrerin."
     ]
-  },
-  {
-    "id": "die Radfahrerin",
-    "raw_word": "die Radfahrerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Radfahrerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Radio",
@@ -37677,35 +37130,28 @@
   },
   {
     "id": "der Raucher",
-    "raw_word": "der Raucher, -",
+    "raw_word": "der Raucher, die Raucherin, -nen",
     "details": {
       "article": "der",
       "headword": "Raucher",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Raucherin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Gibt es hier ein Zimmer für Raucher?"
-    ]
-  },
-  {
-    "id": "die Raucherin",
-    "raw_word": "die Raucherin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Raucherin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Gibt es hier ein Zimmer für Raucher?",
       "Ich bin keine Raucherin. Ich bin Nichtraucherin."
     ]
   },
@@ -38672,8 +38118,8 @@
         {
           "word": "in Pension gehen/sein",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         },
         {
@@ -38697,28 +38143,11 @@
   },
   {
     "id": "der Rentner",
-    "raw_word": "der Rentner, -",
+    "raw_word": "der Rentner, die Rentnerin, -nen (D, CH) →A: Pensionist",
     "details": {
       "article": "der",
       "headword": "Rentner",
-      "plural": "-",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Meine Großmutter arbeitet nicht mehr."
-    ]
-  },
-  {
-    "id": "die Rentnerin",
-    "raw_word": "die Rentnerin, -nen (D, CH) →A: Pensionist",
-    "details": {
-      "article": "die",
-      "headword": "Rentnerin",
-      "plural": "-nen",
+      "plural": null,
       "conjugation": [],
       "synonyms": [
         {
@@ -38733,9 +38162,19 @@
         "CH"
       ],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Rentnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
+      "Meine Großmutter arbeitet nicht mehr.",
       "Sie ist Rentnerin."
     ]
   },
@@ -38796,36 +38235,28 @@
   },
   {
     "id": "der Reporter",
-    "raw_word": "der Reporter, -",
+    "raw_word": "der Reporter, die Reporterin, -nen",
     "details": {
       "article": "der",
       "headword": "Reporter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Reporterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Reporterin macht gerade ein"
-    ]
-  },
-  {
-    "id": "die Reporterin",
-    "raw_word": "die Reporterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Reporterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Interview."
+      "Die Reporterin macht gerade ein Interview."
     ]
   },
   {
@@ -38981,36 +38412,28 @@
   },
   {
     "id": "der Richter",
-    "raw_word": "der Richter, -",
+    "raw_word": "der Richter, die Richterin, -nen",
     "details": {
       "article": "der",
       "headword": "Richter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Richterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Der Richter hat noch kein Urteil"
-    ]
-  },
-  {
-    "id": "die Richterin",
-    "raw_word": "die Richterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Richterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gesprochen."
+      "Der Richter hat noch kein Urteil gesprochen."
     ]
   },
   {
@@ -39833,36 +39256,28 @@
   },
   {
     "id": "der Sänger",
-    "raw_word": "der Sänger, -",
+    "raw_word": "der Sänger, die Sängerin, -nen",
     "details": {
       "article": "der",
       "headword": "Sänger",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Sängerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Wie findest du diesen Sänger? − Ich"
-    ]
-  },
-  {
-    "id": "die Sängerin",
-    "raw_word": "die Sängerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Sängerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "finde seine Stimme toll."
+      "Wie findest du diesen Sänger? − Ich finde seine Stimme toll."
     ]
   },
   {
@@ -40204,36 +39619,28 @@
   },
   {
     "id": "der Schauspieler",
-    "raw_word": "der Schauspieler, -",
+    "raw_word": "der Schauspieler, die Schauspielerin, -nen",
     "details": {
       "article": "der",
       "headword": "Schauspieler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Schauspielerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Der Film war toll. Die Schauspieler"
-    ]
-  },
-  {
-    "id": "die Schauspielerin",
-    "raw_word": "die Schauspielerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Schauspielerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "waren sehr gut."
+      "Der Film war toll. Die Schauspieler waren sehr gut."
     ]
   },
   {
@@ -40626,11 +40033,11 @@
     ]
   },
   {
-    "id": "der/das (Schlag-)Obers",
-    "raw_word": "der/das (Schlag-)Obers (A) →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
+    "id": "der/das (Schlag-)Obers ;",
+    "raw_word": "der/das (Schlag-)Obers (A); →D: (Schlag-)Sahne; CH: (Schlag-)Rahm",
     "details": {
       "article": "der/das",
-      "headword": "(Schlag-)Obers",
+      "headword": "(Schlag-)Obers ;",
       "plural": null,
       "conjugation": [],
       "synonyms": [
@@ -41376,36 +40783,28 @@
   },
   {
     "id": "der Schriftsteller",
-    "raw_word": "der Schriftsteller, -",
+    "raw_word": "der Schriftsteller, die Schriftstellerin, -nen",
     "details": {
       "article": "der",
       "headword": "Schriftsteller",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Schriftstellerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Kennst du diese Schriftstellerin? Ich"
-    ]
-  },
-  {
-    "id": "die Schriftstellerin",
-    "raw_word": "die Schriftstellerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Schriftstellerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "liebe ihre Bücher."
+      "Kennst du diese Schriftstellerin? Ich liebe ihre Bücher."
     ]
   },
   {
@@ -41558,35 +40957,29 @@
   },
   {
     "id": "der Schüler",
-    "raw_word": "der Schüler, -",
+    "raw_word": "der Schüler, die Schülerin, -nen",
     "details": {
       "article": "der",
       "headword": "Schüler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Schülerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "In der Klasse sind 25 Schülerinnen."
     ]
-  },
-  {
-    "id": "die Schülerin",
-    "raw_word": "die Schülerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Schülerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "die Schulter",
@@ -42146,7 +41539,7 @@
   },
   {
     "id": "der Sekretär",
-    "raw_word": "der Sekretär, -e",
+    "raw_word": "der Sekretär, -e / die Sekretärin, -nen",
     "details": {
       "article": "der",
       "headword": "Sekretär",
@@ -42155,27 +41548,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Sekretärin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Der neue Sekretär hat sich gestern"
-    ]
-  },
-  {
-    "id": "die Sekretärin",
-    "raw_word": "die Sekretärin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Sekretärin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "vorgestellt."
+      "Der neue Sekretär hat sich gestern vorgestellt."
     ]
   },
   {
@@ -42545,8 +41930,8 @@
         {
           "word": "Ober",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -42760,36 +42145,28 @@
   },
   {
     "id": "der Sieger",
-    "raw_word": "der Sieger, -",
+    "raw_word": "der Sieger, die Siegerin, -nen",
     "details": {
       "article": "der",
       "headword": "Sieger",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Siegerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Wer hat gewonnen? Wie heißt die"
-    ]
-  },
-  {
-    "id": "die Siegerin",
-    "raw_word": "die Siegerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Siegerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Siegerin?"
+      "Wer hat gewonnen? Wie heißt die Siegerin?"
     ]
   },
   {
@@ -43236,11 +42613,11 @@
     ]
   },
   {
-    "id": "gesollt (hat sollen als Modalverb)",
-    "raw_word": "gesollt (hat sollen als Modalverb)",
+    "id": "gesollt (hat sollen als; Modalverb)",
+    "raw_word": "gesollt (hat sollen als; Modalverb)",
     "details": {
       "article": null,
-      "headword": "gesollt (hat sollen als Modalverb)",
+      "headword": "gesollt (hat sollen als; Modalverb)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -43520,36 +42897,28 @@
   },
   {
     "id": "der Sozialarbeiter",
-    "raw_word": "der Sozialarbeiter, -",
+    "raw_word": "der Sozialarbeiter, die Sozialarbeiterin, -nen",
     "details": {
       "article": "der",
       "headword": "Sozialarbeiter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Sozialarbeiterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Sozialarbeiterin kommt einmal in"
-    ]
-  },
-  {
-    "id": "die Sozialarbeiterin",
-    "raw_word": "die Sozialarbeiterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Sozialarbeiterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "der Woche."
+      "Die Sozialarbeiterin kommt einmal in der Woche."
     ]
   },
   {
@@ -43817,7 +43186,7 @@
   },
   {
     "id": "der Spezialist",
-    "raw_word": "der Spezialist, -en",
+    "raw_word": "der Spezialist, -en / die Spezialistin, -nen",
     "details": {
       "article": "der",
       "headword": "Spezialist",
@@ -43826,27 +43195,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Spezialistin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Mein Arzt hat mich zur Spezialistin"
-    ]
-  },
-  {
-    "id": "die Spezialistin",
-    "raw_word": "die Spezialistin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Spezialistin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "geschickt."
+      "Mein Arzt hat mich zur Spezialistin geschickt."
     ]
   },
   {
@@ -43927,36 +43288,28 @@
   },
   {
     "id": "der Spieler",
-    "raw_word": "der Spieler, -",
+    "raw_word": "der Spieler, die Spielerin, -nen",
     "details": {
       "article": "der",
       "headword": "Spieler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Spielerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Für dieses Spiel braucht man zwei bis"
-    ]
-  },
-  {
-    "id": "die Spielerin",
-    "raw_word": "die Spielerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Spielerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "vier Spieler.",
+      "Für dieses Spiel braucht man zwei bis vier Spieler.",
       "Beim Fußball gibt es elf Spieler."
     ]
   },
@@ -44048,35 +43401,29 @@
   },
   {
     "id": "der Sportler",
-    "raw_word": "der Sportler, -",
+    "raw_word": "der Sportler, die Sportlerin, -nen",
     "details": {
       "article": "der",
       "headword": "Sportler",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Sportlerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Sie ist eine gute Sportlerin."
     ]
-  },
-  {
-    "id": "die Sportlerin",
-    "raw_word": "die Sportlerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Sportlerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "sportlich",
@@ -45139,11 +44486,11 @@
   },
   {
     "id": "das Stiegenhaus",
-    "raw_word": "das Stiegenhaus, ¨-er (A) →D, CH: Treppenhaus",
+    "raw_word": "das Stiegenhaus, ¨-er (A); →D, CH: Treppenhaus",
     "details": {
       "article": "das",
       "headword": "Stiegenhaus",
-      "plural": "¨-er",
+      "plural": "¨-er ;",
       "conjugation": [],
       "synonyms": [
         {
@@ -45770,7 +45117,7 @@
   },
   {
     "id": "der Student",
-    "raw_word": "der Student, -en",
+    "raw_word": "der Student, -en / die Studentin, -nen",
     "details": {
       "article": "der",
       "headword": "Student",
@@ -45779,27 +45126,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Studentin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Schüler und Studenten zahlen die"
-    ]
-  },
-  {
-    "id": "die Studentin",
-    "raw_word": "die Studentin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Studentin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Hälfte."
+      "Schüler und Studenten zahlen die Hälfte."
     ]
   },
   {
@@ -46539,36 +45878,28 @@
   },
   {
     "id": "der Täter",
-    "raw_word": "der Täter, -",
+    "raw_word": "der Täter, die Täterin, -nen",
     "details": {
       "article": "der",
       "headword": "Täter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Täterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Polizei hat den Täter endlich"
-    ]
-  },
-  {
-    "id": "die Täterin",
-    "raw_word": "die Täterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Täterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gefasst."
+      "Die Polizei hat den Täter endlich gefasst."
     ]
   },
   {
@@ -46887,36 +46218,28 @@
   },
   {
     "id": "der Teilnehmer",
-    "raw_word": "der Teilnehmer, -",
+    "raw_word": "der Teilnehmer, die Teilnehmerin, -nen",
     "details": {
       "article": "der",
       "headword": "Teilnehmer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Teilnehmerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Teilnehmerinnen aus unserem Kurs"
-    ]
-  },
-  {
-    "id": "die Teilnehmerin",
-    "raw_word": "die Teilnehmerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Teilnehmerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "kommen aus verschiedenen Ländern."
+      "Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern."
     ]
   },
   {
@@ -47706,7 +47029,7 @@
   },
   {
     "id": "der Tourist",
-    "raw_word": "der Tourist, -en",
+    "raw_word": "der Tourist, -en / die Touristin, -nen",
     "details": {
       "article": "der",
       "headword": "Tourist",
@@ -47715,27 +47038,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Touristin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Es kommen immer mehr Touristen in"
-    ]
-  },
-  {
-    "id": "die Touristin",
-    "raw_word": "die Touristin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Touristin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "unsere Stadt."
+      "Es kommen immer mehr Touristen in unsere Stadt."
     ]
   },
   {
@@ -47818,35 +47133,29 @@
   },
   {
     "id": "der Trainer",
-    "raw_word": "der Trainer, -",
+    "raw_word": "der Trainer, die Trainerin, -nen",
     "details": {
       "article": "der",
       "headword": "Trainer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Trainerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Ich finde unseren Trainer sehr nett."
     ]
-  },
-  {
-    "id": "die Trainerin",
-    "raw_word": "die Trainerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Trainerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "das Training",
@@ -47878,8 +47187,8 @@
         {
           "word": "Straßenbahn",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -48356,8 +47665,8 @@
         {
           "word": "Gehsteig",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -48932,36 +48241,28 @@
   },
   {
     "id": "der Übersetzer",
-    "raw_word": "der Übersetzer, -",
+    "raw_word": "der Übersetzer, die Übersetzerin, -nen",
     "details": {
       "article": "der",
       "headword": "Übersetzer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Übersetzerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Meine Tochter möchte als Übersetzerin"
-    ]
-  },
-  {
-    "id": "die Übersetzerin",
-    "raw_word": "die Übersetzerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Übersetzerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "arbeiten."
+      "Meine Tochter möchte als Übersetzerin arbeiten."
     ]
   },
   {
@@ -49981,35 +49282,29 @@
   },
   {
     "id": "der Unternehmer",
-    "raw_word": "der Unternehmer, -",
+    "raw_word": "der Unternehmer, die Unternehmerin, -nen",
     "details": {
       "article": "der",
       "headword": "Unternehmer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Unternehmerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Sie ist erfolgreiche Unternehmerin."
     ]
-  },
-  {
-    "id": "die Unternehmerin",
-    "raw_word": "die Unternehmerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Unternehmerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "unterrichten",
@@ -50462,8 +49757,8 @@
         {
           "word": "Rad",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -50784,36 +50079,28 @@
   },
   {
     "id": "der Verbrecher",
-    "raw_word": "der Verbrecher, -",
+    "raw_word": "der Verbrecher, die Verbrecherin, -nen",
     "details": {
       "article": "der",
       "headword": "Verbrecher",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Verbrecherin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Polizei hat den Verbrecher"
-    ]
-  },
-  {
-    "id": "die Verbrecherin",
-    "raw_word": "die Verbrecherin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Verbrecherin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "verhaftet."
+      "Die Polizei hat den Verbrecher verhaftet."
     ]
   },
   {
@@ -51266,36 +50553,28 @@
   },
   {
     "id": "der Verkäufer",
-    "raw_word": "der Verkäufer, -",
+    "raw_word": "der Verkäufer, die Verkäuferin, -nen",
     "details": {
       "article": "der",
       "headword": "Verkäufer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Verkäuferin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Verkäuferin wird Ihnen gleich"
-    ]
-  },
-  {
-    "id": "die Verkäuferin",
-    "raw_word": "die Verkäuferin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Verkäuferin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "helfen."
+      "Die Verkäuferin wird Ihnen gleich helfen."
     ]
   },
   {
@@ -51540,35 +50819,29 @@
   },
   {
     "id": "der Verlierer",
-    "raw_word": "der Verlierer, -",
+    "raw_word": "der Verlierer, die Verliererin, -nen",
     "details": {
       "article": "der",
       "headword": "Verlierer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Verliererin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Sie ist eine gute Verliererin."
     ]
-  },
-  {
-    "id": "die Verliererin",
-    "raw_word": "die Verliererin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Verliererin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": []
   },
   {
     "id": "der Verlust",
@@ -51632,36 +50905,28 @@
   },
   {
     "id": "der Vermieter",
-    "raw_word": "der Vermieter, -",
+    "raw_word": "der Vermieter, die Vermieterin, -nen",
     "details": {
       "article": "der",
       "headword": "Vermieter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Vermieterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Unsere Vermieterin ist eine sehr nette,"
-    ]
-  },
-  {
-    "id": "die Vermieterin",
-    "raw_word": "die Vermieterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Vermieterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "ältere Frau."
+      "Unsere Vermieterin ist eine sehr nette, ältere Frau."
     ]
   },
   {
@@ -52361,36 +51626,28 @@
   },
   {
     "id": "der Vertreter",
-    "raw_word": "der Vertreter, -",
+    "raw_word": "der Vertreter, die Vertreterin, -nen",
     "details": {
       "article": "der",
       "headword": "Vertreter",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Vertreterin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Als Herr Dr. Müller in Urlaub war, bin"
-    ]
-  },
-  {
-    "id": "die Vertreterin",
-    "raw_word": "die Vertreterin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Vertreterin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "ich zu seiner Vertreterin gegangen.",
+      "Als Herr Dr. Müller in Urlaub war, bin ich zu seiner Vertreterin gegangen.",
       "Die Elternvertreter treffen sich morgen Abend in der Schule."
     ]
   },
@@ -55130,7 +54387,7 @@
   },
   {
     "id": "der Wirt",
-    "raw_word": "der Wirt, -e",
+    "raw_word": "der Wirt, -e / die Wirtin, -nen",
     "details": {
       "article": "der",
       "headword": "Wirt",
@@ -55139,26 +54396,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Wirtin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Ich kenne die Wirtin von diesem Lokal."
-    ]
-  },
-  {
-    "id": "die Wirtin",
-    "raw_word": "die Wirtin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Wirtin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Ich kenne die Wirtin von diesem Lokal.",
       "Sie ist sehr nett."
     ]
   },
@@ -55518,11 +54768,11 @@
     ]
   },
   {
-    "id": "(hat wollen als Modalverb)",
-    "raw_word": "(hat wollen als Modalverb)",
+    "id": "(hat wollen als; Modalverb)",
+    "raw_word": "(hat wollen als; Modalverb)",
     "details": {
       "article": null,
-      "headword": "(hat wollen als Modalverb)",
+      "headword": "(hat wollen als; Modalverb)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -56307,7 +55557,7 @@
   },
   {
     "id": "der Zeuge",
-    "raw_word": "der Zeuge, -n",
+    "raw_word": "der Zeuge, -n / die Zeugin, -nen",
     "details": {
       "article": "der",
       "headword": "Zeuge",
@@ -56316,27 +55566,19 @@
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Zeugin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Die Polizei sucht noch Zeugen für den"
-    ]
-  },
-  {
-    "id": "die Zeugin",
-    "raw_word": "die Zeugin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Zeugin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Unfall."
+      "Die Polizei sucht noch Zeugen für den Unfall."
     ]
   },
   {
@@ -56516,8 +55758,8 @@
         {
           "word": "Familienstand",
           "regional_usage": [
-            "D",
-            "A"
+            "A",
+            "D"
           ]
         }
       ],
@@ -56832,36 +56074,28 @@
   },
   {
     "id": "der Zuhörer",
-    "raw_word": "der Zuhörer, -",
+    "raw_word": "der Zuhörer, die Zuhörerin, -nen",
     "details": {
       "article": "der",
       "headword": "Zuhörer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Zuhörerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Liebe Zuhörerinnen und Zuhörer, Ihre"
-    ]
-  },
-  {
-    "id": "die Zuhörerin",
-    "raw_word": "die Zuhörerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Zuhörerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "Meinung interessiert uns. Bitte rufen Sie an!"
+      "Liebe Zuhörerinnen und Zuhörer, Ihre Meinung interessiert uns. Bitte rufen Sie an!"
     ]
   },
   {
@@ -57247,36 +56481,28 @@
   },
   {
     "id": "der Zuschauer",
-    "raw_word": "der Zuschauer, -",
+    "raw_word": "der Zuschauer, die Zuschauerin, -nen",
     "details": {
       "article": "der",
       "headword": "Zuschauer",
-      "plural": "-",
+      "plural": null,
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Zuschauerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
-      "Liebe Zuschauer, wir wünschen Ihnen"
-    ]
-  },
-  {
-    "id": "die Zuschauerin",
-    "raw_word": "die Zuschauerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Zuschauerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "gute Unterhaltung."
+      "Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung."
     ]
   },
   {

@@ -35,10 +35,23 @@ def join_word_parts(parts):
         return ""
     result = parts[0]
     for p in parts[1:]:
+        p_clean = p.strip()
+        if not p_clean:
+            continue
         if result.endswith("-"):
-            result = result[:-1] + p
+            result = result[:-1] + p_clean
+        elif p_clean.startswith("die ") and "der " in result.lower():
+            result = result + " / " + p_clean
+        elif p_clean[0].islower():
+            result = result + " " + p_clean
+        elif p_clean.startswith(",") or p_clean.startswith("-") or p_clean.startswith("("):
+            result = result + " " + p_clean
+        elif result.endswith((",", ":", "→", "->")):
+            result = result + " " + p_clean
+        elif p_clean.startswith(("gehen/sein", "werden/sein", "haben/sein", "sein", "haben")):
+            result = result + " " + p_clean
         else:
-            result = result + " " + p
+            result = result + "; " + p_clean
     return result.strip()
 
 def join_example_lines(lines):
@@ -132,16 +145,24 @@ def parse_word_details(raw_word):
                 syn_reg.extend(prefix_regs)
                 part = prefix_match.group(2).strip()
                 
+            clean_part_for_check = clean_word_spaces(part)
+            is_female = clean_part_for_check.startswith("die ") and clean_part_for_check.split(',')[0].strip().endswith("in")
+            
             # 3. Strip trailing form changes (e.g. "Poulet, -s" -> "Poulet")
             part_clean = part.split(',')[0].strip()
             
             # 4. Clean up any remaining reference arrows in the synonym itself
             part_clean = re.sub(r'\s*(?:[→\u2192]|->).*$', '', part_clean).strip()
             
-            result["synonyms"].append({
-                "word": part_clean,
-                "regional_usage": list(set(syn_reg))
-            })
+            if is_female:
+                result["female_form"] = parse_word_details(clean_part_for_check)
+                if syn_reg:
+                    result["female_form"]["regional_usage"] = list(set(syn_reg))
+            else:
+                result["synonyms"].append({
+                    "word": part_clean,
+                    "regional_usage": list(set(syn_reg))
+                })
         work_str = work_str[:ref_match.start()].strip()
         
     # 3. Check for plural only marker "(Pl.)" and singular only marker "(Sg.)"
@@ -235,6 +256,15 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 is_gewesen = word_str.lower() == "gewesen"
                 
                 is_verb_phrase_wrap = word_str.startswith(("gehen/sein", "werden/sein", "haben/sein"))
+                is_capitalized_no_article = word_str and word_str[0].isupper() and not starts_with_article and not starts_with_regional and not starts_with_arrow and not is_plural_marker
+                is_female_name = False
+                if word_str.startswith("die "):
+                    fem_word = word_str[4:].split(',')[0].strip()
+                    fem_word = re.sub(r'\s*\([A-Z\d\s,.]+\)\s*', ' ', fem_word).strip()
+                    fem_word = re.sub(r'\s*(?:[→\u2192]|->).*$', '', fem_word).strip()
+                    if fem_word.endswith("in"):
+                        is_female_name = True
+                is_female_wrap = is_female_name and current_word and "der " in current_word[0].lower()
                 
                 # Check for structural indicators from previous parsed word
                 prev_word_str = current_word[-1].strip() if current_word else ""
@@ -246,6 +276,10 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 if is_aux:
                     is_continuation = True
                 elif is_verb_phrase_wrap:
+                    is_continuation = True
+                elif is_female_wrap:
+                    is_continuation = True
+                elif is_capitalized_no_article and gap < 13.0:
                     is_continuation = True
                 elif is_gewesen:
                     is_continuation = True

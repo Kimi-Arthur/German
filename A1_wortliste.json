@@ -103,11 +103,11 @@
     ]
   },
   {
-    "id": "der Absender",
-    "raw_word": "der Absender",
+    "id": "der Absender; Achtung",
+    "raw_word": "der Absender; Achtung",
     "details": {
       "article": "der",
-      "headword": "Absender",
+      "headword": "Absender; Achtung",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -116,23 +116,7 @@
       "female_form": null
     },
     "examples": [
-      "Da ist ein Brief für dich ohne Absender."
-    ]
-  },
-  {
-    "id": "Achtung",
-    "raw_word": "Achtung",
-    "details": {
-      "article": null,
-      "headword": "Achtung",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Da ist ein Brief für dich ohne Absender.",
       "Achtung! Das dürfen Sie nicht tun."
     ]
   },
@@ -3703,11 +3687,11 @@
   },
   {
     "id": "das Fax",
-    "raw_word": "das Fax, -e",
+    "raw_word": "das Fax, -e; Feier-",
     "details": {
       "article": "das",
       "headword": "Fax",
-      "plural": "-e",
+      "plural": "-e; Feier-",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -3715,24 +3699,7 @@
       "female_form": null
     },
     "examples": [
-      "Schicken Sie uns einfach ein Fax!"
-    ]
-  },
-  {
-    "id": "Feier-",
-    "raw_word": "Feier-",
-    "details": {
-      "article": null,
-      "headword": "Feier-",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
-      "z. B. Feierabend, Feiertag Am Montag ist Feiertag."
+      "Schicken Sie uns einfach ein Fax! z. B. Feierabend, Feiertag Am Montag ist Feiertag."
     ]
   },
   {
@@ -4893,11 +4860,11 @@
     ]
   },
   {
-    "id": "der Glückwunsch",
-    "raw_word": "der Glückwunsch",
+    "id": "der Glückwunsch; Grad (Celsius)",
+    "raw_word": "der Glückwunsch; Grad (Celsius)",
     "details": {
       "article": "der",
-      "headword": "Glückwunsch",
+      "headword": "Glückwunsch; Grad (Celsius)",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -4906,23 +4873,7 @@
       "female_form": null
     },
     "examples": [
-      "Herzlichen Glückwunsch zum Geburtstag."
-    ]
-  },
-  {
-    "id": "Grad (Celsius)",
-    "raw_word": "Grad (Celsius)",
-    "details": {
-      "article": null,
-      "headword": "Grad (Celsius)",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Herzlichen Glückwunsch zum Geburtstag.",
       "Heute haben wir dreißig Grad."
     ]
   },
@@ -7028,11 +6979,11 @@
     ]
   },
   {
-    "id": "lieber",
-    "raw_word": "lieber",
+    "id": "lieber; Lieblings-",
+    "raw_word": "lieber; Lieblings-",
     "details": {
       "article": null,
-      "headword": "lieber",
+      "headword": "lieber; Lieblings-",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -7041,23 +6992,7 @@
       "female_form": null
     },
     "examples": [
-      "Sie fährt lieber mit der Bahn."
-    ]
-  },
-  {
-    "id": "Lieblings-",
-    "raw_word": "Lieblings-",
-    "details": {
-      "article": null,
-      "headword": "Lieblings-",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Sie fährt lieber mit der Bahn.",
       "Mein Lieblingsfilm ist „Schwarze Augen“."
     ]
   },
@@ -8163,31 +8098,25 @@
   },
   {
     "id": "der Partner",
-    "raw_word": "der Partner, -",
+    "raw_word": "der Partner, -/ / die Partnerin, -nen",
     "details": {
       "article": "der",
       "headword": "Partner",
-      "plural": "-",
+      "plural": "-/",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
       "variants": [],
-      "female_form": null
-    },
-    "examples": []
-  },
-  {
-    "id": "die Partnerin",
-    "raw_word": "die Partnerin, -nen",
-    "details": {
-      "article": "die",
-      "headword": "Partnerin",
-      "plural": "-nen",
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
+      "female_form": {
+        "article": "die",
+        "headword": "Partnerin",
+        "plural": "-nen",
+        "conjugation": [],
+        "synonyms": [],
+        "regional_usage": [],
+        "variants": [],
+        "female_form": null
+      }
     },
     "examples": [
       "Sie ist meine Partnerin."
@@ -8468,11 +8397,11 @@
     ]
   },
   {
-    "id": "Rad fahren",
-    "raw_word": "Rad fahren",
+    "id": "r; Rad fahren",
+    "raw_word": "r; Rad fahren",
     "details": {
       "article": null,
-      "headword": "Rad fahren",
+      "headword": "r; Rad fahren",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -8844,12 +8773,12 @@
     ]
   },
   {
-    "id": "das Salz",
-    "raw_word": "das Salz",
+    "id": "das Salz; Satz",
+    "raw_word": "das Salz; Satz, -ä, e",
     "details": {
       "article": "das",
-      "headword": "Salz",
-      "plural": null,
+      "headword": "Salz; Satz",
+      "plural": "-ä",
       "conjugation": [],
       "synonyms": [],
       "regional_usage": [],
@@ -8857,26 +8786,7 @@
       "female_form": null
     },
     "examples": [
-      "Herr Ober, kann ich bitte Salz haben?"
-    ]
-  },
-  {
-    "id": "Satz",
-    "raw_word": "Satz, -ä, e",
-    "details": {
-      "article": null,
-      "headword": "Satz",
-      "plural": null,
-      "conjugation": [
-        "-ä",
-        "e"
-      ],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Herr Ober, kann ich bitte Salz haben?",
       "Dieser Satz ist sehr einfach."
     ]
   },
@@ -9520,11 +9430,11 @@
     ]
   },
   {
-    "id": "sie",
-    "raw_word": "sie",
+    "id": "sie; Sie",
+    "raw_word": "sie; Sie",
     "details": {
       "article": null,
-      "headword": "sie",
+      "headword": "sie; Sie",
       "plural": null,
       "conjugation": [],
       "synonyms": [],
@@ -9533,23 +9443,7 @@
       "female_form": null
     },
     "examples": [
-      "Wie heißt sie?"
-    ]
-  },
-  {
-    "id": "Sie",
-    "raw_word": "Sie",
-    "details": {
-      "article": null,
-      "headword": "Sie",
-      "plural": null,
-      "conjugation": [],
-      "synonyms": [],
-      "regional_usage": [],
-      "variants": [],
-      "female_form": null
-    },
-    "examples": [
+      "Wie heißt sie?",
       "Wie heißen Sie, bitte?"
     ]
   },
