@@ -55,6 +55,37 @@ def get_clean_id(word):
     clean = re.sub(r'\s*\(([Pp]l\.|[Ss]g\.)\)\s*', ' ', clean).strip()
     # 4. Now split by comma (since commas inside parentheses are already stripped)
     clean = clean.split(',')[0].strip()
+    
+    # 5. Split slash-separated variants
+    # E.g. die Rezeption/Reception -> die Rezeption
+    parts = clean.split()
+    if parts:
+        articles = ["der", "die", "das", "der/die", "die/das", "der/das", "das/der", "der/die/das"]
+        article_part = ""
+        headword_part = clean
+        if parts[0].lower() in articles:
+            article_part = parts[0]
+            headword_part = " ".join(parts[1:])
+            
+        # Rules to split the headword:
+        # 1. No spaces in headword_part (single word/phrase)
+        # 2. Exactly one slash in headword_part
+        # 3. No parentheses in headword_part
+        if (
+            " " not in headword_part and 
+            headword_part.count("/") == 1 and 
+            "(" not in headword_part and 
+            ")" not in headword_part
+        ):
+            left, right = headword_part.split("/")
+            if left and right and not left.endswith("-") and not right.startswith("-") and not right.endswith("-") and not left.startswith("-"):
+                headword_part = left
+                
+        if article_part:
+            clean = f"{article_part} {headword_part}".strip()
+        else:
+            clean = headword_part.strip()
+            
     # Clean up double spaces
     clean = re.sub(r'\s+', ' ', clean)
     clean = clean.rstrip(";, ")
