@@ -220,6 +220,9 @@
     "details": {
       "article": "das",
       "headword": "Abitur",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Matura",
@@ -228,9 +231,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -428,6 +428,9 @@
       "article": "der",
       "headword": "Abwart",
       "plural": "-e",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Hausmeister",
@@ -436,9 +439,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ],
       "female_form": {
         "id": "die Abwartin",
@@ -1746,6 +1746,10 @@
       "article": "die",
       "headword": "Aprikose",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Marille",
@@ -1753,10 +1757,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -2424,15 +2424,15 @@
       "article": "der",
       "headword": "Aufzug",
       "plural": "¨-e",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Lift",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -3281,6 +3281,10 @@
       "article": "der",
       "headword": "Bahnsteig",
       "plural": "-e",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Perron",
@@ -3288,10 +3292,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -3389,6 +3389,10 @@
       "article": "der",
       "headword": "Bancomat",
       "plural": "-en",
+      "regional_usage": [
+        "A",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Geldautomat",
@@ -3396,10 +3400,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "CH"
       ],
       "variants": [
         "Bankomat"
@@ -3428,14 +3428,14 @@
       "article": "die",
       "headword": "Bankomat-Karte",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "ec-Karte/EC-Karte",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -5993,6 +5993,9 @@
       "article": "das",
       "headword": "Brötchen",
       "plural": "-",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Semmel",
@@ -6006,9 +6009,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -6022,6 +6022,9 @@
       "article": "das",
       "headword": "Brötli",
       "plural": "-",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Brötchen",
@@ -6035,9 +6038,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -6086,6 +6086,10 @@
       "article": "der",
       "headword": "Bub",
       "plural": "-en",
+      "regional_usage": [
+        "A",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Junge",
@@ -6093,10 +6097,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "CH"
       ]
     },
     "examples": [
@@ -6178,6 +6178,10 @@
       "article": "die",
       "headword": "Büchse",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Dose",
@@ -6185,10 +6189,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -6412,6 +6412,9 @@
       "article": "die",
       "headword": "Coiffeuse",
       "plural": "-n",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Friseur",
@@ -6420,9 +6423,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -6483,6 +6483,9 @@
       "article": "das",
       "headword": "Couvert",
       "plural": "-s",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Briefumschlag",
@@ -6494,9 +6497,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -7769,6 +7769,9 @@
     "details": {
       "article": "die",
       "headword": "e-card",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "die Versichertenkarte",
@@ -7776,9 +7779,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -7825,6 +7825,10 @@
       "article": "die",
       "headword": "Ecke",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Eck",
@@ -7832,10 +7836,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -7851,6 +7851,9 @@
       "article": "das",
       "headword": "Eck",
       "plural": "-en",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Ecke",
@@ -7859,9 +7862,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -8751,6 +8751,10 @@
     "details": {
       "article": "das",
       "headword": "Eis",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Glace/Glacé",
@@ -8758,10 +8762,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -9327,14 +9327,14 @@
       "article": "der",
       "headword": "Erdapfel",
       "plural": "¨-",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Kartoffel",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -10208,15 +10208,15 @@
       "article": "die",
       "headword": "Etage",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Stock",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -10625,6 +10625,10 @@
     "details": {
       "article": "der",
       "headword": "Familienstand",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Personenstand",
@@ -10636,10 +10640,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -10716,6 +10716,9 @@
     "details": {
       "article": "das",
       "headword": "Faschierte",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Hackfleisch",
@@ -10724,9 +10727,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -10740,6 +10740,10 @@
       "article": "der",
       "headword": "Fasching",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Karneval",
@@ -10753,10 +10757,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -10769,6 +10769,9 @@
     "details": {
       "article": "die",
       "headword": "Fasnacht",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Fasching",
@@ -10783,9 +10786,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -10852,6 +10852,10 @@
       "article": "der",
       "headword": "Fauteuil",
       "plural": "-s",
+      "regional_usage": [
+        "A",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Sessel",
@@ -10860,10 +10864,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "CH"
       ]
     },
     "examples": [
@@ -10984,6 +10984,9 @@
       "article": "die",
       "headword": "Ferien",
       "plural": "(Pl.)",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Urlaub",
@@ -10999,9 +11002,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -11448,14 +11448,14 @@
       "article": "der",
       "headword": "Fleischhauer",
       "plural": "-",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Metzger",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ],
       "female_form": {
         "id": "die Fleischhauerin",
@@ -12183,6 +12183,10 @@
       "article": "der",
       "headword": "Friseur",
       "plural": "-e",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Coiffeur",
@@ -12190,10 +12194,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ],
       "female_form": {
         "id": "die Friseurin",
@@ -12273,6 +12273,9 @@
     "raw_word": "Früchte (CH) →D, A: Obst",
     "details": {
       "headword": "Früchte",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Obst",
@@ -12281,9 +12284,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -12384,6 +12384,9 @@
       "article": "der",
       "headword": "Führerausweis",
       "plural": "-e",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Führerschein",
@@ -12392,9 +12395,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -12408,6 +12408,10 @@
       "article": "der",
       "headword": "Führerschein",
       "plural": "-e",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Führerausweis",
@@ -12415,10 +12419,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -13219,6 +13219,10 @@
     "details": {
       "article": "der",
       "headword": "Gehsteig",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Trottoir",
@@ -13226,10 +13230,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -13255,6 +13255,9 @@
       "article": "der",
       "headword": "Geldautomat",
       "plural": "-en",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Bancomat/Bankomat",
@@ -13263,9 +13266,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -13279,6 +13279,9 @@
       "article": "die",
       "headword": "Geldbörse",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Brieftasche",
@@ -13291,9 +13294,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -14048,6 +14048,9 @@
       "article": "die/das",
       "headword": "Glaceé",
       "plural": "-n",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Eis",
@@ -14056,9 +14059,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ],
       "variants": [
         "Glac"
@@ -14335,6 +14335,10 @@
         "grillte",
         "hat gegrillt"
       ],
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "grillieren",
@@ -14342,10 +14346,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -14362,6 +14362,9 @@
         "grillierte",
         "hat grilliert"
       ],
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "grillen",
@@ -14370,9 +14373,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -14639,6 +14639,10 @@
     "details": {
       "article": "das",
       "headword": "Hackfleisch",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Faschierte",
@@ -14646,10 +14650,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -14690,6 +14690,9 @@
       "article": "das",
       "headword": "Hähnchen",
       "plural": "-",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Hend(e)l",
@@ -14703,9 +14706,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ],
       "variants": [
         "Hühnchen"
@@ -15141,6 +15141,10 @@
       "article": "der",
       "headword": "Hausmeister",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Abwart",
@@ -15148,10 +15152,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ],
       "female_form": {
         "id": "die Hausmeisterin",
@@ -15415,6 +15415,9 @@
       "article": "das",
       "headword": "Hend(e)l",
       "plural": "-",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Hähnchen/Hühnchen",
@@ -15428,9 +15431,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -16235,6 +16235,9 @@
       "article": "der",
       "headword": "Imbiss",
       "plural": "-e",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Jause",
@@ -16248,9 +16251,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -16751,6 +16751,9 @@
       "article": "die",
       "headword": "Jause",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Imbiss",
@@ -16764,9 +16767,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -16990,6 +16990,9 @@
       "article": "der",
       "headword": "Junge",
       "plural": "-n",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Bub",
@@ -16998,9 +17001,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -17252,6 +17252,9 @@
       "article": "der",
       "headword": "Karneval",
       "plural": "-s/-e",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Fasching",
@@ -17266,9 +17269,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -17424,6 +17424,9 @@
       "article": "der",
       "headword": "Kasten",
       "plural": "¨-",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Kiste",
@@ -17432,9 +17435,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -17448,6 +17448,10 @@
       "article": "der",
       "headword": "Kasten",
       "plural": "¨-",
+      "regional_usage": [
+        "A",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Schrank",
@@ -17456,10 +17460,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "CH"
       ]
     },
     "examples": [
@@ -17784,6 +17784,10 @@
       "article": "die",
       "headword": "Kiste",
       "plural": "-n",
+      "regional_usage": [
+        "A",
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Kasten",
@@ -17791,10 +17795,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "D"
       ]
     },
     "examples": [
@@ -17902,6 +17902,9 @@
       "article": "die",
       "headword": "Klassenarbeit",
       "plural": "-en",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Schularbeit",
@@ -17909,9 +17912,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -18125,6 +18125,9 @@
       "article": "der",
       "headword": "Kloß",
       "plural": "¨-e",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Knödel",
@@ -18133,9 +18136,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -18214,6 +18214,10 @@
       "article": "der",
       "headword": "Knödel",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Kloß",
@@ -18221,10 +18225,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -18697,6 +18697,10 @@
       "article": "der",
       "headword": "Korridor",
       "plural": "-e",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Gang",
@@ -18708,10 +18712,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -18782,6 +18782,9 @@
         "kostete",
         "hat gekostet"
       ],
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "probieren",
@@ -18790,9 +18793,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -19487,6 +19487,9 @@
       "article": "das",
       "headword": "Kuvert",
       "plural": "-s",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "der",
@@ -19502,9 +19505,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -21124,6 +21124,9 @@
       "article": "die",
       "headword": "Marille",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Aprikose",
@@ -21132,9 +21135,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -21228,6 +21228,10 @@
     "details": {
       "article": "die",
       "headword": "Matura",
+      "regional_usage": [
+        "A",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Abitur",
@@ -21235,10 +21239,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "CH"
       ]
     },
     "examples": [
@@ -22177,6 +22177,9 @@
       "article": "die",
       "headword": "Möhre",
       "plural": "-n",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "Karotte",
@@ -22188,9 +22191,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -22625,15 +22625,15 @@
       "article": "die",
       "headword": "Nachspeise",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Dessert",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -23531,6 +23531,10 @@
       "article": "der",
       "headword": "Ober",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Kellner",
@@ -23542,10 +23546,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -23558,6 +23558,9 @@
     "details": {
       "article": "das/der",
       "headword": "(Schlag-)Obers",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "(Schlag-)Sahne",
@@ -23571,9 +23574,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -23586,6 +23586,10 @@
     "details": {
       "article": "das",
       "headword": "Obst",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Früchte",
@@ -23593,10 +23597,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -23631,6 +23631,10 @@
       "article": "der",
       "headword": "(Back-)Ofen",
       "plural": "¨-",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "(Back-)Rohr",
@@ -23638,10 +23642,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -23942,14 +23942,14 @@
       "article": "die",
       "headword": "Ordination",
       "plural": "-en",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Praxis",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -23963,14 +23963,14 @@
       "article": "die",
       "headword": "Ordination",
       "plural": "-en",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Sprechstunde",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -24199,14 +24199,14 @@
       "article": "der",
       "headword": "Paradeiser",
       "plural": "-",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Tomate",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -24267,6 +24267,10 @@
     "raw_word": "geparkt (D, A) →CH: parkieren",
     "details": {
       "headword": "geparkt",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "parkieren",
@@ -24274,10 +24278,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -24294,6 +24294,9 @@
         "parkierte",
         "hat parkiert"
       ],
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "parken",
@@ -24302,9 +24305,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -24510,6 +24510,10 @@
       "article": "die",
       "headword": "Pension",
       "plural": "-en",
+      "regional_usage": [
+        "A",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Rente",
@@ -24518,10 +24522,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A",
-        "CH"
       ]
     },
     "examples": [
@@ -24533,6 +24533,10 @@
     "raw_word": "in Pension gehen/sein (D, A) →D: in Rente gehen/sein; D, CH: pensioniert werden/sein",
     "details": {
       "headword": "in Pension gehen/sein",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "in Rente gehen/sein",
@@ -24547,10 +24551,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -24563,6 +24563,10 @@
     "raw_word": "pensioniert werden/sein (D, CH) →D, A: in Pension gehen/sein; D: in Rente gehen/sein",
     "details": {
       "headword": "pensioniert werden/sein",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "in Pension gehen/sein",
@@ -24577,10 +24581,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -24607,6 +24607,9 @@
       "article": "die",
       "headword": "Pensionistin",
       "plural": "-nen",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Rentner",
@@ -24615,9 +24618,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -24651,6 +24651,9 @@
       "article": "der",
       "headword": "Perron",
       "plural": "-s",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Bahnsteig",
@@ -24659,9 +24662,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -24747,6 +24747,9 @@
       "article": "die",
       "headword": "Pfanne",
       "plural": "-n",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Topf",
@@ -24755,9 +24758,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -25140,6 +25140,10 @@
       "article": "das",
       "headword": "Portemonnaie",
       "plural": "-s",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Brieftasche",
@@ -25151,10 +25155,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ],
       "variants": [
         "Portmonee"
@@ -25219,14 +25219,14 @@
       "article": "der",
       "headword": "Pöstler",
       "plural": "-",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Briefträger",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "CH"
       ],
       "female_form": {
         "id": "die Pöstlerin",
@@ -25249,6 +25249,9 @@
       "article": "das",
       "headword": "Poulet",
       "plural": "-s",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Hähnchen/Hühnchen",
@@ -25262,9 +25265,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -25462,6 +25462,10 @@
         "probierte",
         "hat probiert"
       ],
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "kosten",
@@ -25469,10 +25473,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -25814,6 +25814,9 @@
       "article": "das",
       "headword": "Quartier",
       "plural": "-e",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Viertel",
@@ -25822,9 +25825,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -25895,6 +25895,10 @@
       "article": "das",
       "headword": "Rad",
       "plural": "¨-er",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Fahrrad",
@@ -25906,10 +25910,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -25957,6 +25957,9 @@
     "details": {
       "article": "der",
       "headword": "(Schlag-)Rahm",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "(Schlag-)Sahne",
@@ -25970,9 +25973,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -26762,6 +26762,10 @@
       "article": "die",
       "headword": "Rente",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Pension",
@@ -26770,10 +26774,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -26785,6 +26785,9 @@
     "raw_word": "in Rente gehen/sein (D) → D, A: in Pension gehen/sein; CH, D: pensioniert werden/sein",
     "details": {
       "headword": "in Rente gehen/sein",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "in Pension gehen/sein",
@@ -26800,9 +26803,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -26817,6 +26817,10 @@
       "article": "der",
       "headword": "Rentner",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Pensionist",
@@ -26824,10 +26828,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ],
       "female_form": {
         "id": "die Rentnerin",
@@ -27152,6 +27152,9 @@
       "article": "das",
       "headword": "(Back-)Rohr",
       "plural": "-e",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "(Back-)Ofen",
@@ -27160,9 +27163,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -27290,6 +27290,9 @@
       "article": "das",
       "headword": "Rüebli",
       "plural": "-",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Karotte",
@@ -27301,9 +27304,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -27474,6 +27474,9 @@
     "details": {
       "article": "die",
       "headword": "(Schlag-)Sahne",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "(Schlag-)Obers",
@@ -27487,9 +27490,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -28154,6 +28154,9 @@
     "details": {
       "article": "der/das",
       "headword": "(Schlag-)Obers",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "(Schlag-)Sahne",
@@ -28167,9 +28170,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -28547,6 +28547,10 @@
       "article": "der",
       "headword": "Schrank",
       "plural": "¨-e",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Kasten",
@@ -28555,10 +28559,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -28778,6 +28778,9 @@
       "article": "die",
       "headword": "Schularbeit",
       "plural": "-en",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Klassenarbeit",
@@ -28785,9 +28788,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -28899,14 +28899,14 @@
       "article": "das",
       "headword": "Schwammerl",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Pilz",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -29329,6 +29329,9 @@
       "article": "die",
       "headword": "Semmel",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Brötchen",
@@ -29342,9 +29345,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -29458,6 +29458,9 @@
       "article": "der",
       "headword": "Serviceangestellte",
       "plural": "-n",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Kellner",
@@ -29470,9 +29473,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ],
       "female_form": {
         "id": "die Serviceangestellte",
@@ -29494,6 +29494,10 @@
       "article": "der",
       "headword": "Sessel",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Fauteuil",
@@ -29502,10 +29506,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -29519,6 +29519,9 @@
       "article": "der",
       "headword": "Sessel",
       "plural": "-",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Stuhl",
@@ -29527,9 +29530,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -31235,6 +31235,9 @@
       "article": "die",
       "headword": "Stiege",
       "plural": "-n",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Treppe",
@@ -31243,9 +31246,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -31260,6 +31260,9 @@
       "article": "das",
       "headword": "Stiegenhaus",
       "plural": "¨-er",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Treppenhaus",
@@ -31268,9 +31271,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -31511,6 +31511,10 @@
       "article": "die",
       "headword": "Straßenbahn",
       "plural": "-en",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Tram",
@@ -31518,10 +31522,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -32951,6 +32951,10 @@
       "article": "der",
       "headword": "Topf",
       "plural": "¨-e",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Pfanne",
@@ -32958,10 +32962,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -33361,6 +33361,10 @@
       "article": "die",
       "headword": "Treppe",
       "plural": "-n",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Stiege",
@@ -33368,10 +33372,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -33386,6 +33386,10 @@
       "article": "das",
       "headword": "Treppenhaus",
       "plural": "¨-er",
+      "regional_usage": [
+        "D",
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Stiegenhaus",
@@ -33393,10 +33397,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "CH"
       ]
     },
     "examples": [
@@ -33504,6 +33504,9 @@
       "article": "das",
       "headword": "Trottoir",
       "plural": "-s",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Gehsteig",
@@ -33512,9 +33515,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -34820,6 +34820,10 @@
       "article": "der",
       "headword": "Urlaub",
       "plural": "-e",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Ferien",
@@ -34827,10 +34831,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -34931,6 +34931,9 @@
       "article": "das",
       "headword": "Velo",
       "plural": "-s",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Fahrrad",
@@ -34943,9 +34946,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -36050,6 +36050,9 @@
       "article": "die",
       "headword": "Versichertenkarte",
       "plural": "-n",
+      "regional_usage": [
+        "D"
+      ],
       "synonyms": [
         {
           "word": "e-card",
@@ -36057,9 +36060,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "D"
       ]
     },
     "examples": [
@@ -36475,6 +36475,10 @@
       "article": "das",
       "headword": "Viertel",
       "plural": "-",
+      "regional_usage": [
+        "D",
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Quartier",
@@ -36482,10 +36486,6 @@
             "CH"
           ]
         }
-      ],
-      "regional_usage": [
-        "D",
-        "A"
       ]
     },
     "examples": [
@@ -39073,6 +39073,9 @@
     "details": {
       "article": "der",
       "headword": "Zivilstand",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Personenstand",
@@ -39085,9 +39088,6 @@
             "D"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ]
     },
     "examples": [
@@ -39395,6 +39395,9 @@
       "article": "die",
       "headword": "Zünder",
       "plural": "(Pl.)",
+      "regional_usage": [
+        "A"
+      ],
       "synonyms": [
         {
           "word": "Streichholz",
@@ -39404,9 +39407,6 @@
           "word": "Zündholz",
           "regional_usage": []
         }
-      ],
-      "regional_usage": [
-        "A"
       ]
     },
     "examples": [
@@ -39725,6 +39725,9 @@
       "article": "das/der",
       "headword": "Zvieri",
       "plural": "-s",
+      "regional_usage": [
+        "CH"
+      ],
       "synonyms": [
         {
           "word": "Imbiss",
@@ -39738,9 +39741,6 @@
             "A"
           ]
         }
-      ],
-      "regional_usage": [
-        "CH"
       ],
       "variants": [
         "Znüni"

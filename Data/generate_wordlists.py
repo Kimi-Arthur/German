@@ -170,8 +170,8 @@ def parse_word_details(raw_word):
         "headword": raw_word,
         "plural": None,
         "conjugation": [],
-        "synonyms": [],
         "regional_usage": [],
+        "synonyms": [],
         "variants": [],
         "female_form": None
     }
