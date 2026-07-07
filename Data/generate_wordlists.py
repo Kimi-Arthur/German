@@ -793,6 +793,14 @@ def post_process_entries(entries, pdf_type):
                 entry["raw_word"] = "das Lexikon, Lexika"
                 entry["details"]["plural"] = "Lexika"
                 processed.append(entry)
+            # 8. oft (öfter is comparative)
+            elif eid == "oft":
+                if "variants" in details and "öfter" in details["variants"]:
+                    details["variants"].remove("öfter")
+                    if not details["variants"]:
+                        details.pop("variants")
+                entry["details"]["comparative"] = "öfter"
+                processed.append(entry)
             else:
                 processed.append(entry)
         else:

@@ -23839,9 +23839,7 @@
     "raw_word": "oft/öfter",
     "details": {
       "headword": "oft",
-      "variants": [
-        "öfter"
-      ]
+      "comparative": "öfter"
     },
     "examples": [
       "Ich treffe mich oft mit meiner Freundin.",
