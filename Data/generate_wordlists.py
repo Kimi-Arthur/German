@@ -546,6 +546,7 @@ def deep_replace_dashes(obj):
     if isinstance(obj, str):
         obj = obj.replace('\u2013', '-').replace('\u2212', '-')
         obj = re.sub(r',-([a-zA-Z])', r', -\1', obj)
+        obj = obj.replace("…", "...").replace("“-e", "¨-e")
         return obj
     elif isinstance(obj, list):
         return [deep_replace_dashes(item) for item in obj]

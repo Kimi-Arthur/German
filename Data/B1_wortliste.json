@@ -752,7 +752,7 @@
       "headword": "also"
     },
     "examples": [
-      "Also, die Sache ist so: …",
+      "Also, die Sache ist so: ...",
       "Irina hat Urlaub. Sie kann uns also helfen.",
       "Also wirklich, jetzt reicht es."
     ]
@@ -1130,11 +1130,11 @@
   },
   {
     "id": "die Angst",
-    "raw_word": "die Angst, “-e",
+    "raw_word": "die Angst, ¨-e",
     "details": {
       "article": "die",
       "headword": "Angst",
-      "plural": "“-e"
+      "plural": "¨-e"
     },
     "examples": [
       "Du brauchst keine Angst zu haben. Der Hund tut dir nichts.",
@@ -4091,7 +4091,7 @@
     "examples": [
       "Können Sie mir ein Beispiel sagen?",
       "Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.",
-      "Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot …"
+      "Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot ..."
     ]
   },
   {
@@ -11712,7 +11712,7 @@
     },
     "examples": [
       "Mehr Informationen auf den folgenden Seiten.",
-      "Das Geschäft hat folgende Angebote: …"
+      "Das Geschäft hat folgende Angebote: ..."
     ]
   },
   {
@@ -12949,7 +12949,7 @@
       "headword": "geehrt"
     },
     "examples": [
-      "Sehr geehrte Damen und Herren, …"
+      "Sehr geehrte Damen und Herren, ..."
     ]
   },
   {
@@ -16646,7 +16646,7 @@
       "headword": "international"
     },
     "examples": [
-      "Die Teilnehmenden in unserem Kurs sind ganz international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …",
+      "Die Teilnehmenden in unserem Kurs sind ganz international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...",
       "Der Professor war international bekannt."
     ]
   },
@@ -16785,10 +16785,10 @@
     ]
   },
   {
-    "id": "je … desto …",
-    "raw_word": "je … desto …",
+    "id": "je ... desto ...",
+    "raw_word": "je ... desto ...",
     "details": {
-      "headword": "je … desto …"
+      "headword": "je ... desto ..."
     },
     "examples": [
       "Je länger ich Deutsch lerne, desto besser kann ich es verstehen."
@@ -30108,10 +30108,10 @@
     ]
   },
   {
-    "id": "sowohl … als auch",
-    "raw_word": "sowohl … als auch",
+    "id": "sowohl ... als auch",
+    "raw_word": "sowohl ... als auch",
     "details": {
-      "headword": "sowohl … als auch"
+      "headword": "sowohl ... als auch"
     },
     "examples": [
       "Sowohl Sie als auch Ihre Frau müssen unterschreiben."
@@ -33889,7 +33889,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Der Artikel erschien unter der folgenden Überschrift: „…“",
+      "Der Artikel erschien unter der folgenden Überschrift: „...“",
       "Die Überschrift passt überhaupt nicht zum Inhalt des Artikels."
     ]
   },
@@ -34118,10 +34118,10 @@
     ]
   },
   {
-    "id": "um … zu",
-    "raw_word": "um … zu",
+    "id": "um ... zu",
+    "raw_word": "um ... zu",
     "details": {
-      "headword": "um … zu"
+      "headword": "um ... zu"
     },
     "examples": [
       "Um gesund zu bleiben, musst du Sport machen und Gemüse essen."
@@ -37410,10 +37410,10 @@
     ]
   },
   {
-    "id": "weder … noch",
-    "raw_word": "weder … noch",
+    "id": "weder ... noch",
+    "raw_word": "weder ... noch",
     "details": {
-      "headword": "weder … noch"
+      "headword": "weder ... noch"
     },
     "examples": [
       "Für Urlaub haben wir weder Zeit noch Geld."
