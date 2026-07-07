@@ -145,9 +145,12 @@ def should_skip_word(word):
 def split_examples(examples_str):
     if not examples_str:
         return []
-    # If it has numbered examples (like "1. ... 2. ...")
-    if re.search(r'^\d+\.', examples_str) or re.search(r'\s+\d+\.', examples_str):
-        parts = re.split(r'\b\d+\.\s+', examples_str)
+    # A numbered list of examples must have at least a "2." list marker to distinguish it from dates/years.
+    if re.search(r'(?:^|\s+)2\.(?=\s*[A-ZÄÖÜ])', examples_str):
+        # Exclude dates (1. Juli), centuries (12. Jahrhundert), floors (3. Stock), classes (5. Klasse), and parts (Teil 1)
+        exclude_words = r'(?:Januar|Februar|März|Jänner|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember|Jan|Feb|Mär|Apr|Jun|Jul|Aug|Sep|Okt|Nov|Dez|Jahrhundert|Stock|Klasse|Teil|Hälfte|Kapitel|Prozent)'
+        pattern = r'(?:^|\s+)\d+\.(?=\s*[A-ZÄÖÜ])(?!\s*' + exclude_words + r'\b)'
+        parts = re.split(pattern, examples_str)
         return [p.replace("\n", " ").strip() for p in parts if p.strip()]
     else:
         # Split on sentence boundaries at newlines (which indicates logical paragraph break)
@@ -590,13 +593,14 @@ def apply_general_rules(entry):
     return entry
 
 def post_process_entries(entries, pdf_type):
-    # 1. Merge parenthesized combinations in A2
+    # Merge parenthesized split lines/notes in A2
     if pdf_type == "A2":
         merged = []
         i = 0
         while i < len(entries):
             entry = entries[i]
             eid = entry.get("id")
+            # 1. Merging der Bescheid verbs
             if eid == "der Bescheid" and i + 1 < len(entries) and entries[i+1].get("id") == "(bekommen/ geben/sagen)":
                 next_entry = entries[i+1]
                 entry["raw_word"] = "der Bescheid (bekommen / geben / sagen)"
@@ -607,6 +611,7 @@ def post_process_entries(entries, pdf_type):
                     entry["examples"] = [combined_ex] + next_entry["examples"][1:]
                 merged.append(entry)
                 i += 2
+            # 2. Merging der Vorschlag verbs
             elif eid == "der Vorschlag" and i + 1 < len(entries) and entries[i+1].get("id") == "(haben/machen)":
                 next_entry = entries[i+1]
                 entry["raw_word"] = "der Vorschlag, ¨-e (haben / machen)"
@@ -617,12 +622,157 @@ def post_process_entries(entries, pdf_type):
                     entry["examples"] = [combined_ex] + next_entry["examples"][1:]
                 merged.append(entry)
                 i += 2
+            # 3. Merging weiter combinations
             elif eid == "weiter" and i + 1 < len(entries) and entries[i+1].get("id") == "(z. B. weitermachen/-helfen)":
                 next_entry = entries[i+1]
                 entry["raw_word"] = "weiter (z. B. weitermachen / weiterhelfen)"
                 entry["details"]["combinations"] = ["weitermachen", "weiterhelfen"]
                 entry["examples"] = (entry.get("examples", []) or []) + (next_entry.get("examples", []) or [])
                 merged.append(entry)
+                i += 2
+            # 4. Merging einverstanden sein
+            elif eid == "einverstanden" and i + 1 < len(entries) and entries[i+1].get("id") == "sein" and "einverstanden" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["id"] = "einverstanden"
+                entry["raw_word"] = "einverstanden (sein), ist einverstanden, war einverstanden, ist einverstanden gewesen"
+                entry["details"] = {
+                    "headword": "einverstanden (sein)",
+                    "conjugation": ["ist einverstanden", "war einverstanden", "ist einverstanden gewesen"]
+                }
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 5. Merging sich entschuldigen
+            elif eid == "entschuldigen" and i + 1 < len(entries) and entries[i+1].get("id") == "(sich)":
+                next_entry = entries[i+1]
+                entry["id"] = "entschuldigen"
+                entry["raw_word"] = "entschuldigen (sich), entschuldigt, hat entschuldigt"
+                entry["details"] = {
+                    "headword": "entschuldigen (sich)",
+                    "conjugation": ["entschuldigt", "hat entschuldigt"]
+                }
+                entry["examples"] = (entry.get("examples", []) or []) + (next_entry.get("examples", []) or [])
+                merged.append(entry)
+                i += 2
+            # 6. Merging sich informieren über
+            elif eid == "informieren" and i + 1 < len(entries) and entries[i+1].get("id") == "(sich) (über)":
+                next_entry = entries[i+1]
+                entry["id"] = "informieren"
+                entry["raw_word"] = "informieren (sich) (über), informiert, hat informiert"
+                entry["details"] = {
+                    "headword": "informieren (sich) (über)",
+                    "conjugation": ["informiert", "hat informiert"]
+                }
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 7. Merging die Tafel combinations
+            elif eid == "die Tafel" and i + 1 < len(entries) and entries[i+1].get("id") == "(z. B. Infotafel)":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "die Tafel, -n (z. B. Infotafel)"
+                entry["details"]["combinations"] = ["Infotafel"]
+                entry["examples"] = (entry.get("examples", []) or []) + (next_entry.get("examples", []) or [])
+                merged.append(entry)
+                i += 2
+            # 8. Merging wollen modal verb notes
+            elif eid == "wollen" and i + 1 < len(entries) and entries[i+1].get("id") == "(hat wollen als Modalverb)":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)"
+                if "conjugation" in entry["details"]:
+                    entry["details"]["conjugation"].append("hat wollen als Modalverb")
+                merged.append(entry)
+                i += 2
+            else:
+                merged.append(entry)
+                i += 1
+        entries = merged
+
+    # Merge parenthesized split lines/notes in B1
+    elif pdf_type == "B1":
+        merged = []
+        i = 0
+        while i < len(entries):
+            entry = entries[i]
+            eid = entry.get("id")
+            # 1. Merging das Forum combinations
+            if eid == "das Forum" and i + 1 < len(entries) and entries[i+1].get("id") == "(Internetforum)":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "das Forum, Foren (Internetforum)"
+                entry["details"]["combinations"] = ["Internetforum"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 2. Merging wollen modal verb notes
+            elif eid == "wollen" and i + 1 < len(entries) and entries[i+1].get("id").startswith("(hat wollen"):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)"
+                if "conjugation" in entry["details"]:
+                    entry["details"]["conjugation"].append("hat wollen als Modalverb")
+                merged.append(entry)
+                i += 2
+            # 3. Merging aufhalten
+            elif eid == "aufhalten" and i + 1 < len(entries) and entries[i+1].get("id") == "auf" and "aufgehalten" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "aufhalten, hält auf, hielt auf, hat aufgehalten"
+                entry["details"]["conjugation"] = ["hält auf", "hielt auf", "hat aufgehalten"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 4. Merging bekannt geben
+            elif eid == "bekannt geben" and i + 1 < len(entries) and entries[i+1].get("id") == "bekannt" and "gab bekannt" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben"
+                entry["details"]["conjugation"] = ["gibt bekannt", "gab bekannt", "hat bekannt gegeben"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 5. Merging der Bekannte and die Bekannte examples
+            elif eid == "der Bekannte" and i + 1 < len(entries) and entries[i+1].get("id") == "die Bekannte":
+                next_entry = entries[i+1]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_ex = ex1[0] + " " + ex2[0]
+                    combined_ex = re.sub(r'\s+', ' ', combined_ex).strip()
+                    entry["examples"] = [combined_ex]
+                    next_entry["examples"] = [combined_ex]
+                merged.append(entry)
+                merged.append(next_entry)
                 i += 2
             else:
                 merged.append(entry)
@@ -768,6 +918,13 @@ def post_process_entries(entries, pdf_type):
                     if not details["variants"]:
                         details.pop("variants")
                 entry["details"]["comparative"] = "öfter"
+                processed.append(entry)
+            # 8. Split example sentence concatenated to "das Bargeld" headword.
+            elif eid == "das BargeldIch":
+                entry["id"] = "das Bargeld"
+                entry["raw_word"] = "das Bargeld"
+                entry["details"]["headword"] = "Bargeld"
+                entry["examples"] = ["Ich habe kein Bargeld mehr."]
                 processed.append(entry)
             else:
                 processed.append(apply_general_rules(entry))

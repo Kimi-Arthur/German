@@ -1487,7 +1487,8 @@
       "plural": "-ü"
     },
     "examples": [
-      "Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
+      "Gute Bücher sind oft sehr teuer.",
+      "In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
     ]
   },
   {
@@ -3831,8 +3832,7 @@
       "headword": "jung"
     },
     "examples": [
-      "Claudia ist",
-      "- Was? Noch so jung?"
+      "Claudia ist 21. - Was? Noch so jung?"
     ]
   },
   {
@@ -4022,8 +4022,7 @@
       "headword": "Klasse"
     },
     "examples": [
-      "In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer",
-      "Klasse."
+      "In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer 2. Klasse."
     ]
   },
   {
@@ -4932,7 +4931,9 @@
       "headword": "nach"
     },
     "examples": [
-      "Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12."
+      "Ich gehe jetzt nach Hause.",
+      "Ich fliege nach München.",
+      "Es ist schon 5 nach 12."
     ]
   },
   {
@@ -5297,7 +5298,9 @@
       "plural": "-ä"
     },
     "examples": [
-      "Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5."
+      "Tut mir leid, der Platz ist besetzt.",
+      "Bitte nehmen Sie Platz!",
+      "Ich wohne Messeplatz 5."
     ]
   },
   {
@@ -7537,7 +7540,8 @@
       "headword": "zusammen"
     },
     "examples": [
-      "Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80."
+      "Sollen wir zusammen essen gehen?",
+      "Das macht zusammen 2 Euro 80."
     ]
   },
   {

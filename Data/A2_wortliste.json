@@ -2314,7 +2314,8 @@
       "plural": "¨-er"
     },
     "examples": [
-      "Was kostet das Buch, bitte? In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
+      "Was kostet das Buch, bitte?",
+      "In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
     ]
   },
   {
@@ -3366,20 +3367,9 @@
   },
   {
     "id": "einverstanden",
-    "raw_word": "einverstanden",
+    "raw_word": "einverstanden (sein), ist einverstanden, war einverstanden, ist einverstanden gewesen",
     "details": {
-      "headword": "einverstanden"
-    },
-    "examples": [
-      "Als Termin schlage ich den",
-      "Juni vor. - Gut, (ich"
-    ]
-  },
-  {
-    "id": "sein",
-    "raw_word": "sein, ist einverstanden, war einverstanden, ist einverstanden gewesen",
-    "details": {
-      "headword": "sein",
+      "headword": "einverstanden (sein)",
       "conjugation": [
         "ist einverstanden",
         "war einverstanden",
@@ -3387,7 +3377,7 @@
       ]
     },
     "examples": [
-      "bin) einverstanden.",
+      "Als Termin schlage ich den 11. Juni vor. - Gut, (ich bin) einverstanden.",
       "Bist du einverstanden, wenn wir bald nach Hause gehen?"
     ]
   },
@@ -3519,25 +3509,16 @@
   },
   {
     "id": "entschuldigen",
-    "raw_word": "entschuldigen",
+    "raw_word": "entschuldigen (sich), entschuldigt, hat entschuldigt",
     "details": {
-      "headword": "entschuldigen"
-    },
-    "examples": [
-      "Entschuldigen Sie bitte!"
-    ]
-  },
-  {
-    "id": "(sich)",
-    "raw_word": "(sich), entschuldigt, hat entschuldigt",
-    "details": {
-      "headword": "(sich)",
+      "headword": "entschuldigen (sich)",
       "conjugation": [
         "entschuldigt",
         "hat entschuldigt"
       ]
     },
     "examples": [
+      "Entschuldigen Sie bitte!",
       "Ich möchte mich bei dir entschuldigen."
     ]
   },
@@ -4952,8 +4933,9 @@
       "headword": "genau"
     },
     "examples": [
-      "Sind Sie sicher, dass die Prüfung am",
-      "Juni ist? Ja, das weiß ich genau. Die Uhr geht genau. Es ist genau acht Uhr."
+      "Sind Sie sicher, dass die Prüfung am 15. Juni ist? Ja, das weiß ich genau.",
+      "Die Uhr geht genau.",
+      "Es ist genau acht Uhr."
     ]
   },
   {
@@ -5988,7 +5970,8 @@
       "headword": "hoch"
     },
     "examples": [
-      "Der Mount Everest ist circa 8.880 Meter hoch. Die Preise in diesem Laden sind sehr hoch."
+      "Der Mount Everest ist circa 8.880 Meter hoch.",
+      "Die Preise in diesem Laden sind sehr hoch."
     ]
   },
   {
@@ -6182,26 +6165,16 @@
   },
   {
     "id": "informieren",
-    "raw_word": "informieren",
+    "raw_word": "informieren (sich) (über), informiert, hat informiert",
     "details": {
-      "headword": "informieren"
-    },
-    "examples": [
-      "Ich möchte mich vor der Reise über das Land"
-    ]
-  },
-  {
-    "id": "(sich) (über)",
-    "raw_word": "(sich) (über), informiert, hat informiert",
-    "details": {
-      "headword": "(sich) (über)",
+      "headword": "informieren (sich) (über)",
       "conjugation": [
         "informiert",
         "hat informiert"
       ]
     },
     "examples": [
-      "informieren.",
+      "Ich möchte mich vor der Reise über das Land informieren.",
       "Hast du dich über die Prüfung informiert?"
     ]
   },
@@ -6441,8 +6414,9 @@
       "headword": "jung"
     },
     "examples": [
-      "Claudia ist",
-      "- Was? Noch so jung? Bei uns im Haus wohnen viele junge Leute. Mein Bruder ist fünf Jahre jünger als ich."
+      "Claudia ist 21. - Was? Noch so jung?",
+      "Bei uns im Haus wohnen viele junge Leute.",
+      "Mein Bruder ist fünf Jahre jünger als ich."
     ]
   },
   {
@@ -7821,7 +7795,9 @@
       ]
     },
     "examples": [
-      "Was machst du heute Abend? Ich muss jetzt das Essen machen. Das macht 5 Euro",
+      "Was machst du heute Abend?",
+      "Ich muss jetzt das Essen machen.",
+      "Das macht 5 Euro 95.",
       "Entschuldigung! - Das macht doch nichts."
     ]
   },
@@ -8022,7 +7998,9 @@
       "headword": "mehr"
     },
     "examples": [
-      "Dieses Auto kostet 1.000 Euro mehr als das andere. Mehr kann ich nicht essen! Ich möchte mehr Taschengeld."
+      "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+      "Mehr kann ich nicht essen!",
+      "Ich möchte mehr Taschengeld."
     ]
   },
   {
@@ -8920,8 +8898,7 @@
       "headword": "oben"
     },
     "examples": [
-      "Ich wohne oben im",
-      "Stock."
+      "Ich wohne oben im 4. Stock."
     ]
   },
   {
@@ -8969,7 +8946,8 @@
       ]
     },
     "examples": [
-      "Ich öffne die Tür. Der Laden ist samstags bis 16.00 Uhr geöffnet."
+      "Ich öffne die Tür.",
+      "Der Laden ist samstags bis 16.00 Uhr geöffnet."
     ]
   },
   {
@@ -9395,7 +9373,9 @@
       "plural": "¨-e"
     },
     "examples": [
-      "Hier ist noch ein Platz frei. Bitte nehmen Sie Platz! Ich wohne am Messeplatz",
+      "Hier ist noch ein Platz frei.",
+      "Bitte nehmen Sie Platz!",
+      "Ich wohne am Messeplatz 5.",
       "Ich finde keinen Parkplatz."
     ]
   },
@@ -11175,7 +11155,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Öffnen Sie das Kursbuch auf Seite",
+      "Öffnen Sie das Kursbuch auf Seite 20.",
       "Das ist die Bachstraße. Mein Haus ist auf der linken Seite."
     ]
   },
@@ -12076,23 +12056,17 @@
   },
   {
     "id": "die Tafel",
-    "raw_word": "die Tafel, -n",
+    "raw_word": "die Tafel, -n (z. B. Infotafel)",
     "details": {
       "article": "die",
       "headword": "Tafel",
-      "plural": "-n"
+      "plural": "-n",
+      "combinations": [
+        "Infotafel"
+      ]
     },
     "examples": [
-      "Der Lehrer schreibt das neue Wort an die Tafel."
-    ]
-  },
-  {
-    "id": "(z. B. Infotafel)",
-    "raw_word": "(z. B. Infotafel)",
-    "details": {
-      "headword": "(z. B. Infotafel)"
-    },
-    "examples": [
+      "Der Lehrer schreibt das neue Wort an die Tafel.",
       "Am Eingang gibt es Tafeln mit Informationen.",
       "Die Infotafel ist am Eingang."
     ]
@@ -14446,25 +14420,19 @@
   },
   {
     "id": "wollen",
-    "raw_word": "wollen, will, wollte, hat gewollt",
+    "raw_word": "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)",
     "details": {
       "headword": "wollen",
       "conjugation": [
         "will",
         "wollte",
-        "hat gewollt"
+        "hat gewollt",
+        "hat wollen als Modalverb"
       ]
     },
     "examples": [
       "Wollen Sie einen Kaffee trinken?"
     ]
-  },
-  {
-    "id": "(hat wollen als Modalverb)",
-    "raw_word": "(hat wollen als Modalverb)",
-    "details": {
-      "headword": "(hat wollen als Modalverb)"
-    }
   },
   {
     "id": "der Workshop",
@@ -14937,7 +14905,9 @@
       "headword": "zusammen"
     },
     "examples": [
-      "Wollen wir zusammen essen gehen? Zahlen, bitte. -Zusammen oder getrennt? Das macht zusammen 10 Euro 80."
+      "Wollen wir zusammen essen gehen?",
+      "Zahlen, bitte. -Zusammen oder getrennt?",
+      "Das macht zusammen 10 Euro 80."
     ]
   },
   {

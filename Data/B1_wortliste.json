@@ -510,8 +510,7 @@
       "headword": "abwesend"
     },
     "examples": [
-      "Herr Huber ist bis zum",
-      "April abwesend."
+      "Herr Huber ist bis zum 25. April abwesend."
     ]
   },
   {
@@ -2187,7 +2186,7 @@
       ]
     },
     "examples": [
-      "Ich habe auf der Post ein Paket"
+      "1. Ich habe auf der Post ein Paket"
     ]
   },
   {
@@ -2206,29 +2205,17 @@
   },
   {
     "id": "aufhalten",
-    "raw_word": "aufhalten, hält auf, hielt",
+    "raw_word": "aufhalten, hält auf, hielt auf, hat aufgehalten",
     "details": {
       "headword": "aufhalten",
       "conjugation": [
         "hält auf",
-        "hielt"
-      ]
-    },
-    "examples": [
-      "Wo hält er sich gerade auf? - In"
-    ]
-  },
-  {
-    "id": "auf",
-    "raw_word": "auf, hat aufgehalten",
-    "details": {
-      "headword": "auf",
-      "conjugation": [
+        "hielt auf",
         "hat aufgehalten"
       ]
     },
     "examples": [
-      "München.",
+      "1. Wo hält er sich gerade auf? - In München.",
       "Darf ich Ihnen die Tür aufhalten?",
       "Entschuldigen Sie die Verspätung, ich wurde aufgehalten."
     ]
@@ -2523,7 +2510,7 @@
     "examples": [
       "Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.",
       "Frau Özgen kommt aus der Türkei.",
-      "Die Möbel sind noch aus der Zeit um",
+      "Die Möbel sind noch aus der Zeit um 1900.",
       "Ich trage nur Pullover aus reiner Wolle.",
       "Wir haben aus Liebe geheiratet.",
       "Wann ist der Kurs aus?",
@@ -3223,7 +3210,7 @@
       ]
     },
     "examples": [
-      "Wenn du baden möchtest: Das"
+      "1. Wenn du baden möchtest: Das"
     ]
   },
   {
@@ -3515,14 +3502,14 @@
     ]
   },
   {
-    "id": "das BargeldIch",
-    "raw_word": "das BargeldIch",
+    "id": "das Bargeld",
+    "raw_word": "das Bargeld",
     "details": {
       "article": "das",
-      "headword": "BargeldIch"
+      "headword": "Bargeld"
     },
     "examples": [
-      "habe kein Bargeld mehr."
+      "Ich habe kein Bargeld mehr."
     ]
   },
   {
@@ -4057,7 +4044,7 @@
       ]
     },
     "examples": [
-      "Bitte parken Sie so, dass Sie niemanden behindern."
+      "1. Bitte parken Sie so, dass Sie niemanden behindern."
     ]
   },
   {
@@ -4191,7 +4178,7 @@
       "plural": "-n"
     },
     "examples": [
-      "In Hannover wohnen Bekannte von"
+      "In Hannover wohnen Bekannte von mir."
     ]
   },
   {
@@ -4203,34 +4190,22 @@
       "plural": "-n"
     },
     "examples": [
-      "mir."
+      "In Hannover wohnen Bekannte von mir."
     ]
   },
   {
     "id": "bekannt geben",
-    "raw_word": "bekannt geben, gibt",
+    "raw_word": "bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben",
     "details": {
       "headword": "bekannt geben",
       "conjugation": [
-        "gibt"
-      ]
-    },
-    "examples": [
-      "Den Prüfungsort geben wir Ihnen noch"
-    ]
-  },
-  {
-    "id": "bekannt",
-    "raw_word": "bekannt, gab bekannt, hat",
-    "details": {
-      "headword": "bekannt",
-      "conjugation": [
+        "gibt bekannt",
         "gab bekannt",
-        "hat"
+        "hat bekannt gegeben"
       ]
     },
     "examples": [
-      "rechtzeitig bekannt."
+      "Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt."
     ]
   },
   {
@@ -6463,7 +6438,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Du siehst toll aus! Wer ist dein"
+      "1. Du siehst toll aus! Wer ist dein"
     ]
   },
   {
@@ -8613,7 +8588,7 @@
       ]
     },
     "examples": [
-      "Ab 20 Uhr vorne beim Fahrer"
+      "1. Ab 20 Uhr vorne beim Fahrer"
     ]
   },
   {
@@ -8707,8 +8682,7 @@
       "headword": "einverstanden"
     },
     "examples": [
-      "Als Termin schlage ich den",
-      "Mai vor. - Gut, einverstanden!",
+      "Als Termin schlage ich den 3. Mai vor. - Gut, einverstanden!",
       "Bist du einverstanden, wenn wir bald nach Hause gehen?"
     ]
   },
@@ -9638,8 +9612,7 @@
       ]
     },
     "examples": [
-      "Ihr Schreiben vom",
-      "Januar haben wir erhalten."
+      "Ihr Schreiben vom 3. Januar haben wir erhalten."
     ]
   },
   {
@@ -9654,7 +9627,7 @@
       ]
     },
     "examples": [
-      "Die Regierung wird sicher bald wieder die Steuern erhöhen."
+      "1. Die Regierung wird sicher bald wieder die Steuern erhöhen."
     ]
   },
   {
@@ -10006,8 +9979,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Die Eröffnung der neuen Oper ist am",
-      "Juni."
+      "Die Eröffnung der neuen Oper ist am 1. Juni."
     ]
   },
   {
@@ -10050,7 +10022,7 @@
       ]
     },
     "examples": [
-      "Du hast richtig krank ausgesehen. Ich war ganz erschrocken."
+      "1. Du hast richtig krank ausgesehen. Ich war ganz erschrocken."
     ]
   },
   {
@@ -10308,8 +10280,7 @@
       ]
     },
     "examples": [
-      "Das Büro ist in der",
-      "Etage, Zimmer 305."
+      "Das Büro ist in der 3. Etage, Zimmer 305."
     ]
   },
   {
@@ -10319,7 +10290,7 @@
       "headword": "etwa"
     },
     "examples": [
-      "Von hier sind es etwa zwanzig Kilometer."
+      "1. Von hier sind es etwa zwanzig Kilometer."
     ]
   },
   {
@@ -10485,7 +10456,7 @@
       ]
     },
     "examples": [
-      "Wir sind mit dem Zug gefahren."
+      "1. Wir sind mit dem Zug gefahren."
     ]
   },
   {
@@ -11432,7 +11403,7 @@
       ]
     },
     "examples": [
-      "Meine Tante hat eine gute Arbeit"
+      "1. Meine Tante hat eine gute Arbeit"
     ]
   },
   {
@@ -11948,24 +11919,17 @@
   },
   {
     "id": "das Forum",
-    "raw_word": "das Forum, Foren",
+    "raw_word": "das Forum, Foren (Internetforum)",
     "details": {
       "article": "das",
       "headword": "Forum",
-      "plural": "Foren"
+      "plural": "Foren",
+      "combinations": [
+        "Internetforum"
+      ]
     },
     "examples": [
-      "Ich melde mich heute bei diesem"
-    ]
-  },
-  {
-    "id": "(Internetforum)",
-    "raw_word": "(Internetforum)",
-    "details": {
-      "headword": "(Internetforum)"
-    },
-    "examples": [
-      "Forum an."
+      "Ich melde mich heute bei diesem Forum an."
     ]
   },
   {
@@ -12469,7 +12433,7 @@
     "examples": [
       "Der Lehrer führt seine Schüler durch das Museum.",
       "Frau Meyer führt den Betrieb schon seit zehn Jahren.",
-      "Nach 20 Minuten führte unsere Mannschaft 2 :",
+      "Nach 20 Minuten führte unsere Mannschaft 2 : 0.",
       "Die Straße führt direkt zum Bahnhof."
     ]
   },
@@ -12790,7 +12754,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Die Mäntel bitte an der Garderobe abgeben."
+      "1. Die Mäntel bitte an der Garderobe abgeben."
     ]
   },
   {
@@ -13284,7 +13248,14 @@
       "Am Anfang ging alles ganz gut.",
       "Geht Ihre Uhr richtig?",
       "Geht das bis morgen? - Nein, das geht nicht. Ich brauche mehr Zeit.",
-      "Der Mantel geht nicht mehr in den Koffer. 10.Das Fenster geht auf die Straße. 11.Geht es hier zum Zentrum? 12.Wie geht es Ihnen heute? 13.Ist das sehr teuer? - Es geht. 14.Um was geht es denn? 15.Warum geht das Licht nicht? 16.Ich weiß nicht, wie das geht."
+      "Der Mantel geht nicht mehr in den Koffer.",
+      "Das Fenster geht auf die Straße.",
+      "Geht es hier zum Zentrum?",
+      "Wie geht es Ihnen heute?",
+      "Ist das sehr teuer? - Es geht.",
+      "Um was geht es denn?",
+      "Warum geht das Licht nicht?",
+      "Ich weiß nicht, wie das geht."
     ]
   },
   {
@@ -13673,8 +13644,7 @@
       ]
     },
     "examples": [
-      "Ich habe meine gesamten Bücher verschenkt.",
-      "z. B. Gesamtgewicht, Gesamtsumme"
+      "1. Ich habe meine gesamten Bücher verschenkt. 2. z. B. Gesamtgewicht, Gesamtsumme"
     ]
   },
   {
@@ -14021,7 +13991,7 @@
       ]
     },
     "examples": [
-      "Wir haben uns an das Leben hier gewöhnt."
+      "1. Wir haben uns an das Leben hier gewöhnt."
     ]
   },
   {
@@ -14673,7 +14643,9 @@
       "Heute ist das Wetter wieder besser.",
       "Christine ist meine beste Freundin.",
       "Ich komme um 13 Uhr. - Gut!",
-      "Guten Morgen! 10.Ein gutes neues Jahr! 11.Guten Appetit!"
+      "Guten Morgen!",
+      "Ein gutes neues Jahr!",
+      "Guten Appetit!"
     ]
   },
   {
@@ -17027,7 +16999,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Die Jugendlichen gehen gerne in die"
+      "1. Die Jugendlichen gehen gerne in die"
     ]
   },
   {
@@ -17064,8 +17036,7 @@
     "examples": [
       "Für diesen Film bist du noch zu jung.",
       "Meine Mutter ist jung geblieben.",
-      "Claudia ist",
-      "- Was? Noch so jung?",
+      "Claudia ist 21. - Was? Noch so jung?",
       "Ich habe sehr jung geheiratet.",
       "Bei uns im Haus wohnen viele junge Leute.",
       "Mein Bruder ist zehn Jahre jünger als ich.",
@@ -17412,8 +17383,7 @@
     },
     "examples": [
       "Schreibst du mir eine Karte aus dem Urlaub?",
-      "Diese Karte gilt nur für die",
-      "Klasse.",
+      "Diese Karte gilt nur für die 2. Klasse.",
       "Hast du schon die Karten für das Konzert abgeholt?",
       "Haben Sie eine Karte von Norddeutschland?",
       "Herr Ober, bitte die Speisekarte.",
@@ -17728,7 +17698,7 @@
       ]
     },
     "examples": [
-      "Wo habt ihr euch kennengelernt?"
+      "1. Wo habt ihr euch kennengelernt?"
     ]
   },
   {
@@ -17864,8 +17834,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Diese Kirche ist aus dem",
-      "Jahrhundert."
+      "Diese Kirche ist aus dem 12. Jahrhundert."
     ]
   },
   {
@@ -17982,10 +17951,8 @@
     },
     "examples": [
       "In der Klasse sind 24 Schülerinnen und Schüler.",
-      "Im Herbst komme ich in die",
-      "Klasse.",
-      "Einmal nach Frankfurt,",
-      "Klasse, bitte."
+      "Im Herbst komme ich in die 7. Klasse.",
+      "Einmal nach Frankfurt, 1. Klasse, bitte."
     ]
   },
   {
@@ -18632,8 +18599,7 @@
     },
     "examples": [
       "Ich möchte ein Konto eröffnen.",
-      "Das Geld überweisen wir am",
-      "März auf Ihr Konto."
+      "Das Geld überweisen wir am 1. März auf Ihr Konto."
     ]
   },
   {
@@ -19632,7 +19598,7 @@
       ]
     },
     "examples": [
-      "Lachen ist gesund."
+      "1. Lachen ist gesund."
     ]
   },
   {
@@ -19746,7 +19712,7 @@
       ]
     },
     "examples": [
-      "Wir sind erst um 20 Uhr in München"
+      "1. Wir sind erst um 20 Uhr in München"
     ]
   },
   {
@@ -20005,7 +19971,7 @@
       ]
     },
     "examples": [
-      "Leben Ihre Großeltern noch?"
+      "1. Leben Ihre Großeltern noch?"
     ]
   },
   {
@@ -20101,7 +20067,7 @@
       ]
     },
     "examples": [
-      "Ich habe Ihnen die Briefe auf den"
+      "1. Ich habe Ihnen die Briefe auf den"
     ]
   },
   {
@@ -20328,8 +20294,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Ab",
-      "Juli übernimmt Herr Meier die Leitung der Abteilung.",
+      "Ab 1. Juli übernimmt Herr Meier die Leitung der Abteilung.",
       "Tut mir leid, alle Leitungen sind besetzt.",
       "Wir müssen eine neue Leitung legen lassen."
     ]
@@ -20948,7 +20913,8 @@
       "Mach dir bitte keine Sorgen.",
       "Was würden Sie an meiner Stelle machen?",
       "Tut mir leid. Die Küche hat schon geschlossen. - Da kann man nichts machen.",
-      "Entschuldigung! - Das macht doch nichts. 10.Das macht zusammen 20 Euro."
+      "Entschuldigung! - Das macht doch nichts.",
+      "Das macht zusammen 20 Euro."
     ]
   },
   {
@@ -22829,7 +22795,7 @@
       ]
     },
     "examples": [
-      "Meine Mutter näht ihre Kleider selbst."
+      "1. Meine Mutter näht ihre Kleider selbst."
     ]
   },
   {
@@ -23337,7 +23303,8 @@
       "Meine Freundin studiert, und abends arbeitet sie noch als Kellnerin.",
       "Es ist nicht mehr viel Zeit. Nur noch fünf Minuten.",
       "Ich habe nur noch 20 Euro.",
-      "Ist das Essen schon fertig. - Nein, es dauert noch ein paar Minuten. 10.Ist Amadeo schon da? - Vielleicht kommt er noch."
+      "Ist das Essen schon fertig. - Nein, es dauert noch ein paar Minuten.",
+      "Ist Amadeo schon da? - Vielleicht kommt er noch."
     ]
   },
   {
@@ -23603,8 +23570,7 @@
       "headword": "oben"
     },
     "examples": [
-      "Wir wohnen oben im",
-      "Stock.",
+      "Wir wohnen oben im 4. Stock.",
       "Die Butter liegt im Kühlschrank ganz oben."
     ]
   },
@@ -24047,8 +24013,7 @@
       ]
     },
     "examples": [
-      "Die Ordination bleibt bis zum",
-      "Jänner geschlossen."
+      "Die Ordination bleibt bis zum 7. Jänner geschlossen."
     ]
   },
   {
@@ -24354,7 +24319,7 @@
       ]
     },
     "examples": [
-      "Hier dürfen Sie nicht parken."
+      "1. Hier dürfen Sie nicht parken."
     ]
   },
   {
@@ -25461,8 +25426,7 @@
       ]
     },
     "examples": [
-      "Die Arztpraxis bleibt bis zum",
-      "Januar geschlossen."
+      "Die Arztpraxis bleibt bis zum 7. Januar geschlossen."
     ]
   },
   {
@@ -28721,8 +28685,7 @@
       "plural": "-"
     },
     "examples": [
-      "Haben Sie mein Schreiben vom",
-      "März erhalten?"
+      "Haben Sie mein Schreiben vom 3. März erhalten?"
     ]
   },
   {
@@ -29262,7 +29225,10 @@
       "Der Termin beim Zahnarzt ist erst übermorgen.",
       "Um 11 Uhr ist Pause.",
       "Herr Müller ist in seinem Zimmer.",
-      "Das Auto ist mir zu teuer. 10.Das ist schwer zu verstehen. 11.Mir ist kalt. 12.Mit Präposition wie: Das Licht ist an/aus."
+      "Das Auto ist mir zu teuer.",
+      "Das ist schwer zu verstehen.",
+      "Mir ist kalt.",
+      "Mit Präposition wie: Das Licht ist an/aus."
     ]
   },
   {
@@ -29272,8 +29238,7 @@
       "headword": "seit"
     },
     "examples": [
-      "Wir wohnen seit dem",
-      "März in Dortmund.",
+      "Wir wohnen seit dem 1. März in Dortmund.",
       "Seit ich in Deutschland wohne, lerne ich Deutsch."
     ]
   },
@@ -29402,8 +29367,7 @@
       "plural": "-"
     },
     "examples": [
-      "Mein Neffe studiert im",
-      "Semester Medizin."
+      "Mein Neffe studiert im 7. Semester Medizin."
     ]
   },
   {
@@ -29459,7 +29423,7 @@
       ]
     },
     "examples": [
-      "Bitte senden Sie uns die Unterlagen per E-Mail."
+      "1. Bitte senden Sie uns die Unterlagen per E-Mail."
     ]
   },
   {
@@ -29497,8 +29461,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Wir wiederholen die Sendung am",
-      "Mai.",
+      "Wir wiederholen die Sendung am 11. Mai.",
       "Ich warte auf eine Postsendung."
     ]
   },
@@ -29775,7 +29738,7 @@
       ]
     },
     "examples": [
-      "Ich singe gern."
+      "1. Ich singe gern."
     ]
   },
   {
@@ -29859,7 +29822,7 @@
       ]
     },
     "examples": [
-      "Wo möchten Sie sitzen? - Bitte ganz"
+      "1. Wo möchten Sie sitzen? - Bitte ganz"
     ]
   },
   {
@@ -29916,7 +29879,9 @@
       "Dauert es lange? - Eine Stunde oder so kann es schon dauern.",
       "Ich hatte kein Geld dabei. Da haben sie mich so hineingelassen.",
       "So, jetzt bin ich fertig. Was machen wir jetzt?",
-      "Fahren Sie bitte nicht so schnell! 10.Meine Frau ist so groß wie ich. 11.Was macht ihr denn so?"
+      "Fahren Sie bitte nicht so schnell!",
+      "Meine Frau ist so groß wie ich.",
+      "Was macht ihr denn so?"
     ]
   },
   {
@@ -30039,7 +30004,7 @@
       ]
     },
     "examples": [
-      "Wann soll ich kommen?"
+      "1. Wann soll ich kommen?"
     ]
   },
   {
@@ -30266,7 +30231,7 @@
       ]
     },
     "examples": [
-      "Ein Auto ist mir zu teuer, ich muss"
+      "1. Ein Auto ist mir zu teuer, ich muss"
     ]
   },
   {
@@ -31080,7 +31045,7 @@
       "Als wir kamen, stand das Essen schon auf dem Tisch.",
       "Der Bus steht schon an der Haltestelle.",
       "Was steht heute in der Zeitung?",
-      "Nach 20 Minuten stand das Spiel 1:",
+      "Nach 20 Minuten stand das Spiel 1:1.",
       "Die neue Bluse steht dir gut."
     ]
   },
@@ -31444,8 +31409,7 @@
       ]
     },
     "examples": [
-      "Das Büro ist im",
-      "Stock, Zimmer 305."
+      "Das Büro ist im 3. Stock, Zimmer 305."
     ]
   },
   {
@@ -32539,7 +32503,7 @@
     },
     "examples": [
       "Was steht in dem Brief? Ich habe den ersten Teil nicht verstanden",
-      "Der Film hat zwei Teile. Heute kommt Teil",
+      "Der Film hat zwei Teile. Heute kommt Teil 1.",
       "Gefällt dir der neue Job? - Nur zum Teil."
     ]
   },
@@ -32700,8 +32664,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Als Termin schlage ich den",
-      "Mai vor."
+      "Als Termin schlage ich den 3. Mai vor."
     ]
   },
   {
@@ -34319,7 +34282,7 @@
       "headword": "umsonst"
     },
     "examples": [
-      "Ich musste nichts bezahlen. Die Reparatur war umsonst."
+      "1. Ich musste nichts bezahlen. Die Reparatur war umsonst."
     ]
   },
   {
@@ -34584,9 +34547,7 @@
       "headword": "unten"
     },
     "examples": [
-      "Wir wohnen im",
-      "Stock, meine Eltern unten im",
-      "Stock.",
+      "Wir wohnen im 3. Stock, meine Eltern unten im 1. Stock.",
       "Sie ist mal kurz nach unten gegangen."
     ]
   },
@@ -35243,7 +35204,7 @@
       ]
     },
     "examples": [
-      "Wir müssen die Wunde sofort verbinden."
+      "1. Wir müssen die Wunde sofort verbinden."
     ]
   },
   {
@@ -37540,7 +37501,7 @@
     },
     "examples": [
       "Dieser Weg ist sehr breit und angenehm.",
-      "Wir wohnen im/am Oberweg",
+      "Wir wohnen im/am Oberweg 10.",
       "Können Sie mir den Weg zum Bahnhof erklären?"
     ]
   },
@@ -38496,30 +38457,19 @@
   },
   {
     "id": "wollen",
-    "raw_word": "wollen, will, wollte, hat gewollt",
+    "raw_word": "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)",
     "details": {
       "headword": "wollen",
       "conjugation": [
         "will",
         "wollte",
-        "hat gewollt"
+        "hat gewollt",
+        "hat wollen als Modalverb"
       ]
     },
     "examples": [
       "Peter will Arzt werden.",
       "Wollen Sie einen Kaffee?"
-    ]
-  },
-  {
-    "id": "(hat wollen als; Modalverb)",
-    "raw_word": "(hat wollen als; Modalverb)",
-    "details": {
-      "headword": "(hat wollen als; Modalverb)"
-    },
-    "examples": [
-      "Meine Eltern wollten nicht mitfahren.",
-      "Was hast du als Kind werden wollen?",
-      "Tut mir leid. Ich wollte das nicht."
     ]
   },
   {
@@ -39267,7 +39217,8 @@
       "Bitte zwanzig Briefmarken zu 55 Cent.",
       "Ich trinke zum Essen ein Bier.",
       "Unsere Mannschaft hat 2 zu 1 gewonnen.",
-      "Ich habe vor, mir ein neues Auto zu kaufen. 10.Hast du etwas zu trinken für mich?"
+      "Ich habe vor, mir ein neues Auto zu kaufen.",
+      "Hast du etwas zu trinken für mich?"
     ]
   },
   {
@@ -39640,7 +39591,7 @@
     "examples": [
       "Wir haben als Kinder oft zusammen gespielt.",
       "Zahlen bitte. - Zusammen oder getrennt?",
-      "Das macht zusammen 10 Euro",
+      "Das macht zusammen 10 Euro 80.",
       "Fuß und Ball musst du zusammenschreiben - Fußball!"
     ]
   },
@@ -39753,7 +39704,7 @@
       ]
     },
     "examples": [
-      "Am Sonntag sind die die meisten"
+      "1. Am Sonntag sind die die meisten"
     ]
   },
   {
