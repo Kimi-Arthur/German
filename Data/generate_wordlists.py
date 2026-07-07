@@ -526,6 +526,14 @@ def post_process_entries(entries, pdf_type):
         raw = entry.get("raw_word", "")
         details = entry.get("details", {})
         
+        # Clean up spaces in plural suffixes
+        if "plural" in details and isinstance(details["plural"], str):
+            details["plural"] = re.sub(r'^-\s+([a-zA-Zäöüß]+)$', r'-\1', details["plural"].strip())
+            
+        if raw:
+            entry["raw_word"] = re.sub(r',\s*-\s+([a-zA-Zäöüß]+)\b', r', -\1', raw)
+            raw = entry["raw_word"]
+            
         if pdf_type == "A1":
             # 1. der Ausländer
             if eid == "der Ausländer" and "ausländisch" in raw:
