@@ -676,14 +676,23 @@
   },
   {
     "id": "der Ausländer",
-    "raw_word": "der Ausländer, - ausländisch",
+    "raw_word": "der Ausländer, -",
     "details": {
       "article": "der",
       "headword": "Ausländer",
-      "plural": "- ausländisch"
+      "plural": "-"
     },
     "examples": [
-      "SInd Sie Ausländerin?",
+      "SInd Sie Ausländerin?"
+    ]
+  },
+  {
+    "id": "ausländisch",
+    "raw_word": "ausländisch",
+    "details": {
+      "headword": "ausländisch"
+    },
+    "examples": [
       "Leider habe ich nur ausländisches Geld."
     ]
   },
@@ -1709,9 +1718,7 @@
     "id": "der",
     "raw_word": "der, die, das",
     "details": {
-      "article": "der",
-      "headword": "die",
-      "plural": "das"
+      "headword": "der, die, das"
     },
     "examples": [
       "Ich nehme das da.",
@@ -5215,11 +5222,11 @@
   },
   {
     "id": "der Partner",
-    "raw_word": "der Partner, -/ / die Partnerin, -nen",
+    "raw_word": "der Partner, - / die Partnerin, -nen",
     "details": {
       "article": "der",
       "headword": "Partner",
-      "plural": "-/",
+      "plural": "-",
       "female_form": {
         "id": "die Partnerin",
         "raw_word": "die Partnerin, -nen",
@@ -7377,11 +7384,11 @@
   },
   {
     "id": "das Wort",
-    "raw_word": "das Wort, -ö, er/-e",
+    "raw_word": "das Wort, ¨-er",
     "details": {
       "article": "das",
       "headword": "Wort",
-      "plural": "-ö"
+      "plural": "¨-er"
     },
     "examples": [
       "Ich kenne das Wort nicht."

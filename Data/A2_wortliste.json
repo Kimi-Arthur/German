@@ -2450,11 +2450,11 @@
   },
   {
     "id": "der Chef",
-    "raw_word": "der Chef, -s / / die Chefin,-nen",
+    "raw_word": "der Chef, -s / die Chefin, -nen",
     "details": {
       "article": "der",
       "headword": "Chef",
-      "plural": "-s /",
+      "plural": "-s",
       "female_form": {
         "id": "die Chefin",
         "raw_word": "die Chefin,-nen",
@@ -3669,14 +3669,14 @@
   },
   {
     "id": "die Ermäßigung",
-    "raw_word": "die Ermäßigung,-enFür",
+    "raw_word": "die Ermäßigung, -en",
     "details": {
       "article": "die",
       "headword": "Ermäßigung",
-      "plural": "-enFür"
+      "plural": "-en"
     },
     "examples": [
-      "Schüler, Studenten und Rentner gibt es eine Ermäßigung."
+      "Für Schüler, Studenten und Rentner gibt es eine Ermäßigung."
     ]
   },
   {
@@ -4331,14 +4331,14 @@
   },
   {
     "id": "der Fotoapparat",
-    "raw_word": "der Fotoapparat, -eIch",
+    "raw_word": "der Fotoapparat, -e",
     "details": {
       "article": "der",
       "headword": "Fotoapparat",
-      "plural": "-eIch"
+      "plural": "-e"
     },
     "examples": [
-      "möchte mir einen Fotoapparat kaufen."
+      "Ich möchte mir einen Fotoapparat kaufen."
     ]
   },
   {
@@ -6709,14 +6709,14 @@
   },
   {
     "id": "der Kindergarten",
-    "raw_word": "der Kindergarten,¨-Die",
+    "raw_word": "der Kindergarten, ¨-",
     "details": {
       "article": "der",
       "headword": "Kindergarten",
-      "plural": "¨-Die"
+      "plural": "¨-"
     },
     "examples": [
-      "kleine Laura geht schon in den Kindergarten."
+      "Die kleine Laura geht schon in den Kindergarten."
     ]
   },
   {
@@ -6870,11 +6870,11 @@
   },
   {
     "id": "der Kollege",
-    "raw_word": "der Kollege, -n / / die Kollegin, -nen",
+    "raw_word": "der Kollege, -n / die Kollegin, -nen",
     "details": {
       "article": "der",
       "headword": "Kollege",
-      "plural": "-n /",
+      "plural": "-n",
       "female_form": {
         "id": "die Kollegin",
         "raw_word": "die Kollegin, -nen",
@@ -7225,11 +7225,11 @@
   },
   {
     "id": "der Kunde",
-    "raw_word": "der Kunde, -n / / die Kundin, -nen",
+    "raw_word": "der Kunde, -n / die Kundin, -nen",
     "details": {
       "article": "der",
       "headword": "Kunde",
-      "plural": "-n /",
+      "plural": "-n",
       "female_form": {
         "id": "die Kundin",
         "raw_word": "die Kundin, -nen",
@@ -7949,14 +7949,14 @@
   },
   {
     "id": "die Mannschaft",
-    "raw_word": "die Mannschaft,-enMeine",
+    "raw_word": "die Mannschaft, -en",
     "details": {
       "article": "die",
       "headword": "Mannschaft",
-      "plural": "-enMeine"
+      "plural": "-en"
     },
     "examples": [
-      "Lieblingsmannschaft hat 1:0 verloren."
+      "Meine Lieblingsmannschaft hat 1:0 verloren."
     ]
   },
   {
@@ -8455,11 +8455,11 @@
   },
   {
     "id": "das Museum",
-    "raw_word": "das Museum, -een",
+    "raw_word": "das Museum, Museen",
     "details": {
       "article": "das",
       "headword": "Museum",
-      "plural": "-een"
+      "plural": "Museen"
     },
     "examples": [
       "Im Kunstmuseum gibt es eine neue Ausstellung."
@@ -10055,13 +10055,14 @@
     ]
   },
   {
-    "id": "de Rentner",
-    "raw_word": "de Rentner, -",
+    "id": "der Rentner",
+    "raw_word": "der Rentner, -",
     "details": {
-      "headword": "de Rentner",
+      "headword": "Rentner",
       "conjugation": [
         "-"
-      ]
+      ],
+      "article": "der"
     },
     "examples": [
       "Mein Onkel arbeitet nicht mehr. Er ist Rentner."
@@ -10922,11 +10923,11 @@
   },
   {
     "id": "der Schüler",
-    "raw_word": "der Schüler, - / / die Schülerin, -nen",
+    "raw_word": "der Schüler, - / die Schülerin, -nen",
     "details": {
       "article": "der",
       "headword": "Schüler",
-      "plural": "- /",
+      "plural": "-",
       "female_form": {
         "id": "die Schülerin",
         "raw_word": "die Schülerin, -nen",
@@ -11984,14 +11985,14 @@
   },
   {
     "id": "der Supermarkt",
-    "raw_word": "der Supermarkt, ¨-eIch",
+    "raw_word": "der Supermarkt, ¨-e",
     "details": {
       "article": "der",
       "headword": "Supermarkt",
-      "plural": "¨-eIch"
+      "plural": "¨-e"
     },
     "examples": [
-      "kaufe oft im Supermarkt ein."
+      "Ich kaufe oft im Supermarkt ein."
     ]
   },
   {
@@ -13327,11 +13328,11 @@
   },
   {
     "id": "der Vermieter",
-    "raw_word": "der Vermieter, - / / die Vermieterin, -nen",
+    "raw_word": "der Vermieter, - / die Vermieterin, -nen",
     "details": {
       "article": "der",
       "headword": "Vermieter",
-      "plural": "- /",
+      "plural": "-",
       "female_form": {
         "id": "die Vermieterin",
         "raw_word": "die Vermieterin, -nen",
@@ -14180,14 +14181,14 @@
   },
   {
     "id": "der Wettbewerb",
-    "raw_word": "der Wettbewerb, -eMein",
+    "raw_word": "der Wettbewerb, -e",
     "details": {
       "article": "der",
       "headword": "Wettbewerb",
-      "plural": "-eMein"
+      "plural": "-e"
     },
     "examples": [
-      "Sohn hat bei einem Wettbewerb gewonnen."
+      "Mein Sohn hat bei einem Wettbewerb gewonnen."
     ]
   },
   {

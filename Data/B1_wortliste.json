@@ -5760,14 +5760,28 @@
   },
   {
     "id": "der Braten",
-    "raw_word": "der Braten, - brauchen, braucht, brauchte, hat gebraucht",
+    "raw_word": "der Braten, -",
     "details": {
       "article": "der",
       "headword": "Braten",
-      "plural": "- brauchen"
+      "plural": "-"
     },
     "examples": [
-      "Nehmen Sie noch etwas Soße zum Braten?",
+      "Nehmen Sie noch etwas Soße zum Braten?"
+    ]
+  },
+  {
+    "id": "brauchen",
+    "raw_word": "brauchen, braucht, brauchte, hat gebraucht",
+    "details": {
+      "headword": "brauchen",
+      "conjugation": [
+        "braucht",
+        "brauchte",
+        "hat gebraucht"
+      ]
+    },
+    "examples": [
       "Ich brauche ein Auto.",
       "Brauchst du die Zeitung noch?",
       "Meine Großmutter ist krank. Sie braucht viel Ruhe.",
@@ -7227,11 +7241,14 @@
   },
   {
     "id": "die Diskothek",
-    "raw_word": "die Diskothek, -en/Disko, -s",
+    "raw_word": "die Diskothek, -en/die Disko, -s",
     "details": {
       "article": "die",
       "headword": "Diskothek",
-      "plural": "-en/Disko"
+      "plural": "-en/-s",
+      "variants": [
+        "Disko"
+      ]
     },
     "examples": [
       "Wir gehen heute Abend in die Disko(thek)."
@@ -17015,11 +17032,11 @@
   },
   {
     "id": "die Jugendliche",
-    "raw_word": "die Jugendliche, -nen",
+    "raw_word": "die Jugendliche, -n",
     "details": {
       "article": "die",
       "headword": "Jugendliche",
-      "plural": "-nen"
+      "plural": "-n"
     },
     "examples": [
       "Disko.",
@@ -19467,11 +19484,11 @@
     ]
   },
   {
-    "id": "die Kursleiter",
-    "raw_word": "die Kursleiter, -nen",
+    "id": "die Kursleiterin",
+    "raw_word": "die Kursleiterin, -nen",
     "details": {
       "article": "die",
-      "headword": "Kursleiter",
+      "headword": "Kursleiterin",
       "plural": "-nen"
     },
     "examples": [
@@ -20437,11 +20454,11 @@
   },
   {
     "id": "das Lexikon",
-    "raw_word": "das Lexikon, -Lexika",
+    "raw_word": "das Lexikon, Lexika",
     "details": {
       "article": "das",
       "headword": "Lexikon",
-      "plural": "-Lexika"
+      "plural": "Lexika"
     },
     "examples": [
       "Wir könnten im Lexikon nachsehen."
@@ -30395,14 +30412,23 @@
   },
   {
     "id": "der Speisewagen",
-    "raw_word": "der Speisewagen, -; Spezial-",
+    "raw_word": "der Speisewagen, -",
     "details": {
       "article": "der",
       "headword": "Speisewagen",
-      "plural": "-; Spezial-"
+      "plural": "-"
     },
     "examples": [
-      "Wo ist der Speisewagen?",
+      "Wo ist der Speisewagen?"
+    ]
+  },
+  {
+    "id": "Spezial-",
+    "raw_word": "Spezial-",
+    "details": {
+      "headword": "Spezial-"
+    },
+    "examples": [
       "Ich brauche eine Spezialpflege für trockenes Haar."
     ]
   },
@@ -38296,11 +38322,20 @@
   },
   {
     "id": "der Wissenschaftler",
-    "raw_word": "der Wissenschaftler, - die Wissenschaftlerin,-nen",
+    "raw_word": "der Wissenschaftler, - / die Wissenschaftlerin, -nen",
     "details": {
       "article": "der",
       "headword": "Wissenschaftler",
-      "plural": "- die Wissenschaftlerin"
+      "plural": "-",
+      "female_form": {
+        "id": "die Wissenschaftlerin",
+        "raw_word": "die Wissenschaftlerin, -nen",
+        "details": {
+          "article": "die",
+          "headword": "Wissenschaftlerin",
+          "plural": "-nen"
+        }
+      }
     },
     "examples": [
       "Sie ist Wissenschaftlerin an der Universität."
