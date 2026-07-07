@@ -550,6 +550,45 @@ def deep_replace_dashes(obj):
     return obj
 
 def post_process_entries(entries, pdf_type):
+    # 1. Merge parenthesized combinations in A2
+    if pdf_type == "A2":
+        merged = []
+        i = 0
+        while i < len(entries):
+            entry = entries[i]
+            eid = entry.get("id")
+            if eid == "der Bescheid" and i + 1 < len(entries) and entries[i+1].get("id") == "(bekommen/ geben/sagen)":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "der Bescheid (bekommen / geben / sagen)"
+                entry["details"]["verbs"] = ["bekommen", "geben", "sagen"]
+                if entry.get("examples") and next_entry.get("examples"):
+                    combined_ex = entry["examples"][0] + " " + next_entry["examples"][0]
+                    combined_ex = re.sub(r'\s+', ' ', combined_ex).strip()
+                    entry["examples"] = [combined_ex] + next_entry["examples"][1:]
+                merged.append(entry)
+                i += 2
+            elif eid == "der Vorschlag" and i + 1 < len(entries) and entries[i+1].get("id") == "(haben/machen)":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "der Vorschlag, ¨-e (haben / machen)"
+                entry["details"]["verbs"] = ["haben", "machen"]
+                if entry.get("examples") and next_entry.get("examples"):
+                    combined_ex = entry["examples"][0] + " " + next_entry["examples"][0]
+                    combined_ex = re.sub(r'\s+', ' ', combined_ex).strip()
+                    entry["examples"] = [combined_ex] + next_entry["examples"][1:]
+                merged.append(entry)
+                i += 2
+            elif eid == "weiter" and i + 1 < len(entries) and entries[i+1].get("id") == "(z. B. weitermachen/-helfen)":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "weiter (z. B. weitermachen / weiterhelfen)"
+                entry["details"]["combinations"] = ["weitermachen", "weiterhelfen"]
+                entry["examples"] = (entry.get("examples", []) or []) + (next_entry.get("examples", []) or [])
+                merged.append(entry)
+                i += 2
+            else:
+                merged.append(entry)
+                i += 1
+        entries = merged
+
     entries = [deep_replace_dashes(e) for e in entries]
     processed = []
     for entry in entries:
