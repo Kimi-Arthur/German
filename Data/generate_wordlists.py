@@ -174,6 +174,7 @@ def parse_word_details(raw_word):
     }
     
     work_str = raw_word.strip()
+    work_str = re.sub(r'\s+-\s+die\b', ' / die', work_str)
     
     # 1. Extract regional usage in parentheses first (allowing corrupted digits/periods inside)
     region_match = re.search(r'\s*\(([A-Z\d\s,.]+)\)', work_str)
@@ -549,6 +550,45 @@ def deep_replace_dashes(obj):
         return {deep_replace_dashes(k): deep_replace_dashes(v) for k, v in obj.items()}
     return obj
 
+def apply_general_rules(entry):
+    raw = entry.get("raw_word", "")
+    details = entry.get("details", {})
+    
+    # 1. Fix capitalized word of example sentence concatenated to plural suffix
+    if "plural" in details and isinstance(details["plural"], str):
+        plural_val = details["plural"].strip()
+        match = re.match(r'^([¨-]+[a-zäöüß]*)([A-Z][a-zäöüß]+)$', plural_val)
+        if match:
+            real_suffix = match.group(1)
+            concat_word = match.group(2)
+            details["plural"] = real_suffix
+            if raw:
+                corrected_raw = raw.replace(plural_val, real_suffix)
+                corrected_raw = re.sub(r',([^\s])', r', \1', corrected_raw)
+                entry["raw_word"] = corrected_raw
+                raw = corrected_raw
+            if entry.get("examples"):
+                first_ex = entry["examples"][0]
+                if not first_ex.startswith(concat_word):
+                    entry["examples"][0] = f"{concat_word} {first_ex}"
+
+    # 2. Clean up trailing slashes in plural suffix and raw word double slashes
+    if "plural" in details and isinstance(details["plural"], str):
+        if details["plural"].endswith(("/", "/ ")):
+            details["plural"] = details["plural"].rstrip("/ ").strip()
+    if raw and ("//" in raw or "/ /" in raw):
+        entry["raw_word"] = re.sub(r'\s*\/\s*\/', ' /', raw)
+        raw = entry["raw_word"]
+        
+    # 3. Clean up spaces in plural suffixes (e.g. - s -> -s)
+    if "plural" in details and isinstance(details["plural"], str):
+        details["plural"] = re.sub(r'^-\s+([a-zA-Zäöüß]+)$', r'-\1', details["plural"].strip())
+        
+    if raw:
+        entry["raw_word"] = re.sub(r',\s*-\s+([a-zA-Zäöüß]+)\b', r', -\1', raw)
+        
+    return entry
+
 def post_process_entries(entries, pdf_type):
     # 1. Merge parenthesized combinations in A2
     if pdf_type == "A2":
@@ -596,16 +636,8 @@ def post_process_entries(entries, pdf_type):
         raw = entry.get("raw_word", "")
         details = entry.get("details", {})
         
-        # Clean up spaces in plural suffixes
-        if "plural" in details and isinstance(details["plural"], str):
-            details["plural"] = re.sub(r'^-\s+([a-zA-Zäöüß]+)$', r'-\1', details["plural"].strip())
-            
-        if raw:
-            entry["raw_word"] = re.sub(r',\s*-\s+([a-zA-Zäöüß]+)\b', r', -\1', raw)
-            raw = entry["raw_word"]
-            
         if pdf_type == "A1":
-            # 1. der Ausländer
+            # 1. Split distinct noun and adjective entries that were run together on the same line in the PDF.
             if eid == "der Ausländer" and "ausländisch" in raw:
                 processed.append({
                     "id": "der Ausländer",
@@ -625,84 +657,38 @@ def post_process_entries(entries, pdf_type):
                     },
                     "examples": ["Leider habe ich nur ausländisches Geld."]
                 })
-            # 2. der, die, das
+            # 2. Prevent parser from splitting articles list entry into "der" and "die, das".
             elif eid == "der" and raw == "der, die, das":
                 entry["details"] = {
                     "headword": "der, die, das"
                 }
                 processed.append(entry)
-            # 3. der Partner
-            elif eid == "der Partner":
-                entry["raw_word"] = "der Partner, - / die Partnerin, -nen"
-                entry["details"]["plural"] = "-"
-                processed.append(entry)
-            # 4. das Wort
+            # 3. Clean up severely corrupt plural OCR marker ("-ö, er/-e") for "das Wort".
             elif eid == "das Wort":
                 entry["raw_word"] = "das Wort, ¨-er"
                 entry["details"]["plural"] = "¨-er"
                 processed.append(entry)
             else:
-                processed.append(entry)
+                processed.append(apply_general_rules(entry))
                 
         elif pdf_type == "A2":
-            # 1. Ermäßigung
-            if eid == "die Ermäßigung":
-                entry["raw_word"] = "die Ermäßigung, -en"
-                entry["details"]["plural"] = "-en"
-                entry["examples"] = ["Für Schüler, Studenten und Rentner gibt es eine Ermäßigung."]
-                processed.append(entry)
-            # 2. Fotoapparat
-            elif eid == "der Fotoapparat":
-                entry["raw_word"] = "der Fotoapparat, -e"
-                entry["details"]["plural"] = "-e"
-                entry["examples"] = ["Ich möchte mir einen Fotoapparat kaufen."]
-                processed.append(entry)
-            # 3. Kindergarten
-            elif eid == "der Kindergarten":
-                entry["raw_word"] = "der Kindergarten, ¨-"
-                entry["details"]["plural"] = "¨-"
-                entry["examples"] = ["Die kleine Laura geht schon in den Kindergarten."]
-                processed.append(entry)
-            # 4. Mannschaft
-            elif eid == "die Mannschaft":
-                entry["raw_word"] = "die Mannschaft, -en"
-                entry["details"]["plural"] = "-en"
-                entry["examples"] = ["Meine Lieblingsmannschaft hat 1:0 verloren."]
-                processed.append(entry)
-            # 5. Museum
-            elif eid == "das Museum":
+            # 1. Clean up irregular plural "Museen" which was parsed as a corrupt suffix "-een".
+            if eid == "das Museum":
                 entry["raw_word"] = "das Museum, Museen"
                 entry["details"]["plural"] = "Museen"
                 processed.append(entry)
-            # 6. Supermarkt
-            elif eid == "der Supermarkt":
-                entry["raw_word"] = "der Supermarkt, ¨-e"
-                entry["details"]["plural"] = "¨-e"
-                entry["examples"] = ["Ich kaufe oft im Supermarkt ein."]
-                processed.append(entry)
-            # 7. Wettbewerb
-            elif eid == "der Wettbewerb":
-                entry["raw_word"] = "der Wettbewerb, -e"
-                entry["details"]["plural"] = "-e"
-                entry["examples"] = ["Mein Sohn hat bei einem Wettbewerb gewonnen."]
-                processed.append(entry)
-            # 8. de Rentner
+            # 2. Correct OCR typo in the masculine article ("de" instead of "der").
             elif eid == "de Rentner":
                 entry["id"] = "der Rentner"
                 entry["raw_word"] = "der Rentner, -"
                 entry["details"]["article"] = "der"
                 entry["details"]["headword"] = "Rentner"
                 processed.append(entry)
-            # 9. Nouns with trailing slash in plural (Chef, Kollege, Kunde, Schüler, Vermieter)
-            elif eid in ["der Chef", "der Kollege", "der Kunde", "der Schüler", "der Vermieter"] and "plural" in details and details["plural"].endswith(("/", "/ ")):
-                details["plural"] = details["plural"].rstrip("/ ").strip()
-                entry["raw_word"] = re.sub(r'\s*\/\s*\/', ' /', raw)
-                processed.append(entry)
             else:
-                processed.append(entry)
+                processed.append(apply_general_rules(entry))
                 
         elif pdf_type == "B1":
-            # 1. der Braten
+            # 1. Split distinct noun and verb entries that were run together on the same line in the PDF.
             if eid == "der Braten" and "brauchen" in raw:
                 processed.append({
                     "id": "der Braten",
@@ -729,7 +715,7 @@ def post_process_entries(entries, pdf_type):
                         "Sie brauchen morgen nicht zu kommen. Ich schaffe das alleine."
                     ]
                 })
-            # 2. die Diskothek
+            # 2. Extract "Disko" as a variant from complex formatting ("-en/die Disko, -s").
             elif eid == "die Diskothek":
                 entry["raw_word"] = "die Diskothek, -en/die Disko, -s"
                 entry["details"] = {
@@ -739,7 +725,7 @@ def post_process_entries(entries, pdf_type):
                     "variants": ["Disko"]
                 }
                 processed.append(entry)
-            # 3. der Speisewagen
+            # 3. Split distinct noun and prefix entries that were run together on the same line in the PDF.
             elif eid == "der Speisewagen" and "Spezial" in raw:
                 processed.append({
                     "id": "der Speisewagen",
@@ -759,41 +745,23 @@ def post_process_entries(entries, pdf_type):
                     },
                     "examples": ["Ich brauche eine Spezialpflege für trockenes Haar."]
                 })
-            # 4. der Wissenschaftler"
-            elif eid == "der Wissenschaftler" and "Wissenschaftlerin" in raw:
-                entry["raw_word"] = "der Wissenschaftler, - / die Wissenschaftlerin, -nen"
-                entry["details"] = {
-                    "article": "der",
-                    "headword": "Wissenschaftler",
-                    "plural": "-",
-                    "female_form": {
-                        "id": "die Wissenschaftlerin",
-                        "raw_word": "die Wissenschaftlerin, -nen",
-                        "details": {
-                            "article": "die",
-                            "headword": "Wissenschaftlerin",
-                            "plural": "-nen"
-                        }
-                    }
-                }
-                processed.append(entry)
-            # 5. die Kursleiter
+            # 4. Correct headword typo "Kursleiter" to "Kursleiterin" for this feminine noun entry.
             elif eid == "die Kursleiter":
                 entry["id"] = "die Kursleiterin"
                 entry["raw_word"] = "die Kursleiterin, -nen"
                 entry["details"]["headword"] = "Kursleiterin"
                 processed.append(entry)
-            # 6. die Jugendliche
+            # 5. Fix typesetting/plural suffix typo "-nen" to "-n" for "die Jugendliche".
             elif eid == "die Jugendliche":
                 entry["raw_word"] = "die Jugendliche, -n"
                 entry["details"]["plural"] = "-n"
                 processed.append(entry)
-            # 7. das Lexikon
+            # 6. Normalize leading-hyphen whole-word plural "-Lexika" to "Lexika".
             elif eid == "das Lexikon":
                 entry["raw_word"] = "das Lexikon, Lexika"
                 entry["details"]["plural"] = "Lexika"
                 processed.append(entry)
-            # 8. oft (öfter is comparative)
+            # 7. Map "öfter" as the comparative form of "oft" instead of a variant.
             elif eid == "oft":
                 if "variants" in details and "öfter" in details["variants"]:
                     details["variants"].remove("öfter")
@@ -802,9 +770,9 @@ def post_process_entries(entries, pdf_type):
                 entry["details"]["comparative"] = "öfter"
                 processed.append(entry)
             else:
-                processed.append(entry)
+                processed.append(apply_general_rules(entry))
         else:
-            processed.append(entry)
+            processed.append(apply_general_rules(entry))
             
     return processed
 
