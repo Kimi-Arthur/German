@@ -408,7 +408,7 @@
   },
   {
     "id": "die Anmeldung",
-    "raw_word": "die Anmeldung,-en",
+    "raw_word": "die Anmeldung, -en",
     "details": {
       "article": "die",
       "headword": "Anmeldung",
@@ -834,7 +834,7 @@
   },
   {
     "id": "die Ausbildung",
-    "raw_word": "die Ausbildung,-en",
+    "raw_word": "die Ausbildung, -en",
     "details": {
       "article": "die",
       "headword": "Ausbildung",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": "die Ausstellung",
-    "raw_word": "die Ausstellung,-en",
+    "raw_word": "die Ausstellung, -en",
     "details": {
       "article": "die",
       "headword": "Ausstellung",
@@ -2457,7 +2457,7 @@
       "plural": "-s",
       "female_form": {
         "id": "die Chefin",
-        "raw_word": "die Chefin,-nen",
+        "raw_word": "die Chefin, -nen",
         "details": {
           "article": "die",
           "headword": "Chefin",
@@ -3560,7 +3560,7 @@
   },
   {
     "id": "das Erdgeschoss",
-    "raw_word": "das Erdgeschoss,-e",
+    "raw_word": "das Erdgeschoss, -e",
     "details": {
       "article": "das",
       "headword": "Erdgeschoss",
@@ -3707,7 +3707,7 @@
   },
   {
     "id": "der Erwachsene",
-    "raw_word": "der Erwachsene,-n",
+    "raw_word": "der Erwachsene, -n",
     "details": {
       "article": "der",
       "headword": "Erwachsene",
@@ -6174,7 +6174,7 @@
   },
   {
     "id": "die Information",
-    "raw_word": "die Information,-en",
+    "raw_word": "die Information, -en",
     "details": {
       "article": "die",
       "headword": "Information",
@@ -7998,7 +7998,7 @@
   },
   {
     "id": "das Medikament",
-    "raw_word": "das Medikament,-e",
+    "raw_word": "das Medikament, -e",
     "details": {
       "article": "das",
       "headword": "Medikament",
@@ -8519,14 +8519,14 @@
   },
   {
     "id": "der Nachbar",
-    "raw_word": "der Nachbar, -n, / die Nachbarin,-nen",
+    "raw_word": "der Nachbar, -n, / die Nachbarin, -nen",
     "details": {
       "article": "der",
       "headword": "Nachbar",
       "plural": "-n",
       "female_form": {
         "id": "die Nachbarin",
-        "raw_word": "die Nachbarin,-nen",
+        "raw_word": "die Nachbarin, -nen",
         "details": {
           "article": "die",
           "headword": "Nachbarin",
@@ -13062,7 +13062,7 @@
   },
   {
     "id": "die Unterschrift",
-    "raw_word": "die Unterschrift,-en",
+    "raw_word": "die Unterschrift, -en",
     "details": {
       "article": "die",
       "headword": "Unterschrift",
@@ -13403,7 +13403,7 @@
   },
   {
     "id": "die Verspätung",
-    "raw_word": "die Verspätung,-en",
+    "raw_word": "die Verspätung, -en",
     "details": {
       "article": "die",
       "headword": "Verspätung",

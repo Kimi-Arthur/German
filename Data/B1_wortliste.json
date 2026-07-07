@@ -1109,7 +1109,7 @@
   },
   {
     "id": "die Angabe",
-    "raw_word": "die Angabe,-n",
+    "raw_word": "die Angabe, -n",
     "details": {
       "article": "die",
       "headword": "Angabe",
@@ -5910,7 +5910,7 @@
   },
   {
     "id": "der Briefträger",
-    "raw_word": "der Briefträger, →CH:die Briefträgerin,-nen; Pöstler",
+    "raw_word": "der Briefträger, →CH:die Briefträgerin, -nen; Pöstler",
     "details": {
       "article": "der",
       "headword": "Briefträger",
@@ -5924,7 +5924,7 @@
       ],
       "female_form": {
         "id": "die Briefträgerin",
-        "raw_word": "die Briefträgerin,-nen",
+        "raw_word": "die Briefträgerin, -nen",
         "details": {
           "article": "die",
           "headword": "Briefträgerin",
@@ -33953,7 +33953,7 @@
   },
   {
     "id": "die Überraschung",
-    "raw_word": "die Überraschung,-en",
+    "raw_word": "die Überraschung, -en",
     "details": {
       "article": "die",
       "headword": "Überraschung",

@@ -321,12 +321,14 @@ def parse_column_words(column_words, word_max_x, pdf_type):
         
         word_str = " ".join([w['text'] for w in word_part]).strip()
         word_str = re.sub(r'\s*\d+\.$', '', word_str).strip()
+        word_str = clean_word_spaces(word_str)
         example_str = " ".join([w['text'] for w in example_part]).strip()
         
         gap = (t - prev_top) if prev_top is not None else 0
         prev_top = t
         
         is_new_entry = False
+        is_new_entry_start = False
         if word_str:
             if not current_word:
                 is_new_entry = True
@@ -389,7 +391,18 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                     is_article = bool(re.match(r'^((?:der|die|das)(?:\/(?:der|die|das))*)$', prev_word_str.strip(), re.IGNORECASE))
                     is_reference = "→" in prev_word_str and (prev_word_str.endswith("→") or prev_word_str.endswith(":") or prev_word_str.endswith(";"))
                     
+                    is_new_entry_start = False
+                    if prev_word_str.endswith(" -") or prev_word_str.endswith(", -") or prev_word_str.endswith(",-"):
+                        next_word_clean = word_str.strip()
+                        starts_with_fem_article = next_word_clean.lower().startswith("die ")
+                        first_word = next_word_clean.split()[0] if next_word_clean.split() else ""
+                        is_short_suffix = len(first_word) <= 3 or first_word.startswith(("-", "¨-"))
+                        if not starts_with_fem_article and not is_short_suffix:
+                            is_new_entry_start = True
+                            
                     if is_prefix_entry:
+                        is_continuation = False
+                    elif is_new_entry_start:
                         is_continuation = False
                     elif is_article:
                         is_continuation = True
@@ -494,10 +507,226 @@ def parse_pdf_wordlist(filepath, start_page, end_page, pdf_type):
                 
     return all_entries
 
+def deep_replace_dashes(obj):
+    if isinstance(obj, str):
+        obj = obj.replace('\u2013', '-').replace('\u2212', '-')
+        obj = re.sub(r',-([a-zA-Z])', r', -\1', obj)
+        return obj
+    elif isinstance(obj, list):
+        return [deep_replace_dashes(item) for item in obj]
+    elif isinstance(obj, dict):
+        return {deep_replace_dashes(k): deep_replace_dashes(v) for k, v in obj.items()}
+    return obj
+
+def post_process_entries(entries, pdf_type):
+    entries = [deep_replace_dashes(e) for e in entries]
+    processed = []
+    for entry in entries:
+        eid = entry.get("id")
+        raw = entry.get("raw_word", "")
+        details = entry.get("details", {})
+        
+        if pdf_type == "A1":
+            # 1. der Ausländer
+            if eid == "der Ausländer" and "ausländisch" in raw:
+                processed.append({
+                    "id": "der Ausländer",
+                    "raw_word": "der Ausländer, -",
+                    "details": {
+                        "article": "der",
+                        "headword": "Ausländer",
+                        "plural": "-"
+                    },
+                    "examples": ["SInd Sie Ausländerin?"]
+                })
+                processed.append({
+                    "id": "ausländisch",
+                    "raw_word": "ausländisch",
+                    "details": {
+                        "headword": "ausländisch"
+                    },
+                    "examples": ["Leider habe ich nur ausländisches Geld."]
+                })
+            # 2. der, die, das
+            elif eid == "der" and raw == "der, die, das":
+                entry["details"] = {
+                    "headword": "der, die, das"
+                }
+                processed.append(entry)
+            # 3. der Partner
+            elif eid == "der Partner":
+                entry["raw_word"] = "der Partner, - / die Partnerin, -nen"
+                entry["details"]["plural"] = "-"
+                processed.append(entry)
+            # 4. das Wort
+            elif eid == "das Wort":
+                entry["raw_word"] = "das Wort, ¨-er"
+                entry["details"]["plural"] = "¨-er"
+                processed.append(entry)
+            else:
+                processed.append(entry)
+                
+        elif pdf_type == "A2":
+            # 1. Ermäßigung
+            if eid == "die Ermäßigung":
+                entry["raw_word"] = "die Ermäßigung, -en"
+                entry["details"]["plural"] = "-en"
+                entry["examples"] = ["Für Schüler, Studenten und Rentner gibt es eine Ermäßigung."]
+                processed.append(entry)
+            # 2. Fotoapparat
+            elif eid == "der Fotoapparat":
+                entry["raw_word"] = "der Fotoapparat, -e"
+                entry["details"]["plural"] = "-e"
+                entry["examples"] = ["Ich möchte mir einen Fotoapparat kaufen."]
+                processed.append(entry)
+            # 3. Kindergarten
+            elif eid == "der Kindergarten":
+                entry["raw_word"] = "der Kindergarten, ¨-"
+                entry["details"]["plural"] = "¨-"
+                entry["examples"] = ["Die kleine Laura geht schon in den Kindergarten."]
+                processed.append(entry)
+            # 4. Mannschaft
+            elif eid == "die Mannschaft":
+                entry["raw_word"] = "die Mannschaft, -en"
+                entry["details"]["plural"] = "-en"
+                entry["examples"] = ["Meine Lieblingsmannschaft hat 1:0 verloren."]
+                processed.append(entry)
+            # 5. Museum
+            elif eid == "das Museum":
+                entry["raw_word"] = "das Museum, Museen"
+                entry["details"]["plural"] = "Museen"
+                processed.append(entry)
+            # 6. Supermarkt
+            elif eid == "der Supermarkt":
+                entry["raw_word"] = "der Supermarkt, ¨-e"
+                entry["details"]["plural"] = "¨-e"
+                entry["examples"] = ["Ich kaufe oft im Supermarkt ein."]
+                processed.append(entry)
+            # 7. Wettbewerb
+            elif eid == "der Wettbewerb":
+                entry["raw_word"] = "der Wettbewerb, -e"
+                entry["details"]["plural"] = "-e"
+                entry["examples"] = ["Mein Sohn hat bei einem Wettbewerb gewonnen."]
+                processed.append(entry)
+            # 8. de Rentner
+            elif eid == "de Rentner":
+                entry["id"] = "der Rentner"
+                entry["raw_word"] = "der Rentner, -"
+                entry["details"]["article"] = "der"
+                entry["details"]["headword"] = "Rentner"
+                processed.append(entry)
+            # 9. Nouns with trailing slash in plural (Chef, Kollege, Kunde, Schüler, Vermieter)
+            elif eid in ["der Chef", "der Kollege", "der Kunde", "der Schüler", "der Vermieter"] and "plural" in details and details["plural"].endswith(("/", "/ ")):
+                details["plural"] = details["plural"].rstrip("/ ").strip()
+                entry["raw_word"] = re.sub(r'\s*\/\s*\/', ' /', raw)
+                processed.append(entry)
+            else:
+                processed.append(entry)
+                
+        elif pdf_type == "B1":
+            # 1. der Braten
+            if eid == "der Braten" and "brauchen" in raw:
+                processed.append({
+                    "id": "der Braten",
+                    "raw_word": "der Braten, -",
+                    "details": {
+                        "article": "der",
+                        "headword": "Braten",
+                        "plural": "-"
+                    },
+                    "examples": ["Nehmen Sie noch etwas Soße zum Braten?"]
+                })
+                processed.append({
+                    "id": "brauchen",
+                    "raw_word": "brauchen, braucht, brauchte, hat gebraucht",
+                    "details": {
+                        "headword": "brauchen",
+                        "conjugation": ["braucht", "brauchte", "hat gebraucht"]
+                    },
+                    "examples": [
+                        "Ich brauche ein Auto.",
+                        "Brauchst du die Zeitung noch?",
+                        "Meine Großmutter ist krank. Sie braucht viel Ruhe.",
+                        "Ich habe für die Renovierung eine Woche gebraucht.",
+                        "Sie brauchen morgen nicht zu kommen. Ich schaffe das alleine."
+                    ]
+                })
+            # 2. die Diskothek
+            elif eid == "die Diskothek":
+                entry["raw_word"] = "die Diskothek, -en/die Disko, -s"
+                entry["details"] = {
+                    "article": "die",
+                    "headword": "Diskothek",
+                    "plural": "-en/-s",
+                    "variants": ["Disko"]
+                }
+                processed.append(entry)
+            # 3. der Speisewagen
+            elif eid == "der Speisewagen" and "Spezial" in raw:
+                processed.append({
+                    "id": "der Speisewagen",
+                    "raw_word": "der Speisewagen, -",
+                    "details": {
+                        "article": "der",
+                        "headword": "Speisewagen",
+                        "plural": "-"
+                    },
+                    "examples": ["Wo ist der Speisewagen?"]
+                })
+                processed.append({
+                    "id": "Spezial-",
+                    "raw_word": "Spezial-",
+                    "details": {
+                        "headword": "Spezial-"
+                    },
+                    "examples": ["Ich brauche eine Spezialpflege für trockenes Haar."]
+                })
+            # 4. der Wissenschaftler"
+            elif eid == "der Wissenschaftler" and "Wissenschaftlerin" in raw:
+                entry["raw_word"] = "der Wissenschaftler, - / die Wissenschaftlerin, -nen"
+                entry["details"] = {
+                    "article": "der",
+                    "headword": "Wissenschaftler",
+                    "plural": "-",
+                    "female_form": {
+                        "id": "die Wissenschaftlerin",
+                        "raw_word": "die Wissenschaftlerin, -nen",
+                        "details": {
+                            "article": "die",
+                            "headword": "Wissenschaftlerin",
+                            "plural": "-nen"
+                        }
+                    }
+                }
+                processed.append(entry)
+            # 5. die Kursleiter
+            elif eid == "die Kursleiter":
+                entry["id"] = "die Kursleiterin"
+                entry["raw_word"] = "die Kursleiterin, -nen"
+                entry["details"]["headword"] = "Kursleiterin"
+                processed.append(entry)
+            # 6. die Jugendliche
+            elif eid == "die Jugendliche":
+                entry["raw_word"] = "die Jugendliche, -n"
+                entry["details"]["plural"] = "-n"
+                processed.append(entry)
+            # 7. das Lexikon
+            elif eid == "das Lexikon":
+                entry["raw_word"] = "das Lexikon, Lexika"
+                entry["details"]["plural"] = "Lexika"
+                processed.append(entry)
+            else:
+                processed.append(entry)
+        else:
+            processed.append(entry)
+            
+    return processed
+
 def main():
     # A1 list
     a1_entries = parse_pdf_wordlist("../Books/A1_SD1_Wortliste_02.pdf", 9, 27, "A1")
     a1_clean = [clean_entry_dict(e) for e in a1_entries]
+    a1_clean = post_process_entries(a1_clean, "A1")
     with open("A1_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(a1_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(a1_clean)} A1 entries to A1_wortliste.json")
@@ -505,6 +734,7 @@ def main():
     # A2 list
     a2_entries = parse_pdf_wordlist("../Books/Goethe-Zertifikat_A2_Wortliste.pdf", 8, 31, "A2")
     a2_clean = [clean_entry_dict(e) for e in a2_entries]
+    a2_clean = post_process_entries(a2_clean, "A2")
     with open("A2_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(a2_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(a2_clean)} A2 entries to A2_wortliste.json")
@@ -512,6 +742,7 @@ def main():
     # B1 list
     b1_entries = parse_pdf_wordlist("../Books/Goethe-Zertifikat_B1_Wortliste.pdf", 16, 102, "B1")
     b1_clean = [clean_entry_dict(e) for e in b1_entries]
+    b1_clean = post_process_entries(b1_clean, "B1")
     with open("B1_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(b1_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(b1_clean)} B1 entries to B1_wortliste.json")
