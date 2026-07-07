@@ -271,7 +271,7 @@
       "headword": "ander-"
     },
     "examples": [
-      "Willst du diesen Mantel? – Nein, ich möchte den anderen.",
+      "Willst du diesen Mantel? - Nein, ich möchte den anderen.",
       "Die anderen sind schon nach Hause gegangen.",
       "Bitte nicht alle auf einmal! Einer nach dem anderen."
     ]
@@ -1052,7 +1052,7 @@
       ]
     },
     "examples": [
-      "Wo müssen wir aussteigen? –An der nächsten Haltestelle."
+      "Wo müssen wir aussteigen? -An der nächsten Haltestelle."
     ]
   },
   {
@@ -1090,7 +1090,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Darf ich bitte mal Ihren Ausweis sehen? –Hier ist mein Ausweis."
+      "Darf ich bitte mal Ihren Ausweis sehen? -Hier ist mein Ausweis."
     ]
   },
   {
@@ -2528,7 +2528,7 @@
     },
     "examples": [
       "Ich suche eine Creme für die Hände.",
-      "Der Kuchen schmeckt super! Was ist in der Creme? –Das ist eine Buttercreme mit viel Schokolade."
+      "Der Kuchen schmeckt super! Was ist in der Creme? -Das ist eine Buttercreme mit viel Schokolade."
     ]
   },
   {
@@ -3136,7 +3136,7 @@
     },
     "examples": [
       "Das ist mir egal.",
-      "Willst du Tee oder Kaffee trinken? –Egal."
+      "Willst du Tee oder Kaffee trinken? -Egal."
     ]
   },
   {
@@ -3221,7 +3221,7 @@
     "examples": [
       "Die Prüfung ist ganz einfach.",
       "Ich verstehe das nicht. Kannst du es bitte einfacher sagen?",
-      "Hin und zurück? – Nein, bitte nur eine einfache Fahrt nach Berlin."
+      "Hin und zurück? - Nein, bitte nur eine einfache Fahrt nach Berlin."
     ]
   },
   {
@@ -3449,11 +3449,11 @@
   },
   {
     "id": "der Empfänger",
-    "raw_word": "der Empfänger, –",
+    "raw_word": "der Empfänger, -",
     "details": {
       "article": "der",
       "headword": "Empfänger",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Auf dem Brief steht dein Name, also bist du der Empfänger."
@@ -3555,7 +3555,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Oh, Entschuldigung! – Macht nichts. Kein Problem."
+      "Oh, Entschuldigung! - Macht nichts. Kein Problem."
     ]
   },
   {
@@ -5422,7 +5422,7 @@
     },
     "examples": [
       "Das finde ich gut.",
-      "Ich komme um 17 Uhr. – Gut!",
+      "Ich komme um 17 Uhr. - Gut!",
       "Guten Morgen!",
       "Ein gutes neues Jahr!",
       "Guten Appetit!",
@@ -5948,7 +5948,7 @@
     },
     "examples": [
       "Wo gehst du hin?/Wohin gehst du?",
-      "Wohin ist Paul gegangen? –Ich glaube dorthin.",
+      "Wohin ist Paul gegangen? -Ich glaube dorthin.",
       "Er geht in den Garten hinaus.",
       "Wir gehen ins Haus hinein."
     ]
@@ -6315,7 +6315,7 @@
       "headword": "ja"
     },
     "examples": [
-      "Sind Sie Herr Watanabe? – Ja.",
+      "Sind Sie Herr Watanabe? - Ja.",
       "Du bist hier in Berlin? Das ist ja toll!"
     ]
   },
@@ -6447,7 +6447,7 @@
     },
     "examples": [
       "Claudia ist",
-      "– Was? Noch so jung? Bei uns im Haus wohnen viele junge Leute. Mein Bruder ist fünf Jahre jünger als ich."
+      "- Was? Noch so jung? Bei uns im Haus wohnen viele junge Leute. Mein Bruder ist fünf Jahre jünger als ich."
     ]
   },
   {
@@ -6652,8 +6652,8 @@
       ]
     },
     "examples": [
-      "Kennen Sie diese Frau? – Nein, leider nicht.",
-      "Kennen Sie Berlin? –Ja, eine tolle Stadt."
+      "Kennen Sie diese Frau? - Nein, leider nicht.",
+      "Kennen Sie Berlin? -Ja, eine tolle Stadt."
     ]
   },
   {
@@ -6667,7 +6667,7 @@
       ]
     },
     "examples": [
-      "Wo habt ihr euch kennengelernt? –Wir haben uns in München kennengelernt."
+      "Wo habt ihr euch kennengelernt? -Wir haben uns in München kennengelernt."
     ]
   },
   {
@@ -6766,7 +6766,7 @@
       ]
     },
     "examples": [
-      "Können wir uns heute Mittag treffen? –Ja, das klappt.",
+      "Können wir uns heute Mittag treffen? -Ja, das klappt.",
       "Wie war die Reise? - Gut, es hat alles super geklappt."
     ]
   },
@@ -6777,7 +6777,7 @@
       "headword": "klar"
     },
     "examples": [
-      "Kommst du mit? – Klar!",
+      "Kommst du mit? - Klar!",
       "Ich komme morgen zu deiner Party, das ist doch klar."
     ]
   },
@@ -6814,7 +6814,7 @@
       "plural": "(Sg.)"
     },
     "examples": [
-      "Wo finde ich Kleidung? – Hosen im ersten, Kleider und Röcke im zweiten Stock."
+      "Wo finde ich Kleidung? - Hosen im ersten, Kleider und Röcke im zweiten Stock."
     ]
   },
   {
@@ -6912,7 +6912,7 @@
       ]
     },
     "examples": [
-      "Woher kommen Sie? – Aus Frankreich.",
+      "Woher kommen Sie? - Aus Frankreich.",
       "Er wird bald kommen."
     ]
   },
@@ -7034,7 +7034,7 @@
       ]
     },
     "examples": [
-      "Wie viel kostet das Buch? – 20 Euro."
+      "Wie viel kostet das Buch? - 20 Euro."
     ]
   },
   {
@@ -7132,7 +7132,7 @@
     "examples": [
       "Ich kriege 15 Euro pro Stunde für meinen Job.",
       "Auch wenn du schnell läufst: Ich kriege dich.",
-      "Was kriegen Sie? –Ein Käsebrötchen, bitte."
+      "Was kriegen Sie? -Ein Käsebrötchen, bitte."
     ]
   },
   {
@@ -7145,7 +7145,7 @@
     },
     "examples": [
       "Miriam liest gern spannende Krimis.",
-      "Schauen wir am Sonntag zusammen den Tatort? –Nein, ich mag keine Krimis."
+      "Schauen wir am Sonntag zusammen den Tatort? -Nein, ich mag keine Krimis."
     ]
   },
   {
@@ -7192,7 +7192,7 @@
       "plural": "¨-e"
     },
     "examples": [
-      "Haben wir noch Milch? – Ja, im Kühlschrank."
+      "Haben wir noch Milch? - Ja, im Kühlschrank."
     ]
   },
   {
@@ -7839,7 +7839,7 @@
       "plural": "-"
     },
     "examples": [
-      "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+      "Familie Kurz bekommt ein Baby. - Junge oder Mädchen?"
     ]
   },
   {
@@ -8627,7 +8627,7 @@
     },
     "examples": [
       "Natürlich helfen wir dir.",
-      "Kommst du zu meiner Party? –Natürlich."
+      "Kommst du zu meiner Party? -Natürlich."
     ]
   },
   {
@@ -8681,7 +8681,7 @@
       "headword": "hat genommen"
     },
     "examples": [
-      "Was möchten Sie? –Ich nehme einen Salat.",
+      "Was möchten Sie? -Ich nehme einen Salat.",
       "Ich nehme den Bus."
     ]
   },
@@ -8692,8 +8692,8 @@
       "headword": "nein"
     },
     "examples": [
-      "Möchten Sie ein Stück Kuchen? –Nein, danke.",
-      "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+      "Möchten Sie ein Stück Kuchen? -Nein, danke.",
+      "Fährst du auch nach München? - Nein, ich habe keine Zeit."
     ]
   },
   {
@@ -8867,7 +8867,7 @@
       "headword": "notwendig"
     },
     "examples": [
-      "Muss ich noch einmal kommen? –Nein, das ist nicht notwendig."
+      "Muss ich noch einmal kommen? -Nein, das ist nicht notwendig."
     ]
   },
   {
@@ -8879,7 +8879,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Möchten Sie lieber Reis oder Nudeln? –Lieber Nudeln, bitte."
+      "Möchten Sie lieber Reis oder Nudeln? -Lieber Nudeln, bitte."
     ]
   },
   {
@@ -8948,7 +8948,7 @@
       "headword": "oder"
     },
     "examples": [
-      "Wann können Sie kommen – heute oder morgen?",
+      "Wann können Sie kommen - heute oder morgen?",
       "Entweder fahren wir mit dem Bus oder wir gehen zu Fuß."
     ]
   },
@@ -10449,7 +10449,7 @@
     },
     "examples": [
       "Zitronen sind mir zu sauer.",
-      "Was ist los? –Ich bin sauer. Ich muss am Wochenende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen."
+      "Was ist los? -Ich bin sauer. Ich muss am Wochenende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen."
     ]
   },
   {
@@ -10601,7 +10601,7 @@
       ]
     },
     "examples": [
-      "Warum schimpfst du denn so laut? –Ich ärgere mich über mein Auto.",
+      "Warum schimpfst du denn so laut? -Ich ärgere mich über mein Auto.",
       "Alle schimpfen über/auf das Wetter."
     ]
   },
@@ -11202,7 +11202,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Welche Sendungen schaust du gern an? –Ich mag Sportsendungen.",
+      "Welche Sendungen schaust du gern an? -Ich mag Sportsendungen.",
       "Diese Sendung ist nicht für Jugendliche unter 18 Jahren."
     ]
   },
@@ -11284,7 +11284,7 @@
       ]
     },
     "examples": [
-      "Wo möchten Sie sitzen? –Bitte ganz hinten."
+      "Wo möchten Sie sitzen? -Bitte ganz hinten."
     ]
   },
   {
@@ -11359,7 +11359,7 @@
     },
     "examples": [
       "Wann soll ich kommen und was soll ich mitbringen?",
-      "Und, was hat der Arzt gesagt? –Ich soll drei Tage im Bett bleiben und viel Tee trinken."
+      "Und, was hat der Arzt gesagt? -Ich soll drei Tage im Bett bleiben und viel Tee trinken."
     ]
   },
   {
@@ -11391,7 +11391,7 @@
       "headword": "sonst"
     },
     "examples": [
-      "Haben Sie sonst noch einen Wunsch? –Nein danke, das ist alles.",
+      "Haben Sie sonst noch einen Wunsch? -Nein danke, das ist alles.",
       "Beeil dich, sonst kommen wir zu spät!"
     ]
   },
@@ -11577,7 +11577,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Welche Sprachen sprichst du? –Ich spreche Englisch und Spanisch."
+      "Welche Sprachen sprichst du? -Ich spreche Englisch und Spanisch."
     ]
   },
   {
@@ -13277,7 +13277,7 @@
       ]
     },
     "examples": [
-      "Sind Sie verletzt? –Ja, am Bein.",
+      "Sind Sie verletzt? -Ja, am Bein.",
       "Haben Sie sich verletzt?"
     ]
   },
@@ -13680,11 +13680,11 @@
   },
   {
     "id": "der Wagen",
-    "raw_word": "der Wagen, –",
+    "raw_word": "der Wagen, -",
     "details": {
       "article": "der",
       "headword": "Wagen",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Wo steht Ihr Wagen?",
@@ -14528,7 +14528,7 @@
     },
     "examples": [
       "Ich wünsche Ihnen alles Gute!",
-      "Sie wünschen? –Ich möchte ein halbes Kilo Äpfel, bitte.",
+      "Sie wünschen? -Ich möchte ein halbes Kilo Äpfel, bitte.",
       "Haben Sie noch einen Wunsch?",
       "Was ist dein größter Wunsch?"
     ]
@@ -14952,7 +14952,7 @@
       "headword": "zusammen"
     },
     "examples": [
-      "Wollen wir zusammen essen gehen? Zahlen, bitte. –Zusammen oder getrennt? Das macht zusammen 10 Euro 80."
+      "Wollen wir zusammen essen gehen? Zahlen, bitte. -Zusammen oder getrennt? Das macht zusammen 10 Euro 80."
     ]
   },
   {

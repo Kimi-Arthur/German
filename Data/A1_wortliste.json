@@ -195,7 +195,7 @@
       "headword": "ander-"
     },
     "examples": [
-      "WiIlst du diese Jacke? – Nein, ich möchte die andere."
+      "WiIlst du diese Jacke? - Nein, ich möchte die andere."
     ]
   },
   {
@@ -1166,7 +1166,7 @@
     },
     "examples": [
       "Wir möchten bestellen, bitte.",
-      "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?"
+      "Dieses Buch haben wir nicht - sollen wir es für Sie bestellen?"
     ]
   },
   {
@@ -1447,11 +1447,11 @@
   },
   {
     "id": "das Brötchen",
-    "raw_word": "das Brötchen, –",
+    "raw_word": "das Brötchen, -",
     "details": {
       "article": "das",
       "headword": "Brötchen",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Möchtest du Brötchen zum Frühstück?"
@@ -1576,11 +1576,11 @@
   },
   {
     "id": "der Computer",
-    "raw_word": "der Computer, –",
+    "raw_word": "der Computer, -",
     "details": {
       "article": "der",
       "headword": "Computer",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Wann bekommst du deinen neuen Computer?"
@@ -1831,11 +1831,11 @@
   },
   {
     "id": "der Drucker",
-    "raw_word": "der Drucker, –",
+    "raw_word": "der Drucker, -",
     "details": {
       "article": "der",
       "headword": "Drucker",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Mein Drucker ist kaputt."
@@ -1991,7 +1991,7 @@
     },
     "examples": [
       "Die Prüfung ist ganz einfach.",
-      "Hin und zurück? – Nein, bitte nur einfach.",
+      "Hin und zurück? - Nein, bitte nur einfach.",
       "Ich brauche nur ein einfaches Zimmer."
     ]
   },
@@ -2105,11 +2105,11 @@
   },
   {
     "id": "der Empfänger",
-    "raw_word": "der Empfänger, –",
+    "raw_word": "der Empfänger, -",
     "details": {
       "article": "der",
       "headword": "Empfänger",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Auf dem Brief steht dein Name, also bist du der Empfänger."
@@ -2165,7 +2165,7 @@
       "headword": "Entschuldigung"
     },
     "examples": [
-      "Entschuldigung! – Bitte."
+      "Entschuldigung! - Bitte."
     ]
   },
   {
@@ -2419,11 +2419,11 @@
   },
   {
     "id": "der Fehler",
-    "raw_word": "der Fehler, –",
+    "raw_word": "der Fehler, -",
     "details": {
       "article": "der",
       "headword": "Fehler",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Diesen Fehler mache ich immer."
@@ -3290,7 +3290,7 @@
     },
     "examples": [
       "Das finde ich gut.",
-      "Ich komme um 13 Uhr. – Gut!",
+      "Ich komme um 13 Uhr. - Gut!",
       "Guten Morgen!",
       "Ein gutes neues Jahr!",
       "Guten Appetit!"
@@ -3758,7 +3758,7 @@
       "headword": "ja"
     },
     "examples": [
-      "Sind Sie Herr Watanabe? – Ja."
+      "Sind Sie Herr Watanabe? - Ja."
     ]
   },
   {
@@ -3825,7 +3825,7 @@
     },
     "examples": [
       "Claudia ist",
-      "– Was? Noch so jung?"
+      "- Was? Noch so jung?"
     ]
   },
   {
@@ -3938,7 +3938,7 @@
       "headword": "kennen"
     },
     "examples": [
-      "Kennen Sie diese Frau? – Nein, leider nicht."
+      "Kennen Sie diese Frau? - Nein, leider nicht."
     ]
   },
   {
@@ -4004,7 +4004,7 @@
       "headword": "klar"
     },
     "examples": [
-      "Kommst du mit? – Klar!"
+      "Kommst du mit? - Klar!"
     ]
   },
   {
@@ -4027,7 +4027,7 @@
       "headword": "Kleidung"
     },
     "examples": [
-      "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
+      "Wo finde ich Kleidung? - Jacken im ersten, Jeans im zweiten Stock."
     ]
   },
   {
@@ -4052,11 +4052,11 @@
   },
   {
     "id": "der Koffer",
-    "raw_word": "der Koffer, –",
+    "raw_word": "der Koffer, -",
     "details": {
       "article": "der",
       "headword": "Koffer",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Ist das Ihr Koffer?"
@@ -4081,7 +4081,7 @@
       "headword": "kommen"
     },
     "examples": [
-      "Woher kommen Sie? – Aus Frankreich.",
+      "Woher kommen Sie? - Aus Frankreich.",
       "Kommst du mit ins Schwimmbad?"
     ]
   },
@@ -4125,7 +4125,7 @@
       "headword": "kosten"
     },
     "examples": [
-      "Wie viel kostet das? – 10 Euro."
+      "Wie viel kostet das? - 10 Euro."
     ]
   },
   {
@@ -4189,7 +4189,7 @@
       "headword": "Kühlschrank"
     },
     "examples": [
-      "Haben wir noch Milch? – Ja, im Kühlschrank."
+      "Haben wir noch Milch? - Ja, im Kühlschrank."
     ]
   },
   {
@@ -4371,7 +4371,7 @@
       "headword": "ledig"
     },
     "examples": [
-      "Sind Sie verheiratet? – Nein. Ledig."
+      "Sind Sie verheiratet? - Nein. Ledig."
     ]
   },
   {
@@ -4386,11 +4386,11 @@
   },
   {
     "id": "der Lehrer",
-    "raw_word": "der Lehrer, –",
+    "raw_word": "der Lehrer, -",
     "details": {
       "article": "der",
       "headword": "Lehrer",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Unsere Deutschlehrerin heißt Frau Müller."
@@ -4611,14 +4611,14 @@
   },
   {
     "id": "das Mädchen",
-    "raw_word": "das Mädchen, –",
+    "raw_word": "das Mädchen, -",
     "details": {
       "article": "das",
       "headword": "Mädchen",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
-      "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+      "Familie Kurz bekommt ein Baby. - Junge oder Mädchen?"
     ]
   },
   {
@@ -4969,7 +4969,7 @@
       "headword": "nein"
     },
     "examples": [
-      "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+      "Fährst du auch nach München? - Nein, ich habe keine Zeit."
     ]
   },
   {
@@ -5089,7 +5089,7 @@
       "headword": "oder"
     },
     "examples": [
-      "Wann können Sie kommen – heute oder morgen?"
+      "Wann können Sie kommen - heute oder morgen?"
     ]
   },
   {
@@ -5738,11 +5738,11 @@
   },
   {
     "id": "der Schinken",
-    "raw_word": "der Schinken, –",
+    "raw_word": "der Schinken, -",
     "details": {
       "article": "der",
       "headword": "Schinken",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Ich möchte gern ein Schinkenbrot."
@@ -5804,11 +5804,11 @@
   },
   {
     "id": "der Schlüssel",
-    "raw_word": "der Schlüssel, –",
+    "raw_word": "der Schlüssel, -",
     "details": {
       "article": "der",
       "headword": "Schlüssel",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Ich gebe Ihnen noch den Zimmerschlüssel."
@@ -5903,11 +5903,11 @@
   },
   {
     "id": "der Schüler",
-    "raw_word": "der Schüler, –",
+    "raw_word": "der Schüler, -",
     "details": {
       "article": "der",
       "headword": "Schüler",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
@@ -6861,11 +6861,11 @@
   },
   {
     "id": "der Verkäufer",
-    "raw_word": "der Verkäufer, –",
+    "raw_word": "der Verkäufer, -",
     "details": {
       "article": "der",
       "headword": "Verkäufer",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Meine Mutter ist Verkäuferin im Kaufhaus."
@@ -7454,11 +7454,11 @@
   },
   {
     "id": "das Zimmer",
-    "raw_word": "das Zimmer, –",
+    "raw_word": "das Zimmer, -",
     "details": {
       "article": "das",
       "headword": "Zimmer",
-      "plural": "–"
+      "plural": "-"
     },
     "examples": [
       "Das Zimmer ist groß.",

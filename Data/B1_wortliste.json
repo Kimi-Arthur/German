@@ -63,7 +63,7 @@
       "Wir haben nur eine kleine Wohnung, sind aber damit zufrieden.",
       "Es war sehr schön. Jetzt muss ich aber gehen.",
       "Ich würde gerne kommen, aber es geht leider nicht.",
-      "Darf ich dich zu einem Kaffee einladen? – Aber ja, sehr gern.",
+      "Darf ich dich zu einem Kaffee einladen? - Aber ja, sehr gern.",
       "Du spielst aber gut Klavier."
     ]
   },
@@ -664,7 +664,7 @@
     },
     "examples": [
       "Sind alle Kinder da?",
-      "Sonst noch (et)was? – Nein, danke. Das ist alles.",
+      "Sonst noch (et)was? - Nein, danke. Das ist alles.",
       "Alles Gute!"
     ]
   },
@@ -676,7 +676,7 @@
     },
     "examples": [
       "Ich gehe nicht gern allein spazieren.",
-      "Soll ich Ihnen helfen? – Danke, ich schaffe es schon allein.",
+      "Soll ich Ihnen helfen? - Danke, ich schaffe es schon allein.",
       "Es war sehr teuer. Allein das Essen hat schon über 50 Euro gekostet."
     ]
   },
@@ -1074,7 +1074,7 @@
       "plural": "¨-e"
     },
     "examples": [
-      "Wie war der Film? – Ich habe nur den Anfang gesehen.",
+      "Wie war der Film? - Ich habe nur den Anfang gesehen.",
       "Am Anfang habe ich bei der Arbeit viele Fragen gestellt.",
       "Mein Chef ist Anfang fünfzig.",
       "Meine Mutter war von Anfang an dagegen, dass ich nach Berlin ziehe.",
@@ -2069,7 +2069,7 @@
       "headword": "auch"
     },
     "examples": [
-      "Ich muss leider gehen. – Ich auch.",
+      "Ich muss leider gehen. - Ich auch.",
       "Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.",
       "Wir fahren auf jeden Fall, auch wenn es regnet.",
       "Der Zug ist gerade eben abgefahren. Warum kommst du auch so spät!"
@@ -2215,7 +2215,7 @@
       ]
     },
     "examples": [
-      "Wo hält er sich gerade auf? – In"
+      "Wo hält er sich gerade auf? - In"
     ]
   },
   {
@@ -2332,7 +2332,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Bitte seid leise! – Ich starte die Aufnahme."
+      "Bitte seid leise! - Ich starte die Aufnahme."
     ]
   },
   {
@@ -2804,7 +2804,7 @@
       ]
     },
     "examples": [
-      "Sie müssen leider warten. – Kein Problem. Das macht mir nichts aus.",
+      "Sie müssen leider warten. - Kein Problem. Das macht mir nichts aus.",
       "Machen Sie bitte das Licht aus!",
       "Wir hatten doch ausgemacht, dass du die Getränke besorgst.",
       "Haben Sie einen Termin ausgemacht?"
@@ -4104,7 +4104,7 @@
     },
     "examples": [
       "Beide waren mit meinem Vorschlag einverstanden.",
-      "Welche Bluse nehmen Sie, die rote oder die grüne? – Ich nehme beide."
+      "Welche Bluse nehmen Sie, die rote oder die grüne? - Ich nehme beide."
     ]
   },
   {
@@ -4254,7 +4254,7 @@
     "examples": [
       "Haben Sie meinen Brief bekommen?",
       "Ich bekomme jeden Tag eine Spritze.",
-      "Was bekommen Sie? – 5 kg Kartoffeln.",
+      "Was bekommen Sie? - 5 kg Kartoffeln.",
       "Wir haben Besuch bekommen."
     ]
   },
@@ -4775,7 +4775,7 @@
     "examples": [
       "Ich habe heute ein besonders günstiges Angebot gesehen.",
       "Durch den Sturm gab es besonders in Süddeutschland schwere Schäden.",
-      "Wie geht’s? – Nicht besonders."
+      "Wie geht’s? - Nicht besonders."
     ]
   },
   {
@@ -5422,7 +5422,7 @@
       "Wenn Sie ein bisschen warten, können wir zusammen gehen.",
       "Möchten Sie noch ein bisschen Reis?",
       "Können Sie bitte ein bisschen lauter sprechen?",
-      "Sprechen Sie Englisch? – Ein bisschen."
+      "Sprechen Sie Englisch? - Ein bisschen."
     ]
   },
   {
@@ -5810,7 +5810,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Welche Maße hat der Tisch? – Länge:1m,Breite:80cm,Höhe:1,20 m."
+      "Welche Maße hat der Tisch? - Länge:1m,Breite:80cm,Höhe:1,20 m."
     ]
   },
   {
@@ -6214,7 +6214,7 @@
     },
     "examples": [
       "Gibt es diesen Buchstaben auch in deiner Muttersprache?",
-      "Ihr Name beginnt mit K. – Buchstabe K ist in Zimmer",
+      "Ihr Name beginnt mit K. - Buchstabe K ist in Zimmer",
       "Bitte warten Sie dort."
     ]
   },
@@ -6560,10 +6560,10 @@
       "Da drüben ist ein Getränkeautomat.",
       "Was Sie da sagen, ist richtig.",
       "Ich wollte gerade einparken. Da kam ein Wagen rückwärts aus der Einfahrt.",
-      "Wir haben schon geschlossen. – Da kann man nichts machen.",
+      "Wir haben schon geschlossen. - Da kann man nichts machen.",
       "Da Sie keinen Mitgliedsausweis haben, ist es etwas teurer.",
       "Wir haben gerade über dich gesprochen. Da bist du ja.",
-      "Welche Bluse nehmen Sie? – Die da.",
+      "Welche Bluse nehmen Sie? - Die da.",
       "Ist Herr Klein schon da?"
     ]
   },
@@ -6714,7 +6714,7 @@
     },
     "examples": [
       "Vielen Dank für Ihre Mühe.",
-      "Hier ist Ihr Kaffee. – Vielen Dank!",
+      "Hier ist Ihr Kaffee. - Vielen Dank!",
       "Herzlichen Dank!",
       "Gott sei Dank hat es nicht geregnet."
     ]
@@ -6737,7 +6737,7 @@
     },
     "examples": [
       "Soll ich Ihnen helfen? Nein, danke, nicht nötig.",
-      "Guten Appetit! – Danke gleichfalls."
+      "Guten Appetit! - Danke gleichfalls."
     ]
   },
   {
@@ -6749,7 +6749,7 @@
     "examples": [
       "Ich muss noch schnell zur Post, dann komme ich.",
       "Wir waren pünktlich am Bahnhof. Aber dann hatte der Zug Verspätung.",
-      "Ich habe im Moment sehr viel zu tun. – Dann will ich nicht länger stören.",
+      "Ich habe im Moment sehr viel zu tun. - Dann will ich nicht länger stören.",
       "Wenn es nicht regnet, dann kommen wir."
     ]
   },
@@ -6846,7 +6846,7 @@
       ]
     },
     "examples": [
-      "Wie lange dauert die Pause? – Eine halbe Stunde."
+      "Wie lange dauert die Pause? - Eine halbe Stunde."
     ]
   },
   {
@@ -7143,7 +7143,7 @@
     },
     "examples": [
       "Wohin fährst du dieses Jahr in Urlaub?",
-      "Welche Hose nehmen Sie? – Diese hier."
+      "Welche Hose nehmen Sie? - Diese hier."
     ]
   },
   {
@@ -7283,7 +7283,7 @@
       "headword": "doch"
     },
     "examples": [
-      "Isst du kein Fleisch? – Doch, manchmal schon.",
+      "Isst du kein Fleisch? - Doch, manchmal schon.",
       "Ich habe es mir anders überlegt. Ich komme doch mit in die Stadt.",
       "Ihr kommt doch heute Abend?",
       "Fragen Sie doch Herrn Müller, der ist Computerspezialist.",
@@ -7794,7 +7794,7 @@
       "headword": "ebenfalls"
     },
     "examples": [
-      "Ich wünsche Ihnen ein schönes Wochenende. – Danke, ebenfalls."
+      "Ich wünsche Ihnen ein schönes Wochenende. - Danke, ebenfalls."
     ]
   },
   {
@@ -7804,7 +7804,7 @@
       "headword": "ebenso"
     },
     "examples": [
-      "Schöne Feiertage. – Danke, ebenso."
+      "Schöne Feiertage. - Danke, ebenso."
     ]
   },
   {
@@ -7885,7 +7885,7 @@
     "examples": [
       "Das Regal stellen wir hier in die Ecke.",
       "Das bekommen Sie im Kiosk an der Ecke.",
-      "Wo ist die Apotheke? − Gleich um die Ecke."
+      "Wo ist die Apotheke? - Gleich um die Ecke."
     ]
   },
   {
@@ -7911,7 +7911,7 @@
     "examples": [
       "Das Regal stellen wir hier ins Eck.",
       "Das bekommen Sie im Kiosk am Eck.",
-      "Wo ist die Apotheke? − Gleich ums Eck."
+      "Wo ist die Apotheke? - Gleich ums Eck."
     ]
   },
   {
@@ -8202,7 +8202,7 @@
       "headword": "einfach"
     },
     "examples": [
-      "Hin und zurück? – Nein, bitte nur einfach.",
+      "Hin und zurück? - Nein, bitte nur einfach.",
       "Ich verstehe das nicht. Kannst du das bitte einfacher sagen?",
       "Wir haben am Wochenende einen Ausflug gemacht. Es war einfach toll."
     ]
@@ -8691,7 +8691,7 @@
     },
     "examples": [
       "Als Termin schlage ich den",
-      "Mai vor. – Gut, einverstanden!",
+      "Mai vor. - Gut, einverstanden!",
       "Bist du einverstanden, wenn wir bald nach Hause gehen?"
     ]
   },
@@ -9265,7 +9265,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Oh, Entschuldigung! – Macht nichts.",
+      "Oh, Entschuldigung! - Macht nichts.",
       "Kein Problem."
     ]
   },
@@ -10225,7 +10225,7 @@
       "Mein Auto muss in die Werkstatt. Es ist kaputt.",
       "Wissen Sie nicht, wo Herr Müller ist? Nein, ich weiß es nicht.",
       "Es wurden bei der Diskussion viele Fragen gestellt.",
-      "Wer ist da? – Ich bin’s.",
+      "Wer ist da? - Ich bin’s.",
       "Mir geht es gut.",
       "Ich finde es sehr nett von Ihnen, dass Sie mich abholen.",
       "Es macht Spaß, zusammen ein Picknick zu machen."
@@ -12723,7 +12723,7 @@
     },
     "examples": [
       "Die Kartoffeln sind noch nicht gar.",
-      "Du räumst nie dein Zimmer auf. – Das ist gar nicht wahr."
+      "Du räumst nie dein Zimmer auf. - Das ist gar nicht wahr."
     ]
   },
   {
@@ -13198,7 +13198,7 @@
     "examples": [
       "Das Gegenteil von „klein“ ist „groß“.",
       "Sie ist das genaue Gegenteil von ihrem Bruder.",
-      "Du bist sicher müde. – Nein, ganz im Gegenteil!"
+      "Du bist sicher müde. - Nein, ganz im Gegenteil!"
     ]
   },
   {
@@ -13266,8 +13266,8 @@
       "Der nächste Zug geht erst in zwei Stunden.",
       "Am Anfang ging alles ganz gut.",
       "Geht Ihre Uhr richtig?",
-      "Geht das bis morgen? – Nein, das geht nicht. Ich brauche mehr Zeit.",
-      "Der Mantel geht nicht mehr in den Koffer. 10.Das Fenster geht auf die Straße. 11.Geht es hier zum Zentrum? 12.Wie geht es Ihnen heute? 13.Ist das sehr teuer? – Es geht. 14.Um was geht es denn? 15.Warum geht das Licht nicht? 16.Ich weiß nicht, wie das geht."
+      "Geht das bis morgen? - Nein, das geht nicht. Ich brauche mehr Zeit.",
+      "Der Mantel geht nicht mehr in den Koffer. 10.Das Fenster geht auf die Straße. 11.Geht es hier zum Zentrum? 12.Wie geht es Ihnen heute? 13.Ist das sehr teuer? - Es geht. 14.Um was geht es denn? 15.Warum geht das Licht nicht? 16.Ich weiß nicht, wie das geht."
     ]
   },
   {
@@ -13468,7 +13468,7 @@
     },
     "examples": [
       "Haben Sie die genaue Zeit?",
-      "Sind Sie sicher, dass heute Ruhetag ist? – Ja, das weiß ich genau.",
+      "Sind Sie sicher, dass heute Ruhetag ist? - Ja, das weiß ich genau.",
       "Die Uhr geht genau.",
       "Es ist genau acht Uhr."
     ]
@@ -13550,7 +13550,7 @@
       ]
     },
     "examples": [
-      "Wie viele Zimmer brauchen Sie? – Mir genügt eine 2-Zimmer-Wohnung."
+      "Wie viele Zimmer brauchen Sie? - Mir genügt eine 2-Zimmer-Wohnung."
     ]
   },
   {
@@ -13642,7 +13642,7 @@
     },
     "examples": [
       "Ich helfe Ihnen gern.",
-      "Kaffee oder Tee? – Ich möchte lieber einen Tee.",
+      "Kaffee oder Tee? - Ich möchte lieber einen Tee.",
       "Am liebsten trinke ich Kaffee."
     ]
   },
@@ -13685,7 +13685,7 @@
       ]
     },
     "examples": [
-      "Vielen Dank für Ihre Hilfe. – Gern geschehen."
+      "Vielen Dank für Ihre Hilfe. - Gern geschehen."
     ]
   },
   {
@@ -13936,7 +13936,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Wie teuer ist das Päckchen? – Das hängt vom Gewicht ab.",
+      "Wie teuer ist das Päckchen? - Das hängt vom Gewicht ab.",
       "Sie dürfen Gepäck bis zu einem Gewicht von 15 kg mitnehmen."
     ]
   },
@@ -14202,7 +14202,7 @@
       "headword": "gleichfalls"
     },
     "examples": [
-      "Schöne Feiertage! – Danke, gleichfalls."
+      "Schöne Feiertage! - Danke, gleichfalls."
     ]
   },
   {
@@ -14618,7 +14618,7 @@
     },
     "examples": [
       "Guck doch mal! Es schneit.",
-      "Was bedeutet dieses Wort? – Guck doch im Wörterbuch nach."
+      "Was bedeutet dieses Wort? - Guck doch im Wörterbuch nach."
     ]
   },
   {
@@ -14655,7 +14655,7 @@
       "Wir hatten im Urlaub gutes Wetter.",
       "Heute ist das Wetter wieder besser.",
       "Christine ist meine beste Freundin.",
-      "Ich komme um 13 Uhr. – Gut!",
+      "Ich komme um 13 Uhr. - Gut!",
       "Guten Morgen! 10.Ein gutes neues Jahr! 11.Guten Appetit!"
     ]
   },
@@ -14866,7 +14866,7 @@
       "headword": "hallo"
     },
     "examples": [
-      "Hallo, wie geht’s? − Danke, gut, und dir?"
+      "Hallo, wie geht’s? - Danke, gut, und dir?"
     ]
   },
   {
@@ -14889,7 +14889,7 @@
       "headword": "halt"
     },
     "examples": [
-      "Es gibt leider keine Karten mehr. – Schade. Da kann man nichts machen.",
+      "Es gibt leider keine Karten mehr. - Schade. Da kann man nichts machen.",
       "Das ist halt so."
     ]
   },
@@ -15005,7 +15005,7 @@
     },
     "examples": [
       "Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.",
-      "Kann ich Sie bitte mal sprechen? – Worum handelt es sich denn?",
+      "Kann ich Sie bitte mal sprechen? - Worum handelt es sich denn?",
       "Auf diesem Markt kannst du handeln und bekommst die Sachen billiger."
     ]
   },
@@ -15518,7 +15518,7 @@
       ]
     },
     "examples": [
-      "Wir haben uns lange nicht gesehen. – Ja, das ist wirklich lange her.",
+      "Wir haben uns lange nicht gesehen. - Ja, das ist wirklich lange her.",
       "Komm her zu mir!"
     ]
   },
@@ -16189,7 +16189,7 @@
       "headword": "Hunger"
     },
     "examples": [
-      "Möchtest du Suppe? – Nein danke, ich habe keinen Hunger."
+      "Möchtest du Suppe? - Nein danke, ich habe keinen Hunger."
     ]
   },
   {
@@ -16757,7 +16757,7 @@
       "headword": "irgendein"
     },
     "examples": [
-      "Was für einen Saft möchten Sie? – Ganz egal, irgendeinen."
+      "Was für einen Saft möchten Sie? - Ganz egal, irgendeinen."
     ]
   },
   {
@@ -16793,13 +16793,13 @@
       "headword": "ja"
     },
     "examples": [
-      "Sind Sie verheiratet? – Ja.",
-      "Hallo? – Ja, bitte? Wer spricht denn da?",
-      "Denk bitte daran, die Tür abzuschließen. – Ja, ja, mach´ ich.",
-      "Heute Morgen um fünf hat es geschneit. – Ja, wirklich?",
+      "Sind Sie verheiratet? - Ja.",
+      "Hallo? - Ja, bitte? Wer spricht denn da?",
+      "Denk bitte daran, die Tür abzuschließen. - Ja, ja, mach´ ich.",
+      "Heute Morgen um fünf hat es geschneit. - Ja, wirklich?",
       "Ich würde ja gern kommen, aber es geht wirklich nicht.",
       "Du weißt ja, dass ich kein Bier trinke. Gib mir bitte einen Tee.",
-      "Du bist hier in Berlin? – Das ist ja eine Überraschung.",
+      "Du bist hier in Berlin? - Das ist ja eine Überraschung.",
       "Steige bitte ja nicht auf den Stuhl!"
     ]
   },
@@ -16852,7 +16852,7 @@
     },
     "examples": [
       "Die Pullover kosten je nach Qualität zwischen 40 und 60 Euro.",
-      "Fahren Sie im Juni oder im Juli? – Je nachdem, wann mein Mann Urlaub bekommt."
+      "Fahren Sie im Juni oder im Juli? - Je nachdem, wann mein Mann Urlaub bekommt."
     ]
   },
   {
@@ -16931,7 +16931,7 @@
       "headword": "jemals"
     },
     "examples": [
-      "Hast du jemals von dem Problem gehört? – Nein, nie."
+      "Hast du jemals von dem Problem gehört? - Nein, nie."
     ]
   },
   {
@@ -17035,7 +17035,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Wo habt ihr übernachtet? – In einer Jugendherberge."
+      "Wo habt ihr übernachtet? - In einer Jugendherberge."
     ]
   },
   {
@@ -17048,7 +17048,7 @@
       "Für diesen Film bist du noch zu jung.",
       "Meine Mutter ist jung geblieben.",
       "Claudia ist",
-      "– Was? Noch so jung?",
+      "- Was? Noch so jung?",
       "Ich habe sehr jung geheiratet.",
       "Bei uns im Haus wohnen viele junge Leute.",
       "Mein Bruder ist zehn Jahre jünger als ich.",
@@ -17156,7 +17156,7 @@
     },
     "examples": [
       "Ich habe den Termin in meinem Kalender notiert.",
-      "Haben Sie am Montag Zeit? – Moment. Ich muss erst in meinem Terminkalender nachschauen."
+      "Haben Sie am Montag Zeit? - Moment. Ich muss erst in meinem Terminkalender nachschauen."
     ]
   },
   {
@@ -17257,8 +17257,8 @@
       "plural": "-n"
     },
     "examples": [
-      "Das ist aber eine schöne Teekanne. – Ja, die ist aus China.",
-      "Bitte einen Kaffee! – Eine Tasse oder ein Kännchen?"
+      "Das ist aber eine schöne Teekanne. - Ja, die ist aus China.",
+      "Bitte einen Kaffee! - Eine Tasse oder ein Kännchen?"
     ]
   },
   {
@@ -17633,7 +17633,7 @@
       "Ich habe leider heute keine Zeit.",
       "Jetzt habe ich noch keinen Hunger.",
       "Ich habe keine Kinder.",
-      "Was für ein Auto haben Sie? – Ich habe keins."
+      "Was für ein Auto haben Sie? - Ich habe keins."
     ]
   },
   {
@@ -17697,8 +17697,8 @@
     },
     "examples": [
       "Kennen Sie hier in der Nähe ein gemütliches Café?",
-      "Kennen Sie diese Frau? – Nein, leider nicht.",
-      "Kennen Sie Berlin? – Ja, eine tolle Stadt."
+      "Kennen Sie diese Frau? - Nein, leider nicht.",
+      "Kennen Sie Berlin? - Ja, eine tolle Stadt."
     ]
   },
   {
@@ -17914,7 +17914,7 @@
       ]
     },
     "examples": [
-      "Wie war die Reise? – Gut. Es hat alles prima geklappt."
+      "Wie war die Reise? - Gut. Es hat alles prima geklappt."
     ]
   },
   {
@@ -17924,8 +17924,8 @@
       "headword": "klar"
     },
     "examples": [
-      "Sie müssen noch mehr Deutsch lernen. – Ja, das ist mir klar.",
-      "Kommst du mit? – Klar!",
+      "Sie müssen noch mehr Deutsch lernen. - Ja, das ist mir klar.",
+      "Kommst du mit? - Klar!",
       "Ich komme zu deinem Geburtstag, das ist doch klar.",
       "Leider haben wir bei der Bahn keine klare Auskunft bekommen."
     ]
@@ -18162,7 +18162,7 @@
       ]
     },
     "examples": [
-      "Wollen wir einkaufen gehen und danach zusammen kochen? – Ja, das klingt gut."
+      "Wollen wir einkaufen gehen und danach zusammen kochen? - Ja, das klingt gut."
     ]
   },
   {
@@ -18215,7 +18215,7 @@
       ]
     },
     "examples": [
-      "Möchten Sie zum Fleisch Kartoffeln oder Klöße? – Klöße, bitte."
+      "Möchten Sie zum Fleisch Kartoffeln oder Klöße? - Klöße, bitte."
     ]
   },
   {
@@ -18304,7 +18304,7 @@
       ]
     },
     "examples": [
-      "Möchten Sie zum Fleisch Erdäpfel oder Knödel? – Knödel bitte."
+      "Möchten Sie zum Fleisch Erdäpfel oder Knödel? - Knödel bitte."
     ]
   },
   {
@@ -18317,7 +18317,7 @@
     },
     "examples": [
       "An meiner Jacke fehlt ein Knopf.",
-      "Der Fahrstuhl kommt nicht. – Sie müssen auf den Knopf drücken."
+      "Der Fahrstuhl kommt nicht. - Sie müssen auf den Knopf drücken."
     ]
   },
   {
@@ -18416,7 +18416,7 @@
       ]
     },
     "examples": [
-      "Woher kommen Sie? – Aus Frankreich.",
+      "Woher kommen Sie? - Aus Frankreich.",
       "Wir gehen heute Abend ins Konzert. Kommen Sie auch?",
       "Kommen Sie doch mal wieder zu uns.",
       "Wenn Sie mal nach Köln kommen, besuchen Sie uns.",
@@ -18823,7 +18823,7 @@
       ]
     },
     "examples": [
-      "Wie viel kostet das T-Shirt? – 15 Euro.",
+      "Wie viel kostet das T-Shirt? - 15 Euro.",
       "Eine Wohnung zu finden, kostet viel Zeit."
     ]
   },
@@ -19140,7 +19140,7 @@
     },
     "examples": [
       "Haben Sie meinen Brief gekriegt?",
-      "Was kriegen Sie? – Ein Schwarzbrot, bitte."
+      "Was kriegen Sie? - Ein Schwarzbrot, bitte."
     ]
   },
   {
@@ -19371,7 +19371,7 @@
     "examples": [
       "Ich war mit meiner Stelle nicht zufrieden und habe gekündigt.",
       "Hast du deine Wohnung schon gekündigt?",
-      "Ich möchte die Zeitschrift nicht mehr. – Dann musst du schriftlich kündigen."
+      "Ich möchte die Zeitschrift nicht mehr. - Dann musst du schriftlich kündigen."
     ]
   },
   {
@@ -19815,7 +19815,7 @@
       "headword": "längst"
     },
     "examples": [
-      "Wann reparierst du die Heizung. – Die habe ich schon längst repariert."
+      "Wann reparierst du die Heizung. - Die habe ich schon längst repariert."
     ]
   },
   {
@@ -19912,10 +19912,10 @@
     },
     "examples": [
       "Ich bin gestern 100 m in 10,4 Sekunden gelaufen.",
-      "Bist du mit dem Auto hier? – Nein, ich bin gelaufen.",
+      "Bist du mit dem Auto hier? - Nein, ich bin gelaufen.",
       "Jeden Morgen gehe ich eine halbe Stunde laufen.",
       "Wann läuft der Film?",
-      "Wie geht´s beruflich? – Danke, das Geschäft läuft gut."
+      "Wie geht´s beruflich? - Danke, das Geschäft läuft gut."
     ]
   },
   {
@@ -20058,7 +20058,7 @@
       "headword": "ledig"
     },
     "examples": [
-      "Wie ist Ihr Familienstand? – Ledig."
+      "Wie ist Ihr Familienstand? - Ledig."
     ]
   },
   {
@@ -20206,7 +20206,7 @@
     },
     "examples": [
       "Da kann ich Ihnen leider nicht helfen.",
-      "Hast du schon eine Antwort auf deinen Brief? – Leider nicht.",
+      "Hast du schon eine Antwort auf deinen Brief? - Leider nicht.",
       "Leider kann ich nicht kommen. Ich muss zum Arzt."
     ]
   },
@@ -20667,7 +20667,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Was brauchen wir für die Party? – Mach doch eine Einkaufsliste."
+      "Was brauchen wir für die Party? - Mach doch eine Einkaufsliste."
     ]
   },
   {
@@ -20707,7 +20707,7 @@
     },
     "examples": [
       "Ich habe ein Loch im Zahn. Ich muss zum Zahnarzt.",
-      "Deine Hose hat ein Loch. – Ich weiß, sie ist schon alt."
+      "Deine Hose hat ein Loch. - Ich weiß, sie ist schon alt."
     ]
   },
   {
@@ -20784,7 +20784,7 @@
     "examples": [
       "Los! Beeilt euch!",
       "Gibt es ein Problem? Was ist denn los?",
-      "Achtung – fertig – los!"
+      "Achtung - fertig - los!"
     ]
   },
   {
@@ -20930,8 +20930,8 @@
       "Meine Arbeit macht mir viel Spaß.",
       "Mach dir bitte keine Sorgen.",
       "Was würden Sie an meiner Stelle machen?",
-      "Tut mir leid. Die Küche hat schon geschlossen. – Da kann man nichts machen.",
-      "Entschuldigung! – Das macht doch nichts. 10.Das macht zusammen 20 Euro."
+      "Tut mir leid. Die Küche hat schon geschlossen. - Da kann man nichts machen.",
+      "Entschuldigung! - Das macht doch nichts. 10.Das macht zusammen 20 Euro."
     ]
   },
   {
@@ -21096,7 +21096,7 @@
     },
     "examples": [
       "Manchmal gehe ich mit meiner Frau ins Café.",
-      "Rauchen Sie? – Manchmal."
+      "Rauchen Sie? - Manchmal."
     ]
   },
   {
@@ -21296,7 +21296,7 @@
       "headword": "Material"
     },
     "examples": [
-      "Aus welchem Material ist der Schrank? – Aus Holz."
+      "Aus welchem Material ist der Schrank? - Aus Holz."
     ]
   },
   {
@@ -21341,8 +21341,8 @@
       "headword": "maximal"
     },
     "examples": [
-      "Wie lange braucht ein Brief? – Maximal zwei Tage.",
-      "Wie schwer darf der Brief sein? – Maximal 20 g."
+      "Wie lange braucht ein Brief? - Maximal zwei Tage.",
+      "Wie schwer darf der Brief sein? - Maximal 20 g."
     ]
   },
   {
@@ -21524,7 +21524,7 @@
       ]
     },
     "examples": [
-      "Wie gut kannst du Deutsch? – Das Meiste verstehe ich.",
+      "Wie gut kannst du Deutsch? - Das Meiste verstehe ich.",
       "Ich bin neu im Haus. Die meisten Nachbarn kenne ich noch nicht."
     ]
   },
@@ -21536,7 +21536,7 @@
     },
     "examples": [
       "Meistens trinke ich zum Frühstück nur einen Kaffee.",
-      "Seid ihr am Wochenende zu Hause? – Ja, meistens."
+      "Seid ihr am Wochenende zu Hause? - Ja, meistens."
     ]
   },
   {
@@ -21548,7 +21548,7 @@
       "plural": "-"
     },
     "examples": [
-      "Ich weiß nicht, wie man das macht. – Dann frag doch den Meister.",
+      "Ich weiß nicht, wie man das macht. - Dann frag doch den Meister.",
       "Unsere Mannschaft ist deutscher Meister geworden."
     ]
   },
@@ -21866,8 +21866,8 @@
       "headword": "mild"
     },
     "examples": [
-      "Möchten Sie die Soße scharf? – Nein, bitte ganz mild.",
-      "Wie wird das Wetter? – Es soll etwas milder werden."
+      "Möchten Sie die Soße scharf? - Nein, bitte ganz mild.",
+      "Wie wird das Wetter? - Es soll etwas milder werden."
     ]
   },
   {
@@ -21927,7 +21927,7 @@
     },
     "examples": [
       "Ich möchte ein gemischtes Eis mit Sahne.",
-      "Wie möchten Sie das Geld? – Bitte gemischt, große und kleine Scheine."
+      "Wie möchten Sie das Geld? - Bitte gemischt, große und kleine Scheine."
     ]
   },
   {
@@ -22007,7 +22007,7 @@
       "headword": "Mitte"
     },
     "examples": [
-      "Wo möchten Sie sitzen? – In der Mitte.",
+      "Wo möchten Sie sitzen? - In der Mitte.",
       "Bis Mitte der Woche bin ich fertig.",
       "Ich habe Urlaub bis Mitte August.",
       "Den Schrank stellen wir ans Fenster, den Tisch in die Mitte."
@@ -22182,7 +22182,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Wie findest du dieses Auto? – Dieses Modell gefällt mir nicht."
+      "Wie findest du dieses Auto? - Dieses Modell gefällt mir nicht."
     ]
   },
   {
@@ -22221,7 +22221,7 @@
       "headword": "möglich"
     },
     "examples": [
-      "Kann ich bitte sofort einen Termin haben? – Das ist leider nicht möglich."
+      "Kann ich bitte sofort einen Termin haben? - Das ist leider nicht möglich."
     ]
   },
   {
@@ -22786,7 +22786,7 @@
       "headword": "nah(e)"
     },
     "examples": [
-      "Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier."
+      "Wie weit ist es zum Bahnhof? - Das ist ganz nah, nur zwei Minuten von hier."
     ]
   },
   {
@@ -22955,7 +22955,7 @@
     },
     "examples": [
       "Natürlich helfen wir dir.",
-      "Kommst du auch wirklich zu meiner Party? – Natürlich."
+      "Kommst du auch wirklich zu meiner Party? - Natürlich."
     ]
   },
   {
@@ -23049,7 +23049,7 @@
       ]
     },
     "examples": [
-      "Was möchten Sie? – Ich nehme einen Salat.",
+      "Was möchten Sie? - Ich nehme einen Salat.",
       "Nehmen Sie die Tabletten vor dem Essen!",
       "Wer hat die Flasche aus dem Kühlschrank genommen?"
     ]
@@ -23061,8 +23061,8 @@
       "headword": "nein"
     },
     "examples": [
-      "Noch ein Bier? – Nein, danke.",
-      "Kommst du auch mit nach München? – Nein, ich habe keine Zeit."
+      "Noch ein Bier? - Nein, danke.",
+      "Kommst du auch mit nach München? - Nein, ich habe keine Zeit."
     ]
   },
   {
@@ -23197,7 +23197,7 @@
     },
     "examples": [
       "Zigarette? - Danke, ich rauche nicht.",
-      "Wie geht es dir? – Nicht so gut.",
+      "Wie geht es dir? - Nicht so gut.",
       "Das Essen in der Kantine ist gar nicht schlecht.",
       "Du kommst immer zu spät! - Das stimmt nicht."
     ]
@@ -23246,7 +23246,7 @@
       "Ich habe noch nichts gegessen.",
       "Ich weiß auch nichts Genaues.",
       "Ich habe nichts zum Schreiben dabei.",
-      "Entschuldigung! – Das macht nichts."
+      "Entschuldigung! - Das macht nichts."
     ]
   },
   {
@@ -23313,14 +23313,14 @@
     },
     "examples": [
       "Mein Bruder geht noch zur Schule.",
-      "Bist du fertig. – Nein, noch nicht ganz.",
-      "Haben Sie noch einen Wunsch? – Ja, bitte noch ein Bier.",
-      "Sonst noch etwas? – Nein, danke.",
+      "Bist du fertig. - Nein, noch nicht ganz.",
+      "Haben Sie noch einen Wunsch? - Ja, bitte noch ein Bier.",
+      "Sonst noch etwas? - Nein, danke.",
       "Ich komme später. Ich muss erst noch einkaufen.",
       "Meine Freundin studiert, und abends arbeitet sie noch als Kellnerin.",
       "Es ist nicht mehr viel Zeit. Nur noch fünf Minuten.",
       "Ich habe nur noch 20 Euro.",
-      "Ist das Essen schon fertig. – Nein, es dauert noch ein paar Minuten. 10.Ist Amadeo schon da? – Vielleicht kommt er noch."
+      "Ist das Essen schon fertig. - Nein, es dauert noch ein paar Minuten. 10.Ist Amadeo schon da? - Vielleicht kommt er noch."
     ]
   },
   {
@@ -23450,7 +23450,7 @@
     },
     "examples": [
       "Wenn es nötig ist, nehmen Sie noch eine Tablette.",
-      "Kann ich Ihnen helfen? – Danke, nicht nötig."
+      "Kann ich Ihnen helfen? - Danke, nicht nötig."
     ]
   },
   {
@@ -23473,7 +23473,7 @@
       "headword": "notwendig"
     },
     "examples": [
-      "Muss ich nochmal wiederkommen? – Nein, das ist nicht notwendig."
+      "Muss ich nochmal wiederkommen? - Nein, das ist nicht notwendig."
     ]
   },
   {
@@ -23485,7 +23485,7 @@
       "plural": "-n"
     },
     "examples": [
-      "Möchten Sie Nudeln oder Reis? – Lieber Nudeln."
+      "Möchten Sie Nudeln oder Reis? - Lieber Nudeln."
     ]
   },
   {
@@ -23512,7 +23512,7 @@
       "headword": "nun"
     },
     "examples": [
-      "Schade, dass du arbeiten musst. – Das ist nun mal so.",
+      "Schade, dass du arbeiten musst. - Das ist nun mal so.",
       "Was ist jetzt? Kommst du nun endlich?"
     ]
   },
@@ -23976,7 +23976,7 @@
       "headword": "optimistisch"
     },
     "examples": [
-      "Glaubst du, dass du den Job bekommst. – Ja, ich bin ganz optimistisch."
+      "Glaubst du, dass du den Job bekommst. - Ja, ich bin ganz optimistisch."
     ]
   },
   {
@@ -24490,9 +24490,9 @@
       ]
     },
     "examples": [
-      "Entschuldigung! – Kein Problem. Es ist nichts passiert.",
+      "Entschuldigung! - Kein Problem. Es ist nichts passiert.",
       "Wie ist der Unfall passiert?",
-      "Man hat mir die Brieftasche gestohlen. – Das ist mir auch schon passiert."
+      "Man hat mir die Brieftasche gestohlen. - Das ist mir auch schon passiert."
     ]
   },
   {
@@ -24556,7 +24556,7 @@
       "headword": "Pech"
     },
     "examples": [
-      "Es regnet. Unser Picknick fällt leider aus. – So ein Pech!",
+      "Es regnet. Unser Picknick fällt leider aus. - So ein Pech!",
       "Wir hatten im Urlaub Pech mit dem Wetter."
     ]
   },
@@ -24711,7 +24711,7 @@
       "headword": "per"
     },
     "examples": [
-      "Wie kann ich mich für den Kurs anmelden? – Per Fax oder E-Mail."
+      "Wie kann ich mich für den Kurs anmelden? - Per Fax oder E-Mail."
     ]
   },
   {
@@ -25062,7 +25062,7 @@
       "plural": "¨-e"
     },
     "examples": [
-      "Was macht ihr im Sommer? – Ich weiß noch nicht, wir haben noch keine Pläne.",
+      "Was macht ihr im Sommer? - Ich weiß noch nicht, wir haben noch keine Pläne.",
       "Haben Sie einen Plan von Berlin?"
     ]
   },
@@ -27023,7 +27023,7 @@
     "examples": [
       "Ich habe großen Respekt vor meinem Lehrer.",
       "Du solltest ihr mehr Respekt entgegenbringen.",
-      "Ich habe bei der Prüfung alle Punkte erreicht! – Respekt!"
+      "Ich habe bei der Prüfung alle Punkte erreicht! - Respekt!"
     ]
   },
   {
@@ -27702,7 +27702,7 @@
       }
     },
     "examples": [
-      "Wie findest du diesen Sänger? − Ich finde seine Stimme toll."
+      "Wie findest du diesen Sänger? - Ich finde seine Stimme toll."
     ]
   },
   {
@@ -27712,7 +27712,7 @@
       "headword": "satt"
     },
     "examples": [
-      "Möchten Sie noch etwas? – Nein danke, ich bin satt."
+      "Möchten Sie noch etwas? - Nein danke, ich bin satt."
     ]
   },
   {
@@ -27770,7 +27770,7 @@
       "headword": "schade"
     },
     "examples": [
-      "Ich kann leider nicht mitkommen. – Das ist aber schade!",
+      "Ich kann leider nicht mitkommen. - Das ist aber schade!",
       "Schade, dass du nicht mitkommen kannst."
     ]
   },
@@ -27892,7 +27892,7 @@
       ]
     },
     "examples": [
-      "Wie alt ist der Chef? – Ich weiß nicht, ich schätze, um die Fünfzig.",
+      "Wie alt ist der Chef? - Ich weiß nicht, ich schätze, um die Fünfzig.",
       "Ich schätze deine gute Arbeit."
     ]
   },
@@ -28601,8 +28601,8 @@
       "Aber er ist noch sehr fit.",
       "Mach schon, ich kann nicht länger warten.",
       "Keine Sorge. Es wird schon klappen.",
-      "Kommst du mit spazieren? – Ich hätte schon Lust, aber ich muss arbeiten.",
-      "Ich mag keine Kartoffeln. Und du? – Ich schon."
+      "Kommst du mit spazieren? - Ich hätte schon Lust, aber ich muss arbeiten.",
+      "Ich mag keine Kartoffeln. Und du? - Ich schon."
     ]
   },
   {
@@ -28616,9 +28616,9 @@
       "Es ist schön heute.",
       "Wir wünschen Ihnen einen schönen Aufenthalt in Kiel.",
       "Schöne Grüße von Herrn Meier.",
-      "Möchten Sie noch eine Tasse Kaffee? – Nein, danke schön.",
+      "Möchten Sie noch eine Tasse Kaffee? - Nein, danke schön.",
       "Schön, dass du kommst.",
-      "Ich muss noch arbeiten. – Schön, dann bleiben wir zu Hause."
+      "Ich muss noch arbeiten. - Schön, dann bleiben wir zu Hause."
     ]
   },
   {
@@ -28722,7 +28722,7 @@
       ]
     },
     "examples": [
-      "Kinder, hört bitte auf, so laut zu schreien. – Ich muss arbeiten.",
+      "Kinder, hört bitte auf, so laut zu schreien. - Ich muss arbeiten.",
       "Unser Baby hat heute Nacht viel geschrien."
     ]
   },
@@ -28836,7 +28836,7 @@
       "headword": "schuldig"
     },
     "examples": [
-      "Was bin ich Ihnen schuldig? – 50 Euro, bitte."
+      "Was bin ich Ihnen schuldig? - 50 Euro, bitte."
     ]
   },
   {
@@ -29844,7 +29844,7 @@
       ]
     },
     "examples": [
-      "Wo möchten Sie sitzen? – Bitte ganz"
+      "Wo möchten Sie sitzen? - Bitte ganz"
     ]
   },
   {
@@ -29893,12 +29893,12 @@
       "headword": "so"
     },
     "examples": [
-      "Wie macht man das? – So!",
+      "Wie macht man das? - So!",
       "Sie müssen das so machen. Nicht so!",
       "Sie sind auch hier! So ein Zufall!",
       "Ich melde mich, so schnell ich kann.",
-      "Wann treffen wir uns? – So gegen 10 Uhr. Ist dir das recht?",
-      "Dauert es lange? – Eine Stunde oder so kann es schon dauern.",
+      "Wann treffen wir uns? - So gegen 10 Uhr. Ist dir das recht?",
+      "Dauert es lange? - Eine Stunde oder so kann es schon dauern.",
       "Ich hatte kein Geld dabei. Da haben sie mich so hineingelassen.",
       "So, jetzt bin ich fertig. Was machen wir jetzt?",
       "Fahren Sie bitte nicht so schnell! 10.Meine Frau ist so groß wie ich. 11.Was macht ihr denn so?"
@@ -30096,7 +30096,7 @@
       "headword": "sonst"
     },
     "examples": [
-      "Haben sie sonst noch einen Wunsch? – Nein, danke. Das ist alles.",
+      "Haben sie sonst noch einen Wunsch? - Nein, danke. Das ist alles.",
       "Wir müssen jetzt gehen, sonst wird es zu spät.",
       "Heute ist der Chef nicht mehr da. Sonst ist er um diese Zeit immer im Büro."
     ]
@@ -30689,7 +30689,7 @@
     },
     "examples": [
       "Wir waren im Schwimmbad. Mein Sohn ist immer wieder ins Wasser gesprungen.",
-      "Wie weit bist du heute gesprungen? – 3,40 m."
+      "Wie weit bist du heute gesprungen? - 3,40 m."
     ]
   },
   {
@@ -31320,7 +31320,7 @@
       ]
     },
     "examples": [
-      "Wo ist die Toilette? – Die Stiege hoch und dann links.",
+      "Wo ist die Toilette? - Die Stiege hoch und dann links.",
       "Meine Oma kann nicht gut Stiegen steigen."
     ]
   },
@@ -31373,7 +31373,7 @@
     },
     "examples": [
       "Meine Adresse stimmt nicht mehr.",
-      "Das Wetter in Deutschland könnte besser sein. – Das stimmt."
+      "Das Wetter in Deutschland könnte besser sein. - Das stimmt."
     ]
   },
   {
@@ -31400,7 +31400,7 @@
       ]
     },
     "examples": [
-      "Was stinkt denn hier so? – Das ist der Fisch. Er ist nicht mehr frisch."
+      "Was stinkt denn hier so? - Das ist der Fisch. Er ist nicht mehr frisch."
     ]
   },
   {
@@ -31445,7 +31445,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Was für ein Stoff ist das? – Wolle.",
+      "Was für ein Stoff ist das? - Wolle.",
       "In manchen Farben sind giftige Stoffe."
     ]
   },
@@ -31514,7 +31514,7 @@
       ]
     },
     "examples": [
-      "Wie haben Sie sich denn verletzt? – Ich habe mich an der Autotür gestoßen."
+      "Wie haben Sie sich denn verletzt? - Ich habe mich an der Autotür gestoßen."
     ]
   },
   {
@@ -31610,7 +31610,7 @@
     },
     "examples": [
       "Sind Sie die ganze Strecke zu Fuß gegangen?",
-      "Auf der Strecke München – Salzburg: 8 km Stau.",
+      "Auf der Strecke München - Salzburg: 8 km Stau.",
       "Ich möchte nach Hamburg fahren. Können Sie mir sagen, welche Strecke am besten ist?"
     ]
   },
@@ -31750,7 +31750,7 @@
     "examples": [
       "Ich nehme zwei Stück Zucker in den Kaffee.",
       "Möchten Sie noch ein Stück Kuchen?",
-      "Was kosten die Kulis? – Ein Euro pro Stück.",
+      "Was kosten die Kulis? - Ein Euro pro Stück.",
       "Ich begleite dich ein Stück.",
       "Er spielt in dem Stück die Hauptrolle."
     ]
@@ -32005,7 +32005,7 @@
     "examples": [
       "Das war ein super Film!",
       "Er kann super tanzen.",
-      "Weißt du was? Ich komme mit. – Super!"
+      "Weißt du was? Ich komme mit. - Super!"
     ]
   },
   {
@@ -32490,7 +32490,7 @@
     "examples": [
       "Mein Mann und ich teilen uns die Arbeit.",
       "Wollen wir uns eine Pizza teilen?",
-      "Was machst du mit dem Gewinn? – Ich teile ihn mit meiner Familie."
+      "Was machst du mit dem Gewinn? - Ich teile ihn mit meiner Familie."
     ]
   },
   {
@@ -32516,7 +32516,7 @@
     "examples": [
       "Was steht in dem Brief? Ich habe den ersten Teil nicht verstanden",
       "Der Film hat zwei Teile. Heute kommt Teil",
-      "Gefällt dir der neue Job? – Nur zum Teil."
+      "Gefällt dir der neue Job? - Nur zum Teil."
     ]
   },
   {
@@ -32857,7 +32857,7 @@
       "plural": "-e"
     },
     "examples": [
-      "Hat deine Familie ein Haustier? − Ja, wir haben einen Hund."
+      "Hat deine Familie ein Haustier? - Ja, wir haben einen Hund."
     ]
   },
   {
@@ -32927,8 +32927,8 @@
       "plural": "-"
     },
     "examples": [
-      "Wie heißt der Film? – Ich weiß den Titel nicht mehr.",
-      "Haben Sie einen Titel? – Ja, Doktor."
+      "Wie heißt der Film? - Ich weiß den Titel nicht mehr.",
+      "Haben Sie einen Titel? - Ja, Doktor."
     ]
   },
   {
@@ -33448,7 +33448,7 @@
       ]
     },
     "examples": [
-      "Wo ist die Toilette? – Die Treppe hoch und dann links.",
+      "Wo ist die Toilette? - Die Treppe hoch und dann links.",
       "Meine Oma kann nicht gut Treppen steigen."
     ]
   },
@@ -34285,7 +34285,7 @@
     },
     "examples": [
       "Je früher wir dort sind, umso besser sind unsere Chancen auf einen guten Sitzplatz.",
-      "Ich kann dir nicht nur heute, sondern auch morgen helfen. – Umso besser!"
+      "Ich kann dir nicht nur heute, sondern auch morgen helfen. - Umso besser!"
     ]
   },
   {
@@ -34481,7 +34481,7 @@
       "headword": "ungefähr"
     },
     "examples": [
-      "Wie weit ist es bis zum Bahnhof? – Nicht weit, ungefähr zehn Minuten zu Fuß."
+      "Wie weit ist es bis zum Bahnhof? - Nicht weit, ungefähr zehn Minuten zu Fuß."
     ]
   },
   {
@@ -34934,7 +34934,7 @@
     },
     "examples": [
       "Kennt man schon die Unfallursache?",
-      "Vielen Dank! – Keine Ursache!"
+      "Vielen Dank! - Keine Ursache!"
     ]
   },
   {
@@ -35310,7 +35310,7 @@
       "headword": "Verdacht"
     },
     "examples": [
-      "Wer hat das Geld aus der Kasse genommen? – Ich weiß es nicht, aber ich habe einen Verdacht.",
+      "Wer hat das Geld aus der Kasse genommen? - Ich weiß es nicht, aber ich habe einen Verdacht.",
       "Wen haben Sie in Verdacht?"
     ]
   },
@@ -36919,7 +36919,7 @@
     },
     "examples": [
       "Bitte vorn beim Fahrer einsteigen!",
-      "Zwei Kinokarten, bitte. – Wo möchten Sie sitzen, vorne oder hinten?",
+      "Zwei Kinokarten, bitte. - Wo möchten Sie sitzen, vorne oder hinten?",
       "Das war noch nicht ganz richtig. Bitte noch mal von vorne."
     ]
   },
@@ -37021,7 +37021,7 @@
       "plural": "-en"
     },
     "examples": [
-      "Wann läuft der Film? – Die nächste Vorstellung ist um 15 Uhr."
+      "Wann läuft der Film? - Die nächste Vorstellung ist um 15 Uhr."
     ]
   },
   {
@@ -37396,7 +37396,7 @@
       "headword": "was für ein-"
     },
     "examples": [
-      "Ich will mir ein Auto kaufen. – Was denn für eins?"
+      "Ich will mir ein Auto kaufen. - Was denn für eins?"
     ]
   },
   {
@@ -37633,7 +37633,7 @@
     },
     "examples": [
       "Bitte nicht weinen. Du bekommst eine neue Puppe.",
-      "War der Test schwierig? – Teilweise.",
+      "War der Test schwierig? - Teilweise.",
       "Das ist möglicherweise nicht so einfach."
     ]
   },
@@ -37750,7 +37750,7 @@
       "headword": "wenigstens"
     },
     "examples": [
-      "Ich habe keinen Hunger. – Ach, essen Sie wenigstens ein Stück Kuchen."
+      "Ich habe keinen Hunger. - Ach, essen Sie wenigstens ein Stück Kuchen."
     ]
   },
   {
@@ -37800,10 +37800,10 @@
     },
     "examples": [
       "Es wird kalt.",
-      "Ich habe morgen Geburtstag. − Wie alt wirst du denn?",
+      "Ich habe morgen Geburtstag. - Wie alt wirst du denn?",
       "Warum fährst du so schnell? Bist du verrückt geworden?!",
       "Mein Sohn möchte Polizist werden.",
-      "Wohin fahren Sie in Urlaub? – Ich glaube, wir werden dieses Jahr zu Hause bleiben."
+      "Wohin fahren Sie in Urlaub? - Ich glaube, wir werden dieses Jahr zu Hause bleiben."
     ]
   },
   {
@@ -38108,7 +38108,7 @@
       "headword": "wieso"
     },
     "examples": [
-      "Wie lange sind Sie hier? – Wieso fragen Sie?"
+      "Wie lange sind Sie hier? - Wieso fragen Sie?"
     ]
   },
   {
@@ -38338,7 +38338,7 @@
     },
     "examples": [
       "Woher kommst du?",
-      "Unsere Nachbarn ziehen nach Berlin. – Woher wissen Sie das?"
+      "Unsere Nachbarn ziehen nach Berlin. - Woher wissen Sie das?"
     ]
   },
   {
@@ -38506,7 +38506,7 @@
       "headword": "worum"
     },
     "examples": [
-      "Kann ich Herrn Meier sprechen? – Worum geht es denn?"
+      "Kann ich Herrn Meier sprechen? - Worum geht es denn?"
     ]
   },
   {
@@ -39020,7 +39020,7 @@
       ]
     },
     "examples": [
-      "Was hast du mit meinen Sachen gemacht? – Ich habe dein ganzes Zeug in dein Zimmer getan."
+      "Was hast du mit meinen Sachen gemacht? - Ich habe dein ganzes Zeug in dein Zimmer getan."
     ]
   },
   {
@@ -39270,7 +39270,7 @@
       "headword": "zuerst"
     },
     "examples": [
-      "Wer war zuerst? – Der Herr hier.",
+      "Wer war zuerst? - Der Herr hier.",
       "Zuerst gibt es Mittagessen. Dann könnt ihr Schokolade essen.",
       "Zuerst hat mir die Arbeit gar nicht gefallen. Jetzt geht es besser."
     ]
@@ -39608,7 +39608,7 @@
       "Wir haben als Kinder oft zusammen gespielt.",
       "Zahlen bitte. - Zusammen oder getrennt?",
       "Das macht zusammen 10 Euro",
-      "Fuß und Ball musst du zusammenschreiben – Fußball!"
+      "Fuß und Ball musst du zusammenschreiben - Fußball!"
     ]
   },
   {
@@ -39672,7 +39672,7 @@
       ]
     },
     "examples": [
-      "Willst du mitspielen? – Nein, ich schaue lieber nur zu."
+      "Willst du mitspielen? - Nein, ich schaue lieber nur zu."
     ]
   },
   {
