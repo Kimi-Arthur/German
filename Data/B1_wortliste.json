@@ -146,29 +146,17 @@
   },
   {
     "id": "abhängen",
-    "raw_word": "abhängen, hängt ab, hing",
+    "raw_word": "abhängen (von), hängt ab, hing ab, hat abgehangen",
     "details": {
-      "headword": "abhängen",
+      "headword": "abhängen (von)",
       "conjugation": [
         "hängt ab",
-        "hing"
-      ]
-    },
-    "examples": [
-      "Vielleicht bleiben wir ein paar Tage"
-    ]
-  },
-  {
-    "id": "ab",
-    "raw_word": "ab, hat abgehangen (von)",
-    "details": {
-      "headword": "ab",
-      "conjugation": [
+        "hing",
         "hat abgehangen (von)"
       ]
     },
     "examples": [
-      "länger, das hängt vom Wetter ab."
+      "Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab."
     ]
   },
   {
@@ -324,29 +312,17 @@
   },
   {
     "id": "absagen",
-    "raw_word": "absagen, sagt ab, sagte",
+    "raw_word": "absagen, sagt ab, sagte ab, hat abgesagt",
     "details": {
       "headword": "absagen",
       "conjugation": [
         "sagt ab",
-        "sagte"
-      ]
-    },
-    "examples": [
-      "Ich muss unser Treffen leider absagen,"
-    ]
-  },
-  {
-    "id": "ab",
-    "raw_word": "ab, hat abgesagt",
-    "details": {
-      "headword": "ab",
-      "conjugation": [
+        "sagte",
         "hat abgesagt"
       ]
     },
     "examples": [
-      "weil ich krank geworden bin."
+      "Ich muss unser Treffen leider absagen, weil ich krank geworden bin."
     ]
   },
   {
@@ -2177,29 +2153,17 @@
   },
   {
     "id": "aufgeben",
-    "raw_word": "aufgeben, gibt auf, gab",
+    "raw_word": "aufgeben, gibt auf, gab auf, hat aufgegeben",
     "details": {
       "headword": "aufgeben",
       "conjugation": [
         "gibt auf",
-        "gab"
-      ]
-    },
-    "examples": [
-      "1. Ich habe auf der Post ein Paket"
-    ]
-  },
-  {
-    "id": "auf",
-    "raw_word": "auf, hat aufgegeben",
-    "details": {
-      "headword": "auf",
-      "conjugation": [
+        "gab",
         "hat aufgegeben"
       ]
     },
     "examples": [
-      "aufgegeben.",
+      "Ich habe auf der Post ein Paket aufgegeben.",
       "Man darf nie aufgeben. Es gibt immer eine Hoffnung."
     ]
   },
@@ -2215,7 +2179,7 @@
       ]
     },
     "examples": [
-      "1. Wo hält er sich gerade auf? - In München.",
+      "Wo hält er sich gerade auf? - In München.",
       "Darf ich Ihnen die Tür aufhalten?",
       "Entschuldigen Sie die Verspätung, ich wurde aufgehalten."
     ]
@@ -3210,7 +3174,7 @@
       ]
     },
     "examples": [
-      "1. Wenn du baden möchtest: Das"
+      "Wenn du baden möchtest: Das"
     ]
   },
   {
@@ -4044,7 +4008,7 @@
       ]
     },
     "examples": [
-      "1. Bitte parken Sie so, dass Sie niemanden behindern."
+      "Bitte parken Sie so, dass Sie niemanden behindern."
     ]
   },
   {
@@ -6438,7 +6402,7 @@
       "plural": "-e"
     },
     "examples": [
-      "1. Du siehst toll aus! Wer ist dein"
+      "Du siehst toll aus! Wer ist dein"
     ]
   },
   {
@@ -8579,29 +8543,17 @@
   },
   {
     "id": "einsteigen",
-    "raw_word": "einsteigen, steigt ein, stieg",
+    "raw_word": "einsteigen, steigt ein, stieg ein, ist eingestiegen",
     "details": {
       "headword": "einsteigen",
       "conjugation": [
         "steigt ein",
-        "stieg"
-      ]
-    },
-    "examples": [
-      "1. Ab 20 Uhr vorne beim Fahrer"
-    ]
-  },
-  {
-    "id": "ein",
-    "raw_word": "ein, ist eingestiegen",
-    "details": {
-      "headword": "ein",
-      "conjugation": [
+        "stieg",
         "ist eingestiegen"
       ]
     },
     "examples": [
-      "einsteigen.",
+      "Ab 20 Uhr vorne beim Fahrer einsteigen.",
       "Steig ein. Wir wollen losfahren."
     ]
   },
@@ -8638,29 +8590,17 @@
   },
   {
     "id": "eintreten",
-    "raw_word": "eintreten, tritt ein, trat",
+    "raw_word": "eintreten, tritt ein, trat ein, ist eingetreten",
     "details": {
       "headword": "eintreten",
       "conjugation": [
         "tritt ein",
-        "trat"
-      ]
-    },
-    "examples": [
-      "Letztes Jahr bin ich in einen"
-    ]
-  },
-  {
-    "id": "ein",
-    "raw_word": "ein, ist eingetreten",
-    "details": {
-      "headword": "ein",
-      "conjugation": [
+        "trat",
         "ist eingetreten"
       ]
     },
     "examples": [
-      "Sportverein eingetreten."
+      "Letztes Jahr bin ich in einen Sportverein eingetreten."
     ]
   },
   {
@@ -9627,7 +9567,7 @@
       ]
     },
     "examples": [
-      "1. Die Regierung wird sicher bald wieder die Steuern erhöhen."
+      "Die Regierung wird sicher bald wieder die Steuern erhöhen."
     ]
   },
   {
@@ -10022,7 +9962,7 @@
       ]
     },
     "examples": [
-      "1. Du hast richtig krank ausgesehen. Ich war ganz erschrocken."
+      "Du hast richtig krank ausgesehen. Ich war ganz erschrocken."
     ]
   },
   {
@@ -10290,7 +10230,7 @@
       "headword": "etwa"
     },
     "examples": [
-      "1. Von hier sind es etwa zwanzig Kilometer."
+      "Von hier sind es etwa zwanzig Kilometer."
     ]
   },
   {
@@ -10456,7 +10396,7 @@
       ]
     },
     "examples": [
-      "1. Wir sind mit dem Zug gefahren."
+      "Wir sind mit dem Zug gefahren."
     ]
   },
   {
@@ -11403,7 +11343,7 @@
       ]
     },
     "examples": [
-      "1. Meine Tante hat eine gute Arbeit"
+      "Meine Tante hat eine gute Arbeit"
     ]
   },
   {
@@ -12754,7 +12694,7 @@
       "plural": "-n"
     },
     "examples": [
-      "1. Die Mäntel bitte an der Garderobe abgeben."
+      "Die Mäntel bitte an der Garderobe abgeben."
     ]
   },
   {
@@ -13644,7 +13584,7 @@
       ]
     },
     "examples": [
-      "1. Ich habe meine gesamten Bücher verschenkt. 2. z. B. Gesamtgewicht, Gesamtsumme"
+      "Ich habe meine gesamten Bücher verschenkt. 2. z. B. Gesamtgewicht, Gesamtsumme"
     ]
   },
   {
@@ -13991,7 +13931,7 @@
       ]
     },
     "examples": [
-      "1. Wir haben uns an das Leben hier gewöhnt."
+      "Wir haben uns an das Leben hier gewöhnt."
     ]
   },
   {
@@ -16999,7 +16939,7 @@
       "plural": "-n"
     },
     "examples": [
-      "1. Die Jugendlichen gehen gerne in die"
+      "Die Jugendlichen gehen gerne in die"
     ]
   },
   {
@@ -17698,7 +17638,7 @@
       ]
     },
     "examples": [
-      "1. Wo habt ihr euch kennengelernt?"
+      "Wo habt ihr euch kennengelernt?"
     ]
   },
   {
@@ -19598,7 +19538,7 @@
       ]
     },
     "examples": [
-      "1. Lachen ist gesund."
+      "Lachen ist gesund."
     ]
   },
   {
@@ -19712,7 +19652,7 @@
       ]
     },
     "examples": [
-      "1. Wir sind erst um 20 Uhr in München"
+      "Wir sind erst um 20 Uhr in München"
     ]
   },
   {
@@ -19971,7 +19911,7 @@
       ]
     },
     "examples": [
-      "1. Leben Ihre Großeltern noch?"
+      "Leben Ihre Großeltern noch?"
     ]
   },
   {
@@ -20067,7 +20007,7 @@
       ]
     },
     "examples": [
-      "1. Ich habe Ihnen die Briefe auf den"
+      "Ich habe Ihnen die Briefe auf den"
     ]
   },
   {
@@ -22795,7 +22735,7 @@
       ]
     },
     "examples": [
-      "1. Meine Mutter näht ihre Kleider selbst."
+      "Meine Mutter näht ihre Kleider selbst."
     ]
   },
   {
@@ -24319,7 +24259,7 @@
       ]
     },
     "examples": [
-      "1. Hier dürfen Sie nicht parken."
+      "Hier dürfen Sie nicht parken."
     ]
   },
   {
@@ -29423,7 +29363,7 @@
       ]
     },
     "examples": [
-      "1. Bitte senden Sie uns die Unterlagen per E-Mail."
+      "Bitte senden Sie uns die Unterlagen per E-Mail."
     ]
   },
   {
@@ -29738,7 +29678,7 @@
       ]
     },
     "examples": [
-      "1. Ich singe gern."
+      "Ich singe gern."
     ]
   },
   {
@@ -29822,7 +29762,7 @@
       ]
     },
     "examples": [
-      "1. Wo möchten Sie sitzen? - Bitte ganz"
+      "Wo möchten Sie sitzen? - Bitte ganz"
     ]
   },
   {
@@ -30004,7 +29944,7 @@
       ]
     },
     "examples": [
-      "1. Wann soll ich kommen?"
+      "Wann soll ich kommen?"
     ]
   },
   {
@@ -30231,7 +30171,7 @@
       ]
     },
     "examples": [
-      "1. Ein Auto ist mir zu teuer, ich muss"
+      "Ein Auto ist mir zu teuer, ich muss"
     ]
   },
   {
@@ -34282,7 +34222,7 @@
       "headword": "umsonst"
     },
     "examples": [
-      "1. Ich musste nichts bezahlen. Die Reparatur war umsonst."
+      "Ich musste nichts bezahlen. Die Reparatur war umsonst."
     ]
   },
   {
@@ -34364,29 +34304,17 @@
   },
   {
     "id": "umziehen",
-    "raw_word": "umziehen, zieht um, zog",
+    "raw_word": "umziehen, zieht um, zog um, ist umgezogen",
     "details": {
       "headword": "umziehen",
       "conjugation": [
         "zieht um",
-        "zog"
-      ]
-    },
-    "examples": [
-      "Familie Meier ist letzten Monat"
-    ]
-  },
-  {
-    "id": "um",
-    "raw_word": "um, ist umgezogen",
-    "details": {
-      "headword": "um",
-      "conjugation": [
+        "zog",
         "ist umgezogen"
       ]
     },
     "examples": [
-      "umgezogen. Sie wohnen nicht mehr hier."
+      "Familie Meier ist letzten Monat umgezogen. Sie wohnen nicht mehr hier."
     ]
   },
   {
@@ -35204,7 +35132,7 @@
       ]
     },
     "examples": [
-      "1. Wir müssen die Wunde sofort verbinden."
+      "Wir müssen die Wunde sofort verbinden."
     ]
   },
   {
@@ -39704,7 +39632,7 @@
       ]
     },
     "examples": [
-      "1. Am Sonntag sind die die meisten"
+      "Am Sonntag sind die die meisten"
     ]
   },
   {

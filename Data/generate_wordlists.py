@@ -774,6 +774,97 @@ def post_process_entries(entries, pdf_type):
                 merged.append(entry)
                 merged.append(next_entry)
                 i += 2
+            # 6. Merging abhängen
+            elif eid == "abhängen" and i + 1 < len(entries) and entries[i+1].get("id") == "ab" and "abgehangen" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "abhängen (von), hängt ab, hing ab, hat abgehangen"
+                entry["details"]["headword"] = "abhängen (von)"
+                entry["details"]["conjugation"] = ["hängt ab", "hing", "hat abgehangen (von)"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 7. Merging absagen
+            elif eid == "absagen" and i + 1 < len(entries) and entries[i+1].get("id") == "ab" and "abgesagt" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "absagen, sagt ab, sagte ab, hat abgesagt"
+                entry["details"]["conjugation"] = ["sagt ab", "sagte", "hat abgesagt"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 8. Merging aufgeben
+            elif eid == "aufgeben" and i + 1 < len(entries) and entries[i+1].get("id") == "auf" and "aufgegeben" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "aufgeben, gibt auf, gab auf, hat aufgegeben"
+                entry["details"]["conjugation"] = ["gibt auf", "gab", "hat aufgegeben"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 9. Merging einsteigen
+            elif eid == "einsteigen" and i + 1 < len(entries) and entries[i+1].get("id") == "ein" and "eingestiegen" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "einsteigen, steigt ein, stieg ein, ist eingestiegen"
+                entry["details"]["conjugation"] = ["steigt ein", "stieg", "ist eingestiegen"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 10. Merging eintreten
+            elif eid == "eintreten" and i + 1 < len(entries) and entries[i+1].get("id") == "ein" and "eingetreten" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "eintreten, tritt ein, trat ein, ist eingetreten"
+                entry["details"]["conjugation"] = ["tritt ein", "trat", "ist eingetreten"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
+            # 11. Merging umziehen
+            elif eid == "umziehen" and i + 1 < len(entries) and entries[i+1].get("id") == "um" and "umgezogen" in entries[i+1].get("raw_word", ""):
+                next_entry = entries[i+1]
+                entry["raw_word"] = "umziehen, zieht um, zog um, ist umgezogen"
+                entry["details"]["conjugation"] = ["zieht um", "zog", "ist umgezogen"]
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
             else:
                 merged.append(entry)
                 i += 1
@@ -931,6 +1022,14 @@ def post_process_entries(entries, pdf_type):
         else:
             processed.append(apply_general_rules(entry))
             
+    # Clean up leading list numbers from the first example sentence of all processed entries
+    for entry in processed:
+        if entry.get("examples"):
+            first_ex = entry["examples"][0].strip()
+            match = re.match(r'^1\.\s+([A-ZÄÖÜ].*)$', first_ex)
+            if match:
+                entry["examples"][0] = match.group(1)
+
     return processed
 
 def main():
