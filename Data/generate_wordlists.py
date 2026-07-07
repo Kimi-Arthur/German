@@ -601,8 +601,68 @@ def post_process_entries(entries, pdf_type):
         while i < len(entries):
             entry = entries[i]
             eid = entry.get("id")
-            # 1. Merging der Bescheid verbs
-            if eid == "der Bescheid" and i + 1 < len(entries) and entries[i+1].get("id") == "(bekommen/ geben/sagen)":
+            # 0. Merging split verbs
+            if eid == "abschließen" and i + 1 < len(entries) and entries[i+1].get("id") == "schließt ab":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "abschließen, schließt ab, hat abgeschlossen"
+                entry["details"] = {
+                    "headword": "abschließen",
+                    "conjugation": ["schließt ab", "hat abgeschlossen"]
+                }
+                entry["examples"] = (entry.get("examples") or []) + (next_entry.get("examples") or [])
+                merged.append(entry)
+                i += 2
+            elif eid == "anbieten" and i + 1 < len(entries) and entries[i+1].get("id") == "hat angeboten":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "anbieten, bietet an, hat angeboten"
+                entry["details"] = {
+                    "headword": "anbieten",
+                    "conjugation": ["bietet an", "hat angeboten"]
+                }
+                entry["examples"] = (entry.get("examples") or []) + (next_entry.get("examples") or [])
+                merged.append(entry)
+                i += 2
+            elif eid == "anmelden (sich)" and i + 1 < len(entries) and entries[i+1].get("id") == "meldet an":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "anmelden (sich), meldet an, hat angemeldet"
+                entry["details"] = {
+                    "headword": "anmelden (sich)",
+                    "conjugation": ["meldet an", "hat angemeldet"]
+                }
+                entry["examples"] = (entry.get("examples") or []) + (next_entry.get("examples") or [])
+                merged.append(entry)
+                i += 2
+            elif eid == "nehmen" and i + 1 < len(entries) and entries[i+1].get("id") == "hat genommen":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "nehmen, nimmt, hat genommen"
+                entry["details"] = {
+                    "headword": "nehmen",
+                    "conjugation": ["nimmt", "hat genommen"]
+                }
+                entry["examples"] = (entry.get("examples") or []) + (next_entry.get("examples") or [])
+                merged.append(entry)
+                i += 2
+            elif eid == "teilen" and i + 1 < len(entries) and entries[i+1].get("id") == "hat geteilt":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "teilen, teilt, hat geteilt"
+                entry["details"] = {
+                    "headword": "teilen",
+                    "conjugation": ["teilt", "hat geteilt"]
+                }
+                entry["examples"] = (entry.get("examples") or []) + (next_entry.get("examples") or [])
+                merged.append(entry)
+                i += 2
+            elif eid == "treffen (sich)" and i + 1 < len(entries) and entries[i+1].get("id") == "trifft":
+                next_entry = entries[i+1]
+                entry["raw_word"] = "treffen (sich), trifft, hat getroffen"
+                entry["details"] = {
+                    "headword": "treffen (sich)",
+                    "conjugation": ["trifft", "hat getroffen"]
+                }
+                entry["examples"] = (entry.get("examples") or []) + (next_entry.get("examples") or [])
+                merged.append(entry)
+                i += 2
+            elif eid == "der Bescheid" and i + 1 < len(entries) and entries[i+1].get("id") == "(bekommen/ geben/sagen)":
                 next_entry = entries[i+1]
                 entry["raw_word"] = "der Bescheid (bekommen / geben / sagen)"
                 entry["details"]["verbs"] = ["bekommen", "geben", "sagen"]

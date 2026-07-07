@@ -53,24 +53,16 @@
   },
   {
     "id": "abschließen",
-    "raw_word": "abschließen,",
+    "raw_word": "abschließen, schließt ab, hat abgeschlossen",
     "details": {
-      "headword": "abschließen"
-    },
-    "examples": [
-      "Hast du die Tür abgeschlossen?"
-    ]
-  },
-  {
-    "id": "schließt ab",
-    "raw_word": "schließt ab, hat abgeschlossen",
-    "details": {
-      "headword": "schließt ab",
+      "headword": "abschließen",
       "conjugation": [
+        "schließt ab",
         "hat abgeschlossen"
       ]
     },
     "examples": [
+      "Hast du die Tür abgeschlossen?",
       "Ich schließe dieses Jahr mein Studium/ meine Ausbildung ab."
     ]
   },
@@ -230,24 +222,16 @@
   },
   {
     "id": "anbieten",
-    "raw_word": "anbieten, bietet an,",
+    "raw_word": "anbieten, bietet an, hat angeboten",
     "details": {
       "headword": "anbieten",
       "conjugation": [
-        "bietet an"
+        "bietet an",
+        "hat angeboten"
       ]
     },
     "examples": [
-      "Darf ich Ihnen/dir ein Stück Kuchen anbieten?"
-    ]
-  },
-  {
-    "id": "hat angeboten",
-    "raw_word": "hat angeboten",
-    "details": {
-      "headword": "hat angeboten"
-    },
-    "examples": [
+      "Darf ich Ihnen/dir ein Stück Kuchen anbieten?",
       "Er hat mir eine Stelle als Verkäuferin angeboten."
     ]
   },
@@ -385,24 +369,16 @@
   },
   {
     "id": "anmelden (sich)",
-    "raw_word": "anmelden (sich),",
+    "raw_word": "anmelden (sich), meldet an, hat angemeldet",
     "details": {
-      "headword": "anmelden (sich)"
-    },
-    "examples": [
-      "Wo kann ich mich anmelden?"
-    ]
-  },
-  {
-    "id": "meldet an",
-    "raw_word": "meldet an, hat angemeldet",
-    "details": {
-      "headword": "meldet an",
+      "headword": "anmelden (sich)",
       "conjugation": [
+        "meldet an",
         "hat angemeldet"
       ]
     },
     "examples": [
+      "Wo kann ich mich anmelden?",
       "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
     ]
   },
@@ -8636,24 +8612,16 @@
   },
   {
     "id": "nehmen",
-    "raw_word": "nehmen, nimmt,",
+    "raw_word": "nehmen, nimmt, hat genommen",
     "details": {
       "headword": "nehmen",
       "conjugation": [
-        "nimmt"
+        "nimmt",
+        "hat genommen"
       ]
     },
     "examples": [
-      "Nehmen Sie die Tabletten vor dem Essen!"
-    ]
-  },
-  {
-    "id": "hat genommen",
-    "raw_word": "hat genommen",
-    "details": {
-      "headword": "hat genommen"
-    },
-    "examples": [
+      "Nehmen Sie die Tabletten vor dem Essen!",
       "Was möchten Sie? -Ich nehme einen Salat.",
       "Ich nehme den Bus."
     ]
@@ -12176,24 +12144,16 @@
   },
   {
     "id": "teilen",
-    "raw_word": "teilen, teilt,",
+    "raw_word": "teilen, teilt, hat geteilt",
     "details": {
       "headword": "teilen",
       "conjugation": [
-        "teilt"
+        "teilt",
+        "hat geteilt"
       ]
     },
     "examples": [
-      "Wollen wir die Pizza teilen?"
-    ]
-  },
-  {
-    "id": "hat geteilt",
-    "raw_word": "hat geteilt",
-    "details": {
-      "headword": "hat geteilt"
-    },
-    "examples": [
+      "Wollen wir die Pizza teilen?",
       "Mein Mann und ich teilen uns die Arbeit."
     ]
   },
@@ -12585,24 +12545,16 @@
   },
   {
     "id": "treffen (sich)",
-    "raw_word": "treffen (sich),",
+    "raw_word": "treffen (sich), trifft, hat getroffen",
     "details": {
-      "headword": "treffen (sich)"
-    },
-    "examples": [
-      "Ich treffe in der Stadt einen Kollegen."
-    ]
-  },
-  {
-    "id": "trifft",
-    "raw_word": "trifft, hat getroffen",
-    "details": {
-      "headword": "trifft",
+      "headword": "treffen (sich)",
       "conjugation": [
+        "trifft",
         "hat getroffen"
       ]
     },
     "examples": [
+      "Ich treffe in der Stadt einen Kollegen.",
       "Wir treffen uns immer freitags."
     ]
   },
