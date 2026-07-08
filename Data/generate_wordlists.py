@@ -822,47 +822,66 @@ def post_process_entries(entries, pdf_type):
                     entry["examples"] = ex1 + ex2
                 merged.append(entry)
                 i += 2
-            # 5. Merging der Bekannte and die Bekannte examples
-            elif eid == "der Bekannte" and i + 1 < len(entries) and entries[i+1].get("id") == "die Bekannte":
-                next_entry = entries[i+1]
-                ex1 = entry.get("examples", [])
-                ex2 = next_entry.get("examples", [])
-                if ex1 and ex2:
-                    combined_ex = ex1[0] + " " + ex2[0]
-                    combined_ex = re.sub(r'\s+', ' ', combined_ex).strip()
-                    entry["examples"] = [combined_ex]
-                    next_entry["examples"] = [combined_ex]
-                merged.append(entry)
-                merged.append(next_entry)
-                i += 2
-            # 5b. Merging der Jugendliche and die Jugendliche into one entry
-            elif eid == "der Jugendliche" and i + 1 < len(entries) and entries[i+1].get("id") == "die Jugendliche":
-                next_entry = entries[i+1]
-                entry["id"] = "der/die Jugendliche"
-                entry["raw_word"] = "der/die Jugendliche, -n"
-                entry["details"] = {
-                    "article": "der",
-                    "headword": "Jugendliche",
-                    "female_form": {
-                        "id": "die Jugendliche",
-                        "raw_word": "die Jugendliche, -n",
-                        "details": {
-                            "article": "die",
-                            "headword": "Jugendliche",
-                            "plural": "-n"
+            # 5. Merging adjektivische Deklination masculine and feminine entries
+            elif eid in ["der Angehörige", "der Angestellte", "der Bekannte", "der Jugendliche", "der Kranke", "der Studierende", "der Tote", "der Verwandte"] and i + 1 < len(entries):
+                word_base = eid[4:] # e.g. "Angehörige"
+                expected_next_id = f"die {word_base}"
+                if entries[i+1].get("id") == expected_next_id:
+                    next_entry = entries[i+1]
+                    entry["id"] = f"der/die {word_base}"
+                    entry["raw_word"] = f"der/die {word_base}, -n"
+                    entry["details"] = {
+                        "article": "der",
+                        "headword": word_base,
+                        "female_form": {
+                            "id": f"die {word_base}",
+                            "raw_word": f"die {word_base}, -n",
+                            "details": {
+                                "article": "die",
+                                "headword": word_base,
+                                "plural": "-n"
+                            }
                         }
                     }
-                }
-                ex1 = entry.get("examples", [])
-                ex2 = next_entry.get("examples", [])
-                if ex1 and ex2:
-                    combined_first = ex1[-1] + " " + ex2[0]
-                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
-                    entry["examples"] = [combined_first] + ex2[1:]
+                    
+                    ex1 = entry.get("examples", [])
+                    ex2 = next_entry.get("examples", [])
+                    if ex1 and ex2:
+                        if ex1[-1] == ex2[0]:
+                            entry["examples"] = ex1
+                        elif not ex1[-1].endswith((".", "!", "?", "\"")):
+                            combined_first = ex1[-1] + " " + ex2[0]
+                            combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                            entry["examples"] = ex1[:-1] + [combined_first] + ex2[1:]
+                        else:
+                            entry["examples"] = ex1 + ex2
+                    else:
+                        entry["examples"] = ex1 or ex2
+                        
+                    merged.append(entry)
+                    i += 2
                 else:
-                    entry["examples"] = ex1 + ex2
+                    merged.append(entry)
+                    i += 1
+            # 5b. Merging die See / die Nord-/Ostsee / sehen split examples
+            elif eid == "die See" and i + 2 < len(entries) and entries[i+1].get("id") == "die Nord-/Ostsee" and entries[i+2].get("id") == "sehen":
+                next_entry1 = entries[i+1]
+                next_entry2 = entries[i+2]
+                
+                ex_see = entry.get("examples", [])
+                ex_nord = next_entry1.get("examples", [])
+                if ex_see and ex_nord:
+                    entry["examples"] = [ex_see[0] + " " + ex_nord[0]]
+                
+                ex_sehen = next_entry2.get("examples", [])
+                if ex_sehen:
+                    next_entry1["examples"] = [ex_sehen[0]]
+                    next_entry2["examples"] = ex_sehen[1:]
+                
                 merged.append(entry)
-                i += 2
+                merged.append(next_entry1)
+                merged.append(next_entry2)
+                i += 3
             # 6. Merging abhängen
             elif eid == "abhängen" and i + 1 < len(entries) and entries[i+1].get("id") == "ab" and "abgehangen" in entries[i+1].get("raw_word", ""):
                 next_entry = entries[i+1]

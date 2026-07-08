@@ -1095,27 +1095,23 @@
     ]
   },
   {
-    "id": "der Angehörige",
-    "raw_word": "der Angehörige, -n",
+    "id": "der/die Angehörige",
+    "raw_word": "der/die Angehörige, -n",
     "details": {
       "article": "der",
       "headword": "Angehörige",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Angehörige",
+        "raw_word": "die Angehörige, -n",
+        "details": {
+          "article": "die",
+          "headword": "Angehörige",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
-      "Der Arzt darf nur Familienangehörigen"
-    ]
-  },
-  {
-    "id": "die Angehörige",
-    "raw_word": "die Angehörige, -n",
-    "details": {
-      "article": "die",
-      "headword": "Angehörige",
-      "plural": "-n"
-    },
-    "examples": [
-      "Auskunft geben."
+      "Der Arzt darf nur Familienangehörigen Auskunft geben."
     ]
   },
   {
@@ -1487,27 +1483,23 @@
     ]
   },
   {
-    "id": "der Angestellte",
-    "raw_word": "der Angestellte, -n",
+    "id": "der/die Angestellte",
+    "raw_word": "der/die Angestellte, -n",
     "details": {
       "article": "der",
       "headword": "Angestellte",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Angestellte",
+        "raw_word": "die Angestellte, -n",
+        "details": {
+          "article": "die",
+          "headword": "Angestellte",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
-      "Björn ist Angestellter in einem"
-    ]
-  },
-  {
-    "id": "die Angestellte",
-    "raw_word": "die Angestellte, -n",
-    "details": {
-      "article": "die",
-      "headword": "Angestellte",
-      "plural": "-n"
-    },
-    "examples": [
-      "Reisebüro."
+      "Björn ist Angestellter in einem Reisebüro."
     ]
   },
   {
@@ -4134,24 +4126,20 @@
     ]
   },
   {
-    "id": "der Bekannte",
-    "raw_word": "der Bekannte, -n",
+    "id": "der/die Bekannte",
+    "raw_word": "der/die Bekannte, -n",
     "details": {
       "article": "der",
       "headword": "Bekannte",
-      "plural": "-n"
-    },
-    "examples": [
-      "In Hannover wohnen Bekannte von mir."
-    ]
-  },
-  {
-    "id": "die Bekannte",
-    "raw_word": "die Bekannte, -n",
-    "details": {
-      "article": "die",
-      "headword": "Bekannte",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Bekannte",
+        "raw_word": "die Bekannte, -n",
+        "details": {
+          "article": "die",
+          "headword": "Bekannte",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
       "In Hannover wohnen Bekannte von mir."
@@ -18866,25 +18854,24 @@
     ]
   },
   {
-    "id": "der Kranke",
-    "raw_word": "der Kranke, -n",
+    "id": "der/die Kranke",
+    "raw_word": "der/die Kranke, -n",
     "details": {
       "article": "der",
       "headword": "Kranke",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Kranke",
+        "raw_word": "die Kranke, -n",
+        "details": {
+          "article": "die",
+          "headword": "Kranke",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
       "Kranke brauchen viel Ruhe."
     ]
-  },
-  {
-    "id": "die Kranke",
-    "raw_word": "die Kranke, -n",
-    "details": {
-      "article": "die",
-      "headword": "Kranke",
-      "plural": "-n"
-    }
   },
   {
     "id": "das Krankenhaus",
@@ -29069,7 +29056,7 @@
       "headword": "See"
     },
     "examples": [
-      "Im Sommer fahren wir immer an die"
+      "Im Sommer fahren wir immer an die See."
     ]
   },
   {
@@ -29083,7 +29070,7 @@
       ]
     },
     "examples": [
-      "See."
+      "Warst du schon mal an der Nord/Ostsee?"
     ]
   },
   {
@@ -29098,7 +29085,6 @@
       ]
     },
     "examples": [
-      "Warst du schon mal an der Nord/Ostsee?",
       "Ich sehe nicht gut. Ich brauche eine Brille.",
       "Ich habe einen schönen Film gesehen.",
       "Wir haben uns lange nicht gesehen.",
@@ -31730,27 +31716,23 @@
     ]
   },
   {
-    "id": "der Studierende",
-    "raw_word": "der Studierende, -n",
+    "id": "der/die Studierende",
+    "raw_word": "der/die Studierende, -n",
     "details": {
       "article": "der",
       "headword": "Studierende",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Studierende",
+        "raw_word": "die Studierende, -n",
+        "details": {
+          "article": "die",
+          "headword": "Studierende",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
-      "Zehn Studierende besuchen das"
-    ]
-  },
-  {
-    "id": "die Studierende",
-    "raw_word": "die Studierende, -n",
-    "details": {
-      "article": "die",
-      "headword": "Studierende",
-      "plural": "-n"
-    },
-    "examples": [
-      "Seminar."
+      "Zehn Studierende besuchen das Seminar."
     ]
   },
   {
@@ -33001,25 +32983,24 @@
     ]
   },
   {
-    "id": "der Tote",
-    "raw_word": "der Tote, -n",
+    "id": "der/die Tote",
+    "raw_word": "der/die Tote, -n",
     "details": {
       "article": "der",
       "headword": "Tote",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Tote",
+        "raw_word": "die Tote, -n",
+        "details": {
+          "article": "die",
+          "headword": "Tote",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
       "Bei dem Unfall gab es zwei Tote."
     ]
-  },
-  {
-    "id": "die Tote",
-    "raw_word": "die Tote, -n",
-    "details": {
-      "article": "die",
-      "headword": "Tote",
-      "plural": "-n"
-    }
   },
   {
     "id": "total",
@@ -36328,27 +36309,23 @@
     ]
   },
   {
-    "id": "der Verwandte",
-    "raw_word": "der Verwandte, -n",
+    "id": "der/die Verwandte",
+    "raw_word": "der/die Verwandte, -n",
     "details": {
       "article": "der",
       "headword": "Verwandte",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Verwandte",
+        "raw_word": "die Verwandte, -n",
+        "details": {
+          "article": "die",
+          "headword": "Verwandte",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
-      "Zu meinem Geburtstag kommen alle"
-    ]
-  },
-  {
-    "id": "die Verwandte",
-    "raw_word": "die Verwandte, -n",
-    "details": {
-      "article": "die",
-      "headword": "Verwandte",
-      "plural": "-n"
-    },
-    "examples": [
-      "Verwandten."
+      "Zu meinem Geburtstag kommen alle Verwandten."
     ]
   },
   {
