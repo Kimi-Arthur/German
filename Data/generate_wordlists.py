@@ -835,6 +835,34 @@ def post_process_entries(entries, pdf_type):
                 merged.append(entry)
                 merged.append(next_entry)
                 i += 2
+            # 5b. Merging der Jugendliche and die Jugendliche into one entry
+            elif eid == "der Jugendliche" and i + 1 < len(entries) and entries[i+1].get("id") == "die Jugendliche":
+                next_entry = entries[i+1]
+                entry["id"] = "der/die Jugendliche"
+                entry["raw_word"] = "der/die Jugendliche, -n"
+                entry["details"] = {
+                    "article": "der",
+                    "headword": "Jugendliche",
+                    "female_form": {
+                        "id": "die Jugendliche",
+                        "raw_word": "die Jugendliche, -n",
+                        "details": {
+                            "article": "die",
+                            "headword": "Jugendliche",
+                            "plural": "-n"
+                        }
+                    }
+                }
+                ex1 = entry.get("examples", [])
+                ex2 = next_entry.get("examples", [])
+                if ex1 and ex2:
+                    combined_first = ex1[-1] + " " + ex2[0]
+                    combined_first = re.sub(r'\s+', ' ', combined_first).strip()
+                    entry["examples"] = [combined_first] + ex2[1:]
+                else:
+                    entry["examples"] = ex1 + ex2
+                merged.append(entry)
+                i += 2
             # 6. Merging abhängen
             elif eid == "abhängen" and i + 1 < len(entries) and entries[i+1].get("id") == "ab" and "abgehangen" in entries[i+1].get("raw_word", ""):
                 next_entry = entries[i+1]

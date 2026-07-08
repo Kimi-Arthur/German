@@ -16931,27 +16931,23 @@
     ]
   },
   {
-    "id": "der Jugendliche",
-    "raw_word": "der Jugendliche, -n",
+    "id": "der/die Jugendliche",
+    "raw_word": "der/die Jugendliche, -n",
     "details": {
       "article": "der",
       "headword": "Jugendliche",
-      "plural": "-n"
+      "female_form": {
+        "id": "die Jugendliche",
+        "raw_word": "die Jugendliche, -n",
+        "details": {
+          "article": "die",
+          "headword": "Jugendliche",
+          "plural": "-n"
+        }
+      }
     },
     "examples": [
-      "Die Jugendlichen gehen gerne in die"
-    ]
-  },
-  {
-    "id": "die Jugendliche",
-    "raw_word": "die Jugendliche, -n",
-    "details": {
-      "article": "die",
-      "headword": "Jugendliche",
-      "plural": "-n"
-    },
-    "examples": [
-      "Disko.",
+      "Die Jugendlichen gehen gerne in die Disko.",
       "Der Eintritt ist für Kinder und Jugendliche bis 16 Jahre frei."
     ]
   },
