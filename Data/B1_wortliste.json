@@ -112,7 +112,8 @@
     "details": {
       "article": "der",
       "headword": "Abfalleimer",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Abfall"
     },
     "examples": [
       "Wirf das bitte in den Abfalleimer!"
@@ -163,7 +164,8 @@
     "id": "abhängig",
     "raw_word": "abhängig",
     "details": {
-      "headword": "abhängig"
+      "headword": "abhängig",
+      "derived_from": "abhängen (von)"
     },
     "examples": [
       "Gregor ist finanziell von seinen Eltern abhängig."
@@ -304,7 +306,8 @@
     "details": {
       "article": "das",
       "headword": "Abonnement",
-      "plural": "-s/-e"
+      "plural": "-s/-e",
+      "derived_from": "abonnieren"
     },
     "examples": [
       "Ich habe das Abonnement gekündigt."
@@ -508,7 +511,8 @@
     "id": "Achtung!",
     "raw_word": "Achtung!",
     "details": {
-      "headword": "Achtung!"
+      "headword": "Achtung!",
+      "derived_from": "achten"
     },
     "examples": [
       "Achtung, hier endet die Straße!"
@@ -576,7 +580,8 @@
     "details": {
       "article": "die",
       "headword": "Aktivität",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "aktiv"
     },
     "examples": [
       "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten."
@@ -703,7 +708,8 @@
     "id": "alltäglich",
     "raw_word": "alltäglich",
     "details": {
-      "headword": "alltäglich"
+      "headword": "alltäglich",
+      "derived_from": "Alltag"
     },
     "examples": [
       "Das alltägliche Leben ist manchmal langweilig.",
@@ -739,7 +745,8 @@
     "id": "als ob",
     "raw_word": "als ob",
     "details": {
-      "headword": "als ob"
+      "headword": "als ob",
+      "derived_from": "als"
     },
     "examples": [
       "Er tut so, als ob wir nie darüber gesprochen hätten."
@@ -792,7 +799,8 @@
           "word": "Altersheim",
           "regional_usage": []
         }
-      ]
+      ],
+      "derived_from": "Alter"
     },
     "examples": [
       "Die Großeltern unserer Nachbarn sind im Altenheim."
@@ -810,7 +818,8 @@
           "word": "Altenheim",
           "regional_usage": []
         }
-      ]
+      ],
+      "derived_from": "Alter"
     },
     "examples": [
       "Die Großeltern unserer Nachbarn sind im Altersheim."
@@ -832,7 +841,8 @@
     "details": {
       "article": "die",
       "headword": "Alternative",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "alternativ"
     },
     "examples": [
       "Auf dieser Strecke ist der Zug eine gute Alternative zum Flugzeug."
@@ -927,7 +937,8 @@
     "details": {
       "article": "der",
       "headword": "Anbieter",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "anbieten"
     },
     "examples": [
       "Ist das ein privater Telefonanbieter?"
@@ -939,7 +950,8 @@
     "details": {
       "article": "das",
       "headword": "Angebot",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "anbieten"
     },
     "examples": [
       "Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.",
@@ -991,7 +1003,8 @@
     "details": {
       "article": "die",
       "headword": "Änderung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "ändern"
     },
     "examples": [
       "Es gibt eine Programmänderung."
@@ -1046,7 +1059,8 @@
     "details": {
       "article": "der",
       "headword": "Anfang",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "anfangen"
     },
     "examples": [
       "Wie war der Film? - Ich habe nur den Anfang gesehen.",
@@ -1061,7 +1075,8 @@
     "id": "anfangs",
     "raw_word": "anfangs",
     "details": {
-      "headword": "anfangs"
+      "headword": "anfangs",
+      "derived_from": "Anfang"
     },
     "examples": [
       "Anfangs ging alles gut."
@@ -1088,7 +1103,8 @@
     "details": {
       "article": "die",
       "headword": "Angabe",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "angeben"
     },
     "examples": [
       "Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum."
@@ -1141,7 +1157,8 @@
     "id": "ängstlich",
     "raw_word": "ängstlich",
     "details": {
-      "headword": "ängstlich"
+      "headword": "ängstlich",
+      "derived_from": "Angst"
     },
     "examples": [
       "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße."
@@ -1266,7 +1283,8 @@
     "details": {
       "article": "die",
       "headword": "Anmeldung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "anmelden"
     },
     "examples": [
       "Wo bekomme ich die Formulare für die Anmeldung?",
@@ -1334,7 +1352,8 @@
     "details": {
       "article": "der",
       "headword": "Anruf",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "anrufen"
     },
     "examples": [
       "Ich warte auf einen Anruf aus Berlin."
@@ -1346,7 +1365,8 @@
     "details": {
       "article": "der",
       "headword": "Anrufbeantworter",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "anrufen"
     },
     "examples": [
       "Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen."
@@ -1496,7 +1516,8 @@
           "headword": "Angestellte",
           "plural": "-n"
         }
-      }
+      },
+      "derived_from": "anstellen"
     },
     "examples": [
       "Björn ist Angestellter in einem Reisebüro."
@@ -1522,7 +1543,8 @@
     "id": "anstrengend",
     "raw_word": "anstrengend",
     "details": {
-      "headword": "anstrengend"
+      "headword": "anstrengend",
+      "derived_from": "sich anstrengen"
     },
     "examples": [
       "Ich finde diese Arbeit sehr anstrengend."
@@ -1586,7 +1608,8 @@
     "details": {
       "article": "die",
       "headword": "Antwort",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "antworten"
     },
     "examples": [
       "Leider habe ich keine Antwort bekommen."
@@ -1634,7 +1657,8 @@
     "details": {
       "article": "die",
       "headword": "Anzeige",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "anzeigen"
     },
     "examples": [
       "Ich habe alle Anzeigen gelesen, aber die Wohnungen sind zu teuer.",
@@ -1777,7 +1801,8 @@
     "details": {
       "article": "die",
       "headword": "Arbeit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "arbeiten"
     },
     "examples": [
       "Wie gefällt dir deine Arbeit?",
@@ -1799,7 +1824,8 @@
           "headword": "Arbeiterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "arbeiten"
     },
     "examples": [
       "Maria ist seit zwei Jahren Arbeiterin bei Siemens."
@@ -1810,7 +1836,8 @@
     "raw_word": "die Arbeitserlaubnis",
     "details": {
       "article": "die",
-      "headword": "Arbeitserlaubnis"
+      "headword": "Arbeitserlaubnis",
+      "derived_from": "arbeiten"
     },
     "examples": [
       "Haben Sie eine Arbeitserlaubnis?"
@@ -1820,7 +1847,8 @@
     "id": "arbeitslos",
     "raw_word": "arbeitslos",
     "details": {
-      "headword": "arbeitslos"
+      "headword": "arbeitslos",
+      "derived_from": "Arbeitserlaubnis"
     },
     "examples": [
       "Wie lange sind Sie schon arbeitslos?"
@@ -1831,7 +1859,8 @@
     "raw_word": "die Arbeitslosigkeit",
     "details": {
       "article": "die",
-      "headword": "Arbeitslosigkeit"
+      "headword": "Arbeitslosigkeit",
+      "derived_from": "Arbeitserlaubnis"
     },
     "examples": [
       "Die Arbeitslosigkeit ist gesunken."
@@ -1843,7 +1872,8 @@
     "details": {
       "article": "der",
       "headword": "Arbeitsplatz",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "arbeiten"
     },
     "examples": [
       "In der Industrie gibt es immer weniger Arbeitsplätze."
@@ -1855,7 +1885,8 @@
     "details": {
       "article": "die",
       "headword": "Arbeitsstelle",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Arbeitsplatz"
     },
     "examples": [
       "Meine Frau hat eine neue Arbeitsstelle gefunden."
@@ -1903,7 +1934,8 @@
     "raw_word": "der Ärger",
     "details": {
       "article": "der",
-      "headword": "Ärger"
+      "headword": "Ärger",
+      "derived_from": "(sich) ärgern"
     },
     "examples": [
       "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten."
@@ -1913,7 +1945,8 @@
     "id": "ärgerlich",
     "raw_word": "ärgerlich",
     "details": {
-      "headword": "ärgerlich"
+      "headword": "ärgerlich",
+      "derived_from": "Ärger"
     },
     "examples": [
       "Der Zug hat schon wieder Verspätung.",
@@ -2023,7 +2056,8 @@
     "raw_word": "der Atem",
     "details": {
       "article": "der",
-      "headword": "Atem"
+      "headword": "Atem",
+      "derived_from": "atmen"
     },
     "examples": [
       "Bitte den Atem anhalten."
@@ -2109,7 +2143,8 @@
     "details": {
       "article": "die",
       "headword": "Aufforderung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "auffordern"
     },
     "examples": [
       "Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen."
@@ -2272,7 +2307,8 @@
     "details": {
       "article": "die",
       "headword": "Aufnahme",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "aufnehmen"
     },
     "examples": [
       "Bitte seid leise! - Ich starte die Aufnahme."
@@ -2377,7 +2413,8 @@
     "details": {
       "article": "der",
       "headword": "Auftritt",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "auftreten"
     },
     "examples": [
       "Nach dem Auftritt feiern die Musiker."
@@ -2490,7 +2527,8 @@
     "id": "ausgebildet",
     "raw_word": "ausgebildet",
     "details": {
-      "headword": "ausgebildet"
+      "headword": "ausgebildet",
+      "derived_from": "Ausbildung"
     },
     "examples": [
       "Für diesen Beruf müssen Sie gut ausgebildet sein."
@@ -2517,7 +2555,8 @@
     "details": {
       "article": "der",
       "headword": "Ausdruck",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "ausdrucken"
     },
     "examples": [
       "Diesen Ausdruck habe ich noch nie gehört."
@@ -2529,7 +2568,8 @@
     "details": {
       "article": "der",
       "headword": "Ausdruck",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Ausdruck"
     },
     "examples": [
       "Machen Sie doch bitte einen Ausdruck von der E-Mail."
@@ -2719,7 +2759,8 @@
           "headword": "Ausländerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Ausland"
     },
     "examples": [
       "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch."
@@ -2729,7 +2770,8 @@
     "id": "ausländisch",
     "raw_word": "ausländisch",
     "details": {
-      "headword": "ausländisch"
+      "headword": "ausländisch",
+      "derived_from": "Ausländer"
     },
     "examples": [
       "Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen."
@@ -2785,7 +2827,8 @@
     "id": "ausreichend",
     "raw_word": "ausreichend",
     "details": {
-      "headword": "ausreichend"
+      "headword": "ausreichend",
+      "derived_from": "ausreichen"
     },
     "examples": [
       "Das Geld ist für die Reise ausreichend."
@@ -2880,7 +2923,8 @@
     "id": "außerhalb",
     "raw_word": "außerhalb",
     "details": {
-      "headword": "außerhalb"
+      "headword": "außerhalb",
+      "derived_from": "außen"
     },
     "examples": [
       "Wir wohnen außerhalb von Berlin."
@@ -2890,7 +2934,8 @@
     "id": "äußerlich",
     "raw_word": "äußerlich",
     "details": {
-      "headword": "äußerlich"
+      "headword": "äußerlich",
+      "derived_from": "außerhalb"
     },
     "examples": [
       "Das Medikament dürfen Sie nur äußerlich anwenden."
@@ -2952,7 +2997,8 @@
     "raw_word": "die Aussprache",
     "details": {
       "article": "die",
-      "headword": "Aussprache"
+      "headword": "Aussprache",
+      "derived_from": "aussprechen"
     },
     "examples": [
       "Ali hat eine gute Aussprache."
@@ -2980,7 +3026,8 @@
     "details": {
       "article": "die",
       "headword": "Ausstellung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "ausstellen"
     },
     "examples": [
       "Wir waren mit der Lehrerin in einer Ausstellung.",
@@ -3023,7 +3070,8 @@
     "details": {
       "article": "die",
       "headword": "Auswahl",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "auswählen"
     },
     "examples": [
       "Wir müssen eine Auswahl aus den Büchern treffen.",
@@ -3076,7 +3124,8 @@
     "details": {
       "article": "die",
       "headword": "Autobahn",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Auto"
     },
     "examples": [
       "Das Dorf liegt direkt an der Autobahn."
@@ -3099,7 +3148,8 @@
     "id": "automatisch",
     "raw_word": "automatisch",
     "details": {
-      "headword": "automatisch"
+      "headword": "automatisch",
+      "derived_from": "Automat"
     },
     "examples": [
       "Die Tür schließt automatisch.",
@@ -3148,7 +3198,8 @@
     "details": {
       "article": "die",
       "headword": "Bäckerei",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "backen"
     },
     "examples": [
       "Wir kaufen unser Brot immer in der Bäckerei am Markt."
@@ -3186,7 +3237,8 @@
     "details": {
       "article": "das",
       "headword": "Bad",
-      "plural": "¨-er"
+      "plural": "¨-er",
+      "derived_from": "gebadet"
     },
     "examples": [
       "Nach einem warmen Bad fühlt man sich gleich viel besser.",
@@ -3199,7 +3251,8 @@
     "details": {
       "article": "die",
       "headword": "Badewanne",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "gebadet"
     },
     "examples": [
       "Nach einem langen Arbeitstag setzte sie sich in die Badewanne."
@@ -3224,7 +3277,8 @@
       "headword": "S-Bahn",
       "conjugation": [
         "-en"
-      ]
+      ],
+      "derived_from": "Bahn"
     },
     "examples": [
       "Die S-Bahn ist schneller als die Straßenbahn."
@@ -3236,7 +3290,8 @@
     "details": {
       "article": "die",
       "headword": "Straßenbahn",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Bahn"
     },
     "examples": [
       "Nehmen Sie die Straßenbahn Nr. 16."
@@ -3248,7 +3303,8 @@
     "details": {
       "article": "die",
       "headword": "U-Bahn",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Straßenbahn"
     },
     "examples": [
       "Die letzte U-Bahn geht um 23.15 Uhr."
@@ -3462,7 +3518,8 @@
     "raw_word": "das Bargeld",
     "details": {
       "article": "das",
-      "headword": "Bargeld"
+      "headword": "Bargeld",
+      "derived_from": "bar"
     },
     "examples": [
       "Ich habe kein Bargeld mehr."
@@ -3554,7 +3611,8 @@
     "details": {
       "article": "der",
       "headword": "Bau",
-      "plural": "Bauten"
+      "plural": "Bauten",
+      "derived_from": "bauen"
     },
     "examples": [
       "Ich wohne in einer Neubauwohnung.",
@@ -3567,7 +3625,8 @@
     "details": {
       "article": "die",
       "headword": "Baustelle",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "bauen"
     },
     "examples": [
       "Wir müssen die Baustelle umfahren."
@@ -3711,7 +3770,8 @@
     "details": {
       "article": "die",
       "headword": "Bedeutung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "bedeuten"
     },
     "examples": [
       "Das Wort „Maus“ hat inzwischen zwei Bedeutungen."
@@ -3868,7 +3928,8 @@
     "raw_word": "der Beginn",
     "details": {
       "article": "der",
-      "headword": "Beginn"
+      "headword": "Beginn",
+      "derived_from": "beginnen"
     },
     "examples": [
       "Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler."
@@ -3920,7 +3981,8 @@
     "details": {
       "article": "die",
       "headword": "Begründung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "begründen"
     },
     "examples": [
       "Die Miete wurde ohne Begründung erhöht."
@@ -4139,7 +4201,8 @@
           "headword": "Bekannte",
           "plural": "-n"
         }
-      }
+      },
+      "derived_from": "bekannt"
     },
     "examples": [
       "In Hannover wohnen Bekannte von mir."
@@ -4154,7 +4217,8 @@
         "gibt bekannt",
         "gab bekannt",
         "hat bekannt gegeben"
-      ]
+      ],
+      "derived_from": "bekannt"
     },
     "examples": [
       "Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt."
@@ -4164,7 +4228,8 @@
     "id": "bekannt gegeben",
     "raw_word": "bekannt gegeben",
     "details": {
-      "headword": "bekannt gegeben"
+      "headword": "bekannt gegeben",
+      "derived_from": "bekannt geben"
     }
   },
   {
@@ -4342,7 +4407,8 @@
     "raw_word": "die Beratung",
     "details": {
       "article": "die",
-      "headword": "Beratung"
+      "headword": "Beratung",
+      "derived_from": "beraten"
     },
     "examples": [
       "Beratungen für Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr."
@@ -4431,7 +4497,8 @@
     "details": {
       "article": "der",
       "headword": "Bericht",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "berichten"
     },
     "examples": [
       "Ich habe gestern einen interessanten Bericht gelesen."
@@ -4453,7 +4520,8 @@
     "id": "beruflich",
     "raw_word": "beruflich",
     "details": {
-      "headword": "beruflich"
+      "headword": "beruflich",
+      "derived_from": "Beruf"
     },
     "examples": [
       "Was machen Sie beruflich?"
@@ -4463,7 +4531,8 @@
     "id": "berufstätig",
     "raw_word": "berufstätig",
     "details": {
-      "headword": "berufstätig"
+      "headword": "berufstätig",
+      "derived_from": "Beruf"
     },
     "examples": [
       "Sind Sie berufstätig?"
@@ -4531,7 +4600,8 @@
     "raw_word": "die Beschäftigung",
     "details": {
       "article": "die",
-      "headword": "Beschäftigung"
+      "headword": "Beschäftigung",
+      "derived_from": "beschäftigen"
     },
     "examples": [
       "Ich suche eine Halbtagsbeschäftigung, weil ich ein kleines Kind habe."
@@ -4553,7 +4623,8 @@
     "id": "Bescheid sagen",
     "raw_word": "Bescheid sagen",
     "details": {
-      "headword": "Bescheid sagen"
+      "headword": "Bescheid sagen",
+      "derived_from": "Bescheid"
     },
     "examples": [
       "Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid."
@@ -4563,7 +4634,8 @@
     "id": "Bescheid geben",
     "raw_word": "Bescheid geben",
     "details": {
-      "headword": "Bescheid geben"
+      "headword": "Bescheid geben",
+      "derived_from": "Bescheid"
     },
     "examples": [
       "Kannst du mir bis morgen Bescheid geben?"
@@ -4615,7 +4687,8 @@
     "details": {
       "article": "die",
       "headword": "Beschreibung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "beschreiben"
     },
     "examples": [
       "Eine Beschreibung des Geräts liegt bei."
@@ -4697,7 +4770,8 @@
     "id": "besonders",
     "raw_word": "besonders",
     "details": {
-      "headword": "besonders"
+      "headword": "besonders",
+      "derived_from": "besonder-"
     },
     "examples": [
       "Ich habe heute ein besonders günstiges Angebot gesehen.",
@@ -4741,7 +4815,8 @@
     "details": {
       "article": "die",
       "headword": "Besprechung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "besprechen"
     },
     "examples": [
       "Tut mir leid, Herr Schmidt ist noch in einer Besprechung."
@@ -4780,7 +4855,8 @@
     "details": {
       "article": "die",
       "headword": "Bestätigung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "bestätigen"
     },
     "examples": [
       "Ich brauche eine schriftliche Bestätigung für das Amt."
@@ -4867,7 +4943,8 @@
     "details": {
       "article": "der",
       "headword": "Besuch",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "besuchen"
     },
     "examples": [
       "Wir bekommen Besuch.",
@@ -4932,7 +5009,8 @@
           "headword": "Betreuerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "betreuen"
     },
     "examples": [
       "Die Betreuerin der Kinder ist sehr nett."
@@ -4943,7 +5021,8 @@
     "raw_word": "die Betreuung",
     "details": {
       "article": "die",
-      "headword": "Betreuung"
+      "headword": "Betreuung",
+      "derived_from": "betreuen"
     },
     "examples": [
       "Haben Sie eine Betreuung für Ihre Kinder?"
@@ -4978,7 +5057,8 @@
           "headword": "Betriebsrätin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Betrieb"
     },
     "examples": [
       "Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren."
@@ -5066,7 +5146,8 @@
     "details": {
       "article": "die",
       "headword": "Bewegung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "bewegen"
     },
     "examples": [
       "Sie brauchen mehr Bewegung. Sie müssen regelmäßig spazieren gehen."
@@ -5093,7 +5174,8 @@
     "details": {
       "article": "der",
       "headword": "Beweis",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "beweisen"
     },
     "examples": [
       "Haben Sie dafür Beweise?"
@@ -5121,7 +5203,8 @@
     "details": {
       "article": "die",
       "headword": "Bewerbung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "sich bewerben"
     },
     "examples": [
       "Wohin soll ich meine Bewerbung schicken?",
@@ -5255,7 +5338,8 @@
             "D"
           ]
         }
-      ]
+      ],
+      "derived_from": "Bildschirm"
     },
     "examples": [
       "Ein Billett können Sie am Schalter kaufen."
@@ -5286,7 +5370,8 @@
     "id": "Bio-",
     "raw_word": "Bio-",
     "details": {
-      "headword": "Bio-"
+      "headword": "Bio-",
+      "derived_from": "Biologie"
     },
     "examples": [
       "Ich kaufe nur noch Biogemüse."
@@ -5296,7 +5381,8 @@
     "id": "bio(logisch)",
     "raw_word": "bio(logisch)",
     "details": {
-      "headword": "bio(logisch)"
+      "headword": "bio(logisch)",
+      "derived_from": "Biologie"
     },
     "examples": [
       "Biologische Lebensmittel gibt es jetzt auch im Supermarkt."
@@ -5373,7 +5459,8 @@
     "details": {
       "article": "die",
       "headword": "Bitte",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "bitten"
     },
     "examples": [
       "Ich habe eine Bitte. Kann ich mal Ihr Handy benutzen?"
@@ -5383,7 +5470,8 @@
     "id": "bitte",
     "raw_word": "bitte",
     "details": {
-      "headword": "bitte"
+      "headword": "bitte",
+      "derived_from": "Bitte"
     },
     "examples": [
       "Eine Tasse Kaffee, bitte!",
@@ -5500,7 +5588,8 @@
     "details": {
       "article": "der",
       "headword": "Blitz",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "blitzen"
     },
     "examples": [
       "Was für ein Gewitter, hast du den Blitz gesehen?",
@@ -5589,7 +5678,8 @@
     "raw_word": "das Blut",
     "details": {
       "article": "das",
-      "headword": "Blut"
+      "headword": "Blut",
+      "derived_from": "bluten"
     },
     "examples": [
       "Der Verletzte hat viel Blut verloren."
@@ -5691,7 +5781,8 @@
     "details": {
       "article": "der",
       "headword": "Braten",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "braten"
     },
     "examples": [
       "Nehmen Sie noch etwas Soße zum Braten?"
@@ -5748,7 +5839,8 @@
     "details": {
       "article": "die",
       "headword": "Breite",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "breit"
     },
     "examples": [
       "Welche Maße hat der Tisch? - Länge:1m,Breite:80cm,Höhe:1,20 m."
@@ -5775,7 +5867,8 @@
     "details": {
       "article": "die",
       "headword": "Bremse",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "bremsen"
     },
     "examples": [
       "Du musst unbedingt die Bremsen kontrollieren lassen."
@@ -5816,7 +5909,8 @@
     "details": {
       "article": "der",
       "headword": "Briefkasten",
-      "plural": "¨-"
+      "plural": "¨-",
+      "derived_from": "Brief"
     },
     "examples": [
       "Ist hier in der Nähe ein Briefkasten?",
@@ -5829,7 +5923,8 @@
     "details": {
       "article": "die",
       "headword": "Briefmarke",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Brief"
     },
     "examples": [
       "Briefmarken bekommen Sie am Schalter 7."
@@ -5860,7 +5955,8 @@
             "CH"
           ]
         }
-      }
+      },
+      "derived_from": "Briefmarke"
     },
     "examples": [
       "War die Briefträgerin schon da?"
@@ -5886,7 +5982,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "Brief"
     },
     "examples": [
       "Ich hätte gern 50 Briefumschläge und Briefmarken dazu."
@@ -5997,7 +6094,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "Brot"
     },
     "examples": [
       "Ich hole schnell ein paar Brötchen zum Frühstück."
@@ -6026,7 +6124,8 @@
             "A"
           ]
         }
-      ]
+      ],
+      "derived_from": "Brötchen"
     },
     "examples": [
       "Ich hole schnell ein paar Brötli zum Frühstück."
@@ -6109,7 +6208,8 @@
     "details": {
       "article": "die",
       "headword": "Buchhandlung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Buch"
     },
     "examples": [
       "In der Buchhandlung in der Stadt haben sie das Buch sicher."
@@ -6151,7 +6251,8 @@
     "details": {
       "article": "der",
       "headword": "Buchstabe",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "buchstabieren"
     },
     "examples": [
       "Gibt es diesen Buchstaben auch in deiner Muttersprache?",
@@ -6282,7 +6383,8 @@
     "details": {
       "article": "die",
       "headword": "Zahnbürste",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Bürste"
     },
     "examples": [
       "Ich brauche eine neue Zahnbürste."
@@ -6651,7 +6753,8 @@
     "raw_word": "der Dank",
     "details": {
       "article": "der",
-      "headword": "Dank"
+      "headword": "Dank",
+      "derived_from": "danken"
     },
     "examples": [
       "Vielen Dank für Ihre Mühe.",
@@ -6664,7 +6767,8 @@
     "id": "dankbar",
     "raw_word": "dankbar",
     "details": {
-      "headword": "dankbar"
+      "headword": "dankbar",
+      "derived_from": "Dank"
     },
     "examples": [
       "Ich bin Ihnen sehr dankbar für Ihre Hilfe."
@@ -6674,7 +6778,8 @@
     "id": "danke",
     "raw_word": "danke",
     "details": {
-      "headword": "danke"
+      "headword": "danke",
+      "derived_from": "dankbar"
     },
     "examples": [
       "Soll ich Ihnen helfen? Nein, danke, nicht nötig.",
@@ -6715,7 +6820,8 @@
     "details": {
       "article": "die",
       "headword": "Darstellung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "darstellen"
     },
     "examples": [
       "Ihr Buch enthält eine klare Darstellung dieser Probleme."
@@ -6795,7 +6901,8 @@
     "raw_word": "die Dauer",
     "details": {
       "article": "die",
-      "headword": "Dauer"
+      "headword": "Dauer",
+      "derived_from": "dauern"
     },
     "examples": [
       "Sie können das Buch für die Dauer einer Woche ausleihen.",
@@ -6868,7 +6975,8 @@
     "details": {
       "article": "der",
       "headword": "Gedanke",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "denken"
     },
     "examples": [
       "Ich muss zuerst meine Gedanken sammeln.",
@@ -7091,7 +7199,8 @@
     "id": "diesmal",
     "raw_word": "diesmal",
     "details": {
-      "headword": "diesmal"
+      "headword": "diesmal",
+      "derived_from": "dies-"
     },
     "examples": [
       "Die letzten Spiele haben wir verloren.",
@@ -7202,7 +7311,8 @@
     "details": {
       "article": "die",
       "headword": "Diskussion",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "diskutieren"
     },
     "examples": [
       "Im Fernsehen gab es eine Diskussion zum Thema „Kinderbetreuung“."
@@ -7291,7 +7401,8 @@
     "details": {
       "article": "der",
       "headword": "Donner",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "donnern"
     },
     "examples": [
       "Der Donner kam erst lange nach dem Blitz."
@@ -7311,7 +7422,8 @@
     "id": "Doppel-",
     "raw_word": "Doppel-",
     "details": {
-      "headword": "Doppel-"
+      "headword": "Doppel-",
+      "derived_from": "doppelt"
     },
     "examples": [
       "Wir hätten gern ein Doppelbett.",
@@ -7345,7 +7457,8 @@
     "id": "dorthin",
     "raw_word": "dorthin",
     "details": {
-      "headword": "dorthin"
+      "headword": "dorthin",
+      "derived_from": "dort"
     },
     "examples": [
       "Deine Tasche kannst du dorthin stellen."
@@ -7497,7 +7610,8 @@
     "details": {
       "article": "der",
       "headword": "Drucker",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "drucken"
     },
     "examples": [
       "Ich brauche einen neuen Drucker für meinen Computer."
@@ -7525,7 +7639,8 @@
     "raw_word": "der Druck",
     "details": {
       "article": "der",
-      "headword": "Druck"
+      "headword": "Druck",
+      "derived_from": "drücken"
     },
     "examples": [
       "Mit einem Knopfdruck schaltet man das Gerät ein.",
@@ -7620,7 +7735,8 @@
     "id": "durchschnittlich",
     "raw_word": "durchschnittlich",
     "details": {
-      "headword": "durchschnittlich"
+      "headword": "durchschnittlich",
+      "derived_from": "Durchschnitt"
     },
     "examples": [
       "Die Preise sind im letzten Jahr um durchschnittlich 6 % gestiegen."
@@ -7660,7 +7776,8 @@
     "id": "durstig",
     "raw_word": "durstig",
     "details": {
-      "headword": "durstig"
+      "headword": "durstig",
+      "derived_from": "Durst"
     },
     "examples": [
       "Du bist sicher durstig. Was möchtest du trinken?"
@@ -7688,7 +7805,8 @@
     "details": {
       "article": "die",
       "headword": "Dusche",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "(sich) duschen"
     },
     "examples": [
       "Wir haben leider nur noch ein Zimmer mit Dusche.",
@@ -7862,7 +7980,8 @@
     "id": "eckig",
     "raw_word": "eckig",
     "details": {
-      "headword": "eckig"
+      "headword": "eckig",
+      "derived_from": "Eck"
     },
     "examples": [
       "Ich möchte einen eckigen Tisch, keinen runden."
@@ -7897,7 +8016,8 @@
     "details": {
       "article": "die",
       "headword": "Ehefrau",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Ehe"
     },
     "examples": [
       "Wie heißt Ihre Ehefrau mit Vornamen?"
@@ -7909,7 +8029,8 @@
     "details": {
       "article": "der",
       "headword": "Ehemann",
-      "plural": "¨-er"
+      "plural": "¨-er",
+      "derived_from": "Ehefrau"
     }
   },
   {
@@ -7918,7 +8039,8 @@
     "details": {
       "article": "das",
       "headword": "Ehepaar",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Ehefrau"
     },
     "examples": [
       "Das Ehepaar unter uns hat zwei Kinder."
@@ -8017,7 +8139,8 @@
     "raw_word": "die Eile",
     "details": {
       "article": "die",
-      "headword": "Eile"
+      "headword": "Eile",
+      "derived_from": "eilen"
     },
     "examples": [
       "Ich bin sehr in Eile",
@@ -8028,7 +8151,8 @@
     "id": "eilig",
     "raw_word": "eilig",
     "details": {
-      "headword": "eilig"
+      "headword": "eilig",
+      "derived_from": "Eile"
     },
     "examples": [
       "Hast du es eilig?"
@@ -8087,7 +8211,8 @@
           "headword": "Einbrecherin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "einbrechen"
     },
     "examples": [
       "Die Einbrecher haben nichts gestohlen."
@@ -8099,7 +8224,8 @@
     "details": {
       "article": "der",
       "headword": "Einbruch",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "einbrechen"
     },
     "examples": [
       "In der Urlaubszeit gibt es viele Wohnungseinbrüche."
@@ -8185,7 +8311,8 @@
     "details": {
       "article": "der",
       "headword": "Einfall",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "einfallen"
     },
     "examples": [
       "Frag einfach meine Freundin. Sie hat immer gute Einfälle."
@@ -8212,7 +8339,8 @@
         "beeinflusst",
         "beeinflusste",
         "hat beeinflusst"
-      ]
+      ],
+      "derived_from": "Einfluss"
     },
     "examples": [
       "Dieses Ereignis hat die Wahlen beeinflusst."
@@ -8255,7 +8383,8 @@
     "details": {
       "article": "die",
       "headword": "Einführung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "einführen"
     },
     "examples": [
       "Leider habe ich die Einführung des Kurses verpasst."
@@ -8333,7 +8462,8 @@
     "details": {
       "article": "der",
       "headword": "Einkauf",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "einkaufen"
     },
     "examples": [
       "Achten Sie beim Einkauf auf Sonderangebote.",
@@ -8373,7 +8503,8 @@
     "details": {
       "article": "die",
       "headword": "Einladung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "einladen"
     },
     "examples": [
       "Danke für die Einladung."
@@ -8416,7 +8547,8 @@
     "details": {
       "article": "die",
       "headword": "Einnahme",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "einnehmen"
     },
     "examples": [
       "Unser Geschäft läuft gut. Unsere Einnahmen waren in diesem Monat höher als im letzten."
@@ -8460,7 +8592,8 @@
     "details": {
       "article": "die",
       "headword": "Einrichtung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "einrichten"
     },
     "examples": [
       "Deine Wohnung ist sehr gemütlich, die Einrichtung gefällt mir sehr gut."
@@ -8596,7 +8729,8 @@
     "raw_word": "der Eintritt",
     "details": {
       "article": "der",
-      "headword": "Eintritt"
+      "headword": "Eintritt",
+      "derived_from": "eintreten"
     },
     "examples": [
       "Kinder über 10 Jahre zahlen den vollen Eintritt.",
@@ -8656,7 +8790,8 @@
     "details": {
       "article": "die",
       "headword": "Einzahlung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "einzahlen"
     },
     "examples": [
       "Sie sollten die Einzahlung pünktlich machen."
@@ -8677,7 +8812,8 @@
     "id": "Einzel-",
     "raw_word": "Einzel-",
     "details": {
-      "headword": "Einzel-"
+      "headword": "Einzel-",
+      "derived_from": "einzeln"
     },
     "examples": [
       "z. B. Einzelkind, Einzelzimmer"
@@ -8689,7 +8825,8 @@
     "details": {
       "article": "die",
       "headword": "Einzelheit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "einzeln"
     },
     "examples": [
       "Du musst mir das in allen Einzelheiten erzählen."
@@ -8792,7 +8929,8 @@
     "id": "Elektro-",
     "raw_word": "Elektro-",
     "details": {
-      "headword": "Elektro-"
+      "headword": "Elektro-",
+      "derived_from": "elektrisch"
     },
     "examples": [
       "z.B. Elektrogeschäft, Elektroingenieur, Elektroherd"
@@ -8802,7 +8940,8 @@
     "id": "elektronisch",
     "raw_word": "elektronisch",
     "details": {
-      "headword": "elektronisch"
+      "headword": "elektronisch",
+      "derived_from": "elektrisch"
     },
     "examples": [
       "Wir sollten die Daten elektronisch bearbeiten, sonst dauert es zu lange."
@@ -8842,7 +8981,8 @@
     "details": {
       "article": "der",
       "headword": "Empfang",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "empfangen"
     },
     "examples": [
       "Bitte den Empfang bestätigen!",
@@ -8856,7 +8996,8 @@
     "details": {
       "article": "der",
       "headword": "Empfänger",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "empfangen"
     },
     "examples": [
       "Es fehlt die genaue Adresse des Empfängers."
@@ -8883,7 +9024,8 @@
     "details": {
       "article": "die",
       "headword": "Empfehlung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "empfehlen"
     },
     "examples": [
       "Ich rufe auf Empfehlung von Herrn Weber an."
@@ -8910,7 +9052,8 @@
     "raw_word": "das Ende",
     "details": {
       "article": "das",
-      "headword": "Ende"
+      "headword": "Ende",
+      "derived_from": "enden"
     },
     "examples": [
       "Ich wohne am Ende der Straße.",
@@ -8923,7 +9066,8 @@
     "id": "endgültig",
     "raw_word": "endgültig",
     "details": {
-      "headword": "endgültig"
+      "headword": "endgültig",
+      "derived_from": "enden"
     },
     "examples": [
       "Damit ist das Problem endgültig gelöst.",
@@ -9024,7 +9168,8 @@
     "details": {
       "article": "die",
       "headword": "Entfernung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "entfernen"
     },
     "examples": [
       "Aus dieser Entfernung ist das nicht zu erkennen."
@@ -9089,7 +9234,8 @@
     "details": {
       "article": "die",
       "headword": "Entlassung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "entlassen"
     },
     "examples": [
       "Seine Entlassung aus der Firma kam überraschend."
@@ -9117,7 +9263,8 @@
     "details": {
       "article": "die",
       "headword": "Entscheidung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "entscheiden"
     },
     "examples": [
       "Diese wichtige Entscheidung möchte ich zuerst mit meinem Mann besprechen."
@@ -9127,7 +9274,8 @@
     "id": "unentschieden",
     "raw_word": "unentschieden",
     "details": {
-      "headword": "unentschieden"
+      "headword": "unentschieden",
+      "derived_from": "Entscheidung"
     },
     "examples": [
       "Es steht unentschieden zwischen den beiden Mannschaften.",
@@ -9153,7 +9301,8 @@
     "id": "entschlossen",
     "raw_word": "entschlossen",
     "details": {
-      "headword": "entschlossen"
+      "headword": "entschlossen",
+      "derived_from": "sich entschließen"
     },
     "examples": [
       "Ich bin fest entschlossen, diese Ausbildung fertigzumachen."
@@ -9181,7 +9330,8 @@
     "details": {
       "article": "die",
       "headword": "Entschuldigung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "entschuldigen"
     },
     "examples": [
       "Oh, Entschuldigung! - Macht nichts.",
@@ -9252,7 +9402,8 @@
     "details": {
       "article": "die",
       "headword": "Enttäuschung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "enttäuschen"
     },
     "examples": [
       "Das Endspiel war eine große Enttäuschung."
@@ -9290,7 +9441,8 @@
     "details": {
       "article": "die",
       "headword": "Entwicklung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "entwickeln"
     },
     "examples": [
       "Genug Schlaf ist wichtig für die Entwicklung Ihres Kindes."
@@ -9323,7 +9475,8 @@
           "word": "Kartoffel",
           "regional_usage": []
         }
-      ]
+      ],
+      "derived_from": "Erde"
     },
     "examples": [
       "Kann ich bitte noch Erdäpfel bekommen?"
@@ -9334,7 +9487,8 @@
     "raw_word": "das Erdgeschoss",
     "details": {
       "article": "das",
-      "headword": "Erdgeschoss"
+      "headword": "Erdgeschoss",
+      "derived_from": "Erdapfel"
     },
     "examples": [
       "Unsere Wohnung befindet sich im"
@@ -9347,7 +9501,8 @@
       "headword": "Ergeschoß",
       "conjugation": [
         "-e"
-      ]
+      ],
+      "derived_from": "Erdgeschoss"
     },
     "examples": [
       "Erdgeschoss."
@@ -9375,7 +9530,8 @@
         "ereignet sich",
         "ereignete sich",
         "hat sich ereignet"
-      ]
+      ],
+      "derived_from": "Ereignis"
     },
     "examples": [
       "Der Unfall ereignete sich am frühen Morgen."
@@ -9402,7 +9558,8 @@
     "details": {
       "article": "die",
       "headword": "Erfahrung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "erfahren"
     },
     "examples": [
       "Ich habe zehn Jahre Erfahrung in diesem Beruf.",
@@ -9453,7 +9610,8 @@
     "id": "erfolgreich",
     "raw_word": "erfolgreich",
     "details": {
-      "headword": "erfolgreich"
+      "headword": "erfolgreich",
+      "derived_from": "Erfolg"
     },
     "examples": [
       "Mein Großvater war ein erfolgreicher Geschäftsmann."
@@ -9564,7 +9722,8 @@
     "details": {
       "article": "die",
       "headword": "Erhöhung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "erhöhen"
     },
     "examples": [
       "Wir streiken für eine Lohnerhöhung."
@@ -9592,7 +9751,8 @@
     "details": {
       "article": "die",
       "headword": "Erholung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "sich erholen"
     },
     "examples": [
       "Ich habe zu viel gearbeitet. Jetzt brauche ich etwas Erholung."
@@ -9620,7 +9780,8 @@
     "details": {
       "article": "die",
       "headword": "Erinnerung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "erinnern"
     },
     "examples": [
       "An diese Zeit habe ich viele schöne Erinnerungen."
@@ -9645,7 +9806,8 @@
     "id": "erkältet",
     "raw_word": "erkältet",
     "details": {
-      "headword": "erkältet"
+      "headword": "erkältet",
+      "derived_from": "sicherkälten"
     },
     "examples": [
       "Ich bin stark erkältet."
@@ -9657,7 +9819,8 @@
     "details": {
       "article": "die",
       "headword": "Erkältung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "sicherkälten"
     },
     "examples": [
       "Du hast eine schlimme Erkältung!"
@@ -9702,7 +9865,8 @@
     "details": {
       "article": "die",
       "headword": "Erklärung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "erklären"
     },
     "examples": [
       "Hast du schon die Steuererklärung gemacht?",
@@ -9746,7 +9910,8 @@
     "raw_word": "die Erlaubnis",
     "details": {
       "article": "die",
-      "headword": "Erlaubnis"
+      "headword": "Erlaubnis",
+      "derived_from": "erlauben"
     },
     "examples": [
       "Sie hätten ihn vorher um Erlaubnis bitten müssen."
@@ -9773,7 +9938,8 @@
     "details": {
       "article": "das",
       "headword": "Erlebnis",
-      "plural": "-se"
+      "plural": "-se",
+      "derived_from": "erleben"
     },
     "examples": [
       "Die Reise war ein tolles Erlebnis."
@@ -9844,7 +10010,8 @@
     "raw_word": "die Ernährung",
     "details": {
       "article": "die",
-      "headword": "Ernährung"
+      "headword": "Ernährung",
+      "derived_from": "ernähren"
     },
     "examples": [
       "Ich finde eine gesunde Ernährung wichtig."
@@ -9864,7 +10031,8 @@
     "id": "ernsthaft",
     "raw_word": "ernsthaft",
     "details": {
-      "headword": "ernsthaft"
+      "headword": "ernsthaft",
+      "derived_from": "ernst"
     },
     "examples": [
       "Ich überlege ernsthaft, ob ich in eine andere Stadt ziehen soll."
@@ -9904,7 +10072,8 @@
     "details": {
       "article": "die",
       "headword": "Eröffnung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "eröffnen"
     },
     "examples": [
       "Die Eröffnung der neuen Oper ist am 1. Juni."
@@ -9990,7 +10159,8 @@
     "raw_word": "der Ersatz",
     "details": {
       "article": "der",
-      "headword": "Ersatz"
+      "headword": "Ersatz",
+      "derived_from": "ersetzen"
     },
     "examples": [
       "Sie bekommen von unserer Firma einen Ersatz für das kaputte Gerät."
@@ -10100,7 +10270,8 @@
     "details": {
       "article": "die",
       "headword": "Erzählung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "erzählen"
     },
     "examples": [
       "Diese Erzählung ist sehr berühmt. Du musst sie lesen."
@@ -10126,7 +10297,8 @@
     "raw_word": "die Erziehung",
     "details": {
       "article": "die",
-      "headword": "Erziehung"
+      "headword": "Erziehung",
+      "derived_from": "erziehen"
     },
     "examples": [
       "Heute kümmern sich auch viele Väter um die Erziehung der Kinder."
@@ -10171,7 +10343,8 @@
     "details": {
       "article": "das",
       "headword": "Essen",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "essen"
     },
     "examples": [
       "Darf ich Sie zum Essen einladen?",
@@ -10332,7 +10505,8 @@
     "raw_word": "der Fachmann",
     "details": {
       "article": "der",
-      "headword": "Fachmann"
+      "headword": "Fachmann",
+      "derived_from": "Fach"
     },
     "examples": [
       "Meine Schwester ist Computerfachfrau."
@@ -10344,7 +10518,8 @@
     "details": {
       "article": "die",
       "headword": "Fachfrau",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Fach"
     }
   },
   {
@@ -10353,7 +10528,8 @@
     "details": {
       "article": "die",
       "headword": "Fachleute",
-      "plural": "(Pl.)"
+      "plural": "(Pl.)",
+      "derived_from": "Fach"
     },
     "examples": [
       "Die suchen Fachleute für dieses Computerprogramm."
@@ -10406,7 +10582,8 @@
     "details": {
       "article": "die",
       "headword": "Fähre",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "gefahren"
     },
     "examples": [
       "Wir nehmen die Fähre über den Bodensee."
@@ -10418,7 +10595,8 @@
     "details": {
       "article": "die",
       "headword": "Fahrbahn",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "gefahren"
     },
     "examples": [
       "Fahren Sie bitte vorsichtig. Es sind Kühe auf der Fahrbahn."
@@ -10430,7 +10608,8 @@
     "details": {
       "article": "der",
       "headword": "Fahrer",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Fahrbahn"
     },
     "examples": [
       "Die Fahrerin des Wagens wurde nicht verletzt.",
@@ -10452,7 +10631,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "Fahrbahn"
     },
     "examples": [
       "Fahrkarten bekommt man am Automaten."
@@ -10464,7 +10644,8 @@
     "details": {
       "article": "der",
       "headword": "Fahrplan",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Fahrbahn"
     },
     "examples": [
       "Der Fahrplan hat sich geändert.",
@@ -10492,7 +10673,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "gefahren"
     },
     "examples": [
       "Sie fährt jeden Morgen mit dem Fahrrad zur Arbeit."
@@ -10504,7 +10686,8 @@
     "details": {
       "article": "das",
       "headword": "Fahrzeug",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Fahrrad"
     },
     "examples": [
       "Wem gehört das Fahrzeug?"
@@ -10669,7 +10852,8 @@
     "id": "fantastisch",
     "raw_word": "fantastisch",
     "details": {
-      "headword": "fantastisch"
+      "headword": "fantastisch",
+      "derived_from": "Fantasie"
     },
     "examples": [
       "Die Aussicht ist fantastisch!"
@@ -10692,7 +10876,8 @@
     "id": "farbig",
     "raw_word": "farbig",
     "details": {
-      "headword": "farbig"
+      "headword": "farbig",
+      "derived_from": "Farbe"
     },
     "examples": [
       "Ich brauche kein weißes, sondern farbiges Papier."
@@ -10911,7 +11096,8 @@
     "details": {
       "article": "die",
       "headword": "Feier",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "feiern"
     },
     "examples": [
       "Es war eine schöne Feier."
@@ -10922,7 +11108,8 @@
     "raw_word": "der Feierabend",
     "details": {
       "article": "der",
-      "headword": "Feierabend"
+      "headword": "Feierabend",
+      "derived_from": "feiern"
     },
     "examples": [
       "Einen schönen Feierabend."
@@ -10934,7 +11121,8 @@
     "details": {
       "article": "der",
       "headword": "Feiertag",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "feiern"
     },
     "examples": [
       "Am Montag ist Feiertag.",
@@ -11029,7 +11217,8 @@
     "raw_word": "das Fernsehen",
     "details": {
       "article": "das",
-      "headword": "Fernsehen"
+      "headword": "Fernsehen",
+      "derived_from": "fernsehen"
     },
     "examples": [
       "Was gibt es heute Abend im Fernsehen?"
@@ -11041,7 +11230,8 @@
     "details": {
       "article": "der",
       "headword": "Fernseher",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "fernsehen"
     },
     "examples": [
       "Der Fernseher ist schon wieder kaputt."
@@ -11205,7 +11395,8 @@
     "raw_word": "das Fett",
     "details": {
       "article": "das",
-      "headword": "Fett"
+      "headword": "Fett",
+      "derived_from": "fett"
     },
     "examples": [
       "Man soll nicht so viel Fett essen."
@@ -11240,7 +11431,8 @@
     "details": {
       "article": "das",
       "headword": "Feuerzeug",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Feuer"
     },
     "examples": [
       "Ist das Feuerzeug neu?"
@@ -11252,7 +11444,8 @@
     "details": {
       "article": "die",
       "headword": "Feuerwehr",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Feuer"
     },
     "examples": [
       "Schnell! Rufen Sie die Feuerwehr! Die Nummer ist: 112."
@@ -11313,7 +11506,8 @@
     "id": "finanziell",
     "raw_word": "finanziell",
     "details": {
-      "headword": "finanziell"
+      "headword": "finanziell",
+      "derived_from": "finanzieren"
     },
     "examples": [
       "Finanziell geht es meinem Neffen jetzt besser."
@@ -11516,7 +11710,8 @@
     "raw_word": "die Flucht",
     "details": {
       "article": "die",
-      "headword": "Flucht"
+      "headword": "Flucht",
+      "derived_from": "fliehen"
     },
     "examples": [
       "Der Einbrecher war schon auf der Flucht."
@@ -11548,7 +11743,8 @@
     "id": "fließend",
     "raw_word": "fließend",
     "details": {
-      "headword": "fließend"
+      "headword": "fließend",
+      "derived_from": "geflossen"
     },
     "examples": [
       "Mein Kollege spricht fließend Deutsch.",
@@ -11597,7 +11793,8 @@
     "details": {
       "article": "der",
       "headword": "Flughafen",
-      "plural": "¨-"
+      "plural": "¨-",
+      "derived_from": "Flug"
     },
     "examples": [
       "Der Flughafen liegt 30 km außerhalb der Stadt."
@@ -11609,7 +11806,8 @@
     "details": {
       "article": "das",
       "headword": "Flugzeug",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Flug"
     },
     "examples": [
       "Das Flugzeug ist gerade gelandet."
@@ -11686,7 +11884,8 @@
     "details": {
       "article": "die",
       "headword": "Folge",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "folgen"
     },
     "examples": [
       "Die Folgen des Unfalls waren schlimm."
@@ -11696,7 +11895,8 @@
     "id": "folgend",
     "raw_word": "folgend",
     "details": {
-      "headword": "folgend"
+      "headword": "folgend",
+      "derived_from": "Folge"
     },
     "examples": [
       "Mehr Informationen auf den folgenden Seiten.",
@@ -11724,7 +11924,8 @@
     "details": {
       "article": "die",
       "headword": "Forderung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "fordern"
     },
     "examples": [
       "Alle Forderungen der Arbeitnehmer kann man in dieser E-Mail lesen."
@@ -11751,7 +11952,8 @@
     "details": {
       "article": "die",
       "headword": "Förderung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "fördern"
     },
     "examples": [
       "Für das Projekt bekommen wir eine Förderung von der Stadt."
@@ -11839,7 +12041,8 @@
     "details": {
       "article": "die",
       "headword": "Fortsetzung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "fortsetzen"
     },
     "examples": [
       "Fortsetzung folgt."
@@ -11881,7 +12084,8 @@
     "details": {
       "article": "das",
       "headword": "Foto",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "fotografieren"
     },
     "examples": [
       "Können Sie dieses Foto vergrößern?"
@@ -11893,7 +12097,8 @@
     "details": {
       "article": "der",
       "headword": "Fotoapparat",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "fotografieren"
     },
     "examples": [
       "Ich möchte mir einen Fotoapparat kaufen."
@@ -11905,7 +12110,8 @@
     "details": {
       "article": "der",
       "headword": "Fotograf",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Fotoapparat"
     },
     "examples": [
       "Die Fotografin hat sehr schöne Fotos gemacht."
@@ -11917,7 +12123,8 @@
     "details": {
       "article": "die",
       "headword": "Fotografie",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Fotoapparat"
     },
     "examples": [
       "Ich interessiere mich für Fotografie."
@@ -11946,7 +12153,8 @@
     "details": {
       "article": "die",
       "headword": "Frage",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "fragen"
     },
     "examples": [
       "Ich habe Ihre Frage leider nicht verstanden.",
@@ -11996,7 +12204,8 @@
     "id": "im Freien",
     "raw_word": "im Freien",
     "details": {
-      "headword": "im Freien"
+      "headword": "im Freien",
+      "derived_from": "frei"
     },
     "examples": [
       "Wir wollen heute im Freien übernachten."
@@ -12007,7 +12216,8 @@
     "raw_word": "die Freiheit",
     "details": {
       "article": "die",
-      "headword": "Freiheit"
+      "headword": "Freiheit",
+      "derived_from": "frei"
     },
     "examples": [
       "Wir wollen die Freiheit haben, unsere Meinung sagen zu können."
@@ -12018,7 +12228,8 @@
     "raw_word": "die Freizeit",
     "details": {
       "article": "die",
-      "headword": "Freizeit"
+      "headword": "Freizeit",
+      "derived_from": "frei"
     },
     "examples": [
       "In meiner Freizeit höre ich gern Musik."
@@ -12082,7 +12293,8 @@
     "raw_word": "die Freude",
     "details": {
       "article": "die",
-      "headword": "Freude"
+      "headword": "Freude",
+      "derived_from": "sich freuen"
     },
     "examples": [
       "Diese Arbeit macht mir viel Freude."
@@ -12104,7 +12316,8 @@
     "id": "freundlich",
     "raw_word": "freundlich",
     "details": {
-      "headword": "freundlich"
+      "headword": "freundlich",
+      "derived_from": "Freund"
     },
     "examples": [
       "Er hat uns sehr freundlich begrüßt.",
@@ -12118,7 +12331,8 @@
     "details": {
       "article": "die",
       "headword": "Freundschaft",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Freund"
     },
     "examples": [
       "Deine Freundschaft ist mir sehr wichtig."
@@ -12204,7 +12418,8 @@
     "details": {
       "article": "die",
       "headword": "Frisur",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Friseur"
     },
     "examples": [
       "Du hast eine tolle Frisur! Warst du beim Friseur?"
@@ -12237,7 +12452,8 @@
     "id": "fröhlich",
     "raw_word": "fröhlich",
     "details": {
-      "headword": "fröhlich"
+      "headword": "fröhlich",
+      "derived_from": "froh"
     },
     "examples": [
       "Die Musik klingt fröhlich.",
@@ -12324,7 +12540,8 @@
     "raw_word": "das Frühstück",
     "details": {
       "article": "das",
-      "headword": "Frühstück"
+      "headword": "Frühstück",
+      "derived_from": "frühstücken"
     },
     "examples": [
       "Wir sitzen gerade beim Frühstück.",
@@ -12420,7 +12637,8 @@
     "details": {
       "article": "die",
       "headword": "Führung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Führerschein"
     },
     "examples": [
       "Die nächste Führung beginnt um 15 Uhr.",
@@ -12517,7 +12735,8 @@
     "details": {
       "article": "der",
       "headword": "Fußball",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Fuß"
     },
     "examples": [
       "Spielt ihr gerne Fußball?",
@@ -12539,7 +12758,8 @@
           "headword": "Fußgängerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Fuß"
     },
     "examples": [
       "Dieser Weg ist nur für Fußgänger."
@@ -12551,7 +12771,8 @@
     "details": {
       "article": "die",
       "headword": "Fußgängerzone",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Fuß"
     },
     "examples": [
       "Wir treffen uns um 15 Uhr in der Fußgängerzone."
@@ -12667,7 +12888,8 @@
     "raw_word": "die Garantie",
     "details": {
       "article": "die",
-      "headword": "Garantie"
+      "headword": "Garantie",
+      "derived_from": "garantieren"
     },
     "examples": [
       "Auf die Waschmaschine haben Sie ein Jahr Garantie."
@@ -12731,7 +12953,8 @@
       "plural": "¨-er",
       "regional_usage": [
         "A"
-      ]
+      ],
+      "derived_from": "Gast"
     },
     "examples": [
       "Gehen wir noch in ein Gasthaus ein Bier trinken?"
@@ -12746,7 +12969,8 @@
       "plural": "-n",
       "regional_usage": [
         "D"
-      ]
+      ],
+      "derived_from": "Gasthaus"
     },
     "examples": [
       "Ich arbeite seit einem Monat in einer Gaststätte."
@@ -12865,7 +13089,8 @@
     "details": {
       "article": "die",
       "headword": "Gebrauchsanweisung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "gebrauchen"
     },
     "examples": [
       "Lesen Sie bitte zuerst die Gebrauchsanweisung."
@@ -12901,7 +13126,8 @@
     "details": {
       "article": "der",
       "headword": "Geburtstag",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Geburt"
     },
     "examples": [
       "Herzlichen Glückwunsch zum Geburtstag!"
@@ -12966,7 +13192,8 @@
     "id": "gefährlich",
     "raw_word": "gefährlich",
     "details": {
-      "headword": "gefährlich"
+      "headword": "gefährlich",
+      "derived_from": "Gefahr"
     },
     "examples": [
       "Achtung, hier ist eine gefährliche Kurve!",
@@ -13050,7 +13277,8 @@
     "details": {
       "article": "der",
       "headword": "Gegner",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "gegen"
     },
     "examples": [
       "Sie ist eine Gegnerin von Tierversuchen.",
@@ -13150,7 +13378,8 @@
     "id": "geheim",
     "raw_word": "geheim",
     "details": {
-      "headword": "geheim"
+      "headword": "geheim",
+      "derived_from": "Geheimnis"
     },
     "examples": [
       "Das ist geheim. Du darfst es niemandem sagen."
@@ -13254,7 +13483,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "Geld"
     },
     "examples": [
       "IchholenochGeldvomGeldautomaten."
@@ -13495,7 +13725,8 @@
     "id": "geradeaus",
     "raw_word": "geradeaus",
     "details": {
-      "headword": "geradeaus"
+      "headword": "geradeaus",
+      "derived_from": "gerade"
     },
     "examples": [
       "Fahren Sie geradeaus bis zur nächsten Kreuzung."
@@ -13690,7 +13921,8 @@
     "details": {
       "article": "die",
       "headword": "Geschwindigkeitsbeschränkung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Geschwindigkeit"
     },
     "examples": [
       "Bitte beachten Sie die Geschwindigkeitsbeschränkungen."
@@ -13796,7 +14028,8 @@
     "raw_word": "die Gesundheit",
     "details": {
       "article": "die",
-      "headword": "Gesundheit"
+      "headword": "Gesundheit",
+      "derived_from": "gesund"
     },
     "examples": [
       "Sie müssen mehr auf Ihre Gesundheit achten.",
@@ -13877,7 +14110,8 @@
     "details": {
       "article": "der",
       "headword": "Gewinn",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "gewinnen"
     },
     "examples": [
       "Ich habe bei einem Ratespiel mitge macht. Der Hauptgewinn ist ein Auto."
@@ -13952,7 +14186,8 @@
     "id": "gewohnt",
     "raw_word": "gewohnt",
     "details": {
-      "headword": "gewohnt"
+      "headword": "gewohnt",
+      "derived_from": "Gewohnheit"
     },
     "examples": [
       "Ich bin gewohnt, früh ins Bett zu gehen."
@@ -13962,7 +14197,8 @@
     "id": "gewöhnlich",
     "raw_word": "gewöhnlich",
     "details": {
-      "headword": "gewöhnlich"
+      "headword": "gewöhnlich",
+      "derived_from": "Gewohnheit"
     },
     "examples": [
       "Um die Zeit ist er gewöhnlich zu Hause."
@@ -14011,7 +14247,8 @@
     "id": "giftig",
     "raw_word": "giftig",
     "details": {
-      "headword": "giftig"
+      "headword": "giftig",
+      "derived_from": "Gift"
     },
     "examples": [
       "Vorsicht, das ist giftig!"
@@ -14114,7 +14351,8 @@
     "id": "gleichfalls",
     "raw_word": "gleichfalls",
     "details": {
-      "headword": "gleichfalls"
+      "headword": "gleichfalls",
+      "derived_from": "gleich"
     },
     "examples": [
       "Schöne Feiertage! - Danke, gleichfalls."
@@ -14124,7 +14362,8 @@
     "id": "gleichberechtigt",
     "raw_word": "gleichberechtigt",
     "details": {
-      "headword": "gleichberechtigt"
+      "headword": "gleichberechtigt",
+      "derived_from": "gleich"
     },
     "examples": [
       "Mann und Frau sind gleichberechtigt."
@@ -14134,7 +14373,8 @@
     "id": "gleichzeitig",
     "raw_word": "gleichzeitig",
     "details": {
-      "headword": "gleichzeitig"
+      "headword": "gleichzeitig",
+      "derived_from": "gleichberechtigt"
     },
     "examples": [
       "Ich kann nicht alles gleichzeitig machen."
@@ -14169,7 +14409,8 @@
     "id": "glücklich",
     "raw_word": "glücklich",
     "details": {
-      "headword": "glücklich"
+      "headword": "glücklich",
+      "derived_from": "Glück"
     },
     "examples": [
       "Meine Schwester hat geheiratet und ist sehr glücklich.",
@@ -14183,7 +14424,8 @@
     "details": {
       "article": "der",
       "headword": "Glückwunsch",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Glück"
     },
     "examples": [
       "Herzlichen Glückwunsch zum Geburtstag!"
@@ -14372,7 +14614,8 @@
     "raw_word": "der Grill",
     "details": {
       "article": "der",
-      "headword": "Grill"
+      "headword": "Grill",
+      "derived_from": "grillieren"
     },
     "examples": [
       "Kannst du mir deinen Grill leihen? Wir wollen am Wochenende ein Picknick machen."
@@ -14419,7 +14662,8 @@
     "details": {
       "article": "die",
       "headword": "Größe",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Groß-"
     },
     "examples": [
       "Welche Größe haben Sie?",
@@ -14512,7 +14756,8 @@
     "details": {
       "article": "der",
       "headword": "Gruß",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "grüßen"
     },
     "examples": [
       "Schönen Gruß an Ihren Mann.",
@@ -14721,7 +14966,8 @@
     "raw_word": "die Halbpension",
     "details": {
       "article": "die",
-      "headword": "Halbpension"
+      "headword": "Halbpension",
+      "derived_from": "halb"
     },
     "examples": [
       "Wir möchten ein Hotel mit Halbpension."
@@ -14731,7 +14977,8 @@
     "id": "halbtags",
     "raw_word": "halbtags",
     "details": {
-      "headword": "halbtags"
+      "headword": "halbtags",
+      "derived_from": "Halbpension"
     },
     "examples": [
       "Ich habe ein kleines Kind und kann nicht acht Stunden am Tag arbeiten.",
@@ -14770,7 +15017,8 @@
     "details": {
       "article": "das",
       "headword": "Hallenbad",
-      "plural": "¨-er"
+      "plural": "¨-er",
+      "derived_from": "Halle"
     },
     "examples": [
       "Sie geht jeden Tag zum Schwimmen ins Hallenbad."
@@ -14844,7 +15092,8 @@
     "raw_word": "der Halt",
     "details": {
       "article": "der",
-      "headword": "Halt"
+      "headword": "Halt",
+      "derived_from": "halten"
     },
     "examples": [
       "Nächster Halt ist am Südbahnhof."
@@ -14856,7 +15105,8 @@
     "details": {
       "article": "die",
       "headword": "Haltestelle",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "halten"
     },
     "examples": [
       "An der nächsten Haltestelle müssen wir aussteigen."
@@ -14902,7 +15152,8 @@
           "headword": "Handwerkerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Hand"
     },
     "examples": [
       "Morgen sind bei uns die Handwerker.",
@@ -14931,7 +15182,8 @@
     "raw_word": "der Handel",
     "details": {
       "article": "der",
-      "headword": "Handel"
+      "headword": "Handel",
+      "derived_from": "handeln"
     },
     "examples": [
       "Der Handel mit Computern ist ein gutes Geschäft."
@@ -14952,7 +15204,8 @@
           "headword": "Händlerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "handeln"
     },
     "examples": [
       "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?"
@@ -15051,7 +15304,8 @@
     "details": {
       "article": "die",
       "headword": "Hauptstadt",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Haupt-"
     },
     "examples": [
       "Berlin ist die Hauptstadt von Deutschland."
@@ -15063,7 +15317,8 @@
     "details": {
       "article": "der",
       "headword": "Hauptbahnhof",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Haupt-"
     },
     "examples": [
       "Treffen wir uns am Hauptbahnhof?"
@@ -15090,7 +15345,8 @@
     "details": {
       "article": "die",
       "headword": "Hausaufgabe",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Haus"
     },
     "examples": [
       "Kannst du mir bei den Hausaufgaben helfen?"
@@ -15104,7 +15360,8 @@
       "headword": "Hausfrau Hausmann",
       "variants": [
         "der"
-      ]
+      ],
+      "derived_from": "Haus"
     },
     "examples": [
       "Meine Frau ist Hausfrau und kümmert sich um die Kinder./Mein Mann ist Hausmann und kümmert sich um die Kinder."
@@ -15116,7 +15373,8 @@
     "details": {
       "article": "der",
       "headword": "Haushalt",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Hausfrau Hausmann"
     },
     "examples": [
       "Ich kümmere mich um den Haushalt, d. h. ich putze, wasche, koche etc."
@@ -15149,7 +15407,8 @@
           "headword": "Hausmeisterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Hausfrau Hausmann"
     },
     "examples": [
       "Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen."
@@ -15315,7 +15574,8 @@
     "details": {
       "article": "die",
       "headword": "Heizung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "heizen"
     },
     "examples": [
       "Es ist kalt. Ist die Heizung kaputt?"
@@ -15364,7 +15624,8 @@
     "raw_word": "die Hilfe",
     "details": {
       "article": "die",
-      "headword": "Hilfe"
+      "headword": "Hilfe",
+      "derived_from": "helfen"
     },
     "examples": [
       "Vielen Dank für Ihre Hilfe.",
@@ -15447,7 +15708,8 @@
       "conjugation": [
         "raus(heraus-) finden",
         "findet"
-      ]
+      ],
+      "derived_from": "her"
     },
     "examples": [
       "Hast du schon rausgefunden, wann und wo man sich für den Kurs anmelden"
@@ -15461,7 +15723,8 @@
       "conjugation": [
         "fand heraus",
         "hat herausgefunden"
-      ]
+      ],
+      "derived_from": "her"
     },
     "examples": [
       "muss?"
@@ -15549,7 +15812,8 @@
     "details": {
       "article": "der",
       "headword": "Hersteller",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "herstellen"
     },
     "examples": [
       "Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren."
@@ -15577,7 +15841,8 @@
       "conjugation": [
         "lud herunter",
         "hat heruntergeladen"
-      ]
+      ],
+      "derived_from": "herunter-"
     },
     "examples": [
       "(he)runtergeladen."
@@ -15590,7 +15855,8 @@
       "headword": "(herunter-)fahren",
       "conjugation": [
         "fährt"
-      ]
+      ],
+      "derived_from": "herunter-"
     },
     "examples": [
       "Zum Schluss musst du den Computer"
@@ -15604,7 +15870,8 @@
       "conjugation": [
         "fuhr herunter",
         "hat heruntergefahren"
-      ]
+      ],
+      "derived_from": "herunter-"
     },
     "examples": [
       "herunterfahren."
@@ -15650,7 +15917,8 @@
     "id": "heutig-",
     "raw_word": "heutig-",
     "details": {
-      "headword": "heutig-"
+      "headword": "heutig-",
+      "derived_from": "heute"
     },
     "examples": [
       "Die heutigen Computer können viel mehr als noch vor ein paar Jahren."
@@ -15744,7 +16012,8 @@
         "hinterlässt",
         "hinterließ",
         "hat hinterlassen"
-      ]
+      ],
+      "derived_from": "hinter"
     },
     "examples": [
       "Möchten Sie eine Nachricht hinterlassen?"
@@ -15781,7 +16050,8 @@
     "details": {
       "article": "der",
       "headword": "Hinweise",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "hinweisen"
     },
     "examples": [
       "Die Polizei hat viele Hinweise zum Unfall bekommen."
@@ -15900,7 +16170,8 @@
     "details": {
       "article": "der",
       "headword": "Bauernhof",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Hof"
     },
     "examples": [
       "Meine Großeltern hatten einen Bauernhof."
@@ -15926,7 +16197,8 @@
     "id": "hoffentlich",
     "raw_word": "hoffentlich",
     "details": {
-      "headword": "hoffentlich"
+      "headword": "hoffentlich",
+      "derived_from": "hoffen"
     },
     "examples": [
       "Hoffentlich hat unser Zug keine Verspätung."
@@ -15938,7 +16210,8 @@
     "details": {
       "article": "die",
       "headword": "Hoffnung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "hoffen"
     },
     "examples": [
       "Man darf die Hoffnung nicht verlieren."
@@ -16025,7 +16298,8 @@
           "headword": "Hörerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "hören"
     },
     "examples": [
       "Die Sendung hat viele Hörer und Hörerinnen."
@@ -16036,7 +16310,8 @@
     "raw_word": "der Zuhörer",
     "details": {
       "article": "der",
-      "headword": "Zuhörer"
+      "headword": "Zuhörer",
+      "derived_from": "hören"
     }
   },
   {
@@ -16113,7 +16388,8 @@
     "id": "hungrig",
     "raw_word": "hungrig",
     "details": {
-      "headword": "hungrig"
+      "headword": "hungrig",
+      "derived_from": "Hunger"
     },
     "examples": [
       "Ich bin sehr hungrig."
@@ -16154,7 +16430,8 @@
     "raw_word": "der Husten",
     "details": {
       "article": "der",
-      "headword": "Husten"
+      "headword": "Husten",
+      "derived_from": "husten"
     },
     "examples": [
       "Haben Sie ein Medikament gegen Husten?"
@@ -16352,7 +16629,8 @@
     "details": {
       "article": "die",
       "headword": "Information",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "informieren"
     },
     "examples": [
       "Bitte lesen Sie diese Informationen genau.",
@@ -16407,7 +16685,8 @@
     "id": "inner-",
     "raw_word": "inner-",
     "details": {
-      "headword": "inner-"
+      "headword": "inner-",
+      "derived_from": "innen"
     },
     "examples": [
       "Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben."
@@ -16417,7 +16696,8 @@
     "id": "innerhalb",
     "raw_word": "innerhalb",
     "details": {
-      "headword": "innerhalb"
+      "headword": "innerhalb",
+      "derived_from": "innen"
     },
     "examples": [
       "Diese Fahrkarte gilt nur innerhalb der Stadt.",
@@ -16519,7 +16799,8 @@
     "details": {
       "article": "die",
       "headword": "Integration",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "integrieren"
     },
     "examples": [
       "Gute Deutschkenntnisse sollen bei der Integration helfen."
@@ -16540,7 +16821,8 @@
     "raw_word": "die Intelligenz",
     "details": {
       "article": "die",
-      "headword": "Intelligenz"
+      "headword": "Intelligenz",
+      "derived_from": "intelligent"
     },
     "examples": [
       "Meine Kinder haben in der Schule einen Intelligenztest gemacht."
@@ -16562,7 +16844,8 @@
     "details": {
       "article": "der",
       "headword": "Intensivkurs",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "intensiv"
     },
     "examples": [
       "Der Intensivkurs findet täglich von 9 bis 12 Uhr statt."
@@ -16588,7 +16871,8 @@
     "id": "interessant",
     "raw_word": "interessant",
     "details": {
-      "headword": "interessant"
+      "headword": "interessant",
+      "derived_from": "interessieren"
     },
     "examples": [
       "Ich habe einen interessanten Bericht gelesen.",
@@ -16601,7 +16885,8 @@
     "details": {
       "article": "das",
       "headword": "Interesse",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "interessieren"
     },
     "examples": [
       "Ich habe viele Interessen: Sport, Lesen, Handarbeit, Tanzen"
@@ -16611,7 +16896,8 @@
     "id": "interessiert",
     "raw_word": "interessiert",
     "details": {
-      "headword": "interessiert"
+      "headword": "interessiert",
+      "derived_from": "Interesse"
     },
     "examples": [
       "Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?"
@@ -16671,7 +16957,8 @@
     "id": "irgendein",
     "raw_word": "irgendein",
     "details": {
-      "headword": "irgendein"
+      "headword": "irgendein",
+      "derived_from": "irgend-"
     },
     "examples": [
       "Was für einen Saft möchten Sie? - Ganz egal, irgendeinen."
@@ -16681,7 +16968,8 @@
     "id": "irgendwann",
     "raw_word": "irgendwann",
     "details": {
-      "headword": "irgendwann"
+      "headword": "irgendwann",
+      "derived_from": "irgend-"
     },
     "examples": [
       "Ich habe Sie irgendwann schon mal gesehen."
@@ -16776,7 +17064,8 @@
     "id": "je ... desto ...",
     "raw_word": "je ... desto ...",
     "details": {
-      "headword": "je ... desto ..."
+      "headword": "je ... desto ...",
+      "derived_from": "je"
     },
     "examples": [
       "Je länger ich Deutsch lerne, desto besser kann ich es verstehen."
@@ -16815,7 +17104,8 @@
     "id": "jederzeit",
     "raw_word": "jederzeit",
     "details": {
-      "headword": "jederzeit"
+      "headword": "jederzeit",
+      "derived_from": "jeder"
     },
     "examples": [
       "Sie können mich jederzeit anrufen."
@@ -16825,7 +17115,8 @@
     "id": "jedes Mal",
     "raw_word": "jedes Mal",
     "details": {
-      "headword": "jedes Mal"
+      "headword": "jedes Mal",
+      "derived_from": "jeder"
     },
     "examples": [
       "Inge erzählt die Geschichte jedes Mal anders."
@@ -17091,7 +17382,8 @@
     "raw_word": "die Kälte",
     "details": {
       "article": "die",
-      "headword": "Kälte"
+      "headword": "Kälte",
+      "derived_from": "kalt"
     },
     "examples": [
       "Bei dieser Kälte fahre ich nicht mit dem Fahrrad."
@@ -17130,7 +17422,8 @@
     "details": {
       "article": "der",
       "headword": "Kampf",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "kämpfen"
     },
     "examples": [
       "Im Schulbus gibt es immer einen Kampf um die Sitzplätze."
@@ -17212,7 +17505,8 @@
     "id": "kaputtgehen",
     "raw_word": "kaputtgehen",
     "details": {
-      "headword": "kaputtgehen"
+      "headword": "kaputtgehen",
+      "derived_from": "kaputt"
     },
     "examples": [
       "Pass bitte mit diesem Glas auf. Es geht leicht kaputt.",
@@ -17223,7 +17517,8 @@
     "id": "kaputtmachen",
     "raw_word": "kaputtmachen",
     "details": {
-      "headword": "kaputtmachen"
+      "headword": "kaputtmachen",
+      "derived_from": "kaputt"
     },
     "examples": [
       "Wer hat die Lampe kaputtgemacht?"
@@ -17320,7 +17615,8 @@
     "details": {
       "article": "die",
       "headword": "Chipkarte",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Karte"
     },
     "examples": [
       "Ich habe eine Chipkarte für diesen Automaten."
@@ -17340,7 +17636,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "Karte"
     },
     "examples": [
       "Fahrkarten können Sie am Schalter kaufen."
@@ -17495,7 +17792,8 @@
     "raw_word": "der Kauf",
     "details": {
       "article": "der",
-      "headword": "Kauf"
+      "headword": "Kauf",
+      "derived_from": "(sich etwas) kaufen"
     },
     "examples": [
       "Der neue Esstisch war ein guter Kauf."
@@ -17516,7 +17814,8 @@
           "headword": "Käuferin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "(sich etwas) kaufen"
     },
     "examples": [
       "Ich habe schon einen Käufer für den alten Tisch."
@@ -17619,7 +17918,8 @@
       "headword": "kennenlernen",
       "conjugation": [
         "lernt"
-      ]
+      ],
+      "derived_from": "kennen"
     },
     "examples": [
       "Wo habt ihr euch kennengelernt?"
@@ -17633,7 +17933,8 @@
       "conjugation": [
         "lernte kennen",
         "hat kennengelernt"
-      ]
+      ],
+      "derived_from": "kennen"
     },
     "examples": [
       "Ich möchte gern reisen und andere Länder kennenlernen."
@@ -17708,7 +18009,8 @@
     "details": {
       "article": "der",
       "headword": "Kindergarten",
-      "plural": "¨-"
+      "plural": "¨-",
+      "derived_from": "Kind"
     },
     "examples": [
       "Morgens bringe ich meinen Sohn in den Kindergarten."
@@ -17719,7 +18021,8 @@
     "raw_word": "die Kindheit",
     "details": {
       "article": "die",
-      "headword": "Kindheit"
+      "headword": "Kindheit",
+      "derived_from": "Kindergarten"
     },
     "examples": [
       "In meiner Kindheit war ich oft auf dem Land bei meinen Großeltern."
@@ -18001,7 +18304,8 @@
     "details": {
       "article": "der",
       "headword": "Klick",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "klicken"
     },
     "examples": [
       "Um das Wort zu markieren, genügt ein Doppelklick mit der linken Maustaste."
@@ -18024,7 +18328,8 @@
     "details": {
       "article": "die",
       "headword": "Klimaanlage",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Klima"
     },
     "examples": [
       "Im Sommer brauchen wir eine Klimaanlage."
@@ -18052,7 +18357,8 @@
     "details": {
       "article": "die",
       "headword": "Klingel",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "klingeln"
     },
     "examples": [
       "Drück bitte auf die Klingel!"
@@ -18260,7 +18566,8 @@
           "headword": "Köchin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "kochen"
     },
     "examples": [
       "Ein Freund von mir ist Koch in einem teuren Restaurant."
@@ -18495,7 +18802,8 @@
     "raw_word": "der Konsum",
     "details": {
       "article": "der",
-      "headword": "Konsum"
+      "headword": "Konsum",
+      "derived_from": "konsumieren"
     },
     "examples": [
       "Der Konsum von Lebensmitteln steigt."
@@ -18532,7 +18840,8 @@
     "details": {
       "article": "das",
       "headword": "Girokonto",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Konto"
     },
     "examples": [
       "Mein Girokonto kostet gar nichts."
@@ -18559,7 +18868,8 @@
     "details": {
       "article": "die",
       "headword": "Kontrolle",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "kontrollieren"
     },
     "examples": [
       "An den Grenzen gibt es kaum noch Kontrollen.",
@@ -18624,7 +18934,8 @@
     "details": {
       "article": "die",
       "headword": "Kopie",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "kopieren"
     },
     "examples": [
       "Machst du mir bitte eine Kopie?"
@@ -18636,7 +18947,8 @@
     "details": {
       "article": "der",
       "headword": "Kopierer",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "kopieren"
     },
     "examples": [
       "Der Kopierer ist schon wieder kaputt."
@@ -18658,7 +18970,8 @@
     "id": "körperlich",
     "raw_word": "körperlich",
     "details": {
-      "headword": "körperlich"
+      "headword": "körperlich",
+      "derived_from": "Körper"
     },
     "examples": [
       "Körperliche Arbeit macht mir nichts aus."
@@ -18740,7 +19053,8 @@
     "details": {
       "article": "die",
       "headword": "Kosten",
-      "plural": "(Pl.)"
+      "plural": "(Pl.)",
+      "derived_from": "kosten"
     },
     "examples": [
       "Die Kosten für die Reise bekomme ich von der Firma."
@@ -18750,7 +19064,8 @@
     "id": "kostenlos",
     "raw_word": "kostenlos",
     "details": {
-      "headword": "kostenlos"
+      "headword": "kostenlos",
+      "derived_from": "Kosten"
     },
     "examples": [
       "Diese Zeitschrift kostet nichts. Sie ist kostenlos."
@@ -18811,7 +19126,8 @@
     "id": "kräftig",
     "raw_word": "kräftig",
     "details": {
-      "headword": "kräftig"
+      "headword": "kräftig",
+      "derived_from": "Kraft"
     },
     "examples": [
       "Der Mann ist kräftig. Er macht viel Sport und isst viel.",
@@ -18867,7 +19183,8 @@
           "headword": "Kranke",
           "plural": "-n"
         }
-      }
+      },
+      "derived_from": "krank"
     },
     "examples": [
       "Kranke brauchen viel Ruhe."
@@ -18879,7 +19196,8 @@
     "details": {
       "article": "das",
       "headword": "Krankenhaus",
-      "plural": "¨-er"
+      "plural": "¨-er",
+      "derived_from": "krank"
     },
     "examples": [
       "Er hat sich verletzt und musste ins Krankenhaus."
@@ -18891,7 +19209,8 @@
     "details": {
       "article": "die",
       "headword": "Krankenkasse",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Krankenhaus"
     },
     "examples": [
       "Die Krankenkasse bezahlt die Medikamente."
@@ -18903,7 +19222,8 @@
     "details": {
       "article": "der",
       "headword": "Krankenpfleger",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Krankenhaus"
     },
     "examples": [
       "Mein Bruder arbeitet als Krankenpfleger im Krankenhaus."
@@ -18915,7 +19235,8 @@
     "details": {
       "article": "die",
       "headword": "Krankenschwester",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "krank"
     },
     "examples": [
       "Meine Cousine möchte gern Krankenschwester werden."
@@ -18927,7 +19248,8 @@
     "details": {
       "article": "der",
       "headword": "Krankenwagen",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Krankenschwester"
     },
     "examples": [
       "Wir mussten einen Krankenwagen rufen."
@@ -18939,7 +19261,8 @@
     "details": {
       "article": "die",
       "headword": "Krankheit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Krankenwagen"
     },
     "examples": [
       "Gegen welche Krankheiten sollte ich mich impfen lassen?",
@@ -18976,7 +19299,8 @@
     "details": {
       "article": "die",
       "headword": "Kreditkarte",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Kredit"
     },
     "examples": [
       "Kann ich mit Kreditkarte zahlen?"
@@ -19014,7 +19338,8 @@
     "details": {
       "article": "die",
       "headword": "Kreuzung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Kreuz"
     },
     "examples": [
       "Fahren Sie an der nächsten Kreuzung rechts."
@@ -19115,7 +19440,8 @@
     "details": {
       "article": "die",
       "headword": "Kritik",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "kritisieren"
     },
     "examples": [
       "Es gibt viel Kritik an der Politik der Regierung.",
@@ -19126,7 +19452,8 @@
     "id": "kritisch",
     "raw_word": "kritisch",
     "details": {
-      "headword": "kritisch"
+      "headword": "kritisch",
+      "derived_from": "Kritik"
     },
     "examples": [
       "Es gab eine Diskussion über die Lebensmittelpreise. Ein Journalist hat kritische Fragen gestellt."
@@ -19175,7 +19502,8 @@
     "details": {
       "article": "der",
       "headword": "Kuli",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "Kugelschreiber"
     },
     "examples": [
       "Hast du einen Kuli für mich?"
@@ -19197,7 +19525,8 @@
     "details": {
       "article": "der",
       "headword": "Kühlschrank",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "kühl"
     },
     "examples": [
       "Stell die Milch in den Kühlschrank!"
@@ -19219,7 +19548,8 @@
     "id": "kulturell",
     "raw_word": "kulturell",
     "details": {
-      "headword": "kulturell"
+      "headword": "kulturell",
+      "derived_from": "Kultur"
     },
     "examples": [
       "Es gibt große kulturelle Unterschiede zwischen den Ländern."
@@ -19286,7 +19616,8 @@
     "details": {
       "article": "die",
       "headword": "Kündigung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "kündigen"
     },
     "examples": [
       "Ich habe die Kündigung bekommen.",
@@ -19320,7 +19651,8 @@
           "headword": "Künstlerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Kunst"
     },
     "examples": [
       "In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin."
@@ -19342,7 +19674,8 @@
     "details": {
       "article": "der",
       "headword": "Kunststoff",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "künstlich"
     },
     "examples": [
       "Der Stuhl ist aus Kunststoff."
@@ -19366,7 +19699,8 @@
     "details": {
       "article": "der",
       "headword": "Kursleiter",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Kurs"
     },
     "examples": [
       "Die Kursleiterin ist mit unserer"
@@ -19378,7 +19712,8 @@
     "details": {
       "article": "die",
       "headword": "Kursleiterin",
-      "plural": "-nen"
+      "plural": "-nen",
+      "derived_from": "Kurs"
     },
     "examples": [
       "Kursgruppe manchmal in den Computerraum gegangen."
@@ -19605,7 +19940,8 @@
     "raw_word": "die Landwirtschaft",
     "details": {
       "article": "die",
-      "headword": "Landwirtschaft"
+      "headword": "Landwirtschaft",
+      "derived_from": "Land"
     },
     "examples": [
       "Auf dem Land arbeiten die meisten Leute in der Landwirtschaft."
@@ -19655,7 +19991,8 @@
     "details": {
       "article": "die",
       "headword": "Landung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "gelandet"
     },
     "examples": [
       "Bei der Landung müssen Sie sich anschnallen."
@@ -19678,7 +20015,8 @@
     "raw_word": "die Länge",
     "details": {
       "article": "die",
-      "headword": "Länge"
+      "headword": "Länge",
+      "derived_from": "lang"
     },
     "examples": [
       "Mein Schreibtisch hat folgende Maße: Länge 1.20 m, Breite: 0,85 m, Höhe: 0,75 m."
@@ -19754,7 +20092,8 @@
     "raw_word": "die Langeweile",
     "details": {
       "article": "die",
-      "headword": "Langeweile"
+      "headword": "Langeweile",
+      "derived_from": "sich langweilen"
     },
     "examples": [
       "Es ist aus Langeweile eingeschlafen."
@@ -19914,7 +20253,8 @@
     "raw_word": "das Leben",
     "details": {
       "article": "das",
-      "headword": "Leben"
+      "headword": "Leben",
+      "derived_from": "gelebt"
     },
     "examples": [
       "Ich habe mich an das Leben auf dem Land gewöhnt.",
@@ -19927,7 +20267,8 @@
     "details": {
       "article": "der",
       "headword": "Lebenslauf",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "gelebt"
     },
     "examples": [
       "Hast du den Lebenslauf für die Bewerbung schon geschrieben?"
@@ -19939,7 +20280,8 @@
     "details": {
       "article": "die",
       "headword": "Lebensmittel",
-      "plural": "(Pl.)"
+      "plural": "(Pl.)",
+      "derived_from": "gelebt"
     },
     "examples": [
       "Lebensmittel werden immer teurer.",
@@ -20021,7 +20363,8 @@
     "details": {
       "article": "die",
       "headword": "Lehrstelle",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Lehre"
     },
     "examples": [
       "Es sind noch viele Lehrstellen frei."
@@ -20166,7 +20509,8 @@
     "details": {
       "article": "die",
       "headword": "Leistung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "leisten"
     },
     "examples": [
       "Meine Leistungen in der Schule sind ganz gut."
@@ -20202,7 +20546,8 @@
           "headword": "Leiterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "leiten"
     },
     "examples": [
       "Wie heißt die Leiterin der Schule?"
@@ -20214,7 +20559,8 @@
     "details": {
       "article": "die",
       "headword": "Leitung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "leiten"
     },
     "examples": [
       "Ab 1. Juli übernimmt Herr Meier die Leitung der Abteilung.",
@@ -20271,7 +20617,8 @@
           "headword": "Lernerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "gelernt"
     },
     "examples": [
       "Sie ist eine fleißige Lernerin."
@@ -20309,7 +20656,8 @@
           "headword": "Leserin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "lesen"
     },
     "examples": [
       "Die Leserinnen und Leser sind mit der Zeitung zufrieden.",
@@ -20399,7 +20747,8 @@
     "raw_word": "die Liebe",
     "details": {
       "article": "die",
-      "headword": "Liebe"
+      "headword": "Liebe",
+      "derived_from": "lieb"
     },
     "examples": [
       "Wir haben aus Liebe geheiratet.",
@@ -20411,7 +20760,8 @@
     "id": "Lieblings-",
     "raw_word": "Lieblings-",
     "details": {
-      "headword": "Lieblings-"
+      "headword": "Lieblings-",
+      "derived_from": "lieb"
     },
     "examples": [
       "z. B. Lieblingsfarbe, Lieblingsfilm, Lieblingsessen Mein Lieblingsessen ist Pizza."
@@ -20460,7 +20810,8 @@
     "details": {
       "article": "die",
       "headword": "Lieferung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "geliefert"
     },
     "examples": [
       "Sie bezahlen erst bei der Lieferung."
@@ -20544,7 +20895,8 @@
     "id": "link-",
     "raw_word": "link-",
     "details": {
-      "headword": "link-"
+      "headword": "link-",
+      "derived_from": "links"
     },
     "examples": [
       "Er hat sich das linke Bein gebrochen.",
@@ -20787,7 +21139,8 @@
     "details": {
       "article": "die",
       "headword": "Lüge",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "lügen"
     },
     "examples": [
       "Das ist eine Lüge!"
@@ -20965,7 +21318,8 @@
           "headword": "Malerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "malen"
     },
     "examples": [
       "Wir haben die Maler im Haus. Wir lassen die Wände neu streichen.",
@@ -21035,7 +21389,8 @@
     "id": "männlich",
     "raw_word": "männlich",
     "details": {
-      "headword": "männlich"
+      "headword": "männlich",
+      "derived_from": "Mann"
     },
     "examples": [
       "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
@@ -21350,7 +21705,8 @@
     "id": "mehrere",
     "raw_word": "mehrere",
     "details": {
-      "headword": "mehrere"
+      "headword": "mehrere",
+      "derived_from": "mehr (siehe auch viel)"
     },
     "examples": [
       "Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.",
@@ -21481,7 +21837,8 @@
     "details": {
       "article": "die",
       "headword": "Meldung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "melden"
     },
     "examples": [
       "Hast du die Meldung im Radio gehört?",
@@ -21531,7 +21888,8 @@
     "id": "menschlich",
     "raw_word": "menschlich",
     "details": {
-      "headword": "menschlich"
+      "headword": "menschlich",
+      "derived_from": "Mensch"
     },
     "examples": [
       "Fehler zu machen ist menschlich."
@@ -21694,7 +22052,8 @@
     "details": {
       "article": "die",
       "headword": "Miete",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "mieten"
     },
     "examples": [
       "Unsere Miete ist sehr hoch.",
@@ -21716,7 +22075,8 @@
           "headword": "Mieterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "mieten"
     },
     "examples": [
       "Sie hat heute neue Mieter für die Wohnung gefunden."
@@ -21995,7 +22355,8 @@
     "id": "möbliert",
     "raw_word": "möbliert",
     "details": {
-      "headword": "möbliert"
+      "headword": "möbliert",
+      "derived_from": "Möbel"
     },
     "examples": [
       "Ich suche ein möbliertes Zimmer."
@@ -22036,7 +22397,8 @@
     "details": {
       "article": "die",
       "headword": "Mobilbox",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "mobil"
     },
     "examples": [
       "Ich habe zwei Nachrichten auf meiner Mobilbox."
@@ -22048,7 +22410,8 @@
     "details": {
       "article": "die",
       "headword": "Mobilität",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "mobil"
     },
     "examples": [
       "Sprachen zu lernen fördert die Mobilität."
@@ -22060,7 +22423,8 @@
     "details": {
       "article": "das",
       "headword": "Mobiltelefon",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "mobil"
     },
     "examples": [
       "Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon?"
@@ -22136,7 +22500,8 @@
     "details": {
       "article": "die",
       "headword": "Möglichkeit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "möglich"
     },
     "examples": [
       "Sie wollen ans Meer? Da gibt es mehrere Möglichkeiten."
@@ -22146,7 +22511,8 @@
     "id": "möglichst",
     "raw_word": "möglichst",
     "details": {
-      "headword": "möglichst"
+      "headword": "möglichst",
+      "derived_from": "Möglichkeit"
     },
     "examples": [
       "Sagen Sie mir bitte möglichst bald, ob Ihnen der Termin passt.",
@@ -22281,7 +22647,8 @@
     "raw_word": "die Müllabfuhr",
     "details": {
       "article": "die",
-      "headword": "Müllabfuhr"
+      "headword": "Müllabfuhr",
+      "derived_from": "Müll"
     },
     "examples": [
       "Die Müllabfuhr kommt zweimal pro Woche."
@@ -22293,7 +22660,8 @@
     "details": {
       "article": "die",
       "headword": "Mülltonne",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Müll"
     },
     "examples": [
       "Die Mülltonne ist voll."
@@ -22315,7 +22683,8 @@
     "id": "mündlich",
     "raw_word": "mündlich",
     "details": {
-      "headword": "mündlich"
+      "headword": "mündlich",
+      "derived_from": "Mund"
     },
     "examples": [
       "Die mündliche Prüfung ist erst nächste Woche."
@@ -22362,7 +22731,8 @@
     "id": "musikalisch",
     "raw_word": "musikalisch",
     "details": {
-      "headword": "musikalisch"
+      "headword": "musikalisch",
+      "derived_from": "Musik"
     },
     "examples": [
       "Sie ist sehr musikalisch: Sie spielt Klavier, Flöte und Geige.",
@@ -22383,7 +22753,8 @@
           "article": "die",
           "headword": "Musikerin"
         }
-      }
+      },
+      "derived_from": "Musik"
     },
     "examples": [
       "Mein Bruder möchte Musiker werden."
@@ -22700,7 +23071,8 @@
     "raw_word": "die Nähe",
     "details": {
       "article": "die",
-      "headword": "Nähe"
+      "headword": "Nähe",
+      "derived_from": "nah(e)"
     },
     "examples": [
       "Die Post ist ganz in der Nähe vom Bahnhof."
@@ -22777,7 +23149,8 @@
     "details": {
       "article": "der",
       "headword": "Familienname",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Name"
     },
     "examples": [
       "Ludin ist mein Familienname."
@@ -22789,7 +23162,8 @@
     "details": {
       "article": "der",
       "headword": "Vorname",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Familienname"
     },
     "examples": [
       "Mein Vorname ist Thomas."
@@ -22881,7 +23255,8 @@
     "id": "neblig",
     "raw_word": "neblig",
     "details": {
-      "headword": "neblig"
+      "headword": "neblig",
+      "derived_from": "Nebel"
     },
     "examples": [
       "Fahr vorsichtig! Es ist neblig."
@@ -22903,7 +23278,8 @@
     "id": "nebenan",
     "raw_word": "nebenan",
     "details": {
-      "headword": "nebenan"
+      "headword": "nebenan",
+      "derived_from": "neben"
     },
     "examples": [
       "Das ist José, er wohnt nebenan."
@@ -23265,7 +23641,8 @@
     "id": "normalerweise",
     "raw_word": "normalerweise",
     "details": {
-      "headword": "normalerweise"
+      "headword": "normalerweise",
+      "derived_from": "normal"
     },
     "examples": [
       "Wann haben Sie normalerweise Pause?"
@@ -23284,7 +23661,8 @@
     "details": {
       "article": "die",
       "headword": "Notaufnahme",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Not-"
     },
     "examples": [
       "Die Notaufnahme ist gleich hier links."
@@ -23296,7 +23674,8 @@
     "details": {
       "article": "der",
       "headword": "Notausgang",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Notaufnahme"
     },
     "examples": [
       "Der Notausgang ist gleich hier bei der Treppe."
@@ -23308,7 +23687,8 @@
     "details": {
       "article": "der",
       "headword": "Notfall",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Notausgang"
     },
     "examples": [
       "Wir haben einen Notfall. Bitte schicken Sie einen Krankenwagen.",
@@ -23320,7 +23700,8 @@
     "raw_word": "der Notruf",
     "details": {
       "article": "der",
-      "headword": "Notruf"
+      "headword": "Notruf",
+      "derived_from": "Notfall"
     },
     "examples": [
       "Der Notruf hat die Nummer 110."
@@ -23470,7 +23851,8 @@
     "id": "nützlich",
     "raw_word": "nützlich",
     "details": {
-      "headword": "nützlich"
+      "headword": "nützlich",
+      "derived_from": "nützen"
     },
     "examples": [
       "Danke für den Tipp. Das war sehr nützlich."
@@ -23501,7 +23883,8 @@
     "id": "ober-",
     "raw_word": "ober-",
     "details": {
-      "headword": "ober-"
+      "headword": "ober-",
+      "derived_from": "oben"
     },
     "examples": [
       "Die Wohnung im oberen Stockwerk ist vermietet."
@@ -23529,7 +23912,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "oben"
     },
     "examples": [
       "Ich bin Ober von Beruf."
@@ -23662,7 +24046,8 @@
     "raw_word": "die Öffentlichkeit",
     "details": {
       "article": "die",
-      "headword": "Öffentlichkeit"
+      "headword": "Öffentlichkeit",
+      "derived_from": "öffentlich"
     },
     "examples": [
       "Von solchen Dingen erfährt die Öffentlichkeit nur selten.",
@@ -23678,7 +24063,8 @@
         "veröffentlicht",
         "veröffentlichte",
         "hat veröffentlicht"
-      ]
+      ],
+      "derived_from": "öffentlich"
     },
     "examples": [
       "Das Buch wurde gestern veröffentlicht."
@@ -23855,7 +24241,8 @@
     "details": {
       "article": "die",
       "headword": "Operation",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "operieren"
     },
     "examples": [
       "Seit der Operation kann ich mein Knie nicht mehr bewegen."
@@ -23981,7 +24368,8 @@
     "details": {
       "article": "der",
       "headword": "Ordner",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "ordnen"
     },
     "examples": [
       "Für meine Übungen im Deutschkurs habe ich mir einen Ordner gekauft."
@@ -23992,7 +24380,8 @@
     "raw_word": "die Ordnung",
     "details": {
       "article": "die",
-      "headword": "Ordnung"
+      "headword": "Ordnung",
+      "derived_from": "ordnen"
     },
     "examples": [
       "Mach mal etwas Ordnung in deinem Zimmer!",
@@ -24021,7 +24410,8 @@
     "details": {
       "article": "die",
       "headword": "Organisation",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "organisieren"
     },
     "examples": [
       "Die Organisation des Festes war sehr gut.",
@@ -24044,7 +24434,8 @@
     "id": "original",
     "raw_word": "original",
     "details": {
-      "headword": "original"
+      "headword": "original",
+      "derived_from": "Original"
     },
     "examples": [
       "Ich muss das originale Dokument abgeben."
@@ -24068,7 +24459,8 @@
     "details": {
       "article": "der",
       "headword": "Vorort",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Ort"
     },
     "examples": [
       "Mein Bruder wohnt in einem Vorort von Hamburg."
@@ -24080,7 +24472,8 @@
     "details": {
       "article": "der",
       "headword": "Wohnort",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Ort"
     },
     "examples": [
       "Tragen Sie bitte auch Ihren Wohnort ein."
@@ -24534,7 +24927,8 @@
             "D"
           ]
         }
-      ]
+      ],
+      "derived_from": "Pension"
     },
     "examples": [
       "Ich gehe Ende des Jahres in Pension.",
@@ -24564,7 +24958,8 @@
             "D"
           ]
         }
-      ]
+      ],
+      "derived_from": "in Pension gehen/sein"
     },
     "examples": [
       "Ich werde Ende des Jahres pensioniert.",
@@ -24577,7 +24972,8 @@
     "details": {
       "article": "der",
       "headword": "Pensionist",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "in Pension gehen/sein"
     },
     "examples": [
       "Meine Großmutter arbeitet nicht mehr."
@@ -24667,7 +25063,8 @@
     "id": "persönlich",
     "raw_word": "persönlich",
     "details": {
-      "headword": "persönlich"
+      "headword": "persönlich",
+      "derived_from": "Person"
     },
     "examples": [
       "Hier gibt es zu viele Autos. Das ist meine persönliche Meinung.",
@@ -24680,7 +25077,8 @@
     "details": {
       "article": "die",
       "headword": "Personalien",
-      "plural": "(Pl.)"
+      "plural": "(Pl.)",
+      "derived_from": "Person"
     },
     "examples": [
       "Mein Kollege wird Ihre Personalien aufnehmen."
@@ -24779,7 +25177,8 @@
     "details": {
       "article": "die",
       "headword": "Pflanze",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "pflanzen"
     },
     "examples": [
       "Wenn wir im Urlaub sind, gießt die Nachbarin unsere Pflanzen."
@@ -24839,7 +25238,8 @@
           "headword": "Pflegerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "pflegen"
     },
     "examples": [
       "Meine Freundin ist Pflegerin in einem Altersheim."
@@ -24962,7 +25362,8 @@
     "details": {
       "article": "der",
       "headword": "Plan",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "planen"
     },
     "examples": [
       "Was macht ihr im Sommer? - Ich weiß noch nicht, wir haben noch keine Pläne.",
@@ -24975,7 +25376,8 @@
     "details": {
       "article": "die",
       "headword": "Planung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "planen"
     },
     "examples": [
       "Unsere Planung für das Sommerfest steht schon lange."
@@ -25044,7 +25446,8 @@
           "headword": "Politikerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Politik"
     },
     "examples": [
       "Weißt du, wie dieser Politiker heißt?"
@@ -25054,7 +25457,8 @@
     "id": "politisch",
     "raw_word": "politisch",
     "details": {
-      "headword": "politisch"
+      "headword": "politisch",
+      "derived_from": "Politiker"
     },
     "examples": [
       "Ich diskutiere mit meinem Mann oft über politische Probleme.",
@@ -25088,7 +25492,8 @@
           "headword": "Polizistin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Polizei"
     },
     "examples": [
       "Die Ampel war kaputt. Ein Polizist hat den Verkehr geregelt."
@@ -25189,7 +25594,8 @@
     "details": {
       "article": "die",
       "headword": "Postleitzahl",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Post"
     },
     "examples": [
       "Weißt du die Postleitzahl der Kollwitzstraße in Berlin?"
@@ -25219,7 +25625,8 @@
           "headword": "Pöstlerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Post"
     },
     "examples": [
       "War die Pöstlerin schon da?"
@@ -25281,7 +25688,8 @@
           "headword": "Praktikantin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Praktikum"
     },
     "examples": [
       "Bei dieser Firma habe ich zwei Jahre als Praktikantin gearbeitet."
@@ -25315,7 +25723,8 @@
     "details": {
       "article": "die",
       "headword": "Präsentation",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "präsentieren"
     },
     "examples": [
       "Die Schülerin hat für ihre Präsentation eine gute Note bekommen."
@@ -25369,7 +25778,8 @@
     "id": "preiswert",
     "raw_word": "preiswert",
     "details": {
-      "headword": "preiswert"
+      "headword": "preiswert",
+      "derived_from": "Preis"
     },
     "examples": [
       "Die Jacke ist sehr preiswert."
@@ -25495,7 +25905,8 @@
     "details": {
       "article": "das",
       "headword": "Produkt",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "produzieren"
     },
     "examples": [
       "Unsere Produkte haben eine hohe Qualität.",
@@ -25507,7 +25918,8 @@
     "raw_word": "die Produktion",
     "details": {
       "article": "die",
-      "headword": "Produktion"
+      "headword": "Produktion",
+      "derived_from": "produzieren"
     },
     "examples": [
       "Die Produktion von Käse dauert oft viele Wochen."
@@ -25561,7 +25973,8 @@
           "headword": "Profisportlerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Profi"
     },
     "examples": [
       "Mein Sohn möchte Profisportler werden."
@@ -25635,7 +26048,8 @@
     "details": {
       "article": "der",
       "headword": "Protest",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "protestieren"
     },
     "examples": [
       "Alle Proteste haben nichts genützt."
@@ -25684,7 +26098,8 @@
     "details": {
       "article": "die",
       "headword": "Prüfung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "geprüft"
     },
     "examples": [
       "Mein Freund hat die Prüfung bestanden."
@@ -25731,7 +26146,8 @@
     "id": "pünktlich",
     "raw_word": "pünktlich",
     "details": {
-      "headword": "pünktlich"
+      "headword": "pünktlich",
+      "derived_from": "Punkt"
     },
     "examples": [
       "Seien Sie bitte pünktlich.",
@@ -25915,7 +26331,8 @@
           "headword": "Radfahrerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Rad"
     },
     "examples": [
       "Achtung! Da kommt eine Radfahrerin."
@@ -26023,7 +26440,8 @@
     "raw_word": "der Rat",
     "details": {
       "article": "der",
-      "headword": "Rat"
+      "headword": "Rat",
+      "derived_from": "raten"
     },
     "examples": [
       "Was soll ich machen? Können Sie mir einen Rat geben?"
@@ -26036,7 +26454,8 @@
       "headword": "Ratschlag",
       "conjugation": [
         "¨-e"
-      ]
+      ],
+      "derived_from": "raten"
     },
     "examples": [
       "Meine Tochter nimmt meine Ratschläge nicht an."
@@ -26048,7 +26467,8 @@
     "details": {
       "article": "das",
       "headword": "Rätsel",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Ratschlag"
     },
     "examples": [
       "Ich kann dieses Rätsel nicht lösen."
@@ -26098,7 +26518,8 @@
           "headword": "Raucherin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "rauchen"
     },
     "examples": [
       "Gibt es hier ein Zimmer für Raucher?",
@@ -26154,7 +26575,8 @@
         "reagiert",
         "reagierte",
         "hat reagiert"
-      ]
+      ],
+      "derived_from": "raus"
     },
     "examples": [
       "Ich habe dem Vermieter geschrieben, aber er hat noch nicht reagiert."
@@ -26166,7 +26588,8 @@
     "details": {
       "article": "die",
       "headword": "Reaktion",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "reagieren"
     },
     "examples": [
       "Diese Reaktion ist typisch für ihn."
@@ -26194,7 +26617,8 @@
     "details": {
       "article": "die",
       "headword": "Realität",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "realisieren"
     },
     "examples": [
       "Das gefällt dir nicht? Aber das ist die Realität."
@@ -26204,7 +26628,8 @@
     "id": "realistisch",
     "raw_word": "realistisch",
     "details": {
-      "headword": "realistisch"
+      "headword": "realistisch",
+      "derived_from": "Realität"
     },
     "examples": [
       "Ich glaube nicht, dass du für das Auto noch so viel Geld bekommst. Das ist nicht realistisch."
@@ -26245,7 +26670,8 @@
     "details": {
       "article": "der",
       "headword": "Rechner",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "rechnen"
     },
     "examples": [
       "Mein Rechner ist kaputt."
@@ -26257,7 +26683,8 @@
     "details": {
       "article": "die",
       "headword": "Rechnung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "rechnen"
     },
     "examples": [
       "Bitte, die Rechnung!",
@@ -26282,7 +26709,8 @@
     "id": "rechtlich",
     "raw_word": "rechtlich",
     "details": {
-      "headword": "rechtlich"
+      "headword": "rechtlich",
+      "derived_from": "Recht"
     },
     "examples": [
       "Wir beraten Sie in rechtlichen Fragen."
@@ -26315,7 +26743,8 @@
     "id": "recht-",
     "raw_word": "recht-",
     "details": {
-      "headword": "recht-"
+      "headword": "recht-",
+      "derived_from": "rechts"
     },
     "examples": [
       "Ich habe mir den rechten Arm gebrochen."
@@ -26352,7 +26781,8 @@
     "details": {
       "article": "die",
       "headword": "Rede",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "reden"
     },
     "examples": [
       "Der Präsident hat eine Rede gehalten."
@@ -26428,7 +26858,8 @@
     "id": "regelmäßig",
     "raw_word": "regelmäßig",
     "details": {
-      "headword": "regelmäßig"
+      "headword": "regelmäßig",
+      "derived_from": "Regel"
     },
     "examples": [
       "Sie müssen die Tabletten regelmäßig nehmen."
@@ -26469,7 +26900,8 @@
     "raw_word": "der Regen",
     "details": {
       "article": "der",
-      "headword": "Regen"
+      "headword": "Regen",
+      "derived_from": "regnen"
     },
     "examples": [
       "Bei Regen fällt das Konzert aus."
@@ -26492,7 +26924,8 @@
     "id": "regional",
     "raw_word": "regional",
     "details": {
-      "headword": "regional"
+      "headword": "regional",
+      "derived_from": "Region"
     },
     "examples": [
       "Du kannst mit einer Regionalbahn fahren. Das ist billiger."
@@ -26604,7 +27037,8 @@
     "details": {
       "article": "die",
       "headword": "Reinigung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "reinigen"
     },
     "examples": [
       "Die Reinigung des Büros ist nicht teuer.",
@@ -26643,7 +27077,8 @@
     "details": {
       "article": "die",
       "headword": "Reise",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "reisen"
     },
     "examples": [
       "Wir haben eine Reise nach Österreich gebucht.",
@@ -26656,7 +27091,8 @@
     "details": {
       "article": "das",
       "headword": "Reisebüro",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "reisen"
     },
     "examples": [
       "Wir haben die Reise im Reisebüro gebucht."
@@ -26820,7 +27256,8 @@
           "headword": "Rentnerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "in Rente gehen/sein"
     },
     "examples": [
       "Meine Großmutter arbeitet nicht mehr.",
@@ -26848,7 +27285,8 @@
     "details": {
       "article": "die",
       "headword": "Reparatur",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "reparieren"
     },
     "examples": [
       "Eine Reparatur wäre zu teuer."
@@ -26881,7 +27319,8 @@
           "headword": "Reporterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Reportage"
     },
     "examples": [
       "Die Reporterin macht gerade ein Interview."
@@ -26909,7 +27348,8 @@
     "details": {
       "article": "die",
       "headword": "Reservierung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "reservieren"
     },
     "examples": [
       "Was kostet eine Reservierung?"
@@ -27215,7 +27655,8 @@
     "details": {
       "article": "die",
       "headword": "Rückfahrt",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "rück-"
     },
     "examples": [
       "Auf der Rückfahrt besuche ich meine Eltern."
@@ -27226,7 +27667,8 @@
     "raw_word": "die Rückkehr",
     "details": {
       "article": "die",
-      "headword": "Rückkehr"
+      "headword": "Rückkehr",
+      "derived_from": "Rückfahrt"
     },
     "examples": [
       "Nach meiner Rückkehr haben wir ein großes Fest gefeiert."
@@ -27236,7 +27678,8 @@
     "id": "rückwärts",
     "raw_word": "rückwärts",
     "details": {
-      "headword": "rückwärts"
+      "headword": "rückwärts",
+      "derived_from": "Rückkehr"
     },
     "examples": [
       "Ich bin rückwärts aus der Garage gefahren."
@@ -27315,7 +27758,8 @@
     "details": {
       "article": "die",
       "headword": "Rufnummer",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "rufen"
     },
     "examples": [
       "Wir möchten Sie gerne anrufen. Wie ist Ihre Rufnummer?"
@@ -27338,7 +27782,8 @@
     "id": "ruhig",
     "raw_word": "ruhig",
     "details": {
-      "headword": "ruhig"
+      "headword": "ruhig",
+      "derived_from": "Ruhe"
     },
     "examples": [
       "Ich suche ein ruhiges Zimmer.",
@@ -27543,7 +27988,8 @@
     "id": "salzig",
     "raw_word": "salzig",
     "details": {
-      "headword": "salzig"
+      "headword": "salzig",
+      "derived_from": "Salz"
     },
     "examples": [
       "Dieses Essen ist zu salzig für mich."
@@ -27697,7 +28143,8 @@
     "details": {
       "article": "der",
       "headword": "Schaden",
-      "plural": "¨-"
+      "plural": "¨-",
+      "derived_from": "schaden"
     },
     "examples": [
       "Ich hatte einen Unfall mit dem Auto.",
@@ -27708,7 +28155,8 @@
     "id": "schädlich",
     "raw_word": "schädlich",
     "details": {
-      "headword": "schädlich"
+      "headword": "schädlich",
+      "derived_from": "Schaden"
     },
     "examples": [
       "Rauchen ist schädlich für die Gesundheit."
@@ -27752,7 +28200,8 @@
     "details": {
       "article": "der",
       "headword": "Schalter",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "schalten"
     },
     "examples": [
       "Der Lichtschalter ist rechts neben der Tür.",
@@ -27817,7 +28266,8 @@
     "id": "zuschauen",
     "raw_word": "zuschauen",
     "details": {
-      "headword": "zuschauen"
+      "headword": "zuschauen",
+      "derived_from": "schauen"
     },
     "examples": [
       "Möchtest du beim Fußballspiel zuschauen?"
@@ -27829,7 +28279,8 @@
     "details": {
       "article": "das",
       "headword": "Schaufenster",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "schauen"
     },
     "examples": [
       "Ich habe im Schaufenster eine schicke Bluse gesehen."
@@ -27888,7 +28339,8 @@
     "id": "geschieden",
     "raw_word": "geschieden",
     "details": {
-      "headword": "geschieden"
+      "headword": "geschieden",
+      "derived_from": "sich scheiden lassen"
     },
     "examples": [
       "Meine Kollegin ist geschieden."
@@ -27900,7 +28352,8 @@
     "details": {
       "article": "die",
       "headword": "Scheidung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "sich scheiden lassen"
     },
     "examples": [
       "Wann war die Scheidung?"
@@ -28107,7 +28560,8 @@
     "raw_word": "der Schlaf",
     "details": {
       "article": "der",
-      "headword": "Schlaf"
+      "headword": "Schlaf",
+      "derived_from": "schlafen"
     },
     "examples": [
       "Das Kind macht jeden Tag nach dem Mittagessen einen kurzen Schlaf.",
@@ -28323,7 +28777,8 @@
     "details": {
       "article": "das",
       "headword": "Schmerzmittel",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Schmerz"
     },
     "examples": [
       "Sie haben Zahnschmerzen? Ich verschreibe Ihnen ein Schmerzmittel."
@@ -28370,7 +28825,8 @@
     "id": "schmutzig",
     "raw_word": "schmutzig",
     "details": {
-      "headword": "schmutzig"
+      "headword": "schmutzig",
+      "derived_from": "Schmutz"
     },
     "examples": [
       "Leg bitte die schmutzige Wäsche in die Waschmaschine.",
@@ -28386,7 +28842,8 @@
         "verschmutzt",
         "verschmutzte",
         "hat verschmutzt"
-      ]
+      ],
+      "derived_from": "Schmutz"
     },
     "examples": [
       "Die Fabrik verschmutzt den Fluss."
@@ -28563,7 +29020,8 @@
     "id": "schrecklich",
     "raw_word": "schrecklich",
     "details": {
-      "headword": "schrecklich"
+      "headword": "schrecklich",
+      "derived_from": "Schreck(en)"
     },
     "examples": [
       "Heute ist eine schreckliche Hitze.",
@@ -28593,7 +29051,8 @@
     "id": "aufschreiben",
     "raw_word": "aufschreiben",
     "details": {
-      "headword": "aufschreiben"
+      "headword": "aufschreiben",
+      "derived_from": "schreiben"
     },
     "examples": [
       "Ich habe mir deine Telefonnummer aufgeschrieben."
@@ -28605,7 +29064,8 @@
     "details": {
       "article": "das",
       "headword": "Schreiben",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "schreiben"
     },
     "examples": [
       "Haben Sie mein Schreiben vom 3. März erhalten?"
@@ -28643,7 +29103,8 @@
     "id": "schriftlich",
     "raw_word": "schriftlich",
     "details": {
-      "headword": "schriftlich"
+      "headword": "schriftlich",
+      "derived_from": "Schrift"
     },
     "examples": [
       "Die schriftliche Prüfung dauert einen halben Tag.",
@@ -28666,7 +29127,8 @@
           "headword": "Schriftstellerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Schrift"
     },
     "examples": [
       "Kennst du diese Schriftstellerin? Ich liebe ihre Bücher."
@@ -28712,7 +29174,8 @@
     "id": "schuld",
     "raw_word": "schuld",
     "details": {
-      "headword": "schuld"
+      "headword": "schuld",
+      "derived_from": "Schuld"
     },
     "examples": [
       "Ich hatte einen Unfall. Aber ich war nicht schuld."
@@ -28724,7 +29187,8 @@
     "details": {
       "article": "die",
       "headword": "Schulden",
-      "plural": "(Pl.)"
+      "plural": "(Pl.)",
+      "derived_from": "Schuld"
     },
     "examples": [
       "Jetzt habe ich alle meine Schulden bezahlt."
@@ -28734,7 +29198,8 @@
     "id": "schuldig",
     "raw_word": "schuldig",
     "details": {
-      "headword": "schuldig"
+      "headword": "schuldig",
+      "derived_from": "Schulden"
     },
     "examples": [
       "Was bin ich Ihnen schuldig? - 50 Euro, bitte."
@@ -28792,7 +29257,8 @@
           "headword": "Schülerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Schularbeit"
     },
     "examples": [
       "In der Klasse sind 25 Schülerinnen."
@@ -28857,7 +29323,8 @@
     "raw_word": "der Schutz",
     "details": {
       "article": "der",
-      "headword": "Schutz"
+      "headword": "Schutz",
+      "derived_from": "schützen"
     },
     "examples": [
       "Das ist ein guter Schutz gegen Kälte.",
@@ -28912,7 +29379,8 @@
     "details": {
       "article": "die",
       "headword": "Schwangerschaft",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "schwanger"
     },
     "examples": [
       "Sie dürfen während der Schwangerschaft nicht rauchen."
@@ -28987,7 +29455,8 @@
     "details": {
       "article": "die",
       "headword": "Schwierigkeit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "schwierig"
     },
     "examples": [
       "Ich hatte große Schwierigkeiten einen Parkplatz zu bekommen."
@@ -29015,7 +29484,8 @@
     "details": {
       "article": "das",
       "headword": "Schwimmbad",
-      "plural": "¨-er"
+      "plural": "¨-er",
+      "derived_from": "schwimmen"
     },
     "examples": [
       "Kommst du mit ins Schwimmbad?"
@@ -29053,7 +29523,8 @@
     "raw_word": "die See",
     "details": {
       "article": "die",
-      "headword": "See"
+      "headword": "See",
+      "derived_from": "See"
     },
     "examples": [
       "Im Sommer fahren wir immer an die See."
@@ -29067,7 +29538,8 @@
       "headword": "Nord-",
       "variants": [
         "Ostsee"
-      ]
+      ],
+      "derived_from": "See"
     },
     "examples": [
       "Warst du schon mal an der Nord/Ostsee?"
@@ -29168,7 +29640,8 @@
     "id": "seitdem",
     "raw_word": "seitdem",
     "details": {
-      "headword": "seitdem"
+      "headword": "seitdem",
+      "derived_from": "seit"
     },
     "examples": [
       "Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich Deutsch."
@@ -29232,7 +29705,8 @@
     "id": "selber",
     "raw_word": "selber",
     "details": {
-      "headword": "selber"
+      "headword": "selber",
+      "derived_from": "selbst"
     },
     "examples": [
       "Sie will das selber machen."
@@ -29367,7 +29841,8 @@
     "details": {
       "article": "der",
       "headword": "Sender",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "gesendet"
     },
     "examples": [
       "Welchen Sender siehst du am liebsten?",
@@ -29380,7 +29855,8 @@
     "details": {
       "article": "die",
       "headword": "Sendung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "gesendet"
     },
     "examples": [
       "Wir wiederholen die Sendung am 11. Mai.",
@@ -29553,7 +30029,8 @@
     "details": {
       "article": "die",
       "headword": "Sicherheit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "sicher"
     },
     "examples": [
       "Sicherheit ist für mich sehr wichtig."
@@ -29606,7 +30083,8 @@
     "details": {
       "article": "der",
       "headword": "Sieg",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "siegen"
     },
     "examples": [
       "Unsere Mannschaft hat gewonnen. Wir freuen uns über den Sieg."
@@ -29627,7 +30105,8 @@
           "headword": "Siegerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "siegen"
     },
     "examples": [
       "Wer hat gewonnen? Wie heißt die Siegerin?"
@@ -29704,7 +30183,8 @@
     "id": "sinnlos",
     "raw_word": "sinnlos",
     "details": {
-      "headword": "sinnlos"
+      "headword": "sinnlos",
+      "derived_from": "Sinn"
     },
     "examples": [
       "So ein sinnloses Buch habe ich schon lange nicht mehr gelesen."
@@ -29714,7 +30194,8 @@
     "id": "sinnvoll",
     "raw_word": "sinnvoll",
     "details": {
-      "headword": "sinnvoll"
+      "headword": "sinnvoll",
+      "derived_from": "Sinn"
     },
     "examples": [
       "Es funktioniert einfach nicht. Es ist sinnvoll, es noch einmal zu versuchen."
@@ -29764,7 +30245,8 @@
     "details": {
       "article": "der",
       "headword": "Sitz",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "gesessen"
     },
     "examples": [
       "Ich suche für meinen Sohn einen Sitz fürs Auto. Erst ist erst drei Jahre alt."
@@ -29953,7 +30435,8 @@
     "details": {
       "article": "das",
       "headword": "Sonderangebot",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Sonder-"
     },
     "examples": [
       "Das ist ein Sonderangebot: 25 % reduziert."
@@ -29985,7 +30468,8 @@
     "id": "sonnig",
     "raw_word": "sonnig",
     "details": {
-      "headword": "sonnig"
+      "headword": "sonnig",
+      "derived_from": "Sonne"
     },
     "examples": [
       "Das Wetter morgen: sonnig und warm."
@@ -30025,7 +30509,8 @@
     "details": {
       "article": "die",
       "headword": "Sorge",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "sorgen"
     },
     "examples": [
       "Um Ihre Zukunft brauchen Sie sich keine Sorgen zu machen."
@@ -30125,7 +30610,8 @@
           "headword": "Sozialarbeiterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "sozial"
     },
     "examples": [
       "Die Sozialarbeiterin kommt einmal in der Woche."
@@ -30171,7 +30657,8 @@
     "id": "sparsam",
     "raw_word": "sparsam",
     "details": {
-      "headword": "sparsam"
+      "headword": "sparsam",
+      "derived_from": "gespart"
     },
     "examples": [
       "Wir haben fünf Kinder. Wir müssen sehr sparsam sein.",
@@ -30210,7 +30697,8 @@
     "id": "spätestens",
     "raw_word": "spätestens",
     "details": {
-      "headword": "spätestens"
+      "headword": "spätestens",
+      "derived_from": "spät"
     },
     "examples": [
       "Ich muss spätestens um 9 Uhr bei der Arbeit sein."
@@ -30246,7 +30734,8 @@
     "details": {
       "article": "der",
       "headword": "Spaziergang",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "spazieren"
     },
     "examples": [
       "Abends mache ich oft einen Spaziergang durch das Viertel."
@@ -30289,7 +30778,8 @@
     "details": {
       "article": "die",
       "headword": "Speisekarte",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Speise-"
     },
     "examples": [
       "Bitte, die Speisekarte."
@@ -30301,7 +30791,8 @@
     "details": {
       "article": "der",
       "headword": "Speisewagen",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Speise-"
     },
     "examples": [
       "Wo ist der Speisewagen?"
@@ -30332,7 +30823,8 @@
           "headword": "Spezialistin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Spezial-"
     },
     "examples": [
       "Mein Arzt hat mich zur Spezialistin geschickt."
@@ -30384,7 +30876,8 @@
     "details": {
       "article": "das",
       "headword": "Spiel",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "spielen"
     },
     "examples": [
       "Monopoly ist ein ganz bekanntes Spiel.",
@@ -30406,7 +30899,8 @@
           "headword": "Spielerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "spielen"
     },
     "examples": [
       "Für dieses Spiel braucht man zwei bis vier Spieler.",
@@ -30419,7 +30913,8 @@
     "details": {
       "article": "der",
       "headword": "Spielplatz",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "spielen"
     },
     "examples": [
       "Die Kinder sind auf dem Spielplatz."
@@ -30431,7 +30926,8 @@
     "details": {
       "article": "das",
       "headword": "Spielzeug",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Spielplatz"
     },
     "examples": [
       "Zu Weihnachten wünschen sich die Kinder vor allem Spielzeug."
@@ -30465,7 +30961,8 @@
     "details": {
       "article": "die",
       "headword": "Sportart",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Sport"
     },
     "examples": [
       "Welche Sportart findest du am besten?"
@@ -30486,7 +30983,8 @@
           "headword": "Sportlerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Sportart"
     },
     "examples": [
       "Sie ist eine gute Sportlerin."
@@ -30496,7 +30994,8 @@
     "id": "sportlich",
     "raw_word": "sportlich",
     "details": {
-      "headword": "sportlich"
+      "headword": "sportlich",
+      "derived_from": "Sportler"
     },
     "examples": [
       "Ich bin nicht sehr sportlich.",
@@ -30521,7 +31020,8 @@
     "details": {
       "article": "die",
       "headword": "Fremdsprache",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Sprache"
     },
     "examples": [
       "Ich spreche drei Fremdsprachen."
@@ -30533,7 +31033,8 @@
     "details": {
       "article": "die",
       "headword": "Muttersprache",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Sprache"
     },
     "examples": [
       "Was ist Ihre Muttersprache?"
@@ -30545,7 +31046,8 @@
     "details": {
       "article": "die",
       "headword": "Zweitsprache",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Muttersprache"
     },
     "examples": [
       "Deutsch ist seine Zweitsprache."
@@ -30688,7 +31190,8 @@
     "id": "städtisch",
     "raw_word": "städtisch",
     "details": {
-      "headword": "städtisch"
+      "headword": "städtisch",
+      "derived_from": "Stadt"
     },
     "examples": [
       "Ich gehe gern in die städtische Bibliothek."
@@ -30700,7 +31203,8 @@
     "details": {
       "article": "der",
       "headword": "Stadtplan",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "Stadt"
     },
     "examples": [
       "Haben Sie einen Stadtplan?"
@@ -30790,7 +31294,8 @@
     "details": {
       "article": "der",
       "headword": "Start",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "starten"
     },
     "examples": [
       "Bleiben Sie bitte während des Starts sitzen."
@@ -30825,7 +31330,8 @@
     "id": "statistisch",
     "raw_word": "statistisch",
     "details": {
-      "headword": "statistisch"
+      "headword": "statistisch",
+      "derived_from": "Statistik"
     },
     "examples": [
       "Die statistischen Ergebnisse zeigen eine gute Entwicklung."
@@ -30889,7 +31395,8 @@
         "staubsaugt",
         "staubsaugte",
         "hat gestaubsaugt"
-      ]
+      ],
+      "derived_from": "Staub"
     },
     "examples": [
       "Ich muss heute in meiner Wohnung noch staubsaugen."
@@ -31181,7 +31688,8 @@
     "id": "stilistisch",
     "raw_word": "stilistisch",
     "details": {
-      "headword": "stilistisch"
+      "headword": "stilistisch",
+      "derived_from": "Stil"
     },
     "examples": [
       "Der Text ist stilistisch sehr schön."
@@ -31253,7 +31761,8 @@
             "D"
           ]
         }
-      ]
+      ],
+      "derived_from": "Stiege"
     },
     "examples": [
       "Im Stiegenhaus ist kein Licht."
@@ -31340,7 +31849,8 @@
     "details": {
       "article": "das",
       "headword": "Stockwerk",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Stock"
     },
     "examples": [
       "Das Gebäude hat zwanzig Stockwerke."
@@ -31406,7 +31916,8 @@
     "details": {
       "article": "die",
       "headword": "Störung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "stören"
     },
     "examples": [
       "Entschuldigen Sie bitte die Störung."
@@ -31443,7 +31954,8 @@
     "id": "strafbar",
     "raw_word": "strafbar",
     "details": {
-      "headword": "strafbar"
+      "headword": "strafbar",
+      "derived_from": "Strafe"
     },
     "examples": [
       "Was du da machst, ist strafbar."
@@ -31455,7 +31967,8 @@
     "details": {
       "article": "der",
       "headword": "Strafzettel",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Strafe"
     },
     "examples": [
       "So ein Pech! Ich habe einmal falsch geparkt und sofort einen Strafzettel bekommen."
@@ -31504,7 +32017,8 @@
             "CH"
           ]
         }
-      ]
+      ],
+      "derived_from": "Straße"
     },
     "examples": [
       "Fahren wir mit der Straßenbahn oder der U-Bahn?"
@@ -31569,7 +32083,8 @@
     "details": {
       "article": "der",
       "headword": "Streik",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "streiken"
     },
     "examples": [
       "Es gab einen Streik am Flughafen.",
@@ -31596,7 +32111,8 @@
     "raw_word": "der Streit",
     "details": {
       "article": "der",
-      "headword": "Streit"
+      "headword": "Streit",
+      "derived_from": "(sich) streiten"
     },
     "examples": [
       "Ich möchte keinen Streit mit den Nachbarn."
@@ -31709,7 +32225,8 @@
           "headword": "Studentin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "studieren"
     },
     "examples": [
       "Schüler und Studenten zahlen die Hälfte."
@@ -31729,7 +32246,8 @@
           "headword": "Studierende",
           "plural": "-n"
         }
-      }
+      },
+      "derived_from": "studieren"
     },
     "examples": [
       "Zehn Studierende besuchen das Seminar."
@@ -31741,7 +32259,8 @@
     "details": {
       "article": "das",
       "headword": "Studium",
-      "plural": "Studien"
+      "plural": "Studien",
+      "derived_from": "studieren"
     },
     "examples": [
       "Sie brauchen für diese Stelle ein abgeschlossenes Studium."
@@ -31871,7 +32390,8 @@
     "id": "süchtig",
     "raw_word": "süchtig",
     "details": {
-      "headword": "süchtig"
+      "headword": "süchtig",
+      "derived_from": "Sucht"
     },
     "examples": [
       "Ich bin süchtig nach Schokolade.",
@@ -31884,7 +32404,8 @@
     "details": {
       "article": "das",
       "headword": "Suchtmittel",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Sucht"
     },
     "examples": [
       "Manche Medikamente sind auch Suchtmittel."
@@ -32095,7 +32616,8 @@
     "details": {
       "article": "die",
       "headword": "Tankstelle",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "tanken"
     },
     "examples": [
       "Wo ist die nächste Tankstelle?"
@@ -32134,7 +32656,8 @@
     "details": {
       "article": "der",
       "headword": "Tanz",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "tanzen"
     },
     "examples": [
       "Diese modernen Tänze kann ich nicht."
@@ -32242,7 +32765,8 @@
           "headword": "Täterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Tat"
     },
     "examples": [
       "Die Polizei hat den Täter endlich gefasst."
@@ -32254,7 +32778,8 @@
     "details": {
       "article": "die",
       "headword": "Tätigkeit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Tat"
     },
     "examples": [
       "Welche Tätigkeit würde Ihnen Spaß machen?"
@@ -32276,7 +32801,8 @@
     "id": "tatsächlich",
     "raw_word": "tatsächlich",
     "details": {
-      "headword": "tatsächlich"
+      "headword": "tatsächlich",
+      "derived_from": "Tatsache"
     },
     "examples": [
       "Die Hose ist tatsächlich zu klein, obwohl sie so groß aussieht."
@@ -32341,7 +32867,8 @@
     "id": "technisch",
     "raw_word": "technisch",
     "details": {
-      "headword": "technisch"
+      "headword": "technisch",
+      "derived_from": "Technik"
     },
     "examples": [
       "Es gab ein technisches Problem.",
@@ -32354,7 +32881,8 @@
     "details": {
       "article": "die",
       "headword": "Technologie",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Technik"
     },
     "examples": [
       "Große Fortschritte gab es in der Technologie."
@@ -32376,7 +32904,8 @@
     "id": "Tee ziehen lassen",
     "raw_word": "Tee ziehen lassen",
     "details": {
-      "headword": "Tee ziehen lassen"
+      "headword": "Tee ziehen lassen",
+      "derived_from": "Tee"
     },
     "examples": [
       "Diesen Tee sollte man 10 Minuten ziehen lassen."
@@ -32405,7 +32934,8 @@
     "details": {
       "article": "das",
       "headword": "Teil",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "teilen"
     },
     "examples": [
       "Dieses Teil müssen wir erst bestellen."
@@ -32417,7 +32947,8 @@
     "details": {
       "article": "der",
       "headword": "Teil",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "teilen"
     },
     "examples": [
       "Was steht in dem Brief? Ich habe den ersten Teil nicht verstanden",
@@ -32430,7 +32961,8 @@
     "raw_word": "die Teilzeit",
     "details": {
       "article": "die",
-      "headword": "Teilzeit"
+      "headword": "Teilzeit",
+      "derived_from": "teilen"
     },
     "examples": [
       "Ich arbeite im Moment nur Teilzeit."
@@ -32457,7 +32989,8 @@
     "details": {
       "article": "die",
       "headword": "Teilnahme",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "teilnehmen"
     },
     "examples": [
       "Die Teilnahme am Gewinnspiel ist kostenlos."
@@ -32478,7 +33011,8 @@
           "headword": "Teilnehmerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "teilnehmen"
     },
     "examples": [
       "Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern."
@@ -32506,7 +33040,8 @@
     "details": {
       "article": "das",
       "headword": "Telefon",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "telefonieren"
     },
     "examples": [
       "Darf ich bitte Ihr Telefon benutzen?"
@@ -32591,7 +33126,8 @@
     "details": {
       "article": "der",
       "headword": "Terminkalender",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Termin"
     },
     "examples": [
       "Hast du unser Treffen schon in deinen Terminkalender eingetragen?"
@@ -32630,7 +33166,8 @@
     "details": {
       "article": "der",
       "headword": "Test",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "testen"
     },
     "examples": [
       "Ich bin ganz sicher: Du wirst den Test schaffen."
@@ -32698,7 +33235,8 @@
     "details": {
       "article": "die",
       "headword": "Theorie",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "theoretisch"
     },
     "examples": [
       "Das ist die Theorie. In der Praxis ist vieles ganz anders."
@@ -32759,7 +33297,8 @@
     "details": {
       "article": "das",
       "headword": "Haustier",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Tier"
     },
     "examples": [
       "Hat deine Familie ein Haustier? - Ja, wir haben einen Hund."
@@ -32771,7 +33310,8 @@
     "details": {
       "article": "der",
       "headword": "Tierpark",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "Tier"
     },
     "examples": [
       "Wollen wir am Samstag mit den Kindern in den Tierpark gehen?"
@@ -32863,7 +33403,8 @@
     "id": "tödlich",
     "raw_word": "tödlich",
     "details": {
-      "headword": "tödlich"
+      "headword": "tödlich",
+      "derived_from": "Tod"
     },
     "examples": [
       "Dieses Gift kann für den Menschen tödlich sein."
@@ -32996,7 +33537,8 @@
           "headword": "Tote",
           "plural": "-n"
         }
-      }
+      },
+      "derived_from": "tot"
     },
     "examples": [
       "Bei dem Unfall gab es zwei Tote."
@@ -33038,7 +33580,8 @@
           "headword": "Touristin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Tourismus"
     },
     "examples": [
       "Es kommen immer mehr Touristen in unsere Stadt."
@@ -33060,7 +33603,8 @@
     "id": "traditionell",
     "raw_word": "traditionell",
     "details": {
-      "headword": "traditionell"
+      "headword": "traditionell",
+      "derived_from": "Tradition"
     },
     "examples": [
       "Ich mag die traditionelle Küche."
@@ -33113,7 +33657,8 @@
           "headword": "Trainerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "trainieren"
     },
     "examples": [
       "Ich finde unseren Trainer sehr nett."
@@ -33125,7 +33670,8 @@
     "details": {
       "article": "das",
       "headword": "Training",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "trainieren"
     },
     "examples": [
       "Jeden Dienstag ist Training.",
@@ -33147,7 +33693,8 @@
             "D"
           ]
         }
-      ]
+      ],
+      "derived_from": "trainieren"
     },
     "examples": [
       "Fahren wir mit dem Tram oder dem Bus?"
@@ -33186,7 +33733,8 @@
     "details": {
       "article": "der",
       "headword": "Transport",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "transportieren"
     },
     "examples": [
       "Was kostet der Transport?"
@@ -33214,7 +33762,8 @@
     "details": {
       "article": "der",
       "headword": "Traum",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "träumen"
     },
     "examples": [
       "Mein Traum ist ein eigenes Geschäft."
@@ -33224,7 +33773,8 @@
     "id": "Traum-",
     "raw_word": "Traum-",
     "details": {
-      "headword": "Traum-"
+      "headword": "Traum-",
+      "derived_from": "Traum"
     },
     "examples": [
       "Mein Traumberuf ist Feuerwehrmann."
@@ -33263,7 +33813,8 @@
     "details": {
       "article": "der",
       "headword": "Treffpunkt",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "treffen"
     },
     "examples": [
       "Unser Treffpunkt ist um 17 Uhr am Hauptbahnhof."
@@ -33314,7 +33865,8 @@
     "details": {
       "article": "die",
       "headword": "Trennung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) trennen"
     },
     "examples": [
       "Die Trennung von der Familie war schwierig.",
@@ -33325,7 +33877,8 @@
     "id": "getrennt leben",
     "raw_word": "getrennt leben",
     "details": {
-      "headword": "getrennt leben"
+      "headword": "getrennt leben",
+      "derived_from": "Trennung"
     },
     "examples": [
       "Ich lebe getrennt von meiner Frau."
@@ -33374,7 +33927,8 @@
             "A"
           ]
         }
-      ]
+      ],
+      "derived_from": "Treppe"
     },
     "examples": [
       "Im Treppenhaus ist kein Licht."
@@ -33427,7 +33981,8 @@
     "details": {
       "article": "das",
       "headword": "Trinkgeld",
-      "plural": "-er"
+      "plural": "-er",
+      "derived_from": "trinken"
     },
     "examples": [
       "Ich habe dem Kellner zwei Euro Trinkgeld gegeben."
@@ -33606,7 +34161,8 @@
     "id": "typisch",
     "raw_word": "typisch",
     "details": {
-      "headword": "typisch"
+      "headword": "typisch",
+      "derived_from": "Typ"
     },
     "examples": [
       "Im Hotel gab es typisch deutsches Essen.",
@@ -33642,7 +34198,8 @@
     "details": {
       "article": "die",
       "headword": "Übung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "üben"
     },
     "examples": [
       "Diese Übung war sehr schwer.",
@@ -33763,7 +34320,8 @@
     "details": {
       "article": "die",
       "headword": "Übernachtung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "übernachten"
     },
     "examples": [
       "In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro."
@@ -33835,7 +34393,8 @@
     "details": {
       "article": "die",
       "headword": "Überraschung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "überraschen"
     },
     "examples": [
       "Ich habe eine Überraschung für dich.",
@@ -33900,7 +34459,8 @@
           "headword": "Übersetzerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "übersetzen"
     },
     "examples": [
       "Meine Tochter möchte als Übersetzerin arbeiten."
@@ -33912,7 +34472,8 @@
     "details": {
       "article": "die",
       "headword": "Übersetzung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "übersetzen"
     },
     "examples": [
       "Die Übersetzung des Buches ist sehr gut."
@@ -33974,7 +34535,8 @@
     "details": {
       "article": "die",
       "headword": "Überweisung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "überweisen"
     },
     "examples": [
       "Sie können bar oder per Überweisung bezahlen.",
@@ -34003,7 +34565,8 @@
     "details": {
       "article": "die",
       "headword": "Überzeugung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) überzeugen"
     },
     "examples": [
       "Wie bist du zu dieser Überzeugung gekommen?"
@@ -34239,7 +34802,8 @@
     "details": {
       "article": "der",
       "headword": "Umtausch",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "umtauschen"
     },
     "examples": [
       "Ein Umtausch ist leider nicht möglich."
@@ -34261,7 +34825,8 @@
     "raw_word": "der Umweltschutz",
     "details": {
       "article": "der",
-      "headword": "Umweltschutz"
+      "headword": "Umweltschutz",
+      "derived_from": "Umwelt"
     },
     "examples": [
       "Das Land muss mehr Geld für Umweltschutz ausgeben."
@@ -34273,7 +34838,8 @@
     "details": {
       "article": "die",
       "headword": "Umweltverschmutzung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Umweltschutz"
     },
     "examples": [
       "Die Umweltverschmutzung nimmt weiter zu."
@@ -34300,7 +34866,8 @@
     "details": {
       "article": "der",
       "headword": "Umzug",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "umziehen"
     },
     "examples": [
       "Der Umzug ist nächste Woche."
@@ -34515,7 +35082,8 @@
     "details": {
       "article": "die",
       "headword": "Unterhaltung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) unterhalten"
     },
     "examples": [
       "Wir wünschen Ihnen gute Unterhaltung."
@@ -34591,7 +35159,8 @@
           "headword": "Unternehmerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "unternehmen"
     },
     "examples": [
       "Sie ist erfolgreiche Unternehmerin."
@@ -34617,7 +35186,8 @@
     "raw_word": "der Unterricht",
     "details": {
       "article": "der",
-      "headword": "Unterricht"
+      "headword": "Unterricht",
+      "derived_from": "unterrichten"
     },
     "examples": [
       "Der Unterricht dauert von 17 bis 19 Uhr."
@@ -34654,7 +35224,8 @@
     "details": {
       "article": "der",
       "headword": "Unterschied",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "unterscheiden"
     },
     "examples": [
       "Können Sie mir sagen, was der Unterschied ist? Welche Fahrkarte ist günstiger?"
@@ -34664,7 +35235,8 @@
     "id": "unterschiedlich",
     "raw_word": "unterschiedlich",
     "details": {
-      "headword": "unterschiedlich"
+      "headword": "unterschiedlich",
+      "derived_from": "Unterschied"
     },
     "examples": [
       "Mein Bruder und ich sind sehr unterschiedlich. Er interessiert sich für Mathematik, ich mich für Sprachen."
@@ -34733,7 +35305,8 @@
     "details": {
       "article": "die",
       "headword": "Unterstützung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "unterstützen"
     },
     "examples": [
       "Ich nehme Ihre Unterstützung gern an."
@@ -34760,7 +35333,8 @@
     "details": {
       "article": "die",
       "headword": "Untersuchung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "untersuchen"
     },
     "examples": [
       "Ich habe morgen eine Untersuchung im Krankenhaus."
@@ -34836,7 +35410,8 @@
         "verursacht",
         "verursachte",
         "hat verursacht"
-      ]
+      ],
+      "derived_from": "Ursache"
     },
     "examples": [
       "Dieser Busfahrer verursachte den Unfall."
@@ -34949,7 +35524,8 @@
     "id": "verabredet",
     "raw_word": "verabredet",
     "details": {
-      "headword": "verabredet"
+      "headword": "verabredet",
+      "derived_from": "(sich) verabreden"
     },
     "examples": [
       "Tut mir leid, ich habe keine Zeit. Ich bin mit meiner Freundin verabredet."
@@ -34961,7 +35537,8 @@
     "details": {
       "article": "die",
       "headword": "Verabredung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) verabreden"
     },
     "examples": [
       "Ich habe um 15 Uhr eine Verabredung mit Klaus."
@@ -34989,7 +35566,8 @@
     "details": {
       "article": "der",
       "headword": "Abschied",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "(sich) verabschieden"
     },
     "examples": [
       "Der Abschied von meinen Freunden fiel mir schwer."
@@ -35038,7 +35616,8 @@
     "raw_word": "die Verantwortung",
     "details": {
       "article": "die",
-      "headword": "Verantwortung"
+      "headword": "Verantwortung",
+      "derived_from": "verantwortlich"
     },
     "examples": [
       "Sie tragen die Verantwortung für Ihre Kinder."
@@ -35081,7 +35660,8 @@
     "details": {
       "article": "das",
       "headword": "Verbot",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "verbieten"
     },
     "examples": [
       "Ich bin für das Verbot dieses neuen Videospiels."
@@ -35091,7 +35671,8 @@
     "id": "verboten",
     "raw_word": "verboten",
     "details": {
-      "headword": "verboten"
+      "headword": "verboten",
+      "derived_from": "Verbot"
     },
     "examples": [
       "In den meisten Restaurants ist Rauchen verboten."
@@ -35118,7 +35699,8 @@
     "details": {
       "article": "die",
       "headword": "Verbindung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "verbinden"
     },
     "examples": [
       "Die Verbindung ist sehr gut. Ich kann direkt mit diesem Zug fahren und muss nicht umsteigen.",
@@ -35208,7 +35790,8 @@
     "id": "verdächtig",
     "raw_word": "verdächtig",
     "details": {
-      "headword": "verdächtig"
+      "headword": "verdächtig",
+      "derived_from": "Verdacht"
     },
     "examples": [
       "Die Tür war nicht abgeschlossen. Das ist verdächtig.",
@@ -35316,7 +35899,8 @@
     "details": {
       "article": "der",
       "headword": "Vergleich",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "vergleichen"
     },
     "examples": [
       "Ein Vergleich ist schwer möglich.",
@@ -35344,7 +35928,8 @@
     "details": {
       "article": "das",
       "headword": "Vergnügen",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "sich vergnügen"
     },
     "examples": [
       "Es ist ein Vergnügen, den Kindern beim Spielen zuzusehen.",
@@ -35355,7 +35940,8 @@
     "id": "vergnügt",
     "raw_word": "vergnügt",
     "details": {
-      "headword": "vergnügt"
+      "headword": "vergnügt",
+      "derived_from": "Vergnügen"
     },
     "examples": [
       "Er kam mit einem vergnügten Grinsen herein."
@@ -35412,7 +35998,8 @@
     "raw_word": "das Verhalten",
     "details": {
       "article": "das",
-      "headword": "Verhalten"
+      "headword": "Verhalten",
+      "derived_from": "sich verhalten"
     },
     "examples": [
       "Ich bewundere dein Verhalten in der schwierigen Situation."
@@ -35465,7 +36052,8 @@
         "verkauft",
         "verkaufte",
         "hat verkauft"
-      ]
+      ],
+      "derived_from": "verhindern"
     },
     "examples": [
       "Ich habe unser altes Auto verkauft."
@@ -35509,7 +36097,8 @@
     "details": {
       "article": "das",
       "headword": "Verkehrsmittel",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Verkehr"
     },
     "examples": [
       "Es gibt kaum Parkplätze. Sie sollten mit öffentlichen Verkehrsmitteln fahren."
@@ -35613,7 +36202,8 @@
     "details": {
       "article": "die",
       "headword": "Verletzung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) verletzen"
     },
     "examples": [
       "Keine Angst. Die Verletzung ist nicht so schlimm."
@@ -35638,7 +36228,8 @@
     "id": "verliebt",
     "raw_word": "verliebt",
     "details": {
-      "headword": "verliebt"
+      "headword": "verliebt",
+      "derived_from": "sich verlieben"
     },
     "examples": [
       "Ich bin in Francesco verliebt."
@@ -35677,7 +36268,8 @@
           "headword": "Verliererin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "verlieren"
     },
     "examples": [
       "Sie ist eine gute Verliererin."
@@ -35689,7 +36281,8 @@
     "details": {
       "article": "der",
       "headword": "Verlust",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "verlieren"
     },
     "examples": [
       "Der Verlust meiner Uhr ärgert mich sehr."
@@ -35741,7 +36334,8 @@
           "headword": "Vermieterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "vermieten"
     },
     "examples": [
       "Unsere Vermieterin ist eine sehr nette, ältere Frau."
@@ -35753,7 +36347,8 @@
     "details": {
       "article": "die",
       "headword": "Vermietung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "vermieten"
     },
     "examples": [
       "Mit der Vermietung von Wohnungen kann man viel Geld verdienen."
@@ -35806,7 +36401,8 @@
     "id": "vermutlich",
     "raw_word": "vermutlich",
     "details": {
-      "headword": "vermutlich"
+      "headword": "vermutlich",
+      "derived_from": "vermuten"
     },
     "examples": [
       "Vermutlich sagt er die Wahrheit."
@@ -36037,7 +36633,8 @@
             "A"
           ]
         }
-      ]
+      ],
+      "derived_from": "versichern"
     },
     "examples": [
       "Haben Sie Ihre Versichertenkarte dabei?"
@@ -36049,7 +36646,8 @@
     "details": {
       "article": "die",
       "headword": "Versicherung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Versichertenkarte"
     },
     "examples": [
       "Sie sollten eine Versicherung für Ihr Gepäck abschließen.",
@@ -36098,7 +36696,8 @@
     "raw_word": "das Verständnis",
     "details": {
       "article": "das",
-      "headword": "Verständnis"
+      "headword": "Verständnis",
+      "derived_from": "verständlich"
     },
     "examples": [
       "Wir bitten um Ihr Verständnis."
@@ -36161,7 +36760,8 @@
     "details": {
       "article": "der",
       "headword": "Versuch",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "versuchen"
     },
     "examples": [
       "In der Forschung werden viele Versuche gemacht.",
@@ -36215,7 +36815,8 @@
     "raw_word": "das Vertrauen",
     "details": {
       "article": "das",
-      "headword": "Vertrauen"
+      "headword": "Vertrauen",
+      "derived_from": "vertrauen"
     },
     "examples": [
       "Ich habe Vertrauen zu Ihnen."
@@ -36251,7 +36852,8 @@
           "headword": "Vertreterin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "vertreten"
     },
     "examples": [
       "Als Herr Dr. Müller in Urlaub war, bin ich zu seiner Vertreterin gegangen.",
@@ -36264,7 +36866,8 @@
     "details": {
       "article": "die",
       "headword": "Vertretung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "vertreten"
     },
     "examples": [
       "Herr Dr. Meyer macht für mich die Vertretung."
@@ -36322,7 +36925,8 @@
           "headword": "Verwandte",
           "plural": "-n"
         }
-      }
+      },
+      "derived_from": "verwandt"
     },
     "examples": [
       "Zu meinem Geburtstag kommen alle Verwandten."
@@ -36377,7 +36981,8 @@
     "id": "Verzeihung",
     "raw_word": "Verzeihung",
     "details": {
-      "headword": "Verzeihung"
+      "headword": "Verzeihung",
+      "derived_from": "verzeihen"
     },
     "examples": [
       "Verzeihung! Ich habe die falsche Nummer gewählt."
@@ -36540,7 +37145,8 @@
     "raw_word": "die Vollzeit",
     "details": {
       "article": "die",
-      "headword": "Vollzeit"
+      "headword": "Vollzeit",
+      "derived_from": "voll"
     },
     "examples": [
       "Ich möchte gerne Vollzeit arbeiten."
@@ -36604,7 +37210,8 @@
     "id": "vor allem",
     "raw_word": "vor allem",
     "details": {
-      "headword": "vor allem"
+      "headword": "vor allem",
+      "derived_from": "vor"
     },
     "examples": [
       "Grüßen Sie alle von mir, vor allem Frau Meier."
@@ -36681,7 +37288,8 @@
     "details": {
       "article": "die",
       "headword": "Vorbereitung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) vorbereiten"
     },
     "examples": [
       "Nächste Woche beginnen wir mit der Vorbereitung für die Prüfung."
@@ -36842,7 +37450,8 @@
     "details": {
       "article": "der",
       "headword": "Vorschlag",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "vorschlagen"
     },
     "examples": [
       "Ich mache dir einen Vorschlag: Du hilfst mir beim Deutschlernen, und ich lade dich zum Essen ein."
@@ -36875,7 +37484,8 @@
     "id": "vorsichtig",
     "raw_word": "vorsichtig",
     "details": {
-      "headword": "vorsichtig"
+      "headword": "vorsichtig",
+      "derived_from": "Vorsicht"
     },
     "examples": [
       "Bitte fahr vorsichtig, die Straße ist glatt."
@@ -36904,7 +37514,8 @@
     "details": {
       "article": "die",
       "headword": "Vorstellung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "(sich) vorstellen"
     },
     "examples": [
       "Wann läuft der Film? - Die nächste Vorstellung ist um 15 Uhr."
@@ -37054,7 +37665,8 @@
     "details": {
       "article": "die",
       "headword": "Wahl",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wählen"
     },
     "examples": [
       "Sie haben die Wahl: mit Vollpension oder Halbpension?",
@@ -37090,7 +37702,8 @@
     "details": {
       "article": "die",
       "headword": "Wahrheit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wahr"
     },
     "examples": [
       "Sag mir bitte die Wahrheit. Hast du wieder geraucht?"
@@ -37164,7 +37777,8 @@
     "details": {
       "article": "die",
       "headword": "Wanderung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wandern"
     },
     "examples": [
       "Wir haben in den Ferien eine schöne Wanderung gemacht."
@@ -37214,7 +37828,8 @@
     "raw_word": "die Wärme",
     "details": {
       "article": "die",
-      "headword": "Wärme"
+      "headword": "Wärme",
+      "derived_from": "warm"
     },
     "examples": [
       "Wärme ist gut gegen meine Schmerzen."
@@ -37306,7 +37921,8 @@
     "raw_word": "die Wäsche",
     "details": {
       "article": "die",
-      "headword": "Wäsche"
+      "headword": "Wäsche",
+      "derived_from": "(sich) waschen"
     },
     "examples": [
       "Ich muss heute noch Wäsche waschen.",
@@ -37319,7 +37935,8 @@
     "details": {
       "article": "das",
       "headword": "Waschmittel",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "(sich) waschen"
     },
     "examples": [
       "Diese Bluse darfst du nicht mit jedem Waschmittel waschen."
@@ -37376,7 +37993,8 @@
     "details": {
       "article": "der",
       "headword": "Wecker",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "wecken"
     },
     "examples": [
       "Hast du den Wecker schon gestellt?"
@@ -37555,7 +38173,8 @@
     "details": {
       "article": "die",
       "headword": "Weiterbildung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "weiter"
     },
     "examples": [
       "Ich möchte eine Weiterbildung machen."
@@ -37592,7 +38211,8 @@
     "id": "weltweit",
     "raw_word": "weltweit",
     "details": {
-      "headword": "weltweit"
+      "headword": "weltweit",
+      "derived_from": "Welt"
     },
     "examples": [
       "Unsere Firma produziert für den weltweiten Markt.",
@@ -37725,7 +38345,8 @@
     "details": {
       "article": "die",
       "headword": "Werkstatt",
-      "plural": "¨-en"
+      "plural": "¨-en",
+      "derived_from": "Werk"
     },
     "examples": [
       "Mein Wagen ist zurzeit in der Werkstatt."
@@ -37737,7 +38358,8 @@
     "details": {
       "article": "das",
       "headword": "Werkzeug",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Werkstatt"
     },
     "examples": [
       "Wir hatten kein Werkzeug für die Reparatur dabei."
@@ -37771,7 +38393,8 @@
     "id": "wertlos",
     "raw_word": "wertlos",
     "details": {
-      "headword": "wertlos"
+      "headword": "wertlos",
+      "derived_from": "Wert"
     },
     "examples": [
       "Diese alten Geldscheine sind heute völlig wertlos."
@@ -37781,7 +38404,8 @@
     "id": "wertvoll",
     "raw_word": "wertvoll",
     "details": {
-      "headword": "wertvoll"
+      "headword": "wertvoll",
+      "derived_from": "Wert"
     },
     "examples": [
       "Ich habe einen sehr wertvollen Ring von meiner Großmutter."
@@ -37845,7 +38469,8 @@
     "details": {
       "article": "der",
       "headword": "Wetterbericht",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Wetter"
     },
     "examples": [
       "Hast du schon den Wetterbericht gehört?"
@@ -37857,7 +38482,8 @@
     "details": {
       "article": "die",
       "headword": "Wettervorhersage",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "Wetter"
     },
     "examples": [
       "Die Wettervorhersage für morgen: trocken und sonnig."
@@ -37942,7 +38568,8 @@
     "details": {
       "article": "die",
       "headword": "Wiederholung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wiederholen"
     },
     "examples": [
       "Eine Wiederholung der Prüfung ist möglich."
@@ -38035,7 +38662,8 @@
     "id": "windig",
     "raw_word": "windig",
     "details": {
-      "headword": "windig"
+      "headword": "windig",
+      "derived_from": "Wind"
     },
     "examples": [
       "Es ist heute sehr windig."
@@ -38077,7 +38705,8 @@
     "details": {
       "article": "die",
       "headword": "Wirkung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wirken"
     },
     "examples": [
       "Welche Wirkungen hat dieses Medikament? Muss ich vorsichtig sein?"
@@ -38099,7 +38728,8 @@
     "raw_word": "die Wirklichkeit",
     "details": {
       "article": "die",
-      "headword": "Wirklichkeit"
+      "headword": "Wirklichkeit",
+      "derived_from": "wirklich"
     },
     "examples": [
       "Das Buch beschreibt die Wirklichkeit um 1900 sehr gut.",
@@ -38161,7 +38791,8 @@
     "raw_word": "das Wissen",
     "details": {
       "article": "das",
-      "headword": "Wissen"
+      "headword": "Wissen",
+      "derived_from": "wissen"
     },
     "examples": [
       "Es hat ein großes Wissen über Pflanzen.",
@@ -38195,7 +38826,8 @@
           "headword": "Wissenschaftlerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "Wissenschaft"
     },
     "examples": [
       "Sie ist Wissenschaftlerin an der Universität."
@@ -38281,7 +38913,8 @@
     "details": {
       "article": "der",
       "headword": "Wohnort",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "wohnen"
     },
     "examples": [
       "Tragen Sie bitte Straße und Wohnort ein."
@@ -38293,7 +38926,8 @@
     "details": {
       "article": "der",
       "headword": "Wohnsitz",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "wohnen"
     },
     "examples": [
       "Er hat einen festen Wohnsitz in dieser Stadt."
@@ -38305,7 +38939,8 @@
     "details": {
       "article": "die",
       "headword": "Wohnung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wohnen"
     },
     "examples": [
       "Wir suchen eine möblierte Wohnung, möglichst im Zentrum."
@@ -38317,7 +38952,8 @@
     "details": {
       "article": "das",
       "headword": "Wohnzimmer",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "wohnen"
     },
     "examples": [
       "Wir sitzen im Wohnzimmer und sehen fern."
@@ -38339,7 +38975,8 @@
     "id": "bewölkt",
     "raw_word": "bewölkt",
     "details": {
-      "headword": "bewölkt"
+      "headword": "bewölkt",
+      "derived_from": "Wolke"
     },
     "examples": [
       "Heute ist es stark bewölkt."
@@ -38423,7 +39060,8 @@
     "details": {
       "article": "das",
       "headword": "Wörterbuch",
-      "plural": "¨-er"
+      "plural": "¨-er",
+      "derived_from": "Wort"
     },
     "examples": [
       "Ich muss das Wort im Wörterbuch nachschlagen."
@@ -38458,7 +39096,8 @@
     "id": "wunderbar",
     "raw_word": "wunderbar",
     "details": {
-      "headword": "wunderbar"
+      "headword": "wunderbar",
+      "derived_from": "Wunder"
     },
     "examples": [
       "Im ganzen Urlaub hatten wir wunderbares Wetter.",
@@ -38469,7 +39108,8 @@
     "id": "wunderschön",
     "raw_word": "wunderschön",
     "details": {
-      "headword": "wunderschön"
+      "headword": "wunderschön",
+      "derived_from": "Wunder"
     },
     "examples": [
       "Wir haben einen Ausflug gemacht. Es war wunderschön.",
@@ -38515,7 +39155,8 @@
     "details": {
       "article": "der",
       "headword": "Wunsch",
-      "plural": "¨-e"
+      "plural": "¨-e",
+      "derived_from": "(sich) wünschen"
     },
     "examples": [
       "Haben Sie sonst noch einen Wunsch?",
@@ -38563,7 +39204,8 @@
     "details": {
       "article": "die",
       "headword": "Anzahl",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Zahl"
     },
     "examples": [
       "Die Anzahl der Teilnehmer war groß."
@@ -38573,7 +39215,8 @@
     "id": "zahlreich",
     "raw_word": "zahlreich",
     "details": {
-      "headword": "zahlreich"
+      "headword": "zahlreich",
+      "derived_from": "Anzahl"
     },
     "examples": [
       "Die Gäste sind zahlreich gekommen.",
@@ -38603,7 +39246,8 @@
     "details": {
       "article": "die",
       "headword": "Zahlung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "zahlen"
     },
     "examples": [
       "Bitte geben Sie bei der Zahlung die Rechnungsnummer an."
@@ -38646,7 +39290,8 @@
       "headword": "Zahncreme",
       "variants": [
         "-pasta"
-      ]
+      ],
+      "derived_from": "Zahn"
     },
     "examples": [
       "Die neue Zahncreme riecht sehr gut."
@@ -38682,7 +39327,8 @@
     "details": {
       "article": "das",
       "headword": "Verkehrszeichen",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Zeichen"
     },
     "examples": [
       "Meine Kinder lernen in der Schule gerade die Verkehrszeichen."
@@ -38709,7 +39355,8 @@
     "details": {
       "article": "die",
       "headword": "Zeichnung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "zeichnen"
     },
     "examples": [
       "Das ist eine schöne Zeichnung."
@@ -38764,7 +39411,8 @@
     "details": {
       "article": "der",
       "headword": "Zeitpunkt",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "Zeit"
     },
     "examples": [
       "Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch."
@@ -38774,7 +39422,8 @@
     "id": "zurzeit",
     "raw_word": "zurzeit",
     "details": {
-      "headword": "zurzeit"
+      "headword": "zurzeit",
+      "derived_from": "Zeitpunkt"
     },
     "examples": [
       "Zurzeit habe ich sehr viel zu tun."
@@ -39177,7 +39826,8 @@
     "id": "zufällig",
     "raw_word": "zufällig",
     "details": {
-      "headword": "zufällig"
+      "headword": "zufällig",
+      "derived_from": "Zufall"
     },
     "examples": [
       "Wir haben uns zufällig am Bahnhof getroffen.",
@@ -39212,7 +39862,8 @@
     "id": "zugänglich",
     "raw_word": "zugänglich",
     "details": {
-      "headword": "zugänglich"
+      "headword": "zugänglich",
+      "derived_from": "Zugang"
     },
     "examples": [
       "Der Park ist für alle zugänglich."
@@ -39287,7 +39938,8 @@
           "headword": "Zuhörerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "zuhören"
     },
     "examples": [
       "Liebe Zuhörerinnen und Zuhörer, Ihre Meinung interessiert uns. Bitte rufen Sie an!"
@@ -39501,7 +40153,8 @@
     "raw_word": "die Zusammenarbeit",
     "details": {
       "article": "die",
-      "headword": "Zusammenarbeit"
+      "headword": "Zusammenarbeit",
+      "derived_from": "zusammen"
     },
     "examples": [
       "Sie sind der neue Kollege? Auf gute Zusammenarbeit!"
@@ -39516,7 +40169,8 @@
         "fasst zusammen",
         "fasste zusammen",
         "hat zusammengefasst"
-      ]
+      ],
+      "derived_from": "Zusammenarbeit"
     },
     "examples": [
       "Können Sie das bitte noch einmal kurz zusammenfassen?"
@@ -39575,7 +40229,8 @@
           "headword": "Zuschauerin",
           "plural": "-nen"
         }
-      }
+      },
+      "derived_from": "zuschauen"
     },
     "examples": [
       "Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung."
@@ -39663,7 +40318,8 @@
     "details": {
       "article": "die",
       "headword": "Zustimmung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "zustimmen"
     },
     "examples": [
       "Wir brauchen Ihre Zustimmung, um Ihnen Werbung zu schicken."

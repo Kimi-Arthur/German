@@ -36,6 +36,8 @@ def clean_entry_dict(entry):
         cleaned["details"] = details_clean
     if entry["examples"]:
         cleaned["examples"] = entry["examples"]
+    if "x0" in entry:
+        cleaned["x0"] = entry["x0"]
     return cleaned
 
 def clean_word(w):
@@ -344,6 +346,7 @@ def parse_column_words(column_words, word_max_x, pdf_type):
     entries = []
     current_word = []
     current_examples = []
+    current_x0 = None
     prev_top = None
     pending_article = None
     
@@ -472,16 +475,20 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                         "id": get_clean_id(word_full),
                         "raw_word": word_full,
                         "details": parse_word_details(word_full),
-                        "examples": split_examples(examples_full)
+                        "examples": split_examples(examples_full),
+                        "x0": current_x0
                     })
             if pending_article and not word_str.lower().startswith(("der ", "die ", "das ")):
                 word_str = pending_article + " " + word_str
             pending_article = None
             current_word = [word_str]
             current_examples = [example_str] if example_str else []
+            current_x0 = word_part[0]['x0'] if word_part else None
         else:
             if word_str:
                 current_word.append(word_str)
+                if current_x0 is None and word_part:
+                    current_x0 = word_part[0]['x0']
             if example_str:
                 current_examples.append(example_str)
             
@@ -500,7 +507,8 @@ def parse_column_words(column_words, word_max_x, pdf_type):
                 "id": get_clean_id(word_full),
                 "raw_word": word_full,
                 "details": parse_word_details(word_full),
-                "examples": split_examples(examples_full)
+                "examples": split_examples(examples_full),
+                "x0": current_x0
             })
             
     return entries
@@ -988,6 +996,7 @@ def post_process_entries(entries, pdf_type):
         if pdf_type == "A1":
             # 1. Split distinct noun and adjective entries that were run together on the same line in the PDF.
             if eid == "der Ausländer" and "ausländisch" in raw:
+                orig_x0 = entry.get("x0")
                 processed.append({
                     "id": "der Ausländer",
                     "raw_word": "der Ausländer, -",
@@ -996,7 +1005,8 @@ def post_process_entries(entries, pdf_type):
                         "headword": "Ausländer",
                         "plural": "-"
                     },
-                    "examples": ["SInd Sie Ausländerin?"]
+                    "examples": ["SInd Sie Ausländerin?"],
+                    "x0": orig_x0
                 })
                 processed.append({
                     "id": "ausländisch",
@@ -1004,7 +1014,8 @@ def post_process_entries(entries, pdf_type):
                     "details": {
                         "headword": "ausländisch"
                     },
-                    "examples": ["Leider habe ich nur ausländisches Geld."]
+                    "examples": ["Leider habe ich nur ausländisches Geld."],
+                    "x0": orig_x0
                 })
             # 2. Prevent parser from splitting articles list entry into "der" and "die, das".
             elif eid == "der" and raw == "der, die, das":
@@ -1039,6 +1050,7 @@ def post_process_entries(entries, pdf_type):
         elif pdf_type == "B1":
             # 1. Split distinct noun and verb entries that were run together on the same line in the PDF.
             if eid == "der Braten" and "brauchen" in raw:
+                orig_x0 = entry.get("x0")
                 processed.append({
                     "id": "der Braten",
                     "raw_word": "der Braten, -",
@@ -1047,7 +1059,8 @@ def post_process_entries(entries, pdf_type):
                         "headword": "Braten",
                         "plural": "-"
                     },
-                    "examples": ["Nehmen Sie noch etwas Soße zum Braten?"]
+                    "examples": ["Nehmen Sie noch etwas Soße zum Braten?"],
+                    "x0": orig_x0
                 })
                 processed.append({
                     "id": "brauchen",
@@ -1062,7 +1075,8 @@ def post_process_entries(entries, pdf_type):
                         "Meine Großmutter ist krank. Sie braucht viel Ruhe.",
                         "Ich habe für die Renovierung eine Woche gebraucht.",
                         "Sie brauchen morgen nicht zu kommen. Ich schaffe das alleine."
-                    ]
+                    ],
+                    "x0": orig_x0
                 })
             # 2. Extract "Disko" as a variant from complex formatting ("-en/die Disko, -s").
             elif eid == "die Diskothek":
@@ -1076,6 +1090,7 @@ def post_process_entries(entries, pdf_type):
                 processed.append(entry)
             # 3. Split distinct noun and prefix entries that were run together on the same line in the PDF.
             elif eid == "der Speisewagen" and "Spezial" in raw:
+                orig_x0 = entry.get("x0")
                 processed.append({
                     "id": "der Speisewagen",
                     "raw_word": "der Speisewagen, -",
@@ -1084,7 +1099,8 @@ def post_process_entries(entries, pdf_type):
                         "headword": "Speisewagen",
                         "plural": "-"
                     },
-                    "examples": ["Wo ist der Speisewagen?"]
+                    "examples": ["Wo ist der Speisewagen?"],
+                    "x0": orig_x0
                 })
                 processed.append({
                     "id": "Spezial-",
@@ -1092,7 +1108,8 @@ def post_process_entries(entries, pdf_type):
                     "details": {
                         "headword": "Spezial-"
                     },
-                    "examples": ["Ich brauche eine Spezialpflege für trockenes Haar."]
+                    "examples": ["Ich brauche eine Spezialpflege für trockenes Haar."],
+                    "x0": orig_x0
                 })
             # 4. Correct headword typo "Kursleiter" to "Kursleiterin" for this feminine noun entry.
             elif eid == "die Kursleiter":
@@ -1140,11 +1157,59 @@ def post_process_entries(entries, pdf_type):
 
     return processed
 
+def get_column_baseline(pdf_type, sample_x0):
+    if pdf_type == "A1":
+        return 143.0
+    elif pdf_type == "B1":
+        if sample_x0 < 200:
+            return 35.15
+        else:
+            return 314.65
+    elif pdf_type == "A2":
+        if sample_x0 < 200:
+            return 35.7
+        else:
+            return 304.7
+    return 35.0
+
+def resolve_parenting(entries, pdf_type):
+    stack = []
+    for entry in entries:
+        x0 = entry.get("x0")
+        if x0 is None:
+            rel_x0 = 0.0
+            is_indented = False
+        else:
+            base_x0 = get_column_baseline(pdf_type, x0)
+            rel_x0 = x0 - base_x0
+            is_indented = rel_x0 > 4.0
+            
+        while stack and stack[-1][0] >= rel_x0 - 2.0:
+            stack.pop()
+            
+        if is_indented and stack:
+            parent = stack[-1][1]
+            parent_headword = parent.get("details", {}).get("headword")
+            if parent_headword:
+                if "details" not in entry:
+                    entry["details"] = {}
+                entry["details"]["derived_from"] = parent_headword
+                
+        if x0 is not None:
+            stack.append((rel_x0, entry))
+            
+    for entry in entries:
+        if "x0" in entry:
+            del entry["x0"]
+            
+    return entries
+
 def main():
     # A1 list
     a1_entries = parse_pdf_wordlist("../Books/A1_SD1_Wortliste_02.pdf", 9, 27, "A1")
     a1_clean = [clean_entry_dict(e) for e in a1_entries]
     a1_clean = post_process_entries(a1_clean, "A1")
+    a1_clean = resolve_parenting(a1_clean, "A1")
     with open("A1_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(a1_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(a1_clean)} A1 entries to A1_wortliste.json")
@@ -1153,6 +1218,7 @@ def main():
     a2_entries = parse_pdf_wordlist("../Books/Goethe-Zertifikat_A2_Wortliste.pdf", 8, 31, "A2")
     a2_clean = [clean_entry_dict(e) for e in a2_entries]
     a2_clean = post_process_entries(a2_clean, "A2")
+    a2_clean = resolve_parenting(a2_clean, "A2")
     with open("A2_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(a2_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(a2_clean)} A2 entries to A2_wortliste.json")
@@ -1161,6 +1227,7 @@ def main():
     b1_entries = parse_pdf_wordlist("../Books/Goethe-Zertifikat_B1_Wortliste.pdf", 16, 102, "B1")
     b1_clean = [clean_entry_dict(e) for e in b1_entries]
     b1_clean = post_process_entries(b1_clean, "B1")
+    b1_clean = resolve_parenting(b1_clean, "B1")
     with open("B1_wortliste.json", "w", encoding="utf-8") as f:
         json.dump(b1_clean, f, ensure_ascii=False, indent=2)
     print(f"Saved {len(b1_clean)} B1 entries to B1_wortliste.json")

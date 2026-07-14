@@ -34,7 +34,8 @@
     "raw_word": "die Abfahrt",
     "details": {
       "article": "die",
-      "headword": "Abfahrt"
+      "headword": "Abfahrt",
+      "derived_from": "abfahren"
     },
     "examples": [
       "Vor der Abfahrt rufe ich an."
@@ -182,7 +183,8 @@
     "details": {
       "article": "das",
       "headword": "Angebot",
-      "plural": "-e"
+      "plural": "-e",
+      "derived_from": "anbieten"
     },
     "examples": [
       "Heute sind Sportschuhe im Angebot."
@@ -214,7 +216,8 @@
     "raw_word": "der Anfang",
     "details": {
       "article": "der",
-      "headword": "Anfang"
+      "headword": "Anfang",
+      "derived_from": "anfangen"
     },
     "examples": [
       "Sie wohnt am Anfang der Straße.",
@@ -287,7 +290,8 @@
     "raw_word": "die Anmeldung",
     "details": {
       "article": "die",
-      "headword": "Anmeldung"
+      "headword": "Anmeldung",
+      "derived_from": "(sich) anmelden"
     },
     "examples": [
       "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
@@ -332,7 +336,8 @@
     "raw_word": "der Anrufbeantworter",
     "details": {
       "article": "der",
-      "headword": "Anrufbeantworter"
+      "headword": "Anrufbeantworter",
+      "derived_from": "Anruf"
     },
     "examples": [
       "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
@@ -388,7 +393,8 @@
     "details": {
       "article": "die",
       "headword": "Antwort",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "antworten"
     },
     "examples": [
       "Er gibt leider keine Antwort."
@@ -467,7 +473,8 @@
     "details": {
       "article": "die",
       "headword": "Arbeit",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "arbeiten"
     },
     "examples": [
       "Mein Bruder sucht Arbeit."
@@ -680,7 +687,8 @@
     "details": {
       "article": "der",
       "headword": "Ausländer",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Ausland"
     },
     "examples": [
       "SInd Sie Ausländerin?"
@@ -690,7 +698,8 @@
     "id": "ausländisch",
     "raw_word": "ausländisch",
     "details": {
-      "headword": "ausländisch"
+      "headword": "ausländisch",
+      "derived_from": "Ausland"
     },
     "examples": [
       "Leider habe ich nur ausländisches Geld."
@@ -1055,7 +1064,8 @@
     "id": "zum Beispiel/z. B.",
     "raw_word": "zum Beispiel/z. B.",
     "details": {
-      "headword": "zum Beispiel/z. B."
+      "headword": "zum Beispiel/z. B.",
+      "derived_from": "Beispiel"
     },
     "examples": [
       "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
@@ -1293,7 +1303,8 @@
     "details": {
       "article": "die",
       "headword": "Bitte",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "bitte"
     },
     "examples": [
       "Ich habe noch eine Bitte."
@@ -1303,7 +1314,8 @@
     "id": "bitten",
     "raw_word": "bitten",
     "details": {
-      "headword": "bitten"
+      "headword": "bitten",
+      "derived_from": "bitte"
     },
     "examples": [
       "Darf ich Sie um etwas bitten?"
@@ -1646,7 +1658,8 @@
     "raw_word": "der Dank",
     "details": {
       "article": "der",
-      "headword": "Dank"
+      "headword": "Dank",
+      "derived_from": "danken"
     },
     "examples": [
       "Vielen Dank!",
@@ -1657,7 +1670,8 @@
     "id": "danke",
     "raw_word": "danke",
     "details": {
-      "headword": "danke"
+      "headword": "danke",
+      "derived_from": "danken"
     },
     "examples": [
       "Soll ich Ihnen helfen? - Nein, danke!"
@@ -1843,7 +1857,8 @@
     "details": {
       "article": "der",
       "headword": "Drucker",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "drucken"
     },
     "examples": [
       "Mein Drucker ist kaputt."
@@ -1919,7 +1934,8 @@
     "raw_word": "die Dusche",
     "details": {
       "article": "die",
-      "headword": "Dusche"
+      "headword": "Dusche",
+      "derived_from": "(sich) duschen"
     },
     "examples": [
       "Unsere Wohnung hat nur eine Dusche."
@@ -2039,7 +2055,8 @@
     "raw_word": "die Einladung",
     "details": {
       "article": "die",
-      "headword": "Einladung"
+      "headword": "Einladung",
+      "derived_from": "einladen"
     },
     "examples": [
       "Danke für die Einladung!"
@@ -2148,7 +2165,8 @@
     "raw_word": "das Ende",
     "details": {
       "article": "das",
-      "headword": "Ende"
+      "headword": "Ende",
+      "derived_from": "enden"
     },
     "examples": [
       "Sie wohnt am Ende der Straße.",
@@ -2170,7 +2188,8 @@
     "raw_word": "die Entschuldigung",
     "details": {
       "article": "die",
-      "headword": "Entschuldigung"
+      "headword": "Entschuldigung",
+      "derived_from": "entschuldigen"
     },
     "examples": [
       "Entschuldigung! - Bitte."
@@ -2265,7 +2284,8 @@
     "raw_word": "das Essen",
     "details": {
       "article": "das",
-      "headword": "Essen"
+      "headword": "Essen",
+      "derived_from": "essen"
     },
     "examples": [
       "Das Essen ist heute sehr gut."
@@ -2296,7 +2316,8 @@
     "raw_word": "der Fahrer",
     "details": {
       "article": "der",
-      "headword": "Fahrer"
+      "headword": "Fahrer",
+      "derived_from": "fahren"
     },
     "examples": [
       "Bitte nicht mit dem Fahrer sprechen!"
@@ -2353,7 +2374,8 @@
     "raw_word": "der Familienname",
     "details": {
       "article": "der",
-      "headword": "Familienname"
+      "headword": "Familienname",
+      "derived_from": "Familie"
     },
     "examples": [
       "Meine Familiennamen sind García González."
@@ -2364,7 +2386,8 @@
     "raw_word": "der Familienstand",
     "details": {
       "article": "der",
-      "headword": "Familienstand"
+      "headword": "Familienstand",
+      "derived_from": "Familie"
     },
     "examples": [
       "Bei „Familienstand“ musst du „ledig“ ankreuzen."
@@ -2562,7 +2585,8 @@
     "id": "abfliegen",
     "raw_word": "abfliegen",
     "details": {
-      "headword": "abfliegen"
+      "headword": "abfliegen",
+      "derived_from": "fliegen"
     },
     "examples": [
       "Wann fliegst du ab?"
@@ -2573,7 +2597,8 @@
     "raw_word": "der Abflug",
     "details": {
       "article": "der",
-      "headword": "Abflug"
+      "headword": "Abflug",
+      "derived_from": "fliegen"
     },
     "examples": [
       "Der Abflug ist um 11.20 Uhr."
@@ -2641,7 +2666,8 @@
     "details": {
       "article": "die",
       "headword": "Frage",
-      "plural": "-n"
+      "plural": "-n",
+      "derived_from": "fragen"
     },
     "examples": [
       "Ich habe eine Frage."
@@ -2740,7 +2766,8 @@
     "raw_word": "das Frühstück",
     "details": {
       "article": "das",
-      "headword": "Frühstück"
+      "headword": "Frühstück",
+      "derived_from": "frühstücken"
     },
     "examples": [
       "Möchtest du ein Ei zum Frühstück?"
@@ -3205,7 +3232,8 @@
     "raw_word": "die Größe",
     "details": {
       "article": "die",
-      "headword": "Größe"
+      "headword": "Größe",
+      "derived_from": "groß"
     },
     "examples": [
       "Haben Sie das auch in Größe 40?"
@@ -3228,7 +3256,8 @@
     "raw_word": "die Großmutter",
     "details": {
       "article": "die",
-      "headword": "Großmutter"
+      "headword": "Großmutter",
+      "derived_from": "Großeltern"
     },
     "examples": [
       "Meine Großmutter heißt Eva."
@@ -3239,7 +3268,8 @@
     "raw_word": "der Großvater",
     "details": {
       "article": "der",
-      "headword": "Großvater"
+      "headword": "Großvater",
+      "derived_from": "Großeltern"
     },
     "examples": [
       "Mein Großvater ist schon 80."
@@ -3455,7 +3485,8 @@
     "raw_word": "der Hausmann",
     "details": {
       "article": "der",
-      "headword": "Hausmann"
+      "headword": "Hausmann",
+      "derived_from": "Hausfrau"
     },
     "examples": [
       "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein."
@@ -3889,7 +3920,8 @@
       "headword": "(Kredit)-Karte",
       "conjugation": [
         "-n"
-      ]
+      ],
+      "derived_from": "Karte"
     },
     "examples": [
       "Kann ich auch mit Karte (be-) zahlen?"
@@ -3952,7 +3984,8 @@
     "id": "kennenlernen",
     "raw_word": "kennenlernen",
     "details": {
-      "headword": "kennenlernen"
+      "headword": "kennenlernen",
+      "derived_from": "kennen"
     },
     "examples": [
       "Wir sind neu hier. Wir möchten Sie kennenlernen."
@@ -4352,7 +4385,8 @@
     "raw_word": "das Leben",
     "details": {
       "article": "das",
-      "headword": "Leben"
+      "headword": "Leben",
+      "derived_from": "leben"
     },
     "examples": [
       "Das Leben in diesem Land ist teuer."
@@ -4364,7 +4398,8 @@
     "details": {
       "article": "die",
       "headword": "Lebensmittel",
-      "plural": "(Pl.)"
+      "plural": "(Pl.)",
+      "derived_from": "leben"
     },
     "examples": [
       "Lebensmittel bekommen Sie im Supermarkt."
@@ -4500,7 +4535,8 @@
     "id": "lieben",
     "raw_word": "lieben",
     "details": {
-      "headword": "lieben"
+      "headword": "lieben",
+      "derived_from": "lieb-"
     },
     "examples": [
       "Ich liebe dich!"
@@ -4510,7 +4546,8 @@
     "id": "lieber",
     "raw_word": "lieber",
     "details": {
-      "headword": "lieber"
+      "headword": "lieber",
+      "derived_from": "lieb-"
     },
     "examples": [
       "Sie fährt lieber mit der Bahn."
@@ -4653,7 +4690,8 @@
     "id": "männlich",
     "raw_word": "männlich",
     "details": {
-      "headword": "männlich"
+      "headword": "männlich",
+      "derived_from": "Mann"
     },
     "examples": [
       "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
@@ -4739,7 +4777,8 @@
     "raw_word": "die Miete",
     "details": {
       "article": "die",
-      "headword": "Miete"
+      "headword": "Miete",
+      "derived_from": "mieten"
     },
     "examples": [
       "Die Miete für diese Wohnung ist 600 Euro."
@@ -5114,7 +5153,8 @@
     "id": "geöffnet",
     "raw_word": "geöffnet",
     "details": {
-      "headword": "geöffnet"
+      "headword": "geöffnet",
+      "derived_from": "öffnen"
     },
     "examples": [
       "Der Laden ist samstags bis 16.00 Uhr geöffnet."
@@ -5498,7 +5538,8 @@
     "raw_word": "der Regen",
     "details": {
       "article": "der",
-      "headword": "Regen"
+      "headword": "Regen",
+      "derived_from": "regnen"
     },
     "examples": [
       "Bei diesem Regen gehe ich nicht raus."
@@ -5530,7 +5571,8 @@
     "raw_word": "die Reise",
     "details": {
       "article": "die",
-      "headword": "Reise"
+      "headword": "Reise",
+      "derived_from": "reisen"
     },
     "examples": [
       "Wir machen eine Reise nach Österreich."
@@ -5542,7 +5584,8 @@
     "details": {
       "article": "das",
       "headword": "Reisebüro",
-      "plural": "-s"
+      "plural": "-s",
+      "derived_from": "reisen"
     },
     "examples": [
       "Mein Mann arbeitet im Reisebüro."
@@ -5553,7 +5596,8 @@
     "raw_word": "der Reiseführer",
     "details": {
       "article": "der",
-      "headword": "Reiseführer"
+      "headword": "Reiseführer",
+      "derived_from": "reisen"
     },
     "examples": [
       "Ich kaufe mir einen Reiseführer von Berlin.",
@@ -5575,7 +5619,8 @@
     "raw_word": "die Reparatur",
     "details": {
       "article": "die",
-      "headword": "Reparatur"
+      "headword": "Reparatur",
+      "derived_from": "reparieren"
     },
     "examples": [
       "Die Reparatur ist sehr teuer."
@@ -5794,7 +5839,8 @@
     "id": "geschlossen",
     "raw_word": "geschlossen",
     "details": {
-      "headword": "geschlossen"
+      "headword": "geschlossen",
+      "derived_from": "schließen"
     },
     "examples": [
       "Die Bank hat am Samstag geschlossen."
@@ -5917,7 +5963,8 @@
     "details": {
       "article": "der",
       "headword": "Schüler",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "Schule"
     },
     "examples": [
       "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
@@ -5961,7 +6008,8 @@
     "raw_word": "das Schwimmbad",
     "details": {
       "article": "das",
-      "headword": "Schwimmbad"
+      "headword": "Schwimmbad",
+      "derived_from": "schwimmen"
     },
     "examples": [
       "Kommst du mit ins Schwimmbad?"
@@ -6028,7 +6076,8 @@
     "id": "an sein",
     "raw_word": "an sein",
     "details": {
-      "headword": "an sein"
+      "headword": "an sein",
+      "derived_from": "sein"
     },
     "examples": [
       "Das Licht ist noch an."
@@ -6038,7 +6087,8 @@
     "id": "auf sein",
     "raw_word": "auf sein",
     "details": {
-      "headword": "auf sein"
+      "headword": "auf sein",
+      "derived_from": "sein"
     },
     "examples": [
       "Das Fenster ist noch auf."
@@ -6048,7 +6098,8 @@
     "id": "weg sein",
     "raw_word": "weg sein",
     "details": {
-      "headword": "weg sein"
+      "headword": "weg sein",
+      "derived_from": "sein"
     },
     "examples": [
       "Herr Meier ist schon weg."
@@ -6058,7 +6109,8 @@
     "id": "zu sein",
     "raw_word": "zu sein",
     "details": {
-      "headword": "zu sein"
+      "headword": "zu sein",
+      "derived_from": "sein"
     },
     "examples": [
       "Die Tür ist zu."
@@ -6373,7 +6425,8 @@
     "details": {
       "article": "der",
       "headword": "Student",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "Studium"
     },
     "examples": [
       "Ich bin Studentin."
@@ -6473,7 +6526,8 @@
     "raw_word": "das Telefon",
     "details": {
       "article": "das",
-      "headword": "Telefon"
+      "headword": "Telefon",
+      "derived_from": "telefonieren"
     },
     "examples": [
       "Haben Sie Telefon?"
@@ -6789,7 +6843,8 @@
     "raw_word": "die Unterschrift",
     "details": {
       "article": "die",
-      "headword": "Unterschrift"
+      "headword": "Unterschrift",
+      "derived_from": "unterschreiben"
     },
     "examples": [
       "Hier fehlt noch Ihre Unterschrift."
@@ -6875,7 +6930,8 @@
     "details": {
       "article": "der",
       "headword": "Verkäufer",
-      "plural": "-"
+      "plural": "-",
+      "derived_from": "verkaufen"
     },
     "examples": [
       "Meine Mutter ist Verkäuferin im Kaufhaus."
@@ -6896,7 +6952,8 @@
     "raw_word": "der Vermieter",
     "details": {
       "article": "der",
-      "headword": "Vermieter"
+      "headword": "Vermieter",
+      "derived_from": "vermieten"
     },
     "examples": [
       "Unser Vermieter heißt Huber. Er wohnt auch hier."
@@ -7369,7 +7426,8 @@
     "details": {
       "article": "die",
       "headword": "Wohnung",
-      "plural": "-en"
+      "plural": "-en",
+      "derived_from": "wohnen"
     },
     "examples": [
       "Seit wann haben Sie diese Wohnung?"
@@ -7432,7 +7490,8 @@
     "id": "zurzeit",
     "raw_word": "zurzeit",
     "details": {
-      "headword": "zurzeit"
+      "headword": "zurzeit",
+      "derived_from": "Zeit"
     },
     "examples": [
       "Zurzeit habe ich sehr viel zu tun."
