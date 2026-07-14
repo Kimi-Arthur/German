@@ -492,11 +492,11 @@
   },
   {
     "id": "der Arbeitsplatz",
-    "raw_word": "der Arbeitsplatz, -ä, e",
+    "raw_word": "der Arbeitsplatz, ¨-e",
     "details": {
       "article": "der",
       "headword": "Arbeitsplatz",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "An meinem Arbeitsplatz fehlt ein Drucker."
@@ -516,11 +516,11 @@
   },
   {
     "id": "der Arzt",
-    "raw_word": "der Arzt, -Ä, e",
+    "raw_word": "der Arzt, ¨-e",
     "details": {
       "article": "der",
       "headword": "Arzt",
-      "plural": "-Ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Morgen habe ich einen Termin bei meiner Ärztin."
@@ -594,11 +594,11 @@
   },
   {
     "id": "der Aufzug",
-    "raw_word": "der Aufzug, -ü, e",
+    "raw_word": "der Aufzug, ¨-e",
     "details": {
       "article": "der",
       "headword": "Aufzug",
-      "plural": "-ü"
+      "plural": "¨-e"
     },
     "examples": [
       "In diesem Haus gibt es keinen Aufzug."
@@ -660,11 +660,11 @@
   },
   {
     "id": "die Auskunft",
-    "raw_word": "die Auskunft, -ü, e",
+    "raw_word": "die Auskunft, ¨-e",
     "details": {
       "article": "die",
       "headword": "Auskunft",
-      "plural": "-ü"
+      "plural": "¨-e"
     },
     "examples": [
       "Können Sie mir eine Auskunft geben?"
@@ -970,11 +970,11 @@
   },
   {
     "id": "der Baum",
-    "raw_word": "der Baum, -ä, e",
+    "raw_word": "der Baum, ¨-e",
     "details": {
       "article": "der",
       "headword": "Baum",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Vorsicht, fahr nicht an den Baum!"
@@ -1492,11 +1492,11 @@
   },
   {
     "id": "das Buch",
-    "raw_word": "das Buch, -ü, er",
+    "raw_word": "das Buch, ¨-er",
     "details": {
       "article": "das",
       "headword": "Buch",
-      "plural": "-ü"
+      "plural": "¨-er"
     },
     "examples": [
       "Gute Bücher sind oft sehr teuer.",
@@ -1806,11 +1806,11 @@
   },
   {
     "id": "das Dorf",
-    "raw_word": "das Dorf, -ö, er",
+    "raw_word": "das Dorf, ¨-er",
     "details": {
       "article": "das",
       "headword": "Dorf",
-      "plural": "-ö"
+      "plural": "¨-er"
     },
     "examples": [
       "Meine Familie lebt in einem Dorf."
@@ -2337,11 +2337,11 @@
   },
   {
     "id": "das Fahrrad",
-    "raw_word": "das Fahrrad, -ä, er",
+    "raw_word": "das Fahrrad, ¨-er",
     "details": {
       "article": "das",
       "headword": "Fahrrad",
-      "plural": "-ä"
+      "plural": "¨-er"
     },
     "examples": [
       "Fährst du mit dem Fahrrad oder mit dem Auto?"
@@ -2798,11 +2798,11 @@
   },
   {
     "id": "der Fuß",
-    "raw_word": "der Fuß, -ü, e",
+    "raw_word": "der Fuß, ¨-e",
     "details": {
       "article": "der",
       "headword": "Fuß",
-      "plural": "-ü"
+      "plural": "¨-e"
     },
     "examples": [
       "Der linke Fuß tut mir weh."
@@ -2832,11 +2832,11 @@
   },
   {
     "id": "der Gast",
-    "raw_word": "der Gast, -ä, e",
+    "raw_word": "der Gast, ¨-e",
     "details": {
       "article": "der",
       "headword": "Gast",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Am Wochenende haben wir mehrere Gäste."
@@ -3108,11 +3108,11 @@
   },
   {
     "id": "das Glas",
-    "raw_word": "das Glas, -ä, er",
+    "raw_word": "das Glas, ¨-er",
     "details": {
       "article": "das",
       "headword": "Glas",
-      "plural": "-ä"
+      "plural": "¨-er"
     },
     "examples": [
       "Bitte noch ein Glas Wein!",
@@ -3289,11 +3289,11 @@
   },
   {
     "id": "der Gruß",
-    "raw_word": "der Gruß, -ü, e",
+    "raw_word": "der Gruß, ¨-e",
     "details": {
       "article": "der",
       "headword": "Gruß",
-      "plural": "-ü"
+      "plural": "¨-e"
     },
     "examples": [
       "Viele Grüße an Ihre Frau.",
@@ -3423,11 +3423,11 @@
   },
   {
     "id": "die Hand",
-    "raw_word": "die Hand, -ä, e",
+    "raw_word": "die Hand, ¨-e",
     "details": {
       "article": "die",
       "headword": "Hand",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Er gibt mir die Hand."
@@ -3447,11 +3447,11 @@
   },
   {
     "id": "das Haus",
-    "raw_word": "das Haus, -ä, er",
+    "raw_word": "das Haus, ¨-er",
     "details": {
       "article": "das",
       "headword": "Haus",
-      "plural": "-ä"
+      "plural": "¨-er"
     },
     "examples": [
       "In welchem Haus wohnst du?",
@@ -4309,11 +4309,11 @@
   },
   {
     "id": "das Land",
-    "raw_word": "das Land, -ä, er",
+    "raw_word": "das Land, ¨-er",
     "details": {
       "article": "das",
       "headword": "Land",
-      "plural": "-ä"
+      "plural": "¨-er"
     },
     "examples": [
       "Italien ist ein schönes Land."
@@ -4676,11 +4676,11 @@
   },
   {
     "id": "der Mann",
-    "raw_word": "der Mann, -ä, er",
+    "raw_word": "der Mann, ¨-er",
     "details": {
       "article": "der",
       "headword": "Mann",
-      "plural": "-ä"
+      "plural": "¨-er"
     },
     "examples": [
       "Mein Mann arbeitet bei der Polizei."
@@ -5295,11 +5295,11 @@
   },
   {
     "id": "der Pass",
-    "raw_word": "der Pass, -ä, e",
+    "raw_word": "der Pass, ¨-e",
     "details": {
       "article": "der",
       "headword": "Pass",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Im Hotel brauchst du deinen Pass."
@@ -5319,11 +5319,11 @@
   },
   {
     "id": "der Plan",
-    "raw_word": "der Plan, -ä, e",
+    "raw_word": "der Plan, ¨-e",
     "details": {
       "article": "der",
       "headword": "Plan",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Ich kaufe mir einen Stadtplan."
@@ -5331,11 +5331,11 @@
   },
   {
     "id": "der Platz",
-    "raw_word": "der Platz, -ä, e",
+    "raw_word": "der Platz, ¨-e",
     "details": {
       "article": "der",
       "headword": "Platz",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Tut mir leid, der Platz ist besetzt.",
@@ -5491,11 +5491,11 @@
   },
   {
     "id": "der Raum",
-    "raw_word": "der Raum, -ä, e",
+    "raw_word": "der Raum, ¨-e",
     "details": {
       "article": "der",
       "headword": "Raum",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Der Unterricht ist in Raum 332."
@@ -5725,13 +5725,10 @@
   },
   {
     "id": "Satz",
-    "raw_word": "Satz, -ä, e",
+    "raw_word": "Satz, ¨-e",
     "details": {
       "headword": "Satz",
-      "conjugation": [
-        "-ä",
-        "e"
-      ]
+      "plural": "¨-e"
     },
     "examples": [
       "Dieser Satz ist sehr einfach."
@@ -5913,11 +5910,11 @@
   },
   {
     "id": "der Schrank",
-    "raw_word": "der Schrank, -ä, e",
+    "raw_word": "der Schrank, ¨-e",
     "details": {
       "article": "der",
       "headword": "Schrank",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Die Gläser stehen im Schrank."
@@ -6212,11 +6209,11 @@
   },
   {
     "id": "der Sohn",
-    "raw_word": "der Sohn, -ö, e",
+    "raw_word": "der Sohn, ¨-e",
     "details": {
       "article": "der",
       "headword": "Sohn",
-      "plural": "-ö"
+      "plural": "¨-e"
     },
     "examples": [
       "Das ist Hans, mein Sohn."
@@ -6321,11 +6318,11 @@
   },
   {
     "id": "die Stadt",
-    "raw_word": "die Stadt, -ä, e",
+    "raw_word": "die Stadt, ¨-e",
     "details": {
       "article": "die",
       "headword": "Stadt",
-      "plural": "-ä"
+      "plural": "¨-e"
     },
     "examples": [
       "Heidelberg ist eine alte Stadt."
@@ -7571,11 +7568,11 @@
   },
   {
     "id": "der Zug",
-    "raw_word": "der Zug, -ü, e",
+    "raw_word": "der Zug, ¨-e",
     "details": {
       "article": "der",
       "headword": "Zug",
-      "plural": "-ü"
+      "plural": "¨-e"
     },
     "examples": [
       "Ich fahre gern mit dem Zug."

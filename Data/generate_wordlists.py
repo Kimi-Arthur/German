@@ -167,6 +167,9 @@ def split_examples(examples_str):
 
 
 def parse_word_details(raw_word):
+    # Normalize plural formatting like "-ä, e" to "¨-e"
+    raw_word = re.sub(r',\s*-([äöüÄÖÜ]),\s*([a-z]+)\b', r', ¨-\2', raw_word)
+    
     result = {
         "article": None,
         "headword": raw_word,
@@ -313,7 +316,8 @@ def parse_word_details(raw_word):
     parts = [p.strip() for p in work_str.split(",") if p.strip()]
     if parts:
         result["headword"] = parts[0]
-        if result["article"]:
+        is_noun = bool(result["article"]) or (parts[0] and parts[0][0].isupper() and not parts[0].endswith("-"))
+        if is_noun:
             if len(parts) > 1:
                 result["plural"] = parts[1]
         else:
@@ -564,6 +568,10 @@ def deep_replace_dashes(obj):
 
 def apply_general_rules(entry):
     raw = entry.get("raw_word", "")
+    if raw:
+        entry["raw_word"] = re.sub(r',\s*-([äöüÄÖÜ]),\s*([a-z]+)\b', r', ¨-\2', raw)
+        raw = entry["raw_word"]
+        
     details = entry.get("details", {})
     
     # 1. Fix capitalized word of example sentence concatenated to plural suffix

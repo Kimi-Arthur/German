@@ -3275,9 +3275,7 @@
     "raw_word": "S-Bahn, -en",
     "details": {
       "headword": "S-Bahn",
-      "conjugation": [
-        "-en"
-      ],
+      "plural": "-en",
       "derived_from": "Bahn"
     },
     "examples": [
@@ -9499,9 +9497,7 @@
     "raw_word": "Ergeschoß, -e",
     "details": {
       "headword": "Ergeschoß",
-      "conjugation": [
-        "-e"
-      ],
+      "plural": "-e",
       "derived_from": "Erdgeschoss"
     },
     "examples": [
@@ -14447,9 +14443,7 @@
     "raw_word": "Golf, das Golfspiel",
     "details": {
       "headword": "Golf",
-      "conjugation": [
-        "das Golfspiel"
-      ]
+      "plural": "das Golfspiel"
     },
     "examples": [
       "Kannst du Golf spielen?"
@@ -26452,9 +26446,7 @@
     "raw_word": "Ratschlag, ¨-e",
     "details": {
       "headword": "Ratschlag",
-      "conjugation": [
-        "¨-e"
-      ],
+      "plural": "¨-e",
       "derived_from": "raten"
     },
     "examples": [
