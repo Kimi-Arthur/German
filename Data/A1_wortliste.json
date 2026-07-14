@@ -436,11 +436,11 @@
   },
   {
     "id": "der Apfel",
-    "raw_word": "der Apfel, -Ä",
+    "raw_word": "der Apfel, ¨-",
     "details": {
       "article": "der",
       "headword": "Apfel",
-      "plural": "-Ä"
+      "plural": "¨-"
     },
     "examples": [
       "Ein Pfund Äpfel bitte."
@@ -1480,11 +1480,11 @@
   },
   {
     "id": "der Bruder",
-    "raw_word": "der Bruder, -ü",
+    "raw_word": "der Bruder, ¨-",
     "details": {
       "article": "der",
       "headword": "Bruder",
-      "plural": "-ü"
+      "plural": "¨-"
     },
     "examples": [
       "Sein Bruder arbeitet auch hier."
@@ -4297,11 +4297,11 @@
   },
   {
     "id": "der Laden",
-    "raw_word": "der Laden, -ä",
+    "raw_word": "der Laden, ¨-",
     "details": {
       "article": "der",
       "headword": "Laden",
-      "plural": "-ä"
+      "plural": "¨-"
     },
     "examples": [
       "Im Buchladen können Sie Bücher kaufen."
@@ -4953,11 +4953,11 @@
   },
   {
     "id": "die Mutter",
-    "raw_word": "die Mutter, -ü",
+    "raw_word": "die Mutter, ¨-",
     "details": {
       "article": "die",
       "headword": "Mutter",
-      "plural": "-ü"
+      "plural": "¨-"
     },
     "examples": [
       "Frau Berghäuser ist die Mutter von Michaela."
@@ -6612,11 +6612,11 @@
   },
   {
     "id": "die Tochter",
-    "raw_word": "die Tochter, -ö",
+    "raw_word": "die Tochter, ¨-",
     "details": {
       "article": "die",
       "headword": "Tochter",
-      "plural": "-ö"
+      "plural": "¨-"
     },
     "examples": [
       "Das ist meine Tochter Katharina."
@@ -6860,11 +6860,11 @@
   },
   {
     "id": "der Vater",
-    "raw_word": "der Vater, -ä",
+    "raw_word": "der Vater, ¨-",
     "details": {
       "article": "der",
       "headword": "Vater",
-      "plural": "-ä"
+      "plural": "¨-"
     },
     "examples": [
       "Mein Vater ist Arbeiter."

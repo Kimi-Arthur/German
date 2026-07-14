@@ -169,6 +169,8 @@ def split_examples(examples_str):
 def parse_word_details(raw_word):
     # Normalize plural formatting like "-ä, e" to "¨-e"
     raw_word = re.sub(r',\s*-([äöüÄÖÜ]),\s*([a-z]+)\b', r', ¨-\2', raw_word)
+    # Normalize single umlaut plural like "-ä" to "¨-"
+    raw_word = re.sub(r',\s*-([äÄöÖüÜ])\b', r', ¨-', raw_word)
     
     result = {
         "article": None,
@@ -569,8 +571,9 @@ def deep_replace_dashes(obj):
 def apply_general_rules(entry):
     raw = entry.get("raw_word", "")
     if raw:
-        entry["raw_word"] = re.sub(r',\s*-([äöüÄÖÜ]),\s*([a-z]+)\b', r', ¨-\2', raw)
-        raw = entry["raw_word"]
+        raw = re.sub(r',\s*-([äöüÄÖÜ]),\s*([a-z]+)\b', r', ¨-\2', raw)
+        raw = re.sub(r',\s*-([äÄöÖüÜ])\b', r', ¨-', raw)
+        entry["raw_word"] = raw
         
     details = entry.get("details", {})
     
