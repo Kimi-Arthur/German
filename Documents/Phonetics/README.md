@@ -59,7 +59,12 @@
 
 #### 发音比较 [a:] - [a]:
 
-| da -- dann | <audio controls src="audios/0bebed_da-dann.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Maat -- matt | <audio controls src="audios/8784ba_Maat-matt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Tat -- Takt | <audio controls src="audios/4c4f68_Tat-Takt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Bahn -- Bann | <audio controls src="audios/30cec3_Bahn-Bann.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| da -- dann | <audio controls src="audios/0bebed_da-dann.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Maat -- matt | <audio controls src="audios/8784ba_Maat-matt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Tat -- Takt | <audio controls src="audios/4c4f68_Tat-Takt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Bahn -- Bann | <audio controls src="audios/30cec3_Bahn-Bann.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [e:] - [ɛ] <audio controls src="audios/5951d0_e-long-ɛ.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -73,7 +78,12 @@
 
 #### 发音比较 [e:] - [ɛ]:
 
-| den -- denn | <audio controls src="audios/5dd9fd_den-denn.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | wen -- wenn | <audio controls src="audios/fc0374_wen-wenn.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | gebe -- Ebbe | <audio controls src="audios/e9963d_gebe-Ebbe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | nehme -- nenne | <audio controls src="audios/0c0d5a_nehme-nenne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| den -- denn | <audio controls src="audios/5dd9fd_den-denn.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| wen -- wenn | <audio controls src="audios/fc0374_wen-wenn.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| gebe -- Ebbe | <audio controls src="audios/e9963d_gebe-Ebbe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| nehme -- nenne | <audio controls src="audios/0c0d5a_nehme-nenne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [u:] - [u] <audio controls src="audios/e6a5af_u-long-u.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -85,7 +95,12 @@
 
 #### 发音比较 [u:] - [u]:
 
-| du -- dumm | <audio controls src="audios/686778_du-dumm.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | nun -- Nuss | <audio controls src="audios/fd6efa_nun-Nuss.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kuhn -- Kunde | <audio controls src="audios/c7938a_Kuhn-Kunde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Huhn -- und | <audio controls src="audios/935075_Huhn-und.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| du -- dumm | <audio controls src="audios/686778_du-dumm.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| nun -- Nuss | <audio controls src="audios/fd6efa_nun-Nuss.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kuhn -- Kunde | <audio controls src="audios/c7938a_Kuhn-Kunde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Huhn -- und | <audio controls src="audios/935075_Huhn-und.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [i:] - [i] <audio controls src="audios/d3001e_i-long-i.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -99,7 +114,12 @@
 
 #### 发音比较 [i:] - [i]:
 
-| ihm -- im | <audio controls src="audios/f4b496_ihm-im.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Miete -- Mitte | <audio controls src="audios/70a973_Miete-Mitte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | bieten -- bitten | <audio controls src="audios/28372e_bieten-bitten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Mine -- Minne | <audio controls src="audios/3ee494_Mine-Minne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| ihm -- im | <audio controls src="audios/f4b496_ihm-im.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Miete -- Mitte | <audio controls src="audios/70a973_Miete-Mitte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| bieten -- bitten | <audio controls src="audios/28372e_bieten-bitten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Mine -- Minne | <audio controls src="audios/3ee494_Mine-Minne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [o:] - [ɔ] <audio controls src="audios/1d2106_o-long-ɔ.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -112,7 +132,12 @@
 
 #### 发音比较 [o:] - [ɔ]:
 
-| Ofen -- offen | <audio controls src="audios/28971b_Ofen-offen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Ton -- Tonne | <audio controls src="audios/ca20ae_Ton-Tonne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Sohn -- Sonne | <audio controls src="audios/665fa1_Sohn-Sonne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Hof -- hoffen | <audio controls src="audios/d0f1b5_Hof-hoffen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Ofen -- offen | <audio controls src="audios/28971b_Ofen-offen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Ton -- Tonne | <audio controls src="audios/ca20ae_Ton-Tonne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Sohn -- Sonne | <audio controls src="audios/665fa1_Sohn-Sonne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Hof -- hoffen | <audio controls src="audios/d0f1b5_Hof-hoffen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [p] - [b] <audio controls src="audios/9a10b8_p-b.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -125,7 +150,12 @@
 
 #### 发音比较 [p] - [b]:
 
-| Post -- Boss | <audio controls src="audios/125f37_Post-Boss.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Plus -- bloß | <audio controls src="audios/5f35e9_Plus-blosz.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | taub -- Taube | <audio controls src="audios/48a59c_taub-Taube.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Pass -- Bass | <audio controls src="audios/bc9db5_Pass-Bass.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Post -- Boss | <audio controls src="audios/125f37_Post-Boss.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Plus -- bloß | <audio controls src="audios/5f35e9_Plus-blosz.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| taub -- Taube | <audio controls src="audios/48a59c_taub-Taube.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Pass -- Bass | <audio controls src="audios/bc9db5_Pass-Bass.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [t] - [d] <audio controls src="audios/a11096_t-d.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -141,7 +171,12 @@
 
 #### 发音比较 [t] - [d]:
 
-| Bitte -- Kunde | <audio controls src="audios/63db19_Bitte-Kunde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Ente -- Ende | <audio controls src="audios/e5454b_Ente-Ende.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | tun -- dumm | <audio controls src="audios/f9199a_tun-dumm.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Wind -- Winde | <audio controls src="audios/384263_Wind-Winde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Bitte -- Kunde | <audio controls src="audios/63db19_Bitte-Kunde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Ente -- Ende | <audio controls src="audios/e5454b_Ente-Ende.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| tun -- dumm | <audio controls src="audios/f9199a_tun-dumm.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Wind -- Winde | <audio controls src="audios/384263_Wind-Winde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [k] - [g] <audio controls src="audios/6cf66d_k-g.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -154,7 +189,12 @@
 
 #### 发音比较 [k] - [g]:
 
-| Komma -- Gamma | <audio controls src="audios/570b55_Komma-Gamma.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kitt -- Gift | <audio controls src="audios/a5af2e_Kitt-Gift.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Tag -- Tage | <audio controls src="audios/318124_Tag-Tage.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kasse -- Gasse | <audio controls src="audios/e6f65f_Kasse-Gasse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Komma -- Gamma | <audio controls src="audios/570b55_Komma-Gamma.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kitt -- Gift | <audio controls src="audios/a5af2e_Kitt-Gift.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Tag -- Tage | <audio controls src="audios/318124_Tag-Tage.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kasse -- Gasse | <audio controls src="audios/e6f65f_Kasse-Gasse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [m] - [n] <audio controls src="audios/db8b2b_m-n.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -167,7 +207,12 @@
 
 #### 发音比较 [m] - [n]:
 
-| Minne -- nennen | <audio controls src="audios/16441d_Minne-nennen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Miete -- Niete | <audio controls src="audios/716144_Miete-Niete.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kamm -- kann | <audio controls src="audios/8cba42_Kamm-kann.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Mut -- Not | <audio controls src="audios/384a33_Mut-Not.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Minne -- nennen | <audio controls src="audios/16441d_Minne-nennen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Miete -- Niete | <audio controls src="audios/716144_Miete-Niete.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kamm -- kann | <audio controls src="audios/8cba42_Kamm-kann.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Mut -- Not | <audio controls src="audios/384a33_Mut-Not.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [s] - [z] <audio controls src="audios/b4c311_s-z.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -180,7 +225,12 @@
 
 #### 发音比较 [s] - [z]:
 
-| dies -- diese | <audio controls src="audios/cddb94_dies-diese.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Hans -- Hansa | <audio controls src="audios/9f3244_Hans-Hansa.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kasse -- Gase | <audio controls src="audios/2c8f7f_Kasse-Gase.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Tasse -- These | <audio controls src="audios/7e5289_Tasse-These.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| dies -- diese | <audio controls src="audios/cddb94_dies-diese.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Hans -- Hansa | <audio controls src="audios/9f3244_Hans-Hansa.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kasse -- Gase | <audio controls src="audios/2c8f7f_Kasse-Gase.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Tasse -- These | <audio controls src="audios/7e5289_Tasse-These.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [f] - [v] <audio controls src="audios/d9884c_f-v.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -195,7 +245,12 @@
 
 #### 发音比较 [f] - [v]:
 
-| Fest -- West | <audio controls src="audios/e958a3_Fest-West.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Vieh -- wie | <audio controls src="audios/fbbce1_Vieh-wie.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Phase -- Vase | <audio controls src="audios/bdd905_Phase-Vase.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Fass -- was | <audio controls src="audios/5a43e9_Fass-was.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Fest -- West | <audio controls src="audios/e958a3_Fest-West.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Vieh -- wie | <audio controls src="audios/fbbce1_Vieh-wie.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Phase -- Vase | <audio controls src="audios/bdd905_Phase-Vase.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Fass -- was | <audio controls src="audios/5a43e9_Fass-was.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 ---
 
@@ -217,7 +272,12 @@
 
 #### 发音比较 [ai] - [i:]:
 
-| sei -- sie | <audio controls src="audios/735ff6_sei-sie.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Seite -- sieben | <audio controls src="audios/c48314_Seite-sieben.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | deine -- Miete | <audio controls src="audios/4c6b9a_deine-Miete.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Weise -- Wiese | <audio controls src="audios/a47b71_Weise-Wiese.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| sei -- sie | <audio controls src="audios/735ff6_sei-sie.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Seite -- sieben | <audio controls src="audios/c48314_Seite-sieben.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| deine -- Miete | <audio controls src="audios/4c6b9a_deine-Miete.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Weise -- Wiese | <audio controls src="audios/a47b71_Weise-Wiese.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ao] - [ai] <audio controls src="audios/b53802_ao-ai.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -227,7 +287,12 @@
 
 #### 发音比较 [ao] - [ai]:
 
-| Haus -- heiß | <audio controls src="audios/90aeff_Haus-heisz.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | kaum -- Keim | <audio controls src="audios/fd0b62_kaum-Keim.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | aus -- Eis | <audio controls src="audios/c2efe2_aus-Eis.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Maus -- Mais | <audio controls src="audios/78eded_Maus-Mais.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Haus -- heiß | <audio controls src="audios/90aeff_Haus-heisz.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| kaum -- Keim | <audio controls src="audios/fd0b62_kaum-Keim.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| aus -- Eis | <audio controls src="audios/c2efe2_aus-Eis.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Maus -- Mais | <audio controls src="audios/78eded_Maus-Mais.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ao] - [ɔy] <audio controls src="audios/efb2ae_au-ɔy.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -238,7 +303,12 @@
 
 #### 发音比较 [ao] - [ɔy]:
 
-| Baum -- Bäume | <audio controls src="audios/83dea6_Baum-Baeume.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kauf -- Käufe | <audio controls src="audios/ba37bf_Kauf-Kaeufe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Maus -- Mäuse | <audio controls src="audios/4b0c59_Maus-Maeuse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Raum -- Räume | <audio controls src="audios/522a8c_Raum-Raeume.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Baum -- Bäume | <audio controls src="audios/83dea6_Baum-Baeume.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kauf -- Käufe | <audio controls src="audios/ba37bf_Kauf-Kaeufe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Maus -- Mäuse | <audio controls src="audios/4b0c59_Maus-Maeuse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Raum -- Räume | <audio controls src="audios/522a8c_Raum-Raeume.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ɛ:] - [ɛ] <audio controls src="audios/47198a_ɛ-long-ɛ.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -250,7 +320,12 @@
 
 #### 发音比较 [ɛ:] - [ɛ]:
 
-| Säge -- Säcke | <audio controls src="audios/52362e_Säge-Säcke.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Häfen -- hätte | <audio controls src="audios/b5aaec_Häfen-hätten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | wähnen -- Wände | <audio controls src="audios/3afe66_wähnen-Wände.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | gähnen -- Gäste | <audio controls src="audios/bd8c77_gähnen-Gäste.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Säge -- Säcke | <audio controls src="audios/52362e_Säge-Säcke.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Häfen -- hätte | <audio controls src="audios/b5aaec_Häfen-hätten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| wähnen -- Wände | <audio controls src="audios/3afe66_wähnen-Wände.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| gähnen -- Gäste | <audio controls src="audios/bd8c77_gähnen-Gäste.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ø:] - [œ] <audio controls src="audios/9f1df0_ø-long-œ.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -262,7 +337,12 @@
 
 #### 发音比较 [ø:] - [œ]:
 
-| böse -- könne | <audio controls src="audios/e1d4c5_böse-könne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Öfen -- öffnen | <audio controls src="audios/2b1d21_Öfen-öffnen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | fönen -- könnte | <audio controls src="audios/74ad57_fönen-könnte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Söhne -- Göttin | <audio controls src="audios/7cf3db_Söhne-Göttin.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| böse -- könne | <audio controls src="audios/e1d4c5_böse-könne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Öfen -- öffnen | <audio controls src="audios/2b1d21_Öfen-öffnen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| fönen -- könnte | <audio controls src="audios/74ad57_fönen-könnte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Söhne -- Göttin | <audio controls src="audios/7cf3db_Söhne-Göttin.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [y:] - [Y] <audio controls src="audios/55c310_y-long-Y.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -276,7 +356,12 @@
 
 #### 发音比较 [y:] - [Y]:
 
-| Füße -- fünf | <audio controls src="audios/57df15_Füße-fünf.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Bühne -- Bünde | <audio controls src="audios/3a439f_Bühne-Bünde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | müde -- Mücke | <audio controls src="audios/a137da_müde-Mücke.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Hüte -- Hütte | <audio controls src="audios/0754d7_Hüte-Hütte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Füße -- fünf | <audio controls src="audios/57df15_Füße-fünf.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Bühne -- Bünde | <audio controls src="audios/3a439f_Bühne-Bünde.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| müde -- Mücke | <audio controls src="audios/a137da_müde-Mücke.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Hüte -- Hütte | <audio controls src="audios/0754d7_Hüte-Hütte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [n] - [l] <audio controls src="audios/16c32c_n-l.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -289,7 +374,12 @@
 
 #### 发音比较 [n] - [l]:
 
-| nahm -- langsam | <audio controls src="audios/8b1d53_nahm-langsam.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Name -- Lampe | <audio controls src="audios/f6eb3e_Name-Lampe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | neben -- leben | <audio controls src="audios/359e5f_neben-leben.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Neid -- Leid | <audio controls src="audios/71692b_Neid-Leid.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| nahm -- langsam | <audio controls src="audios/8b1d53_nahm-langsam.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Name -- Lampe | <audio controls src="audios/f6eb3e_Name-Lampe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| neben -- leben | <audio controls src="audios/359e5f_neben-leben.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Neid -- Leid | <audio controls src="audios/71692b_Neid-Leid.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [r] - [l] <audio controls src="audios/76b3d1_r-l.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -301,7 +391,12 @@
 
 #### 发音比较 [r] - [l]:
 
-| Regen -- legen | <audio controls src="audios/4399a3_Regen-legen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Raub -- Laub | <audio controls src="audios/a8c6df_Raub-Laub.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Raten -- laden | <audio controls src="audios/0a341b_Raten-laden.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | reiten -- leiten | <audio controls src="audios/2affdc_reiten-leiten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Regen -- legen | <audio controls src="audios/4399a3_Regen-legen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Raub -- Laub | <audio controls src="audios/a8c6df_Raub-Laub.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Raten -- laden | <audio controls src="audios/0a341b_Raten-laden.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| reiten -- leiten | <audio controls src="audios/2affdc_reiten-leiten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ts] - [s] <audio controls src="audios/ef8aa1_ts-s.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> , [ts] - [z] <audio controls src="audios/af1d2c_ts-z.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -316,11 +411,21 @@
 
 #### 发音比较 [ts] - [s]:
 
-| kurz -- Kurs | <audio controls src="audios/5b1680_kurz-Kurs.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Katze -- Kasse | <audio controls src="audios/483d47_Katze-Kasse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Witze -- Wissen | <audio controls src="audios/c3048c_Witze-Wissen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Potsdam -- Postamt | <audio controls src="audios/d1d49c_Potsdam-Postamt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| kurz -- Kurs | <audio controls src="audios/5b1680_kurz-Kurs.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Katze -- Kasse | <audio controls src="audios/483d47_Katze-Kasse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Witze -- Wissen | <audio controls src="audios/c3048c_Witze-Wissen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Potsdam -- Postamt | <audio controls src="audios/d1d49c_Potsdam-Postamt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### 发音比较 [ts] - [z]:
 
-| Zahl -- Saal | <audio controls src="audios/ff9003_Zahl-Saal.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Zoll -- Soll | <audio controls src="audios/27155c_Zoll-Soll.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Ziele -- Seele | <audio controls src="audios/533601_Ziele-Seele.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | zählen -- Säle | <audio controls src="audios/7e8df9_zählen-Säle.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Zahl -- Saal | <audio controls src="audios/ff9003_Zahl-Saal.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Zoll -- Soll | <audio controls src="audios/27155c_Zoll-Soll.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Ziele -- Seele | <audio controls src="audios/533601_Ziele-Seele.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| zählen -- Säle | <audio controls src="audios/7e8df9_zählen-Säle.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ks] <audio controls src="audios/0e6030_ks.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -332,7 +437,12 @@
 
 #### 发音比较 [ks]:
 
-| Fuchspelz -- Wechselkurs | <audio controls src="audios/ffd0fe_Fuchspelz-Wechselkurs.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Axt -- Achse | <audio controls src="audios/f13dac_Axt-Achse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | fix -- Fax | <audio controls src="audios/9eaba9_fix-Fax.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | sechs -- Taxis | <audio controls src="audios/652452_sechs-Taxis.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Fuchspelz -- Wechselkurs | <audio controls src="audios/ffd0fe_Fuchspelz-Wechselkurs.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Axt -- Achse | <audio controls src="audios/f13dac_Axt-Achse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| fix -- Fax | <audio controls src="audios/9eaba9_fix-Fax.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| sechs -- Taxis | <audio controls src="audios/652452_sechs-Taxis.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [x] - [ç] <audio controls src="audios/be94ef_x-ç.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -345,7 +455,12 @@
 
 #### 发音比较 [x] - [ç]:
 
-| Tuch -- weich | <audio controls src="audios/5219c4_Tuch-weich.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Nacht -- Nächte | <audio controls src="audios/58c517_Nacht-Nächte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Loch -- leicht | <audio controls src="audios/88caf1_Loch-leicht.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Fach -- Fächer | <audio controls src="audios/e73160_Fach-Fächer.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Tuch -- weich | <audio controls src="audios/5219c4_Tuch-weich.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Nacht -- Nächte | <audio controls src="audios/58c517_Nacht-Nächte.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Loch -- leicht | <audio controls src="audios/88caf1_Loch-leicht.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Fach -- Fächer | <audio controls src="audios/e73160_Fach-Fächer.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 ---
 
@@ -367,11 +482,20 @@
 
 #### 发音比较 [ʃ] - [s]:
 
-| Busch -- Bus | <audio controls src="audios/d3d22a_Busch-Bus.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Tasche -- Tasse | <audio controls src="audios/4c8b5e_Tasche-Tasse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Menschen -- Messe | <audio controls src="audios/c8b107_Menschen-Messe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Schall -- Sandwich | <audio controls src="audios/42f229_Schall-Sandwich.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Busch -- Bus | <audio controls src="audios/d3d22a_Busch-Bus.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Tasche -- Tasse | <audio controls src="audios/4c8b5e_Tasche-Tasse.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Menschen -- Messe | <audio controls src="audios/c8b107_Menschen-Messe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Schall -- Sandwich | <audio controls src="audios/42f229_Schall-Sandwich.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### 发音比较 [ʃ] - [tʃ]:
 
-| waschen -- quatschen | <audio controls src="audios/628ed5_waschen-quatschen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Wunsch -- Rutsch | <audio controls src="audios/8a4a01_Wunsch-Rutsch.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | zwischen -- zwitschern | <audio controls src="audios/d6bd84_zwischen-zwitschern.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| waschen -- quatschen | <audio controls src="audios/628ed5_waschen-quatschen.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Wunsch -- Rutsch | <audio controls src="audios/8a4a01_Wunsch-Rutsch.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| zwischen -- zwitschern | <audio controls src="audios/d6bd84_zwischen-zwitschern.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ʃt] - [st] <audio controls src="audios/144c12_ʃt-st.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -381,7 +505,12 @@
 
 #### 发音比较 [ʃ] - [s]:
 
-| Student -- Assistent | <audio controls src="audios/265de7_Student-Assistent.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Stunde -- Kunst | <audio controls src="audios/b0deba_Stunde-Kunst.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Straße -- Fenster | <audio controls src="audios/225762_Straße-Fenster.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Stress -- Lust | <audio controls src="audios/5c3a73_Stress-Lust.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Student -- Assistent | <audio controls src="audios/265de7_Student-Assistent.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Stunde -- Kunst | <audio controls src="audios/b0deba_Stunde-Kunst.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Straße -- Fenster | <audio controls src="audios/225762_Straße-Fenster.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Stress -- Lust | <audio controls src="audios/5c3a73_Stress-Lust.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ʃp] - [sp] <audio controls src="audios/553e39_schp-sp.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -391,7 +520,11 @@
 
 #### 发音比较 [ʃ] - [s]:
 
-| Sprache -- Wespe | <audio controls src="audios/e57cf1_Sprache-Wespe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | spät -- Aspekt | <audio controls src="audios/aee3b2_spät-Aspekt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Gespräch -- Respekt | <audio controls src="audios/9159a9_Gespäch-Respekt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Sprache -- Wespe | <audio controls src="audios/e57cf1_Sprache-Wespe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| spät -- Aspekt | <audio controls src="audios/aee3b2_spät-Aspekt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Gespräch -- Respekt | <audio controls src="audios/9159a9_Gespäch-Respekt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [pf] - [f] <audio controls src="audios/fb908b_pf-f.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> , [pf] - [p] <audio controls src="audios/200b33_pf-p.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -401,11 +534,21 @@
 
 #### 发音比较 [pf] - [f]:
 
-| Pferd -- fährt | <audio controls src="audios/2d6edc_Pferd-fährt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Pfand -- fand | <audio controls src="audios/e13340_Pfand-fand.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Apfel -- Affe | <audio controls src="audios/07e644_Apfel-Affe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kopf -- Kauf | <audio controls src="audios/e097e6_Kopf-Kauf.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Pferd -- fährt | <audio controls src="audios/2d6edc_Pferd-fährt.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Pfand -- fand | <audio controls src="audios/e13340_Pfand-fand.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Apfel -- Affe | <audio controls src="audios/07e644_Apfel-Affe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kopf -- Kauf | <audio controls src="audios/e097e6_Kopf-Kauf.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### 发音比较 [pf] - [p]:
 
-| Pfosten -- Posten | <audio controls src="audios/70394d_Pfosten-Posten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Pfanne -- Panne | <audio controls src="audios/c0a7ff_Pfanne-Panne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Kämpfe -- Lampe | <audio controls src="audios/dde771_Kämpfe-Lampe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Pfalz -- Platz | <audio controls src="audios/768304_Pfalz-Platz.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Pfosten -- Posten | <audio controls src="audios/70394d_Pfosten-Posten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Pfanne -- Panne | <audio controls src="audios/c0a7ff_Pfanne-Panne.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Kämpfe -- Lampe | <audio controls src="audios/dde771_Kämpfe-Lampe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Pfalz -- Platz | <audio controls src="audios/768304_Pfalz-Platz.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [kv] - [k] <audio controls src="audios/2b32f7_kv-k.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -415,7 +558,12 @@
 
 #### 发音比较 [kv] - [k]:
 
-| Quelle -- Kelle | <audio controls src="audios/883e30_Quelle-Kelle.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Quanten -- Kanten | <audio controls src="audios/606cb9_Quanten-Kanten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | quer -- kehr | <audio controls src="audios/28f487_quer-kehr.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Qual -- kahl | <audio controls src="audios/c262e0_Qual-kahl.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| Quelle -- Kelle | <audio controls src="audios/883e30_Quelle-Kelle.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Quanten -- Kanten | <audio controls src="audios/606cb9_Quanten-Kanten.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| quer -- kehr | <audio controls src="audios/28f487_quer-kehr.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Qual -- kahl | <audio controls src="audios/c262e0_Qual-kahl.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### [ŋ] - [ŋə] <audio controls src="audios/bcc3c8_ŋ-ŋə.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> , [ŋ] - [ŋk] <audio controls src="audios/b81727_ŋ-ŋk.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio>
 
@@ -425,11 +573,21 @@
 
 #### 发音比较 [ŋ] - [ŋə]:
 
-| jung -- Junge | <audio controls src="audios/5a2fa1_jung-Junge.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Ring -- Ringe | <audio controls src="audios/1148d8_Ring-Ringe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | eng -- Enge | <audio controls src="audios/77f488_eng-Enge.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | lang -- Lunge | <audio controls src="audios/ffbf07_lang-Lunge.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| jung -- Junge | <audio controls src="audios/5a2fa1_jung-Junge.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Ring -- Ringe | <audio controls src="audios/1148d8_Ring-Ringe.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| eng -- Enge | <audio controls src="audios/77f488_eng-Enge.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| lang -- Lunge | <audio controls src="audios/ffbf07_lang-Lunge.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 #### 发音比较 [ŋ] - [ŋk]:
 
-| lang -- Bank | <audio controls src="audios/8a07e0_lang-Bank.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Engels -- Enkels | <audio controls src="audios/23cbf6_Engels-Enkels.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | singen -- sinken | <audio controls src="audios/5ea463_singen-sinken.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | Gesang -- Gedanken | <audio controls src="audios/f236a2_Gesang-Gedanken.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| 比较词组 | 音频 |
+| --- | --- |
+| lang -- Bank | <audio controls src="audios/8a07e0_lang-Bank.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Engels -- Enkels | <audio controls src="audios/23cbf6_Engels-Enkels.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| singen -- sinken | <audio controls src="audios/5ea463_singen-sinken.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
+| Gesang -- Gedanken | <audio controls src="audios/f236a2_Gesang-Gedanken.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 ---
 

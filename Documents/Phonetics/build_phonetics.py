@@ -238,6 +238,19 @@ def table_to_md(table_node):
     if not rows:
         return ""
     
+    # Check if table is a comparison table (containing comparison pairs like 'word1 -- word2')
+    is_comparison = any('--' in node_to_md_cell(c) or '—' in node_to_md_cell(c) for tr in rows for c in tr.children if isinstance(c, Node) and c.tag in ('th', 'td'))
+    
+    if is_comparison:
+        md_rows = ["| 比较词组 | 音频 |", "| --- | --- |"]
+        for tr in rows:
+            cells = [c for c in tr.children if isinstance(c, Node) and c.tag in ('th', 'td')]
+            for cell in cells:
+                txt, aud = split_cell_text_and_audio(cell)
+                if txt or aud:
+                    md_rows.append(f"| {txt if txt else ' '} | {aud if aud else ' '} |")
+        return "\n".join(md_rows) + "\n\n"
+    
     md_rows = []
     for i, tr in enumerate(rows):
         cells = [c for c in tr.children if isinstance(c, Node) and c.tag in ('th', 'td')]
