@@ -177,6 +177,53 @@ def node_to_md_cell(node):
     
     return cell_str
 
+def split_cell_text_and_audio(cell_node):
+    """
+    Extracts text and audio tags separately from a table cell node.
+    Returns (text_result, audio_result)
+    """
+    texts = []
+    audios = []
+    
+    def walk(n):
+        if isinstance(n, str):
+            t = n.replace('\n', ' ').strip()
+            t = re.sub(r'^\s*,\s*', '', t).strip()
+            if t and t != ',':
+                texts.append(t)
+            return
+        
+        tag = n.tag
+        if tag == 'audio':
+            audio_src = ""
+            for c in n.children:
+                if isinstance(c, Node) and c.tag == 'source':
+                    audio_src = c.attrs.get('src', '')
+                    break
+            if not audio_src:
+                audio_src = n.attrs.get('src', '')
+            if audio_src:
+                rel_audio = get_audio_relpath(audio_src)
+                audios.append(f'<audio controls src="{rel_audio}" style="height:24px;width:110px;vertical-align:middle;"></audio>')
+            return
+        
+        if tag in ('img', 'script', 'style', 'source'):
+            return
+        
+        for c in n.children:
+            walk(c)
+
+    walk(cell_node)
+    
+    text_result = "<br>".join(texts)
+    text_result = re.sub(r'(?:<br>)+', '<br>', text_result).strip()
+    text_result = text_result.replace('|', '\\|')
+    
+    audio_result = "<br>".join(audios)
+    audio_result = audio_result.replace('|', '\\|')
+    
+    return text_result, audio_result
+
 def table_to_md(table_node):
     rows = []
     def collect_tr(n):
@@ -195,20 +242,26 @@ def table_to_md(table_node):
     for i, tr in enumerate(rows):
         cells = [c for c in tr.children if isinstance(c, Node) and c.tag in ('th', 'td')]
         cell_texts = []
+        is_header_row = (i == 0 and any(c.tag == 'th' for c in cells) and not any('<audio' in node_to_md_cell(c) for c in cells))
+        
         for cell in cells:
-            txt = node_to_md_cell(cell).strip()
-            txt = re.sub(r'\s+', ' ', txt)
-            # List one example per line in markdown table cells
-            if '<audio' in txt:
-                txt = re.sub(r'\s*,\s*', '<br>', txt)
-                txt = re.sub(r'</audio>\s+', '</audio><br>', txt)
-                txt = re.sub(r'(?:<br>)+', '<br>', txt).rstrip('<br>').strip()
-            txt = txt.replace('|', '\\|')
-            cell_texts.append(txt)
+            txt, aud = split_cell_text_and_audio(cell)
+            if is_header_row:
+                cell_texts.append(txt if txt else " ")
+                if txt == "发音":
+                    cell_texts.append("音频")
+                elif txt == "例词":
+                    cell_texts.append("例词音频")
+                elif aud:
+                    cell_texts.append("音频")
+            else:
+                cell_texts.append(txt if txt else " ")
+                if aud:
+                    cell_texts.append(aud)
         
         if cell_texts:
             md_rows.append("| " + " | ".join(cell_texts) + " |")
-            if i == 0:
+            if is_header_row:
                 divider = "| " + " | ".join(["---"] * len(cell_texts)) + " |"
                 md_rows.append(divider)
             
