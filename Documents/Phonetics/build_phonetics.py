@@ -1,0 +1,552 @@
+import os
+import re
+import ssl
+import urllib.request
+import urllib.parse
+import hashlib
+from concurrent.futures import ThreadPoolExecutor
+from html.parser import HTMLParser
+
+ctx = ssl._create_unverified_context()
+
+BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+AUDIO_DIR = os.path.join(BASE_DIR, "audios")
+IMG_DIR = os.path.join(BASE_DIR, "img")
+
+os.makedirs(AUDIO_DIR, exist_ok=True)
+os.makedirs(IMG_DIR, exist_ok=True)
+
+URLS = [
+    ("01_德语字母表", "模块01 - 第01讲 - 德语字母表", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653134238d21efc1dc331e/5f653134238d21efc1dc331d"),
+    ("02_德语发音规则（一）", "模块01 - 第02讲 - 德语发音规则（一）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653474238d21efc1dc3320/5f653474238d21efc1dc331f"),
+    ("03_德语发音规则（二）", "模块01 - 第03讲 - 德语发音规则（二）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653b57dd0f7d0b86fcec26/5f653b57dd0f7d0b86fcec25"),
+    ("04_德语发音规则（三）", "模块01 - 第04讲 - 德语发音规则（三）", "https://sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653c48dd0f7d0b86fcec28/5f653c48dd0f7d0b86fcec27")
+]
+
+url_to_local_audio = {}
+url_to_local_img = {}
+
+def get_audio_relpath(src_url):
+    if not src_url:
+        return ""
+    abs_url = urllib.parse.urljoin("https://www.sharplingo.cn", src_url)
+    if abs_url in url_to_local_audio:
+        return url_to_local_audio[abs_url]
+    
+    parsed = urllib.parse.urlparse(abs_url)
+    filename = os.path.basename(parsed.path)
+    if not filename or not (filename.endswith('.mp3') or filename.endswith('.ogg') or filename.endswith('.wav')):
+        filename = 'audio.mp3'
+    
+    url_hash = hashlib.md5(abs_url.encode('utf-8')).hexdigest()[:6]
+    safe_filename = f"{url_hash}_{filename}"
+    rel_path = f"audios/{safe_filename}"
+    url_to_local_audio[abs_url] = rel_path
+    return rel_path
+
+def download_single_audio(abs_url):
+    rel_path = url_to_local_audio[abs_url]
+    safe_filename = os.path.basename(rel_path)
+    local_path = os.path.join(AUDIO_DIR, safe_filename)
+    
+    if not os.path.exists(local_path) or os.path.getsize(local_path) == 0:
+        parsed = urllib.parse.urlparse(abs_url)
+        quoted_path = urllib.parse.quote(parsed.path)
+        full_url = urllib.parse.urlunparse((parsed.scheme, parsed.netloc, quoted_path, parsed.params, parsed.query, parsed.fragment))
+        try:
+            req = urllib.request.Request(full_url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, context=ctx, timeout=15) as resp, open(local_path, 'wb') as f:
+                f.write(resp.read())
+        except Exception as e:
+            print(f"  Error downloading audio {full_url}: {e}")
+
+def get_img_relpath(src_url):
+    if not src_url:
+        return "img/speaker-jpg.png"
+    abs_url = urllib.parse.urljoin("https://www.sharplingo.cn", src_url)
+    if abs_url in url_to_local_img:
+        return url_to_local_img[abs_url]
+    
+    parsed = urllib.parse.urlparse(abs_url)
+    filename = os.path.basename(parsed.path) or 'speaker-jpg.png'
+    rel_path = f"img/{filename}"
+    url_to_local_img[abs_url] = rel_path
+    return rel_path
+
+def download_single_img(abs_url):
+    rel_path = url_to_local_img[abs_url]
+    filename = os.path.basename(rel_path)
+    local_path = os.path.join(IMG_DIR, filename)
+    
+    if not os.path.exists(local_path) or os.path.getsize(local_path) == 0:
+        parsed = urllib.parse.urlparse(abs_url)
+        quoted_path = urllib.parse.quote(parsed.path)
+        full_url = urllib.parse.urlunparse((parsed.scheme, parsed.netloc, quoted_path, parsed.params, parsed.query, parsed.fragment))
+        try:
+            req = urllib.request.Request(full_url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, context=ctx, timeout=15) as resp, open(local_path, 'wb') as f:
+                f.write(resp.read())
+        except Exception as e:
+            print(f"  Error downloading img {full_url}: {e}")
+
+class Node:
+    def __init__(self, tag, attrs=None):
+        self.tag = tag
+        self.attrs = dict(attrs) if attrs else {}
+        self.children = []
+
+class HTMLTreeParser(HTMLParser):
+    VOID_TAGS = {'img', 'br', 'hr', 'source', 'input', 'meta', 'link'}
+    
+    def __init__(self):
+        super().__init__()
+        self.root = Node('root')
+        self.stack = [self.root]
+
+    def handle_starttag(self, tag, attrs):
+        node = Node(tag, attrs)
+        self.stack[-1].children.append(node)
+        if tag not in self.VOID_TAGS:
+            self.stack.append(node)
+
+    def handle_endtag(self, tag):
+        if len(self.stack) > 1 and self.stack[-1].tag == tag:
+            self.stack.pop()
+
+    def handle_data(self, data):
+        if self.stack:
+            self.stack[-1].children.append(data)
+
+def node_to_html(node):
+    if isinstance(node, str):
+        return node
+    
+    tag = node.tag
+    if tag == 'root':
+        return "".join(node_to_html(c) for c in node.children)
+    
+    # Create shallow copy of attrs
+    attrs = dict(node.attrs)
+    
+    # Process audio source
+    if tag == 'source':
+        src = attrs.get('src', '')
+        if src:
+            attrs['src'] = get_audio_relpath(src)
+    
+    # Process img src
+    if tag == 'img':
+        src = attrs.get('src', '')
+        if src:
+            attrs['src'] = get_img_relpath(src)
+            style = attrs.get('style', '')
+            if 'cursor' not in style:
+                attrs['style'] = (style + ';cursor:pointer;').lstrip(';')
+    
+    attrs_str = ""
+    for k, v in attrs.items():
+        attrs_str += f' {k}="{v}"'
+        
+    if tag in HTMLTreeParser.VOID_TAGS:
+        return f"<{tag}{attrs_str}/>"
+    
+    inner = "".join(node_to_html(c) for c in node.children)
+    return f"<{tag}{attrs_str}>{inner}</{tag}>"
+
+def node_to_md_cell(node):
+    """Convert a table cell node (th/td) or header node to Markdown cell content."""
+    if isinstance(node, str):
+        return node.replace('\n', ' ').strip()
+    
+    tag = node.tag
+    if tag == 'audio':
+        audio_src = ""
+        for c in node.children:
+            if isinstance(c, Node) and c.tag == 'source':
+                audio_src = c.attrs.get('src', '')
+                break
+        if not audio_src:
+            audio_src = node.attrs.get('src', '')
+        if audio_src:
+            rel_audio = get_audio_relpath(audio_src)
+            return f' <audio controls src="{rel_audio}" style="height:24px;width:110px;vertical-align:middle;"></audio> [🔊]({rel_audio}) '
+        return ""
+    
+    if tag in ('img', 'script', 'style', 'source'):
+        return ""
+    
+    cell_str = ""
+    for c in node.children:
+        cell_str += node_to_md_cell(c)
+    
+    return cell_str
+
+def table_to_md(table_node):
+    rows = []
+    def collect_tr(n):
+        if isinstance(n, Node):
+            if n.tag == 'tr':
+                rows.append(n)
+            else:
+                for c in n.children:
+                    collect_tr(c)
+    collect_tr(table_node)
+    
+    if not rows:
+        return ""
+    
+    md_rows = []
+    for i, tr in enumerate(rows):
+        cells = [c for c in tr.children if isinstance(c, Node) and c.tag in ('th', 'td')]
+        cell_texts = []
+        for cell in cells:
+            txt = node_to_md_cell(cell).strip()
+            txt = re.sub(r'\s+', ' ', txt)
+            txt = txt.replace('|', '\\|')
+            cell_texts.append(txt)
+        
+        if cell_texts:
+            md_rows.append("| " + " | ".join(cell_texts) + " |")
+            if i == 0:
+                divider = "| " + " | ".join(["---"] * len(cell_texts)) + " |"
+                md_rows.append(divider)
+            
+    return "\n".join(md_rows) + "\n\n"
+
+def node_to_md(node):
+    if isinstance(node, str):
+        text = node.strip()
+        if text:
+            return text + " "
+        return ""
+    
+    tag = node.tag
+    if tag == 'root':
+        res = ""
+        for c in node.children:
+            res += node_to_md(c)
+        return res
+    
+    if tag in ('h1', 'h2'):
+        text = "".join(node_to_md(c) for c in node.children).strip()
+        return f"\n# {text}\n\n"
+    if tag == 'h3':
+        text = "".join(node_to_md(c) for c in node.children).strip()
+        return f"\n## {text}\n\n"
+    if tag in ('h4', 'h5', 'h6'):
+        text = node_to_md_cell(node).strip()
+        text = re.sub(r'\s+', ' ', text)
+        return f"\n### {text}\n\n"
+    if tag == 'p':
+        text = node_to_md_cell(node).strip()
+        text = re.sub(r'\s+', ' ', text)
+        if text:
+            return f"\n{text}\n\n"
+        return ""
+    if tag == 'hr':
+        return "\n---\n\n"
+    if tag == 'table':
+        return "\n" + table_to_md(node)
+    
+    if tag in ('div', 'tbody', 'thead', 'tr'):
+        res = ""
+        for c in node.children:
+            res += node_to_md(c)
+        return res
+    
+    return "".join(node_to_md(c) for c in node.children)
+
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title}</title>
+    <style>
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #212529;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+        }}
+        .container {{
+            max-width: 960px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }}
+        .nav-back {{
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #0d6efd;
+            text-decoration: none;
+            font-weight: 500;
+        }}
+        .nav-back:hover {{
+            text-decoration: underline;
+        }}
+        h1, h2, h3, h4, h5 {{
+            color: #1a2530;
+            margin-top: 1.5em;
+            margin-bottom: 0.8em;
+        }}
+        h1 {{
+            text-align: center;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 12px;
+        }}
+        table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            text-align: center;
+        }}
+        th, td {{
+            border: 1px solid #dee2e6;
+            padding: 12px;
+            vertical-align: middle;
+        }}
+        th {{
+            background-color: #f1f3f5;
+            font-weight: 600;
+        }}
+        tr:nth-child(even) {{
+            background-color: #f8f9fa;
+        }}
+        .play-audio {{
+            cursor: pointer;
+            transition: transform 0.1s ease;
+            vertical-align: middle;
+        }}
+        .play-audio:hover {{
+            transform: scale(1.15);
+        }}
+        hr {{
+            border: 0;
+            height: 1px;
+            background: #dee2e6;
+            margin: 30px 0;
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a class="nav-back" href="index.html">← 返回目录</a>
+        {content}
+    </div>
+</body>
+</html>
+"""
+
+def clean_html_comments(html):
+    return re.sub(r'<!--.*?-->', '', html, flags=re.DOTALL)
+
+parsed_pages = []
+
+for fname_prefix, title, url in URLS:
+    print(f"Fetching {title}...")
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    raw_html = urllib.request.urlopen(req, context=ctx).read().decode('utf-8')
+    
+    match = re.search(r'<div class=\"module-info-div\">(.*?)</div>\s*<footer', raw_html, re.DOTALL)
+    if not match:
+        print(f"  FAILED to find module-info-div for {title}")
+        continue
+        
+    raw_content = clean_html_comments(match.group(1))
+    raw_content = re.sub(r'<a id=\"last-page\".*?</a>', '', raw_content, flags=re.DOTALL)
+    
+    parser = HTMLTreeParser()
+    parser.feed(raw_content)
+    
+    # Pre-collect audio and image URLs to populate mapping
+    def precollect(node):
+        if isinstance(node, Node):
+            if node.tag == 'source':
+                src = node.attrs.get('src', '')
+                if src:
+                    get_audio_relpath(src)
+            elif node.tag == 'img':
+                src = node.attrs.get('src', '')
+                if src:
+                    get_img_relpath(src)
+            for c in node.children:
+                precollect(c)
+    precollect(parser.root)
+    
+    parsed_pages.append((fname_prefix, title, parser.root))
+
+print(f"\nCollected {len(url_to_local_audio)} unique audio URLs and {len(url_to_local_img)} image URLs.")
+print("Starting concurrent downloading of audio and image files...")
+
+with ThreadPoolExecutor(max_workers=16) as executor:
+    executor.map(download_single_audio, list(url_to_local_audio.keys()))
+    executor.map(download_single_img, list(url_to_local_img.keys()))
+
+print("All audio and image downloads finished!")
+
+for fname_prefix, title, root in parsed_pages:
+    print(f"Generating HTML & MD for {title}...")
+    
+    # Generate Offline HTML
+    processed_html_content = node_to_html(root)
+    full_html = HTML_TEMPLATE.format(title=title, content=processed_html_content)
+    
+    html_path = os.path.join(BASE_DIR, f"{fname_prefix}.html")
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(full_html)
+    
+    # Generate Offline Markdown
+    md_content = node_to_md(root)
+    md_content = re.sub(r'\n{3,}', '\n\n', md_content).strip()
+    
+    md_path = os.path.join(BASE_DIR, f"{fname_prefix}.md")
+    with open(md_path, 'w', encoding='utf-8') as f:
+        f.write(f"# {title}\n\n[← 返回 README 目录](README.md)\n\n" + md_content + "\n")
+
+# Create Index HTML
+INDEX_HTML = """<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>德语语音教程 (German Phonetics)</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        h1 {
+            color: #1a2530;
+            text-align: center;
+            margin-bottom: 8px;
+        }
+        p.subtitle {
+            text-align: center;
+            color: #6c757d;
+            margin-bottom: 30px;
+        }
+        .lecture-card {
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: box-shadow 0.2s ease;
+        }
+        .lecture-card:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.06);
+        }
+        .lecture-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #212529;
+        }
+        .btn-group a {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-left: 8px;
+        }
+        .btn-html {
+            background-color: #0d6efd;
+            color: white;
+        }
+        .btn-html:hover {
+            background-color: #0b5ed7;
+        }
+        .btn-md {
+            background-color: #6c757d;
+            color: white;
+        }
+        .btn-md:hover {
+            background-color: #5c636a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🇩🇪 德语发音离线教程</h1>
+        <p class="subtitle">Documents/Phonetics 离线学习课程与标准发音音频</p>
+        
+        <div class="lecture-card">
+            <div class="lecture-title">第01讲 - 德语字母表</div>
+            <div class="btn-group">
+                <a class="btn-html" href="01_德语字母表.html">HTML 版本</a>
+                <a class="btn-md" href="01_德语字母表.md">Markdown 版本</a>
+            </div>
+        </div>
+        
+        <div class="lecture-card">
+            <div class="lecture-title">第02讲 - 单元音与发音规则</div>
+            <div class="btn-group">
+                <a class="btn-html" href="02_德语发音规则（一）.html">HTML 版本</a>
+                <a class="btn-md" href="02_德语发音规则（一）.md">Markdown 版本</a>
+            </div>
+        </div>
+        
+        <div class="lecture-card">
+            <div class="lecture-title">第03讲 - 复合元音与发音规则</div>
+            <div class="btn-group">
+                <a class="btn-html" href="03_德语发音规则（二）.html">HTML 版本</a>
+                <a class="btn-md" href="03_德语发音规则（二）.md">Markdown 版本</a>
+            </div>
+        </div>
+        
+        <div class="lecture-card">
+            <div class="lecture-title">第04讲 - 辅音与发音规则</div>
+            <div class="btn-group">
+                <a class="btn-html" href="04_德语发音规则（三）.html">HTML 版本</a>
+                <a class="btn-md" href="04_德语发音规则（三）.md">Markdown 版本</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+"""
+
+with open(os.path.join(BASE_DIR, "index.html"), 'w', encoding='utf-8') as f:
+    f.write(INDEX_HTML)
+
+README_MD = """# 🇩🇪 德语发音离线教程 (German Phonetics)
+
+本教程整理自 SharpLingo 德语发音课程，已完全离线化保存，包含全部讲解内容及配套的本地音频文件。
+
+## 📂 课程目录
+
+1. **[第01讲 - 德语字母表](01_德语字母表.md)** ([HTML 版本](01_德语字母表.html))
+2. **[第02讲 - 单元音与发音规则](02_德语发音规则（一）.md)** ([HTML 版本](02_德语发音规则（一）.html))
+3. **[第03讲 - 复合元音与发音规则](03_德语发音规则（二）.md)** ([HTML 版本](03_德语发音规则（二）.html))
+4. **[第04讲 - 辅音与发音规则](04_德语发音规则（三）.md)** ([HTML 版本](04_德语发音规则（三）.html))
+
+---
+
+## 🎵 音频与素材
+- 所有语音音频文件均已安全存放在 [`audios/`](audios/) 目录下。
+- 图像与喇叭图标存放在 [`img/`](img/) 目录下。
+- 支持在 Markdown 编辑器（如 Obsidian、Typora、VS Code Preview）中直接点击音频播放器 `🔊` 播放离线发音。
+"""
+
+with open(os.path.join(BASE_DIR, "README.md"), 'w', encoding='utf-8') as f:
+    f.write(README_MD)
+
+print("All tasks completed successfully!")

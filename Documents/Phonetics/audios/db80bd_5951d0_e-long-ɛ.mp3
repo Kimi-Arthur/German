@@ -1,0 +1,1446 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <!--  -->
+        <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-GDH0Q3EQVK"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-GDH0Q3EQVK');
+        </script>
+         -->
+        <!-- Make site responsive on mobile/tablet -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Speak Now | SharpLingo</title>
+        <link rel="icon" href="/favicon.ico?v=1.1">
+        <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.css"/>
+        <link rel="stylesheet" href="/node_modules/font-awesome/css/font-awesome.css"/>
+        <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous"/> -->
+        <link rel="stylesheet" href="/node_modules/tooltipster/dist/css/tooltipster.bundle.min.css"/>
+        <link rel="stylesheet" href="/node_modules/tooltipster/dist/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-shadow.min.css"/>
+        <link rel="stylesheet" href="/node_modules/jquery-ui-dist/jquery-ui.min.css"/>
+        <link rel="stylesheet" href="/stylesheets/tempusdominus-bootstrap-4.css"/>
+        <link rel="stylesheet" href="/stylesheets/main.css"/>
+        
+        <!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"> -->
+        <script type="text/javascript" src="/node_modules/jquery/dist/jquery.min.js"></script>
+        <script type="text/javascript" src="/node_modules/jquery-ui-dist/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/node_modules/moment/min/moment.min.js"></script>
+        <script type="text/javascript" src="/node_modules/moment-timezone/builds/moment-timezone-with-data-1970-2030.min.js"></script>
+        <script type="text/javascript" src="/node_modules/chart.js/dist/Chart.min.js"></script>
+        <script type="text/javascript" src="/node_modules/popper.js/dist/umd/popper.min.js"></script>
+        <script type="text/javascript" src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/node_modules/tooltipster/dist/js/tooltipster.bundle.min.js"></script>
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script> -->
+        <script type="text/javascript" src="/javascripts/font-awesome.js"></script>
+        <script type="text/javascript" src="/javascripts/tempusdominus-bootstrap-4.js"></script>
+        <script type="text/javascript" src="/javascripts/main.js"></script>
+        <script type="text/javascript" src="/javascripts/qrcode.min.js"></script>
+        <!-- <script src="https://js.stripe.com/v3/"></script> -->
+    </head>
+    <body class="main-body">
+        <nav class="navbar navbar-expand-xl navbar-light bg-light navbar-fixed" id="nav_bar" style="justify-content: space-between;">
+            <div>
+                <a id="logo-header" class="navbar-brand text-info" href="/">
+                    <img src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/logo_rxraaq.png" style="width:33px;">
+                </a>
+                <a id="name-header" class="navbar-brand text-info" href="/" style="font-size:25px">
+                    SHARP LINGO
+                </a>
+            </div>
+            <form class="form-inline my-lg-0" id="searchForm" action="#" method="GET">
+                <div class="input-group navbar_search_form" style="width: 100%;">
+                    <input type="text" id="searchInput" name="keyword" class="form-control mr-sm-2" placeholder="搜索..." aria-label="..." style="border-radius:18px;margin-right:5px!important;">
+                    <input type="text" id="searchType" name="type" class="form-control d-none" aria-label="...">
+                    <div class="input-group-append">
+                        <div class="input-group-btn">
+                            <button type="button" class="btn btn-light my-sm-0 dropdown-toggle" id="searchBarDropDown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-search" style="color:rgba(0,0,0,0.5);"></i>
+                            </button>
+                            
+                                <div class="dropdown-menu" style="left:auto;" aria-labelledby="searchBarDropDown">
+                                    <a class="dropdown-item" href="#" id="english-chinese-link">🇺🇸→🇨🇳 英汉词典</a>
+                                    <a class="dropdown-item" href="#" id="chinese-english-link">🇨🇳→🇺🇸 汉英词典</a>
+                                    <a class="dropdown-item" href="#" id="german-chinese-link">🇩🇪→🇨🇳 德汉词典</a>
+                                    <a class="dropdown-item" href="#" id="chinese-german-link">🇨🇳→🇩🇪 汉德词典</a>
+                                    <a class="dropdown-item" href="#" id="arabic-chinese-link">🇪🇬→🇨🇳 阿汉词典</a>
+                                    <a class="dropdown-item" href="#" id="chinese-arabic-link">🇨🇳→🇪🇬 汉阿词典</a>
+                                    <a class="dropdown-item" href="#" id="french-chinese-link">🇫🇷→🇨🇳 法汉词典</a>
+                                    <a class="dropdown-item" href="#" id="chinese-french-link">🇨🇳→🇫🇷 汉法词典</a>
+                                    <a class="dropdown-item" href="#" id="spanish-chinese-link">🇪🇸→🇨🇳 西汉词典</a>
+                                    <a class="dropdown-item" href="#" id="chinese-spanish-link">🇨🇳→🇪🇸 汉西词典</a>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <script>
+                $("#searchInput").on("keyup", function(e){
+                    var queryWord = $("#searchInput").val();
+                    $("#english-chinese-link").attr("href", `/words/search-english-chinese?word=${queryWord}`)
+                    $("#chinese-english-link").attr("href", `/words/search-chinese-english?word=${queryWord}`)
+                    $("#german-chinese-link").attr("href", `/words/search-german-chinese?word=${queryWord}`)
+                    $("#chinese-german-link").attr("href", `/words/search-chinese-german?word=${queryWord}`)
+                    $("#arabic-chinese-link").attr("href", `/words/search-arabic-chinese?word=${queryWord}`)
+                    $("#chinese-arabic-link").attr("href", `/words/search-chinese-arabic?word=${queryWord}`)
+                    $("#french-chinese-link").attr("href", `/words/search-french-chinese?word=${queryWord}`)
+                    $("#chinese-french-link").attr("href", `/words/search-chinese-french?word=${queryWord}`)
+                    $("#spanish-chinese-link").attr("href", `/words/search-spanish-chinese?word=${queryWord}`)
+                    $("#chinese-spanish-link").attr("href", `/words/search-chinese-spanish?word=${queryWord}`)
+                    $("#english-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=English`)
+                    $("#german-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=German`)
+                    $("#arabic-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=Arabic`)
+                    $("#french-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=French`)
+                    $("#spanish-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=Spanish`)
+                    $("#english-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=English`)
+                    $("#german-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=German`)
+                    $("#arabic-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=Arabic`)
+                    $("#french-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=French`)
+                    $("#spanish-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=Spanish`)
+                    if(!window.location.href.includes("search-")){
+                        $("#english-chinese-link").attr("target", `_blank`)
+                        $("#chinese-english-link").attr("target", `_blank`)
+                        $("#german-chinese-link").attr("target", `_blank`)
+                        $("#chinese-german-link").attr("target", `_blank`)
+                        $("#arabic-chinese-link").attr("target", `_blank`)
+                        $("#chinese-arabic-link").attr("target", `_blank`)
+                        $("#french-chinese-link").attr("target", `_blank`)
+                        $("#chinese-french-link").attr("target", `_blank`)
+                        $("#spanish-chinese-link").attr("target", `_blank`)
+                        $("#chinese-spanish-link").attr("target", `_blank`)
+                        $("#english-note-link").attr("target", `_blank`)
+                        $("#german-note-link").attr("target", `_blank`)
+                        $("#arabic-note-link").attr("target", `_blank`)
+                        $("#french-note-link").attr("target", `_blank`)
+                        $("#spanish-note-link").attr("target", `_blank`)
+                        $("#english-lecture-link").attr("target", `_blank`)
+                        $("#german-lecture-link").attr("target", `_blank`)
+                        $("#arabic-lecture-link").attr("target", `_blank`)
+                        $("#french-lecture-link").attr("target", `_blank`)
+                        $("#spanish-lecture-link").attr("target", `_blank`)
+                    }
+                    
+                })
+                $("#searchBarDropDown").on("click", function(e){
+                    var queryWord = $("#searchInput").val();
+                    if(queryWord.trim() !== ""){
+                        $("#english-chinese-link").attr("href", `/words/search-english-chinese?word=${queryWord}`)
+                        $("#chinese-english-link").attr("href", `/words/search-chinese-english?word=${queryWord}`)
+                        $("#german-chinese-link").attr("href", `/words/search-german-chinese?word=${queryWord}`)
+                        $("#chinese-german-link").attr("href", `/words/search-chinese-german?word=${queryWord}`)
+                        $("#arabic-chinese-link").attr("href", `/words/search-arabic-chinese?word=${queryWord}`)
+                        $("#chinese-arabic-link").attr("href", `/words/search-chinese-arabic?word=${queryWord}`)
+                        $("#french-chinese-link").attr("href", `/words/search-french-chinese?word=${queryWord}`)
+                        $("#chinese-french-link").attr("href", `/words/search-chinese-french?word=${queryWord}`)
+                        $("#spanish-chinese-link").attr("href", `/words/search-spanish-chinese?word=${queryWord}`)
+                        $("#chinese-spanish-link").attr("href", `/words/search-chinese-spanish?word=${queryWord}`)
+                        $("#english-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=English`)
+                        $("#german-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=German`)
+                        $("#arabic-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=Arabic`)
+                        $("#french-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=French`)
+                        $("#spanish-note-link").attr("href", `/courses/search-note?note=${queryWord}&language=Spanish`)
+                        $("#english-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=English`)
+                        $("#german-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=German`)
+                        $("#arabic-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=Arabic`)
+                        $("#french-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=French`)
+                        $("#spanish-lecture-link").attr("href", `/courses/search-lecture?keyword=${queryWord}&language=Spanish`)
+                    }
+                    else{
+                        $("#english-chinese-link").attr("href", `#`)
+                        $("#chinese-english-link").attr("href", `#`)
+                        $("#german-chinese-link").attr("href", `#`)
+                        $("#chinese-german-link").attr("href", `#`)
+                        $("#arabic-chinese-link").attr("href", `#`)
+                        $("#chinese-arabic-link").attr("href", `#`)
+                        $("#french-chinese-link").attr("href", `#`)
+                        $("#chinese-french-link").attr("href", `#`)
+                        $("#spanish-chinese-link").attr("href", `#`)
+                        $("#chinese-spanish-link").attr("href", `#`)
+                        $("#english-note-link").attr("href", `#`)
+                        $("#german-note-link").attr("href", `#`)
+                        $("#arabic-note-link").attr("href", `#`)
+                        $("#french-note-link").attr("href", `#`)
+                        $("#spanish-note-link").attr("href", `#`)
+                        $("#english-lecture-link").attr("href", `#`)
+                        $("#german-lecture-link").attr("href", `#`)
+                        $("#arabic-lecture-link").attr("href", `#`)
+                        $("#french-lecture-link").attr("href", `#`)
+                        $("#spanish-lecture-link").attr("href", `#`)
+                        
+                        $("#english-chinese-link").attr("target", ``)
+                        $("#chinese-english-link").attr("target", ``)
+                        $("#german-chinese-link").attr("target", ``)
+                        $("#chinese-german-link").attr("target", ``)
+                        $("#arabic-chinese-link").attr("target", ``)
+                        $("#chinese-arabic-link").attr("target", ``)
+                        $("#french-chinese-link").attr("target", ``)
+                        $("#chinese-french-link").attr("target", ``)
+                        $("#spanish-chinese-link").attr("target", ``)
+                        $("#chinese-spanish-link").attr("target", ``)
+                        $("#english-note-link").attr("target", ``)
+                        $("#german-note-link").attr("target", ``)
+                        $("#arabic-note-link").attr("target", ``)
+                        $("#french-note-link").attr("target", ``)
+                        $("#spanish-note-link").attr("target", ``)
+                        $("#english-lecture-link").attr("target", ``)
+                        $("#german-lecture-link").attr("target", ``)
+                        $("#arabic-lecture-link").attr("target", ``)
+                        $("#french-lecture-link").attr("target", ``)
+                        $("#spanish-lecture-link").attr("target", ``)
+                    }
+                    
+                })
+            </script>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>     
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="max-width: 1000px;">
+                <ul class="navbar-nav ml-auto" id="global-nav-bar">
+                    
+                        <li class="dropdown nav-item">
+                            <a class="nav-link" href="/radios">
+                                外语广播
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link userRegistration" href="javascript:void(0);" >
+                                <i class="fas fa-user-plus"></i>
+                                注册
+                            </a>
+                        </li>
+                        <li class="nav-item" style="margin-right:48px;">
+                            <a class="nav-link" href="javascript:void(0);" data-toggle="modal" data-target="#loginModal">
+                                <i class="fas fa-sign-in-alt"></i>
+                                登录
+                            </a>
+                        </li>
+                    
+                </ul>       
+            </div> 
+            
+        </nav>
+        
+        
+        
+        
+
+<div class="jumbotron" style="text-align: center;">
+    
+        <h1 class="display-4" id="index-title" style="color:#5099a7">欢迎来到 SharpLingo</h1>
+    
+    
+    <h1><img src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/logo_rxraaq.png" style="width:80px;"></h1>
+    
+        <p class="lead opaque-font" id="index-subtitle">在人工智能技术的帮助下学习一门外语</p>
+    
+    <hr class="my-4">
+    <p class="opaque-font" style="font-weight: 900;">根据您的学习目标、日程计划和学习基础，我们的人工智能技术会帮您设计个性化的每日学习方案。 </p>
+    <p class="lead" style="margin-top: 5px;">
+        
+            <a class="btn jumbo-btn btn-lg userRegistration" href="javascript:void(0);" role="button">开始体验</a>
+        
+        
+        
+        <a class="btn jumbo-btn btn-lg hidden" id="load-data-from-oss" href="/load-data-from-oss" role="button">从OSS复制数据</a>
+    </p>
+</div>
+
+
+
+<div class="modal" tabindex="-1" role="dialog" id="german-teacher-modal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">跟德国外教学德语</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>SharpLingo网站作为以算法研究与开发为主的网站，并不为大家提供外教服务，但是我们会在充分的调研之后为您挑出iTalki网站上价格公道、经验丰富的德语外教。</p>
+                <hr>
+                <div class="teachers_area" style="display: flex;justify-content: space-around;flex-wrap: nowrap;">
+                    <div class="card index_card">
+                        <img class="card-img-top" src="https://nicosweg-cover.oss-cn-beijing.aliyuncs.com/5T059946160_Avatar.jpg" alt="Card image cap">
+                        <div class="card-body" style="padding: 1rem;text-align: center;">
+                            <a href="https://www.italki.com/en/teacher/5994616" target="_blank">Arty老师</a>
+                        </div>
+                    </div>
+                    <div class="card index_card">
+                        <img class="card-img-top" src="https://nicosweg-cover.oss-cn-beijing.aliyuncs.com/3T081356380_Avatar.jpg" alt="Card image cap">
+                        <div class="card-body" style="padding: 1rem;text-align: center;">
+                            <a href="https://www.italki.com/teacher/8135638" target="_blank">Katharina老师</a>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <p>Arty老师来自德国Düsseldorf，拥有德国教育学硕士学位，具有多年德语教学经验。Arty老师德语语音非常标准，没有任何方言口音，同时精通德语、英语、葡萄牙语、阿拉伯语、土耳其语，很擅长站在语言学习者的角度帮助大家提高德语能力。</p>
+                <p>Katharina老师来自德国北部，同样具有多年德语教学经验，曾在英国帮助自闭症儿童进行语言的习得。她热爱旅游和外语学习，精通英语、德语、西班牙语，性格温柔大方，非常适合初学德语不敢张口的同学们。</p>
+                <p>在您预约完Arty或者Katharina老师的课程后，建议您私信老师您想要着重辅导的点，双方沟通好上课时要准备的内容之后再去上课。</p>
+                <p>请注意，您和Arty老师之间的交易行为由iTalki平台全程操作和负责，本公司不参与其中任何的利益分配，亦不承担由该交易行为引发的任何民事纠纷或法律后果。</p>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+       // if(!window.location.href.includes("/users/settings")){
+    //     $("#scheduleModal").modal("show")
+    // }
+</script>
+
+<div class="visitor_index" style="margin-bottom: 100px;">
+    <div class="index-suggestion-box">
+        <div class="index-content visitor_course_recommendations">
+            <!-- <h3 class="visitor_recommendations_header opaque-font" style="text-align:center;font-weight: 700;">课程</h3>
+            <p style="text-align:center;" class="opaque-font">找到您想体验的课程</p> -->
+            <div class="flexthis text-center">
+                                
+                <h4>所有课程</h4>
+                
+                    <div class="courses_area" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        
+                            
+                            
+                                <div class="card index_card">
+                                    <img class="card-img-top" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/190513215824-statue-of-liberty-night-super-tease_hybgqy.jpg?x-oss-process=image/resize,h_250,w_750" alt="Card image cap">
+                                    <div class="card-body" style="padding: 1rem;">
+                                        <h5 class="card-title opaque-font-darker" style="font-size: 17px;">英语</h5>
+                                        <a href="/courses/show/5f543b6fcbbecf4bf8012850" id="5f543b6fcbbecf4bf8012850" class="btn jumbo-btn ">查看更多</a>
+                                    </div>
+                                </div>
+                            
+                        
+                            
+                            
+                                <div class="card index_card">
+                                    <img class="card-img-top" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/photo-1565689477474-36ff3b63ac6c_xevwpg.jpg?x-oss-process=image/resize,h_250,w_750" alt="Card image cap">
+                                    <div class="card-body" style="padding: 1rem;">
+                                        <h5 class="card-title opaque-font-darker" style="font-size: 17px;">阿拉伯语</h5>
+                                        <a href="/courses/show/60182fcf343d07c8ad9a2e74" id="60182fcf343d07c8ad9a2e74" class="btn jumbo-btn ">查看更多</a>
+                                    </div>
+                                </div>
+                            
+                        
+                            
+                            
+                                <div class="card index_card">
+                                    <img class="card-img-top" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/paris-street_kswsxa.jpg?x-oss-process=image/resize,h_250,w_750" alt="Card image cap">
+                                    <div class="card-body" style="padding: 1rem;">
+                                        <h5 class="card-title opaque-font-darker" style="font-size: 17px;">法语</h5>
+                                        <a href="/courses/show/60182e38343d07c8ad9a2e71" id="60182e38343d07c8ad9a2e71" class="btn jumbo-btn ">查看更多</a>
+                                    </div>
+                                </div>
+                            
+                        
+                            
+                            
+                                <!-- 
+                                    <div class="card index_card">
+                                        <img class="card-img-top" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/photo-1493976040374-85c8e12f0c0e_kue5ra.jpg" alt="Card image cap">
+                                        <div class="card-body" style="padding: 1rem;">
+                                            <h5 class="card-title opaque-font-darker" style="font-size: 17px;">日语 (开发中)</h5>
+                                            <button class="btn jumbo-btn userRegistration" type="button">通知我</button>
+                                        </div>
+                                    </div>
+                                 -->
+                            
+                        
+                            
+                            
+                                <div class="card index_card">
+                                    <img class="card-img-top" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/photo-1539037116277-4db20889f2d4_ga8zng.jpg?x-oss-process=image/resize,h_250,w_750" alt="Card image cap">
+                                    <div class="card-body" style="padding: 1rem;">
+                                        <h5 class="card-title opaque-font-darker" style="font-size: 17px;">西班牙语</h5>
+                                        <a href="/courses/show/60182ef4343d07c8ad9a2e73" id="60182ef4343d07c8ad9a2e73" class="btn jumbo-btn ">查看更多</a>
+                                    </div>
+                                </div>
+                            
+                        
+                            
+                            
+                                <div class="card index_card">
+                                    <img class="card-img-top" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/17-reasons-to-learn-German-language.._jlie36.jpg?x-oss-process=image/resize,h_250,w_750" alt="Card image cap">
+                                    <div class="card-body" style="padding: 1rem;">
+                                        <h5 class="card-title opaque-font-darker" style="font-size: 17px;">德语</h5>
+                                        <a href="/courses/show/5f4910eac5ff5bb665f0377f" id="5f4910eac5ff5bb665f0377f" class="btn jumbo-btn ">查看更多</a>
+                                    </div>
+                                </div>
+                            
+                        
+                            
+                            
+                                <!-- 
+                                    <div class="card index_card">
+                                        <img class="card-img-top" src="https://english-sharplingo.oss-cn-shanghai.aliyuncs.com/6726eca6e035d70015c4d896.jpg" alt="Card image cap">
+                                        <div class="card-body" style="padding: 1rem;">
+                                            <h5 class="card-title opaque-font-darker" style="font-size: 17px;">维吾尔语 (开发中)</h5>
+                                            <button class="btn jumbo-btn userRegistration" type="button">通知我</button>
+                                        </div>
+                                    </div>
+                                 -->
+                            
+                        
+                    
+                    </div>
+                
+                
+            </div>
+            <script>
+                $(".courses_area").on("click", ".join-waitlist", function(){
+                    var courseId = $(this).attr("id");
+                    $.ajax({
+                        url: "/courses/join-waitlist",
+                        data: {course_id: courseId},
+                        method: "POST"
+                    }).done(function(dat){
+                        window.location = `/`
+                    })
+                })
+            </script>
+        </div>
+    </div>
+</div>
+
+    <footer id="footer">
+        <div class="footer_info">
+            <div class="footer_company footer_div">
+                <p class="text-muted footer_title"><strong>关于我们</strong></p>
+                <div>
+                    <a class="text-muted" href="/about?language=Chinese" style="margin-right:15px;">服务简介</a>
+                    <a class="text-muted" href="/faq?language=Chinese">常见问题</a>
+                </div>
+            </div>
+            <div class="footer_social footer_div">
+                <p class="text-muted footer_title"><strong>联系我们</strong></p>
+                <a class="text-muted" target="_blank" href="https://www.zhihu.com/org/sharplingo"><img src="https://nicosweg-cover.oss-cn-beijing.aliyuncs.com/zhihu_logo.png" style="width:16px;"></a>
+                <a class="text-muted" target="_blank" href="https://space.bilibili.com/313775897"><img src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/1224389_uiyy4i.png" style="width:16px;"></a>
+                <a class="text-muted" href="/"><img src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/unnamed-file_sjzrtc.png" style="width:18px;"></a>
+                <br>
+                <br class="footerAdjustment2">
+                <a class="text-muted footerAdjustment"><i class="far fa-envelope" style="vertical-align:-2px;"></i> hello@sharplingo.cn</a>
+            </div>
+            <div class="footer_legalDocs footer_div_last">
+                <p class="text-muted footer_title"><strong>隐私及条款</strong></p>
+                <a class="text-muted" href="/legal/terms?language=Chinese">服务条款</a>
+                <a class="text-muted footerAdjustment" href="/legal/privacy?language=Chinese">隐私政策</a>
+                <a class="text-muted" href="/legal/cookies?language=Chinese">Cookie政策</a>
+            </div>
+        </div>
+        <div class="footer_copyright" style="line-height: 4">
+            <p class="text-muted footer_title"></p>
+            <a class="text-muted">Copyright © 2026 SharpLingo</a> <br> <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=62010202003105" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/备案图标.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">甘公网安备 62010202003105号</p></a> <a target="_blank" href="https://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">陇ICP备2021000492号-1</p></a>
+        </div>
+        </footer>
+        <div class="modal" tabindex="-1" role="dialog" id="save-sentence-modal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">保存句子</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form id="save-sentence-form">
+                    <input type="text" class="hidden" name="sentenceId" id="sentence-to-save">
+                    <div class="modal-body">
+                        <p>句子内容：</p>
+                        <p id="sentence-text"></p>
+                        <hr>
+                        <div class="note-div">
+                            <textarea class="form-control" id="save-sentence-note-textarea" placeholder="在这里输入备注……" name="note" cols="30" rows="10"></textarea>
+                        </div>
+                        <hr>
+                        <p class="tags-div">请选择一个标签：</p>
+                        <div id="sentence-tags-div" style="margin: 30px;min-height: 40px;">
+
+                        </div>
+                        <div class="tags-div">
+                            <input type="text" class="form-control mr-sm-2" style="border-radius:18px;margin-right:5px!important;" id="new-tag-input" placeholder="在这里输入新标签……">
+                        </div>
+                        <button id="add-tag-btn" type="button" class="btn btn-sm btn-secondary mt-2">手动添加新标签</button>
+                        <div class="alert alert-success hidden mt-2" id="saved-sentences" role="alert">
+                            该句子已被成功保存，您可以点击网站页面顶部的心形按钮查看和管理所有您保存过的例句。
+                        </div>
+                        <div class="alert alert-danger hidden mt-2" id="saved-sentences-error" role="alert">
+                            很抱歉，您不可以将一个句子以同样的标签保存两次，您可以点击网站页面顶部的心形按钮查看和管理所有您保存过的例句。
+                        </div>
+                        <div class="alert alert-danger hidden mt-2" id="saved-sentences-error-null-tag" role="alert">
+                            保存句子时必须要选择一个标签，如果没有合适的标签，您可以选择手动添加新标签。常用的标签有“打招呼”、“自我介绍”、“购物”、“邮件”、“询问价格”、“非谓语动词”、“倒装句”、“虚拟式”等等。
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary" type="button" id="submit-save-sentence-btn">保存</button>
+                        <button type="button" class="btn btn-secondary" id="close-reset-word" data-dismiss="modal">关闭</button>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+        <div class="modal" tabindex="-1" role="dialog" id="save-question-modal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">保存问题</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form id="save-question-form">
+                    <input type="text" class="hidden" name="reportId" id="question-to-save">
+                    <div class="modal-body">
+                        <p>问题：<span id="question-text"></span></p>
+                        
+                        <hr>
+                        <p class="tags-div">请选择一个标签：</p>
+                        <div id="question-tags-div" style="margin: 30px;min-height: 40px;">
+
+                        </div>
+                        <div class="tags-div">
+                            <input type="text" class="form-control mr-sm-2" style="border-radius:18px;margin-right:5px!important;" id="new-question-tag-input" placeholder="在这里输入新标签……">
+                        </div>
+                        <button id="add-question-tag-btn" type="button" class="btn btn-sm btn-secondary mt-2">手动添加新标签</button>
+                        <div class="alert alert-success hidden mt-2" id="saved-questions" role="alert">
+                            该问题已被成功保存，您可以点击网站页面顶部的心形按钮查看和管理所有您保存过的例句。
+                        </div>
+                        <div class="alert alert-danger hidden mt-2" id="saved-questions-error" role="alert">
+                            很抱歉，您不可以将一个问题以同样的标签保存两次，您可以点击网站页面顶部的心形按钮查看和管理所有您保存过的问题。
+                        </div>
+                        <div class="alert alert-danger hidden mt-2" id="saved-questions-error-null-tag" role="alert">
+                            保存问题时必须要选择一个标签，如果没有合适的标签，您可以选择手动添加新标签。常用的标签有“近义词辨析”、“发音规则”、“XXX语法点”等等。
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary" type="button" id="submit-save-question-btn">保存</button>
+                        <button type="button" class="btn btn-secondary" id="close-reset-word" data-dismiss="modal">关闭</button>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(document).bind("keyup keydown", function(e){
+                if(e.ctrlKey && (e.which == 68 || e.which == 188)){
+                    $(".answer").val("")
+                }
+            });
+
+            $("body").on("click", ".add-like", function(){
+                var reportId = $(this).attr("id").split("_")[1]
+                $.ajax({
+                    url: "/courses/like-report/" + reportId,
+                    method: "post",
+                }).done(dat => {
+                    $(`#like_${reportId}`).addClass("remove-like")
+                    $(`#like_${reportId}`).removeClass("add-like")
+                    $(`#like_${reportId}`).attr("id", `dislike_${reportId}`)
+                    $(`#num-of-likes_${reportId}`).html(dat.numOfLikes)
+                })
+            })
+            $("body").on("click", ".remove-like", function(){
+                var reportId = $(this).attr("id").split("_")[1]
+                $.ajax({
+                    url: "/courses/dislike-report/" + reportId,
+                    method: "post",
+                }).done(dat => {
+                    $(`#dislike_${reportId}`).addClass("add-like")
+                    $(`#dislike_${reportId}`).removeClass("remove-like")
+                    $(`#dislike_${reportId}`).attr("id", `like_${reportId}`)
+                    $(`#num-of-likes_${reportId}`).html(dat.numOfLikes)
+                })
+            })
+            $("body").on("click", ".delete-recording", function(){
+                $(this).parent().remove();
+            })
+            $("#add-tag-btn").click(function(){
+                var tag = $("#new-tag-input").val();
+                if(tag && tag!==""){
+                    $("#new-tag-input").val("");
+                    $("#sentence-tags-div").append(`<label style="display:block">
+                                                        <input class="form-check-input" type="radio" name="tag" value="${tag}">
+                                                        <i>${tag}</i>
+                                                    </label>`)
+                }
+            })
+            $("#add-question-tag-btn").click(function(){
+                var tag = $("#new-question-tag-input").val();
+                if(tag && tag!==""){
+                    $("#new-question-tag-input").val("");
+                    $("#question-tags-div").append(`<label style="display:block">
+                                                        <input class="form-check-input" type="radio" name="tag" value="${tag}">
+                                                        <i>${tag}</i>
+                                                    </label>`)
+                }
+            })
+            $("#submit-save-sentence-btn").click(function(){
+                $(this).addClass("hidden")
+                $.ajax({
+                    url: "/users/save-sentence",
+                    method: "post",
+                    data: $("#save-sentence-form").serialize()
+                }).done(dat => {
+                    $("#submit-save-sentence-btn").removeClass("hidden")
+                    if(dat.status === "success"){
+                        $("#saved-sentences-error").addClass("hidden")
+                        $("#saved-sentences-error-null-tag").addClass("hidden")
+                        $("#saved-sentences").removeClass("hidden")
+                        $(`#${$("#sentence-to-save").val()}`).addClass("saved-sentence")
+                        $(`.${$("#sentence-to-save").val()}`).addClass("saved-sentence")
+                        if(dat.note && dat.note.trim() !== ""){
+                            $(`.${$("#sentence-to-save").val()}`).append(`<small class="saved-sentence-note" style="color:#f08080"> (${dat.note})</small>`)
+                        }
+                    }
+                    else if(dat.status === "duplicate"){
+                        $("#saved-sentences").addClass("hidden")
+                        $("#saved-sentences-error-null-tag").addClass("hidden")
+                        $("#saved-sentences-error").removeClass("hidden")
+                    }
+                    else if(dat.status === "null tag"){
+                        $("#saved-sentences").addClass("hidden")
+                        $("#saved-sentences-error").addClass("hidden")
+                        $("#saved-sentences-error-null-tag").removeClass("hidden")
+                    }
+                })
+            })
+            $("#submit-save-question-btn").click(function(){
+                $(this).addClass("hidden")
+                $.ajax({
+                    url: "/users/save-question",
+                    method: "post",
+                    data: $("#save-question-form").serialize()
+                }).done(dat => {
+                    console.log(dat)
+                    $("#submit-save-question-btn").removeClass("hidden")
+                    if(dat.status === "success"){
+                        $("#saved-questions-error").addClass("hidden")
+                        $("#saved-questions-error-null-tag").addClass("hidden")
+                        $("#saved-questions").removeClass("hidden")
+                    }
+                    else if(dat.status === "duplicate"){
+                        $("#saved-questions").addClass("hidden")
+                        $("#saved-questions-error-null-tag").addClass("hidden")
+                        $("#saved-questions-error").removeClass("hidden")
+                    }
+                    else if(dat.status === "null tag"){
+                        $("#saved-questions").addClass("hidden")
+                        $("#saved-questions-error").addClass("hidden")
+                        $("#saved-questions-error-null-tag").removeClass("hidden")
+                    }
+                })
+            })
+            
+            $("body").on("click", ".save-sentence", function(){
+                $("#saved-sentences").addClass("hidden")
+                $("#saved-sentences-error").addClass("hidden")
+                $("#saved-sentences-error-null-tag").addClass("hidden")
+                var sentenceId = $(this).attr("sentenceId")
+                $("#sentence-to-save").val(sentenceId)
+                $("#save-sentence-note-textarea").val("")
+                var sentenceText = $(`#${sentenceId}`).html()
+                if(sentenceText === "显示全文"){
+                    sentenceText = $(this).parent().html().replace(/<(.|\n)*?>/g, '').replace("显示全文 -->", "")
+                }
+                $.ajax({
+                    url: "/users/get-sentence-tags",
+                    method: "get",
+                }).done(dat => {
+                    if(dat.tags && dat.tags.length > 0){
+                        $("#sentence-tags-div").html("")
+                        dat.tags.forEach((t, ind) => {
+                            $("#sentence-tags-div").append(`<label style="display:block">
+                                                                <input class="form-check-input" type="radio" name="tag" value="${t}" ${ind === 0 ? "checked" : ""}>
+                                                                <i>${t}</i>
+                                                            </label>`)
+                        })
+                    }
+                    $("#sentence-text").html(sentenceText)
+                    $("#save-sentence-modal").modal("show")
+                })
+            })
+            $("body").on("click", ".save-question", function(){
+                $("#saved-questions").addClass("hidden")
+                $("#saved-questions-error").addClass("hidden")
+                $("#saved-questions-error-null-tag").addClass("hidden")
+                var reportId = $(this).attr("reportId")
+                $("#question-to-save").val(reportId)
+                var questionText = $(`#sq_${reportId}`).html()
+                console.log(questionText)
+                $.ajax({
+                    url: "/users/get-question-tags",
+                    method: "get",
+                }).done(dat => {
+                    console.log(dat)
+                    if(dat.tags && dat.tags.length > 0){
+                        $("#question-tags-div").html("")
+                        dat.tags.forEach((t, ind) => {
+                            $("#question-tags-div").append(`<label style="display:block">
+                                                                <input class="form-check-input" type="radio" name="tag" value="${t}" ${ind === 0 ? "checked" : ""}>
+                                                                <i>${t}</i>
+                                                            </label>`)
+                        })
+                    }
+                    $("#question-text").html(questionText)
+                    $("#save-question-modal").modal("show")
+                })
+            })
+            var clickedSentenceElementId = "";
+            var clickedWordId = "";
+            $("body").on("click", ".show-word", function(){
+                clickedSentenceElementId = $(this).attr("id");
+                $("#update-sentence-element-success").addClass("hidden")
+                $("#update-sentence-element-error").addClass("hidden")
+                $("#rootWordsChinese").html("")
+                $("#rootWordsEnglish").html("")
+                var isNewWord = (($(this).attr("style") && $(this).attr("style").includes("red"))) || (!($(this).attr("style")))
+                var word = $(this).html();
+                var wordId = $(this).attr("id").split("_")[0];
+                clickedWordId = wordId
+                var sentenceElementId = $(this).attr("id").split("_")[1];
+                var indexOfEnglishMeanings = $(this).attr("id").split("_")[2];
+                var indexOfChineseMeanings = $(this).attr("id").split("_")[3];
+                var punctuations = ["5f1b9de71a584823748dd941", "5f1b9e361a584823748dd945", "5f21e834aff748605d4782a9", "5f1b9df61a584823748dd942", "5f1b9dfc1a584823748dd943", "5f1b9e011a584823748dd944", "5f1b9dd91a584823748dd940"];
+                $("#select_word_id").val(wordId);
+                
+                    var partOfSpeechChineseMap = {"letter":"字母", "adjective":"形容词", "adverb":"副词", "prefix":"前缀", "suffix":"后缀", "numeral": "数词", "conjunction":"连词","interjection":"感叹词","verb" : "动词", "noun":"名词", "preposition":"介词", "pronoun":"代词", "particle":"小品词", "article": "冠词", "phrase" : "短语", "sentence": "句子", "abbreviation": "缩写"}
+                    var genderMapChinese = {"masculine": "阳性", "feminine": "阴性", "neuter": "中性", "plural": "复数", "masculine / neuter" : "阳性 / 中性", "feminine / neuter" : "阴性 / 中性", "masculine / feminine" : "阳性 / 阴性"}
+                    if(punctuations.indexOf(wordId) === -1){
+                        $.ajax({
+                            url: "/words/get-word/"+wordId,
+                            method: "get",
+                        }).done((dat) => {
+                            if(isNaN(dat.word.word) && (!(/[!,?:;"]/.test(dat.word.word[0])))){
+                                if(dat.word.language === "German"){
+                                    if(dat.word.partOfSpeech === "noun"){
+                                        var genderMap = {"masculine":"der","feminine":"die", "neuter":"das", "":"", "ohne Artikel":"(ohne Artikel)", "masculine / neuter" : "der / das", "feminine / neuter" : "die / das", "masculine / feminine" : "der / die", "plural" : ""}
+                                        if(dat.word.gender){
+                                            if(dat.word.gender.includes("/")){
+                                                if(dat.word.gender){
+                                                    $("#modal-word").html(`${dat.word.gender.split("/").map(gender => genderMap[gender.trim()]).join(" / ")} ` +  `${dat.word.word}` + `${dat.word.plural ? ", " + dat.word.plural : ""}`)
+                                                }
+                                                else{
+                                                    $("#modal-word").html(`${dat.word.word}` + `${dat.word.plural ? ", " + dat.word.plural : ""}`)
+                                                }
+                                            }else{
+                                                $("#modal-word").html(`${genderMap[dat.word.gender] + " "}` +  `${dat.word.word}` + `${dat.word.plural ? ", " + dat.word.plural : ""}`)
+                                            }
+                                        }else{
+                                            $("#modal-word").html(`${dat.word.word}` + `${dat.word.plural ? ", " + dat.word.plural : ""}`)
+                                        }
+                                    }
+                                    else if(dat.word.comparativ && dat.word.superlativ){
+                                        $("#modal-word").html(`${dat.word.word}, ${dat.word.comparativ}, ${dat.word.superlativ}`)
+                                    }
+                                    else if(dat.word.partOfSpeech === "verb"){
+                                        $("#modal-word").html(`${dat.word.word} <hr><div style="font-size:15px;margin-top: 4px;"><span style="width: 180px;display:inline-block;">Indikativ Präsens:</span><span style=" font-style: italic;">${dat.word.presentTenseConjugation[2] ? dat.word.presentTenseConjugation[2].substring(10, dat.word.presentTenseConjugation[2].length) : dat.word.presentTenseConjugation[0].substring(10, dat.word.presentTenseConjugation[0].length)}</span><br><span style="width: 180px;display:inline-block;">Indikativ Perfekt: </span><span style=" font-style: italic;">${dat.word.auxiliaryVerb.split("/").map(au => au.trim() === "haben" ? "hat" : "ist").join(" / ")} ${dat.word.pastParticiple}</span><br><span style="width: 180px;display:inline-block;">Indikativ Präteritum: </span><span style=" font-style: italic;">${dat.word.pastTenseConjugation[2] ? dat.word.pastTenseConjugation[2].substring(10, dat.word.pastTenseConjugation[2].length) : dat.word.pastTenseConjugation[0].substring(10, dat.word.pastTenseConjugation[0].length)}</span><br><span style="width: 180px;display:inline-block;">Konjunktiv II:</span><span style=" font-style: italic;">${dat.word.konjunktivII[2] ? dat.word.konjunktivII[2].substring(10, dat.word.konjunktivII[2].length) : dat.word.konjunktivII[0].substring(10, dat.word.konjunktivII[0].length)}</span></div>`)
+                                    }
+                                    else{
+                                        $("#modal-word").html(`${dat.word.word}`)
+                                    }
+                                }
+                                else if(dat.word.language === "English"){
+                                    if(dat.word.partOfSpeech === "noun"){
+                                        $("#modal-word").html(`${dat.word.word}` + `${dat.word.plural ? ", " + dat.word.plural : ""}`)
+                                    }
+                                    else if(dat.word.comparativ && dat.word.superlativ){
+                                        $("#modal-word").html(`${dat.word.word}, ${dat.word.comparativ}, ${dat.word.superlativ}`)
+                                    }
+                                    else if(dat.word.partOfSpeech === "verb"){
+                                        if(dat.word.pastTense){
+                                            if(dat.word.pastParticiple){
+                                                $("#modal-word").html(`${dat.word.word}` + `${dat.word.thirdPersonPresentTense ? ", " + dat.word.pastTense+ ", " + dat.word.pastParticiple : ""}`)
+                                            }
+                                            else{
+                                                $("#modal-word").html(`${dat.word.word}` + `${dat.word.thirdPersonPresentTense ? ", " + dat.word.pastTense : ""}`)
+                                            }
+                                        }
+                                        else{
+                                            $("#modal-word").html(`${dat.word.word}`)
+                                        }
+                                    }
+                                    else{
+                                        $("#modal-word").html(`${dat.word.word}`)
+                                    }
+                                }
+                                else if(dat.word.language === "French"){
+                                    if(dat.word.partOfSpeech === "noun"){
+                                        $("#modal-word").html(dat.word.word)
+                                    }
+                                    else if(dat.word.comparativ && dat.word.superlativ){
+                                        $("#modal-word").html(`${dat.word.word}, ${dat.word.comparativ}, ${dat.word.superlativ}`)
+                                    }
+                                    else if(dat.word.partOfSpeech === "verb"){
+                                        console.log(dat.word.word.substr(0, 3))
+                                        if(dat.word.word.substr(0, 3) === "se " || dat.word.word.substr(0, 2) === "s'" || (!dat.word.indicatifPresent[0])){
+                                            $("#modal-word").html(`${dat.word.word}`)
+                                        }
+                                        else{
+                                            $("#modal-word").html(`${dat.word.word} 
+                                                                <hr><div style="font-size:15px;margin-top: 4px;">
+                                                                    <span style="width: 180px;display:inline-block;">Indicatif Present:</span>
+                                                                    <span style=" font-style: italic;">${dat.word.indicatifPresent[2] ? dat.word.indicatifPresent[2] : dat.word.indicatifPresent[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicatif Passé Composé: </span><span style=" font-style: italic;">${dat.word.indicatifPasseCompose[2] ? dat.word.indicatifPasseCompose[2] : dat.word.indicatifPasseCompose[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicatif Passé Simple: </span><span style=" font-style: italic;">${dat.word.indicatifPasseSimple[2] ? dat.word.indicatifPasseSimple[2] : dat.word.indicatifPasseSimple[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicatif Imparfait:</span><span style=" font-style: italic;">${dat.word.indicatifImparfait[2] ? dat.word.indicatifImparfait[2] : dat.word.indicatifImparfait[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicatif Futur Simple:</span><span style=" font-style: italic;">${dat.word.indicatifFuturSimple[2] ? dat.word.indicatifFuturSimple[2] : dat.word.indicatifFuturSimple[0]}</span>
+                                                                </div>`)
+                                        }
+                                    }
+                                    else{
+                                        $("#modal-word").html(`${dat.word.word}`)
+                                    }
+                                }
+                                else if(dat.word.language === "Spanish"){
+                                    if(dat.word.partOfSpeech === "noun"){
+                                        $("#modal-word").html(dat.word.word)
+                                    }
+                                    else if(dat.word.comparativ && dat.word.superlativ){
+                                        $("#modal-word").html(`${dat.word.word}, ${dat.word.comparativ}, ${dat.word.superlativ}`)
+                                    }
+                                    else if(dat.word.partOfSpeech === "verb"){
+                                        if(dat.word.word.substr(dat.word.word.length - 2, dat.word.word.length - 2) === "se " || (!dat.word.indicativoPresente[0])){
+                                            $("#modal-word").html(`${dat.word.word}`)
+                                        }
+                                        else{
+                                            $("#modal-word").html(`${dat.word.word} 
+                                                                <hr><div style="font-size:15px;margin-top: 4px;">
+                                                                    <span style="width: 180px;display:inline-block;">Indicativo Presente:</span>
+                                                                    <span style=" font-style: italic;">${dat.word.indicativoPresente[2] ? dat.word.indicativoPresente[2] : dat.word.indicativoPresente[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicativo Perfecto: </span><span style=" font-style: italic;">${dat.word.indicativoPerfecto[2] ? dat.word.indicativoPerfecto[2] : dat.word.indicativoPerfecto[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicatif Indefinido: </span><span style=" font-style: italic;">${dat.word.indicativoIndefinido[2] ? dat.word.indicativoIndefinido[2] : dat.word.indicativoIndefinido[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicativo Imperfecto:</span><span style=" font-style: italic;">${dat.word.indicativoImperfecto[2] ? dat.word.indicativoImperfecto[2] : dat.word.indicativoImperfecto[0]}</span><br>
+                                                                    <span style="width: 180px;display:inline-block;">Indicativo Futuro:</span><span style=" font-style: italic;">${dat.word.indicativoFuturo[2] ? dat.word.indicativoFuturo[2] : dat.word.indicativoFuturo[0]}</span>
+                                                                </div>`)
+                                        }
+                                    }
+                                    else{
+                                        $("#modal-word").html(`${dat.word.word}`)
+                                    }
+                                }
+                                else if(dat.word.language === "Arabic"){
+                                    if(dat.word.partOfSpeech === "noun" && dat.word.language === "Arabic"){
+                                        if(dat.word.feminine && dat.word.plural){
+                                            $("#modal-word").html(`${dat.word.word}، ${dat.word.feminine} ج. ${dat.word.plural}`)
+                                        }
+                                        else if(dat.word.feminine){
+                                            $("#modal-word").html(`${dat.word.word}، ${dat.word.feminine}`)
+                                            var title =   `${dat.word.word}، ${dat.word.feminine}`
+                                        }
+                                        else if(dat.word.plural){
+                                            $("#modal-word").html(`${dat.word.word} ج. ${dat.word.plural}`)
+                                        }
+                                        else{
+                                            $("#modal-word").html(`${dat.word.word}`)
+                                        }
+                                    }
+                                    else {
+                                        $("#modal-word").html(`${dat.word.word}`)
+                                    }
+                                }
+                                if(dat.word.rootWords && dat.word.rootWords.length > 0){
+                                    $("#rootWordsChinese").html((dat.word.feminine ? `阴性形式：${dat.word.feminine}` : "") + (dat.word.plural ? `<br>复数形式：${dat.word.plural}` : "") + (dat.word.pluralFeminine ? `<br>阴性复数形式：${dat.word.pluralFeminine}` : "") + "<br>词根：" + dat.word.rootWords.map(w => `<a href="/words/show/${w._id}?language=Chinese" target="_blank">${w.word}</a> (${partOfSpeechChineseMap[w.partOfSpeech]})`).join("、"))
+                                    $("#rootWordsEnglish").html((dat.word.feminine ? `Feminine form：${dat.word.feminine}` : "") + (dat.word.plural ? `<br>Plural form：${dat.word.plural}` : "") + (dat.word.pluralFeminine ? `<br>Feminine plural form：${dat.word.pluralFeminine}` : "") + "<br>Root(s): " + dat.word.rootWords.map(w => `<a href="/words/show/${w._id}?language=English" target="_blank">${w.word}</a>`).join(", "))
+                                }
+                                else{
+                                    $("#rootWordsChinese").html((dat.word.feminine ? `阴性形式：${dat.word.feminine}` : "")  + (dat.word.plural ? `<br>复数形式：${dat.word.plural}` : "") + (dat.word.pluralFeminine ? `<br>阴性复数形式：${dat.word.pluralFeminine}` : ""))
+                                }
+                                if(dat.word.isImportant === false){
+                                    $("#reset-word").addClass("hidden")
+                                }
+                                else{
+                                    $("#mastered-word-id").val(dat.word._id)
+                                    $("#reset-word-span").html(`${dat.word.word}`)
+                                    $("#reset-word").removeClass("hidden")
+                                }
+                                if(dat.word.ipa){
+                                    $("#word-ipa").removeClass("hidden")
+                                    $("#word-ipa").html(`${dat.word.ipa}`)
+                                }
+                                else{
+                                    $("#word-ipa").addClass("hidden")
+                                }
+                                if(dat.word.audioFileOfficial){
+                                    
+                                        $("#word-audio-div").html(`<audio class="mt-2" id="word-audio">
+                                            <source id="word-source" src="${dat.word.audioFileOfficial}" type="audio/mpeg"/>
+                                            <source id="word-source1" src="${dat.word.audioFileOfficial}" type="audio/mp4"/>
+                                        </audio>
+                                        <img onclick="document.getElementById('word-audio').play()" class="play-audio" style="width: 30px;display: inline-block;" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/speaker-jpg.png" alt="">`)
+                                        $("#word-audio-div").removeClass("hidden")
+                                    
+                                }
+                                else{
+                                    $("#word-audio-div").addClass("hidden")
+                                }
+                                console.log(dat.word.partOfSpeech)
+                                console.log(partOfSpeechChineseMap[dat.word.partOfSpeech])
+                                $(".partOfSpeechChinese").html(`<strong>[${dat.word.gender ? genderMapChinese[dat.word.gender] : ""}${partOfSpeechChineseMap[dat.word.partOfSpeech]}]</strong> ${dat.word.isNDeklination ? " <br><strong>[阳性弱变化]</strong>" : ""} ${dat.word.register ? "<br><span style='color:red'>" + dat.word.register + '</span>' : ""}<hr>`)
+                                $(".partOfSpeech").html(`<i>${dat.word.partOfSpeech}</i>. ${dat.word.isNDeklination ? " <br><i><span style='font-size: 13px;'>N-Deklination</span></i>" : ""} ${dat.word.register ? "<br><span style='color:red'>" + dat.word.register + '</span>' : ""}`)
+                                $("#english").html(`<strong><ul><li class="setEnglishMeaningIndex" id="${wordId}_${sentenceElementId}">${dat.word.meaningEnglish.join("</li><li class='setEnglishMeaningIndex' id='" + wordId + "_" + sentenceElementId + "'>")}</li></ul></strong>`)
+                                $("#chinese").html(`<strong><ul><li class="setChineseMeaningIndex" id="${wordId}_${sentenceElementId}">${dat.word.meaningChinese.join("</li><li class='setChineseMeaningIndex' id='" + wordId + "_" + sentenceElementId + "'>")}</li></ul></strong>`)
+                                // if(dat.word.meaningArabic && dat.word.meaningArabic.length > 0){
+                                //     $("#arabic-div-word").html(`<hr><h5>المعنى العربي</h5>
+                                //     <strong><ul><li class="setArabicMeaningIndex" id="${wordId}_${sentenceElementId}">${dat.word.meaningArabic.join("</li><li class='setChineseMeaningIndex' id='" + wordId + "_" + sentenceElementId + "'>")}</li></ul></strong><a id="word-link-arabic" target="_blank"><button class="btn btn-sm jumbo-btn">معلومات اكثر</button></a>`)
+                                // }
+                                $('.setEnglishMeaningIndex').eq(indexOfEnglishMeanings).css("color", "green");
+                                $('.setChineseMeaningIndex').eq(indexOfChineseMeanings).css("color", "green");
+                                $('.setArabicMeaningIndex').eq(0).css("color", "green");
+                                $("#word-link-english").attr("href", `/words/show/${dat.word._id}?language=English`)
+                                $("#word-link-arabic").attr("href", `/words/show/${dat.word._id}?language=English`)
+                                $("#word-link-chinese").attr("href", `/words/show/${dat.word._id}?language=Chinese`)
+                                $('#word-modal').modal('show');
+                            }  
+                        })
+                    }
+                
+            })
+            $("body").on("click", ".show-phrase", function(){
+                $("#rootWordsPhraseChinese").html("")
+                $("#rootWordsPhraseEnglish").html("")
+                var isNewPhrase = (($(this).attr("style") && $(this).attr("style").includes("blue"))) || (!($(this).attr("style")))
+                if(isNaN($(this).html())){
+                    var phraseId = $(this).attr("id").split("_")[0];
+                    var sentenceElementId = $(this).attr("id").split("_")[1];
+                    var indexOfEnglishMeanings = $(this).attr("id").split("_")[2];
+                    var indexOfChineseMeanings = $(this).attr("id").split("_")[3];
+                    $.ajax({
+                        url: "/words/get-phrase/"+phraseId,
+                        method: "get",
+                    }).done((dat) => {
+                        var phrase = $(this).html();
+                        if(isNaN(dat.phrase.phrase)){
+                            var phraseId = $(this).attr("id").split("_")[0];
+                            var sentenceElementId = $(this).attr("id").split("_")[1];
+                            var indexOfEnglishMeanings = $(this).attr("id").split("_")[2];
+                            var indexOfChineseMeanings = $(this).attr("id").split("_")[3];
+                            $.ajax({
+                                url: "/words/get-phrase/"+phraseId,
+                                method: "get",
+                            }).done((dat) => {
+                                $("#phrase-to-word-link").attr("href", `/words/phrase-to-word/${dat.phrase._id}`)
+                                if(dat.phrase.audioFileAlibabaOss){
+                                    $("#phrase-audio-div").html(`<audio class="mt-2" id="phrase-audio">
+                                        <source id="phrase-source" src="${dat.phrase.audioFileAlibabaOss}" type="audio/mpeg"/>
+                                        <source id="phrase-source1" src="${dat.phrase.audioFileAlibabaOss}" type="audio/mp4"/>
+                                    </audio>
+                                    <img onclick="document.getElementById('phrase-audio').play()" class="play-audio" style="width: 30px;display: inline-block;" src="https://words-sharplingo.oss-cn-shanghai.aliyuncs.com/speaker-jpg.png" alt="">`)
+                                    $("#phrase-audio-div").removeClass("hidden")
+                                }
+                                else{
+                                    $("#phrase-audio-div").addClass("hidden")
+                                }
+                                if((!dat.phrase.isImportant )|| isNewPhrase){
+                                    $("#reset-phrase").addClass("hidden")
+                                }
+                                else{
+                                    $("#reset-phrase-span").html(`${dat.phrase.phrase}`)
+                                    $("#mastered-phrase-id").val(dat.phrase._id)
+                                    $("#reset-phrase").removeClass("hidden")
+                                }
+                                if(dat.phrase.words && dat.phrase.words.length > 0){
+                                    $("#rootWordsPhraseChinese").html("词根：" + dat.phrase.words.map(w => `<a href="/words/show/${w._id}?language=Chinese" target="_blank">${w.word}</a>`).join("、"))
+                                    $("#rootWordsPhraseEnglish").html("Root(s): " + dat.phrase.words.map(w => `<a href="/words/show/${w._id}?language=English" target="_blank">${w.word}</a>`).join(", "))
+                                }
+                                $("#modal-phrase").html(`${dat.phrase.phrase}`)
+                                $("#reset-phrase-span").html(`${dat.phrase.phrase}`)
+                                $("#english-phrase").html(`<strong><ul><li class="setEnglishMeaningIndexPhrase" id="${phraseId}_${sentenceElementId}">${dat.phrase.meaningEnglish.join("</li><li class='setEnglishMeaningIndexPhrase' id='" + phraseId + "_" + sentenceElementId + "'>")}</li></ul></strong>`)
+                                $("#chinese-phrase").html(`<strong><ul><li class="setChineseMeaningIndexPhrase" id="${phraseId}_${sentenceElementId}">${dat.phrase.meaningChinese.join("</li><li class='setChineseMeaningIndexPhrase' id='" + phraseId + "_" + sentenceElementId + "'>")}</li></ul></strong>`)
+                                $('.setEnglishMeaningIndexPhrase').eq(indexOfEnglishMeanings).css("color", "green");
+                                $('.setChineseMeaningIndexPhrase').eq(indexOfChineseMeanings).css("color", "green");
+                                $("#phrase-link-english").attr("href", `/words/show-phrase/${dat.phrase._id}?language=English`)
+                                $("#phrase-link-chinese").attr("href", `/words/show-phrase/${dat.phrase._id}?language=Chinese`)
+                                $("#reset-phrase-link").attr("href", `/words/show-phrase/${dat.phrase._id}?language=Chinese`)
+                                $("#mastered-phrase-id").val(dat.phrase._id)
+                                $('#phrase-modal').modal('show');
+                            }) 
+                        }
+                    })
+                }
+            })
+        </script>
+        <div class="modal" tabindex="-1" role="dialog" id="word-modal" style="z-index: 10000;"">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body" id="modal-word-body">
+                        <h4 class="modal-title" id="modal-word"></h4>
+                        <hr>
+                        <div>
+                            <div class="hidden" id="word-audio-div" style="display: inline-block;margin-bottom: 25px;"></div>
+                            <div id="word-ipa" style="display: inline-block;margin-bottom: 25px;"></div>
+                            <h5>中文</h5>
+                            <span class="partOfSpeechChinese"></span><span id="chinese"></span>
+                            <div id="rootWordsChinese" style="margin-bottom: 25px;margin-left:4px"></div>
+                            <a id="word-link-chinese" target="_blank"><button class="btn btn-sm jumbo-btn mb-2">更多</button></a>
+                            
+                            <hr>
+                            <h5>English</h5>
+                            <span class="partOfSpeech"></span><span id="english"></span>
+                            <div id="rootWordsEnglish" style="margin-bottom: 25px;margin-left:4px"></div>
+                            <a id="word-link-english" target="_blank"><button class="btn btn-sm jumbo-btn">More</button></a>
+                            <div id="arabic-div-word" dir="rtl" lang="ar" style="direction:rtl;text-align:right"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal" id="reset-word">将学习进度归零</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">关闭</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            
+            $(".advancedVocabSwitch").click(function(){
+                $(this).addClass("hidden")
+                $.ajax({
+                    url: "/words/flip-advanced-word",
+                    method: "POST",
+                    data: {
+                        wordId: clickedWordId
+                    }
+                }).done(function(dat){
+                    console.log(dat)
+                    if(dat.status === "success"){
+                        $(".advancedVocabSwitch").removeClass("hidden")
+                        if(dat.isAdvancedVocab === true){
+                            $(".advancedVocabSwitch").html("Set as basic vocab")
+                        }
+                        else if(dat.isAdvancedVocab === false){
+                            $(".advancedVocabSwitch").html("Set as advanced vocab")
+                        }
+                    }
+                    else{
+                        console.log(dat.msg)
+                    }
+                })
+            })
+            $('body').keyup(function (e){
+                if (e.keyCode == 38 && $("#word-modal").hasClass('show')) {
+                    if(document.getElementsByClassName('word-audio-study') === null && document.getElementById('word-audio') !== null){
+                        wordAudio = document.getElementById("word-audio");
+                        wordAudio.play()
+                    }
+                }
+            })
+        </script>
+        <div class="modal" tabindex="-1" role="dialog" id="reset-word-modal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">重置单词“<span id="reset-word-span"></span>”的学习进度</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>我们的记录显示您不是第一次见到这个单词，原因可能是因为您已经使用我们的系统背过该单词，或者在您做入学水平测试时我们的系统根据您的测试结果估计出您应该认识该单词。您对该单词的掌握程度可以在您的<a href="/users/learning-records" target="_blank">学习记录</a>中的“记忆卡片”一栏被找到。</p>
+                    <p>一个单词可能对应多张单词卡片，如果您不想把所有这些卡片的学习进度一起归零，您也可以在该单词的<a id="reset-word-link" target="_blank">显示页</a>找到这些卡片，然后对每张卡片进行更多重启学习进度的操作。</p>
+                    <p>如果您在您的学习进度页面发现那里显示的您对该单词的熟悉程度并不是0%，但是您完全不认识或者已经忘记该单词，请点击下面的“确定”按钮，和该单词相关的所有记忆卡片将被一起打包加入您的复习任务当中。在把这些记忆卡片的学习进度归零后，该单词在这篇文章里仍然不会被标红，因为我们只在新单词第一次出现在我们网站的学习材料当中的时候才把它们标红。</p>
+                    <p>请注意，本操作只能将熟悉程度为100%的卡片归零，熟悉程度还未到100%的卡片的学习进度可以在该卡片显示页被归零。本操作结果不可恢复，但是您可以在复习与该单词相关的记忆卡片时点击“太简单了，别再问我了”，就可以重新将对该记忆卡片的掌握程度设为100%。</p>
+                </div>
+                <form id="reset-word-form">
+                    <input type="text" name="type"  value="word" class="hidden">
+                    <input type="text" name="wordId"  id="mastered-word-id" class="hidden">
+                </form>
+                <div class="alert alert-danger hidden" id="reset-failure-msg" role="alert">
+                </div>
+                <div class="alert alert-success hidden" id="reset-success-msg" role="alert">
+                    该单词的学习进度已被成功归零。
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-danger" type="button" id="reset-word-submit">确定</button>
+                    <span class="loading hidden mt-2" id="reset-word-submit-loading" style="width: 56px; height: 24px; display: inline-block;"></span>
+                    <button type="button" class="btn btn-secondary" id="close-reset-word"  data-dismiss="modal">关闭</button>
+                </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $("#reset-word-submit").click(function(){
+                $(this).addClass("hidden");
+                $("#reset-word-submit-loading").removeClass("hidden");
+                var data = $("#reset-word-form").serialize() + "&api=yes";
+                $.ajax({
+                    url: "/words/remove-word-from-mastered-list",
+                    data: data,
+                    method: "POST",
+                }).done((dat) => {
+                    $("#reset-word-submit").removeClass("hidden")
+                    $("#reset-word-submit-loading").addClass("hidden")
+                    if(dat.status === "success"){
+                        $("#reset-failure-msg").addClass("hidden")
+                        $("#reset-success-msg").removeClass("hidden")
+                    }
+                    else if(dat.status === "failure"){
+                        $("#reset-failure-msg").html(dat.message)
+                        $("#reset-success-msg").addClass("hidden")
+                        $("#reset-failure-msg").removeClass("hidden")
+                    }
+                })
+            })
+        </script>
+        
+        
+        
+            <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body" id="registerModalBody">
+                            <div style="margin:auto;float:none;">
+                                <i class="fas fa-times fs-x-button" data-dismiss="modal"></i>
+                                <h1 style="text-align:center;margin-bottom:20px;" id="sign-up-title">注册</h1>
+                                <div id="new-user">
+                                    <div>
+                                        <!-- <div class="alert alert-warning" role="alert">
+                                            请注意，我们的德语水平智能测试系统目前只开发至B2水平，所以本课程目前只适合零基础至B2阶段的德语学生(词汇量在6000以内的学生皆可报名)。若您的德语超过了这个水平，或者您感兴趣的是其他语言，我们建议您关注我们的<a href="https://space.bilibili.com/313775897" target="_blank">B站</a>账户，并私信小编您的外语水平，或者您也可以在注册后点击课程页面的”通知我“，我们会在该课程开发完毕后以邮件的形式通知您。
+                                        </div> -->
+                                        <form id="sign-up-form">
+                                            <span class="sign-up-content">
+                                                <div style="display:flex; width:100%">
+                                                    <div class="form-group" style="width:100%;">
+                                                        <input type="text" class="form-control" id="nickNameSignUp" name="nickName" placeholder="昵称(对其他用户可见)" required>
+                                                        <div id="nickName-valid-feedback" class='valid-feedback hidden'>完美！</div>
+                                                        <div id="nickName-invalid-feedback" class='invalid-feedback hidden'></div>
+                                                    </div>
+                                                </div>
+                                                <div style="display:flex; width:100%">
+                                                    <div class="form-group" style="width:48%;margin-right:2%">
+                                                        <input type="text" class="form-control" id="lastNameSignUp" name="lastName" placeholder="姓(对其他用户不可见)" required>
+                                                        <div id="lastName-valid-feedback" class='valid-feedback hidden'>完美！</div>
+                                                        <div id="lastName-invalid-feedback" class='invalid-feedback hidden'></div>
+                                                    </div>
+                                                    <div class="form-group" style="width:48%;">
+                                                        <input type="text" class="form-control" id="firstNameSignUp" name="firstName" placeholder="名(对其他用户不可见)" required>
+                                                        <div id="firstName-valid-feedback" class='valid-feedback hidden'>完美！</div>
+                                                        <div id="firstName-invalid-feedback" class='invalid-feedback hidden'></div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input type="email" class="form-control" id="emailSignUp" name="email" placeholder="邮箱地址" required>
+                                                    <div id="email-valid-feedback" class='valid-feedback hidden'>完美！</div>
+                                                    <div id="email-invalid-feedback" class='invalid-feedback hidden'></div>
+                                                </div>               
+                                                <div class="form-group">
+                                                    <input type="password" class="form-control" id="passwordSignUp" name="password" placeholder="密码" required>
+                                                    <div id="password-valid-feedback" class='valid-feedback hidden'>完美！</div>
+                                                    <div id="password-invalid-feedback" class='invalid-feedback hidden'></div>
+                                                </div>
+                                                <hr>
+                                                <div class="form-group">
+                                                    <input class="form-control" type="email" name="referral" placeholder="推荐人邮箱地址（选填）" value="">
+                                                </div>
+                                                <!-- <div class="form-group">
+                                                    <input class="form-control" type="password" name="instructor" placeholder="Instructor code (optional)">
+                                                </div> -->
+                                                <!-- <div class="form-group">
+                                                    <input class="form-control" type="password" name="admin" placeholder="Admin code (optional)">
+                                                </div> -->
+                                                
+                                            </span>
+                                            <div class="form-group">
+                                                <div class="alert alert-danger hidden" id="signup-error-msg" role="alert"></div>
+                                                <div class="alert alert-success hidden" id="signup-success-msg" role="alert"></div>
+                                                <div class="loading hidden" id="registration-loading-icon" style="width: 50px; height: 38px;vertical-align: -20px;margin: auto;display: block;"></div>
+                                                <button class="btn btn-lg btn-info btn-block sign-up-content" type="button" id="sign-up-button">提交！</button>
+                                            </div>
+                                        </form>
+                                        <script type="text/javascript">
+                                            $("#sign-up-form").on("click", ".resend-confirmation", function(){
+                                                var email = $(this).attr("id");
+                                                $.ajax({
+                                                    url: "/users/resend-confirmation-chinese/" + email,
+                                                    method: "POST",
+                                                    cache: false
+                                                }).done(function(dat){
+                                                    if(dat.status === "success"){
+                                                        $("#signup-error-msg").addClass("hidden");
+                                                        $("#signup-success-msg").removeClass("hidden");
+                                                        $("#signup-success-msg").html(dat.msg);
+                                                    }
+                                                    else if(dat.status === "failure"){
+                                                        $("#signup-success-msg").addClass("hidden");
+                                                        $("#signup-error-msg").removeClass("hidden");
+                                                        $("#signup-error-msg").html(dat.msg);
+                                                    }
+                                                })
+                                            })
+                                            function checkInput(field, word){
+                                                var id = field + "SignUp";
+                                                var value = $(`#${field}SignUp`).val();
+                                                if(value.length > 50){
+                                                    $(`#${field}SignUp`).removeClass("is-valid")
+                                                    $(`#${field}SignUp`).addClass("is-invalid")
+                                                    $(`#${field}-valid-feedback`).addClass("hidden");
+                                                    $(`#${field}-invalid-feedback`).removeClass("hidden");
+                                                    $(`#${field}-invalid-feedback`).html('太长啦！请删减至50字以内。');
+                                                    return false;
+                                                }
+                                                else if(value === ""){
+                                                    $(`#${field}SignUp`).removeClass("is-valid")
+                                                    $(`#${field}SignUp`).addClass("is-invalid")
+                                                    $(`#${field}-valid-feedback`).addClass("hidden");
+                                                    $(`#${field}-invalid-feedback`).removeClass("hidden");
+                                                    $(`#${field}-invalid-feedback`).html(`请输入您的${word}`)
+                                                    return false;
+                                                }
+                                                else if(field === "email" && (value.indexOf("@") === -1 || value.indexOf(".") === -1 )){
+                                                    $(`#${field}SignUp`).removeClass("is-valid")
+                                                    $(`#${field}SignUp`).addClass("is-invalid")
+                                                    $(`#${field}-valid-feedback`).addClass("hidden");
+                                                    $(`#${field}-invalid-feedback`).removeClass("hidden");
+                                                    $(`#${field}-invalid-feedback`).html('请填写一个正确的邮箱地址')
+                                                    return false;
+                                                }
+                                                else{
+                                                    $(`#${field}SignUp`).removeClass("is-invalid")
+                                                    $(`#${field}SignUp`).addClass("is-valid")
+                                                    $(`#${field}-invalid-feedback`).addClass("hidden");
+                                                    $(`#${field}-valid-feedback`).removeClass("hidden");
+                                                    return true;
+                                                }
+                                            }
+                                            $("#firstNameSignUp").change(function(){
+                                                checkInput("firstName", "名")
+                                            })
+                                            $("#lastNameSignUp").change(function(){
+                                                checkInput("lastName", "姓")
+                                            })
+                                            $("#emailSignUp").change(function(){
+                                                checkInput("email", "邮箱地址")
+                                            })
+                                            $("#passwordSignUp").change(function(){
+                                                checkInput("password", "密码")
+                                            })
+                                            $("#nickNameSignUp").change(function(){
+                                                checkInput("nickName", "密码")
+                                            })
+                                            $("#sign-up-form").on("click keypress", function(e){
+                                                if(e.type === "click" && e.target && e.target.id === "sign-up-button" || e.type === "keypress" && e.keyCode === 13){
+                                                    if(checkInput("firstName", "名") &&
+                                                        checkInput("lastName", "姓") &&
+                                                        checkInput("nickName", "昵称") &&
+                                                        checkInput("email", "邮箱地址") &&
+                                                        checkInput("password", "密码")){
+                                                        $("#registration-loading-icon").removeClass("hidden");
+                                                        $("#sign-up-button").addClass("hidden");
+                                                        var signupBody = $("#sign-up-form").serialize();
+                                                        $.ajax({
+                                                            url: "/users/register_chinese",
+                                                            method: "POST",
+                                                            cache: false,
+                                                            data: signupBody
+                                                        }).done(function(dat){
+                                                            $("#registration-loading-icon").addClass("hidden");
+                                                            $("#sign-up-button").removeClass("hidden");
+                                                            if(dat.status == "success"){
+                                                                $(".sign-up-content").addClass("hidden");
+                                                                $("#signup-error-msg").addClass("hidden");
+                                                                $("#signup-success-msg").html(`感谢您的注册！我们刚刚给您的邮箱“${dat.email}”发送了一封邮件，以确认您确实是该地址的拥有者。请登录您的邮箱，并按照邮件中的指示完成注册。`);
+                                                                $("#signup-success-msg").removeClass("hidden");
+                                                            }
+                                                            else if(dat.status == "failure"){
+                                                                $("#signup-success-msg").addClass("hidden");
+                                                                $("#signup-error-msg").html(dat.msg);
+                                                                $("#signup-error-msg").removeClass("hidden");
+                                                            }
+                                                            else if(dat.status == "exists"){
+                                                                $("#signup-success-msg").addClass("hidden");
+                                                                $("#signup-error-msg").html(dat.msg);
+                                                                $("#signup-error-msg").removeClass("hidden");
+                                                                $("#resend-confirmation").removeClass("hidden");
+                                                            }
+                                                        })
+                                                    }
+                                                }
+                                            })
+                                        </script>
+                                        <!-- <a class="btn btn-outline-secondary my-1 sign-up-content" id="signup-with-external" style="text-align: center;display: block;">Sign up with a social account</a> -->
+                                    </div>
+                                </div>
+                                <div id ="signup-external" class="hidden">
+                                    <a style="background:#3b5998;display:block;color:white;" class="btn btn-outline-secondary my-2" href="/auth/facebook" id="facebook-signup-link">
+                                        <i class="fab fa-facebook-f login_icon" style="padding-right:7.5px;"></i>
+                                        <span class="login_app_name" style="margin-right:58px;">Sign up with Facebook</span>
+                                    </a>
+                                    <a style="display:block;color:#d34836;" class="btn btn-outline-secondary my-2" href="/auth/google" id="google-signup-link">
+                                        <i class="fab fa-google-plus-g login_icon"></i>
+                                        <span class="login_app_name" style="margin-right:56px;color:rgb(61,65,68);">Sign up with Google</span>
+                                    </a>
+                                    <a style="display:block;color:#7bb32e;" class="btn btn-outline-secondary my-2" href="/auth/wechat" id="wechat-signup-link">
+                                        <img src="/images/wechat.webp" width=20px;>
+                                        <span class="login_app_name" style="margin-right:56px;color:rgb(61,65,68);">Sign up with Wechat</span>
+                                    </a>
+                                    <div class="hr"><div class="hr-text">or</div></div>
+                                    <a class="btn btn-outline-secondary my-2" id="signup-with-email" style="text-align:center;display:block;">Sign up with email</a>
+                                </div>
+                                <div class="hr sign-up-content"><div class="hr-text">已有账户？</div></div>
+                                <a class="btn btn-outline-secondary my-2 sign-up-content" data-toggle="modal" data-target="#loginModal" data-dismiss="modal" style="text-align:center;display:block;">在这里登录!</a>
+                                <script type="text/javascript">
+                                    $("#signup-with-email").click(function(){
+                                        $("#new-user").toggleClass("hidden")
+                                        $("#signup-external").toggleClass("hidden")
+                                    })
+                                    $("#signup-with-external").click(function(){
+                                        $("#new-user").toggleClass("hidden")
+                                        $("#signup-external").toggleClass("hidden")
+                                    })
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Login Modal -->
+            <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="loginFormBody">
+                                <i class="fas fa-times fs-x-button" data-dismiss="modal"></i>
+                                <h1 style="margin-bottom:20px;text-align:center;">登录</h1>
+                                <div id ="login-external" class="hidden">
+                                    <div class="alert alert-danger hidden" role="alert"></div>
+                                    <a style="background:#3b5998;display:block;color:white;" class="btn btn-outline-secondary my-2" href="/auth/facebook-athlete-login">
+                                        <i class="fab fa-facebook-f login_icon" style="padding-right:7.5px;"></i>
+                                        <span class="login_app_name" style="margin-right:58px;">Log in with Facebook</span>
+                                    </a>
+                                    <a style="display:block;color:#d34836;" class="btn btn-outline-secondary my-2" href="/auth/google-athlete-login">
+                                        <i class="fab fa-google-plus-g login_icon"></i>
+                                        <span class="login_app_name" style="margin-right:56px;color:rgb(61,65,68);">Log in with Google</span>
+                                    </a>
+                                    <div class="hr"><div class="hr-text">or</div></div>
+                                    <a class="btn btn-outline-secondary my-1" id="login-with-email" style="text-align:center;display:block;">Log in with Email</a>
+                                </div>                       
+                                <div id="login" class="">
+                                    <div class="alert alert-success hidden" id="firstLoginMessage" role="alert">欢迎回来！请使用您的注册邮箱和密码登录。.</div>
+                                    <div class="alert alert-danger hidden" id="login-error-msg" role="alert"></div>
+                                    <form id="log-in-form">
+                                        <div class="form-group">
+                                            <input class="form-control" type="text" name="email" placeholder="邮箱" value="">
+                                        </div>
+                                        <div class="form-group">
+                                            <input class="form-control" type="password" name="password" placeholder="密码">
+                                        </div>
+                                        <div class="form-group" id="loginFormForgot">
+                                            <a href="/users/forgot-chinese">忘记了您的密码？</a>
+                                            <a href="/users/resendConfirmation-chinese">需要确认邮件地址？</a>
+                                        </div>
+                                        <div class="form-group">
+                                            <button id="log-in-button" class="btn btn-lg btn-info btn-block" type="button">登录!</button>
+                                        </div>
+                                    </form>
+                                    <script type="text/javascript">
+                                        $("#log-in-form").on("click keypress", function(e){
+                                            if(e.type === "click" && e.target && e.target.id === "log-in-button" || e.type === "keypress" && e.keyCode === 13){
+                                                var loginBody = $("#log-in-form").serialize();
+                                                $.ajax({
+                                                    url: "/users/login-chinese",
+                                                    method: "POST",
+                                                    cache: false,
+                                                    data: loginBody
+                                                }).done(function(dat){
+                                                    if(dat.status == "success"){
+                                                        $("#login-error-msg").addClass("hidden");
+                                                        window.location.reload(true);                                                
+                                                    }
+                                                    else if(dat.status == "failure"){
+                                                        $("#login-error-msg").html(dat.msg);
+                                                        $("#login-error-msg").removeClass("hidden");
+                                                    }
+                                                })
+                                            }
+                                        })
+                                    </script>
+                                    <!-- <a class="btn btn-outline-secondary my-1" id="login-with-social" style="text-align: center;display: block;">Log in with a social account</a> -->
+                                </div>
+                                <div class="hr"><div class="hr-text">新用户？</div></div>
+                                <div style="display:flex;justify-content:space-between;">
+                                    <a class="btn btn-block btn-outline-secondary sign-up-content userRegistration" style="text-align:center;display:block;">在这里注册！</a>
+                                </div>
+                            </div>
+                            <script type="text/javascript">  
+                                $("#login-with-email").click(function(){
+                                    $("#login").toggleClass("hidden")
+                                    $("#login-external").toggleClass("hidden")
+                                })
+                                $("#login-with-social").click(function(){
+                                    $("#login").toggleClass("hidden")
+                                    $("#login-external").toggleClass("hidden")
+                                })
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        <script>
+            $(function () {
+                $('[data-toggle="popover"]').popover()
+            })
+        </script>
+        
+        <script>
+            $("body").on("click", ".postRequestButton", function(){
+                $(this).addClass("hidden");
+                $(this).next().removeClass("hidden")
+            })
+            $(".alert-general").delay(10000).slideUp(200, function() {
+                $(this).alert('close');
+            });
+            $("input").attr("autocomplete", "off");
+            function bsSelectValidation() {
+                if ($("#myForm").hasClass('was-validated')) {
+                    $(".selectpicker").each(function (i, el) {
+                    if ($(el).is(":invalid")) {
+                        $(el).closest(".form-group").find(".valid-feedback").removeClass("d-block");
+                        $(el).closest(".form-group").find(".invalid-feedback").addClass("d-block");
+                    }
+                    else {
+                        $(el).closest(".form-group").find(".invalid-feedback").removeClass("d-block");
+                        $(el).closest(".form-group").find(".valid-feedback").addClass("d-block");
+                    }
+                    });
+                }
+            }
+            function removeInitialSpace(str){
+                while(str[0] === " "){
+                    str = str.substring(1, str.length);
+                }
+                return str;
+            }
+            
+                $("body").on("click", ".userRegistration", function(){
+                    $(".modal").modal("hide");
+                    $("#registerModal").modal("show");
+                })
+            
+            var seed = 1;
+            function random() {
+                var x = Math.sin(seed++) * 10000;
+                return x - Math.floor(x);
+            }
+            function shuffleArray(array) {
+                for (var i = array.length - 1; i > 0; i--) {
+                    var j = Math.floor(random() * (i + 1));
+                    var temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
+                }
+            }
+            $("body").on("click", ".show-answer-string", function(){
+                if($(this).html().includes("显示答案")){
+                    $(".answer-string").removeClass("hidden")
+                    $(this).html(`<button class="btn btn-sm btn-secondary mb-2">隐藏答案</button>`)
+                }
+                else{
+                    $(".answer-string").addClass("hidden")
+                    $(this).html(`<button class="btn btn-sm btn-secondary mb-2">显示答案</button>`)
+                }
+            })
+        </script>
+        
+        
+    </body>
+</html>
