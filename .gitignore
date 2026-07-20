@@ -1,3 +1,50 @@
+# OS generated files
 .DS_Store
-.idea
-Data/__pycache__
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs & Temp
+*.log
+tmp/

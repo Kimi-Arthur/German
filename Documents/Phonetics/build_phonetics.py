@@ -17,10 +17,10 @@ os.makedirs(AUDIO_DIR, exist_ok=True)
 os.makedirs(IMG_DIR, exist_ok=True)
 
 URLS = [
-    ("01_德语字母表", "模块01 - 第01讲 - 德语字母表", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653134238d21efc1dc331e/5f653134238d21efc1dc331d"),
-    ("02_德语发音规则（一）", "模块01 - 第02讲 - 德语发音规则（一）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653474238d21efc1dc3320/5f653474238d21efc1dc331f"),
-    ("03_德语发音规则（二）", "模块01 - 第03讲 - 德语发音规则（二）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653b57dd0f7d0b86fcec26/5f653b57dd0f7d0b86fcec25"),
-    ("04_德语发音规则（三）", "模块01 - 第04讲 - 德语发音规则（三）", "https://sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653c48dd0f7d0b86fcec28/5f653c48dd0f7d0b86fcec27")
+    ("01_德语字母表", "模块01 - 第01讲 - 德语字母表", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653134238d21efc1dc331e/5f653134238d21efc1dc331d", "https://www.bilibili.com/video/BV1Ly4y1E79o"),
+    ("02_德语发音规则（一）", "模块01 - 第02讲 - 德语发音规则（一）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653474238d21efc1dc3320/5f653474238d21efc1dc331f", "https://www.bilibili.com/video/BV1R5411A76Y"),
+    ("03_德语发音规则（二）", "模块01 - 第03讲 - 德语发音规则（二）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653b57dd0f7d0b86fcec26/5f653b57dd0f7d0b86fcec25", "https://www.bilibili.com/video/BV1ny4y187Mb"),
+    ("04_德语发音规则（三）", "模块01 - 第04讲 - 德语发音规则（三）", "https://sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653c48dd0f7d0b86fcec28/5f653c48dd0f7d0b86fcec27", "https://www.bilibili.com/video/BV1ry4y177qy")
 ]
 
 url_to_local_audio = {}
@@ -279,14 +279,26 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             border-radius: 12px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
         }}
-        .nav-back {{
-            display: inline-block;
+        .header-nav {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             margin-bottom: 20px;
+        }}
+        .nav-back {{
             color: #0d6efd;
             text-decoration: none;
             font-weight: 500;
         }}
         .nav-back:hover {{
+            text-decoration: underline;
+        }}
+        .video-link {{
+            color: #0d6efd;
+            text-decoration: none;
+            font-weight: 500;
+        }}
+        .video-link:hover {{
             text-decoration: underline;
         }}
         h1, h2, h3, h4, h5 {{
@@ -335,7 +347,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
     <div class="container">
-        <a class="nav-back" href="index.html">← 返回目录</a>
+        <div class="header-nav">
+            <a class="nav-back" href="index.html">← 返回目录</a>
+            <a class="video-link" href="{video_url}" target="_blank">📺 观看教学视频 (Bilibili)</a>
+        </div>
         {content}
     </div>
 </body>
@@ -347,7 +362,7 @@ def clean_html_comments(html):
 
 parsed_pages = []
 
-for fname_prefix, title, url in URLS:
+for fname_prefix, title, url, video_url in URLS:
     print(f"Fetching {title}...")
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     raw_html = urllib.request.urlopen(req, context=ctx).read().decode('utf-8')
@@ -359,6 +374,8 @@ for fname_prefix, title, url in URLS:
         
     raw_content = clean_html_comments(match.group(1))
     raw_content = re.sub(r'<a id=\"last-page\".*?</a>', '', raw_content, flags=re.DOTALL)
+    raw_content = re.sub(r'<div style="text-align: center; max-width: 400px;.*?</div>', '', raw_content, flags=re.DOTALL)
+    raw_content = re.sub(r'<button.*?</button>', '', raw_content, flags=re.DOTALL)
     
     parser = HTMLTreeParser()
     parser.feed(raw_content)
@@ -378,7 +395,7 @@ for fname_prefix, title, url in URLS:
                 precollect(c)
     precollect(parser.root)
     
-    parsed_pages.append((fname_prefix, title, parser.root))
+    parsed_pages.append((fname_prefix, title, parser.root, video_url))
 
 print(f"\nCollected {len(url_to_local_audio)} unique audio URLs and {len(url_to_local_img)} image URLs.")
 print("Starting concurrent downloading of audio and image files...")
@@ -389,12 +406,12 @@ with ThreadPoolExecutor(max_workers=16) as executor:
 
 print("All audio and image downloads finished!")
 
-for fname_prefix, title, root in parsed_pages:
+for fname_prefix, title, root, video_url in parsed_pages:
     print(f"Generating HTML & MD for {title}...")
     
     # Generate Offline HTML
     processed_html_content = node_to_html(root)
-    full_html = HTML_TEMPLATE.format(title=title, content=processed_html_content)
+    full_html = HTML_TEMPLATE.format(title=title, content=processed_html_content, video_url=video_url)
     
     html_path = os.path.join(BASE_DIR, f"{fname_prefix}.html")
     with open(html_path, 'w', encoding='utf-8') as f:
@@ -402,11 +419,15 @@ for fname_prefix, title, root in parsed_pages:
     
     # Generate Offline Markdown
     md_content = node_to_md(root)
+    md_content = re.sub(r'观看教学视频\s*打印模式\s*报错或提问\s*显示本课记忆卡片', '', md_content)
+    md_content = re.sub(r'^\s*#\s*' + re.escape(title) + r'\s*', '', md_content).strip()
+    while md_content.startswith('---'):
+        md_content = md_content[3:].strip()
     md_content = re.sub(r'\n{3,}', '\n\n', md_content).strip()
     
     md_path = os.path.join(BASE_DIR, f"{fname_prefix}.md")
     with open(md_path, 'w', encoding='utf-8') as f:
-        f.write(f"# {title}\n\n[← 返回 README 目录](README.md)\n\n" + md_content + "\n")
+        f.write(f"# {title}\n\n[← 返回 README 目录](README.md) | [📺 观看教学视频 (Bilibili)]({video_url})\n\n---\n\n" + md_content + "\n")
 
 # Create Index HTML
 INDEX_HTML = """<!DOCTYPE html>
@@ -458,28 +479,17 @@ INDEX_HTML = """<!DOCTYPE html>
             font-weight: 600;
             color: #212529;
         }
-        .btn-group a {
-            display: inline-block;
-            padding: 6px 14px;
-            border-radius: 6px;
+        .plain-links a {
+            color: #0d6efd;
             text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            margin-left: 8px;
+            font-size: 0.95rem;
         }
-        .btn-html {
-            background-color: #0d6efd;
-            color: white;
+        .plain-links a:hover {
+            text-decoration: underline;
         }
-        .btn-html:hover {
-            background-color: #0b5ed7;
-        }
-        .btn-md {
-            background-color: #6c757d;
-            color: white;
-        }
-        .btn-md:hover {
-            background-color: #5c636a;
+        .plain-links span.sep {
+            color: #dee2e6;
+            margin: 0 8px;
         }
     </style>
 </head>
@@ -490,33 +500,45 @@ INDEX_HTML = """<!DOCTYPE html>
         
         <div class="lecture-card">
             <div class="lecture-title">第01讲 - 德语字母表</div>
-            <div class="btn-group">
-                <a class="btn-html" href="01_德语字母表.html">HTML 版本</a>
-                <a class="btn-md" href="01_德语字母表.md">Markdown 版本</a>
+            <div class="plain-links">
+                <a href="01_德语字母表.html">HTML 版本</a>
+                <span class="sep">|</span>
+                <a href="01_德语字母表.md">Markdown 版本</a>
+                <span class="sep">|</span>
+                <a href="https://www.bilibili.com/video/BV1Ly4y1E79o" target="_blank">视频教程</a>
             </div>
         </div>
         
         <div class="lecture-card">
             <div class="lecture-title">第02讲 - 单元音与发音规则</div>
-            <div class="btn-group">
-                <a class="btn-html" href="02_德语发音规则（一）.html">HTML 版本</a>
-                <a class="btn-md" href="02_德语发音规则（一）.md">Markdown 版本</a>
+            <div class="plain-links">
+                <a href="02_德语发音规则（一）.html">HTML 版本</a>
+                <span class="sep">|</span>
+                <a href="02_德语发音规则（一）.md">Markdown 版本</a>
+                <span class="sep">|</span>
+                <a href="https://www.bilibili.com/video/BV1R5411A76Y" target="_blank">视频教程</a>
             </div>
         </div>
         
         <div class="lecture-card">
             <div class="lecture-title">第03讲 - 复合元音与发音规则</div>
-            <div class="btn-group">
-                <a class="btn-html" href="03_德语发音规则（二）.html">HTML 版本</a>
-                <a class="btn-md" href="03_德语发音规则（二）.md">Markdown 版本</a>
+            <div class="plain-links">
+                <a href="03_德语发音规则（二）.html">HTML 版本</a>
+                <span class="sep">|</span>
+                <a href="03_德语发音规则（二）.md">Markdown 版本</a>
+                <span class="sep">|</span>
+                <a href="https://www.bilibili.com/video/BV1ny4y187Mb" target="_blank">视频教程</a>
             </div>
         </div>
         
         <div class="lecture-card">
             <div class="lecture-title">第04讲 - 辅音与发音规则</div>
-            <div class="btn-group">
-                <a class="btn-html" href="04_德语发音规则（三）.html">HTML 版本</a>
-                <a class="btn-md" href="04_德语发音规则（三）.md">Markdown 版本</a>
+            <div class="plain-links">
+                <a href="04_德语发音规则（三）.html">HTML 版本</a>
+                <span class="sep">|</span>
+                <a href="04_德语发音规则（三）.md">Markdown 版本</a>
+                <span class="sep">|</span>
+                <a href="https://www.bilibili.com/video/BV1ry4y177qy" target="_blank">视频教程</a>
             </div>
         </div>
     </div>
@@ -533,10 +555,10 @@ README_MD = """# 🇩🇪 德语发音离线教程 (German Phonetics)
 
 ## 📂 课程目录
 
-1. **[第01讲 - 德语字母表](01_德语字母表.md)** ([HTML 版本](01_德语字母表.html))
-2. **[第02讲 - 单元音与发音规则](02_德语发音规则（一）.md)** ([HTML 版本](02_德语发音规则（一）.html))
-3. **[第03讲 - 复合元音与发音规则](03_德语发音规则（二）.md)** ([HTML 版本](03_德语发音规则（二）.html))
-4. **[第04讲 - 辅音与发音规则](04_德语发音规则（三）.md)** ([HTML 版本](04_德语发音规则（三）.html))
+1. **[第01讲 - 德语字母表](01_德语字母表.md)** ([HTML 版本](01_德语字母表.html) | [视频教程](https://www.bilibili.com/video/BV1Ly4y1E79o))
+2. **[第02讲 - 单元音与发音规则](02_德语发音规则（一）.md)** ([HTML 版本](02_德语发音规则（一）.html) | [视频教程](https://www.bilibili.com/video/BV1R5411A76Y))
+3. **[第03讲 - 复合元音与发音规则](03_德语发音规则（二）.md)** ([HTML 版本](03_德语发音规则（二）.html) | [视频教程](https://www.bilibili.com/video/BV1ny4y187Mb))
+4. **[第04讲 - 辅音与发音规则](04_德语发音规则（三）.md)** ([HTML 版本](04_德语发音规则（三）.html) | [视频教程](https://www.bilibili.com/video/BV1ry4y177qy))
 
 ---
 

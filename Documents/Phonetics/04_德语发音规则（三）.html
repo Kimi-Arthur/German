@@ -21,14 +21,26 @@
             border-radius: 12px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
         }
-        .nav-back {
-            display: inline-block;
+        .header-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             margin-bottom: 20px;
+        }
+        .nav-back {
             color: #0d6efd;
             text-decoration: none;
             font-weight: 500;
         }
         .nav-back:hover {
+            text-decoration: underline;
+        }
+        .video-link {
+            color: #0d6efd;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .video-link:hover {
             text-decoration: underline;
         }
         h1, h2, h3, h4, h5 {
@@ -77,7 +89,10 @@
 </head>
 <body>
     <div class="container">
-        <a class="nav-back" href="index.html">← 返回目录</a>
+        <div class="header-nav">
+            <a class="nav-back" href="index.html">← 返回目录</a>
+            <a class="video-link" href="https://www.bilibili.com/video/BV1ry4y177qy" target="_blank">📺 观看教学视频 (Bilibili)</a>
+        </div>
         
     <div class="mt-4 mb-2">
         
@@ -87,17 +102,7 @@
         </div>
     </div>
     
-    <div style="text-align: center; max-width: 400px; margin: auto; margin-top: 15px;margin-bottom: 30px;">
-        
-        <a href="https://www.bilibili.com/video/BV1ry4y177qy" target="_blank">
-            <button class="btn btn-sm btn-secondary">观看教学视频</button>
-        </a>
-        <button class="btn btn-secondary btn-sm" onclick="javascript:$('.navbar').addClass('hidden');$('.fixed-right').addClass('hidden');$('.fixed').addClass('hidden');$('#footer').addClass('hidden');$('button').addClass('hidden');$('p').addClass('hidden');$('#question-div').removeClass('hidden');$('#last-page').addClass('hidden');$('.save-question').addClass('hidden');$('.play-audio').addClass('hidden');$('#review-notification').addClass('hidden');$('body').css('padding', '30px');$('li').css('margin-top', '30px')">打印模式</button>
-        <span><button class="btn btn-sm btn-secondary report-lecture-error" id="5f653c48dd0f7d0b86fcec27_report">报错或提问</button></span>
-            
-                <span style="margin-left:5px;"><a href="/courses/manage-flashcards/5f653c48dd0f7d0b86fcec28" target="_blank"><button class="btn btn-sm btn-secondary mt-2">显示本课记忆卡片</button></a></span>
-            
-    </div>
+    
     <hr/>
     <p>点击<img class="play-audio" style="width: 30px;display: inline-block;;cursor:pointer;" src="img/speaker-jpg.png" alt=""/>以播放单词的标准发音。请不要纠结于单词的意思，掌握发音即可。</p>
     <h5 style="text-align: center">[ʃ] - [s] 
