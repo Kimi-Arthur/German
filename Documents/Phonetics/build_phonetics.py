@@ -198,6 +198,11 @@ def table_to_md(table_node):
         for cell in cells:
             txt = node_to_md_cell(cell).strip()
             txt = re.sub(r'\s+', ' ', txt)
+            # List one example per line in markdown table cells
+            if '<audio' in txt:
+                txt = re.sub(r'\s*,\s*', '<br>', txt)
+                txt = re.sub(r'</audio>\s+', '</audio><br>', txt)
+                txt = re.sub(r'(?:<br>)+', '<br>', txt).rstrip('<br>').strip()
             txt = txt.replace('|', '\\|')
             cell_texts.append(txt)
         
