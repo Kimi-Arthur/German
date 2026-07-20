@@ -165,7 +165,7 @@ def node_to_md_cell(node):
             audio_src = node.attrs.get('src', '')
         if audio_src:
             rel_audio = get_audio_relpath(audio_src)
-            return f' <audio controls src="{rel_audio}" style="height:24px;width:110px;vertical-align:middle;"></audio> [🔊]({rel_audio}) '
+            return f' <audio controls src="{rel_audio}" style="height:24px;width:110px;vertical-align:middle;"></audio> '
         return ""
     
     if tag in ('img', 'script', 'style', 'source'):
@@ -518,7 +518,7 @@ merged_md = f"""# 🇩🇪 德语发音教程 (German Phonetics)
 ## 🎵 音频与素材
 - 所有语音音频文件均已安全存放在 [`audios/`](audios/) 目录下。
 - 图像与喇叭图标存放在 [`img/`](img/) 目录下。
-- 支持在 Markdown 编辑器（如 Obsidian、Typora、VS Code Preview）中直接点击音频播放器 `🔊` 播放发音。
+- 支持在 Markdown 编辑器（如 Obsidian、Typora、VS Code Preview）中直接播放音频。
 """
 
 with open(os.path.join(BASE_DIR, "README.md"), 'w', encoding='utf-8') as f:
