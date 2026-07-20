@@ -216,7 +216,6 @@ def split_cell_text_and_audio(cell_node):
     walk(cell_node)
     
     text_result = "<br>".join(texts)
-    text_result = re.sub(r'(?:<br>)+', '<br>', text_result).strip()
     text_result = text_result.replace('|', '\\|')
     
     audio_result = "<br>".join(audios)
@@ -550,8 +549,8 @@ for idx, fname_prefix, title, root, video_url in parsed_pages:
     sections_html.append(sec_html)
 
     # Markdown Section
-    sec_anchor = f"lecture-{idx}"
-    toc_md_items.append(f"{idx}. **[{title}](#{sec_anchor})** ([📺 视频教程]({video_url}))")
+    sec_slug = title.replace(' ', '-').replace('（', '').replace('）', '').lower()
+    toc_md_items.append(f"{idx}. **[{title}](#{sec_slug})** ([📺 视频教程]({video_url}))")
     
     md_body = node_to_md(root)
     md_body = re.sub(r'观看教学视频\s*打印模式\s*报错或提问\s*显示本课记忆卡片', '', md_body)
@@ -561,7 +560,7 @@ for idx, fname_prefix, title, root, video_url in parsed_pages:
         md_body = md_body[3:].strip()
     md_body = re.sub(r'\n{3,}', '\n\n', md_body).strip()
     
-    sec_md = f'<a id="{sec_anchor}"></a>\n\n## {title}\n\n[📺 观看教学视频 (Bilibili)]({video_url})\n\n' + md_body
+    sec_md = f"## {title}\n\n[📺 观看教学视频 (Bilibili)]({video_url})\n\n" + md_body
     sections_md.append(sec_md)
 
 merged_html = HTML_TEMPLATE.format(

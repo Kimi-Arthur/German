@@ -4,14 +4,12 @@
 
 ## 📂 课程目录导航
 
-1. **[第01讲 - 德语字母表](#lecture-1)** ([📺 视频教程](https://www.bilibili.com/video/BV1Ly4y1E79o))
-2. **[第02讲 - 单元音与发音规则](#lecture-2)** ([📺 视频教程](https://www.bilibili.com/video/BV1R5411A76Y))
-3. **[第03讲 - 复合元音与发音规则](#lecture-3)** ([📺 视频教程](https://www.bilibili.com/video/BV1ny4y187Mb))
-4. **[第04讲 - 辅音与发音规则](#lecture-4)** ([📺 视频教程](https://www.bilibili.com/video/BV1ry4y177qy))
+1. **[第01讲 - 德语字母表](#第01讲---德语字母表)** ([📺 视频教程](https://www.bilibili.com/video/BV1Ly4y1E79o))
+2. **[第02讲 - 单元音与发音规则](#第02讲---单元音与发音规则)** ([📺 视频教程](https://www.bilibili.com/video/BV1R5411A76Y))
+3. **[第03讲 - 复合元音与发音规则](#第03讲---复合元音与发音规则)** ([📺 视频教程](https://www.bilibili.com/video/BV1ny4y187Mb))
+4. **[第04讲 - 辅音与发音规则](#第04讲---辅音与发音规则)** ([📺 视频教程](https://www.bilibili.com/video/BV1ry4y177qy))
 
 ---
-
-<a id="lecture-1"></a>
 
 ## 第01讲 - 德语字母表
 
@@ -38,8 +36,6 @@
 | O, o | [o:] | <audio controls src="audios/0b12c8_o.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> | ß | [ɛs-tsɛt] | <audio controls src="audios/67466b_ß.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 ---
-
-<a id="lecture-2"></a>
 
 ## 第02讲 - 单元音与发音规则
 
@@ -254,8 +250,6 @@
 
 ---
 
-<a id="lecture-3"></a>
-
 ## 第03讲 - 复合元音与发音规则
 
 [📺 观看教学视频 (Bilibili)](https://www.bilibili.com/video/BV1ny4y187Mb)
@@ -463,8 +457,6 @@
 | Fach -- Fächer | <audio controls src="audios/e73160_Fach-Fächer.mp3" style="height:24px;width:110px;vertical-align:middle;"></audio> |
 
 ---
-
-<a id="lecture-4"></a>
 
 ## 第04讲 - 辅音与发音规则
 
