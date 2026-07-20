@@ -17,10 +17,10 @@ os.makedirs(AUDIO_DIR, exist_ok=True)
 os.makedirs(IMG_DIR, exist_ok=True)
 
 URLS = [
-    ("01_德语字母表", "模块01 - 第01讲 - 德语字母表", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653134238d21efc1dc331e/5f653134238d21efc1dc331d", "https://www.bilibili.com/video/BV1Ly4y1E79o"),
-    ("02_德语发音规则（一）", "模块01 - 第02讲 - 德语发音规则（一）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653474238d21efc1dc3320/5f653474238d21efc1dc331f", "https://www.bilibili.com/video/BV1R5411A76Y"),
-    ("03_德语发音规则（二）", "模块01 - 第03讲 - 德语发音规则（二）", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653b57dd0f7d0b86fcec26/5f653b57dd0f7d0b86fcec25", "https://www.bilibili.com/video/BV1ny4y187Mb"),
-    ("04_德语发音规则（三）", "模块01 - 第04讲 - 德语发音规则（三）", "https://sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653c48dd0f7d0b86fcec28/5f653c48dd0f7d0b86fcec27", "https://www.bilibili.com/video/BV1ry4y177qy")
+    ("01_德语字母表", "第01讲 - 德语字母表", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653134238d21efc1dc331e/5f653134238d21efc1dc331d", "https://www.bilibili.com/video/BV1Ly4y1E79o"),
+    ("02_德语发音规则（一）", "第02讲 - 单元音与发音规则", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653474238d21efc1dc3320/5f653474238d21efc1dc331f", "https://www.bilibili.com/video/BV1R5411A76Y"),
+    ("03_德语发音规则（二）", "第03讲 - 复合元音与发音规则", "https://www.sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653b57dd0f7d0b86fcec26/5f653b57dd0f7d0b86fcec25", "https://www.bilibili.com/video/BV1ny4y187Mb"),
+    ("04_德语发音规则（三）", "第04讲 - 辅音与发音规则", "https://sharplingo.cn/courses/show-lecture/5f4910f3c5ff5bb665f03780/5f653c48dd0f7d0b86fcec28/5f653c48dd0f7d0b86fcec27", "https://www.bilibili.com/video/BV1ry4y177qy")
 ]
 
 url_to_local_audio = {}
@@ -125,16 +125,13 @@ def node_to_html(node):
     if tag == 'root':
         return "".join(node_to_html(c) for c in node.children)
     
-    # Create shallow copy of attrs
     attrs = dict(node.attrs)
     
-    # Process audio source
     if tag == 'source':
         src = attrs.get('src', '')
         if src:
             attrs['src'] = get_audio_relpath(src)
     
-    # Process img src
     if tag == 'img':
         src = attrs.get('src', '')
         if src:
@@ -154,7 +151,6 @@ def node_to_html(node):
     return f"<{tag}{attrs_str}>{inner}</{tag}>"
 
 def node_to_md_cell(node):
-    """Convert a table cell node (th/td) or header node to Markdown cell content."""
     if isinstance(node, str):
         return node.replace('\n', ' ').strip()
     
@@ -229,14 +225,14 @@ def node_to_md(node):
     
     if tag in ('h1', 'h2'):
         text = "".join(node_to_md(c) for c in node.children).strip()
-        return f"\n# {text}\n\n"
+        return f"\n## {text}\n\n"
     if tag == 'h3':
         text = "".join(node_to_md(c) for c in node.children).strip()
-        return f"\n## {text}\n\n"
+        return f"\n### {text}\n\n"
     if tag in ('h4', 'h5', 'h6'):
         text = node_to_md_cell(node).strip()
         text = re.sub(r'\s+', ' ', text)
-        return f"\n### {text}\n\n"
+        return f"\n#### {text}\n\n"
     if tag == 'p':
         text = node_to_md_cell(node).strip()
         text = re.sub(r'\s+', ' ', text)
@@ -256,12 +252,60 @@ def node_to_md(node):
     
     return "".join(node_to_md(c) for c in node.children)
 
+def clean_html_comments(html):
+    return re.sub(r'<!--.*?-->', '', html, flags=re.DOTALL)
+
+parsed_pages = []
+
+for idx, (fname_prefix, title, url, video_url) in enumerate(URLS, 1):
+    print(f"Fetching {title}...")
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    raw_html = urllib.request.urlopen(req, context=ctx).read().decode('utf-8')
+    
+    match = re.search(r'<div class=\"module-info-div\">(.*?)</div>\s*<footer', raw_html, re.DOTALL)
+    if not match:
+        print(f"  FAILED to find module-info-div for {title}")
+        continue
+        
+    raw_content = clean_html_comments(match.group(1))
+    raw_content = re.sub(r'<a id=\"last-page\".*?</a>', '', raw_content, flags=re.DOTALL)
+    raw_content = re.sub(r'<div style="text-align: center; max-width: 400px;.*?</div>', '', raw_content, flags=re.DOTALL)
+    raw_content = re.sub(r'<button.*?</button>', '', raw_content, flags=re.DOTALL)
+    
+    parser = HTMLTreeParser()
+    parser.feed(raw_content)
+    
+    def precollect(node):
+        if isinstance(node, Node):
+            if node.tag == 'source':
+                src = node.attrs.get('src', '')
+                if src:
+                    get_audio_relpath(src)
+            elif node.tag == 'img':
+                src = node.attrs.get('src', '')
+                if src:
+                    get_img_relpath(src)
+            for c in node.children:
+                precollect(c)
+    precollect(parser.root)
+    
+    parsed_pages.append((idx, fname_prefix, title, parser.root, video_url))
+
+print(f"\nCollected {len(url_to_local_audio)} unique audio URLs and {len(url_to_local_img)} image URLs.")
+print("Starting concurrent downloading of audio and image files...")
+
+with ThreadPoolExecutor(max_workers=16) as executor:
+    executor.map(download_single_audio, list(url_to_local_audio.keys()))
+    executor.map(download_single_img, list(url_to_local_img.keys()))
+
+print("All audio and image downloads finished!")
+
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{title}</title>
+    <title>德语发音教程 (German Phonetics)</title>
     <style>
         body {{
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -275,41 +319,89 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             max-width: 960px;
             margin: 0 auto;
             background: #ffffff;
-            padding: 30px;
+            padding: 35px;
             border-radius: 12px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
         }}
-        .header-nav {{
+        h1 {{
+            color: #1a2530;
+            text-align: center;
+            margin-bottom: 6px;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 12px;
+        }}
+        p.subtitle {{
+            text-align: center;
+            color: #6c757d;
+            margin-bottom: 30px;
+            font-size: 1.05rem;
+        }}
+        .toc-box {{
+            background-color: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 20px 24px;
+            margin-bottom: 35px;
+        }}
+        .toc-title {{
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            color: #1a2530;
+        }}
+        .toc-list {{
+            list-style: none;
+            padding-left: 0;
+            margin: 0;
+        }}
+        .toc-list li {{
+            margin-bottom: 10px;
             display: flex;
             justify-content: space-between;
             align-items: center;
+        }}
+        .toc-list li a {{
+            color: #0d6efd;
+            text-decoration: none;
+            font-weight: 500;
+        }}
+        .toc-list li a:hover {{
+            text-decoration: underline;
+        }}
+        .toc-video-link {{
+            color: #0d6efd;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }}
+        .toc-video-link:hover {{
+            text-decoration: underline;
+        }}
+        .lecture-section {{
+            margin-bottom: 40px;
+            padding-top: 10px;
+        }}
+        .lecture-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #0d6efd;
+            padding-bottom: 8px;
+            margin-top: 30px;
             margin-bottom: 20px;
         }}
-        .nav-back {{
-            color: #0d6efd;
-            text-decoration: none;
-            font-weight: 500;
-        }}
-        .nav-back:hover {{
-            text-decoration: underline;
-        }}
-        .video-link {{
-            color: #0d6efd;
-            text-decoration: none;
-            font-weight: 500;
-        }}
-        .video-link:hover {{
-            text-decoration: underline;
-        }}
-        h1, h2, h3, h4, h5 {{
+        .lecture-header h2 {{
+            margin: 0;
             color: #1a2530;
-            margin-top: 1.5em;
-            margin-bottom: 0.8em;
+            font-size: 1.5rem;
         }}
-        h1 {{
-            text-align: center;
-            border-bottom: 2px solid #e9ecef;
-            padding-bottom: 12px;
+        .lecture-header .video-link {{
+            color: #0d6efd;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.95rem;
+        }}
+        .lecture-header .video-link:hover {{
+            text-decoration: underline;
         }}
         table {{
             width: 100%;
@@ -337,238 +429,111 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         .play-audio:hover {{
             transform: scale(1.15);
         }}
-        hr {{
+        hr.section-divider {{
             border: 0;
             height: 1px;
             background: #dee2e6;
-            margin: 30px 0;
+            margin: 40px 0;
         }}
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header-nav">
-            <a class="nav-back" href="index.html">← 返回目录</a>
-            <a class="video-link" href="{video_url}" target="_blank">📺 观看教学视频 (Bilibili)</a>
+        <h1>🇩🇪 德语发音教程</h1>
+        <p class="subtitle">Documents/Phonetics 学习课程与标准发音音频</p>
+        
+        <div class="toc-box">
+            <div class="toc-title">📂 课程目录</div>
+            <ul class="toc-list">
+                {toc_items}
+            </ul>
         </div>
+        
         {content}
     </div>
 </body>
 </html>
 """
 
-def clean_html_comments(html):
-    return re.sub(r'<!--.*?-->', '', html, flags=re.DOTALL)
+toc_html_items = []
+sections_html = []
+toc_md_items = []
+sections_md = []
 
-parsed_pages = []
-
-for fname_prefix, title, url, video_url in URLS:
-    print(f"Fetching {title}...")
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    raw_html = urllib.request.urlopen(req, context=ctx).read().decode('utf-8')
+for idx, fname_prefix, title, root, video_url in parsed_pages:
+    sec_id = f"lecture-{idx}"
+    toc_html_items.append(
+        f'<li><a href="#{sec_id}">{title}</a> <a class="toc-video-link" href="{video_url}" target="_blank">📺 视频教程</a></li>'
+    )
     
-    match = re.search(r'<div class=\"module-info-div\">(.*?)</div>\s*<footer', raw_html, re.DOTALL)
-    if not match:
-        print(f"  FAILED to find module-info-div for {title}")
-        continue
-        
-    raw_content = clean_html_comments(match.group(1))
-    raw_content = re.sub(r'<a id=\"last-page\".*?</a>', '', raw_content, flags=re.DOTALL)
-    raw_content = re.sub(r'<div style="text-align: center; max-width: 400px;.*?</div>', '', raw_content, flags=re.DOTALL)
-    raw_content = re.sub(r'<button.*?</button>', '', raw_content, flags=re.DOTALL)
+    html_body = node_to_html(root)
+    html_body = re.sub(r'<h[12][^>]*>.*?</h[12]>', '', html_body, count=1, flags=re.DOTALL)
     
-    parser = HTMLTreeParser()
-    parser.feed(raw_content)
-    
-    # Pre-collect audio and image URLs to populate mapping
-    def precollect(node):
-        if isinstance(node, Node):
-            if node.tag == 'source':
-                src = node.attrs.get('src', '')
-                if src:
-                    get_audio_relpath(src)
-            elif node.tag == 'img':
-                src = node.attrs.get('src', '')
-                if src:
-                    get_img_relpath(src)
-            for c in node.children:
-                precollect(c)
-    precollect(parser.root)
-    
-    parsed_pages.append((fname_prefix, title, parser.root, video_url))
-
-print(f"\nCollected {len(url_to_local_audio)} unique audio URLs and {len(url_to_local_img)} image URLs.")
-print("Starting concurrent downloading of audio and image files...")
-
-with ThreadPoolExecutor(max_workers=16) as executor:
-    executor.map(download_single_audio, list(url_to_local_audio.keys()))
-    executor.map(download_single_img, list(url_to_local_img.keys()))
-
-print("All audio and image downloads finished!")
-
-for fname_prefix, title, root, video_url in parsed_pages:
-    print(f"Generating HTML & MD for {title}...")
-    
-    # Generate Offline HTML
-    processed_html_content = node_to_html(root)
-    full_html = HTML_TEMPLATE.format(title=title, content=processed_html_content, video_url=video_url)
-    
-    html_path = os.path.join(BASE_DIR, f"{fname_prefix}.html")
-    with open(html_path, 'w', encoding='utf-8') as f:
-        f.write(full_html)
-    
-    # Generate Offline Markdown
-    md_content = node_to_md(root)
-    md_content = re.sub(r'观看教学视频\s*打印模式\s*报错或提问\s*显示本课记忆卡片', '', md_content)
-    md_content = re.sub(r'^\s*#\s*' + re.escape(title) + r'\s*', '', md_content).strip()
-    while md_content.startswith('---'):
-        md_content = md_content[3:].strip()
-    md_content = re.sub(r'\n{3,}', '\n\n', md_content).strip()
-    
-    md_path = os.path.join(BASE_DIR, f"{fname_prefix}.md")
-    with open(md_path, 'w', encoding='utf-8') as f:
-        f.write(f"# {title}\n\n[← 返回 README 目录](README.md) | [📺 观看教学视频 (Bilibili)]({video_url})\n\n---\n\n" + md_content + "\n")
-
-# Create Index HTML
-INDEX_HTML = """<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>德语语音教程 (German Phonetics)</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: #f8f9fa;
-            margin: 0;
-            padding: 40px 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: white;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-        }
-        h1 {
-            color: #1a2530;
-            text-align: center;
-            margin-bottom: 8px;
-        }
-        p.subtitle {
-            text-align: center;
-            color: #6c757d;
-            margin-bottom: 30px;
-        }
-        .lecture-card {
-            border: 1px solid #e9ecef;
-            border-radius: 8px;
-            padding: 20px;
-            margin-bottom: 16px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            transition: box-shadow 0.2s ease;
-        }
-        .lecture-card:hover {
-            box-shadow: 0 4px 8px rgba(0,0,0,0.06);
-        }
-        .lecture-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: #212529;
-        }
-        .plain-links a {
-            color: #0d6efd;
-            text-decoration: none;
-            font-size: 0.95rem;
-        }
-        .plain-links a:hover {
-            text-decoration: underline;
-        }
-        .plain-links span.sep {
-            color: #dee2e6;
-            margin: 0 8px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🇩🇪 德语发音离线教程</h1>
-        <p class="subtitle">Documents/Phonetics 离线学习课程与标准发音音频</p>
-        
-        <div class="lecture-card">
-            <div class="lecture-title">第01讲 - 德语字母表</div>
-            <div class="plain-links">
-                <a href="01_德语字母表.html">HTML 版本</a>
-                <span class="sep">|</span>
-                <a href="01_德语字母表.md">Markdown 版本</a>
-                <span class="sep">|</span>
-                <a href="https://www.bilibili.com/video/BV1Ly4y1E79o" target="_blank">视频教程</a>
-            </div>
+    sec_html = f'''<section id="{sec_id}" class="lecture-section">
+        <div class="lecture-header">
+            <h2>{title}</h2>
+            <a class="video-link" href="{video_url}" target="_blank">📺 观看教学视频 (Bilibili)</a>
         </div>
-        
-        <div class="lecture-card">
-            <div class="lecture-title">第02讲 - 单元音与发音规则</div>
-            <div class="plain-links">
-                <a href="02_德语发音规则（一）.html">HTML 版本</a>
-                <span class="sep">|</span>
-                <a href="02_德语发音规则（一）.md">Markdown 版本</a>
-                <span class="sep">|</span>
-                <a href="https://www.bilibili.com/video/BV1R5411A76Y" target="_blank">视频教程</a>
-            </div>
-        </div>
-        
-        <div class="lecture-card">
-            <div class="lecture-title">第03讲 - 复合元音与发音规则</div>
-            <div class="plain-links">
-                <a href="03_德语发音规则（二）.html">HTML 版本</a>
-                <span class="sep">|</span>
-                <a href="03_德语发音规则（二）.md">Markdown 版本</a>
-                <span class="sep">|</span>
-                <a href="https://www.bilibili.com/video/BV1ny4y187Mb" target="_blank">视频教程</a>
-            </div>
-        </div>
-        
-        <div class="lecture-card">
-            <div class="lecture-title">第04讲 - 辅音与发音规则</div>
-            <div class="plain-links">
-                <a href="04_德语发音规则（三）.html">HTML 版本</a>
-                <span class="sep">|</span>
-                <a href="04_德语发音规则（三）.md">Markdown 版本</a>
-                <span class="sep">|</span>
-                <a href="https://www.bilibili.com/video/BV1ry4y177qy" target="_blank">视频教程</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
-"""
+        {html_body}
+    </section>'''
+    sections_html.append(sec_html)
+
+    # Markdown Section
+    sec_anchor = f"lecture-{idx}"
+    toc_md_items.append(f"{idx}. **[{title}](#{sec_anchor})** ([📺 视频教程]({video_url}))")
+    
+    md_body = node_to_md(root)
+    md_body = re.sub(r'观看教学视频\s*打印模式\s*报错或提问\s*显示本课记忆卡片', '', md_body)
+    md_body = re.sub(r'^\s*#+\s*模块\d+.*?\n+', '', md_body).strip()
+    md_body = re.sub(r'^\s*#+\s*' + re.escape(title) + r'\s*\n+', '', md_body).strip()
+    while md_body.startswith('---'):
+        md_body = md_body[3:].strip()
+    md_body = re.sub(r'\n{3,}', '\n\n', md_body).strip()
+    
+    sec_md = f'<a id="{sec_anchor}"></a>\n\n## {title}\n\n[📺 观看教学视频 (Bilibili)]({video_url})\n\n' + md_body
+    sections_md.append(sec_md)
+
+merged_html = HTML_TEMPLATE.format(
+    toc_items="\n".join(toc_html_items),
+    content="\n<hr class=\"section-divider\"/>\n".join(sections_html)
+)
 
 with open(os.path.join(BASE_DIR, "index.html"), 'w', encoding='utf-8') as f:
-    f.write(INDEX_HTML)
+    f.write(merged_html)
 
-README_MD = """# 🇩🇪 德语发音离线教程 (German Phonetics)
+merged_md = f"""# 🇩🇪 德语发音教程 (German Phonetics)
 
-本教程整理自 SharpLingo 德语发音课程，已完全离线化保存，包含全部讲解内容及配套的本地音频文件。
+本教程整理自 SharpLingo 德语发音课程，包含全部讲解内容及配套音频文件。
 
-## 📂 课程目录
+## 📂 课程目录导航
 
-1. **[第01讲 - 德语字母表](01_德语字母表.md)** ([HTML 版本](01_德语字母表.html) | [视频教程](https://www.bilibili.com/video/BV1Ly4y1E79o))
-2. **[第02讲 - 单元音与发音规则](02_德语发音规则（一）.md)** ([HTML 版本](02_德语发音规则（一）.html) | [视频教程](https://www.bilibili.com/video/BV1R5411A76Y))
-3. **[第03讲 - 复合元音与发音规则](03_德语发音规则（二）.md)** ([HTML 版本](03_德语发音规则（二）.html) | [视频教程](https://www.bilibili.com/video/BV1ny4y187Mb))
-4. **[第04讲 - 辅音与发音规则](04_德语发音规则（三）.md)** ([HTML 版本](04_德语发音规则（三）.html) | [视频教程](https://www.bilibili.com/video/BV1ry4y177qy))
+{"\n".join(toc_md_items)}
+
+---
+
+""" + "\n\n---\n\n".join(sections_md) + """
 
 ---
 
 ## 🎵 音频与素材
 - 所有语音音频文件均已安全存放在 [`audios/`](audios/) 目录下。
 - 图像与喇叭图标存放在 [`img/`](img/) 目录下。
-- 支持在 Markdown 编辑器（如 Obsidian、Typora、VS Code Preview）中直接点击音频播放器 `🔊` 播放离线发音。
+- 支持在 Markdown 编辑器（如 Obsidian、Typora、VS Code Preview）中直接点击音频播放器 `🔊` 播放发音。
 """
 
 with open(os.path.join(BASE_DIR, "README.md"), 'w', encoding='utf-8') as f:
-    f.write(README_MD)
+    f.write(merged_md)
+
+# Clean up old separate files
+old_files = [
+    "01_德语字母表.html", "01_德语字母表.md",
+    "02_德语发音规则（一）.html", "02_德语发音规则（一）.md",
+    "03_德语发音规则（二）.html", "03_德语发音规则（二）.md",
+    "04_德语发音规则（三）.html", "04_德语发音规则（三）.md"
+]
+for old_f in old_files:
+    old_path = os.path.join(BASE_DIR, old_f)
+    if os.path.exists(old_path):
+        os.remove(old_path)
 
 print("All tasks completed successfully!")
